@@ -88,6 +88,7 @@
     "division_id": "ocd-division/country:us/state:al"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-19T03:04:52Z"
+    "logs_latest_update": "2026-08-19T03:04:52Z",
+    "text_extraction_latest_update": "2026-08-19T05:16:56.558701Z"
   }
 }

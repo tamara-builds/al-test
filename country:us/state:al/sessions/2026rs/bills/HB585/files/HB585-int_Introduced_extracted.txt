@@ -1,0 +1,428 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB585 INTRODUCED
+1 HB585
+2 JPET4NF-1
+3 By Representatives Fidler, Robbins, Brown, Kiel, Ross
+4 RFD: Financial Services
+5 First Read: 05-Mar-26
+Page 0
+
+First Read: 05-Mar-26
+JPET4NF-1 03/04/2026 PMG (L)bm 2025-3601
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, money transmission
+6 businesses, which include businesses that conduct
+7 electronic wire transfers, must be licensed by the
+8 Alabama Securities Commission.
+9 This bill would require money transmission
+10 businesses to report to the commission certain large or
+11 suspicious cash transactions.
+12 This bill would provide criminal penalties for
+13 knowingly attempting to evade the reporting
+14 requirements and authorize the commission to assess
+15 civil penalties against violators of the reporting
+16 requirements.
+17 This bill would require money transmission
+18 businesses to collect a fee on outgoing international
+19 electronic wire transfers equal to 1.5 percent of the
+20 total amount of the wire transfer and would require
+21 that the fees collected be transmitted to the Alabama
+22 Securities Commission.
+23 This bill would create the Wire Transfer Fee
+24 Fund within the Alabama Securities Commission to hold
+25 all wire transfer fees.
+26 This bill would require the commission to
+27 periodically transfer wire transfer fees from the Wire
+28 Transfer Fee Fund to the Office of Prosecution
+Page 1
+
+Transfer Fee Fund to the Office of Prosecution
+HB585 INTRODUCED
+29 Services.
+30 This bill would require the Office of
+31 Prosecution Services to distribute the fee proceeds to
+32 all sheriffs in the state to be used to offset costs
+33 relating to enforcement of immigration laws.
+34 This bill would authorize an income tax credit
+35 equal to the amount of wire transfer fees paid by
+36 taxpayers.
+37 This bill would require the Department of
+38 Revenue to establish a notice to customers who initiate
+39 international electronic wire transfers of the ability
+40 to be granted a tax credit for wire transfer fees paid
+41 by a taxpayer.
+42 This bill would authorize the Alabama Securities
+43 Commission and the Alabama Department of Revenue to
+44 administer this act.
+45 This bill would establish a legislative study
+46 commission to ensure that wire transfer fee proceeds
+47 are meeting the needs of affected communities and to
+48 recommend legislative changes.
+49 This bill would also repeal the provisions
+50 relating the wire transfer fee and income tax credit on
+51 December 31, 2030.
+52
+53
+54 A BILL
+55 TO BE ENTITLED
+56 AN ACT
+Page 2
+
+AN ACT
+HB585 INTRODUCED
+57
+58 Relating to money transmissions; to amend Section
+59 8-7A-13, Code of Alabama 1975; to require certain money
+60 transmission businesses to report and keep records on certain
+61 cash transactions; to provide civil and criminal penalties for
+62 violations and authorize the Alabama Securities Commission to
+63 enforce the reporting requirements; to require money
+64 transmission businesses to collect a fee on outgoing
+65 international wire transfers and transfer the fees to the
+66 Alabama Securities Commission; to create the Wire Transfer Fee
+67 Fund within the commission to hold wire transfer fees; to
+68 require the commission to distribute the fees to the Office of
+69 Prosecution Services for distribution to sheriffs to offset
+70 costs relating to enforcing immigration laws; to authorize an
+71 income tax credit equal to the amount of fees paid by
+72 taxpayers for outgoing international wire transfers; to
+73 authorize the Alabama Securities Commission and the Alabama
+74 Department of Revenue to administer this act; to establish a
+75 legislative study commission to review the disbursement of
+76 wire transfer fees; and to provide for the repeal of the
+77 provisions of this act relating to the wire transfer fee and
+78 income tax credit.
+79 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+80 Section 1. Section 8-7A-13, Code of Alabama 1975, is
+81 amended to read as follows:
+82 "§8-7A-13
+83 (a) A licensee shall file a report to the commission
+84 within 15 business days of after any material change in
+Page 3
+
+within 15 business days of after any material change in
+HB585 INTRODUCED
+85 information provided in a licensee's application.
+86 (b) A licensee shall file a report with the commission
+87 within five business days after the licensee has reason to
+88 know of the occurrence of any of the following events:
+89 (1) The filing of a petition by or against the licensee
+90 under the United States Bankruptcy Code for bankruptcy or
+91 reorganization.
+92 (2) The filing of a petition by or against the licensee
+93 for receivership, the commencement of any other judicial or
+94 administrative proceeding for its dissolution or
+95 reorganization, or the making of a general assignment for the
+96 benefit of its creditors.
+97 (3) The commencement of a proceeding to revoke or
+98 suspend its license in a state or country in which the
+99 licensee engages in business or is licensed.
+100 (4) The cancellation or other impairment of the
+101 licensee's bond or other security.
+102 (5) A charge or conviction of the licensee or of an
+103 executive officer, manager, commission, or other control
+104 person of the licensee for a felony.
+105 (6) A charge or conviction of an authorized delegate of
+106 the licensee for a felony.
+107 (7) The executive officers, managers, directors, an
+108 authorized delegate, or persons in control of the licensee are
+109 named in any material civil litigation or class action.
+110 (c) (1) A licensee shall give notice of a proposed
+111 change of control within 15 days after learning of the
+112 proposed change in control.
+Page 4
+
+proposed change in control.
+HB585 INTRODUCED
+113 (2) The commission shall approve a request for change
+114 of control if, after investigation, the commission determines
+115 that the person or group of persons requesting approval has
+116 the competence, experience, character, and general fitness to
+117 operate the licensee or person in control of the licensee in a
+118 lawful and proper manner and that the public interest will not
+119 be jeopardized by the change of control.
+120 (3) The commission shall approve or deny a request for
+121 change of control within 120 days after the notice. If the
+122 request has not been approved or denied within 120 days, the
+123 request will be deemed to have been approved and will take
+124 effect on the first day after the expiration of the 120 days.
+125 (d) A licensee and an authorized delegate shall
+126 maintain a file of all reports required by federal currency
+127 reporting, record keeping recordkeeping, and suspicious
+128 transaction reporting requirements as set forth in 31 U.S.C.
+129 Section § 5311 (1994), and other federal and state laws
+130 pertaining to money laundering. If an investigation or other
+131 inquiry is initiated by any regulatory authority, the licensee
+132 shall immediately notify the commission and forward all
+133 records associated with such investigation or inquiry.
+134 (e)(1) In addition to the requirements in 31 C.F.R. §
+135 103.125, all licensees must provide notification to the
+136 commission and maintain records of all of the following:
+137 a. Suspicious cash transactions of aggregate funds of
+138 two thousand dollars ($2,000) or more within 30 days of
+139 becoming aware of the activity. This reportable activity
+140 includes, but is not limited to, any cash transaction that
+Page 5
+
+includes, but is not limited to, any cash transaction that
+HB585 INTRODUCED
+141 appears intended to evade the reporting requirements specified
+142 in this section. Records associated with these notifications
+143 must be maintained for five years from the date of notifying
+144 the commission.
+145 b. Cash transactions of ten thousand dollars ($10,000)
+146 or more with the same customer, or on behalf of the same
+147 customer, during one business day within 15 days of the
+148 activity. Records associated with these notifications must be
+149 maintained for five years from the date of notifying the
+150 commission.
+151 c. Any cash transaction that is suspicious as
+152 determined by the commission pursuant to regulation or order.
+153 (2) All cash transactions of one thousand dollars
+154 ($1,000) or more must be recorded and maintained for five
+155 years from the date of the transaction. Records of these
+156 transactions for each year shall be transmitted to the
+157 commission at the time of license renewal.
+158 (3) In every transaction of three thousand dollars
+159 ($3,000) or more, licensees shall comply with the requirements
+160 of 31 C.F.R. § 1010.415.
+161 (4)a. Any person that knowingly attempts to evade the
+162 reporting requirements specified in this subsection shall be
+163 guilty of a Class C felony upon a first offense. Any
+164 subsequent violation is a Class B felony.
+165 b. The commission may assess a civil penalty against
+166 any person that violates this section in an amount not to
+167 exceed five thousand dollars ($5,000) for each day the
+168 violation is outstanding for each individual transaction.
+Page 6
+
+violation is outstanding for each individual transaction.
+HB585 INTRODUCED
+169 (5) Any penalties assessed for violations of this
+170 subsection, less the investigative costs incurred by the
+171 commission pursuant to Section 8-7A-19(b), shall be remitted
+172 to the Wire Transfer Fee Fund."
+173 Section 2. For the purpose of Sections 2 through 7, the
+174 following terms have the following meanings:
+175 (1) COMMISSION. The Alabama Securities Commission.
+176 (2) ELECTRONIC WIRE TRANSFER. An electronic transfer of
+177 money via a network.
+178 (3) MONEY TRANSMISSION BUSINESS. Any person required to
+179 obtain a license pursuant to Chapter 7A of Title 8, Code of
+180 Alabama 1975.
+181 (4) PAYMENT PROCESSOR. An operator of a payment system
+182 acting in a third-party capacity, to the extent that the
+183 operator provides processing, clearing, settlement, or other
+184 similar services between individuals and businesses for a
+185 traceable debt of a good or service in connection with wire
+186 transfers, credit card transactions, debit card transactions,
+187 stored value transactions, automated clearinghouse transfers,
+188 or other similar funds transfers or transactions.
+189 Section 3. For the purpose of Sections 2 through 7, the
+190 following entities or transactions are exempt from Section 4:
+191 (1) Any transaction by the requester where the money
+192 debited is from an account held by, or for the benefit of, the
+193 requester at a banking institution or credit union authorized
+194 to do business in this state.
+195 (2) Any business entity authorized by law to do
+196 business in this state other than a money transmission
+Page 7
+
+business in this state other than a money transmission
+HB585 INTRODUCED
+197 business.
+198 (3) Payment processors lawfully registered or licensed
+199 to conduct business in Alabama.
+200 (4) Credit card or debit card transfers conducted via
+201 the Internet or telephone, including transfers by means of
+202 credit cards, debit cards, or ACH.
+203 (5) Entities exempt or excluded from the license
+204 requirements pursuant to Chapter 7A of Title 8, Code of
+205 Alabama 1975.
+206 (6) The sale of money orders.
+207 (7) Check cashing transactions.
+208 Section 4. (a)(1) On and after January 1, 2027, each
+209 money transmission business shall collect a transaction fee on
+210 every outgoing international electronic wire transfer equal to
+211 1.5 percent of the amount of the international electronic wire
+212 transfer.
+213 (2) A money transmission business shall provide to each
+214 customer a receipt for each international electronic wire
+215 transfer originating from this state which clearly delineates
+216 the fee incurred pursuant to this subsection.
+217 (b) There is created within the Alabama Securities
+218 Commission the Wire Transfer Fee Fund. Amounts deposited into
+219 the fund shall be budgeted and allotted in accordance with
+220 Sections 41-4-80 through 41-4-96, Code of Alabama 1975.
+221 (c) Not later than the 30 days following the close of
+222 each calendar quarter, a money transmission business shall do
+223 both of the following:
+224 (1) Remit the fees collected under subsection (a) to
+Page 8
+
+(1) Remit the fees collected under subsection (a) to
+HB585 INTRODUCED
+225 the commission for deposit into the fund by means established
+226 by rule or order of the commission.
+227 (2) Provide to the commission a detailed listing of
+228 each individual international electronic wire transfer
+229 associated with the fees remitted to the commission, including
+230 the date and the amount of the international electronic wire
+231 transfer and amount of the fee charged and collected, the
+232 country of destination, the address from where the
+233 international electronic wire transfer originated, and any
+234 additional information required by the commission. The address
+235 shall include the street number, street name, municipality,
+236 county, and zip code. The commission shall establish by rule
+237 or order the means by which the fees and detailed information
+238 shall be transmitted to the commission.
+239 (d)(1) Not later than 45 days following the close of
+240 each calendar quarter, the commission shall transfer all fees
+241 deposited into the fund to the Office of Prosecution Services
+242 to be distributed pursuant to Section 5.
+243 (2) In addition, the commission shall forward the
+244 detailed information received by the commission from money
+245 transmission businesses pursuant to subdivision (c)(2) to the
+246 Office of Prosecution Services on the same date the fees are
+247 transferred under subdivision (1).
+248 (d) Each money transmission business shall post the
+249 notice established pursuant to Section 6(e) in an area
+250 accessed by the public where international electronic wire
+251 transfers are conducted.
+252 (e) Except as provided in this act, Chapter 7A of Title
+Page 9
+
+(e) Except as provided in this act, Chapter 7A of Title
+HB585 INTRODUCED
+253 8, Code of Alabama 1975, shall apply.
+254 (f) The commission shall adopt rules or issue orders to
+255 administer this section.
+256 Section 5. (a) The Office of Prosecution Services
+257 shall remit the funds received under Section 4 on a quarterly
+258 basis to the Sheriffs' Advancement in Education, Technology,
+259 and Training Fund. The Alabama Securities Commission shall
+260 report to the Sheriff's Association the pro rata share of
+261 transaction fees collected within each county. Based on this
+262 report, the Sheriff's Association shall distribute each
+263 county's portion of the remitted funds to the appropriate
+264 county sheriffs. Funds shall be expended by county sheriffs to
+265 offset any costs and expenses incurred by the office of the
+266 sheriff on or after January 1, 2027, which are related to the
+267 enforcement or assistance with the enforcement of federal or
+268 state immigration laws, including the care and housing in the
+269 county jail of individuals charged with any suspected
+270 violation of federal or state immigration laws.
+271 (b) The Office of Prosecution Services may retain from
+272 the funds received those monies necessary to cover the costs
+273 to administer this section but in no event more than two
+274 percent of the total funds received.
+275 (c) Funds received by the Office of Prosecution
+276 Services under Section 4 shall be subject to audit by the
+277 Department of Examiners of Public Accounts in the same manner
+278 as other funds expended to the Office of Prosecution Services.
+279 (d) Not later than February 1, 2028, and annually
+280 thereafter, the Office of Prosecution Services shall submit a
+Page 10
+
+thereafter, the Office of Prosecution Services shall submit a
+HB585 INTRODUCED
+281 report to the legislative review committee established under
+282 Section 7 specifying the amount of funds distributed per
+283 quarter to each county sheriff under this section.
+284 Section 6. (a)(1) For tax years beginning on and after
+285 January 1, 2027 and ending December 31, 2030, a credit is
+286 allowed against income taxes imposed by Chapter 18 of Title
+287 40, Code of Alabama 1975, in the amount of all international
+288 electronic wire transfer fees paid by any taxpayer under
+289 Section 4 or five thousand dollars ($5,000), whichever is
+290 less. The credit must be claimed on the tax return that
+291 corresponds with the tax year during which the fees were paid.
+292 (2) To qualify for the income tax credit, a taxpayer
+293 shall submit to the Alabama Department of Revenue in a manner
+294 prescribed by the department, by rule, the receipts received
+295 under Section 4(a)(2).
+296 (b) The tax credit shall not be allowed to decrease a
+297 taxpayer's liability to less than zero. The credit is not
+298 refundable and may not be carried forward. The credit shall be
+299 available on a pro-rata basis to entities taxed under 26
+300 U.S.C. Subtitle A, Chapter 1, Subchapter S or Subchapter K.
+301 (c) The Alabama Department of Revenue shall not be
+302 required under this section to disclose confidential
+303 information subject to Section 40-2A-10, Code of Alabama 1975.
+304 However, the department may share information with the
+305 commission upon written request in order to aid or assist with
+306 any investigation or other action authorized by Chapter 7A of
+307 Title 8, Code of Alabama 1975. Additionally, the commission
+308 may share information with the department to enforce this act.
+Page 11
+
+may share information with the department to enforce this act.
+HB585 INTRODUCED
+309 The information shared shall be limited to what is necessary
+310 to administer this act and shall not be considered public
+311 records for purposes of Article 3 of Chapter 12 of Title 36,
+312 Code of Alabama 1975. Upon receipt of information from the
+313 department, Section 40-2A-10, Code of Alabama 1975, shall
+314 apply to the commission and its employees with respect to the
+315 use, dissemination, or other handling of the information. The
+316 department shall comply with Section 8-7A-21(b), Code of
+317 Alabama 1975, as to any information shared by the commission.
+318 (d) The Alabama Department of Revenue, by rule, may
+319 require a money transmission business to provide certifying
+320 documents and other information necessary to determine or
+321 confirm the tax credit amounts referenced in this section.
+322 (e) The Alabama Department of Revenue shall establish a
+323 standard form to be posted by money transmission businesses
+324 which notifies customers that upon filing an Alabama income
+325 tax return with either a valid Social Security number or a
+326 valid taxpayer identification number, the customer may be
+327 entitled to an income tax credit equal to the amount of the
+328 electronic wire transfer fees paid by the customer for the
+329 international electronic wire transfer.
+330 (f) The Alabama Department of Revenue shall adopt rules
+331 to implement this section.
+332 Section 7. (a) There is established a legislative
+333 review committee to review the expenditures of international
+334 electronic wire transfer fee proceeds under Section 5, as
+335 contained in audits conducted by the Department of Examiners
+336 of Public Accounts. The committee shall examine how proceeds
+Page 12
+
+of Public Accounts. The committee shall examine how proceeds
+HB585 INTRODUCED
+337 are being used and, at any time, may make recommendations to
+338 the Legislature to redistribute the international electronic
+339 wire transfer fee proceeds to better serve the counties or to
+340 otherwise amend this act.
+341 (b) The study committee shall consist of the following
+342 members:
+343 (1) The primary House sponsor and primary Senate
+344 sponsor of the legislation establishing this study committee
+345 who shall serve as cochairs.
+346 (2) Three members appointed by the Speaker of the House
+347 of Representatives and three members appointed by the
+348 President Pro Tempore of the Senate.
+349 (c) Members shall be entitled to their legislative
+350 compensation, per diem, and travel expenses for each day they
+351 attend a meeting of the committee in accordance with Section
+352 49 of the Constitution of Alabama of 2022.
+353 (d) Pursuant to Section 36-14-17.1, Code of Alabama
+354 1975, the committee shall provide to the Secretary of State a
+355 notice of all meetings, the name of each member of the
+356 committee, and a copy of its findings and other documents
+357 produced throughout the duration of the committee.
+358 Section 8. Sections 2 through 7 of this act are
+359 repealed December 31, 2030.
+360 Section 9. This act shall become effective on July 1,
+361 2026.
+Page 13

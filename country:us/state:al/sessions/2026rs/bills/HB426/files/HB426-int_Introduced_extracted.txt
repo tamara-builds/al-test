@@ -1,0 +1,1226 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB426 INTRODUCED
+1 HB426
+2 5V7H763-1
+3 By Representative Lee
+4 RFD: Judiciary
+5 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+5V7H763-1 02/12/2026 VSM (L)ma 2026-863
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would create the Alabama Property
+6 Protection Act of 2026 which would provide best
+7 practices for title agents, attorneys, realtors, and
+8 notaries public to prevent title fraud and classify the
+9 existing crime of fraudulent sale of real property as a
+10 Class D felony.
+11 This bill would establish the crime of
+12 aggravated fraudulent sale of real property and
+13 classify it as a Class C felony.
+14 This bill would establish the Alabama Title
+15 Fraud Recovery Fund and an administrative complaint
+16 process through the Alabama Securities Commission;
+17 allow judges of probate to establish a real property
+18 owner notification service; require online real estate
+19 platforms to verify ownership prior to publishing a
+20 listing; and to remove listings for properties not for
+21 sale.
+22 This bill would create an expedited quiet title
+23 process for victims of title fraud and provide for the
+24 recovery of costs and attorney fees in certain quiet
+25 title actions.
+26 This bill would prohibit remote notarization of
+27 documents conveying interest in real property under
+28 certain circumstances and also make nonsubstantive,
+Page 1
+
+certain circumstances and also make nonsubstantive,
+HB426 INTRODUCED
+29 technical revisions to update the existing code
+30 language to current style.
+31
+32
+33 A BILL
+34 TO BE ENTITLED
+35 AN ACT
+36
+37 Relating to title fraud; to add a new Chapter 21 to
+38 Title 35, Code of Alabama 1975, to create the Alabama Property
+39 Protection Act of 2026; to provide best practices for title
+40 agents, attorneys, realtors, and notaries public to prevent
+41 title fraud; to establish a consumer administrative complaint
+42 process through the Alabama Securities Commission; to add
+43 Sections 8-6-61, 12-13-55, and 13A-9-23 to the Code of Alabama
+44 1975, to create the Alabama Title Fraud Recovery Fund to be
+45 administered by the Alabama Securities Commission; to grant
+46 the Alabama Securities Commission investigative and
+47 enforcement authority; to authorize civil penalties for
+48 certain fraudulent conveyance actions; to allow judges of
+49 probate to establish a real property owner notification
+50 service; to establish the crime of aggravated fraudulent sale
+51 or lease of residential real property and classify the crime
+52 as a Class C felony; to add a new Chapter 19J to Title 8, Code
+53 of Alabama 1975, to require online real estate platforms to
+54 verify ownership for listings in certain transactions; to
+55 amend Sections 6-6-540, 6-6-545, and 6-6-571, Code of Alabama
+56 1975, to provide for expedited quiet title actions and
+Page 2
+
+1975, to provide for expedited quiet title actions and
+HB426 INTRODUCED
+57 recovery of costs and attorney fees in certain quiet title
+58 actions; to amend Section 13A-9-22, Code of Alabama 1975, to
+59 make fraudulent sale of residential real property a Class D
+60 felony; to amend Sections 35-4-20, 35-4-51, and 35-4-58, Code
+61 of Alabama 1975, to require instruments conveying title to
+62 real property be notarized and to increase the identification
+63 required by judges of probate to record instruments conveying
+64 title to real property; to amend Sections 36-20-70, 36-20-73,
+65 and 36-20-73.1, Code of Alabama 1975, to revise duties of
+66 notaries public, to prohibit remote notarization of deeds for
+67 certain transactions; and to make nonsubstantive, technical
+68 revisions to update the existing code language to current
+69 style.
+70 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+71 Section 1. Chapter 21, commencing with Section 35-21-1,
+72 is added to Title 35, Code of Alabama 1975, to read as
+73 follows:
+74 §35-21-1
+75 This chapter shall be known and may be cited as the
+76 Alabama Property Protection Act of 2026.
+77 §35-21-2
+78 For the purposes of this act, the term "commission"
+79 means the Alabama Securities Commission.
+80 §35-21-3
+81 (a) The commission shall have authority to investigate
+82 claims and administer, implement, and enforce the law under
+83 this chapter with respect to all regulated conduct,
+84 individuals, and entities described herein, regardless of
+Page 3
+
+individuals, and entities described herein, regardless of
+HB426 INTRODUCED
+85 licensure under any other provision of law. This authority
+86 shall not preclude other professional licensing authorities
+87 from pursuing professional licensing violations under Chapter
+88 25 of Title 27, Chapter 3 of Title 34, Chapter 27 of Title 34,
+89 or Chapter 20 of Title 36.
+90 (b) The commission may adopt rules necessary to carry
+91 out this chapter, including, but not limited to, rules
+92 governing:
+93 (1) Consumer complaint intake and resolution
+94 procedures;
+95 (2) Disclosure forms and content;
+96 (3) Examination, reporting, and recordkeeping
+97 requirements;
+98 (4) Any fees, fines, penalty schedules, and remedial
+99 measures established by rule;
+100 (5) The creation and administration of a consumer
+101 recovery fund; and
+102 (6) Definitions and standards necessary to prevent
+103 circumvention of this chapter.
+104 (c) The commission may:
+105 (1) Conduct investigations and examinations and issue
+106 administrative orders detailing their findings;
+107 (2) Require the production of documents and testimony;
+108 (3) Issue subpoenas;
+109 (4) Issue cease and desist orders;
+110 (5) Impose administrative fines and penalties per
+111 violation;
+112 (6) Order restitution, rescission, disgorgement, or
+Page 4
+
+(6) Order restitution, rescission, disgorgement, or
+HB426 INTRODUCED
+113 other remedial relief;
+114 (7) Prosecute criminal violations where authorized by
+115 law; and
+116 (8)Coordinate with other agencies as authorized by law.
+117 (d) The commission may bring an action in any court of
+118 appropriate jurisdiction to obtain an order imposing:
+119 (1) Injunctive or other relief;
+120 (2) Civil penalties;
+121 (3) Restitution, rescission, or disgorgement;
+122 (4) Enforcement of administrative orders;
+123 (5) Recovery of investigative and enforcement costs;
+124 and
+125 (6) Appointment of a receiver.
+126 (e) Nothing in this chapter shall be construed to limit
+127 criminal prosecution under any law or to require exhaustion of
+128 administrative remedies prior to criminal enforcement.
+129 §35-21-4
+130 (a) When the commission determines, after receiving a
+131 complaint and conducting an investigation, that a real
+132 property or real estate conveyance occurred as a result of a
+133 criminal act or fraud, any proceeds derived from the
+134 fraudulent conveyance shall be forfeited and deposited into
+135 the Alabama Title Fraud Recovery Fund established under
+136 Section 8-6-61. No person or individual may profit by
+137 retaining proceeds from such a conveyance. Proceeds may
+138 include, but are not limited to:
+139 (1) Real estate agent commissions or fees;
+140 (2) Closing attorney fees;
+Page 5
+
+(2) Closing attorney fees;
+HB426 INTRODUCED
+141 (3) Title insurance premiums or agent fees; and
+142 (4) Other payments connected to the fraudulent
+143 transaction.
+144 (b) This act does not limit the right to bring civil or
+145 equitable actions that may lawfully arise under existing
+146 Alabama laws.
+147 (c) The commission shall have the authority to
+148 administratively determine land fraud and fraudulent
+149 conveyance under this chapter. Nothing in this act shall limit
+150 the jurisdiction of the circuit court to hear de novo appeals
+151 or to grant equitable relief consistent with a final
+152 administrative order of the commission.
+153 §35-21-5
+154 (a) For purposes of fraudulent conveyances of real
+155 property, when the seller, real property owner, or landlord is
+156 unknown to the real estate agent or broker licensed under
+157 Chapter 27 of Title 34 and is not physically present to meet
+158 with a real estate agent prior to listing real property for
+159 sale or rent, the following shall be considered best practices
+160 for real estate agents or brokers prior to listing real
+161 property on any multiple listing services, websites, or
+162 listing portals.
+163 (1) If real property is owned by an individual, a real
+164 estate agent should request and obtain the legal
+165 identification of the real property owner, then:
+166 a. Verify that the identification provided matches the
+167 county land records;
+168 b. Use an identity verification technology service to
+Page 6
+
+b. Use an identity verification technology service to
+HB426 INTRODUCED
+169 ensure the identification provided matches the phone records
+170 of the telephone number provided by the seller, real property
+171 owner, or landlord; and
+172 c. Document and maintain these records for a period of
+173 five years.
+174 (2) If real property is owned by an entity, a real
+175 estate agent should request and obtain:
+176 a. The legal identification of the real property owner
+177 or an authorized company representative;
+178 b. The real property deed or documents showing the
+179 exact company name;
+180 c. Written authority for the individual to act on the
+181 company's behalf, such as a member or manager resolution,
+182 board resolution, operating agreement, or other document that
+183 establishes the individual's authority to act on behalf of the
+184 company; and
+185 d. A verification from an identity verification service
+186 that the identification and company records provided match the
+187 county land records, and confirmation, using the identity
+188 verification service, that the identification matches the
+189 phone records for the telephone number provided by the seller,
+190 real property owner, or landlord.
+191 (3) The real estate agent shall document and maintain
+192 the records required in subdivision (2) for five years.
+193 (b) Adherence to these best practices shall create a
+194 rebuttable presumption that the licensed real estate agent or
+195 broker acted in a reasonable manner. Such adherence does not
+196 preclude administrative action by the commission. The
+Page 7
+
+preclude administrative action by the commission. The
+HB426 INTRODUCED
+197 existence of the presumption shall be a question of law for
+198 the court and may be determined on a motion for summary
+199 judgment.
+200 (c) An action against a real estate agent or broker
+201 arising from a transfer of real property shall be commenced no
+202 later than four years after the date the transfer is recorded
+203 in the public records.
+204 §35-21-6
+205 (a) For purposes of fraudulent conveyances of real
+206 property, the following shall be considered best practices for
+207 a title agent licensed under Chapter 25 of Title 27 when the
+208 real property owner is unknown to the title agent and is not
+209 physically present at the closing:
+210 (1) Obtaining the real property owner's legal
+211 identification and proof of real property ownership before
+212 conducting a closing.
+213 (2) Verifying the real property owner's identification
+214 using an identification verification technology service.
+215 (3) Conducting live voice or facial recognition
+216 verification of the real property owner.
+217 (4) Providing written notice to the record owner that
+218 the real property is under contract to be sold and that a
+219 title policy has been requested for the real property.
+220 (5) Verifying notarizations for remote signers by
+221 speaking with the notary and confirming that the notary is
+222 listed on the Secretary of State's website.
+223 (6) For mail-away or remote closings, selecting the
+224 notary public that the real property owner will use near the
+Page 8
+
+notary public that the real property owner will use near the
+HB426 INTRODUCED
+225 owner's geographic location to ensure a neutral, independent
+226 third party is physically present to verify the owner's
+227 identity and witness the real property owner's signature.
+228 (b) Adherence to these best practices shall create a
+229 rebuttable presumption that the title agent acted in a
+230 reasonable manner. Such adherence does not preclude
+231 administrative action by the commission. The existence of the
+232 presumption shall be a question of law for the court and may
+233 be determined on a motion for summary judgment.
+234 (c) An action arising against a title agent arising
+235 from a transfer of real property shall be commenced no later
+236 than four years after the date the transfer is recorded in the
+237 public record.
+238 (d) A title insurance company shall not be civilly
+239 liable for the negligent acts or omissions of a title agent,
+240 except as expressly provided in the terms of a title insurance
+241 policy.
+242 §35-21-7
+243 (a) For purposes of fraudulent conveyances of real
+244 property, the following shall be considered best practices for
+245 an attorney licensed under Chapter 3 of Title 34 who conducts
+246 real estate closing services but is not acting on behalf of a
+247 title insurer or title agent when the real property owner is
+248 unknown to the attorney and is not physically present at the
+249 closing:
+250 (1) Obtaining the real property owner's legal
+251 identification and proof of property ownership, prior to
+252 conducting a closing.
+Page 9
+
+conducting a closing.
+HB426 INTRODUCED
+253 (2) Verifying the real property owner's identification
+254 using an identification verification technology service.
+255 (3) Conducting live voice or facial recognition
+256 verification of the real property owner.
+257 (4) Providing written notice to the record owner that
+258 the real property is under contract to be sold.
+259 (5) Verifying notarizations for remote signers by
+260 speaking with the notary and confirming that the notary is
+261 listed on the Secretary of State's website.
+262 (6) For mail-away or remote closings, selecting the
+263 notary public that the real property owner will use from near
+264 the owner's geographic location to ensure a neutral,
+265 independent third party is physically present to verify the
+266 owner's identity and witness the real property owner's
+267 signature.
+268 (b) Any expense associated with the additional due
+269 diligence resulting from the real property owner's absence may
+270 be passed on to the buyer or seller according to the terms of
+271 the purchase agreement or other contractual documents.
+272 (c) Adherence to these best practices shall create a
+273 rebuttable presumption that the attorney acted in a reasonable
+274 manner. Such adherence does not preclude administrative action
+275 by the commission. The existence of the presumption shall be a
+276 question of law for the court and may be determined on a
+277 motion for summary judgment.
+278 (d) An action against an attorney arising from a
+279 transfer of real property shall be commenced no later than
+280 four years after the date the transfer is recorded in the
+Page 10
+
+four years after the date the transfer is recorded in the
+HB426 INTRODUCED
+281 public record.
+282 §35-21-8
+283 (a) For purposes of fraudulent conveyances of real
+284 property, the following shall be considered best practices for
+285 notaries public appointed and commissioned under Chapter 20 of
+286 Title 36:
+287 (1) If a notary is asked to perform a notarial act for
+288 a party who is a signatory to an instrument that conveys,
+289 transfers, encumbers, or affects real estate, verifying the
+290 legal identity of the signatory.
+291 (2) Maintaining a current address and phone number with
+292 the Secretary of State.
+293 (b) Adherence to these best practices shall create a
+294 rebuttable presumption that the notary acted in a reasonable
+295 manner. Such adherence does not preclude administrative action
+296 by the commission. The existence of the presumption shall be a
+297 question of law for the court and may be determined on a
+298 motion for summary judgment.
+299 (c) An action against a notary arising from a transfer
+300 of real property shall be commenced no later than four years
+301 after the date of the transfer is recorded in the public
+302 record.
+303 §35-21-9
+304 (a) For purposes of fraudulent conveyances of real
+305 property, the following shall be considered best practices for
+306 online real estate platforms, as defined by Section 8-19J-1,
+307 that display and advertise real property for sale or lease:
+308 (1) The online real estate platform requires
+Page 11
+
+(1) The online real estate platform requires
+HB426 INTRODUCED
+309 verification of identity and proof of ownership before a
+310 listing originating on its site is made active.
+311 (2) The website, portal, or service follows the best
+312 practices outlined in Section 8-19J-2.
+313 (b) Adherence to these best practices shall create a
+314 rebuttable presumption that the online real estate platform
+315 acted in a reasonable manner. Such adherence does not preclude
+316 administrative action by the commission. The existence of the
+317 presumption shall be a question of law for the court and may
+318 be determined on a motion for summary judgment.
+319 (c) An action against an online real estate platform
+320 shall be commenced no later than four years after the date the
+321 transfer is recorded in the public record.
+322 (d) An online real estate platform may not be liable
+323 for the negligence arising from a syndicated listing or an
+324 intermediary agent or broker that fails to obtain property
+325 documentation before listing real property.
+326 §35-21-10
+327 (a) The commission may fund a statewide real property
+328 notification alert system that notifies a real property owner
+329 by text or email when a recording is made on his or her real
+330 property. Judges of Probate offices, upon request, may provide
+331 the commission with available contact information for real
+332 property owners within his or her county for this purpose.
+333 (b) Judges of probate and their staff are encouraged to
+334 work with the commission to successfully enforce real estate
+335 fraud laws, prevent fraud, and provide consumer education to
+336 real property owners.
+Page 12
+
+real property owners.
+HB426 INTRODUCED
+337 (c) The commission may provide training and assistance
+338 to judges of probate, their staff, and real property owners on
+339 real estate fraud prevention and consumer education. Judges of
+340 probate are encouraged to establish fraud prevention policies
+341 and to provide consumer education to real property owners.
+342 §35-21-11
+343 The expedited quiet title process established in
+344 Section 6-6-540 applies to transactions in this chapter.
+345 §35-21-12
+346 (a) Upon receipt of a complaint alleging land fraud or
+347 a fraudulent conveyance, the commission may investigate the
+348 matter using all authority granted under this chapter.
+349 (b) If the commission determines that a real property
+350 conveyance resulted from a criminal act or fraud involving the
+351 true ownership of the real property, the commission may issue
+352 a final administrative order declaring the conveyance void.
+353 The commission, in the same order, may impose civil penalties,
+354 order restitution, or disgorgement, and assess any other
+355 remedies authorized by law.
+356 (c) A final administrative order issued by the
+357 commission declaring a conveyance void shall be legally
+358 binding and enforceable. The administrative order shall not be
+359 stayed except by order of the circuit court in a timely filed
+360 appeal.
+361 (d) Upon issuance of a final administrative order, the
+362 commission shall serve a copy of the order by certified mail
+363 upon the complainant and all parties to the proceeding. The
+364 complainant may file a certified copy of the final
+Page 13
+
+complainant may file a certified copy of the final
+HB426 INTRODUCED
+365 administrative order in the circuit court of the county where
+366 the real property is located for purposes of enforcement and
+367 quiet title relief.
+368 §35-21-13
+369 (a) Any party aggrieved by a final administrative order
+370 of the commission may seek de novo judicial review by filing
+371 an appeal in the circuit court of the county where the real
+372 property is located no later than 30 days after the date of
+373 the final administrative order.
+374 (b) The circuit court shall conduct a de novo review of
+375 the commission's determination and may affirm, modify, or
+376 vacate the order.
+377 §35-21-14
+378 (a) If no timely appeal is filed, the circuit court,
+379 upon a quiet title petition by the complainant, shall enter an
+380 order enforcing the final administrative order no later than
+381 30 days from the filing date of the quiet title petition
+382 without further evidentiary hearing or procedural delay. The
+383 court may waive the filing fees and court costs for good cause
+384 shown. The enforcement order shall:
+385 (1) Declare the fraudulent conveyance or attempted
+386 conveyance void;
+387 (2) Direct the judge of probate to remove or nullify
+388 any recorded instrument that clouds title or conflicts with
+389 the administrative order; and
+390 (3) Quiet title in favor of the rightful real property
+391 owner.
+392 (b) The probate court shall act promptly upon receipt
+Page 14
+
+(b) The probate court shall act promptly upon receipt
+HB426 INTRODUCED
+393 of a quiet title enforcement order issued by the circuit court
+394 pursuant this section.
+395 §35-21-15
+396 (a) When the commission determines, after receiving a
+397 complaint and conducting an investigation, that a real
+398 property or real estate conveyance occurred as a result of a
+399 criminal act or fraud, any proceeds derived from the
+400 fraudulent conveyance shall be forfeited and deposited into
+401 the Alabama Title Fraud Recovery Fund established under
+402 Section 8-6-61, unless otherwise ordered by the circuit court.
+403 Proceeds may include, but are not limited to:
+404 (1) Real estate agent commissions or fees;
+405 (2) Closing attorney fees;
+406 (3) Title insurance premiums or agent fees; and
+407 (4) Other payments connected to the fraudulent
+408 transaction.
+409 (b) This section does not limit the right to bring
+410 civil or equitable actions that may lawfully arise under
+411 existing Alabama laws.
+412 (c) Any person who knowingly fails to remit proceeds
+413 from a fraudulent conveyance or files frivolous litigation to
+414 delay enforcement may be assessed an additional civil penalty
+415 of ten thousand dollars ($10,000), payable to the Alabama
+416 Title Fraud Recovery Fund.
+417 §35-21-16
+418 The crimes of fraudulent sale or lease of residential
+419 real property or aggravated fraudulent conveyance of real
+420 property established in Article 1, Chapter 9 of Title 13A does
+Page 15
+
+property established in Article 1, Chapter 9 of Title 13A does
+HB426 INTRODUCED
+421 not preclude the state from pursuing additional criminal
+422 prosecution as authorized by law.
+423 §35-21-17
+424 (a) For the purpose of combating real estate related
+425 fraud, the Secretary of State may implement, by rule, a secure
+426 business filing system that includes authentication of filer
+427 identity, verification of authority to file, and credentialed
+428 filers programs. The Secretary of State may establish
+429 expedited and streamlined filing processes for verified or
+430 credentialed filer and additional verification review
+431 requirements for unverified or infrequent filers as necessary
+432 to protect the integrity of the filing system. The Secretary
+433 of State's office may refuse a business filing that it
+434 believes to be fraudulent.
+435 (b) Rules adopted under this section shall be
+436 reasonable, nondiscriminatory, and designed to preserve public
+437 access to lawful filings while preventing fraud and abuse.
+438 Section 2. Sections 8-6-61, 12-13-55, and 13A-9-23 are
+439 added to the Code of Alabama 1975, to read as follows:
+440 §8-6-61
+441 (a) There is established in the State Treasury an
+442 Alabama Title Fraud Recovery Fund to be administered by the
+443 Alabama Securities Commission in accordance with this section.
+444 The fund shall be budgeted and allotted in accordance with
+445 Article 4 of Chapter 4 of Title 41 and Chapter 19 of Title 41.
+446 (b) Money in the fund shall only be used to compensate
+447 individuals injured by title conveyance fraud for actual
+448 economic damages, excluding interest and court costs, incurred
+Page 16
+
+economic damages, excluding interest and court costs, incurred
+HB426 INTRODUCED
+449 by the injured party. Payments from the fund are subject to
+450 the following limitations and conditions:
+451 (1) The fund shall only make payments to real property
+452 owners who file a complaint with the commission as required by
+453 this section.
+454 (2) The fund shall not issue payments based on consent
+455 judgments.
+456 (c) The commission, by rule, shall set the maximum
+457 payment amount that can be issued from the fund to a
+458 complainant.
+459 (d) Any person with a claim for title conveyance fraud
+460 may submit a written complaint to the commission, which may
+461 investigate it.
+462 (e) During the investigation of a complaint, the
+463 commission may:
+464 (1) Hold hearings;
+465 (2) Subpoena witnesses;
+466 (3) Administer oaths;
+467 (4) Examine any individual under oath; and
+468 (5) Compel the production of records, books, papers,
+469 contracts, or other documents.
+470 (f) If an individual fails to comply with a subpoena
+471 issued by the commission or to testify on matters for which
+472 they can be questioned under this section, the commission may
+473 petition a court of competent jurisdiction for enforcement.
+474 (g) If the commission determines that a person is
+475 liable for fraudulent title conveyance, the commission may
+476 take any of the following actions:
+Page 17
+
+take any of the following actions:
+HB426 INTRODUCED
+477 (1) Issue an administrative order finding the
+478 fraudulent conveyance void and removing it from the official
+479 real property records of the probate court.
+480 (2) Impose a civil penalty of up to one million dollars
+481 ($1,000,000) per transaction on the liable individual or
+482 entity, which shall be deposited into the Alabama Title Fraud
+483 Recovery Fund.
+484 (h) Any final order issued by the commission shall be
+485 legally binding and shall not be stayed except by order of the
+486 circuit court in a timely filed appeal. Any party dissatisfied
+487 with a final judgment or decision by the commission may appeal
+488 to the circuit court where the property is located no later
+489 than 30 days from the date of the final administrative order
+490 of the Alabama Securities Commission. For appeals, the
+491 commission shall provide a certified transcript of the
+492 proceedings and actions taken by the commission to the circuit
+493 court to which the appeal is taken.
+494 §12-13-55
+495 (a) In cooperation with the Alabama Securities
+496 Commission, each judge of probate may establish a real
+497 property owner notification service that informs owners of
+498 real property in the county whenever a document is recorded in
+499 the name of the real property owner or the address of the real
+500 property owner registered with the recording clerk where the
+501 property is located.
+502 (b) Once established, the property owner notification
+503 service shall be free and available to any property owner who
+504 owns real property in the county.
+Page 18
+
+owns real property in the county.
+HB426 INTRODUCED
+505 (c) A judge of probate, the commission, or a third-
+506 party provider shall not be liable for failure to provide
+507 notice under this section.
+508 §13A-9-23
+509 (a) A person commits the crime of aggravated fraudulent
+510 sale or lease of residential real property if, with the intent
+511 to defraud:
+512 (1) The person either: (i) lists, advertises, or causes
+513 the listing or advertisement of residential real property for
+514 sale knowing that the person or the purported seller has no
+515 legal title or authority to sell the real property; or (ii)
+516 rents, leases, or causes the rental or leasing of real
+517 property knowing the person or the purported lessor has no
+518 legal ownership or authority to lease the property; and
+519 (2) Either: (i) the person received funds related to
+520 the sale or lease; or (ii) the property is owned individually
+521 or jointly by an individual who is 70 years of age or older.
+522 (b) Aggravated fraudulent sale of real property is a
+523 Class C felony.
+524 Section 3. Chapter 19J, commencing with Section
+525 8-19J-1, is added to Title 8, Code of Alabama 1975, to read as
+526 follows:
+527 Chapter 19J
+528 §8-19J-1
+529 For the purposes of this chapter, the term "online real
+530 estate platform" means: (i) a digital media platform whose
+531 primary business purpose is to publicly advertise real estate
+532 for sale or lease; or (ii) a real estate website whose primary
+Page 19
+
+for sale or lease; or (ii) a real estate website whose primary
+HB426 INTRODUCED
+533 purpose is publicly advertising real estate for sale or lease.
+534 This definition does not apply to nonpublic websites, portals,
+535 list servers, social media websites, or new sites.
+536 §8-19J-2
+537 For a listing that originates from an online real
+538 estate platform, the platform shall require the following
+539 before publishing, hosting, advertising, or otherwise publicly
+540 disseminating real property for sale or lease by a person who
+541 is not represented by an agent, broker, or brokerage service:
+542 (1) A copy of the owner's government-issued
+543 identification that is unexpired and includes the individual's
+544 photograph, name, and address.
+545 (2) A copy of the official county recorder's records
+546 showing the owner of record, a copy of the deed to the real
+547 property with the owner's name and signature, or a title
+548 history.
+549 §8-19J-3
+550 (a) Interior photos and videos may not be: (i) used
+551 indefinitely by an online real estate platform for commercial
+552 purposes; (ii) used to imply that a property is for sale; or
+553 (iii) remain publicly available without written permission
+554 from the current owner of the real property.
+555 (b) An online real estate platform shall remove all
+556 publicly available interior photos, videos, and all nonpublic
+557 information from the real estate platform website no later
+558 than 30 days from the date of sale, withdrawal from sale,
+559 request of the owner or real estate agent representing the
+560 owner that the media be removed, or upon notification and
+Page 20
+
+owner that the media be removed, or upon notification and
+HB426 INTRODUCED
+561 syndication from a multiple listing service.
+562 (c) An online real estate platform may not publicly
+563 display, publish, host, advertise, or otherwise distribute
+564 interior photos or listings for real estate: (i) that is not
+565 for sale; or (ii) that was previously listed for sale and sold
+566 more than 30 days ago.
+567 §8-19J-4
+568 The commission may create an administrative complaint
+569 process for real property owners to ensure compliance with
+570 this chapter.
+571 §8-19J-5
+572 No Internet service provider, or its affiliates or
+573 subsidiaries, search engine, or cloud service provider shall
+574 be considered to have violated this chapter solely for
+575 providing access or connection to or from a website, to
+576 content on the Internet, or to a facility, system, or network
+577 not under that provider's control, including transmission,
+578 download, intermediate storage, or access software.
+579 Section 4. Sections 6-6-540, 6-6-545, 6-6-571,
+580 13A-9-22, 35-4-20, 35-4-51, 35-4-58, 36-20-70, 36-20-73, and
+581 36-20-73.1, Code of Alabama 1975, are amended to read as
+582 follows:
+583 "§6-6-540
+584 (a) When any person is in peaceable possession of
+585 lands, whether actual or constructive, claiming to own the
+586 same, in his or her own right or as a personal representative
+587 or guardian, and his or her title thereto, or any part
+588 thereof, is denied or disputed or any other person claims or
+Page 21
+
+thereof, is denied or disputed or any other person claims or
+HB426 INTRODUCED
+589 is reputed to own the same, any part thereof, or any interest
+590 therein or to hold any lien or encumbrance thereon and no
+591 action is pending to enforce or test the validity of such the
+592 title, claim, or encumbrance, such the person or his or her
+593 personal representative or guardian, so in possession, may
+594 commence an action to settle the title to such lands and to
+595 clear up all doubts or disputes concerning the same.
+596 (b)(1) An expedited quiet title action against a parcel
+597 of real property may be maintained under this article based on
+598 a fraudulent title conveyance allegation. All actions to quiet
+599 title based on fraudulent title conveyance allegations shall
+600 be brought in the circuit court where the real property is
+601 located which shall have equitable jurisdiction pursuant to
+602 Section 12-11-31.
+603 (2)a. A petitioner bringing an action to quiet title
+604 based on fraudulent title conveyance allegations is entitled
+605 to an expedited procedure. The court shall set the date, time,
+606 and place for a preliminary hearing on the petition no later
+607 than 30 days from service of the complaint.
+608 b. In an expedited action to quiet title under this
+609 section, when the court determines that an attempt was made to
+610 fraudulently convey the land at issue from a plaintiff who had
+611 legal title to the land before the conveyance, the court must
+612 quiet title in and award the plaintiff with the same title and
+613 rights to the land that the plaintiff enjoyed before the
+614 attempted conveyance.
+615 (3) A petitioner may file a single petition with the
+616 clerk of the circuit court for the judicial circuit in which
+Page 22
+
+clerk of the circuit court for the judicial circuit in which
+HB426 INTRODUCED
+617 the subject property is located for an order to quiet title
+618 and expedite foreclosure to one or more parcels of real
+619 property under this section. The petition shall identify each
+620 parcel by its legal description, tax parcel number, and street
+621 address, if available.
+622 (4) The Administrative Office of Courts shall provide a
+623 simplified form for the filing of a complaint to quiet title
+624 based on a fraudulent title conveyance allegation and
+625 instructions for completing such form."
+626 "§6-6-545
+627 (a) No judgment for costs shall be had under this
+628 division against a defendant who suffers a judgment by default
+629 against him against whom a plaintiff receives a default
+630 judgment or who, in his or her answer, disclaims all title to,
+631 interest in, or encumbrance on the lands; but the. The court
+632 shall, in those cases, and without further proof, shall
+633 adjudge that such the defendant has no estate or interest in
+634 or encumbrance on such lands, or any part thereof. Any
+635 defendant who shall, by answer under oath, deny denies that he
+636 or she claims, or ever has claimed, or pretended to have any
+637 estate, interest, or encumbrance in, or upon, such lands, or
+638 any part thereof of the lands, shall be entitled to recover
+639 his or her costs in the action.
+640 (b) In any case where it is found that the defendant
+641 fraudulently created or caused to be created the instrument
+642 that is sought to be canceled, the plaintiff shall be entitled
+643 to recover all costs, including reasonable attorney fees,
+644 incurred in bringing the action to cancel the instrument."
+Page 23
+
+incurred in bringing the action to cancel the instrument."
+HB426 INTRODUCED
+645 "§6-6-571
+646 (a) The court shall have the power to may assess the
+647 cost of a hearing held pursuant to the terms of this division,
+648 including the fee of the guardian ad litem, to the
+649 plaintiffs;, provided, that should some of the defendants file
+650 that if any defendant files counterclaims or should certain
+651 persons intervene any person intervenes, the cost shall be
+652 assessed by the court as justice may require.
+653 (b) In any case where it is found that the defendant
+654 fraudulently created the instrument that is sought to be
+655 canceled, the plaintiff shall be entitled to recover all
+656 costs, including reasonable attorney fees, incurred in
+657 bringing the action to cancel the instrument."
+658 "§13A-9-22
+659 (a) A person commits the crime of fraudulent sale or
+660 lease of residential real property if, with intent to defraud,
+661 he or she does either of the following:
+662 (1) Lists or, advertises, or causes to list or
+663 advertise residential real property for sale knowing that he
+664 or she or the purported seller has no legal title or authority
+665 to sell the property.
+666 (2) Rents or, leases, or causes to rent or lease
+667 residential real property to another person knowing that he or
+668 she or the purported lessor has no legal ownership or other
+669 authority to lease the property.
+670 (b) Fraudulent sale or lease of residential real
+671 property is a Class A misdemeanor D felony.
+672 "§35-4-20
+Page 24
+
+"§35-4-20
+HB426 INTRODUCED
+673 Conveyances for the alienation of lands must be:
+674 (1) writtenWritten or printed, or partly written and
+675 partly printed, on parchment or paper;, and must be
+676 (2) signedSigned at their foot by the contracting party
+677 maker or his or her agent having a written authority; or, if
+678 he is the maker is not able to sign his name, then his the
+679 maker's name must be written for him or her, with the words
+680 "his mark" or "her mark" written against the same, or over it;
+681 (3) the execution of such conveyance must be
+682 attestedAttested by one witness or, where the party cannot
+683 write, by two witnesses who are able to write and who must
+684 write their names as witnesses; or, if hethe maker can write
+685 his or her name but does not do so and his or her name is
+686 written for him the maker by another, then the execution must
+687 be attested by two witnesses who can and do write their
+688 names.; and
+689 (4) Attested by a notary public licensed pursuant to
+690 Chapter 20 of Title 36."
+691 "§35-4-51
+692 (a) For the purposes of this section, the following
+693 terms have the following meanings:
+694 (1) GOVERNMENT ISSUED IDENTIFICATION. One of the
+695 following documents that is unexpired and includes the
+696 individual's photograph, name, and address:
+697 a. A United States passport.
+698 b. A United States military identification card.
+699 c. A tribal identification card issued by a tribe
+700 recognized by the federal government or the State of Alabama.
+Page 25
+
+recognized by the federal government or the State of Alabama.
+HB426 INTRODUCED
+701 d. An Alabama driver license or nondriver
+702 identification card.
+703 e. An Alabama voter identification card.
+704 f. A driver license issued by another state.
+705 (2) INSTRUMENT. Any of the following:
+706 a. A deed or other document transferring title to real
+707 property in Alabama.
+708 b. A deed of trust, mortgage, judgment, lien,
+709 encumbrance, bill of sale, financing statement, affidavit,
+710 notice, memorandum, or any other instrument that establishes a
+711 security interest in real property in Alabama.
+712 c. A contract, right of refusal, lease, affidavit,
+713 memorandum, or any other instrument that purports to establish
+714 an interest, option, encumbrance, right, or any other claim
+715 relating to interest in real property in Alabama.
+716 d. An assignment of a mortgage, deed of trust, or other
+717 security for debt or an extension agreement.
+718 (3) SUSPICIOUS INSTRUMENT. An instrument submitted for
+719 recording of which the office of the judge of probate has
+720 found any of the following:
+721 a. The instrument purports not to be subject to the
+722 laws of the United States or the laws of Alabama.
+723 b. The instrument does not conform to recordation
+724 requirements established by the laws of Alabama.
+725 c. The instrument is submitted by an individual who is
+726 not a trusted submitter and the identity verification
+727 requirements of this section are not met.
+728 (4) TRUSTED SUBMITTER. Any of the following:
+Page 26
+
+(4) TRUSTED SUBMITTER. Any of the following:
+HB426 INTRODUCED
+729 a. An attorney licensed to practice law in this state
+730 or a representative of an attorney licensed to practice law in
+731 this state.
+732 b. An agent of a bank or credit union with federal
+733 deposit insurance or an affiliate of a bank or credit union.
+734 c. An agent of a licensed or exempt mortgage lender
+735 pursuant to Chapter 25 or 26 of Title 5.
+736 d. An agent of a servicer as defined in 12 C.F.R. §
+737 1024.2.
+738 e. A public official or employee of a federal, state,
+739 or local government or a department, agency, board,
+740 commission, or authority performing his or her official
+741 duties.
+742 f. A professional land surveyor licensed under Chapter
+743 11 of Title 34 and in good standing with the State Board of
+744 Licensure for Professional Engineers and Land Surveyors.
+745 (b) When an instrument is presented to the judge of
+746 probate for recording by a person who is not a trusted
+747 submitter, the following requirements apply:
+748 (1) If presented by an individual in person, the judge
+749 of probate shall require the individual presenting the
+750 instrument to produce a government issued identification for
+751 inspection prior to recording the instrument.
+752 (2) If presented by an individual via paper or
+753 electronic delivery, the judge of probate shall require the
+754 inclusion of a photocopy of the individual's government issued
+755 identification prior to recording the instrument.
+756 (3) If presented by an entity in person, the judge of
+Page 27
+
+(3) If presented by an entity in person, the judge of
+HB426 INTRODUCED
+757 probate shall require production of the following, as
+758 applicable:
+759 a. A corporation must produce a certificate of good
+760 standing and a secretary's certificate signed by an authorized
+761 officer of the corporation.
+762 b. A trust must produce a certificate of trust.
+763 c. An estate must produce letters testamentary or
+764 letters of administration.
+765 d. A limited liability company must produce a
+766 resolution signed by its members.
+767 e. An unincorporated nonprofit association must present
+768 a sworn statement attesting to the authority of the individual
+769 presenting the instrument to act on behalf of the association.
+770 f. If presented by an individual on behalf of the
+771 entity, the government issued identification of the individual
+772 presenting the instrument for recordation.
+773 g. If presented by an entity via paper or electronic
+774 delivery, a photocopy of the government issued identification
+775 of the individual or officer of the entity authorized to
+776 record the instrument, as applicable.
+777 (c) If the instrument was prepared and executed by
+778 mail, the instrument must contain a statement to that effect.
+779 (d) The judge of probate shall accept, without
+780 certification, a deed submitted for recording by a trusted
+781 submitter, as defined in this section, containing the
+782 following statement on the deed: "This instrument prepared by:
+783 ________________, an attorney licensed in the State of
+784 Alabama. As closing attorney or title agent, I certify what I
+Page 28
+
+Alabama. As closing attorney or title agent, I certify what I
+HB426 INTRODUCED
+785 was physically present at the closing. I also certify that any
+786 delinquent and current taxes owed will be paid by my office to
+787 the county tax assessing official upon disbursement of closing
+788 proceeds."
+789 (e) The judge of probate shall provide notice of the
+790 requirements of this section on the website of the judge of
+791 probate or in the area of the office of the judge of probate
+792 open to the public for the purpose of allowing the public to
+793 record instruments.
+794 (f) Except as may be otherwise provided by the Uniform
+795 Commercial Code, all deeds, mortgages, deeds of trust, bills
+796 of sale, contracts, or other documents purporting to convey
+797 any right, title, easement, or interest in any real estate or
+798 personal property and all assignments of mortgages, deeds of
+799 trust, or other securities for debt or extension agreements
+800 instruments with respect thereto, when that are executed in
+801 accordance with law, shall be admitted to record in the office
+802 of the probate judge of probate of any county. TheirIts filing
+803 for registration shall constitute notice of their its
+804 contents.
+805 (g) This section shall not be construed as superseding
+806 or repealing any other laws effective in Alabama relative to
+807 the subject matter in this article, but shall be held and
+808 construed to be cumulative."
+809 "§35-4-58
+810 (a) Judges of probate are to shall procure, at the
+811 expense of their counties, large and well-bound books, in
+812 which must be recorded in a fair hand, or by printing the
+Page 29
+
+which must be recorded in a fair hand, or by printing the
+HB426 INTRODUCED
+813 same, or by the use of a typewriter or other writing or
+814 printing, photograph or photostator photocopier machine, word
+815 for word, conveyances of property and all other instruments
+816 authorized to be recorded, with the acknowledgments, proofs,
+817 schedules, plats, surveys, etc., belonging thereto; and, at
+818 the foot or in the margin of the record of each conveyance or
+819 other instrument, the day of the month and year of the
+820 delivery of the same instrument for record must be specified.
+821 The judge making the record of any conveyance or other
+822 instrument must certify on the same when it was received and
+823 recorded and in what book and page the same is recorded and
+824 must deliver it to the party entitled thereto, or his or her
+825 order, on the payment of the fees of registration; but the.
+826 (b) The judge of probate may refuse to indorse endorse
+827 "filed" on any conveyance or other instrument or to record the
+828 same until instrument if one of the following occurs:
+829 (1) such The fees of registration are not paid and
+830 unless.
+831 (2) the The conveyance or other instrument is not
+832 witnessed, probated, or acknowledged as required by this Code
+833 chapter;.
+834 (3) The individual or entity presenting the instrument
+835 for recording is not a trusted submitter and fails to provide
+836 the required government issued identification or documents.
+837 (4) The individual or entity presenting the instrument
+838 for recording is not a trusted submitter and the required
+839 government issued identification or documents do not match the
+840 name of the grantor, grantee, or officer of the grantor or
+Page 30
+
+name of the grantor, grantee, or officer of the grantor or
+HB426 INTRODUCED
+841 grantee in the instruments presented for recording.
+842 (5) The office of the judge of probate deems the
+843 instrument presented for recording a suspicious instrument.
+844 (c) Upon finding that an instrument presented for
+845 recording is a suspicious instrument, the office of the judge
+846 of probate may report the suspicious instrument to an
+847 appropriate law enforcement agency.
+848 (d) There is no right or cause of action against, and
+849 no civil liability on the part of, the office of the judge of
+850 probate or county with respect to the office of the judge of
+851 probate's requirement of a government issued identification or
+852 other documentation or any refusal to record any instruments
+853 pursuant to this chapter.
+854 (e) provided, that in In counties wherein where a
+855 photostat photocopier machine or other similar photograph
+856 copying machine is used and an electric a time clock or time
+857 stamp is used, the judge of probate may make the certificate
+858 required by this section by having same the certificate
+859 stamped upon the instrument with the electric time stamp to
+860 read as follows the following statement:
+861 "STATE OF ALABAMA ______ COUNTY
+862 I CERTIFY THIS INSTRUMENT WAS FILED ON THE ____ DAY OF
+863 _____ (Month), _____ (Year) at _____ (time). Recorded book and
+864 page as shown above.
+865 (Signed) _____, Judge of Probate."
+866 For making the certificate required by this section the
+867 judge of probate shall not be entitled to any additional fee
+868 for his or her service, other than that now provided for in
+Page 31
+
+for his or her service, other than that now provided for in
+HB426 INTRODUCED
+869 Section 12-19-90."
+870 "§36-20-70
+871 (a)(1) A competent number of notaries public for the
+872 state at large at-large shall be appointed and commissioned by
+873 the judges of probate of the several counties of the state and
+874 shall hold office for four years from the date of their
+875 commission. Notaries public shall perform all the acts and
+876 exercise all authority under the general laws of the State of
+877 Alabama. The jurisdiction of the notaries public shall not be
+878 limited to the counties of their residence and shall extend to
+879 any county of the state.
+880 (2) The judges of probate shall collect a fee of
+881 twenty-five dollars ($25) for each notary commission issued.
+882 (3) The judges of probate shall also report to the
+883 Secretary of State the name, phone number, county of
+884 residence, date of issuance, and date of expiration of the
+885 commission of each notary public appointed and commissioned
+886 under this subsection on a form prescribed by the Secretary of
+887 State. The Secretary of State shall post this information on
+888 his or her official website searchable by name.
+889 (4) Each commissioned notary public shall maintain
+890 accurate contact information with the Secretary of State and
+891 update the contact information no later than 30 days after any
+892 change.
+893 (b) All existing notaries public functioning on
+894 September 1, 2023, shall continue to function pursuant to
+895 their existing authority for the remainder of their existing
+896 commission.
+Page 32
+
+commission.
+HB426 INTRODUCED
+897 (c) Each applicant for notary public commission shall
+898 pay a ten dollar ($10) application fee. A judge of probate may
+899 accept or deny any application for notary public commission,
+900 as developed by the Alabama Probate Judges Association and the
+901 Alabama Law Institute, and shall deny an application for
+902 notary public commission on any of the following grounds:
+903 (1) The applicant is not a resident of this state.
+904 (2) The applicant makes the application to a judge who
+905 is not the judge of probate of the county of the applicant's
+906 residence.
+907 (3) The applicant has been convicted of a felony or
+908 crime of moral turpitude.
+909 (4) The applicant is currently a debtor in a bankruptcy
+910 proceeding.
+911 (5) The applicant is under a current order adjudicating
+912 him or her incapacitated.
+913 (6) The applicant provides false information on the
+914 application.
+915 (7) The applicant is unable or unwilling to
+916 successfully complete the training program required in
+917 subsection (e) within 30 days after submitting his or her
+918 application. This time frame may be extended by the judge of
+919 probate upon good cause shown.
+920 (d) A notary public is not an insurer but is under a
+921 duty to act honestly, skillfully, and with reasonable
+922 diligence. A notary public shall not perform an acknowledgment
+923 in any transaction where he or she has a pecuniary interest.
+924 (e) Before being commissioned, an applicant for a
+Page 33
+
+(e) Before being commissioned, an applicant for a
+HB426 INTRODUCED
+925 notary public commission shall successfully complete a
+926 training program prepared by the Alabama Probate Judges
+927 Association and the Alabama Law Institute that reinforces and
+928 updates the applicant's knowledge of all matters relevant to
+929 the appointment, authority, duties, and legal and ethical
+930 responsibilities of a notary public. An attorney who is
+931 commissioned as a notary public under this article is not
+932 required to complete the training requirement. A notary public
+933 who is commissioned as of September 1, 2023, shall be required
+934 to complete the training requirement upon submitting an
+935 application for the renewal of his or her expired commission."
+936 "§36-20-73
+937 (a) Notaries public may do all of the following:
+938 (1) Administer oaths in all matters incident to the
+939 exercise of their office.
+940 (2) Take the acknowledgment or proof of instruments of
+941 writing relating to commerce or navigation and certify the
+942 same and all other of their official acts under their seal of
+943 office.
+944 (3) Demand acceptance and payment of bills of exchange,
+945 promissory notes, and all other writings which are governed by
+946 the commercial law as to days of grace, demand, and notice of
+947 nonpayment and protest the same for nonacceptance or
+948 nonpayment and to give notice thereof as required by law.
+949 (4) Exercise such other powers, according to commercial
+950 usage or the laws of this state, as may belong to notaries
+951 public.
+952 (b) No notary public shall be obligated to perform a
+Page 34
+
+(b) No notary public shall be obligated to perform a
+HB426 INTRODUCED
+953 notarial act if he or she has a reason to believe the act is:
+954 (1) For a transaction that the notary public knows or
+955 suspects is illegal, false, or deceptive;
+956 (2) For an individual who is being coerced;
+957 (3) For an individual whose demeanor causes compelling
+958 doubts as to whether the person knows the consequences of the
+959 transaction requiring the notarial act; or
+960 (4) For situations that compromise the notary public's
+961 impartiality."
+962 "§36-20-73.1
+963 (a) Except as otherwise provided in this section, any
+964 signature acknowledged by a notary public shall be executed
+965 within this state and shall be executed in the physical
+966 presence of the notary public at the time of the
+967 acknowledgment, only after the notary public has positively
+968 identified the prospective signatory via personal knowledge of
+969 the prospective signatory or the examination of photo
+970 identification issued by a governmental entity or agency.
+971 (b) For the purposes of this section, the following
+972 terms shall have the following meanings:
+973 (1) ORIGINAL SIGNATURE. A signature signed directly
+974 onto a document in wet ink by an individual who is named on
+975 the document.
+976 (2) SIGNATORY. The individual who is named on the
+977 document and is to sign the document.
+978 (c) Unless otherwise provided by law, the powers and
+979 functions of a notary public require his or her original
+980 signature.
+Page 35
+
+signature.
+HB426 INTRODUCED
+981 (d) For purposes of this article, and subject to
+982 subsections (e) to (g), inclusive, an individual may
+983 personally appear before an acknowledging notary by either of
+984 the following:
+985 (1) Physically appearing before the notary as provided
+986 in subsection (a).
+987 (2) Appearing through the use of two-way audio-video
+988 communication technology that allows a notary public and a
+989 remotely located signatory to communicate with each other
+990 simultaneously by sight and sound, provided that: (i) the
+991 notary public is physically located in this state; and (ii)
+992 the two-way audio-video communication is recorded and
+993 maintained for a period of seven years by the notary public.
+994 (e) All of the following shall occur prior to the
+995 performance of a remote electronic notarial act:
+996 (1) If appearing through the use of two-way audio-video
+997 communication, theThe identity of the signatory shall be
+998 verified by the notary public using either of the following
+999 methods:
+1000 (1)a. The personal knowledge of the notary public of
+1001 the identity of the signatory.
+1002 (2)a.b.1. The presentation of two valid forms of
+1003 government issued identification, one of which shall include
+1004 the face and signature of the signatory; and
+1005 b.2. A process by which the notary public verifies the
+1006 identity of the signatory through a review of public or
+1007 private data sources.
+1008 (2) The remote notary shall verify that the remotely
+Page 36
+
+(2) The remote notary shall verify that the remotely
+HB426 INTRODUCED
+1009 located signatory does not appear, in the judgment of the
+1010 electronic notary, to be incompetent, lacking in understanding
+1011 of the nature and consequences of the transaction requiring
+1012 the notarial act, or acting involuntarily, under duress, or
+1013 under undue influence.
+1014 (3) The notary shall verify the identity of the
+1015 remotely located signatory pursuant to this section.
+1016 (4) The notary shall inform the participants that
+1017 Alabama law requires that a recording be made of the remote
+1018 electronic notarization.
+1019 (f) The two-way audio-video communication recording
+1020 shall contain all of the following:
+1021 (1) The date and time of the remote notarial act.
+1022 (2) A description of the documents to which the remote
+1023 notarial act relates.
+1024 (3) An attestation by the notary public of being
+1025 physically located in this state.
+1026 (4) A description of how the identification of the
+1027 signatory was verified.
+1028 (5) A clear image of any government issued
+1029 identification, if applicable.
+1030 (6) A clear image of the act of signing observed by the
+1031 notary public.
+1032 (g) The official date and time of the notarization is
+1033 the date and time the notary public witnessed the signature,
+1034 including the date and time the signature was witnessed via
+1035 two-way audio-video communication technology. All documents
+1036 used during the two-way audio-video communication, shall be
+Page 37
+
+used during the two-way audio-video communication, shall be
+HB426 INTRODUCED
+1037 provided to the notary public for his or her authentication
+1038 and original signature.
+1039 (h) An electronic notary shall refuse to perform a
+1040 remote electronic notarial act if either of the following
+1041 applies:
+1042 (1) The electronic notary has reasonable grounds to
+1043 believe the remotely located signatory appears in the judgment
+1044 of the electronic notary to be incompetent, lacking in
+1045 understanding of the nature and consequences of the
+1046 transaction requiring the notarial act, or acting
+1047 involuntarily, under duress, or under undue influence.
+1048 (2) The electronic notary becomes aware that the
+1049 communication technology is not secure or the image presented
+1050 of the signatory appears to be artificially generated.
+1051 (h)(i) Any action taken before July 1, 2021, allowing
+1052 for the remote notarization of signatures under the Emergency
+1053 Management Act of 1955, Article 1 of Chapter 9 of Title 31, is
+1054 ratified and confirmed.
+1055 (i) Remote notarization may not be used to notarize an
+1056 absentee ballot application or an absentee ballot affidavit,
+1057 or for any purpose related to voting."
+1058 Section 5. This act shall become effective on October
+1059 1, 2026.
+Page 38

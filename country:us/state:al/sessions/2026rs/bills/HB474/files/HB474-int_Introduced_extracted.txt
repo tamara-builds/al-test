@@ -1,0 +1,226 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB474 INTRODUCED
+1 HB474
+2 5VJVL6M-1
+3 By Representatives Butler, Harrison
+4 RFD: Financial Services
+5 First Read: 17-Feb-26
+Page 0
+
+First Read: 17-Feb-26
+5VJVL6M-1 02/17/2026 KMS (L)cr 2026-610
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Board of Control of the
+6 Retirement Systems of Alabama is authorized to act as
+7 trustee of several funds and is granted full power to
+8 invest and reinvest funds.
+9 This bill would enforce the prohibition placed
+10 on investment activities by certain Presidential
+11 Executive Orders addressing an identified national
+12 emergency regarding the threat from securities
+13 investments that finance Communist Chinese military
+14 companies.
+15 This bill would also prohibit the purchase or
+16 sale of any publicly traded securities to or from
+17 certain entities affiliated with Communist Chinese
+18 military companies or any publicly traded securities
+19 that are derivative of such securities or are designed
+20 to provide investment exposure to such securities.
+21
+22
+23 A BILL
+24 TO BE ENTITLED
+25 AN ACT
+26
+27 Relating to public investments; to add Section
+28 16-25-20.1, to the Code of Alabama 1975, to prohibit the Board
+Page 1
+
+16-25-20.1, to the Code of Alabama 1975, to prohibit the Board
+HB474 INTRODUCED
+29 of Control of the Teachers' Retirement System of Alabama from
+30 making certain investments; and to add Section 36-27-25.1 to
+31 the Code of Alabama 1975, to prohibit the Board of Control for
+32 the Employees' Retirement System of Alabama from making
+33 certain investments.
+34 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+35 Section 1. Sections 16-25-20.1 and 36-27-25.1 are added
+36 to the Code of Alabama 1975, to read as follows:
+37 §16-25-20.1
+38 (a) As used in this section, the following terms have
+39 the following meanings:
+40 (1) INVESTMENT ACTIVITIES. The act of investing or the
+41 lending of assets of the Teachers' Retirement System of
+42 Alabama.
+43 (2) RESTRICTED ENTITY. All of the following:
+44 a. A Chinese entity that is:
+45 1. Designated by Presidential Executive Order 13959,
+46 relating to addressing the threat from securities investments
+47 that finance communist Chinese military companies;
+48 2. Designated by presidential Executive Order 14105(88
+49 Fed. Reg. 54867), relating to addressing United States
+50 investments in certain national security technologies and
+51 products in countries of concern; and
+52 3. Included in the List of Specially Designated
+53 Nationals and Blocked Persons maintained by the U.S.
+54 Department of the Treasury, Office of Foreign Assets Control.
+55 b. A Chinese entity that is:
+56 1. Included on the Non-SDN Chinese Military-Industrial
+Page 2
+
+1. Included on the Non-SDN Chinese Military-Industrial
+HB474 INTRODUCED
+57 Complex Companies List (NS-CMIC List) maintained by the U.S.
+58 Department of the Treasury, Office of Foreign Assets Control
+59 under Presidential Executive Order 14032;
+60 2. A Chinese military company or a military-civil
+61 fusion contributor and included on the list maintained by the
+62 Department of Defense in accordance with Section 1260H(b) of
+63 the National Defense Authorization Act for fiscal year 2021;
+64 3. Included on the list required under Section 1237 of
+65 the National Defense Authorization Act for fiscal year 1999;
+66 4. Included on the Entity List in 15 C.F.R. Supplement
+67 No. 4 to Part 744 of the federal government's Export
+68 Administration regulations;
+69 5. Included on the Denied Persons List described in 15
+70 C.F.R. § 764.3(a)(2) of the federal government's Export
+71 Administration regulations;
+72 6. Included on the Unverified List set forth in 15
+73 C.F.R. Supplement No.6 to Part 744 of the Export
+74 Administration regulations;
+75 7. Included on the Military End User List set forth in
+76 15 C.F.R. Supplement No.7 to Part 744 of the Export
+77 Administration regulations;
+78 8. Produces or provides communications equipment or
+79 service on the list published by the Federal Communications
+80 Commission under 47 U.S.C. § 1601(a) of the Secure and Trusted
+81 Communications Networks Act of 2019;
+82 9. Included on the Uyghur Forced Labor Prevention Act
+83 entity list maintained by the Department of Homeland Security;
+84 10. Included on the Withhold Release Orders and
+Page 3
+
+10. Included on the Withhold Release Orders and
+HB474 INTRODUCED
+85 Findings List maintained by the Commissioner of U.S. Customs
+86 and Border Protection pursuant to the Uyghur Forced Labor
+87 Prevention Act 88 Fed. Reg. 85899;
+88 11. Included on the list of covered issuers, as defined
+89 in Section 104 of the Sarbanes Oxley Act of 2002 15 U.S.C. §
+90 7214, maintained by the Securities and Exchange Commission;
+91 and
+92 12. Otherwise included on any other list maintained by
+93 the United States Government that designates a Chinese entity
+94 for a restriction relating to investment, contracting, or
+95 procurement.
+96 c. A Chinese entity otherwise subject to the control of
+97 a Chinese entity listed in paragraph a. or b.
+98 d. Any agency or instrumentality of the People's
+99 Republic of China.
+100 (b) The State Auditor or his or her designee, no later
+101 than January 1, 2027, shall create a list of restricted
+102 entities and shall update the list every six months
+103 thereafter. The retirement system shall not engage in
+104 investment activities with a listed restricted entity.
+105 (c) Upon publication of the restricted entity list, the
+106 Board of Control shall identify any holdings of the retirement
+107 system in a restricted entity and, acting as a prudent
+108 investor, shall expeditiously divest from any holdings or
+109 other investment activity in that restricted entity.
+110 §36-27-25.1
+111 (a) As used in this section, the following terms have
+112 the following meanings:
+Page 4
+
+the following meanings:
+HB474 INTRODUCED
+113 (1) INVESTMENT ACTIVITIES. The act of investing or the
+114 lending of assets of the retirement system.
+115 (2) RESTRICTED ENTITY. All of the following:
+116 a. A Chinese entity that is:
+117 1. Designated by Presidential Executive Order 13959,
+118 relating to addressing the threat from securities investments
+119 that finance communist Chinese military companies;
+120 2. Designated by Presidential Executive Order 14105 (88
+121 Fed. Reg. 54867), relating to addressing United States
+122 investments in certain national security technologies and
+123 products in countries of concern; and
+124 3. Included in the List of Specially Designated
+125 Nationals and Blocked Persons maintained by the U.S.
+126 Department of the Treasury, Office of Foreign Assets Control.
+127 b. A Chinese entity that is:
+128 1. Included on the Non-SDN Chinese Military-Industrial
+129 Complex Companies List (NS-CMIC List) maintained by the U.S.
+130 Department of the Treasury, Office of Foreign Assets Control
+131 under Presidential Executive Order 14032;
+132 2. A Chinese military company or a military-civil
+133 fusion contributor and included on the list maintained by the
+134 Department of Defense in accordance with Section 1260H(b) of
+135 the National Defense Authorization Act for fiscal year 2021;
+136 3. Included on the list required under Section 1237 of
+137 the National Defense Authorization Act for fiscal year 1999;
+138 4. Included on the Entity List in 15 C.F.R. Supplement
+139 No. 4 to Part 744 of the federal government's Export
+140 Administration regulations;
+Page 5
+
+Administration regulations;
+HB474 INTRODUCED
+141 5. Included on the Denied Persons List described in 15
+142 C.F.R. § 764.3(a)(2) of the federal government's Export
+143 Administration regulations;
+144 6. Included on the Unverified List set forth in 15
+145 C.F.R. Supplement No.6 to Part 744 of the Export
+146 Administration regulations;
+147 7. Included on the Military End User List set forth in
+148 15 C.F.R. Supplement No.7 to Part 744 of the Export
+149 Administration regulations;
+150 8. Produces or provides communications equipment or
+151 service on the list published by the Federal Communications
+152 Commission under 47 U.S.C. § 1601(a) of the Secure and Trusted
+153 Communications Networks Act of 2019;
+154 9. Included on the Uyghur Forced Labor Prevention Act
+155 entity list maintained by the Department of Homeland Security;
+156 10. Included on the Withhold Release Orders and
+157 Findings List maintained by the Commissioner of U.S. Customs
+158 and Border Protection pursuant to the Uyghur Forced Labor
+159 Prevention Act 88 Fed. Reg. 855899;
+160 11. Included on the list of covered issuers, as defined
+161 in Section 104 of the Sarbanes Oxley Act of 2002, 15 U.S.C. §
+162 7214, maintained by the Securities and Exchange Commission;
+163 and
+164 12. Otherwise included on any other list maintained by
+165 the United States Government that designates a Chinese entity
+166 for a restriction relating to investment, contracting, or
+167 procurement.
+168 c. A Chinese entity otherwise subject to the control of
+Page 6
+
+c. A Chinese entity otherwise subject to the control of
+HB474 INTRODUCED
+169 a Chinese entity listed in paragraph b.
+170 d. Any agency or instrumentality of the People's
+171 Republic of China.
+172 (b) The State Auditor or his or her designee, no later
+173 than January 1, 2027, shall create a list of restricted
+174 entities and shall update the list every six months
+175 thereafter. The retirement system shall not engage in
+176 investment activities with a listed restricted entity.
+177 (c) Upon publication of the restricted entity list, the
+178 Board of Control shall identify any holdings of the retirement
+179 system in a restricted entity and, acting as a prudent
+180 investor, shall expeditiously divest from any holdings or
+181 other investment activity in that restricted entity.
+182 Section 2. This act shall become effective on October
+183 1, 2026.
+Page 7

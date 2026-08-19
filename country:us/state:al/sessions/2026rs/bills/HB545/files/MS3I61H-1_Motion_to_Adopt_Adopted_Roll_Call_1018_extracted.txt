@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 1018
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MS3I61H-1 03/10/2026 JWB (H) HSE 2026-1105
+House Financial Services Reported Substitute for
+HB545
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Related to legal tender; to authorize the rounding of
+10 the total amount of any in-person cash transaction to the
+11 nearest five cents.
+12 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+13 Section 1. (a) The amount of an in-person cash
+14 transaction may be rounded to the nearest five cents using the
+15 following methodology:
+16 (1) If the final digit of the amount in the transaction
+17 is one or two, the final digit must be rounded down to zero.
+18 (2) If the final digit is three or four, the final
+19 digit must be rounded up to five.
+20 (3) If the final digit is six or seven, the final digit
+21 must be rounded down to five.
+22 (4) If the final digit is eight or nine, the final
+23 digit must be rounded up to zero.
+24 (5) If the final digit is five or zero, the final digit
+25 must not be rounded.
+26 (b) Subsection (a) does not alter the sales price, the
+27 amount of tax collected under Section 40-23-26, Code of
+28 Alabama 1975, or any other authority providing for the
+Page 1
+
+Alabama 1975, or any other authority providing for the
+MS3I61H-1 03/10/2026 JWB (H) HSE 2026-1105
+House Financial Services Reported Substitute for
+HB545
+29 collection of sales tax, or any surcharges, assessments, or
+30 fees imposed on the sale.
+31 (c)(1) Subsection (a) may apply to the amount of the
+32 transaction or to the amount of change tendered to the
+33 purchaser.
+34 (2) Subsection (a) shall not apply to any transaction
+35 for which payment is made by a method other than cash,
+36 including electronic funds transfer, check, gift card, money
+37 order, or credit card. If the transaction is made using both
+38 cash and another form of payment, subsection (a) shall apply
+39 to the portion of the transaction amount that is paid for
+40 using cash.
+41 (3) Subsection (a) shall not alter or affect any
+42 payment amount authorized, cleared, or settled through any
+43 payment system that does not use cash.
+44 (4) Subsection (a) shall not apply to any transaction
+45 where payment is made to a governmental entity. For purposes
+46 of this subdivision, "governmental entity" means any state or
+47 local agency or instrumentality thereof located in the state.
+48 (d) The Department of Revenue shall post a notice on
+49 the department's website stating the authorization to begin
+50 rounding transactions pursuant to this section.
+51 Section 2. This act shall become effective immediately.
+Page 2

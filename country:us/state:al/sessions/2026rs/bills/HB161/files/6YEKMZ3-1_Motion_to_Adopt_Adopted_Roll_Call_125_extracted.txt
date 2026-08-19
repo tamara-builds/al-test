@@ -1,0 +1,90 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 125
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+6YEKMZ3-1 : 1/21/2026 : THR
+1ST CHESTNUT AMENDMENT TO HB161
+OFFERED BY REPRESENTATIVE CHESTNUT
+1
+2
+3
+4
+5 Replace line 68 on page 3 with the following:
+6 (10) IN-APP PURCHASE. A charge associated with any
+7 user conduct within an app and billed by an app store,
+8 including, but not limited to, the acquisition of virtual
+9 currency, digital goods, digital services, or other apps.
+10 (11) MINOR. An individual under 18 years of age,
+11 unless
+12
+13 Replace line 70 on page 3 with the following:
+14 (12) MINOR ACCOUNT. An account with an app store
+15
+16 Replace line 73 on page 3 with the following:
+17 (13) MOBILE DEVICE. A phone or general-purpose tablet
+18
+19 Replace line 78 on page 3 with the following:
+20 (14) MOBILE OPERATING SYSTEM. Software that: (i)
+21
+22 Replace line 83 on page 3 with the following:
+23 (15) PARENT. With respect to a minor, any of the
+24
+Page 1
+
+6YEKMZ3-1 : 1/21/2026 : THR
+1ST CHESTNUT AMENDMENT TO HB161
+OFFERED BY REPRESENTATIVE CHESTNUT
+25 Replace line 88 on page 4 with the following:
+26 (16) PARENT ACCOUNT. An account with an app store
+27
+28 Replace line 93 on page 4 with the following:
+29 (17) PARENTAL CONSENT DISCLOSURE. The following
+30
+31 Replace line 106 on page 4 with the following:
+32 (18) PRE-INSTALLED APP. Any app, or portion of an
+33 app,
+34
+35 Replace line 119 on page 5 with the following:
+36 (19) SIGNIFICANT CHANGE. A material modification to
+37 an
+38
+39 Replace line 128 on page 5 with the following:
+40 (20) VERIFIABLE PARENTAL CONSENT. Authorization that
+41
+42 Replace line 261 on page 10 with the following:
+43 Chapter 19 of Title 8 of the Code of Alabama 1975.
+44 Provided, however, the Attorney General shall have the
+45 exclusive jurisdiction to bring an action pursuant to
+46 this act. If the
+47
+48 Replace line 297 on page 11 with the following:
+Page 2
+
+Replace line 297 on page 11 with the following:
+6YEKMZ3-1 : 1/21/2026 : THR
+1ST CHESTNUT AMENDMENT TO HB161
+OFFERED BY REPRESENTATIVE CHESTNUT
+49 under any other applicable law.
+50 (d) An app store provider shall not be liable for a
+51 violation of this act if the app store provider generates
+52 an erroneous age category signal for a user as long as
+53 the app store provider demonstrates that the app store
+54 provider did all of the following:
+55 (1) Used a commercially reasonable age verification
+56 process.
+57 (2) Exercised due care in conducting the age
+58 verification process.
+59 (3) Made reasonable efforts to reconcile any
+60 discrepancies between a parent's attestation of the
+61 minor's age and other age data collected in the ordinary
+62 course of account creation or use.
+63
+64 Replace lines 329 through 330 on page 12 with the
+65 following:
+66 Section 14. This act shall become effective on
+67 January 1, 2027.
+Page 3

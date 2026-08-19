@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB214 INTRODUCED
+1 HB214
+2 TBS4N55-1
+3 By Representatives Lomax, DuBose
+4 RFD: Ethics and Campaign Finance
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+TBS4N55-1 09/16/2025 PMG (L)cr 2025-2093
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would prohibit foreign nationals from
+6 contributing to campaigns, ballot measures, political
+7 parties, or political action committees and prohibit
+8 political parties, political action committees,
+9 principal campaign committees, and others from
+10 soliciting campaign contributions from foreign
+11 nationals.
+12 This bill would also define terms and impose
+13 penalties for violations.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to the Fair Campaign Practices Act; to amend
+21 Section 17-5-15.1, Code of Alabama 1975; to define "foreign
+22 national" and prohibit foreign national contributions and
+23 donations to fund Alabama campaigns and noncandidate
+24 elections; and to provide penalties for violations.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 17-5-15.1, Code of Alabama 1975, is
+27 amended to read as follows:
+28 "§17-5-15.1
+Page 1
+
+"§17-5-15.1
+HB214 INTRODUCED
+29 (a)(1) A principal campaign committee of a state or
+30 local candidate and any person authorized to make an
+31 expenditure on its behalf may shall not receive or spend, in a
+32 campaign for state or local office, campaign funds in excess
+33 of one thousand dollars ($1,000) that were raised by a
+34 principal campaign committee of a federal candidate.
+35 (b)(2) Any person who intentionally knowingly and
+36 willfully receives or expends campaign funds in violation of
+37 subsection (a) subdivision (1) shall be guilty, upon
+38 conviction, of a Class C felony.
+39 (b)(1) A foreign national shall not make, directly or
+40 indirectly, any of the following:
+41 a. A contribution or donation of money or other thing
+42 of value, or make an express or implied promise to make a
+43 contribution or donation, in connection with a state or local
+44 election of a candidate to public office or a noncandidate
+45 election.
+46 b. A contribution or donation to a committee of a state
+47 or local political party.
+48 c. A contribution or donation to a political action
+49 committee.
+50 d. An expenditure, independent expenditure, or
+51 disbursement for an electioneering communication.
+52 (2) A person, political party, political action
+53 committee, or principal campaign committee shall not solicit,
+54 accept, or receive a contribution, donation, expenditure,
+55 independent expenditure, or disbursement described in
+56 paragraph (1)a., (1)b., (1)c., or (1)d. from a foreign
+Page 2
+
+paragraph (1)a., (1)b., (1)c., or (1)d. from a foreign
+HB214 INTRODUCED
+57 national. A recipient of contributions or other funds
+58 described in this subdivision does not violate this subsection
+59 when the contribution or source includes credible evidence
+60 demonstrating that the contributor or source of the funds is
+61 not a foreign national.
+62 (3)a. If a solicitation contains a notice or disclaimer
+63 that funds are not being solicited from a foreign national,
+64 there shall be a rebuttable presumption that a foreign
+65 national was not solicited, as prohibited by this subsection.
+66 b. A notice or disclaimer that funds are not being
+67 solicited may be included with any notice or disclaimer
+68 required under Section 17-5-12 or 17-5-13.
+69 (4) This subsection does not apply to dues charged for
+70 membership in an organization or fees collected for conference
+71 attendance or sponsorship of an event hosted by the
+72 organization itself so long as: (i) the organization is not a
+73 foreign national; (ii) any dues or fees received by the
+74 organization are only partially derived from foreign
+75 nationals; and (iii) no decisions of the organization
+76 regarding a candidate election or a noncandidate election are
+77 dictated, directly or indirectly, by a foreign national.
+78 (5) Any person who knowingly and willfully violates
+79 subdivision (1) or (2) shall be guilty, upon conviction, of a
+80 Class C felony.
+81 (6) It is the intent of the Legislature that the
+82 Secretary of State and the Alabama Ethics Commission use
+83 available Federal Election Commission guidance and
+84 interpretations of restrictions involving foreign national
+Page 3
+
+interpretations of restrictions involving foreign national
+HB214 INTRODUCED
+85 campaign activities pursuant to 52 U.S.C. § 30121 where the
+86 provisions are comparable to avoid federal and state
+87 regulatory confusion and to minimize administrative burdens.
+88 Other terms not specifically defined by the Alabama Fair
+89 Campaign Practices Act, such as "independent expenditure,"
+90 should likewise be construed.
+91 (c) For purposes of this section, the following terms
+92 have the following meanings:
+93 (1) DIRECTLY OR INDIRECTLY. Acting either alone or
+94 jointly with, through, or on behalf of any other noncandidate
+95 election committee, political party, political action
+96 committee, or principal campaign committee, organization,
+97 person, or other entity.
+98 (2) FOREIGN NATIONAL. a. Includes any of the following:
+99 1. An individual who is not a citizen or lawful
+100 permanent resident of the United States.
+101 2. A government or subdivision of a foreign country or
+102 municipality thereof.
+103 3. A foreign political party.
+104 4. Any entity, such as a partnership, association,
+105 corporation, organization, or other combination of persons,
+106 that is organized under the laws of, or has its principal
+107 place of business in, a foreign country.
+108 5. Any U.S. entity, such as a partnership, association,
+109 corporation, or organization, which is wholly or majority
+110 owned by any foreign national, unless: (i) any contribution or
+111 expenditure the entity makes derives entirely from funds
+112 generated by the entity's U.S. operations; and (ii) all
+Page 4
+
+generated by the entity's U.S. operations; and (ii) all
+HB214 INTRODUCED
+113 decisions concerning the contributions or expenditures are
+114 made by individuals who are U.S. citizens or permanent
+115 residents, except decisions setting overall budget amounts.
+116 b. The definition of "foreign national" should be
+117 construed in pari materia with 52 U.S.C. § 30121 and the
+118 regulations, interpretations, and guidance issued by the
+119 Federal Election Commission pursuant to that law.
+120 (3) NONCANDIDATE ELECTION. A question or proposition to
+121 be placed before the voter in a state or local election, other
+122 than the nomination or election of a candidate for public
+123 office, such as a constitutional amendment or referendum."
+124 Section 2. This act shall become effective on October
+125 1, 2026.
+Page 5

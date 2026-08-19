@@ -1,0 +1,243 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB305 INTRODUCED
+1 HB305
+2 L5II1AY-1
+3 By Representatives Brinyark, Faulkner
+4 RFD: Judiciary
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+L5II1AY-1 01/15/2026 GED (L)ma 2026-290
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a court may not order, draw,
+6 or summon a special venire for a capital felony trial.
+7 This bill would remove the prohibition of
+8 special venire in capital felony cases, granting courts
+9 permissive authority to order, draw, or summon a
+10 special venire.
+11 This bill would require the courts to follow
+12 specific procedures for voir dire questioning and
+13 striking potential jurors for cause, to include
+14 administering an oath to the potential jurors, ensuring
+15 each party has an opportunity to question potential
+16 jurors, and removing jurors for cause upon a motion
+17 made by either party or the court.
+18 This bill would further provide for the
+19 procedures the courts must follow when retaining
+20 alternate jurors, authorizing the courts to retain
+21 alternate jurors after the jury retires to deliberate.
+22 This bill would also establish the procedures
+23 the courts must follow when there are not enough
+24 qualified jurors in attendance to form the juries
+25 required.
+26
+27
+28
+Page 1
+
+HB305 INTRODUCED
+29 A BILL
+30 TO BE ENTITLED
+31 AN ACT
+32
+33 Relating to juries; to amend Section 12-16-100, Code of
+34 Alabama 1975, to allow a special venire in certain criminal
+35 cases; to require courts to follow certain procedures for voir
+36 dire questioning and striking jurors for cause; to further
+37 provide for alternate juror procedures; and to provide for
+38 procedures when there are not enough qualified jurors in
+39 attendance to form juries required.
+40 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+41 Section 1. Section 12-16-100, Code of Alabama 1975, is
+42 amended to read as follows:
+43 "§12-16-100
+44 (a) In every criminal case the jury shall be drawn,
+45 selected, and empaneled as follows:
+46 (1) Upon the trial by jury in the circuit courts of any
+47 person charged with a felony, including a capital felony, a
+48 misdemeanor, or violation, the court shall require a strike
+49 list or lists to be compiled from the names appearing on the
+50 master strike list as established in Section 12-16-74, or
+51 alternatively, as provided in Sections 12-16-145 and
+52 12-16-146. In compiling the list or lists, names of qualified
+53 jurors may be omitted on a nonselective basis. A strike list
+54 shall be furnished for the trial of any case at hand and a
+55 copy thereof given to all parties. The prospective jurors
+56 whose names appear thereon shall be brought into open court,
+Page 2
+
+whose names appear thereon shall be brought into open court,
+HB305 INTRODUCED
+57 and the case shall be called. and
+58 (2) Upon calling the case, the court shall administer
+59 the oath of prospective jurors found in Rule 18.4(b), Alabama
+60 Rules of Criminal Procedure, as adopted by the Supreme Court
+61 of Alabama.
+62 (3) in Following the administration of the oath of
+63 prospective jurors, and in the presence of the district
+64 attorney and the defendant and his or her attorney, the jurors
+65 shall be examined on voir dire for the trial of the case at
+66 hand.
+67 (4) The court shall permit the parties or their
+68 attorneys to conduct a reasonable examination of prospective
+69 jurors. The court may also conduct an examination of
+70 prospective jurors, and the court may direct that the
+71 examination of one or more prospective jurors be separate and
+72 apart from the other prospective jurors. Voir dire examination
+73 of prospective jurors shall be limited to inquiries directed
+74 to basis for challenge for cause or for obtaining information
+75 enabling the parties to knowledgeably exercise their strikes.
+76 (5) When a prospective juror is subject to challenge
+77 for cause or it reasonably appears that the prospective juror
+78 cannot or will not render a fair and impartial verdict, the
+79 court, on its own initiative or on motion of any party, shall
+80 excuse that juror from service in the case. Challenges for
+81 cause shall be made before the parties begin striking the jury
+82 and, in the discretion of the court, may be made out of
+83 hearing of the prospective jurors but shall be on the record.
+84 (6) After the conclusion of the voir dire examination
+Page 3
+
+(6) After the conclusion of the voir dire examination
+HB305 INTRODUCED
+85 and the removal from the strike list of the names of those
+86 jurors who were challenged or excused for good reason cause,
+87 the district attorney shall be required first to strike from
+88 the strike list the name of one juror, and the defendant shall
+89 strike one, and they shall continue to strike off names
+90 alternately until only 12 jurors remain on the strike list and
+91 these 12 jurors thus selected shall be the jury charged with
+92 the trial of the case. If any defendant shall refuse to
+93 exercise a strike to which he or she is entitled, then the
+94 judge presiding shall exercise that defendant's strike for him
+95 or her.
+96 (7) The number of names appearing on the strike list
+97 upon commencement of striking, unless a lesser number is
+98 agreed to by the parties, shall not be less than:
+99 a. 36 Thirty-six if the offense charged is a capital
+100 felony; nor less than
+101 b. 24 Twenty-four if the offense charged is a felony
+102 not punished capitally; and nor less than
+103 c. 18 Eighteen if the offense charged is a misdemeanor
+104 or violation.
+105 (8) In the event the list of competent prospective
+106 jurors is reduced to fewer than the number required by this
+107 subsection, the court shall add prospective jurors in the
+108 manner prescribed in Section 12-16-76. No special venire shall
+109 be ordered, drawn, or summoned for the trial of any person
+110 indicted for a capital felony.
+111 (b)(1) The court may in its discretion qualify such
+112 alternate jurors as it deems necessary, except that in capital
+Page 4
+
+alternate jurors as it deems necessary, except that in capital
+HB305 INTRODUCED
+113 cases the court shall qualify at least two alternate jurors,
+114 as required by law.
+115 (2) Alternate jurors shall be drawn from the venire in
+116 the same manner, shall have the same qualifications, shall be
+117 subject to the same examination and challenges, shall take the
+118 same oath, and shall have the same functions, powers,
+119 facilities, and privileges as the principal jurors, except
+120 that they shall not deliberate with the jury or vote upon the
+121 verdict unless designated to replace a principal juror.
+122 (3) The court may take either of the following actions
+123 at the time the jury retires to consider its verdict:
+124 a. An Discharge the alternate juror who does not
+125 replace a principal juror. shall be discharged at the time the
+126 jury retires to consider its verdict.
+127 b. Retain the alternate juror after the jury retires to
+128 deliberate.
+129 (4) The court shall ensure that a retained alternate
+130 juror does not discuss the case with anyone until that
+131 alternate juror replaces a juror or is discharged. If an
+132 alternate juror replaces a juror after deliberations have
+133 begun, the court must instruct the jury to begin its
+134 deliberations anew.
+135 (c)(1) If the court determines that more than two
+136 alternate jurors shall be selected in a capital case, or that
+137 one or more alternate jurors shall be selected in a noncapital
+138 case, upon commencement of striking, unless the parties
+139 consent to the use of a lesser number, the minimum number of
+140 names required on the strike list in subsection (a) shall be
+Page 5
+
+names required on the strike list in subsection (a) shall be
+HB305 INTRODUCED
+141 increased by two for each alternate juror to be selected,;
+142 provided that such increase in names shall not apply for the
+143 first two alternate jurors to be selected in a capital case.
+144 (2) The parties shall then strike from the strike list
+145 as herein provided until there remain 12 jurors. The last
+146 juror or jurors struck shall be the alternate or alternates,
+147 and if it becomes necessary for an alternate juror to replace
+148 a principal juror, the last juror struck shall be designated.
+149 The identity of alternate jurors shall not be divulged to the
+150 jurors until the jury retires for deliberation.
+151 (d) Whenever there are not enough qualified jurors in
+152 attendance to form the juries required, the presiding judge
+153 shall draw from the trial court jury box or from a list
+154 compiled pursuant to the provisions of Sections 12-16-145 and
+155 12-16-146, the names of as many prospective jurors as he or
+156 she may deem necessary to complete the empaneling of all
+157 juries then required. The court shall cause to be summoned
+158 forthwith all prospective jurors thus selected, to attend
+159 court when required, and the prospective jurors may be
+160 summoned by personal service or by telephone. The court shall
+161 then proceed to empanel or complete the empaneling of the
+162 juries.
+163 (e)(1) If, prior to the commencement of striking,
+164 because of challenged for cause or for any other reason, the
+165 number of names on the list from which the parties are to
+166 strike is reduced to fewer names than the minimum established
+167 in this section, then unless the parties consent to the use of
+168 the lesser number, the court shall fill the deficiency first
+Page 6
+
+the lesser number, the court shall fill the deficiency first
+HB305 INTRODUCED
+169 from the remaining available petit jurors sworn for the week.
+170 (2) If the number of available petit jurors sworn for
+171 the week is insufficient to fill the deficiency, the remaining
+172 deficiency shall be filled either by waiting until other petit
+173 jurors sworn for the week become available or by randomly
+174 drawing or causing to be drawn from the trial court jury box
+175 at least twice the number of names needed to fill the
+176 deficiency.
+177 (3) The court shall cause to be summoned forthwith all
+178 prospective jurors thus drawn, either by personal service or
+179 by telephone. The names of those persons found competent to
+180 hear the case shall be added to the list from which the
+181 parties are to strike, in at least the number necessary to
+182 fill the deficiency.
+183 (d) Any county having existing laws on April 15, 1982
+184 establishing procedures for the selection and use of alternate
+185 jurors, may at the election of the presiding circuit judge,
+186 continue to follow the provisions of such law with respect to
+187 the selection of alternate jurors. Such election must be made
+188 in writing within 30 days of April 15, 1982 and filed with the
+189 Secretary of State, the Clerk of the Supreme Court, the
+190 Administrative Office of Courts and the local bar of the
+191 county affected thereby. At any time after said election,
+192 either the presiding circuit judge, or a majority of the
+193 circuit judges in the circuit wherein the county is located,
+194 may elect to come under the provisions of this chapter by
+195 filing written notice as required above."
+196 Section 2. This act shall become effective on October
+Page 7
+
+Section 2. This act shall become effective on October
+HB305 INTRODUCED
+197 1, 2026.
+Page 8

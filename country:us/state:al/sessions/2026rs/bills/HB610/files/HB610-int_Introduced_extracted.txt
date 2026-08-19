@@ -1,0 +1,478 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB610 INTRODUCED
+1 HB610
+2 9J7I6MB-1
+3 By Representative Sells
+4 RFD: Commerce and Small Business
+5 First Read: 11-Mar-26
+Page 0
+
+First Read: 11-Mar-26
+9J7I6MB-1 01/28/2026 JWB (L)JWB 2026-14
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, businesses may enter into
+6 agreements with a consumer which may be automatically
+7 renewed once the agreement is complete or which
+8 continue unless the consumer cancels.
+9 This bill would require the business to provide
+10 a consumer with disclosures that inform the consumer of
+11 certain information when the agreement creates an
+12 automatic renewal or continuous service agreement.
+13 This bill would prohibit a business from
+14 offering an agreement for an automatic renewal or
+15 continuous service if disclosures and certain other
+16 types of notice are not given to a consumer.
+17 This bill would require the disclosures to be
+18 given in a manner that is clear and conspicuous.
+19 This bill would require a business that makes an
+20 automatic renewal offer or continuous service offer to
+21 provide a mechanism for cancellation of the agreement
+22 that meets certain requirements.
+23 This bill would prohibit a business from
+24 obstructing or delaying cancellation of an automatic
+25 renewal or continuous service agreement, subject to
+26 certain exceptions.
+27 This bill would require that the consumer be
+28 able to cancel the agreement using the same medium that
+Page 1
+
+able to cancel the agreement using the same medium that
+HB610 INTRODUCED
+29 the consumer used in the transaction that resulted in
+30 the activation of the automatic renewal or continuous
+31 service.
+32 This bill would require that businesses provide
+33 notice of material changes to the agreement before
+34 charging the consumer pursuant to an automatic renewal
+35 or continuous service.
+36 This bill would require that businesses send a
+37 reminder for each term of the automatic renewal or
+38 continuous service agreement before the consumer is
+39 charged pursuant to the agreement.
+40 This bill would also provide that a knowing or
+41 intentional violation of this act is a deceptive trade
+42 act or practice and authorize the Attorney General to
+43 enforce civil and criminal penalties for violations.
+44
+45
+46
+47 A BILL
+48 TO BE ENTITLED
+49 AN ACT
+50
+51 Relating to consumer protection; to require a business
+52 to provide disclosures to inform consumers of certain
+53 information when creating an automatic renewal or continuous
+54 service agreement; to prohibit an offer of the same medium
+55 that the consumer used in the transaction that resulted in the
+56 activation of the automatic renewal or continuous service
+Page 2
+
+activation of the automatic renewal or continuous service
+HB610 INTRODUCED
+57 without disclosures or notice of the automatic renewal; to
+58 require that the disclosures and notices be clear and
+59 conspicuous; to require that a business provide a mechanism
+60 for cancellation of the agreement; to prohibit a business from
+61 obstructing or delaying cancellation; to require a business to
+62 allow consumers to cancel using certain mediums; to require a
+63 business to notify consumers of material changes to an
+64 agreement; to require reminders for each term of the
+65 agreement; and to create civil and criminal penalties for
+66 violations as deceptive trade practices.
+67 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+68 Section 1. For the purposes of this act, the following
+69 terms have the following meanings:
+70 (1) AUTOMATIC RENEWAL. A plan, arrangement, or
+71 provision of a contract that contains a free-to-pay conversion
+72 or in which a paid subscription or purchasing agreement is
+73 automatically renewed at the end of a definite term for a
+74 subsequent term.
+75 (2) BUSINESS. Any individual, corporation, partnership,
+76 sole proprietorship, joint stock company, joint venture, or
+77 other private business entity.
+78 (3) CLEAR AND CONSPICUOUS. For text, language that is
+79 in larger type than the surrounding text, or in contrasting
+80 type, font, or color to the surrounding text, or set off from
+81 the surrounding text of the same size by symbols or other
+82 marks in a manner that clearly calls attention to the
+83 language. For audio, language at a volume and in a cadence
+84 sufficient to be readily audible and understandable.
+Page 3
+
+sufficient to be readily audible and understandable.
+HB610 INTRODUCED
+85 (4) CONSUMER. An individual located in this state who,
+86 by purchase or lease, seeks or acquires goods, services,
+87 money, or credit for personal, family, or household purposes.
+88 (5) CONTINUOUS SERVICE. A plan, arrangement, or
+89 provision of a contract that contains a free-to-pay conversion
+90 or in which a paid subscription or purchasing agreement
+91 continues until the consumer cancels the service.
+92 (6) FREE-TO-PAY CONVERSION. In an offer or agreement to
+93 sell or provide goods or services, a provision under which a
+94 consumer receives goods or services for free for an initial
+95 period and will incur an obligation to pay for the goods or
+96 services if the customer does not take affirmative action to
+97 cancel the goods or services before the end of the specified
+98 period.
+99 (7) LOCAL GOVERNMENT. Any incorporated municipality,
+100 county, or other political subdivision of the state or an
+101 agency, board, or commission of the political subdivision of
+102 the state.
+103 (8) LOCAL UTILITY AUTHORITY. An authority incorporated
+104 pursuant to state or local law that provides water, sewage, or
+105 other utilities to residents.
+106 (9) OFFER TERMS. Any of the following disclosures made
+107 by a business to a consumer:
+108 a. The subscription or purchasing agreement will
+109 continue until the consumer cancels the subscription or
+110 purchasing agreement.
+111 b. The description of the cancellation policy that
+112 applies to the offer.
+Page 4
+
+applies to the offer.
+HB610 INTRODUCED
+113 c. The recurring charges that will be charged to the
+114 consumer's credit or debit card or payment amount with a third
+115 party as part of the automatic renewal plan or arrangement,
+116 and that the amount of the charge may change, and if that is
+117 the case, include the amount to which the charge will change,
+118 if known.
+119 d. The length of the term of the automatic renewal or
+120 continuous service, unless the length of the term is chosen by
+121 the consumer.
+122 e. The minimum purchase obligation, if any.
+123 Section 2. (a) A business that provides offer terms for
+124 an automatic renewal or continuous service agreement to a
+125 consumer shall:
+126 (1) Present the offer terms in a clear and conspicuous
+127 manner before the subscription or purchasing agreement is
+128 fulfilled;
+129 (2) Present the terms in visual proximity, or if
+130 conveyed in a verbal offer in temporal proximity, to the
+131 request for consent to the offer;
+132 (3) Present an acknowledgment that includes the offer
+133 terms, cancellation policy, and information regarding how to
+134 cancel the policy in a manner that is capable of being
+135 retained by the consumer;
+136 (4) Obtain the consumer's express consent to the offer
+137 terms; and
+138 (5) Maintain verification of the consumer's consent
+139 obtained under subdivision (4) for the last three years, or
+140 one year after the contract is terminated, whichever period is
+Page 5
+
+one year after the contract is terminated, whichever period is
+HB610 INTRODUCED
+141 longer.
+142 (b)(1) The business, before confirming the consumer's
+143 billing information, shall provide a consumer with a notice
+144 that clearly and conspicuously states:
+145 a. That the automatic renewal or continuous service
+146 will automatically renew unless the consumer cancels the
+147 automatic renewal or continuous service;
+148 b. The length and any additional terms of the renewal
+149 period;
+150 c. The amount or the range of costs the consumer will
+151 be charged and, if applicable, the frequency of those charges
+152 a consumer will incur unless the consumer takes timely steps
+153 to prevent or stop those charges; and
+154 d. One or more methods by which a consumer can cancel
+155 the automatic renewal or continuous service.
+156 (2) If the notice required by this subsection is sent
+157 electronically, the notice shall include a link that directs
+158 the consumer to the cancellation process or, if a link is not
+159 available, another reasonably accessible electronic method
+160 that directs the consumer to the cancellation process.
+161 (c) If the offer for the automatic renewal or
+162 continuous service agreement includes a free gift or trial,
+163 the offer shall include:
+164 (1) A clear and conspicuous explanation of the price
+165 that will be charged after the trial ends or the manner in
+166 which the subscription or purchasing agreement pricing will
+167 change upon the conclusion of the trial; and
+168 (2) A clear and conspicuous explanation of how to
+Page 6
+
+(2) A clear and conspicuous explanation of how to
+HB610 INTRODUCED
+169 cancel the free gift or trial and allow the consumer to cancel
+170 the automatic renewal or continuous service before the
+171 consumer pays for the goods or services.
+172 (d) In the course of offering an agreement for an
+173 automatic renewal or continuous service, the business may not:
+174 (1) Charge the consumer's credit or debit card or the
+175 consumer's account with a third party for an automatic renewal
+176 or continuous service without first obtaining the consumer's
+177 consent to the agreement containing the offer terms, including
+178 the offer terms that are made at a promotional or discounted
+179 price for a limited period of time;
+180 (2) Include any information in the contract that
+181 interferes with, detracts from, contradicts, or otherwise
+182 undermines the ability of a consumer to provide the consumer's
+183 consent to the automatic renewal or continuous service; or
+184 (3) Misrepresent, expressly or by implication, any
+185 material fact related to the transaction, including whether
+186 the transaction contains an automatic renewal or continuous
+187 service.
+188 Section 3. (a) A business shall provide a consumer with
+189 the notice required under Section 2(b):
+190 (1) If the consumer accepted a free gift or trial,
+191 lasting for more than 31 days, which was included in an
+192 automatic renewal offer or continuous service offer, at least
+193 three days but not more than 21 days before the expiration of
+194 the predetermined period of time for which the free gift,
+195 trial, promotion, or discounted price applies;
+196 (2) If the consumer accepted an automatic renewal offer
+Page 7
+
+(2) If the consumer accepted an automatic renewal offer
+HB610 INTRODUCED
+197 or continuous service offer at a promotional or discounted
+198 price and the applicability of that price was for more than 31
+199 days, at least three days but not more than 21 days before the
+200 expiration of the predetermined period of time for which the
+201 free gift, trial, promotion, or discounted price applies; or
+202 (3) If the consumer accepts offer terms with an initial
+203 term of one year or longer which automatically renew unless
+204 the consumer cancels the automatic renewal or continuous
+205 service, at least 15 days but not more than 45 days before the
+206 automatic renewal offer or continuous service offer renews.
+207 (b) If more than one subdivision under subsection (a)
+208 applies to the offer or agreement for an automatic renewal or
+209 continuous service, the business shall provide the notice at
+210 least 15 days but not more than 45 days before the automatic
+211 renewal offer or continuous service offer renews.
+212 (c) As used in this section, "free gift" does not
+213 include a free promotional item or gift given by the business
+214 that differs from the subscription.
+215 (d) This section shall not apply to an offer if the
+216 consumer does not enter into the contract electronically and
+217 the business has not collected or maintained the consumer's
+218 valid email address, telephone number, or other means of
+219 notifying the consumer electronically.
+220 Section 4. (a) A business that makes an automatic
+221 renewal offer or continuous service offer shall provide a
+222 toll-free telephone number or email address, or provide
+223 another cost-effective, timely, and easy-to-use mechanism for
+224 cancellation that must be described in the acknowledgment
+Page 8
+
+cancellation that must be described in the acknowledgment
+HB610 INTRODUCED
+225 specified under Section 2(a)(3). If the business directly
+226 bills the consumer by mail, the business may provide a postal
+227 address as the mechanism for cancellation.
+228 (b)(1) Except as provided under subdivision (2), if a
+229 business provides a mechanism for cancellation by toll-free
+230 telephone number, the business shall:
+231 a. Answer calls promptly during normal business hours;
+232 and
+233 b. Not obstruct or delay the consumer's ability to
+234 cancel the automatic renewal or continuous service.
+235 (2) If a consumer leaves a voicemail with a business
+236 where the consumer requests to cancel an automatic renewal or
+237 continuous service offer, the business, within one business
+238 day, shall process the requested cancellation or call the
+239 consumer back regarding the cancellation request.
+240 Section 5. (a) In addition to the requirements of
+241 Section 3, a business that allows a consumer to accept an
+242 automatic renewal offer or continuous service offer online
+243 shall allow a consumer to terminate the automatic renewal or
+244 continuous service exclusively online, at will, and without
+245 engaging in any further steps that obstruct or delay the
+246 consumer's ability to immediately terminate the automatic
+247 renewal or continuous service.
+248 (b) The business shall provide an online method of
+249 termination in the form of one of the following:
+250 (1) A prominently located direct link or button that
+251 may be located within either a customer account, profile, or
+252 user or device settings.
+Page 9
+
+user or device settings.
+HB610 INTRODUCED
+253 (2) An immediately accessible termination email
+254 formatted and provided by the business which a consumer can
+255 send to the business without additional information.
+256 (c) The termination requirements of this section shall
+257 apply to both the offer terms of the contract and the
+258 remaining provisions of the contract which continue to be
+259 governed by all applicable laws and rules.
+260 (d)(1) Notwithstanding Section 4(a), a business may
+261 require a consumer to enter account information or otherwise
+262 authenticate his or her identity online before termination of
+263 the automatic renewal or continuous service if the consumer
+264 has an account with the business.
+265 (2) A consumer who is unwilling or unable to enter
+266 account information or otherwise authenticate his or her
+267 identity online before termination of the automatic renewal or
+268 continuous service online shall not be precluded from
+269 authenticating or terminating the automatic renewal or
+270 continuous service offline using another method under Section
+271 4.
+272 (e)(1) If the consumer remains able to cancel the
+273 automatic renewal or continuous service, a business that
+274 provides a discount offer, provides other consumer benefits,
+275 or informs a consumer of the effect of the cancellation shall
+276 not be considered to be an obstruction or delay under
+277 subsection (a).
+278 (2) If the consumer requests to cancel by telephone,
+279 the business, before making the offers under subdivision (1),
+280 shall clearly and conspicuously inform the consumer that the
+Page 10
+
+shall clearly and conspicuously inform the consumer that the
+HB610 INTRODUCED
+281 consumer may complete the cancellation process at any time by
+282 stating that the consumer wants to cancel or words to that
+283 effect. If the consumer states his or her intention to cancel
+284 or words to that effect, the business shall promptly process
+285 the cancellation and shall not otherwise obstruct or delay the
+286 consumer's ability to cancel the automatic renewal or
+287 continuous service.
+288 (3) If a consumer conveys a request to cancel using an
+289 online system, the business, simultaneously with the
+290 presentation of the discounted offer, shall display a
+291 continuous, prominent, and proximately located direct link or
+292 button entitled "click to cancel," or words to that effect. If
+293 the consumer uses the direct link or button, the business
+294 shall promptly process the cancellation and shall not
+295 otherwise obstruct or delay the consumer's ability to proceed
+296 to cancellation.
+297 Section 6. (a) The ability to cancel the automatic
+298 renewal or continuous service shall be available to a consumer
+299 in the same medium that the consumer used in the transaction
+300 that resulted in the activation of the automatic renewal or
+301 continuous service or the same medium that the consumer is
+302 accustomed to interacting with the business, including,
+303 without limitation, in person, by telephone, by mail, or by
+304 email.
+305 (b)(1) If the activation of the automatic renewal or
+306 continuous service was by telephone, a telephone number that
+307 is capable of being retained by the consumer shall be
+308 available to the consumer to cancel the automatic renewal or
+Page 11
+
+available to the consumer to cancel the automatic renewal or
+HB610 INTRODUCED
+309 continuous service.
+310 (2) The telephone number shall be clearly and
+311 conspicuously displayed on the business's website if the
+312 business operates a website.
+313 Section 7. (a) If there is a material change in the
+314 terms of the automatic renewal or continuous service that has
+315 been accepted by a consumer in this state, the business shall
+316 provide the consumer with:
+317 (1) A clear and conspicuous notice of the material
+318 change; and
+319 (2) Information regarding how to cancel in a manner
+320 that is capable of being retained by the consumer.
+321 (b) If there is a change in the fee charged under
+322 existing offer terms that has been accepted by a consumer,
+323 including changes that the consumer affirmatively consented to
+324 in an existing plan or arrangement, the business, no less than
+325 seven days and no more than 30 days before the fee change
+326 takes effect, shall provide the consumer with:
+327 (1) A clear and conspicuous notice of the fee change;
+328 and
+329 (2) Information regarding how to cancel in a manner
+330 that is capable of being retained by the consumer.
+331 Section 8. (a)(1) A business shall send a reminder for
+332 each term to a consumer under an automatic renewal agreement
+333 or continuous service agreement with the business in the same
+334 medium that resulted in the activation of the automatic
+335 renewal or continuous service or the same medium through which
+336 the consumer is accustomed to interacting with the business,
+Page 12
+
+the consumer is accustomed to interacting with the business,
+HB610 INTRODUCED
+337 including, without limitation, by telephone, mail, or email.
+338 (2) For original in-person or voice-based transactions,
+339 the business shall send the reminder by telephone, mail, or
+340 any Internet-based communication.
+341 (b) The reminder sent under subsection (a) shall
+342 disclose:
+343 (1) The product or service to which the automatic
+344 renewal or continuous service applies;
+345 (2) The frequency and amount of charges associated with
+346 the automatic renewal or continuous service; and
+347 (3) The means to cancel the automatic renewal or
+348 continuous service.
+349 Section 9. (a) Except as provided in subsection (b),
+350 this act shall apply only before completion of the initial
+351 order for the automatic renewal or continuous service.
+352 (b) Notwithstanding subsection (a), the requirements of
+353 Sections 2, 3, 7, and 8 may be fulfilled in the following
+354 manners:
+355 (1) Section 2(a)(3) and (b) may be fulfilled after
+356 completion of the initial order for the automatic renewal or
+357 continuous service.
+358 (2) Section 3 may be fulfilled after completion of the
+359 initial order.
+360 (3) Section 7 shall be fulfilled before implementation
+361 of the material change or fee change.
+362 (4) Section 8 shall be fulfilled at least five days,
+363 but not more than 10 days, before the consumer is billed for
+364 an upcoming term of the agreement.
+Page 13
+
+an upcoming term of the agreement.
+HB610 INTRODUCED
+365 Section 10. This act shall not apply to the following:
+366 (1) Any person subject to the jurisdiction of the State
+367 Banking Department.
+368 (2) Any person subject to the jurisdiction of the
+369 Alabama Securities Commission.
+370 (3) Any person subject to the jurisdiction of the
+371 Department of Insurance of the State of Alabama.
+372 (4) Any person subject to the jurisdiction of the
+373 Public Service Commission.
+374 (5) Any person subject to the jurisdiction of the
+375 Federal Communications Commission, excluding those persons
+376 providing satellite digital radio services.
+377 (6) A local utility authority.
+378 (7) A service provider or its affiliate if the service
+379 provider or its affiliate is doing business under a franchise
+380 issued by the state or local government.
+381 (8) A person under the jurisdiction of the Alabama
+382 Security Regulatory Board.
+383 Section 11. (a) Any knowing or reckless violation of
+384 this act is deemed a deceptive trade practice actionable under
+385 Chapter 19 of Title 8 of the Code of Alabama 1975. If the
+386 Attorney General has reason to believe that an entity is in
+387 violation of this act, the Attorney General may bring an
+388 action against the entity for an unfair or deceptive trade
+389 practice. In addition to other remedies available under
+390 Chapter 19 of Title 8 of the Code of Alabama 1975, the
+391 Attorney General may collect a civil penalty of up to seven
+392 thousand five hundred dollars ($7,500) per violation,
+Page 14
+
+thousand five hundred dollars ($7,500) per violation,
+HB610 INTRODUCED
+393 reasonable attorney fees, and court costs.
+394 (b) If a violation described in subsection (a) is part
+395 of a consistent pattern of knowing or reckless conduct, the
+396 Attorney General may seek punitive damages against the entity.
+397 (c) An action for a claim under this section must be
+398 brought within one year from the date the Attorney General
+399 knew or reasonably should have known of the alleged violation.
+400 (d) This section does not preclude any other available
+401 remedy at law or equity.
+402 Section 12. This act shall become effective on October
+403 1, 2026.
+Page 15

@@ -1,0 +1,366 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB360 ENGROSSED
+1 SB360
+2 4UBJT33-2
+3 By Senators Chambliss, Coleman-Madison, Givhan, Gudger,
+4 Roberts, Livingston, Shelnutt, Sessions, Weaver, Waggoner,
+5 Butler, Williams, Chesteen, Allen, Kitchens, Bell, Woods,
+6 Hovey, Elliott, Price, Kelley, Stutts, Carnley, Jones, Melson,
+7 Albritton, Orr, Barfoot, Singleton, Smitherman, Figures,
+8 Beasley, Stewart, Hatcher, Coleman
+9 RFD: Fiscal Responsibility and Economic Development
+10 First Read: 10-Mar-26
+Page 0
+
+First Read: 10-Mar-26
+SB360 Engrossed
+1
+2
+3
+4
+5
+6 A BILL
+7 TO BE ENTITLED
+8 AN ACT
+9
+10 Relating to the Public Service Commission; to establish
+11 the Power to the People Act; to amend Sections 37-1-1, 37-1-3,
+12 37-1-5, and 37-1-12, Code of Alabama 1975; to revise the
+13 membership and terms of the public service commissioners; to
+14 establish the Secretary of Energy as a cabinet member
+15 appointed by the Governor and provide for the duties of the
+16 secretary; to add Sections 37-1-81.1 and 37-1-81.2 to the Code
+17 of Alabama 1975, to prohibit an increase in electric retail
+18 base rates for a certain period and thereafter prohibit
+19 electric utilities from including certain costs in the
+20 calculation or determination of rates or service regulations;
+21 to require the commission to hold a public meeting at least
+22 annually; to amend Sections 17-14-2, 17-14-3, and 36-3-1, Code
+23 of Alabama 1975, to make conforming changes; to repeal Section
+24 37-1-9, Code of Alabama 1975, relating to public service
+25 commissioners; and to make nonsubstantive, technical revisions
+26 to update the existing code language to current style.
+27 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+28 Section 1. This act shall be known and may be cited as
+Page 1
+
+Section 1. This act shall be known and may be cited as
+SB360 Engrossed
+29 the Power to the People Act.
+30 Section 2. Sections 37-1-1, 37-1-3, 37-1-5, and
+31 37-1-12, Code of Alabama 1975, are amended to read as follows:
+32 "§37-1-1
+33 A commission to be known as the Public Service
+34 Commission, consisting of a president and two associates who
+35 shall be competent persons and qualified electors of this
+36 state, is established with seven commissioners as provided
+37 under Section 37-1-3."
+38 "§37-1-3
+39 (a)(1) The terms of office of the commissioners shall
+40 be for four years; at the election to be held in the state on
+41 the first Tuesday after the first Monday in November, for all
+42 commissioners serving on or before the effective date of this
+43 act.
+44 (2) At the general election held in November 1940, and
+45 every four years thereafter until the general election held in
+46 November 2028, a president of the commission shall be elected
+47 by the qualified electors of this state; and at the general
+48 election to be held in the state on the first Tuesday after
+49 the first Monday held in November, 1942, and every four years
+50 thereafter until the general election held in November 2026,
+51 two associates, who, with the president, shall constitute the
+52 commission, shall be elected by the qualified electors of the
+53 state. The result of such election shall be ascertained and
+54 declared by the same authority and in the same manner as are
+55 the results of election for Chief Justice and associate
+56 justices of the Supreme Court.
+Page 2
+
+justices of the Supreme Court.
+SB360 Engrossed
+57 (b) The persons elected to fill the offices shall enter
+58 upon the discharge of their respective duties on the day after
+59 the general election at which they are elected and expire on
+60 the day after the general election held in the fourth year
+61 after their election.
+62 (b)(1) Beginning after the effective date of this act,
+63 the membership of the commission shall be expanded so that
+64 each commissioner shall represent and serve a geographical
+65 district that shall be identical to a corresponding
+66 congressional district, as fixed and established by Section
+67 17-14-70 or pursuant to any map ordered by a court to be used
+68 in lieu thereof. Each commissioner must have been a resident
+69 of the state for a period of seven years immediately before
+70 taking office and reside in the state while in office. The
+71 Secretary of State and Governor shall ensure that
+72 commissioners are phased in so that each of the seven
+73 congressional districts are represented by the terms beginning
+74 in January 2031.
+75 (2) No later than July 15, 2026, the Governor shall
+76 appoint four commissioners to serve initial terms, two of whom
+77 shall serve a two-year term and two of whom shall serve a
+78 four-year term. When making appointments, the Governor shall
+79 choose one individual from a list of three names submitted for
+80 each position. The lists shall be jointly submitted by the
+81 Lieutenant Governor, the Speaker of the House of
+82 Representatives, and the President Pro Tempore of the Senate.
+83 The lists shall be provided to the Governor no later than June
+84 1, 2026.
+Page 3
+
+1, 2026.
+SB360 Engrossed
+85 (3) The elections of commissioners shall be phased in
+86 and staggered as follows:
+87 a. At the general election held in November 2026, two
+88 commissioners shall be elected.
+89 b. At the general election held in November 2028, one
+90 commissioner shall be elected to replace the commissioner
+91 previously known as president of the commission and two
+92 commissioners shall be elected to replace the two
+93 commissioners who were appointed to serve a two-year term,
+94 including one commissioner representing the Seventh
+95 Congressional District.
+96 c. At the general election held in November 2030, two
+97 commissioners shall be elected to replace the two
+98 commissioners who were appointed to serve a four-year term,
+99 including one commissioner representing the Second
+100 Congressional District.
+101 (c) All commissioners who are elected after June 1,
+102 2026, shall serve terms of six years that begin on the first
+103 Monday after the second Tuesday in January following the
+104 general election.
+105 (c)(d) If any vacancy should occur occurs in any one of
+106 the offices, caused by death, resignation, or otherwise, the
+107 same office shall be filled by appointment by the Governor,
+108 the appointee holding for the balance to serve for the
+109 remainder of the unexpired term. If any person individual
+110 elected to the office of public service commissioner shall
+111 fail or refuse fails or refuses for 30 days to qualify, such
+112 the failure or refusal shall be held to create deemed a
+Page 4
+
+the failure or refusal shall be held to create deemed a
+SB360 Engrossed
+113 vacancy in the office., which vacancy shall be filled by
+114 appointment by the Governor, the appointee to hold for the
+115 term for which the person so failing or refusing to qualify
+116 was elected When making an appointment to fill a vacancy, the
+117 Governor shall choose one individual from a list of three
+118 names jointly submitted by the Lieutenant Governor, the
+119 Speaker of the House of Representatives, and the President Pro
+120 Tempore of the Senate.
+121 (e) At the beginning of each term, starting with the
+122 term elected in November 2028, the commissioners shall elect a
+123 president and vice-president from among the membership of
+124 commissioners.
+125 (d)(f) The provisions of this section shall not
+126 diminish the current term of any member elected to the Public
+127 Service Commission."
+128 "§37-1-5
+129 (a) No public service commissioner or clerk Public
+130 service commissioners, the Secretary of Energy, the spouse and
+131 children of any commissioner or the secretary, and employees
+132 of the commission shall, during his continuance in office,
+133 personally or through any partner or agent, may not render any
+134 professional paid service for public utilities.
+135 (b) A utility regulated by the Public Service
+136 Commission may not make a contribution to any candidate
+137 running for the office of a public service commissioner.
+138 (c) The commissioners shall be subject to the ethics
+139 laws under Chapter 25 of Title 36.
+140 (d) No commissioner, for a fee, reward, or other
+Page 5
+
+(d) No commissioner, for a fee, reward, or other
+SB360 Engrossed
+141 compensation, in addition to that received in his or her
+142 official capacity, shall represent any person before the
+143 Legislature or any executive department or agency."
+144 "§37-1-12
+145 (a)(1) Beginning January 19, 2027, the position of
+146 Secretary of Energy is created as a member of the Governor's
+147 cabinet. The secretary shall be appointed by and serve at the
+148 pleasure of the Governor. The secretary's salary shall be
+149 fixed by the Governor and shall not be subject to Section
+150 36-6-6. The secretary must have experience in utility
+151 regulation or energy policy or a related field.
+152 (2) The Secretary of Energy shall direct the activities
+153 of the commission and shall set the agendas for all meetings
+154 of the commissioners, provided a meeting agenda may be amended
+155 by the affirmative vote of at least five commissioners.
+156 (3) The Secretary of Energy shall have authority over
+157 personnel and administrative functions of the commission.
+158 (4) The Secretary of Energy shall be subject to the
+159 ethics laws under Chapter 25 of Title 36.
+160 (b) The commissionsecretary, under the provisions of
+161 the merit systemMerit System, shall have the authority to
+162 appoint or employ professional and administrative employees,
+163 including attorneys, officers, and such accountants,
+164 engineers, experts, inspectors, and other clerks and other
+165 employees as are necessary or expedient to carry out the
+166 duties conferred by law upon the commission., and the salaries
+167 thereforThe salaries of all employees shall be fixed according
+168 to the provisions of the merit systemMerit System. The
+Page 6
+
+to the provisions of the merit systemMerit System. The
+SB360 Engrossed
+169 commission secretary shall also, by and with the approval of
+170 the Governor, have authority to employ and discharge special
+171 counsel or attorneys as it may be deemed necessary for such
+172 purpose.
+173 (c) Any unclassified employee who is employed by the
+174 commission on the effective date of this act and was appointed
+175 by a commissioner shall continue to be employed without regard
+176 to his or her appointing authority. The Secretary of Energy
+177 shall, in consultation with the State Personnel Board, work to
+178 transfer these unclassified employees into classified
+179 service."
+180 Section 3. Sections 37-1-81.1 and 31-1-81.2 are added
+181 to the Code of Alabama 1975 to read as follows:
+182 §37-1-81.1
+183 (a) The retail base rates established and in place on
+184 October 1, 2026 for each utility that is regulated by the
+185 commission and that provides retail electric service may not
+186 be increased before January 1, 2029.
+187 (b) On and after January 1, 2029, a utility that
+188 provides retail electric service may not factor the following
+189 costs into the calculation or determination of a new rate or
+190 service regulation or a change to an existing rate or service
+191 regulation charged to customers of the utility:
+192 (1) Costs incurred due to the utility providing funding
+193 or grants that impact rates to other persons or organizations.
+194 (2) Costs incurred due to the hiring of persons for the
+195 purpose of lobbying the Legislature or any other political
+196 office or subdivision of the state.
+Page 7
+
+office or subdivision of the state.
+SB360 Engrossed
+197 (3) Costs incurred due to advertisement of the utility
+198 other than public safety advertising approved by the
+199 commission.
+200 (c)(1) When an electric utility files a new schedule to
+201 put in operation a new rate or service regulation or to change
+202 an existing rate or service regulation, the utility shall
+203 affirm that the utility has not included the prohibited costs
+204 under subsection (b) in the calculation or determination of
+205 the rate or service regulation.
+206 (2) If the electric utility fails to make the
+207 affirmation, the rate or service regulation shall be void.
+208 (d) If the commission discovers that a utility has
+209 included the prohibited cost under subsection (b) in the
+210 calculation or determination of rates or service regulations,
+211 the commission shall investigate the determination pursuant to
+212 Section 37-1-83 and other powers of investigation granted to
+213 the commission pursuant to this division.
+214 §37-1-81.2
+215 The commissioners and staff of the commission shall
+216 convene at least one public meeting per calendar year with
+217 utility representatives to provide information to the public
+218 on cost trends, reliability, resilience, general
+219 infrastructure investment plans, economic development impacts,
+220 security of the power grid, national trends in energy
+221 production, and other regulatory issues the Secretary of
+222 Energy deems relevant. The public meetings shall be conducted
+223 in a manner that gives residents the opportunity to
+224 participate, addresses concerns voiced by the public, and
+Page 8
+
+participate, addresses concerns voiced by the public, and
+SB360 Engrossed
+225 provides a review of key issues that the secretary believes
+226 will be helpful to the public in understanding issues that
+227 impact services under its jurisdiction.
+228 Section 4. Sections 17-14-2, 17-14-3, and 36-3-1, Code
+229 of Alabama 1975, are amended to make conforming changes to
+230 read as follows:
+231 "§17-14-2
+232 General elections throughout the state shall be held
+233 for Governor, Lieutenant Governor, Attorney General, Auditor,
+234 Secretary of State, Treasurer, Commissioner of Agriculture and
+235 Industries, three public service commissioners, no two of whom
+236 shall be elected from the same from each congressional
+237 district, Chief Justice and associate justices of the Supreme
+238 Court, judges of the courts of appeals, electors for President
+239 and Vice President of the United States, United States
+240 senators, and such other officers as may be required by law to
+241 be elected by the voters of the entire state; for a member of
+242 Congress in each congressional district; judges of the circuit
+243 court in each judicial circuit; judges of the district courts
+244 in each district; district attorneys in each judicial circuit;
+245 a senator in each senatorial district; a representative in the
+246 Legislature in each house district; a judge of the probate
+247 court, sheriff, clerks of the circuit courts, tax assessor,
+248 tax collector, a county treasurer in counties of more than
+249 56,000 population, as provided by law, coroner, and members of
+250 the county commission in each county, and constables in each
+251 precinct of the county."
+252 "§17-14-3
+Page 9
+
+"§17-14-3
+SB360 Engrossed
+253 The Governor, Lieutenant Governor, Attorney General,
+254 Auditor, Secretary of State, Treasurer, Commissioner of
+255 Agriculture and Industries, senators and representatives in
+256 the Legislature, a sheriff in each county, one coroner in all
+257 counties having a coroner, and other officers not otherwise
+258 provided for, shall be elected on the first Tuesday after the
+259 first Monday in November 2006, and every fourth year
+260 thereafter. A president of the Public Service Commission shall
+261 be elected on the first Tuesday after the first Monday in
+262 November 2008, and every fourth year thereafter. Two associate
+263 public service commissioners shall be elected on the first
+264 Tuesday after the first Monday in November 2006, and every
+265 fourth year thereafter."
+266 "§36-3-1
+267 The Governor, Lieutenant Governor, Attorney General,
+268 Auditor, Secretary of State, Treasurer, and Commissioner of
+269 Agriculture and Industries, the President of the Public
+270 Service Commission and two associate public service
+271 commissioners shall hold their respective offices for the term
+272 of four years from the time of their installation in office
+273 and until their successors shall be elected and qualified,
+274 such installation to take place on the first Monday after the
+275 second Tuesday in January next after their election."
+276 Section 5. Section 37-1-9, Code of Alabama 1975,
+277 providing further for the public service commissioners, is
+278 repealed.
+279 Section 6. This act shall become effective on June 1,
+280 2026.
+Page 10
+
+2026.
+SB360 Engrossed
+281
+282
+283 Senate
+284 Read for the first time and referred ................10-Mar-26
+285 to the Senate committee on Fiscal
+286 Responsibility and Economic
+287 Development
+288
+289 Read for the second time and placed ................11-Mar-26
+290 on the calendar:
+291 0 amendments
+292
+293 Read for the third time and passed ................12-Mar-26
+294 as amended
+295 Yeas 32
+296 Nays 0
+297 Abstains 0
+298
+299
+300 Patrick Harris,
+301 Secretary.
+302
+Page 11

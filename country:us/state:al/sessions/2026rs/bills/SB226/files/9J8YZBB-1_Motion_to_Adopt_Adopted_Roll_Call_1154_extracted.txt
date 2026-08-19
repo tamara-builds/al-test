@@ -1,0 +1,365 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 1154
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+1
+2
+3
+4 SYNOPSIS:
+5 This bill makes supplemental appropriations for
+6 the fiscal year ending September 30, 2026: from the
+7 Personnel Fund to the State Personnel Department in the
+8 amount of $1,268,538; from federal funds from the
+9 American Rescue Plan Act - State Small Business Credit
+10 Initiative Fund to the Department of Finance in the
+11 amount of $34,000,000, estimated; from the Federal
+12 Stimulus Fund to Alabama Medicaid Agency in the amount
+13 of $588,612; from the Alabama Energy Infrastructure
+14 Fund to State Industrial Development Authority in the
+15 amount of $16,000,000; from the Strategic Energy
+16 Infrastructure Development Fund to State Industrial
+17 Development Authority in the amount of $50,000,000;
+18 from the Administrative Office of Courts Federal and
+19 Local Funds Fund to the Unified Judicial System in the
+20 amount of $3,600,000; from the Court Automation Fund to
+21 the Unified Judicial System in the amount of
+22 $2,300,000; from the Advanced Technology and Data
+23 Exchange Fund to the Unified Judicial System in the
+24 amount of $1,000,000; from the State Judicial
+25 Administration Fund to the Unified Judicial System in
+26 the amount of $4,100,000; to transfer $2,000,000 from
+27 the Bureau of Tourism and Travel Fund to the Alabama
+28 Site Development Fund; from the Alabama Site
+Page 1
+
+Site Development Fund; from the Alabama Site
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+29 Development Fund to the State Industrial Development
+30 Authority in the amount of $2,000,000; from the Genetic
+31 Counseling Fund to the Alabama Board of Genetic
+32 Counseling in the amount of $32,000; to transfer up to
+33 $22,137,949 from the Refundable Tax Credit Fund to the
+34 Legislative Council Fund; to transfer up to $13,000,000
+35 from the Real Property Management Fund to the
+36 Legislative Council Fund; from the Legislative Council
+37 Fund to the Legislative Council in the amount of
+38 $35,137,949; from the Vaping and Licensing Enforcement
+39 Fund to the Alabama Alcoholic Beverage Control Board in
+40 the amount of $1,000,000; from the Consumable Hemp
+41 Product Compliance Fund to the Alabama Alcoholic
+42 Beverage Control Board in the amount of $1,000,000;
+43 from the Geological Survey Library Revolving Fund to
+44 Geological Survey in the amount of $50,000; from the
+45 Youth Services Reimbursement Fund for Diversion
+46 Programs to the Department of Youth Services in the
+47 amount of $750,000; from the Public Road and Bridge
+48 Fund to the Alabama Department of Transportation in the
+49 amount of $387,500,000; from the Rebuild Alabama Fund
+50 to the Alabama Department of Transportation in the
+51 amount of $200,000,000; from the Broadband
+52 Accessibility Fund to the Alabama Department of
+53 Economic and Community Affairs in the amount of
+54 $30,000,000; and to amend Act 2025-251, the General
+55 Fund Appropriation Bill for the fiscal year ending
+56 September 30, 2026, to increase the amount appropriated
+Page 2
+
+September 30, 2026, to increase the amount appropriated
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+57 to the Alabama Department of Transportation for paying
+58 the principal of and interest on bonds issued for the
+59 purposes of public highways and bridges and add the
+60 Alabama Highway Authority to the list of entities for
+61 which the aggregate debt service amount is
+62 appropriated.
+63
+64
+65
+66 A BILL
+67 TO BE ENTITLED
+68 AN ACT
+69
+70 To make supplemental appropriations for the fiscal year
+71 ending September 30, 2026: from the Personnel Fund to the
+72 State Personnel Department in the amount of $1,268,538; from
+73 federal funds from the American Rescue Plan Act - State Small
+74 Business Credit Initiative Fund to the Department of Finance
+75 in the amount of $34,000,000, estimated; from the Federal
+76 Stimulus Fund to Alabama Medicaid Agency in the amount of
+77 $588,612; from the Alabama Energy Infrastructure Fund to State
+78 Industrial Development Authority in the amount of $16,000,000;
+79 from the Strategic Energy Infrastructure Development Fund to
+80 State Industrial Development Authority in the amount of
+81 $50,000,000; from the Administrative Office of Courts Federal
+82 and Local Funds Fund to the Unified Judicial System in the
+83 amount of $3,600,000; from the Court Automation Fund to the
+84 Unified Judicial System in the amount of $2,300,000; from the
+Page 3
+
+Unified Judicial System in the amount of $2,300,000; from the
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+85 Advanced Technology and Data Exchange Fund to the Unified
+86 Judicial System in the amount of $1,000,000; from the State
+87 Judicial Administration Fund to the Unified Judicial System in
+88 the amount of $4,100,000; from the Genetic Counseling Fund to
+89 the Alabama Board of Genetic Counseling in the amount of
+90 $32,000; to transfer $2,000,000 from the Bureau of Tourism and
+91 Travel Fund to the Alabama Site Development Fund; from the
+92 Alabama Site Development Fund to the State Industrial
+93 Development Authority in the amount of $2,000,000; to transfer
+94 up to $22,137,949 from the Refundable Tax Credit Fund to the
+95 Legislative Council Fund; to transfer up to $13,000,000 from
+96 the Real Property Management Fund to the Legislative Council
+97 Fund; from the Legislative Council Fund to the Legislative
+98 Council in the amount of $35,137,949; from the Vaping and
+99 Licensing Enforcement Fund to the Alabama Alcoholic Beverage
+100 Control Board in the amount of $1,000,000; from the Consumable
+101 Hemp Product Compliance Fund to the Alabama Alcoholic Beverage
+102 Control Board in the amount of $1,000,000; from the Geological
+103 Survey Library Revolving Fund to Geological Survey in the
+104 amount of $50,000; from the Youth Services Reimbursement Fund
+105 for Diversion Programs to the Department of Youth Services in
+106 the amount of $750,000; from the Public Road and Bridge Fund
+107 to the Alabama Department of Transportation in the amount of
+108 $387,500,000; from the Rebuild Alabama Fund to the Alabama
+109 Department of Transportation in the amount of $200,000,000;
+110 from the Broadband Accessibility Fund to the Alabama
+111 Department of Economic and Community Affairs in the amount of
+112 $30,000,000; and to amend Act 2025-251, the General Fund
+Page 4
+
+$30,000,000; and to amend Act 2025-251, the General Fund
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+113 Appropriation Bill for the fiscal year ending September 30,
+114 2026, to increase the amount appropriated to the Alabama
+115 Department of Transportation for paying the principal of and
+116 interest on bonds issued for the purposes of public highways
+117 and bridges and add the Alabama Highway Authority to the list
+118 of entities for which the aggregate debt service amount is
+119 appropriated.
+120 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+121 Section 1. In addition to all other appropriations
+122 heretofore and hereafter made, there is hereby appropriated
+123 $1,268,538 from the Personnel Fund to the State Personnel
+124 Department for the fiscal year ending September 30, 2026.
+125 Section 2. In addition to all other appropriations
+126 heretofore and hereafter made, there is hereby appropriated
+127 $34,000,000, estimated, in federal funds from the American
+128 Rescue Plan Act - State Small Business Credit Initiative Fund
+129 to the Department of Finance for the fiscal year ending
+130 September 30, 2026. These funds may be delegated through
+131 memoranda of agreement to the Alabama Innovation Corporation
+132 or other entity so designated by the Department of Finance.
+133 Section 3. In addition to all other appropriations
+134 heretofore and hereafter made, there is hereby appropriated
+135 $588,612 from the Federal Stimulus Fund to Alabama Medicaid
+136 Agency for the fiscal year ending September 30, 2026.
+137 Section 4. In addition to all other appropriations
+138 heretofore and hereafter made, there is hereby appropriated
+139 $16,000,000 from the Alabama Energy Infrastructure Fund to the
+140 State Industrial Development Authority for the fiscal year
+Page 5
+
+State Industrial Development Authority for the fiscal year
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+141 ending September 30, 2026.
+142 Section 5. In addition to all other appropriations
+143 heretofore and hereafter made, there is hereby appropriated
+144 $50,000,000 from the Strategic Energy Infrastructure
+145 Development Fund to the State Industrial Development Authority
+146 for the fiscal year ending September 30, 2026.
+147 Section 6. In addition to all other appropriations
+148 heretofore and hereafter made, there is hereby appropriated
+149 $3,600,000 from the Administrative Office of Courts Federal
+150 and Local Funds Fund to the Unified Judicial System for the
+151 fiscal year ending September 30, 2026. Notwithstanding any law
+152 to the contrary, the funds appropriated under this section may
+153 be spent on salaries and personnel costs and for other general
+154 operations of the Unified Judicial System.
+155 Section 7. In addition to all other appropriations
+156 heretofore and hereafter made, there is hereby appropriated
+157 $2,300,000 from the Court Automation Fund to the Unified
+158 Judicial System for the fiscal year ending September 30, 2026.
+159 Notwithstanding any law to the contrary, the funds
+160 appropriated under this section may be spent on salaries and
+161 personnel costs and for other general operations of the
+162 Unified Judicial System.
+163 Section 8. In addition to all other appropriations
+164 heretofore and hereafter made, there is hereby appropriated
+165 $1,000,000 from the Advanced Technology and Data Exchange Fund
+166 to the Unified Judicial System for the fiscal year ending
+167 September 30, 2026. Notwithstanding any law to the contrary,
+168 the funds appropriated under this section may be spent on
+Page 6
+
+the funds appropriated under this section may be spent on
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+169 salaries and personnel costs and for other general operations
+170 of the Unified Judicial System.
+171 Section 9. In addition to all other appropriations
+172 heretofore and hereafter made, there is hereby appropriated
+173 $4,100,000 from the State Judicial Administration Fund to the
+174 Unified Judicial System for the fiscal year ending September
+175 30, 2026. Notwithstanding any law to the contrary, the funds
+176 appropriated under this section may be spent on salaries and
+177 personnel costs and for other general operations of the
+178 Unified Judicial System.
+179 Section 10. In addition to all other appropriations
+180 heretofore and hereafter made, there is hereby appropriated
+181 $32,000 from the Genetic Counseling Fund to the Alabama Board
+182 of Genetic Counseling for the fiscal year ending September 30,
+183 2026.
+184 Section 11. For the fiscal year ending September 30,
+185 2026, $2,000,000 shall be transferred from the Bureau of
+186 Tourism and Travel Fund to the Alabama Site Development Fund.
+187 Section 12. In addition to all other appropriations
+188 heretofore and hereafter made, there is hereby appropriated
+189 $2,000,000 from the Alabama Site Development Fund to the State
+190 Industrial Development Authority for the Site Evaluation
+191 Economic Development Strategy pursuant to Article 2D, Chapter
+192 10 of Title 41, Code of Alabama 1975, for fiscal year ending
+193 September 30, 2026.
+194 Section 13. For the fiscal year ending September 30,
+195 2026, up to $22,137,949 shall be transferred from the
+196 Refundable Tax Credit Fund to the Legislative Council Fund.
+Page 7
+
+Refundable Tax Credit Fund to the Legislative Council Fund.
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+197 Section 14. For the fiscal year ending September 30,
+198 2026, $13,000,000 shall be transferred from the Real Property
+199 Management Fund to the Legislative Council Fund.
+200 Section 15. In addition to all other appropriations
+201 heretofore and hereafter made, there is hereby appropriated up
+202 to $35,137,949 from the Legislative Council Fund to the
+203 Legislative Council for construction and related expenses for
+204 the new State House for fiscal year ending September 30, 2026.
+205 Section 16. In addition to all other appropriations
+206 heretofore and hereafter made, there is hereby appropriated
+207 $1,000,000 from the Vaping and Licensing Enforcement Fund to
+208 the Alabama Alcoholic Beverage Control Board for fiscal year
+209 ending September 30, 2026.
+210 Section 17. In addition to all other appropriations
+211 heretofore and hereafter made, there is hereby appropriated up
+212 to $1,000,000 from the Consumable Hemp Product Compliance Fund
+213 to the Alabama Alcoholic Beverage Control Board for fiscal
+214 year ending September 30, 2026.
+215 Section 18. In addition to all other appropriations
+216 heretofore and hereafter made, there is hereby appropriated
+217 $50,000 from the Geological Survey Library Revolving Fund to
+218 Geological Survey for fiscal year ending September 30, 2026.
+219 Section 19. In addition to all other appropriations
+220 heretofore and hereafter made, there is hereby appropriated
+221 $750,000 from the Youth Services Reimbursement Fund for
+222 Diversion Programs to the Department of Youth Services for
+223 fiscal year ending September 30, 2026.
+224 Section 20. In addition to all other appropriations
+Page 8
+
+Section 20. In addition to all other appropriations
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+225 heretofore and hereafter made, there is hereby appropriated
+226 $387,500,000 from the Public Road and Bridge Fund to the
+227 Alabama Department of Transportation for fiscal year ending
+228 September 30, 2026.
+229 Section 21. In addition to all other appropriations
+230 heretofore and hereafter made, there is hereby appropriated
+231 $200,000,000 from the Rebuild Alabama Fund to the Alabama
+232 Department of Transportation for fiscal year ending September
+233 30, 2026.
+234 Section 22. In addition to all other appropriations
+235 heretofore and hereafter made, there is hereby appropriated
+236 $30,000,000 from the Broadband Accessibility Fund to the
+237 Alabama Department of Economic and Community Affairs for
+238 fiscal year ending September 30, 2026.
+239 Section 23. Section 3C of Act 2025-251, the General
+240 Appropriations Act for the fiscal year ending September 30,
+241 2026, is hereby amended as follows:
+242 "124. Transportation Department of...
+243 There is hereby appropriated for payment of the
+244 principal of and the interest on all bonds heretofore or
+245 hereafter issued for public highways and bridge purposes, or
+246 either, by the State of Alabama, Alabama Federal Aid Highway
+247 Finance Authority, Alabama Highway Finance Corporation, or
+248 Alabama Industrial Access Road and Bridge Corporation, or
+249 Alabama Highway Authority, a total of $133,755,861
+250 $193,564,457 or so much thereof as may be necessary for
+251 payment of said principal and interest at their respective
+252 maturities, of the revenues pledged for such payment. There is
+Page 9
+
+maturities, of the revenues pledged for such payment. There is
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+253 also hereby appropriated an amount not to exceed $25,000,000
+254 as an annual contribution to the Alabama Transportation
+255 Infrastructure Bank, if needed, for payment of debt service.
+256 The Director of Transportation, with the consent of the
+257 Governor and the Director of Finance, shall have the authority
+258 to transfer any appropriation or any portion thereof between
+259 and among subdivisions (a), (b) and (c) of this section
+260 whenever such transfer shall be necessary to assure maximum
+261 utilization of federal matching funds which shall become
+262 available. In the event that there shall not be sufficient
+263 funds available for payment of all appropriations hereinabove
+264 made, the following provisions shall be applicable. In the
+265 event of such insufficiency in respect of said revenues
+266 accruing to the Department of Transportation: (1) the
+267 appropriation made for Debt Service in subdivisions (a) and
+268 (b) hereof shall be paid in full, and (2) the appropriations
+269 from the revenues accruing to the Department of Transportation
+270 that are herein made for the purposes referred to in
+271 subdivisions (a), (b) and (c) except for Debt Service, hereof
+272 shall be allocated among the purposes referred to in said
+273 subdivisions in such order and with such priorities as the
+274 Director of the Department of Transportation shall from time
+275 to time direct. The funds appropriated in subdivisions (a) and
+276 (c) hereof, for the matching federal funds, shall not revert
+277 at the end of the fiscal year for which such appropriations
+278 are made but shall remain available for the purposes for which
+279 such appropriations were made. In addition to all
+280 appropriations hereinabove made, there is hereby appropriated
+Page 10
+
+appropriations hereinabove made, there is hereby appropriated
+9J8YZBB-1 03/31/2026 (H) HSE EBO-2026-27
+House Ways and Means General Fund Reported
+Substitute for SB226
+281 to the Department of Transportation all federal funds accruing
+282 thereto to be expended only for the purpose for which such
+283 funds are made available."
+284 Section 24. Notwithstanding any other provisions of
+285 this act or any other act, any amounts from appropriations for
+286 the fiscal year ending September 30, 2026, to the various
+287 state agencies in this act which were unexpended and reverted
+288 on September 30, 2026, are hereby reappropriated to the
+289 respective offices for the fiscal year beginning October 1,
+290 2026.
+291 Section 25. This act shall become effective immediately
+292 upon its passage and approval by the Governor, or its
+293 otherwise becoming law.
+Page 11

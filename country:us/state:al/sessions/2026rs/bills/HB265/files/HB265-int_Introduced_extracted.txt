@@ -1,0 +1,132 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB265 INTRODUCED
+1 HB265
+2 HG2BR36-1
+3 By Representative Robbins
+4 RFD: Judiciary
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+HG2BR36-1 01/14/2026 GP (L)lg 2026-259
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would prohibit certain intentional
+6 collection, use, retention, or disclosure of a person's
+7 DNA sample or genetic information without that person's
+8 express consent.
+9 This bill would create the crimes of unlawful
+10 use of DNA in the first, second, and third degrees and
+11 provide criminal penalties for violations.
+12 This bill would also provide exceptions for
+13 certain collection, use, retention, or disclosure for
+14 law enforcement purposes; to comply with a subpoena,
+15 court order, or federal law; as it relates to the
+16 Alabama Department of Forensic Sciences' DNA Databank;
+17 and by genetic testing companies in compliance with
+18 state law.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to genetic material; to create the crimes of
+26 unlawful use of DNA in the first, second, and third degree; to
+27 provide criminal penalties for violations; and to provide
+28 exceptions.
+Page 1
+
+exceptions.
+HB265 INTRODUCED
+29 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+30 Section 1. (a) For the purposes of this act, the
+31 following terms have the following meanings:
+32 (1) DNA. Deoxyribonucleic acid.
+33 (2) DNA SAMPLE. Any human biological specimen from
+34 which DNA can be extracted or the DNA extracted from a
+35 specimen.
+36 (3) EXPRESS CONSENT. Authorization by the person whose
+37 DNA is to be extracted or analyzed or that person's legal
+38 guardian or authorized representative.
+39 (4) GENETIC DATA. The same meaning as provided in
+40 Section 8-43-2, Code of Alabama 1975.
+41 (5) GENETIC TESTING. The same meaning as in Section
+42 8-43-2, Code of Alabama 1975.
+43 (b)(1) For the purposes of this act, a person may not
+44 provide express consent unless he or she has received a clear
+45 and prominent disclosure regarding the manner of collection,
+46 use, retention, or disclosure of a DNA sample or genetic data
+47 for a specific purpose. A person may provide express consent
+48 by any affirmative action demonstrating an intentional
+49 decision.
+50 (2) A single provision of express consent may authorize
+51 every instance of a specified purpose or use.
+52 Section 2. (a) Except as provided in Section 6, a
+53 person commits the crime of unlawful use of DNA in the first
+54 degree if he or she intentionally and without express consent
+55 sells or otherwise transfers another individual's DNA sample
+56 or genetic data to a third party, regardless of whether the
+Page 2
+
+or genetic data to a third party, regardless of whether the
+HB265 INTRODUCED
+57 original DNA sample was originally collected, retained, or
+58 analyzed with express consent.
+59 (b) Unlawful use of DNA in the first degree is a Class
+60 C felony.
+61 Section 3. (a) Except as provided in Section 6, a
+62 person commits the crime of unlawful use of DNA in the second
+63 degree if he or she intentionally and without express consent:
+64 (1) Submits another individual's DNA sample for genetic
+65 testing;
+66 (2) Conducts or procures the conducting of genetic
+67 testing of another individual's DNA; or
+68 (3) Except as provided in subsection (b), discloses
+69 another individual's genetic data to a third party.
+70 (b) A person who discloses another person's genetic
+71 data that was previously voluntarily disclosed by the person
+72 whose DNA was tested, the person's legal guardian, or the
+73 person's authorized representative does not violate this
+74 section.
+75 (c) Unlawful use of DNA in the second degree is a Class
+76 D felony.
+77 Section 4. (a) Except as provided in Section 6, a
+78 person commits the crime of unlawful use of DNA in the third
+79 degree if he or she intentionally and without express consent:
+80 (1) Collects or retains another individual's DNA sample
+81 with the intent to perform a DNA analysis; or
+82 (2) Collects or retains another individual's DNA sample
+83 or genetic information by accessing a computer system either
+84 without authorization to access the computer system or
+Page 3
+
+without authorization to access the computer system or
+HB265 INTRODUCED
+85 exceeding his or her authorized access to the computer system.
+86 (b) Unlawful use of DNA in the third degree is a Class
+87 A misdemeanor.
+88 Section 5. Each instance of collection or retention,
+89 submission or analysis, or disclosure in violation of this act
+90 constitutes a separate violation.
+91 Section 6. This act does not apply to a DNA sample or
+92 genetic information used:
+93 (1) By law enforcement for any law enforcement purpose;
+94 (2) To comply with a subpoena, summons, other lawful
+95 court order, or federal law;
+96 (3) Pursuant to Article 2, Chapter 18 of Title 36, Code
+97 of Alabama 1975; or
+98 (4) By a genetic testing company that complies with
+99 Chapter 43 of Title 8, Code of Alabama 1975.
+100 Section 7. This act shall become effective on October
+101 1, 2026.
+Page 4

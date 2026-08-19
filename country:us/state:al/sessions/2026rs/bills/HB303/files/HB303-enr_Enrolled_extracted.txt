@@ -1,0 +1,352 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB303 ENROLLED
+1 HB303
+2 9JC44MP-3
+3 By Representative Bedsole
+4 RFD: State Government
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+HB303 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to cryptocurrency; to add Section 8-7A-28 to
+5 the Code of Alabama 1975; to require operators of
+6 cryptocurrency kiosks to provide certain disclosures during a
+7 transaction; to require that kiosk operators provide a receipt
+8 for a cryptocurrency transaction; to implement certain fraud
+9 protection measures for cryptocurrency kiosk transactions and
+10 require refunds for fraudulently induced transactions; and to
+11 provide for certain civil and criminal penalties.
+12 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+13 Section 1. Section 8-7A-28 is added to the Code of
+14 Alabama 1975, to read as follows:
+15 §8-7A-28
+16 (a) This section shall be known and may be cited as the
+17 Cryptocurrency Kiosk Fraud Prevention Act.
+18 (b) For purposes of this section, the following terms
+19 have the following meanings:
+20 (1) BLOCKCHAIN ANALYTICS. Analysis of data from
+21 blockchains or publicly distributed ledgers, including
+22 associated transaction information.
+23 (2) BLOCKCHAIN ANALYTICS AND TRACING SOFTWARE. A
+24 software service that uses blockchain analytics data to
+25 provide risk-specific information and tracing of virtual
+26 currency wallet addresses, among other virtual items.
+27 (3) CONSUMER. Any individual who uses a cryptocurrency
+28 kiosk.
+Page 1
+
+kiosk.
+HB303 Enrolled
+29 (4) CRYPTOCURRENCY. A virtual representation of value
+30 or rights that can be transferred, stored, or traded
+31 electronically and used for payments or investment purposes.
+32 (5) CRYPTOCURRENCY ADDRESS. An alphanumeric identifier
+33 that represents a potential destination for a cryptocurrency
+34 transfer. A cryptocurrency address is associated with a
+35 virtual wallet.
+36 (6) CRYPTOCURRENCY KIOSK. A physical, electronic
+37 terminal that is a mechanical agent of the cryptocurrency
+38 kiosk operator and that enables a cryptocurrency kiosk
+39 operator to facilitate the purchase, sale, or exchange of
+40 cryptocurrency for money, bank credit, or other
+41 cryptocurrency.
+42 (7) EXISTING CONSUMER. Any consumer who engages in a
+43 cryptocurrency kiosk transaction that is not the consumer's
+44 initial transaction or within the 30-day period immediately
+45 following his or her initial transaction.
+46 (8) FEE. A charge or expense paid by the consumer.
+47 (9) FINANCIAL INSTITUTION. Any bank, savings and loan
+48 association, or credit union operating in Alabama which is
+49 chartered under federal or state statutes.
+50 (10) NEW CONSUMER. A consumer who is engaging in a
+51 transaction at a cryptocurrency kiosk in this state for the
+52 first time or who is within the 30-day period immediately
+53 after engaging in his or her first cryptocurrency kiosk
+54 transaction.
+55 (11) OPERATOR. Any person that engages in
+56 cryptocurrency business activity through a cryptocurrency
+Page 2
+
+cryptocurrency business activity through a cryptocurrency
+HB303 Enrolled
+57 kiosk located in Alabama or operates or manages a
+58 cryptocurrency kiosk.
+59 (12) PRIVACY COIN. A cryptocurrency with
+60 privacy-enhancing features designed to increase anonymity and
+61 reduce or eliminate the ability for the cryptocurrency to be
+62 traced using blockchain analytics and tracing software.
+63 (13) TRANSACTION. A transaction conducted or performed
+64 through a cryptocurrency kiosk to purchase or sell
+65 cryptocurrency.
+66 (14) TRANSACTION HASH. A unique identifier consisting
+67 of a string of characters that acts as a record of and
+68 provides proof that the transaction was verified and added to
+69 the blockchain.
+70 (15) VIRTUAL WALLET. A software application or other
+71 electronic mechanism that provides a means to hold, store, or
+72 transfer cryptocurrency or nonfungible tokens.
+73 (c)(1) A cryptocurrency kiosk operator shall disclose
+74 in a clear and conspicuous manner all relevant terms and
+75 conditions to use the products, services, kiosks, and other
+76 activities of the operator. The operator shall receive an
+77 acknowledgment of receipt of all disclosures required from a
+78 consumer through confirmation or consent. This disclosure
+79 shall include:
+80 a. The United States dollar amount of the
+81 cryptocurrency involved in the transaction;
+82 b. A listing, in United States dollars, of all fees to
+83 be collected by the cryptocurrency kiosk operator;
+84 c. The total amount, in both the cryptocurrency and
+Page 3
+
+c. The total amount, in both the cryptocurrency and
+HB303 Enrolled
+85 United States dollars, used in the transaction; and
+86 d. The exchange rate clearly showing the difference
+87 between the market price of the cryptocurrency and the price
+88 of the cryptocurrency charged to the consumer.
+89 (2)a. At the beginning of a transaction at a
+90 cryptocurrency kiosk, the operator shall ensure that the kiosk
+91 displays the following disclosures:
+92 "WARNING: CONSUMER FRAUD OFTEN STARTS WITH CONTACT FROM
+93 A STRANGER ONLINE, BY PHONE, OR BY TEXT WHO IS INITIATING A
+94 DISHONEST SCHEME OR CRIMINAL OR FRAUDULENT ACTIVITY THAT MAY
+95 APPEAR IN MANY FORMS, INCLUDING THE FOLLOWING:
+96 1. COMMUNICATION INITIATED BY SOMEONE STARTING A
+97 ROMANTIC RELATIONSHIP WHO BEGINS ASKING FOR FUNDS FOR REASONS
+98 SUCH AS AN EMERGENCY OR TO PAY TO VISIT YOU.
+99 2. PROMPTS TO CLICK ON DESKTOP POP-UPS THAT INCLUDE
+100 VIRUS WARNINGS OR COMMUNICATION FROM ALLEGED FAMILIAR
+101 MERCHANTS.
+102 3. COMMUNICATIONS FROM SOMEONE IMPERSONATING A
+103 REPRESENTATIVE OF YOUR BANK OR A LAW ENFORCEMENT OFFICER.
+104 4. CLAIMS OF A FROZEN BANK ACCOUNT OR CREDIT CARD.
+105 5. CLAIMS OF A FRAUDULENT BANK TRANSACTION.
+106 6. CLAIMS OF IDENTITY THEFT OR AN OFFER OF EMPLOYMENT
+107 IN EXCHANGE FOR PAYMENT.
+108 7. REQUESTS FOR A PAYMENT TO A GOVERNMENT AGENCY OR
+109 COMPANY.
+110 8. REQUESTS FOR DISASTER RELIEF DONATIONS OR LOANS.
+111 9. OFFERS TO PURCHASE LOTTERY TICKETS, SWEEPSTAKES, OR
+112 DRAWINGS FOR VEHICLES.
+Page 4
+
+DRAWINGS FOR VEHICLES.
+HB303 Enrolled
+113 10. CLAIMS OF WINNING A LOTTERY BUT REQUIRES UP-FRONT
+114 FEES TO BE PAID BEFORE COLLECTING ANY WINNINGS.
+115 11. COMMUNICATION FROM SOMEONE OFFERING TO TEACH YOU
+116 HOW TO TRADE CRYPTOCURRENCY.
+117 IF YOU BELIEVE THAT YOU ARE A VICTIM OF FRAUDULENT
+118 CONDUCT, STOP AND CALL YOUR LOCAL LAW ENFORCEMENT AGENCY AND
+119 THE CRYPTOCURRENCY KIOSK OPERATOR."
+120 "WARNING: LOSSES DUE TO FRAUDULENT OR ACCIDENTAL
+121 TRANSACTIONS MAY NOT BE RECOVERABLE. TRANSACTIONS IN
+122 CRYPTOCURRENCY ARE IRREVERSIBLE. PEOPLE MAY USE CRYPTOCURRENCY
+123 TRANSACTIONS TO STEAL YOUR MONEY BY IMPERSONATING THE
+124 GOVERNMENT, ORGANIZATIONS, OR PEOPLE YOU KNOW. IMPERSONATORS
+125 MAY THREATEN JAIL TIME, CLAIM YOUR IDENTITY HAS BEEN STOLEN,
+126 ALLEGE THAT YOUR COMPUTER HAS BEEN HACKED, OR USE A NUMBER OF
+127 OTHER SCAMS. DO NOT DISCLOSE YOUR PRIVATE KEY THAT IS
+128 ASSOCIATED WITH YOUR VIRTUAL WALLET TO A THIRD PARTY. IF YOU
+129 BELIEVE THAT YOU ARE BEING SCAMMED, STOP AND CALL YOUR LOCAL
+130 LAW ENFORCEMENT AGENCY AND THE CRYPTOCURRENCY KIOSK OPERATOR."
+131 b. The kiosk shall display the disclosures in a
+132 conspicuous font and a color that contrasts with the
+133 background of the kiosk screen.
+134 c. Each disclosure shall appear separately on the
+135 kiosk, and both disclosures must be accepted by the consumer
+136 before the transaction may be executed.
+137 (d) At the completion of each transaction, the operator
+138 shall provide the consumer who made the transaction a physical
+139 or digital receipt that contains all of the following
+140 information:
+Page 5
+
+information:
+HB303 Enrolled
+141 (1) The operator's name and contact information,
+142 including a telephone number to answer questions and register
+143 complaints.
+144 (2) The type, value, date, and precise time of a
+145 transaction, and each applicable receiving cryptocurrency
+146 address in its entirety. If a digital receipt is selected, the
+147 operator shall provide the entire transaction hash in addition
+148 to the aforementioned items.
+149 (3) The name and contact information of the sender.
+150 (4) The name and contact information of the designated
+151 recipient if known.
+152 (5) Fees charged by the operator.
+153 (6) The exchange rate of the applicable cryptocurrency
+154 to the United States dollar.
+155 (7) A statement of the operator's refund policy.
+156 (8) A statement of the refund policy required by this
+157 section.
+158 (9) Any additional information required by rule or
+159 order of the commission under this chapter.
+160 (e) If a consumer opts for a digital receipt pursuant
+161 to subsection (c), the operator shall provide the receipt to
+162 the email address or phone number provided by the consumer and
+163 to the commission.
+164 (f)(1) A cryptocurrency kiosk operator shall use
+165 blockchain analytics and tracing software to prevent any
+166 transaction that involves a cryptocurrency address identified
+167 as being associated or affiliated with fraud or other criminal
+168 activity. If a consumer attempts to transact with a virtual
+Page 6
+
+activity. If a consumer attempts to transact with a virtual
+HB303 Enrolled
+169 wallet that is detected to be associated or affiliated with
+170 fraud or other criminal activity, the kiosk shall not execute
+171 the transaction.
+172 (2)a. For a new consumer, an operator shall not accept
+173 transactions of more than one thousand United States dollars
+174 ($1,000) in cash, or the equivalent amount of foreign currency
+175 or cryptocurrency, in one calendar day, or ten thousand United
+176 States dollars ($10,000) in cash, or the equivalent amount of
+177 foreign currency or cryptocurrency in a calendar month, from
+178 the same consumer, regardless of whether the consumer uses one
+179 or multiple kiosks in the state.
+180 b. For an existing consumer, an operator shall not
+181 accept transactions of more than ten thousand five hundred
+182 United States dollars ($10,500) in cash, or the equivalent
+183 amount of foreign currency or cryptocurrency, in one calendar
+184 day.
+185 c. An operator shall use an identification verification
+186 process, operated in accordance with federal law, to verify
+187 the identity of every consumer for each transaction in order
+188 to comply with this subsection for all transactions.
+189 (g) An operator shall provide enhanced due diligence
+190 protections for consumers who are 60 years of age or older.
+191 The commission shall adopt rules, pursuant to Section 8-7A-26,
+192 to implement this requirement.
+193 (h) All operators headquartered in the United States
+194 shall provide live, United States-based, toll-free consumer
+195 service at all times. Operators shall prominently display the
+196 consumer service phone number on the cryptocurrency kiosk or
+Page 7
+
+consumer service phone number on the cryptocurrency kiosk or
+HB303 Enrolled
+197 on the kiosk screen during the transaction. The operator shall
+198 report all calls from consumers in Alabama regarding fraud to
+199 the commission upon request of the commission.
+200 (i)(1) Operators shall provide a United States phone
+201 number and email address to serve as a dedicated communication
+202 line between the operator and relevant government agencies.
+203 This dedicated line shall be frequently monitored and used to
+204 facilitate law enforcement and regulatory agency
+205 communications with the operator.
+206 (2) At the request of the commission, an operator shall
+207 provide the requesting agency with data from the operator's
+208 blockchain analytics and tracing software or any other
+209 information regarding that data.
+210 (j)(1)a. If a new consumer has been fraudulently
+211 induced to engage in a cryptocurrency kiosk transaction and
+212 has completed the requirements of subdivision (2), the
+213 operator shall issue a full refund for the fraudulently
+214 induced transaction, as well as all fees incurred through the
+215 transaction.
+216 b. If an existing consumer has been fraudulently
+217 induced to engage in a cryptocurrency kiosk transaction and
+218 has completed the requirements of subdivision (2), the
+219 operator shall issue a refund for one-half of the value of the
+220 transaction, including all fees incurred through the
+221 transaction.
+222 (2) The consumer shall complete all of the following to
+223 receive the refund pursuant to subdivision (1):
+224 a. Contact the operator not more than 60 calendar days
+Page 8
+
+a. Contact the operator not more than 60 calendar days
+HB303 Enrolled
+225 after the cryptocurrency kiosk transaction.
+226 b. Contact a law enforcement agency, as well as the
+227 commission, not more than 60 calendar days after the
+228 transaction.
+229 c. File a report with a law enforcement agency or the
+230 commission regarding the fraudulently induced transaction.
+231 (3) A consumer who has been determined to be a victim
+232 of fraud is eligible to receive a refund regardless of whether
+233 an operator provided the disclosures prescribed in subsection
+234 (c) and the receipt required in subsection (d).
+235 (4) An operator shall maintain a report of all refund
+236 requests made. The operator shall provide to the commission
+237 the name and contact information of the consumer who made the
+238 request, as well as the information on the receipt, upon
+239 request of the commission.
+240 (k) An operator shall not share a kiosk with any
+241 financial institution and shall not use any signage that makes
+242 the cryptocurrency kiosk appear to be affiliated with or
+243 represented by any financial institution.
+244 (l) An operator shall comply with all federal reporting
+245 requirements under the Bank Secrecy Act of 1970, Pub. L. No.
+246 91-508, the USA PATRIOT Act, Pub. L. No. 107-56, and any other
+247 reporting requirement imposed from the Financial Crimes
+248 Enforcement Network or the Office of Foreign Assets Control.
+249 (m) An operator shall not permit the buying, selling,
+250 or sending of privacy coins from cryptocurrency kiosks or
+251 online platforms in any capacity.
+252 (n)(1) The commission, pursuant to Section 8-7A-19, may
+Page 9
+
+(n)(1) The commission, pursuant to Section 8-7A-19, may
+HB303 Enrolled
+253 assess a civil penalty against a person that violates this
+254 section or a rule adopted or an order issued under this
+255 section.
+256 (2) Any proceeding under this section pursued by the
+257 commission shall not preempt any criminal action or civil
+258 liability which may arise under any other state law.
+259 Section 2. This act shall become effective on October
+260 1, 2026.
+Page 10
+
+1, 2026.
+HB303 Enrolled
+261
+262
+263
+264
+265
+266
+267 ________________________________________________
+268 Speaker of the House of Representatives
+269
+270
+271
+272 ________________________________________________
+273 President and Presiding Officer of the Senate
+274
+275
+276 House of Representatives
+277
+278 I hereby certify that the within Act originated in and
+279 was passed by the House 24-Feb-26, as amended.
+280
+281 John Treadwell
+282 Clerk
+283
+284
+285
+286
+287
+288 Senate 17-Mar-26 Amended and Passed
+289
+290 House 31-Mar-26 Concurred in Senate
+291 Amendment
+292
+293
+Page 11

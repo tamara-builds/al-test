@@ -1,0 +1,193 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB129 INTRODUCED
+1 SB129
+2 6YJ9831-1
+3 By Senator Melson
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+6YJ9831-1 01/12/2026 EGC (L)EGC 2026-30
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require developers of generative
+6 artificial intelligence (AI) systems to disclose when
+7 an image or video content is AI-generated.
+8 This bill would require the disclosures to be
+9 made in the same format as the AI-generated content, be
+10 conspicuous, unavoidable, understandable to a
+11 reasonable person, and not be contradicted by the
+12 AI-generated content.
+13 This bill would require developers of generative
+14 AI systems to implement reasonable procedures to ensure
+15 disclosures may not be easily removed by third-party
+16 licensees and end users.
+17 This bill would provide that a violation of this
+18 act is an unlawful trade practice under the Deceptive
+19 Trade Practices Act.
+20 This bill would provide a private right of
+21 action for persons injured by a violation of this act.
+22 This bill would also provide for the enforcement
+23 of this act.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+SB129 INTRODUCED
+29
+30 Relating to artificial intelligence; to require
+31 developers of generative artificial intelligence (AI) systems
+32 to disclose when image or video content is AI-generated; to
+33 provide requirements for AI-generated content disclosures; to
+34 provide that a violation of this act is an unlawful trade
+35 practice under the Deceptive Trade Practices Act; to provide a
+36 private right of action; and to provide for the enforcement of
+37 this act.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. For the purposes of this act, the following
+40 terms have the following meanings:
+41 (1) AI-GENERATED CONTENT. Images, video, or audiovisual
+42 content that is substantially created or modified by a
+43 generative artificial intelligence system such that the use of
+44 the system materially alters a reasonable person's
+45 understanding of the meaning or significance of the content.
+46 (2) ARTIFICIAL INTELLIGENCE or AI. The term as defined
+47 in Section 17-5-16.1, Code of Alabama 1975.
+48 (3) ARTIFICIAL INTELLIGENCE SYSTEM. Any machine-based
+49 system, for any explicit or implicit objective, that infers
+50 from inputs to the system how to generate outputs, including
+51 content, decisions, predictions, and recommendations, that may
+52 influence physical or virtual environments.
+53 (4) DEVELOPER. Any person doing business in this state
+54 that develops or significantly updates an artificial
+55 intelligence system that is offered, sold, leased, given, or
+56 otherwise provided to consumers in this state.
+Page 2
+
+otherwise provided to consumers in this state.
+SB129 INTRODUCED
+57 (5) GENERATIVE ARTIFICIAL INTELLIGENCE. Artificial
+58 intelligence based on a foundation model that is capable of
+59 and used to produce synthetic digital content, including
+60 audio, images, text, and videos.
+61 (6) GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM. Any
+62 artificial intelligence system or service that incorporates
+63 generative artificial intelligence.
+64 (7) METADATA. Structural or descriptive information
+65 about data.
+66 (8) THIRD-PARTY LICENSEE. Any person in this state that
+67 holds a license from a developer to access and use a
+68 generative artificial intelligence system for its own
+69 purposes.
+70 Section 2. (a) A developer of a generative artificial
+71 intelligence system made available in this state shall ensure
+72 that any generative artificial intelligence system that
+73 produces images, video, or audiovisual content includes a
+74 clear and conspicuous disclosure on AI-generated content that
+75 meets all of the following requirements:
+76 (1) The disclosure shall include a clear and
+77 conspicuous notice appropriate for the medium of the content
+78 which identifies the content as AI-generated content.
+79 (2) The output's metadata shall identify the content as
+80 AI-generated content, identify the tool used to create the
+81 content, and the date and time the content was created.
+82 (3) The disclosure, to the extent technically feasible,
+83 shall be permanent or unable to be easily removed by
+84 subsequent users.
+Page 3
+
+subsequent users.
+SB129 INTRODUCED
+85 (b) For a disclosure to be clear and conspicuous as
+86 required by subsection (a), the disclosure shall meet all of
+87 the following criteria:
+88 (1) For content that is solely visual, the disclosure
+89 shall be made visually in the same means the content is
+90 presented.
+91 (2) For content that is both visual and audible, the
+92 disclosure shall be visual and audible.
+93 (3) A visual disclosure shall stand out from any
+94 accompanying text or other visual elements by its size,
+95 contrast, location, the length of time it appears, and other
+96 characteristics so that the disclosure is easily noticed,
+97 read, and understood.
+98 (4) An audible disclosure shall be delivered in a
+99 volume, speed, and cadence sufficient for a reasonable person
+100 to easily hear and understand the disclosure.
+101 (5) The disclosure shall be unavoidable.
+102 (6) The disclosure shall use diction and syntax
+103 understandable to a reasonable person.
+104 (7) The disclosure shall not be contradicted, mitigated
+105 by, or inconsistent with, anything else in the communication.
+106 (c) A developer of a generative artificial intelligence
+107 system shall implement reasonable procedures to prevent
+108 downstream use of a generative artificial intelligence system
+109 without the disclosures required under subsection (a), which
+110 shall include:
+111 (1) Requiring by contract that end users and
+112 third-party licensees of the generative artificial
+Page 4
+
+third-party licensees of the generative artificial
+SB129 INTRODUCED
+113 intelligence system refrain from removing any required
+114 disclosure from AI-generated content;
+115 (2) Requiring certification that end users and
+116 third-party licensees will not remove any disclosure from
+117 AI-generated content; and
+118 (3) Terminating access to the generative artificial
+119 intelligence system when the developer has reason to believe
+120 that an end user or third-party licensee has removed the
+121 required disclosure from AI-generated content.
+122 (d) Any third-party licensee of a generative artificial
+123 intelligence system shall implement reasonable procedures to
+124 prevent downstream use of a generative artificial intelligence
+125 system without the disclosures required under subsection (a).
+126 The procedures shall include:
+127 (1) Requiring by contract that end users of the
+128 generative artificial intelligence system refrain from
+129 removing any required disclosure from AI-generated content;
+130 (2) Requiring certification that end users will not
+131 remove any disclosure from AI-generated content; and
+132 (3) Terminating access to the generative artificial
+133 intelligence system when the developer has reason to believe
+134 that an end user has removed the required disclosure from
+135 AI-generated content.
+136 Section 3. (a) A violation of this act shall constitute
+137 an unlawful trade practice under the Deceptive Trade Practices
+138 Act, Chapter 19 of Title 8, Code of Alabama 1975, and be
+139 subject to the enforcement provisions of that act.
+140 (b) Prior to initiating an enforcement action for a
+Page 5
+
+(b) Prior to initiating an enforcement action for a
+SB129 INTRODUCED
+141 violation of Section 2, the Attorney General may provide a
+142 developer 30 days' written notice identifying the specific
+143 provisions of Section 2 the Attorney General alleges have been
+144 or are being violated. If, within the 30-day period, the
+145 developer cures the noticed violation and provides the
+146 Attorney General an express written statement that the alleged
+147 violations have been cured and that no further violations
+148 shall occur, the Attorney General shall not initiate an action
+149 against the developer for the noticed violations.
+150 (c) Any person injured due to a violation of Section 2
+151 shall be entitled to initiate an action pursuant to Section
+152 8-19-10, Code of Alabama 1975.
+153 Section 4. This act shall become effective on October
+154 1, 2026.
+Page 6

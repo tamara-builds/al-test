@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB505 INTRODUCED
+1 HB505
+2 NR7548J-1
+3 By Representative Bolton
+4 RFD: Judiciary
+5 First Read: 24-Feb-26
+Page 0
+
+First Read: 24-Feb-26
+NR7548J-1 02/19/2026 EGC (L)EGC 2026-800
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the court may order a
+6 defendant with a mental illness committed to the
+7 custody of the Department of Mental Health upon finding
+8 that the defendant poses a real and present threat of
+9 substantial harm to himself, herself, or to others, and
+10 the court may modify a conditional release order upon
+11 finding that the defendant's condition has changed.
+12 This bill would create a right of appeal for the
+13 department and the defendant for orders committing the
+14 defendant to the department's custody and orders
+15 modifying a conditional release order.
+16 This bill would grant the Court of Criminal
+17 Appeals the jurisdiction to hear the appeals.
+18 This bill would also make nonsubstantive,
+19 technical revisions to update the existing code
+20 language to current style.
+21
+22
+23 A BILL
+24 TO BE ENTITLED
+25 AN ACT
+26
+27 Relating to criminal defendants with mental illness; to
+28 amend Sections 15-16-43, 15-16-61, and 15-16-70, Code of
+Page 1
+
+amend Sections 15-16-43, 15-16-61, and 15-16-70, Code of
+HB505 INTRODUCED
+29 Alabama 1975; to provide a right of appeal for the Department
+30 of Mental Health and the defendant regarding orders of
+31 commitment and orders of conditional release; to grant the
+32 Court of Criminal Appeals jurisdiction to hear the appeals;
+33 and to make nonsubstantive, technical revisions to update the
+34 existing code language to current style.
+35 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+36 Section 1. Sections 15-16-43, 15-16-61, and 15-16-70,
+37 Code of Alabama 1975, are amended to read as follows:
+38 "§15-16-43
+39 (a)(1) If, at the final hearing, the court finds that
+40 the defendant has a mental illness and as a consequence of the
+41 mental illness poses a real and present threat of substantial
+42 harm to himself, or herself, or to others, the court shall
+43 order the defendant committed to the custody of the
+44 Commissioner of the Alabama State Department of Mental Health
+45 Commissioner or to another public facility as the court may
+46 order.
+47 (2) If the court does not make a finding that the
+48 defendant has a mental illness and as a consequence of the
+49 mental illness poses a real and present threat of substantial
+50 harm to himself, or herself, or to others, then the defendant
+51 shall be released from custody.
+52 (b) In determining whether the defendant poses a real
+53 and present threat of substantial harm to himself, or herself,
+54 or to others, the court shall consider all available relevant
+55 information, including any known relevant aspects of the
+56 defendant's psychosocial, medical, and psychiatric history, in
+Page 2
+
+defendant's psychosocial, medical, and psychiatric history, in
+HB505 INTRODUCED
+57 addition to the defendant's current behavior.
+58 (c) The Department of Mental Health or the defendant
+59 may appeal to the Court of Criminal Appeals the following
+60 orders:
+61 (1) Orders entered pursuant to subsection (a).
+62 (2) Orders denying a petition for release concerning
+63 that defendant."
+64 "§15-16-61
+65 The following definitions shall apply to this
+66 articleFor the purposes of this article, the following terms
+67 have the following meanings:
+68 (1) COURT. The court whichthat committed the defendant
+69 pursuant to Section 15-16-43.
+70 (2) DEFENDANT. A defendant in a criminal case who has
+71 been found not guilty by reason of insanity, or not guilty by
+72 reason of mental disease or defect, and has been committed to
+73 the custody of the Alabama State Department of Mental Health
+74 and Mental Retardation or another facility as provided
+75 bypursuant to Section 15-16-43.
+76 (3) DEPARTMENT. The State Department of Mental Health
+77 and Mental Retardation.
+78 (4) DISTRICT ATTORNEY. The district attorney for the
+79 judicial circuit of the court whichthat committed the
+80 defendant pursuant to Section 15-16-43.
+81 (5) REGIONAL OR COMMUNITY MENTAL HEALTH FACILITY. Any
+82 mental health facility providing mental health services
+83 pursuant to Sections 22-51-1 through 22-51-14Chapter 51 of
+84 Title 22."
+Page 3
+
+Title 22."
+HB505 INTRODUCED
+85 "§15-16-70
+86 (a)(1) If at any time it appears to the court that the
+87 defendant has failed to comply with the conditions of release,
+88 that the defendant's condition has deteriorated to the point
+89 that inpatient care is required, or that the release
+90 conditions should be modified, the court may, after a hearing,
+91 may either:
+92 a. modifyModify the release conditions; or
+93 b. orderOrder the defendant returned to the Department
+94 of Mental Health and Mental Retardationdepartment for further
+95 treatment.
+96 (2) All such hearings held pursuant to this section
+97 shall be preceded by notice to the department and to the
+98 parties required to be notified inpursuant to Section
+99 15-16-63.
+100 (3) All such modifications and orders shall be guided
+101 by the standard of whether suchthe modifications and orders
+102 are necessary to ensure that the defendant does not pose a
+103 real and present threat of substantial harm to himself,
+104 herself, or to others.
+105 (b) The department or the defendant may appeal to the
+106 Court of Criminal Appeals the following orders:
+107 (1) Orders entered pursuant to subsection (a).
+108 (2) Orders otherwise denying the release of a defendant
+109 adjudicated not guilty by reason of insanity or by reason of
+110 mental disease or defect pursuant to this article."
+111 Section 2. This act shall become effective on October
+112 1, 2026.
+Page 4

@@ -1,0 +1,508 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB527 INTRODUCED
+1 HB527
+2 XDIPJE7-1
+3 By Representatives Lomax, Garrett, Rigsby, Crow, Robertson,
+4 Rehm, Blackshear, Whitt, Paramore, Hulsey, Reynolds, Lovvorn,
+5 Marques
+6 RFD: Ways and Means Education
+7 First Read: 26-Feb-26
+Page 0
+
+First Read: 26-Feb-26
+XDIPJE7-1 2/13/2026 KHF (F)KHF 2025-3093
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, certain items are deductible
+6 from taxable income for Alabama individual income
+7 taxes. There is no current deduction allowed for
+8 qualified overtime compensation.
+9 This bill would establish an Alabama individual
+10 income tax deduction for qualified overtime
+11 compensation equal to the amount of qualified overtime
+12 compensation received by a taxpayer during the taxable
+13 year, not to exceed one thousand dollars ($1,000) per
+14 taxpayer, effective for tax years beginning on or after
+15 January 1, 2025 through December 31, 2027.
+16 This bill would also make nonsubstantive,
+17 technical revisions to update the existing code
+18 language to current style.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to income taxes; to amend Section 40-18-15,
+26 Code of Alabama 1975, to establish an individual income tax
+27 deduction for qualified overtime compensation equal to the
+28 amount of qualified overtime compensation received during the
+Page 1
+
+amount of qualified overtime compensation received during the
+HB527 INTRODUCED
+29 taxable year, not to exceed one thousand dollars ($1,000) per
+30 taxpayer; and to make nonsubstantive, technical revisions to
+31 update existing code language to current style.
+32 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+33 Section 1. Section 40-18-15, Code of Alabama 1975, is
+34 amended to read as follows:
+35 "§40-18-15
+36 (a) No deduction shall be allowed for any losses,
+37 expenses, or interest deferred or disallowed pursuant to 26
+38 U.S.C. § 267 or for any cost required to be capitalized in
+39 accordance with 26 U.S.C. § 263A; otherwise, there shall be
+40 allowed as deductions:
+41 (1) All ordinary and necessary expenses paid or
+42 incurred during the taxable year in carrying on any trade or
+43 business, as determined in accordance with 26 U.S.C. § 162.;
+44 (2) Interest paid or accrued within the taxable year on
+45 indebtedness, limited to the amount allowable as an interest
+46 deduction for federal income tax purposes in the corresponding
+47 tax year or period pursuant to the provisions of 26 U.S.C. §§
+48 163, 264, and 265.;
+49 (3) The following taxes paid or accrued within the
+50 taxable year:
+51 a. Income taxes, Federal Insurance Contribution Act
+52 taxes, taxes on self-employment income, and estate and gift
+53 taxes imposed by authority of the United States or any
+54 possession of the United States.
+55 b. State and local, and foreign, occupational license
+56 taxes, and contributions to state unemployment funds.
+Page 2
+
+taxes, and contributions to state unemployment funds.
+HB527 INTRODUCED
+57 c. State and local, and foreign, real property taxes.
+58 d. State and local personal property taxes.
+59 e. The generation-skipping transfer (GST) tax imposed
+60 on income distributions by 26 U.S.C. § 2601.
+61 f. The taxes described in paragraphs c., d., and e.
+62 shall be deductible only to the extent that the taxes are
+63 deductible for federal income tax purposes under 26 U.S.C. §
+64 164 (relating to taxes).
+65 g. In addition, there shall be allowed as a deduction,
+66 state and local, and foreign taxes, except income taxes, and
+67 taxes imposed by authority of the United States or any
+68 possession of the United States, which are paid or accrued
+69 within the taxable year in carrying on a trade or business or
+70 an activity described in 26 U.S.C. § 212 (relating to expenses
+71 for the production of income).
+72 h. Notwithstanding paragraph g., any tax described in
+73 any paragraph preceding paragraph g. that is paid or accrued
+74 in connection with an acquisition or disposition of property
+75 shall be treated as part of the cost of the acquired property
+76 or, in the case of a disposition, as a reduction in the amount
+77 realized on the disposition of that property.;
+78 (4) Losses sustained during the taxable year and not
+79 compensated for by insurance or otherwise if incurred in a
+80 trade or business, in accordance with 26 U.S.C. § 165(c)(1).;
+81 (5) Losses sustained during the taxable year and not
+82 compensated for by insurance or otherwise, if incurred in any
+83 transaction entered into for profit, though not connected with
+84 the trade or business in accordance with 26 U.S.C. §
+Page 3
+
+the trade or business in accordance with 26 U.S.C. §
+HB527 INTRODUCED
+85 165(c)(2); but, in the case of a taxpayer other than a
+86 resident of the state, only as to those transactions within
+87 the state.;
+88 (6) Casualty and theft losses sustained during the
+89 taxable year of property not connected with the conduct of a
+90 trade or business or a transaction entered into for profit as
+91 determined in accordance with subsections (c)(3) and (h) of 26
+92 U.S.C. § 165(c)(3) and (h). In the case of a nonresident, the
+93 deduction shall be allowed only for the losses arising from
+94 property located within the State of Alabama and the
+95 limitations in 26 U.S.C. § 165 shall be applied with regard
+96 only to the taxpayer's Alabama adjusted gross income. No loss
+97 shall be allowed if at the time of filing the return, the loss
+98 has been claimed on a federal estate tax return.;
+99 (7) Losses from debts ascertained to be worthless and
+100 charged off during the taxable year of ascertainment, if
+101 sustained in the conduct of the regular trade or business of
+102 the taxpayer.;
+103 (8) A reasonable allowance for the exhaustion, wear,
+104 and tear of property from which any income is derived,
+105 including a reasonable allowance for obsolescence, in
+106 accordance with 26 U.S.C. §§ 167 and 168, and an allowance for
+107 the amortization of intangibles determined in accordance with
+108 26 U.S.C. § 197.;
+109 (9) In the case of mines, oil, and gas wells, other
+110 natural deposits and timber, a reasonable allowance for
+111 depletion and for depreciation of improvements, according to
+112 the peculiar condition in each case based upon the cost,
+Page 4
+
+the peculiar condition in each case based upon the cost,
+HB527 INTRODUCED
+113 including the cost of development not otherwise deducted, such
+114 reasonable allowance in all cases to be made under rules and
+115 regulations to be prescribed by the Department of Revenue;
+116 and, in the case of leasehold interests, the deduction allowed
+117 by this section shall be equitably apportioned between the
+118 lessor and the lessee.;
+119 (10) Charitable contributions to the extent allowed for
+120 federal income tax purposes under 26 U.S.C. § 170 (relating to
+121 charitable contributions and gifts).;
+122 (11) The deduction allowed to the individual for
+123 federal income tax purposes by 26 U.S.C. § 219 (relating to
+124 retirement savings).;
+125 (12) The deduction allowed for federal income tax
+126 purposes by 26 U.S.C. § 404 (relating to qualified pension,
+127 profit sharing, stock bonus, and annuity plans).
+128 (13) For each individual income taxpayer, medical and
+129 dental expenses, including amounts paid for medicine and drugs
+130 and amounts paid for accident and health insurance, as
+131 determined in accordance with 26 U.S.C. § 213;, provided,
+132 however, that the limitation of the deduction to the excess of
+133 those expenses over 7.5 percent of adjusted gross income as
+134 provided in 26 U.S.C. § 213 shall instead be limited to the
+135 excess of those expenses over 4.0 percent of adjusted gross
+136 income.;
+137 (14) For each individual income taxpayer, the deduction
+138 determined in accordance with 26 U.S.C. § 212 for all the
+139 ordinary and necessary expenses paid or incurred during the
+140 taxable year for the production or collection of income, or
+Page 5
+
+taxable year for the production or collection of income, or
+HB527 INTRODUCED
+141 for the management, conservation, or maintenance of property
+142 held for the production of income, or in connection with the
+143 determination, collection, or refund of any tax.;
+144 (15) Any expense not exceeding one thousand dollars
+145 ($1,000) actually incurred during the taxable year in
+146 constructing on his or her property a family radioactive
+147 fallout shelter, as approved and certified by the State
+148 Department of Emergency Management, and any amount not
+149 exceeding one thousand dollars ($1,000) which he or she
+150 contributed during the taxable year toward the construction of
+151 a community radioactive fallout shelter.;
+152 (16) A deduction from the taxpayer's adjusted gross
+153 income for state income tax purposes of the total cost of
+154 installation for conversion from gas or electricity to wood as
+155 the primary energy source for heating their individual
+156 domestic homes for the taxable year during which a conversion
+157 was completed.;
+158 (17) Alimony and separate maintenance payments, the
+159 amount deductible to be the same as the amount deductible for
+160 federal income tax purposes under 26 U.S.C. § 215 (relating to
+161 alimony payments).;
+162 (18) Moving expenses paid or incurred during the
+163 taxable year as allowed under 26 U.S.C. § 217 (relating to
+164 moving expenses). However, in applying 26 U.S.C. § 217, the
+165 term "new principal place of work" means only places of work
+166 located within the State of Alabama.;
+167 (19) Any expense not exceeding thirty-five thousand
+168 dollars ($35,000) actually incurred during the taxable year in
+Page 6
+
+dollars ($35,000) actually incurred during the taxable year in
+HB527 INTRODUCED
+169 removing from his or her property any architectural or
+170 transportation barriers to handicapped persons with
+171 nonambulatory and semiambulatory disabilities;, provided,
+172 however, that any improvements resulting from that expense
+173 shall not be eligible to be capitalized for depreciation.;
+174 (20) Notwithstanding subdivision (1), the deduction for
+175 expenses of travel, entertainment, and meals shall be
+176 determined in accordance with 26 U.S.C. § 274.;
+177 (21) The deduction allowed by 26 U.S.C. § 179 (relating
+178 to expensing certain depreciable property), provided that no
+179 deduction shall be allowed under subdivision (8) for any
+180 amount allowed as a deduction under this subdivision.;
+181 (22) The deduction allowed by 26 U.S.C. § 195 (relating
+182 to amortization of start-up expenditures), but in the case of
+183 a nonresident, only if the principal place of business of the
+184 business investigated, created, or acquired is located in the
+185 State of Alabama.;
+186 (23) The deduction allowed by subdivision (1), to the
+187 extent that it consists of unreimbursed employee business
+188 expenses, and the deduction allowed by subdivision (14) shall
+189 be allowed only to the extent that the aggregate of the
+190 deductions exceeds 2 percent of adjusted gross income.;
+191 (24) The reasonable medical and legal expenses paid or
+192 incurred by the taxpayer in connection with the adoption of a
+193 minor. For purposes of this subdivision, medical expenses
+194 shall include any medical and hospital expenses of the adoptee
+195 and the adoptee's biological mother which are incident to the
+196 adoptee's birth and subsequent medical care and which, in the
+Page 7
+
+adoptee's birth and subsequent medical care and which, in the
+HB527 INTRODUCED
+197 case of the adoptee, are paid or incurred before the petition
+198 is granted.;
+199 (25) The amount of any aid or assistance, whether in
+200 the form of property, services, or monies, provided to the
+201 State Industrial Development Authority pursuant to Section
+202 41-10-44.8(d) in order to induce an approved company to
+203 undertake a major project within the state.;
+204 (26) The amount of premiums paid pursuant to a
+205 qualifying insurance contract for qualified long-term care
+206 coverage.;
+207 (27) The amount deductible by the taxpayer in
+208 accordance with 26 U.S.C. § 162(h).;
+209 (28) The amount, up to five thousand dollars ($5,000)
+210 per annum, contributed subsequent to December 31, 2007, to the
+211 Alabama Prepaid Affordable College Tuition Program or the
+212 Alabama College Education Savings Program as defined in
+213 Chapter 33C of Title 16. If the taxpayer makes a nonqualified
+214 withdrawal as defined by Section 529 of the Internal Revenue
+215 Code (26 U.S.C. § 529), the amount of the nonqualified
+216 withdrawal, plus 10 percent of the amount withdrawn, shall be
+217 added back to the income of the contributing taxpayer in the
+218 year the nonqualified withdrawal was distributed.; and
+219 (29) For tax years beginning on and after January 1,
+220 2025, and ending December 31, 2027, qualified overtime
+221 compensation received during the taxable year, not to exceed
+222 one thousand dollars ($1,000) per taxpayer. For purposes of
+223 this deduction, qualified overtime compensation shall be
+224 defined and calculated pursuant to the provisions of 26 U.S.C.
+Page 8
+
+defined and calculated pursuant to the provisions of 26 U.S.C.
+HB527 INTRODUCED
+225 § 225. An individual taxpayer shall be allowed the deduction
+226 for qualified overtime compensation, regardless of whether the
+227 taxpayer itemizes income tax deductions in calculating the
+228 income tax imposed pursuant to Section 40-18-5.
+229 (b)(1) In lieu of the deductions allowable to
+230 individual taxpayers, as provided in subdivision (a)(1) of
+231 subsection (a) to the extent of unreimbursed employee business
+232 expenses, and as provided in subdivisions (a)(2), (3), (5),
+233 (6), (10), (13), (14), (15), (16), (19), (22), and (26) of
+234 subsection (a), the taxpayer may elect to take the optional
+235 standard deduction of 20 percent of the adjusted gross income
+236 or two thousand dollars ($2,000), whichever is the lesser.
+237 Taxpayers filing jointly as defined in Section 40-18-27 may
+238 elect to take the optional standard deduction of 20 percent of
+239 the adjusted gross income or four thousand dollars ($4,000),
+240 whichever is the lesser.
+241 (2) For tax years beginning after December 31, 2006,
+242 the optional standard deduction shall be determined as
+243 follows:
+244 a. The standard deduction for married taxpayers filing
+245 jointly with adjusted gross income of twenty thousand dollars
+246 ($20,000) or less shall be seven thousand five hundred dollars
+247 ($7,500). For married taxpayers filing jointly with adjusted
+248 gross income of greater than twenty thousand dollars
+249 ($20,000), the standard deduction shall be reduced by one
+250 hundred seventy-five dollars ($175) for each five hundred
+251 dollars ($500) of adjusted gross income in excess of twenty
+252 thousand dollars ($20,000). Notwithstanding the preceding
+Page 9
+
+thousand dollars ($20,000). Notwithstanding the preceding
+HB527 INTRODUCED
+253 sentence, the standard deduction shall not be less than four
+254 thousand dollars ($4,000) for married taxpayers filing
+255 jointly.
+256 b. The standard deduction for married taxpayers filing
+257 separate returns with adjusted gross income of ten thousand
+258 dollars ($10,000) or less shall be three thousand seven
+259 hundred fifty dollars ($3,750). For married taxpayers filing
+260 separate returns with adjusted gross income of greater than
+261 ten thousand dollars ($10,000), the standard deduction shall
+262 be reduced by eighty-eight dollars ($88) for each two hundred
+263 fifty dollars ($250) of adjusted gross income in excess of ten
+264 thousand dollars ($10,000). Notwithstanding the preceding
+265 sentence, the standard deduction shall not be less than two
+266 thousand dollars ($2,000) for married taxpayers filing
+267 separate returns.
+268 c. The standard deduction for head of family taxpayers
+269 with adjusted gross income of twenty thousand dollars
+270 ($20,000) or less shall be four thousand seven hundred dollars
+271 ($4,700). For head of family taxpayers with adjusted gross
+272 income of greater than twenty thousand dollars ($20,000), the
+273 standard deduction shall be reduced by one hundred thirty-five
+274 dollars ($135) for each five hundred dollars ($500) of
+275 adjusted gross income in excess of twenty thousand dollars
+276 ($20,000). Notwithstanding the preceding sentence, the
+277 standard deduction shall not be less than two thousand dollars
+278 ($2,000) for head of family taxpayers.
+279 d. The standard deduction for single taxpayers with
+280 adjusted gross income of twenty thousand dollars ($20,000) or
+Page 10
+
+adjusted gross income of twenty thousand dollars ($20,000) or
+HB527 INTRODUCED
+281 less shall be two thousand five hundred dollars ($2,500). For
+282 single taxpayers with adjusted gross income of greater than
+283 twenty thousand dollars ($20,000), the standard deduction
+284 shall be reduced by twenty-five dollars ($25) for each five
+285 hundred dollars ($500) of adjusted gross income in excess of
+286 twenty thousand dollars ($20,000). Notwithstanding the
+287 preceding sentence, the standard deduction shall not be less
+288 than two thousand dollars ($2,000) for single taxpayers.
+289 (3) For tax years beginning after December 31, 2018,
+290 the optional standard deduction shall be determined as
+291 follows:
+292 a. The standard deduction for married taxpayers filing
+293 jointly with adjusted gross income of less than twenty-three
+294 thousand dollars ($23,000) shall be seven thousand five
+295 hundred dollars ($7,500). For married taxpayers filing
+296 jointly, the standard deduction shall be reduced further by
+297 one hundred seventy-five dollars ($175) for each five hundred
+298 dollars ($500) of adjusted gross income in excess of
+299 twenty-three thousand dollars ($23,000). Notwithstanding the
+300 preceding sentence, the standard deduction shall not be less
+301 than four thousand dollars ($4,000) for married taxpayers
+302 filing jointly.
+303 b. The standard deduction for married taxpayers filing
+304 separate returns with adjusted gross income of less than ten
+305 thousand five hundred dollars ($10,500) shall be three
+306 thousand seven hundred fifty dollars ($3,750). For married
+307 taxpayers filing separate returns, the standard deduction
+308 shall be reduced further by eighty-eight dollars ($88) for
+Page 11
+
+shall be reduced further by eighty-eight dollars ($88) for
+HB527 INTRODUCED
+309 each two hundred fifty dollars ($250) of adjusted gross income
+310 in excess of ten thousand five hundred dollars ($10,500).
+311 Notwithstanding the preceding sentence, the standard deduction
+312 shall not be less than two thousand dollars ($2,000) for
+313 married taxpayers filing separate returns.
+314 c. The standard deduction for head of family taxpayers
+315 with adjusted gross income of less than twenty-three thousand
+316 dollars ($23,000) shall be four thousand seven hundred dollars
+317 ($4,700). For head of family taxpayers, the standard deduction
+318 shall be reduced further by one hundred thirty-five dollars
+319 ($135) for each five hundred dollars ($500) of adjusted gross
+320 income in excess of twenty-three thousand dollars ($23,000).
+321 Notwithstanding the preceding sentence, the standard deduction
+322 shall not be less than two thousand dollars ($2,000) for head
+323 of family taxpayers.
+324 d. The standard deduction for single taxpayers with
+325 adjusted gross income of less than twenty-three thousand
+326 dollars ($23,000) shall be two thousand five hundred dollars
+327 ($2,500). For single taxpayers, the standard deduction shall
+328 be reduced further by twenty-five dollars ($25) for each five
+329 hundred dollars ($500) of adjusted gross income in excess of
+330 twenty-three thousand dollars ($23,000). Notwithstanding the
+331 preceding sentence, the standard deduction shall not be less
+332 than two thousand dollars ($2,000) for single taxpayers.
+333 (4) For tax years beginning after December 31, 2021,
+334 the optional standard deduction shall be determined as
+335 follows:
+336 a. The standard deduction for married taxpayers filing
+Page 12
+
+a. The standard deduction for married taxpayers filing
+HB527 INTRODUCED
+337 jointly with adjusted gross income of less than twenty-five
+338 thousand five hundred dollars ($25,500) shall be eight
+339 thousand five hundred dollars ($8,500). For married taxpayers
+340 filing jointly, the standard deduction shall be reduced
+341 further by one hundred seventy-five dollars ($175) for each
+342 five hundred dollars ($500) of adjusted gross income in excess
+343 of twenty-five thousand five hundred dollars ($25,500).
+344 Notwithstanding the preceding sentence, the standard deduction
+345 shall not be less than five thousand dollars ($5,000) for
+346 married taxpayers filing jointly.
+347 b. The standard deduction for married taxpayers filing
+348 separate returns with adjusted gross income of less than
+349 twelve thousand seven hundred fifty dollars ($12,750) shall be
+350 four thousand two hundred fifty dollars ($4,250). For married
+351 taxpayers filing separate returns, the standard deduction
+352 shall be reduced further by eighty-eight dollars ($88) for
+353 each two hundred fifty dollars ($250) of adjusted gross income
+354 in excess of twelve thousand seven hundred fifty dollars
+355 ($12,750). Notwithstanding the preceding sentence, the
+356 standard deduction shall not be less than two thousand five
+357 hundred dollars ($2,500) for married taxpayers filing separate
+358 returns.
+359 c. The standard deduction for head of family taxpayers
+360 with adjusted gross income of less than twenty-five thousand
+361 five hundred dollars ($25,500) shall be five thousand two
+362 hundred dollars ($5,200). For head of family taxpayers, the
+363 standard deduction shall be reduced further by one hundred
+364 thirty-five dollars ($135) for each five hundred dollars
+Page 13
+
+thirty-five dollars ($135) for each five hundred dollars
+HB527 INTRODUCED
+365 ($500) of adjusted gross income in excess of twenty-five
+366 thousand five hundred dollars ($25,500). Notwithstanding the
+367 preceding sentence, the standard deduction shall not be less
+368 than two thousand five hundred dollars ($2,500) for head of
+369 family taxpayers.
+370 d. The standard deduction for single taxpayers with
+371 adjusted gross income of less than twenty-five thousand five
+372 hundred dollars ($25,500) shall be three thousand dollars
+373 ($3,000). For single taxpayers, the standard deduction shall
+374 be reduced further by twenty-five dollars ($25) for each five
+375 hundred dollars ($500) of adjusted gross income in excess of
+376 twenty-five thousand five hundred dollars ($25,500).
+377 Notwithstanding the preceding sentence, the standard deduction
+378 shall not be less than two thousand five hundred dollars
+379 ($2,500) for single taxpayers.
+380 (c) A deduction is allowable for the amount of federal
+381 income tax paid or accrued within the taxable year. In the
+382 case of a nonresident taxpayer, the amount of federal income
+383 tax deductible to Alabama shall be determined by the ratio
+384 that the amount of adjusted gross income received from sources
+385 within the State of Alabama bears to the amount of adjusted
+386 gross income received from sources within and outside the
+387 State of Alabama.
+388 (d) If separate returns are filed by husband and wife
+389 and one spouse elects to claim the optional standard
+390 deduction, the other spouse must also claim the optional
+391 standard deduction, unless, for the tax returns filed for the
+392 2014 and subsequent tax years, the spouses have lived apart
+Page 14
+
+2014 and subsequent tax years, the spouses have lived apart
+HB527 INTRODUCED
+393 for the entire year. In this case, each spouse may claim
+394 either the optional standard deduction or itemized deductions.
+395 Neither spouse may claim a deduction for expenses paid by the
+396 other spouse.
+397 (e) In the case of a nonresident individual:
+398 (1) The deductions allowed in subdivisions (a)(1), (2),
+399 (3), (4), (5), (7), (8), (9), (11), (12), (19), (21), (23),
+400 and (25) of subsection (a) shall be allowed only to the extent
+401 that they are paid or incurred in carrying on a trade or
+402 business within the State of Alabama and the deduction allowed
+403 by Section 40-18-15.2 shall be allowed only to the extent it
+404 arose from a trade or business carried on in Alabama.;
+405 (2) The deductions allowed by subdivisions (a)(2), (3),
+406 (5), (8), (9), (14), and (19) of subsection (a) shall be
+407 allowed only to the extent arising from property located in
+408 Alabama or transactions producing income that is subject to
+409 tax in the State of Alabama.; and
+410 (3) The amount of the deductions allowed by
+411 subdivisions (a)(2), (3), (6), (10), (13), (15), (16), (17),
+412 (19), (24), and (26) of subsection (a) (and not allowed by
+413 subdivisions (1) or (2) of this subsection), or by subsection
+414 (b) if the taxpayer elects the standard deduction, shall be
+415 limited to the amount determined by multiplying the total of
+416 such deductions by a fraction, the numerator of which is the
+417 taxpayer's adjusted gross income determined using the rules
+418 provided in subdivisions (1) and (2) of this subsection and
+419 the denominator of which is the taxpayer's adjusted gross
+420 income determined under Section 40-18-14.2. The deduction
+Page 15
+
+income determined under Section 40-18-14.2. The deduction
+HB527 INTRODUCED
+421 allowed in subdivision (a)(17) of subsection (a) shall not be
+422 subtracted in calculating either the numerator or denominator
+423 in the previous sentence.
+424 (f) Nothing in this section shall allow any item to be
+425 deducted more than once."
+426 Section 2. This act shall become effective on October
+427 1, 2026.
+Page 16

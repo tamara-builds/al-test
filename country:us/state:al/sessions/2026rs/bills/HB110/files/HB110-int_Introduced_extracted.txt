@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB110 INTRODUCED
+1 HB110
+2 QNXP851-1
+3 By Representative Tillman
+4 RFD: Public Safety and Homeland Security
+5 First Read: 13-Jan-26
+6 PFD: 06-Jan-26
+Page 0
+
+PFD: 06-Jan-26
+QNXP851-1 12/10/2025 GED (L)ma 2025-3206
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, residents of the state may
+6 purchase a physical driver license or nondriver
+7 identification card from the Alabama State Law
+8 Enforcement Agency.
+9 This bill would require the Alabama State Law
+10 Enforcement Agency to offer residents the option to
+11 obtain a digital driver license or nondriver
+12 identification card in tandem with a physical driver
+13 license or nondriver identification card.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to driver licenses; to authorize the Alabama
+21 State Law Enforcement Agency to issue digital driver licenses
+22 and nondriver identification cards.
+23 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+24 Section 1. (a)(1) Pursuant to the procedures for
+25 issuance and renewal of driver licenses and nondriver
+26 identification cards established in Chapter 6 of Title 32,
+27 Code of Alabama 1975, the Alabama State Law Enforcement Agency
+28 (ALEA) shall issue a digital driver license or nondriver
+Page 1
+
+(ALEA) shall issue a digital driver license or nondriver
+HB110 INTRODUCED
+29 identification card for a fee of fifteen dollars ($15), which
+30 may be displayed through an ALEA-approved mobile electronic
+31 device.
+32 (2) The digital driver license or nondriver
+33 identification card may be issued in addition to a physical
+34 driver license or nondriver identification card.
+35 (b) The digital driver license or nondriver
+36 identification card shall contain all information present on a
+37 physical driver license or nondriver identification card,
+38 including a bar code or other mechanism, as utilized to reveal
+39 the information.
+40 (c) A licensee may produce an ALEA-approved digital
+41 driver license in lieu of possessing a physical driver license
+42 when operating a motor vehicle or vessel pursuant to Section
+43 32-6-9, Code of Alabama 1975.
+44 (d)(1) Upon demand of a judge of any court in this
+45 state, a peace officer, a state trooper, or any other state or
+46 local governmental entity, a licensee may produce an
+47 ALEA-approved digital driver license or nondriver
+48 identification card, and it shall be recognized as though it
+49 were a physical driver license or nondriver identification
+50 card.
+51 (2) A licensee may not produce an approved digital
+52 driver license or nondriver identification card in place of a
+53 physical driver license or nondriver identification card as a
+54 valid form of voter photo identification pursuant to Section
+55 17-9-30, Code of Alabama 1975.
+56 (e) If the licensee displays the digital driver license
+Page 2
+
+(e) If the licensee displays the digital driver license
+HB110 INTRODUCED
+57 or nondriver identification card through the ALEA-approved
+58 mobile application, the individual is not implicitly
+59 consenting to allow access to or to search other contents of
+60 the wireless communication or electronic device other than
+61 provided for by law.
+62 (f) ALEA shall apply reasonable standards of security
+63 to protect the integrity of the digital driver license or
+64 nondriver identification card and privacy of the licensee.
+65 (g) ALEA may adopt rules to implement this section.
+66 Section 2. This act shall become effective on October
+67 1, 2026.
+Page 3

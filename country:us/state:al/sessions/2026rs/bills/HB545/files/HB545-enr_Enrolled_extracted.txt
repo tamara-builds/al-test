@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB545 ENROLLED
+1 HB545
+2 MS3I61H-3
+3 By Representatives Crow, Whitt, Crawford, Paramore, Lomax,
+4 DuBose, Nelson, Allbright, Rigsby, Brown, Sorrells
+5 RFD: Financial Services
+6 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+HB545 Enrolled
+1 Enrolled, An Act,
+2
+3 Related to legal tender; to authorize the rounding of
+4 the total amount of any in-person cash transaction to the
+5 nearest five cents.
+6 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+7 Section 1. (a) The amount of an in-person cash
+8 transaction may be rounded to the nearest five cents using the
+9 following methodology:
+10 (1) If the final digit of the amount in the transaction
+11 is one or two, the final digit must be rounded down to zero.
+12 (2) If the final digit is three or four, the final
+13 digit must be rounded up to five.
+14 (3) If the final digit is six or seven, the final digit
+15 must be rounded down to five.
+16 (4) If the final digit is eight or nine, the final
+17 digit must be rounded up to zero.
+18 (5) If the final digit is five or zero, the final digit
+19 must not be rounded.
+20 (b) Subsection (a) does not alter the sales price, the
+21 amount of tax collected under Section 40-23-26, Code of
+22 Alabama 1975, or any other authority providing for the
+23 collection of sales tax, or any surcharges, assessments, or
+24 fees imposed on the sale.
+25 (c)(1) Subsection (a) may apply to the amount of the
+26 transaction or to the amount of change tendered to the
+27 purchaser.
+28 (2) Subsection (a) shall not apply to any transaction
+Page 1
+
+(2) Subsection (a) shall not apply to any transaction
+HB545 Enrolled
+29 for which payment is made by a method other than cash,
+30 including electronic funds transfer, check, gift card, money
+31 order, or credit card. If the transaction is made using both
+32 cash and another form of payment, subsection (a) shall apply
+33 to the portion of the transaction amount that is paid for
+34 using cash.
+35 (3) Subsection (a) shall not alter or affect any
+36 payment amount authorized, cleared, or settled through any
+37 payment system that does not use cash.
+38 (4) Subsection (a) shall not apply to any transaction
+39 where payment is made to a governmental entity. For purposes
+40 of this subdivision, "governmental entity" means any state or
+41 local agency or instrumentality thereof located in the state.
+42 (d) The Department of Revenue shall post a notice on
+43 the department's website stating the authorization to begin
+44 rounding transactions pursuant to this section.
+45 Section 2. This act shall become effective immediately.
+Page 2
+
+Section 2. This act shall become effective immediately.
+HB545 Enrolled
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56 ________________________________________________
+57 Speaker of the House of Representatives
+58
+59
+60
+61 ________________________________________________
+62 President and Presiding Officer of the Senate
+63
+64
+65 House of Representatives
+66
+67 I hereby certify that the within Act originated in and
+68 was passed by the House 19-Mar-26.
+69
+70 John Treadwell
+71 Clerk
+72
+73
+74
+75
+76
+77 Senate 07-Apr-26 Amended and Passed
+78
+79 House Concurred in Senate
+80 Amendment
+81
+82
+Page 3

@@ -1,0 +1,658 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB203 INTRODUCED
+1 SB203
+2 ZQPI8KW-1
+3 By Senators Figures, Chambliss, Hatcher, Coleman, Singleton,
+4 Stewart, Bell, Kelley, Chesteen, Price, Williams, Weaver,
+5 Elliott, Hovey, Waggoner, Kitchens, Carnley, Givhan, Melson,
+6 Sessions, Jones, Smitherman, Woods, Beasley, Livingston,
+7 Butler, Gudger, Stutts, Allen, Roberts, Albritton
+8 RFD: Judiciary
+9 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+ZQPI8KW-1 01/13/2026 CMH (L)bm 2025-3324
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person commits the crime
+6 of indecent exposure if, with a sexual motivation, the
+7 person exposes himself or herself to another in an
+8 unwanted manner. The offense is a Class A misdemeanor,
+9 but is increased to a Class C felony on a third
+10 conviction.
+11 This bill would provide that if the victim of
+12 indecent exposure is under 12 years of age, the penalty
+13 is a Class C felony.
+14 Under existing law, directing a child under 12
+15 years of age to engage in sexual intercourse or sodomy
+16 is a Class A felony, and directing a child under 12
+17 years of age to engage in sexual contact with another
+18 is a Class B felony.
+19 This bill would amend each of these crimes to
+20 increase the age threshold for child victims.
+21 Under existing law, transmitting obscene
+22 material to a child by computer is a Class B felony.
+23 This bill would provide that the crime of
+24 transmitting obscene material to a child may be
+25 committed using a cellular device or any other
+26 electronic means. This bill would also provide that the
+27 crime is committed if the defendant believed he or she
+28 was transmitting the prohibited material to a child and
+Page 1
+
+was transmitting the prohibited material to a child and
+SB203 INTRODUCED
+29 that it is not a defense to prosecution that an
+30 undercover operative or law enforcement officer was
+31 posing as a child or involved in the detection and
+32 investigation of an offense.
+33 Under existing law, it is unlawful to travel to
+34 meet a child for an unlawful sex act with the child.
+35 This bill would provide that the crime is
+36 committed if the defendant travels to commit an
+37 unlawful sex act with a person he or she believes to be
+38 a child.
+39 This bill would delete an affirmative defense to
+40 the crime of kidnapping in the first degree.
+41 This bill would further define the term "sex
+42 offense" to include voyeurism.
+43 This bill would establish the crime of inpatient
+44 custodial sexual misconduct, committed when an employee
+45 of an inpatient or residential drug rehabilitation or
+46 mental health facility solicits or engages in any
+47 sexual conduct with a patient of the facility. This
+48 bill would provide that consent is not a defense to the
+49 crime. This bill would also establish criminal
+50 penalties for a violation.
+51 This bill would also make various conforming
+52 revisions and nonsubstantive technical changes to
+53 update code language to current style.
+54
+55
+56
+Page 2
+
+SB203 INTRODUCED
+57 A BILL
+58 TO BE ENTITLED
+59 AN ACT
+60
+61 Relating to criminal law and procedure; to amend
+62 Sections 13A-6-43, 13A-6-44, 13A-6-68, 13A-6-111, 13A-6-124,
+63 and 13A-6-243, Code of Alabama 1975, to further provide for
+64 the affirmative defenses to offenses of kidnapping in the
+65 first and second degrees; to expand the offenses of indecent
+66 exposure, directing a child to engage in sexual intercourse or
+67 sodomy, traveling to meet a child for an unlawful sex act, and
+68 directing a child to engage in sexual contact to include
+69 additional child victims; to further provide for the offense
+70 of transmitting obscene material to a child by computer to
+71 specify that the offense may be consummated if undercover
+72 agents are involved; to amend Sections 15-20A-5 and 15-25-31,
+73 Code of Alabama 1975, to further define the term "sex offense"
+74 to include voyeurism; to further provide for the admissibility
+75 of out-of-court statements made by children; to establish the
+76 crime of inpatient custodial sexual misconduct and provide
+77 criminal penalties for a violation; to amend Section
+78 12-21-148, Code of Alabama 1975, to further provide for the
+79 use of a certified facility dog in court proceedings; to amend
+80 Sections 15-20A-6 and 15-20A-44, Code of Alabama 1975, to make
+81 conforming changes; and to make nonsubstantive, technical
+82 revisions to update the existing code language to current
+83 style.
+84 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 3
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+SB203 INTRODUCED
+85 Section 1. Sections 13A-6-43, 13A-6-44, 13A-6-68,
+86 13A-6-111, 13A-6-124, and 13A-6-243, Code of Alabama 1975, are
+87 amended to read as follows:
+88 "§13A-6-43
+89 (a) A person commits the crime of kidnapping in the
+90 first degree if he or she abducts another person with intent
+91 to do any of the following:
+92 (1) Hold him or her for ransom or reward; or.
+93 (2) Use him or her as a shield or hostage; or.
+94 (3) Accomplish or aid the commission of any felony or
+95 flight therefrom; or.
+96 (4) Inflict physical injury upon him or her, or to
+97 violate or abuse him or her sexually; or.
+98 (5) Terrorize him or her or a third person; or.
+99 (6) Interfere with the performance of any governmental
+100 or political function.
+101 (b) A person does not commit the crime of kidnapping in
+102 the first degree if he voluntarily releases the victim alive,
+103 and not suffering from serious physical injury, in a safe
+104 place prior to apprehension. The burden of injecting the issue
+105 of voluntary safe release is on the defendant, but this does
+106 not shift the burden of proof. This subsection does not apply
+107 to a prosecution for or preclude a conviction of kidnapping in
+108 the second degree or any other crime.
+109 (c)(b) Kidnapping in the first degree is a Class A
+110 felony."
+111 "§13A-6-44
+112 (a) A person commits the crime of kidnapping in the
+Page 4
+
+(a) A person commits the crime of kidnapping in the
+SB203 INTRODUCED
+113 second degree if he or she abducts another person using, or
+114 with the intent to use, deception, physical force, or deadly
+115 physical force.
+116 (b) A person does not commit a crime under this section
+117 if:
+118 (1) The abduction is not coupled with intent to use or
+119 to threaten to use deadly force,
+120 (2) The actor is a relative of the person abducted, and
+121 (3) The(b)(1) It is an affirmative defense to a
+122 violation of this section if the actor's sole purpose is to
+123 assume lawful control of that person.
+124 (2) The burden of injecting the issue of defense under
+125 this subsection is on the defendant, but this does not shift
+126 the burden of proof.
+127 (c) Kidnapping in the second degree is a Class B
+128 felony."
+129 "§13A-6-68
+130 (a) A person commits the crime of indecent exposure if,
+131 with intent to arouse or gratify sexual desire of himself or
+132 herself, or of any person other than his or her spouse, he or
+133 she exposes his or her genitals under circumstances in which
+134 he or she knows the conduct is likely to cause affront or
+135 alarm.
+136 (b)(1) Indecent exposure is a Class A misdemeanor
+137 except a third or subsequent conviction shall be.
+138 (2) Notwithstanding subdivision (1), indecent exposure
+139 is a Class C felony under either of the following
+140 circumstances:
+Page 5
+
+circumstances:
+SB203 INTRODUCED
+141 a. If any victim of the offense is under 12 years of
+142 age.
+143 b. If the person has two or more prior convictions
+144 under this article."
+145 "§13A-6-111
+146 (a) A person is guilty of transmitting obscene material
+147 to a child if the person transmits to a child, or another
+148 person believed by the defendant to be a child, by means of
+149 any cellular device, online application, computer
+150 communication system allowing the input, output, examination,
+151 or transfer of computer programs from one computer to another,
+152 or any other electronic means, material which, in whole or in
+153 part, depicts actual or simulated nudity, sexual conduct, or
+154 sadomasochistic abuse, for the purpose of initiating or
+155 engaging in sexual acts sexual conduct pursuant to Section
+156 13A-12-200.1, sexual performance, or a sex offense pursuant to
+157 Section 15-20A-5 with the child.
+158 (b) For the purposes of this section, a "child"
+159 includes any person under 17 years of age.
+160 (c) For purposes of determining jurisdiction, the
+161 offense is committed in this state if the transmission that
+162 constitutes the offense either originates in this state or is
+163 received in this state and shall be considered to be committed
+164 in any county in which any part of the crime took place or in
+165 the county of residence of the victim or defendant.
+166 (d) A person charged under this section shall be tried
+167 as an adult and the record of the proceeding shall not be
+168 sealed nor subject to expungement.
+Page 6
+
+sealed nor subject to expungement.
+SB203 INTRODUCED
+169 (e) It shall not be a defense to prosecution under this
+170 section that an undercover operative or law enforcement
+171 officer was involved in the detection and investigation of an
+172 offense.
+173 (f)(e) Transmitting obscene material of engaging in
+174 sexual intercourse, sodomy, or to engage in a sexual
+175 performance, obscene sexual performance, or sexual conduct for
+176 his or her benefit to a child A violation of this section is a
+177 Class B felony."
+178 "§13A-6-124
+179 (a) Any person who travels either within this state, to
+180 this state, or from this state by any means, who attempts to
+181 do so, or who knowingly causes another to do so or to attempt
+182 to do so for the purpose of engaging in any unlawful sex act
+183 with a child, or another person believed by the defendant to
+184 be a child, including sexual intercourse, sodomy, a sexual
+185 conduct pursuant to Section 13A-12-200.1, sexual performance,
+186 obscene sexual performance, or other sexual conduct or a sex
+187 offense pursuant to Section 15-20A-5 for his or her benefit or
+188 for the benefit of another shall be guilty of traveling to
+189 meet a child for an unlawful sex act.
+190 (b) Any person who violates this section commits a
+191 Class A felony. Notwithstanding any law to the contrary, a
+192 conviction under this section shall be considered a criminal
+193 sex offense under Section 15-20-21."
+194 "§13A-6-243
+195 (a)(1) A person commits the crime of directing a child
+196 to engage in sexual intercourse or sodomy if he or she
+Page 7
+
+to engage in sexual intercourse or sodomy if he or she
+SB203 INTRODUCED
+197 knowingly entices, allures, persuades, induces, or directs any
+198 person under the age of 12 years of the following to engage in
+199 sexual intercourse or sodomy with another person:
+200 a. A child under 12 years of age.
+201 b. A child 12 or more years of age, but less than 16
+202 years of age, provided the child is two or more years younger
+203 than the other person.
+204 (2) Directing a child to engage in sexual intercourse
+205 or sodomy is a Class A felony.
+206 (b)(1) A person commits the crime of directing a child
+207 to engage in sexual contact if he or she knowingly entices,
+208 allures, persuades, induces, or directs any person under the
+209 age of 12 years of the following to engage in sexual contact
+210 with another person:
+211 a. A child under 12 years of age.
+212 b. A child 12 or more years of age, but less than 16
+213 years of age, provided the child is two or more years younger
+214 than the other person.
+215 (2) A violation of this sectionDirecting a child to
+216 engage in sexual contact is a Class B felony."
+217 Section 2. It shall not be a defense to prosecution
+218 under Article 6 of Chapter 6 of Title 13A, Code of Alabama
+219 1975, that an undercover operative or law enforcement officer
+220 was involved in the detection and investigation of an offense.
+221 Section 3. Sections 15-20A-5 and 15-25-31, Code of
+222 Alabama 1975, are amended to read as follows:
+223 "§15-20A-5
+224 For the purposes of this chapter, a sex offense
+Page 8
+
+For the purposes of this chapter, a sex offense
+SB203 INTRODUCED
+225 includes any of the following offenses:
+226 (1) Rape in the first degree, as provided by Section
+227 13A-6-61.
+228 (2) Rape in the second degree, as provided by Section
+229 13A-6-62. A juvenile sex offender adjudicated delinquent of a
+230 violation of rape in the second degree is presumed to be
+231 exempt from this chapter after the juvenile has been counseled
+232 on the dangers of the conduct for which he or she was
+233 adjudicated delinquent unless the sentencing court makes a
+234 determination that the juvenile sex offender is to be subject
+235 to this chapter.
+236 (3) Sodomy in the first degree, as provided by Section
+237 13A-6-63.
+238 (4) Sodomy in the second degree, as provided by Section
+239 13A-6-64. A juvenile sex offender adjudicated delinquent of a
+240 violation of sodomy in the second degree is presumed to be
+241 exempt from this chapter after the juvenile has been counseled
+242 on the dangers of the conduct for which he or she was
+243 adjudicated delinquent unless the sentencing court makes a
+244 determination that the juvenile sex offender is to be subject
+245 to this chapter.
+246 (5) Sexual misconduct, as provided by Section 13A-6-65,
+247 provided that on a first conviction or adjudication the sex
+248 offender is only subject to registration and verification
+249 pursuant to this chapter. On a second or subsequent conviction
+250 or adjudication of a sex offense, if the second or subsequent
+251 conviction or adjudication does not arise out of the same set
+252 of facts and circumstances as the first conviction or
+Page 9
+
+of facts and circumstances as the first conviction or
+SB203 INTRODUCED
+253 adjudication of a sex offense, the sex offender shall comply
+254 with all requirements of this chapter. A juvenile sex offender
+255 adjudicated delinquent of a violation of sexual misconduct is
+256 presumed to be exempt from this chapter after the juvenile has
+257 been counseled on the dangers of the conduct for which he or
+258 she was adjudicated delinquent unless the sentencing court
+259 makes a determination that the juvenile sex offender is to be
+260 subject to this chapter.
+261 (6) Sexual torture, as provided by Section 13A-6-65.1.
+262 (7) Sexual abuse in the first degree, as provided by
+263 Section 13A-6-66.
+264 (8) Sexual abuse in the second degree, as provided by
+265 Section 13A-6-67.
+266 (9) Indecent exposure, as provided by Section 13A-6-68,
+267 provided that on a first conviction or adjudication of a sex
+268 offense, the sex offender is only subject to registration and
+269 verification pursuant to this chapter. On a second or
+270 subsequent conviction or adjudication of a sex offense, if the
+271 second or subsequent conviction or adjudication does not arise
+272 out of the same set of facts and circumstances as the first
+273 conviction or adjudication, the sex offender shall comply with
+274 all requirements of this chapter. A juvenile sex offender
+275 adjudicated of a violation of indecent exposure is presumed to
+276 be exempt from this chapter after the juvenile has been
+277 counseled on the dangers of the conduct for which he or she
+278 was adjudicated delinquent unless the sentencing court makes a
+279 determination that the juvenile sex offender is to be subject
+280 to this chapter.
+Page 10
+
+to this chapter.
+SB203 INTRODUCED
+281 (10) Enticing a child to enter a vehicle, room, house,
+282 office, or other place for immoral purposes, as provided by
+283 Section 13A-6-69.
+284 (11) Sexual abuse of a child less than 12 years old, as
+285 provided by Section 13A-6-69.1.
+286 (12) Promoting prostitution in the first degree, as
+287 provided by Section 13A-12-111.
+288 (13) Promoting prostitution in the second degree, as
+289 provided by Section 13A-12-112.
+290 (14) Violation of the Alabama Child Pornography Act, as
+291 provided by Section 13A-12-191, 13A-12-192, 13A-12-196, or
+292 13A-12-197. A juvenile sex offender adjudicated delinquent of
+293 a violation of the Alabama Child Pornography Act is presumed
+294 to be exempt from this chapter after the juvenile has been
+295 counseled on the dangers of the conduct for which he or she
+296 was adjudicated delinquent unless the sentencing court makes a
+297 determination that the juvenile sex offender is to be subject
+298 to this chapter.
+299 (15) Unlawful imprisonment in the first degree, as
+300 provided by Section 13A-6-41, if the victim of the offense is
+301 a minor, and the record of adjudication or conviction reflects
+302 the intent of the unlawful imprisonment was to abuse the minor
+303 sexually.
+304 (16) Unlawful imprisonment in the second degree, as
+305 provided by Section 13A-6-42, if the victim of the offense is
+306 a minor, and the record of adjudication or conviction reflects
+307 the intent of the unlawful imprisonment was to abuse the minor
+308 sexually.
+Page 11
+
+sexually.
+SB203 INTRODUCED
+309 (17) Kidnapping in the first degree, as provided by
+310 subdivision (4) of subsection (a) of Section 13A-6-43, if the
+311 intent of the abduction is to violate or abuse the victim
+312 sexually.
+313 (18) Kidnapping of a minor, except by a parent,
+314 guardian, or custodian, as provided by Section 13A-6-43 or
+315 13A-6-44.
+316 (19) Incest, as provided by Section 13A-13-3.
+317 (20) Transmitting obscene material to a child by
+318 computer, as provided by Section 13A-6-111.
+319 (21) School employee engaging in a sex act or deviant
+320 sexual intercourse with a student, or having sexual contact or
+321 soliciting a sex act or sexual contact with a student, as
+322 provided by Sections 13A-6-81 and 13A-6-82.
+323 (22) Foster parent engaging in a sex act, having sexual
+324 contact, or soliciting a sex act or sexual contact with a
+325 foster child, as provided by Section 13A-6-71.
+326 (23) Facilitating solicitation of unlawful sexual
+327 conduct with a child, as provided by Section 13A-6-121.
+328 (24) Electronic solicitation of a child, as provided by
+329 Section 13A-6-122.
+330 (25) Facilitating the on-line solicitation of a child,
+331 as provided by Section 13A-6-123.
+332 (26) Traveling to meet a child for an unlawful sex act,
+333 as provided by Section 13A-6-124.
+334 (27) Facilitating the travel of a child for an unlawful
+335 sex act, as provided by Section 13A-6-125.
+336 (28) Human trafficking in the first degree, as provided
+Page 12
+
+(28) Human trafficking in the first degree, as provided
+SB203 INTRODUCED
+337 by Section 13A-6-152, provided that the offense involves
+338 sexual servitude.
+339 (29) Human trafficking in the second degree, as
+340 provided by Section 13A-6-153, provided that the offense
+341 involves sexual servitude.
+342 (30) Custodial sexual misconduct, as provided by
+343 Section 14-11-31.
+344 (31) Sexual extortion, as provided by Section
+345 13A-6-241.
+346 (32) Directing a child to engage in a sex act, as
+347 provided in Section 13A-6-243.
+348 (33) Voyeurism in the first degree, as provided in
+349 Section 13A-11-41.
+350 (33)(34) Any offense which is the same as or equivalent
+351 to any offense set forth above as the same existed and was
+352 defined under the laws of this state existing at the time of
+353 such conviction, specifically including, but not limited to,
+354 crime against nature, as provided by Section 13-1-110; rape,
+355 as provided by Sections 13-1-130 and 13-1-131; carnal
+356 knowledge of a woman or girl, as provided by Sections 13-1-132
+357 through 13-1-135, or attempting to do so, as provided by
+358 Section 13-1-136; indecent molestation of children, as defined
+359 and provided by Section 13-1-113; indecent exposure, as
+360 provided by Section 13-1-111; incest, as provided by Section
+361 13-8-3; offenses relative to obscene prints and literature, as
+362 provided by Sections 13-7-160 through 13-7-175, inclusive;
+363 employing, harboring, procuring or using a girl over 10 and
+364 under 18 years of age for the purpose of prostitution or
+Page 13
+
+under 18 years of age for the purpose of prostitution or
+SB203 INTRODUCED
+365 sexual intercourse, as provided by Section 13-7-1; seduction,
+366 as defined and provided by Section 13-1-112; a male person
+367 peeping into a room occupied by a female, as provided by
+368 Section 13-6-6; assault with intent to ravish, as provided by
+369 Section 13-1-46; and soliciting a child by computer, as
+370 provided by Section 13A-6-110.
+371 (34)(35) Any solicitation, attempt, or conspiracy to
+372 commit any of the offenses listed in subdivisions (1) to
+373 (33)(34), inclusive.
+374 (35)(36) Any crime committed in Alabama or any other
+375 state, the District of Columbia, any United States territory,
+376 or a federal, military, Indian, or foreign country
+377 jurisdiction which, if it had been committed in this state
+378 under the current provisions of law, would constitute an
+379 offense listed in subdivisions (1) to (34)(35), inclusive.
+380 (36)(37) Any offense specified by Title I of the
+381 federal Adam Walsh Child Protection and Safety Act of 2006
+382 (Pub. L. 109-248, the Sex Offender Registration and
+383 Notification Act (SORNA)).
+384 (37)(38) Any crime committed in another state, the
+385 District of Columbia, any United States territory, or a
+386 federal, military, Indian, or foreign country jurisdiction if
+387 that jurisdiction also requires that anyone convicted of that
+388 crime register as a sex offender in that jurisdiction.
+389 (38)(39) Any offender determined in any jurisdiction to
+390 be a sex offender shall be considered a sex offender in this
+391 state.
+392 (39)(40) The foregoing notwithstanding, any crime
+Page 14
+
+(39)(40) The foregoing notwithstanding, any crime
+SB203 INTRODUCED
+393 committed in any jurisdiction which, irrespective of the
+394 specific description or statutory elements thereof, is in any
+395 way characterized or known as rape, carnal knowledge, sodomy,
+396 sexual assault, sexual battery, criminal sexual conduct,
+397 criminal sexual contact, sexual abuse, continuous sexual
+398 abuse, sexual torture, solicitation of a child, enticing or
+399 luring a child, child pornography, lewd and lascivious
+400 conduct, taking indecent liberties with a child, molestation
+401 of a child, criminal sexual misconduct, video voyeurism, or
+402 there has been a finding of sexual motivation.
+403 (40)(41) Any crime not listed in this section wherein
+404 the underlying felony is an element of the offense and listed
+405 in subdivisions (1) to (39)(40), inclusive.
+406 (41)(42) Any other offense not provided for in this
+407 section wherein there is a finding of sexual motivation as
+408 provided by Section 15-20A-6."
+409 "§15-25-31
+410 An out-of-court statement made by a witness or a victim
+411 who is a child under 12 16 years of age at the time the
+412 statement is made, or by a protected person as defined in
+413 Section 15-25-1, concerning an act that is a material element
+414 of any crime involving a physical offense, sexual offense, or
+415 violent offense, as defined in Section 15-25-39, which
+416 statement is not otherwise admissible in evidence, is
+417 admissible in evidence in criminal any court proceedings, if
+418 the requirements of Section 15-25-32 are met. "
+419 Section 4. (a) As used in this section, the following
+420 terms have the following meanings:
+Page 15
+
+terms have the following meanings:
+SB203 INTRODUCED
+421 (1) EMPLOYEE. Any individual who is an employee,
+422 contractual employee, or volunteer at an inpatient or
+423 residential drug rehabilitation or mental health facility and
+424 who has the responsibility for the care, treatment, control,
+425 or supervision of patients in the facility.
+426 (2) SEXUAL CONDUCT. The term as defined in Section
+427 14-11-30, Code of Alabama 1975.
+428 (b) A person commits the crime of inpatient custodial
+429 sexual misconduct if the person is an employee and solicits or
+430 engages in sexual conduct with any other person who is a
+431 patient in or committed to an inpatient or residential drug
+432 rehabilitation or mental health facility.
+433 (c) A violation of this section is a Class C felony.
+434 (d)(1) It is the public policy of the state to prohibit
+435 without exception all inpatient and residential custodial
+436 sexual misconduct.
+437 (2) For purposes of prosecution under this section,
+438 consent is not a defense and the issue of whether a patient in
+439 an inpatient or residential drug rehabilitation or mental
+440 health facility consented to any sexual conduct is immaterial.
+441 Section 5. Sections 12-21-148, 15-20A-6, and 15-20A-44,
+442 Code of Alabama 1975, are amended to make conforming changes
+443 as follows:
+444 "§12-21-148
+445 (a) For the purposes of this section, the following
+446 terms shall have the following meanings:
+447 (1) CERTIFIED FACILITY DOG. A trained working dog that
+448 is a graduate of an assistance dog organization, a nonprofit
+Page 16
+
+is a graduate of an assistance dog organization, a nonprofit
+SB203 INTRODUCED
+449 organization that sets standards of training for the health,
+450 welfare, task work, and oversight for assistance dogs and
+451 their handlers, and shall have at a minimum all of the
+452 following:
+453 a. Two years of training and must have passed the same
+454 public-access test as a service dog.
+455 b. Documentation showing that the certified facility
+456 dog has graduated from an assistance dog organization.
+457 c. A current annual certificate of health from an
+458 Alabama veterinarian.
+459 d. Proof of liability insurance in the minimum amount
+460 of five hundred thousand dollars ($500,000).
+461 (2) CERTIFIED HANDLER. A certified handler who has
+462 received training from an assistance dog organization and has
+463 received training on the protocols and policies of legal
+464 proceedings and the role of the certified facility dog and
+465 certified handler to assure there is no interference with the
+466 collection of evidence and testimony, or the administration of
+467 justice.
+468 (b) In a legal proceeding, to reduce the stress of a
+469 witness and to enhance the ability of the court to obtain full
+470 and accurate testimony, the court may allow a certified
+471 facility dog to accompany a victim or witness while
+472 testifying, or in other court proceedings, if a certified
+473 facility dog is available.
+474 (c) If the court, in its sole discretion, grants the
+475 use of a certified facility dog, and a jury has been empaneled
+476 in the legal proceeding, the certified facility dog shall be
+Page 17
+
+in the legal proceeding, the certified facility dog shall be
+SB203 INTRODUCED
+477 accompanied by the certified handler to the witness stand with
+478 the witness outside of the presence of the jury, and the
+479 certified handler shall return to his or her position in the
+480 courtroom within view of the witness stand. Subsequently, the
+481 jury shall be seated and the court shall instruct the jury on
+482 the presence of the certified facility dog and that the
+483 presence of a certified facility dog should not create any
+484 prejudice to any party.
+485 (d) During trial proceedings, all precautions should be
+486 taken to obscure the presence of the dog from the jury.
+487 (e) Markings identifying the dog as a certified
+488 facility dog while working must be visible.
+489 (f) Subject to the Alabama Rules of Criminal Procedure,
+490 if requested by either party in a legal proceeding, the court
+491 may examine and confirm the credentials of the certified
+492 facility dog and certified handler.
+493 (g) Prior to the use of a certified facility dog in a
+494 court proceeding, the state or moving party must file a notice
+495 of intent to use the registered therapy certified facility
+496 dog."
+497 "§15-20A-6
+498 (a)(1) The indictment, count in the indictment,
+499 information, complaint, or warrant charging the offense may
+500 include a specification of sexual motivation or the
+501 prosecuting attorney may file an allegation of sexual
+502 motivation in any criminal case classified as a felony or
+503 Class A misdemeanor if sufficient admissible evidence exists
+504 that would justify a finding of sexual motivation by a
+Page 18
+
+that would justify a finding of sexual motivation by a
+SB203 INTRODUCED
+505 reasonable and objective finder of fact.
+506 (2) If a specification is included in the indictment,
+507 count in the indictment, information, complaint, or warrant
+508 charging the offense, the specification shall be stated at the
+509 end of the body of the indictment, count in the indictment,
+510 information, complaint, or warrant and shall be in
+511 substantially the following form: "SPECIFICATION or
+512 SPECIFICATION TO THE FIRST COUNT. The Grand Jurors (or insert
+513 appropriate name) further find and specify that the offender
+514 committed the offense with a sexual motivation."
+515 (3) If the prosecuting attorney files an allegation of
+516 sexual motivation, it shall be filed within a reasonable time
+517 after indictment to give sufficient notice to the defendant.
+518 (b) If the indictment, count of the indictment,
+519 information, complaint, or warrant charging the offense
+520 includes a specification of sexual motivation or if the
+521 prosecuting attorney files an allegation of sexual motivation,
+522 the state shall prove beyond a reasonable doubt that the
+523 defendant committed the offense with a sexual motivation.
+524 (c) The court shall make a written finding of fact, to
+525 be made part of the record upon conviction or adjudication as
+526 a youthful offender, of whether or not a sexual motivation was
+527 present at the time of the commission of the offense unless
+528 the defendant has a trial by jury.
+529 (d) If a defendant has a trial by jury, the jury, if it
+530 finds the defendant guilty, shall also find a special verdict
+531 as to whether or not the defendant committed the crime with a
+532 sexual motivation.
+Page 19
+
+sexual motivation.
+SB203 INTRODUCED
+533 (e) If there is a finding of sexual motivation, the
+534 finding shall be made part of the record of conviction or
+535 adjudication.
+536 (f) For purposes of this section, sexual motivation
+537 means that one of the purposes for which the defendant
+538 committed the crime was for the purpose of the sexual
+539 gratification of the defendant.
+540 (g) This section shall not apply to sex offenses as
+541 defined in subdivisions (1) to (40)(41), inclusive, of Section
+542 15-20A-5."
+543 "§15-20A-44
+544 (a) The Secretary of the Alabama State Law Enforcement
+545 Agency shall adopt rules establishing an administrative
+546 hearing for persons who are only made subject to this chapter
+547 pursuant to subdivision (35)(36) of Section 15-20A-5.
+548 (b) The Secretary of the Alabama State Law Enforcement
+549 Agency shall adopt rules setting forth a listing of offenses
+550 from other jurisdictions that are to be considered criminal
+551 sex offenses under subdivision (35)(36) of Section 15-20A-5.
+552 Thereafter, any individual convicted of any offense set forth
+553 in the listing shall immediately be subject to this chapter
+554 and shall not be entitled to an administrative hearing as
+555 provided in subsection (a).
+556 (c) The Secretary of the Alabama State Law Enforcement
+557 Agency may adopt any rules as are necessary to implement and
+558 enforce this chapter."
+559 Section 6. This act shall become effective on October
+560 1, 2026.
+Page 20

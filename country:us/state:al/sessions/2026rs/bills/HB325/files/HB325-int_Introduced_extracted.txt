@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB325 INTRODUCED
+1 HB325
+2 NRXE6T8-1
+3 By Representatives Moore (P), Bedsole, DuBose, Robbins, Gray,
+4 Shaw, Chestnut, Hassell
+5 RFD: Judiciary
+6 First Read: 22-Jan-26
+Page 0
+
+First Read: 22-Jan-26
+NRXE6T8-1 1/13/2026 EGC (L)EGC 2025-3382
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would deem the engagement with
+6 consumers in commercial transactions by a person
+7 through AI chatbots without notifying the consumer that
+8 the consumer is communicating with a computer, and not
+9 a human being, as an unfair or deceptive trade
+10 practice.
+11 This bill would create a private right of action
+12 for consumers who are subjected to commercial
+13 transactions that violate the provisions of this act.
+14 This bill would authorize the Attorney General
+15 to bring suit to enforce this act.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to AI chatbots; to prohibit persons from
+23 engaging with consumers in commercial transactions through AI
+24 chatbots without notifying the consumer that the consumer is
+25 communicating with a computer; to make this violation an
+26 unfair or deceptive trade practice; to provide a private right
+27 of action for consumers for violations; and to authorize the
+28 Attorney General to bring suit to enforce this act.
+Page 1
+
+Attorney General to bring suit to enforce this act.
+HB325 INTRODUCED
+29 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+30 Section 1. For the purposes of this act, the following
+31 terms have the following meanings:
+32 (1) ARTIFICIAL INTELLIGENCE or AI. The term as defined
+33 in Section 17-5-16.1, Code of Alabama 1975.
+34 (2) CHATBOT. A generative artificial intelligence
+35 program with which users can interact by or through an
+36 interface that approximates or simulates conversation through
+37 a text, audio, or visual medium.
+38 (3) CONSUMER. The term as defined in Section 7-1-201,
+39 Code of Alabama 1975.
+40 (4) GENERATIVE ARTIFICIAL INTELLIGENCE. A class of AI
+41 models that emulate the structure and characteristics of input
+42 data to generate derived synthetic content, including, but not
+43 limited to, images, video, audio, text, and other digital
+44 content.
+45 Section 2. (a) A person that engages in a commercial
+46 transaction or trade practice with a consumer through an AI
+47 chatbot, in textual or aural conversation, where the consumer
+48 may reasonably believe the consumer is engaging with a human,
+49 shall notify the consumer verbally or in writing:
+50 (1) At the beginning of each interaction that the
+51 consumer is communicating with a computer, not a human; and
+52 (2) At a regular interval for continuing interactions
+53 that the consumer is communicating with computer, not a human.
+54 (b) Failure to comply with the provisions of this act
+55 is an unfair or deceptive trade practice.
+56 Section 3. (a) A consumer who is subjected to a
+Page 2
+
+Section 3. (a) A consumer who is subjected to a
+HB325 INTRODUCED
+57 commercial transaction that violates Section 2(a) of this act
+58 may bring a civil action to recover the following relief:
+59 (1) Injunctive relief.
+60 (2) Damages in an amount equal to the sum of any actual
+61 damages, as well as statutory damages not to exceed one
+62 thousand dollars ($1,000) per violation.
+63 (b) In the case of a class action lawsuit, the court
+64 may not award damages in excess of ten million dollars
+65 ($10,000,000).
+66 Section 4. Whenever it appears to the Attorney General,
+67 either upon complaint or otherwise, that a person has violated
+68 or is about to violate Section 2(a) of this act, the Attorney
+69 General may bring an action against a person to:
+70 (1) Enjoin the person from continuing the violation;
+71 (2) Seek civil penalties of up to five million dollars
+72 ($5,000,000) for a violation under this act; and
+73 (3) Seek any other remedies as the court may deem
+74 appropriate.
+75 Section 5. This act shall become effective on October
+76 1, 2026.
+Page 3
