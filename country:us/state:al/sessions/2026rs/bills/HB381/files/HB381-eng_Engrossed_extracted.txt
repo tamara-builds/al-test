@@ -1,0 +1,568 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB381 ENGROSSED
+1 HB381
+2 ZQ3P7RW-2
+3 By Representatives Faulkner, Ledbetter, Hulsey, Crow,
+4 Stringer, Treadaway, Kirkland, DuBose, Moore (P), Pettus,
+5 Underwood, Bedsole, Brinyark, Estes, Wilcox, Stadthagen,
+6 Colvin, Baker, Ingram, Sells, Shirey, Gidley, Lamb, Lovvorn,
+7 Moore (M), Datcher, Morris, Sellers, Yarbrough, Lawrence, Lee,
+8 Clouse, Bracy, Tillman, Jackson, Hendrix, Boyd, Ross, Ensler,
+9 Lands, Travis, Clarke, Hill, Carns, Reynolds, Paramore, Whitt,
+10 Crawford, Standridge, Starnes, Easterbrook, Bolton, Fincher,
+11 McClammy, Gray, Rafferty, McCampbell, England, Chestnut,
+12 Warren, Drummond, Forte, Holk-Jones, Givens, Garrett, Pringle,
+13 Marques, Sorrells, Brown, Smith, Allbright, Rehm
+14 RFD: State Government
+15 First Read: 03-Feb-26
+Page 0
+
+First Read: 03-Feb-26
+HB381 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Regarding camp safety; to provide minimum requirements
+10 for emergency preparedness licensure of residential camp sites
+11 by the Alabama Emergency Management Agency, including staff
+12 retention and training, weather monitoring and communication,
+13 flood and weather safety, and emergency and evacuation plans.
+14 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+15 Section 1. This act shall be known and may be cited as
+16 the Sarah Marsh Heaven's 27 Camp Safety Act.
+17 Section 2. For purposes of this act, the following
+18 terms have the following meanings:
+19 (1) AGENCY. The Alabama Emergency Management Agency.
+20 (2) CABIN. Any structure in which campers sleep,
+21 including, but not limited to, a cabin, dormitory, or
+22 bunkhouse, regardless of camper capacity.
+23 (3) CAMP. Any dedicated site in the State of Alabama
+24 where campers temporarily gather for recreational, religious,
+25 social, educational, or therapeutic purposes, whether operated
+26 for profit or nonprofit purposes, and which provides cabins
+27 for campers to stay overnight. The term does not include a
+28 dedicated location or structure for hunting or fishing or the
+Page 1
+
+dedicated location or structure for hunting or fishing or the
+HB381 Engrossed
+29 use of available dormitory space or other residences at an
+30 educational institution.
+31 (4) CAMP OPERATIONS. Physical custody of campers
+32 outside of the presence of parents or legal guardians for a
+33 period of days which requires staying overnight, during which
+34 the camp operator and staff supervise campers' participation
+35 in recreational, religious, social, educational, or
+36 therapeutic activities.
+37 (5) CAMP OPERATOR. a. The term includes:
+38 1. An individual or entity that administers camp
+39 operations, including the provision of staff, regardless of
+40 any ownership interest in the camp operations, assets,
+41 personal property, or the site on which the camp is located.
+42 2. An individual or entity that maintains a camp that
+43 includes staff members who may service dining, recreational,
+44 or other facilities, but which otherwise does not administer
+45 camp operations and leases the camp to other organizations to
+46 conduct camp operations.
+47 b. The term does not include any of the following:
+48 1. An organization that leases a camp from a camp
+49 operator for the purpose of administering camp operatons.
+50 2. A person that leases a camp for a retreat, seminar,
+51 or training in which the majority of participants are
+52 individuals who are 19 years of age or older.
+53 3. An owner of land that leases the land to a camp
+54 operator but does not engage itself in camp operations on the
+55 land.
+56 (6) CAMPER. An individual who is 16 years of age or
+Page 2
+
+(6) CAMPER. An individual who is 16 years of age or
+HB381 Engrossed
+57 younger who is present and lodging at a camp for the purpose
+58 of participating in the recreational, religious, social,
+59 educational, or therapeutic activities provided under the
+60 supervision of the camp operator and staff.
+61 (7) EMERGENCY PREPAREDNESS LICENSE. The license issued
+62 by the agency to a camp operator which certifies that a camp
+63 complies with this act.
+64 (8) FLOODPLAIN. Any area within a 100-year floodplain
+65 as designated by the Federal Emergency Management Agency
+66 pursuant to the National Flood Insurance Act of 1968, 42
+67 U.S.C. § 4001 et seq., including a letter of map revision
+68 based on fill, or a similar administrative process by the
+69 Federal Emergency Management Agency.
+70 (9) LOCAL ORGANIZATION. The local organization for
+71 emergency management as authorized in Section 31-9-10, Code of
+72 Alabama 1975.
+73 (10) STAFF MEMBER. An individual who is retained on an
+74 employment, contractual, or volunteer basis by a camp operator
+75 to provide camp operations that require the individual to stay
+76 overnight, including security, maintenance, orientation,
+77 organization, scheduling, instruction, hospitality, emotional
+78 support, counseling, worship, meals or refreshments, first
+79 aid, or supervision of recreation, sports, or crafts.
+80 Section 3. (a) On and after January 1, 2027, a camp
+81 operator shall apply for and obtain an emergency preparedness
+82 license in accordance with the requirements of this act as a
+83 condition for conducting camp operations.
+84 (b) An emergency preparedness license shall be valid
+Page 3
+
+(b) An emergency preparedness license shall be valid
+HB381 Engrossed
+85 for a period of five years from the date of approval, unless a
+86 camp operator within that period makes a material change to
+87 the camp as described in subsection (c).
+88 (c) A supplemental application to maintain an emergency
+89 preparedness license that has been issued shall be submitted
+90 at any time within 45 days of any of the following material
+91 changes to the camp:
+92 (1) The boundaries of the camp are altered.
+93 (2) The number of cabins is increased or reduced by any
+94 means, including construction, renovation, closure,
+95 demolition, or conversion to another use.
+96 (3) Any renovation to an existing cabin which results
+97 in a change in the camper capacity.
+98 (d)(1) When granting an approval to an application for
+99 an emergency preparedness license, the agency shall include in
+100 the notice of approval to the camp operator the date on which
+101 the five-year period shall expire, which shall be the deadline
+102 by which the license shall be renewed by submission of a
+103 supplemental application.
+104 (2) If a camp operator submits a supplemental
+105 application to maintain an emergency preparedness license in
+106 compliance with subsection (c), upon approval of the
+107 supplemental application, the agency may extend the deadline
+108 required under subdivision (1), but no extension may be made
+109 for a period longer than five years from the date of approval
+110 of the supplemental application.
+111 (3) No less than 90 days before the deadline set by the
+112 agency under subdivision (1) or subdivision (2), the agency
+Page 4
+
+agency under subdivision (1) or subdivision (2), the agency
+HB381 Engrossed
+113 shall remind the camp operator by a written or digital notice
+114 of the deadline for submission of the supplemental application
+115 for renewal of the license. Notwithstanding the deadline, a
+116 license shall remain valid pending the agency's determination
+117 to renew the license on a supplemental application that is
+118 submitted no later than the deadline.
+119 (e) No camp operator may apply for an emergency
+120 preparedness license without presenting documentation to the
+121 agency: (i) that the camp is regulated by the Alabama
+122 Department of Public Health for the sanitation of food
+123 preparation and lodging facilities as evidenced by a valid
+124 permit; and (ii) that the camp and camp operations are covered
+125 by liability insurance.
+126 (f) When an initial application is submitted for an
+127 emergency preparedness license, within 90 days the agency
+128 shall notify the camp operator of the determination approving
+129 or disapproving the application.
+130 (g) The agency may prescribe by rule any conditions
+131 required to implement the application and approval period
+132 conditions required in this section, and shall develop
+133 application forms and written instructions to a camp operator
+134 for documentation necessary to substantiate compliance with
+135 each section of this act.
+136 (h) If a camp operator administers camp operations at
+137 more than one camp, a separate emergency preparedness license
+138 shall be required for each camp.
+139 (i) The agency shall post, maintain, or update on the
+140 agency's website a list of each camp that has a valid license
+Page 5
+
+agency's website a list of each camp that has a valid license
+HB381 Engrossed
+141 pursuant to this act.
+142 Section 4. (a) No individual may be retained by a camp
+143 operator as a staff member who has been convicted of a felony
+144 or any crime involving any unlawful sexual or violent act, or
+145 any act involving theft, forgery, fraud, or any similar act,
+146 as disclosed by the Alabama State Law Enforcement Agency or a
+147 contractor that is: (i) recognized as reliable among
+148 professional camping organizations to perform background
+149 checks on prospective staff members; and (ii) is approved by
+150 the agency.
+151 (b) Each camp operator shall submit to the agency proof
+152 of compliance with this section for each staff member retained
+153 by a camp: (i) in the initial emergency preparedness license
+154 application; or (ii) any supplemental application for renewal
+155 of the license due to expiration of an application deadline
+156 set by the agency pursuant to Section 3(d).
+157 Section 5. (a) As of January 1, 2027, no camp shall
+158 construct, expand, or operate a cabin located in a floodplain.
+159 (b) Notwithstanding subsection (a), the agency may
+160 approve the continued operation of an existing cabin located
+161 in a floodplain if the area encompassing the cabin is removed
+162 from a floodplain by a letter of map amendment if the camp
+163 operator demonstrates all of the following:
+164 (1) The lowest finished floor elevation of the cabin is
+165 at least two feet above the applicable base flood elevation.
+166 (2) The cabin is not located within a designated
+167 floodway.
+168 (3) The emergency plan required under Section 8
+Page 6
+
+(3) The emergency plan required under Section 8
+HB381 Engrossed
+169 includes enhanced evacuation procedures specific to flood
+170 risk.
+171 (c) Removal of a cabin from a floodplain by a letter of
+172 map amendment shall not, by itself, constitute compliance with
+173 this section.
+174 Section 6. As a condition for receiving an emergency
+175 preparedness license, a camp shall operate with all of the
+176 following equipment or capabilities:
+177 (1) A NOAA Weather Radio that transmits "all-hazards"
+178 notifications.
+179 (2) A protocol to alert essential staff members of an
+180 emergency, including a redundant procedure that does not rely
+181 on text messaging or cellular service.
+182 (3) A notification system that does not rely on an
+183 Internet connection and that is capable of providing an alarm
+184 and notification of an emergency which is audible both indoors
+185 and outdoors to staff members and campers.
+186 Section 7. Each camp shall have as many designated
+187 sheltering spaces as are necessary to afford capacity for the
+188 maximum number of campers and staff members who are overnight
+189 residents.
+190 Section 8. (a) The agency shall not approve an
+191 emergency preparedness license for a camp unless the camp
+192 maintains an emergency plan that provides for the protection
+193 and safety of campers and complies with the requirements of
+194 this section.
+195 (b) An emergency plan shall contain procedures for
+196 responding to all of the following situations:
+Page 7
+
+responding to all of the following situations:
+HB381 Engrossed
+197 (1) A lost camper.
+198 (2) A fire on camp premises.
+199 (3) A severe illness, injury, or death of a camper,
+200 staff member, or visitor which occurs on camp premises or
+201 while under the supervision of a staff member.
+202 (4) An incident or condition involving a watercourse,
+203 lake, or pond within or near the camp.
+204 (5) A warning of impending severe weather, such as
+205 torrential rain, hail, thunderstorm, or a tornado.
+206 (6) An outbreak of sickness or an epidemic.
+207 (7) An unauthorized individual on the campsite.
+208 (8) Any natural disaster that threatens life or
+209 property.
+210 (9) An emergency or incident related to transportation
+211 of campers or staff members.
+212 (c) An emergency plan shall designate one or more
+213 locations for campers and staff members to gather in case of
+214 an emergency that requires an evacuation of the camp or a
+215 shelter in place.
+216 (d)(1) An emergency plan shall contain a procedure for
+217 responses to a flash flood, wildfire, hurricane, or other
+218 appropriate threat as adopted by rule of the agency, which
+219 shall include, but not be limited to, both of the following:
+220 a. Communication to campers and staff members on use of
+221 prescribed evacuation routes.
+222 b. Procedures for safe nighttime evacuation.
+223 (2) The agency may prescribe that each camp have one or
+224 more staff members to be the designated emergency preparedness
+Page 8
+
+more staff members to be the designated emergency preparedness
+HB381 Engrossed
+225 coordinators to monitor weather conditions, act as liaison
+226 with the local organization, and ensure compliance with staff
+227 training pursuant to Section 10(c)(2).
+228 (e) An emergency plan shall contain a procedure to
+229 shelter in place in case of a tornado, a severe thunderstorm
+230 warning, or other sudden threat in which evacuation is
+231 impractical or increases the risk of harm to campers.
+232 (f) The procedures developed pursuant to subsections
+233 (b) through (e) shall include all of the following:
+234 (1) A protocol for identifying and accounting for each
+235 camper affected by the emergency event.
+236 (2) Notification of the local organization, with a
+237 provision for ongoing communication with the local
+238 organization as conditions unfold during an emergency.
+239 (3) Ongoing communication between the camp operator and
+240 all essential staff members pursuant to Section 6(2).
+241 (4) Notification to each parent or legal guardian of a
+242 camper of the emergency event and the safety measures taken as
+243 soon as reasonably possible in relation to the emergency.
+244 (g) In the preparation of an emergency plan, a camp
+245 operator or emergency preparedness coordinator may consult
+246 with the local organization, the agency, the American Camp
+247 Association, or another professional group for camps
+248 concerning the implementation of best practices.
+249 Section 9. (a)(1) A camp operator shall submit the
+250 emergency plan required in Section 8 to the agency for
+251 approval with the initial application for a emergency
+252 preparedness license.
+Page 9
+
+preparedness license.
+HB381 Engrossed
+253 (2) The plan shall be updated or amended if a
+254 supplemental application to maintain an emergency preparedness
+255 license is required pursuant to Section 3(c) and included with
+256 the supplemental application as a condition for approval.
+257 (3) If the plan is updated or amended for any reason
+258 other than for a mandatory condition pursuant to Section 3(c),
+259 the updated plan shall be immediately submitted to the agency
+260 for approval, and the agency may dispense with resubmission of
+261 the updated or amended plan with the next required
+262 supplemental application for a renewal license in compliance
+263 with a deadline set by the agency pursuant to Section 3(d).
+264 (4) If the agency determines that the emergency plan
+265 does not meet the minimum standards prescribed by Section 8 or
+266 by agency rule, the agency shall notify the camp operator of
+267 the plan's deficiencies, and the camp operator shall remedy
+268 and resubmit a revised plan no later than 45 days after
+269 receiving the notice.
+270 (5) Upon approval by the agency, the agency shall also
+271 provide a copy of an updated or amended version of the
+272 emergency plan to the local organization.
+273 (b) The agency shall store the most recent version of
+274 an approved emergency plan in a digital database for immediate
+275 access by the Alabama State Law Enforcement Agency, the
+276 Department of Conservation and Natural Resources, emergency
+277 service providers, and any other department, agency, or
+278 political subdivision upon a showing of reasonable cause.
+279 Section 10. (a)(1) Upon request, a camp operator shall
+280 provide: (i) the most recent version of the emergency plan to
+Page 10
+
+provide: (i) the most recent version of the emergency plan to
+HB381 Engrossed
+281 the parent or legal guardian of a camper who is registered in
+282 a pending camp session; or (ii) proof that the camp has a
+283 valid emergency preparedness license to a prospective camper
+284 who may be registering for a camp session scheduled within 12
+285 months.
+286 (2) The information required under subdivision (1)
+287 shall include notice to the parent or legal guardian if any
+288 area of the camp is located within a floodplain.
+289 (b) Not more than 24 hours after the start of a camp
+290 session, the camp operator and staff members shall conduct a
+291 mandatory safety orientation that includes all of the
+292 following information:
+293 (1) The camp's boundaries and any hazards present on
+294 camp premises.
+295 (2) Behavioral expectations.
+296 (3) Developmentally appropriate instruction on the
+297 appropriate actions, including evacuation procedures, to take
+298 in case of an emergency event which conform to the emergency
+299 plan.
+300 (c)(1) Each staff member shall participate in a review
+301 of the most recent version of the camp's emergency plan at
+302 least once a year or upon approval of the agency of an
+303 amendment or update to the plan pursuant to Section 9(a).
+304 (2) Each staff member shall successfully complete
+305 annual training on the proper procedures to follow according
+306 to the emergency plan.
+307 (3) A camp operator shall maintain a written or digital
+308 record documenting each staff member's successful completion
+Page 11
+
+record documenting each staff member's successful completion
+HB381 Engrossed
+309 of the training required under subdivision (2).
+310 (d)(1) A camp operator as defined in Section 2(5)a.2.,
+311 by lease or other contract, shall require an organization that
+312 is using the camp to administer camp operations to do all of
+313 the following:
+314 a. Provide documentation that the staff members
+315 supplied by the organization to administer camp operations
+316 have been subjected to a criminal background check as provided
+317 in Section 4(a).
+318 b. Agree that the staff members supplied by the
+319 organization to administer camp operations shall familiarize
+320 themselves with the camp operator's emergency plan and plan
+321 for evacuation.
+322 c. Agree that the staff members supplied by the
+323 organization to administer camp operations, within 24 hours of
+324 the arrival of campers, shall provide developmentally
+325 appropriate instruction to the campers on the appropriate
+326 actions to take during an emergency event which conform to the
+327 camp operator's emergency plan.
+328 (2) The emergency preparedness coordinator designated
+329 by the camp operator pursuant to Section 8(d)(2) shall provide
+330 an orientation and review of the camp emergency and evacuation
+331 plans to the staff members supplied by the organization to
+332 administer camp operations upon their arrival at the camp.
+333 Section 11. (a) An agency disapproval of an initial or
+334 supplemental application for an emergency preparedness
+335 license, including disapproval of an emergency plan, shall
+336 specify in writing the condition or requirement in this act or
+Page 12
+
+specify in writing the condition or requirement in this act or
+HB381 Engrossed
+337 in an agency rule which the applicant failed to meet or
+338 satisfy with sufficient detail that the applicant may
+339 understand the action or measure required to remedy the
+340 deficiency.
+341 (b)(1) Any applicant, upon receipt of an agency
+342 disapproval under subsection (a), may submit a written appeal
+343 to the director of the agency within 30 days of receiving the
+344 decision of disapproval for reconsideration. The applicant may
+345 include with the appeal a written explanation as to why the
+346 application or submission should be approved. The director may
+347 afford the applicant an informal hearing to explain the reason
+348 the application or submission should be approved.
+349 (2) Upon reconsideration, the director may:
+350 a. Reverse the decision based on the applicant's
+351 written explanation or information gathered at an informal
+352 hearing; or
+353 b. Uphold the decision based on the applicant's written
+354 explanation or information gathered at an informal hearing.
+355 (3) The decision of the agency director pursuant to
+356 subdivision (2) shall be final, but without prejudice to the
+357 applicant's right to again apply for approval at any time.
+358 (c) The agency may adopt rules to govern appeals, with
+359 criteria for granting a variance to a condition or requirement
+360 when an applicant demonstrates that the measures being planned
+361 or implemented otherwise protect the safety of campers.
+362 Section 12. By receiving a emergency preparedness
+363 license pursuant to this act, a camp operator consents to
+364 on-site inspection of the camp and camp operations by the
+Page 13
+
+on-site inspection of the camp and camp operations by the
+HB381 Engrossed
+365 agency at any time to verify compliance, the procedures for
+366 which may be adopted by rule of the agency.
+367 Section 13. (a) A Youth Camp Safety Advisory Council
+368 (advisory council) is established as an independent council to
+369 fulfill the following responsibilities:
+370 (1) Advise the agency on the adoption of rules to
+371 implement, administer, and interpret the requirements of this
+372 act: (i) during the period between the passage of this act and
+373 January 1, 2027; and (ii) on an ongoing basis after the act
+374 takes effect.
+375 (2) Monitor nationwide developments or innovation in
+376 camp safety and emergency response.
+377 (3) Advise and recommend to the agency additional
+378 legislation to ensure that safety standards for youth camps in
+379 the state are current.
+380 (4) Solicit information or concerns from stakeholders,
+381 such as camp operators, parents or guardians of campers, and
+382 the agency.
+383 (b)(1) The membership of the advisory council shall
+384 consist of all of the following:
+385 a. The Director of the Alabama Emergency Management
+386 Agency, or his or her designee.
+387 b. The Director of the Bureau of Prevention, Promotion,
+388 and Support of the Alabama Department of Public Health, or his
+389 or her designee.
+390 c. The Commissioner of the Department of Conservation
+391 and Natural Resources, or his or her designee.
+392 d. The Chair of the State Forestry Commission, or his
+Page 14
+
+d. The Chair of the State Forestry Commission, or his
+HB381 Engrossed
+393 or her designee.
+394 e. The Chief of the Alabama Office of Water Resources
+395 of the Alabama Department of Economic and Community Affairs,
+396 or his or her designee.
+397 f. The Secretary of the Alabama State Law Enforcement
+398 Agency, or his or her designee.
+399 g. Two representatives from the Association of Alabama
+400 Camps, to be appointed by the president.
+401 h. A representative from the Alabama Association of
+402 Rescue Squads, to be appointed by the executive board
+403 director.
+404 i. A representative from the Campaign for Camp Safety,
+405 to be chosen by the membership.
+406 j. A representative from the Alabama Association of
+407 Emergency Managers.
+408 k. A representative from the YMCA who is experienced in
+409 camping matters, to be appointed by the Governor.
+410 l. A representative from Scouting America who is
+411 experienced in camping matters, to be appointed by the
+412 Governor.
+413 (2) Appointments to the advisory council shall be
+414 coordinated to assure that council membership is inclusive and
+415 reflects the racial, gender, geographic, urban, rural, and
+416 economic diversity of the state.
+417 (3) Members from state departments or agencies shall
+418 serve terms that coincide with their respective offices or
+419 appointments. No individual shall continue to serve on the
+420 advisory council when he or she or, if applicable, the
+Page 15
+
+advisory council when he or she or, if applicable, the
+HB381 Engrossed
+421 designating officer, no longer serves in the office to which
+422 he or she was appointed.
+423 (4) Members shall serve without compensation and be
+424 reimbursed by their respective departments or agencies or, if
+425 applicable, according to the policy of their respective
+426 organizations.
+427 (c)(1) The advisory council shall hold an
+428 organizational meeting in person no later than 45 days after
+429 the enactment of this section at the call of the chair, who
+430 shall be the Director of the Alabama Emergency Management
+431 Agency or his or her designee.
+432 (2) At the organizational meeting, the council shall
+433 elect a cochair, who shall be one of representatives from the
+434 Association of Alabama Camps.
+435 (3) After the organizational meeting, the advisory
+436 council shall meet at the call of the chair and proceedings
+437 may be conducted by electronic means.
+438 (4) The advisory council shall meet as necessary to
+439 fulfill the responsibilities described in subsection (a).
+440 (d) The advisory council shall dissolve three years
+441 from the date this section takes effect.
+442 Section 14. Nothing in this act shall be interpreted to
+443 change any element of civil liability with respect to any
+444 possible claim against a camp.
+445 Section 15. The agency is authorized to adopt any rule
+446 necessary to implement, administer, interpret, and enforce the
+447 requirements of this act.
+448 Section 16. This act shall become effective on January
+Page 16
+
+Section 16. This act shall become effective on January
+HB381 Engrossed
+449 1, 2027, except Section 13 shall take effect immediately upon
+450 approval by the Governor.
+Page 17
+
+approval by the Governor.
+HB381 Engrossed
+451
+452
+453 House of Representatives
+454 Read for the first time and referred ................03-Feb-26
+455 to the House of Representatives
+456 committee on State Government
+457
+458 Read for the second time and placed ................12-Feb-26
+459 on the calendar:
+460 1 amendment
+461
+462 Read for the third time and passed ................17-Feb-26
+463 as amended
+464 Yeas 103
+465 Nays 0
+466 Abstains 0
+467
+468
+469 John Treadwell
+470 Clerk
+471
+Page 18

@@ -1,0 +1,372 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SJR79 ENROLLED
+1 SJR79
+2 6Y9TH1Z-2
+3 By Senators Coleman, Gudger, Allen, Woods, Beasley,
+4 Smitherman, Livingston, Singleton, Kelley, Figures, Waggoner,
+5 Kitchens, Williams, Chesteen, Jones, Barfoot, Coleman-Madison
+6
+7 RFD: Rules
+8 First Read: 11-Mar-26
+Page 0
+
+First Read: 11-Mar-26
+SJR79 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 SJR___ ESTABLISHING THE ALABAMA LEGISLATIVE STUDY COMMISSION
+5 ON CHILD SEXUAL ABUSE LAWS AND POLICIES.
+6
+7 WHEREAS, child sexual abuse in all forms is a serious
+8 criminal offense and a profound violation of the physical,
+9 emotional, and psychological well-being of children of all
+10 ages; and
+11 WHEREAS, protecting all children from sexual abuse
+12 and exploitation, regardless of age, gender, disability,
+13 family circumstance, placement status, or other
+14 vulnerability, is a fundamental responsibility of the State
+15 of Alabama; and
+16 WHEREAS, acts of child sexual abuse occur across a
+17 wide range of relationships and settings, including within
+18 families and households, institutional and organizational
+19 environments, custodial or state care settings, and through
+20 positions of trust or authority charged with the care,
+21 supervision, or education of children; and
+22 WHEREAS, child sexual abuse also occurs through
+23 peer-on-peer conduct, commercial sexual exploitation, sexual
+24 trafficking, online-facilitated exploitation, and the
+25 creation or distribution of child sexual abuse material; and
+26 WHEREAS, children with disabilities and other
+27 heightened vulnerabilities may face increased risk of sexual
+28 abuse and additional barriers to disclosure, protection, and
+Page 1
+
+abuse and additional barriers to disclosure, protection, and
+SJR79 Enrolled
+29 recovery; and
+30 WHEREAS, Alabama law addresses child sexual abuse
+31 through criminal statutes, civil causes of action, mandatory
+32 reporting requirements, and child welfare policies; however,
+33 these laws have developed over time through separate
+34 enactments and may operate inconsistently or incompletely
+35 when viewed as a whole; and
+36 WHEREAS, criminal penalties for child sexual abuse
+37 are intended to punish offenders and deter future offenses,
+38 yet practical barriers may exist that affect the
+39 investigation, prosecution, and adjudication of these
+40 crimes, including delayed disclosure by victims, evidentiary
+41 challenges unique to offenses against children, and
+42 complexities associated with digital or exploitation based
+43 offenses; and
+44 WHEREAS, civil law provides mechanisms for
+45 accountability and compensation for harm suffered by
+46 victims; however, statutory limitation periods, procedural
+47 requirements, and defenses available under existing law may
+48 limit access to civil remedies, particularly where abuse is
+49 not disclosed until adulthood or involves institutional or
+50 exploitation-based conduct; and
+51 WHEREAS, under existing Alabama law, avenues for
+52 civil accountability in cases of child sexual abuse may be
+53 limited in certain circumstances, particularly with respect
+54 to entities or institutions that employ, supervise, or
+55 exercise authority over individuals who commit abuse; and
+56 WHEREAS, limitations within current civil liability
+Page 2
+
+WHEREAS, limitations within current civil liability
+SJR79 Enrolled
+57 frameworks may have the effect of insulating negligent or
+58 enabling conduct from full civil accountability and may
+59 reduce incentives for prevention, reporting, and
+60 institutional safeguards; and
+61 WHEREAS, Alabama's statutes of limitations applicable
+62 to civil claims arising from child sexual abuse are
+63 comparatively restrictive and may bar survivors from seeking
+64 redress after the passage of a limited filing period,
+65 regardless of the nature or severity of the abuse or the age
+66 at which disclosure occurs; and
+67 WHEREAS, when perpetrators and enabling environments
+68 are not subject to meaningful accountability, individuals
+69 who commit child sexual abuse may be able to avoid detection
+70 or consequences by moving between positions, organizations,
+71 or jurisdictions; and
+72 WHEREAS, strengthening accountability for both
+73 perpetrators and enabling conditions is essential to
+74 protecting children, supporting survivors, and preventing
+75 Alabama from becoming a place of refuge for individuals
+76 seeking to evade responsibility for child sexual abuse; and
+77 WHEREAS, efforts to improve accountability mechanisms
+78 are intended to protect children and responsible
+79 institutions alike by promoting clear standards, prevention,
+80 transparency, and public trust; and
+81 WHEREAS, children who experience sexual abuse often
+82 do not immediately report the abuse due to fear,
+83 manipulation, threats, shame, lack of understanding, loyalty
+84 to the abuser, developmental factors, or the involvement of
+Page 3
+
+to the abuser, developmental factors, or the involvement of
+SJR79 Enrolled
+85 trusted adults or institutions, and delayed disclosure is a
+86 well-documented and common outcome of such trauma; and
+87 WHEREAS, as a result of delayed disclosure, statutes
+88 of limitations and related doctrines may have the effect of
+89 barring otherwise meritorious claims before victims are able
+90 to understand, process, or report the abuse they suffered;
+91 and
+92 WHEREAS, certain legal doctrines and statutory
+93 frameworks may provide protections or immunities to
+94 institutions or entities that employ, supervise, or
+95 otherwise exercise authority over individuals who commit
+96 acts of child sexual abuse, which may have the unintended
+97 consequence of reducing institutional accountability; and
+98 WHEREAS, a lack of clear or consistent accountability
+99 mechanisms may allow patterns of abuse to go undetected,
+100 unreported, or unaddressed across family, institutional,
+101 custodial, online, or exploitation contexts, thereby
+102 enabling continued harm to children; and
+103 WHEREAS, survivors of child sexual abuse often
+104 experience long-term and lifelong consequences, including,
+105 but not limited to, post-traumatic stress disorder,
+106 depression, anxiety, substance abuse, difficulty forming
+107 relationships, impaired educational or employment outcomes,
+108 and increased risk of future victimization; and
+109 WHEREAS, the long-term effects of child sexual abuse
+110 extend beyond individual victims and families and impose
+111 significant social costs, including impacts on public health
+112 systems, mental health services, the criminal justice
+Page 4
+
+systems, mental health services, the criminal justice
+SJR79 Enrolled
+113 system, and workforce participation; and
+114 WHEREAS, effective prevention, detection, and
+115 response to all forms of child sexual abuse require
+116 coordination among law enforcement, prosecutors, child
+117 welfare agencies, schools, health care providers, child
+118 advocacy centers, technology platforms, and community
+119 organizations; and
+120 WHEREAS, other states have undertaken comprehensive
+121 legislative reviews of their criminal and civil laws
+122 relating to child sexual abuse, including statutes of
+123 limitations, reporting requirements, institutional
+124 responsibility, exploitation offenses, and victim support
+125 systems, in order to evaluate whether existing laws
+126 adequately protect children and serve the public interest;
+127 and
+128 WHEREAS, this body recognizes the importance of
+129 examining Alabama's current legal framework in a deliberate
+130 and thorough manner to better understand how criminal
+131 penalties, civil remedies, reporting laws, institutional
+132 responsibilities, and exploitation-related offenses operate
+133 collectively in practice; and
+134 WHEREAS, a legislative study commission provides an
+135 appropriate forum to gather information, receive testimony,
+136 review data, compare approaches adopted in other states, and
+137 identify potential gaps or unintended consequences within
+138 existing law across all forms and contexts of child sexual
+139 abuse; now therefore,
+Page 5
+
+abuse; now therefore,
+SJR79 Enrolled
+140 BE IT RESOLVED BY THE LEGISLATURE OF ALABAMA, BOTH
+141 HOUSES THEREOF CONCURRING, That there is established the
+142 Alabama Legislative Study Commission on Child Sexual Abuse
+143 Laws and Policies.
+144 (a) The commission shall consist of the following
+145 members:
+146 (1) Two members of the Senate appointed by the
+147 President Pro Tempore of the Senate, one of whom shall serve
+148 as cochair.
+149 (2) One member of the Senate appointed by the
+150 minority leader.
+151 (3) Two members of the House of Representatives
+152 appointed by the Speaker of the House of Representatives,
+153 one of whom shall serve as cochair.
+154 (4) One member of the House of Representatives
+155 appointed by the minority leader.
+156 (5) The Attorney General, or his or her designee.
+157 (6) The Director of the Department of Human
+158 Resources, or his or her designee.
+159 (7) The Commissioner of the Department of Public
+160 Health, or his or her designee.
+161 (8) The Administrative Director of Courts, or his or
+162 her designee.
+163 (9) One district attorney appointed by the Alabama
+164 District Attorneys Association.
+165 (10) One representative of a statewide law
+166 enforcement association appointed by the Governor.
+Page 6
+
+enforcement association appointed by the Governor.
+SJR79 Enrolled
+167 (11) One representative of a child advocacy
+168 organization appointed by the Governor.
+169 (12) One licensed mental health professional with
+170 experience treating survivors of child sexual abuse
+171 appointed by the Governor.
+172 (13) One attorney with experience representing
+173 survivors of child sexual abuse in civil matters appointed
+174 by the Governor.
+175 (14) One survivor of child sexual abuse.
+176 (15) One survivor advocate appointed by the Governor.
+177 (16) One individual from the state at large appointed
+178 by the Lieutenant Governor.
+179 (b) An individual who has been investigated or
+180 convicted of child sexual abuse, or an individual who is
+181 employed by a person who has been investigated or convicted
+182 of child sexual abuse, shall not be eligible to be appointed
+183 as a member of the commission.
+184 (c)(1) Appointments shall be made within 30 days
+185 after the effective date of this resolution.
+186 (2) The commission shall hold its initial meeting on
+187 the call of the cochairs within 45 days after the final
+188 appointment is made.
+189 (3) A majority of the members shall constitute a
+190 quorum for the transaction of business.
+191 (4) Meetings of the commission shall be conducted in
+192 accordance with the Alabama Open Meetings Act, Chapter 25A
+193 of Title 36, Code of Alabama 1975. All meetings shall be
+194 open to the public and notice shall be provided as required
+Page 7
+
+open to the public and notice shall be provided as required
+SJR79 Enrolled
+195 by law. Meetings may be conducted in person, by video
+196 conference, or in a hybrid format. The requirement that
+197 meetings be open to the public shall be satisfied if members
+198 of the public are provided contemporaneous access to observe
+199 the proceedings through physical attendance or live
+200 electronic means, including video stream or publicly
+201 accessible video conference.
+202 (5) No member of the commission may participate in
+203 deliberations or recommendations concerning a matter in
+204 which the member has a direct financial interest.
+205 (6) The commission shall meet at the call of the
+206 chairs, but shall meet no fewer than five times.
+207 (d) The commission shall study and evaluate Alabama's
+208 criminal and civil laws, policies, and practices relating to
+209 child sexual abuse in all forms and contexts, including the
+210 following:
+211 (1) Sexual abuse of a child within a family or
+212 household environment.
+213 (2) Sexual abuse of a child in institutional or
+214 organizational settings, including schools, religious
+215 organizations, youth-serving organizations, athletic
+216 programs, and similar entities.
+217 (3) Sexual abuse of a child by a person in a position
+218 of trust or authority, including educators, clergy, coaches,
+219 caregivers, foster parents, medical providers, and other
+220 adults entrusted with the care or supervision of children.
+221 (4) Child-on-child sexual abuse.
+222 (5) Sexual trafficking of a child.
+Page 8
+
+(5) Sexual trafficking of a child.
+SJR79 Enrolled
+223 (6) Commercial sexual exploitation of children,
+224 including the exchange of sexual activity for money, goods,
+225 services, shelter, or other things of value.
+226 (7) Online-facilitated child sexual abuse and
+227 exploitation, including grooming, coercion, sextortion,
+228 luring, and exploitation through digital or social media
+229 platforms.
+230 (8) The production, possession, or distribution of
+231 child sexual abuse material.
+232 (9) Sexual abuse of children in custodial or state
+233 care settings, including foster care, juvenile justice
+234 facilities, detention, residential treatment, and group
+235 homes.
+236 (10) Sexual abuse of children with disabilities or
+237 other heightened vulnerabilities.
+238 (11) Criminal statutes, penalties, and procedural
+239 provisions.
+240 (12) Civil causes of action, statutes of limitations,
+241 and institutional liability standards.
+242 (13) Mandatory reporting laws and compliance
+243 mechanisms.
+244 (14) Institutional responsibilities and
+245 accountability frameworks.
+246 (15) Access to victim services, mental health care,
+247 and survivor support systems.
+248 (16) Barriers to investigation, prosecution, civil
+249 recovery, and victim support.
+250 (17) Comparative approaches adopted in other states.
+Page 9
+
+(17) Comparative approaches adopted in other states.
+SJR79 Enrolled
+251 (18) Any other matter the commission deems relevant
+252 to protecting children and supporting survivors.
+253 (e) The commission shall submit a written report of
+254 its findings and recommendations and shall present any
+255 proposed legislation to the Governor, the President Pro
+256 Tempore of the Senate, and the Speaker of the House of
+257 Representatives no later than November 1, 2026. Upon filing
+258 its report with the Legislature, the study commission shall
+259 stand dissolved and discharged of any future duties and
+260 responsibilities.
+261 (f) The Legislative Services Agency shall provide
+262 administrative and clerical support to the commission. State
+263 agencies shall cooperate with and provide information
+264 requested by the commission to the extent permitted by law.
+265 (g) Legislative members shall be entitled to their
+266 regular legislative compensation and travel reimbursement
+267 for attending meetings of the commission in accordance with
+268 applicable law. Nonlegislative members shall serve without
+269 compensation but may be reimbursed for reasonable and
+270 necessary expenses from funds available to the commission,
+271 subject to applicable state travel policies.
+272 (h) Pursuant to Section 36-14-17.1, Code of Alabama
+273 1975, the study commission shall provide to the Secretary of
+274 State a notice of all meetings, the name of each member
+275 serving on the study commission, and a copy of the final
+276 report and other documents produced throughout the duration
+277 of the study commission.
+Page 10
+
+of the study commission.
+SJR79 Enrolled
+278
+279
+280
+281
+282
+283
+284 ________________________________________________
+285 President and Presiding Officer of the Senate
+286
+287
+288
+289 ________________________________________________
+290 Speaker of the House of Representatives
+291
+292
+293 SJR79
+294 Senate 11-Mar-26
+295 I hereby certify that the within Act originated in and
+296 passed the Senate.
+297
+298 Patrick Harris,
+299 Secretary.
+300
+301
+302
+303
+304 House of Representatives
+305 Passed: 01-Apr-26
+306
+307
+308
+309
+310 By: Senator Coleman
+Page 11

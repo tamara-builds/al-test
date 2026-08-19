@@ -1,0 +1,1160 @@
+Title: 
+Official Title: 
+Source: versions - Reported Out of Committee House of Origin
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to the Underground Damage Prevention Program;
+10 to amend Sections 37-15-2, 37-15-4, 37-15-4.1, 37-15-5,
+11 37-15-6, 37-15-8, 37-15-9, 37-15-10, 37-15-10.1, and
+12 37-15-10.2, Code of Alabama 1975; and to add Section 37-15-4.2
+13 to the Code of Alabama 1975, to provide various underground
+14 damage prevention requirements for excavators before
+15 commencing complex or large projects; to extend the statutory
+16 sunset clause related to the program; to further provide for
+17 hearing procedures; and to make nonsubstantive, technical
+18 revisions to update the existing code language to current
+19 style.
+20 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+21 Section 1. Sections 37-15-2, 37-15-4, 37-15-4.1,
+22 37-15-5, 37-15-6, 37-15-8, 37-15-9, 37-15-10, 37-15-10.1, and
+23 37-15-10.2, Code of Alabama 1975, are amended to read as
+24 follows:
+25 "§37-15-2
+26 As used in this chapter the following words have the
+27 following meanings:
+28 (1) APPROXIMATE LOCATION OF UNDERGROUND FACILITIES.
+Page 1
+
+(1) APPROXIMATE LOCATION OF UNDERGROUND FACILITIES.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+29 Information about an operator's underground facilities which
+30 is provided to a person by an operator and must be accurate to
+31 within 18 inches measured horizontally from the outside edge
+32 of each side of such operator's facility, or a strip of land
+33 18 inches either side of the operator's field mark or the
+34 marked width of the facility plus 18 inches on each side of
+35 the marked width of the facility. The term does not include a
+36 designation of location as to the depth below the surface of
+37 the ground.
+38 (2) AUTHORITY. The Underground Damage Prevention
+39 Authority created under Section 37-15-10.1.
+40 (3) AUTHORITY BOARD. The Underground Damage Prevention
+41 Board created under Section 37-15-10.1.
+42 (4) BLASTING. The use of an explosive device for the
+43 excavation of earth, rock, or other material or the demolition
+44 of a structure.
+45 (5)a. COMPLEX OR LARGE PROJECT. Any excavation activity
+46 that meets one or more of the following criteria:
+47 1. The activity is initially planned to extend beyond a
+48 standard 40-working day notification period.
+49 2. The project involves five or more work crews
+50 operating concurrently. Concurrent work crews may work for
+51 more than one general contractor on a project.
+52 3. The project requires multiple locate requests for
+53 the same activity within the same geographic area, submitted
+54 within a single working day notification period, with all
+55 activity occurring within the initial life of a single locate
+56 request.
+Page 2
+
+request.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+57 b. This definition establishes the scope for projects
+58 exceeding typical requirements for time, resources, and
+59 coordination across multiple crews or requests within a single
+60 designated notification period
+61 (5)(6) CONTRACT LOCATOR. Any person contracted with an
+62 operator specifically to determine and mark the approximate
+63 location of the operator's utility lines that exist within the
+64 area specified by a notice served on the "One-Call
+65 Notification System."
+66 (6)(7) DAMAGE. Includes, but is not limited to, the
+67 substantial weakening of structural or lateral support of an
+68 underground facility, penetration or destruction of any
+69 underground facility's protective coating, housing, or other
+70 protective device, and the partial or complete severance
+71 (partial or complete) of any underground facility, but does
+72 not apply to any operator's abandoned underground facility.
+73 (7)(8) DEMOLITION. Any operation by which a structure
+74 or mass of material is wrecked, razed, rendered, moved, or
+75 removed by means of any tools, equipment, or explosives.
+76 (8)(9) DESIGN OR SURVEY LOCATE REQUEST. Any
+77 communication to the "One-Call Notification System,"
+78 specifically to request existing underground facilities to be
+79 located for bidding, predesign, or advance planning purposes.
+80 A design locate request may not be made or used for excavation
+81 purposes, and an excavation locate request may not be made or
+82 used for design or survey purposes.
+83 (9)(10) EMERGENCY EXCAVATION OR DEMOLITION. An
+84 excavation or demolition that is required to eliminate an
+Page 3
+
+excavation or demolition that is required to eliminate an
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+85 imminent danger to life, health, property, or the environment
+86 or required for the repair or restoration of operator service
+87 that is required to be performed before the notification and
+88 response procedures required in Section 37-15-4 and 37-15-6
+89 may be fully utilized.
+90 (10)(11) EXCAVATE or EXCAVATION. Any operation for the
+91 purpose of the movement or removal of earth, rock, or other
+92 material by mechanized equipment, or explosive device, or hand
+93 digging. and
+94 a. The term includes, but is not limited to, augering,
+95 backfilling, blasting, boring, digging, ditching, dredging,
+96 drilling, grading, marine construction, pile-driving,
+97 plowing-in, pulling-in, ripping, scraping, sub-soiling,
+98 trenching, and tunneling on or below the ground or submerged
+99 under water. Excavate or excavation
+100 b. The term does not include routine any of the
+101 following:
+102 1. Routine roadway maintenance activities carried out
+103 by or for those responsible for publicly-maintained publicly
+104 maintained roadways, provided that the activities meet all of
+105 the following requirements: (i) occur entirely within the
+106 right-of-way of a public road, street, or highway; (ii) are
+107 carried out with reasonable care so as to protect any utility
+108 facilities placed in the right-of-way by permit; (iii) are
+109 carried out within the limits of any original excavation on
+110 the traveled way, shoulder, or drainage ditches of a public
+111 road, street, or highway; and, (iv) if involving the
+112 replacement of existing structures, including traffic control
+Page 4
+
+replacement of existing structures, including traffic control
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+113 devices, replace such structures in their approximate previous
+114 locations and at their approximate previous depth. Excavate or
+115 excavation does not include routine
+116 2. Routine railroad maintenance activities conducted
+117 within the track structure and its adjacent right-of-way,
+118 provided the activities are performed by railroad employees or
+119 railroad contractors and are carried out with reasonable care
+120 so as to protect any underground facilities placed in the
+121 railroad right-of-way by agreement with the railroad. Nothing
+122 in this chapter shall modify or abrogate any contractual
+123 provision entered into between any railroad and any other
+124 party owning or operating an underground facility or
+125 underground utility lines within the railroad's right-of-way.
+126 3. Activities carried out by those responsible for
+127 publicly maintained roadways when utilizing unmechanized tools
+128 or equipment on its property or on its right-of-way when
+129 carried out with reasonable care so as to protect any utility
+130 facilities placed in the right-of-way by permit and carried
+131 out within the limits of any original excavation on the
+132 traveled way, shoulder, or drainage ditches of a public road,
+133 street, or highway.
+134 (11)(12) EXCAVATOR. Any person who engages in
+135 excavation.
+136 (12)(13) EXECUTIVE COMMITTEE. The executive committee
+137 created under Section 37-15-10.1.
+138 (14) HAND DIGGING. Any movement, placement, or removal
+139 of earth, rock, or other materials in or on the ground by use
+140 of unmechanized tools or equipment, including, but not limited
+Page 5
+
+of unmechanized tools or equipment, including, but not limited
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+141 to, shovels, picks, and post hole diggers. The term does not
+142 include any of the following:
+143 a. A property owner utilizing unmechanized tools or
+144 equipment on their own property.
+145 b. The use of unmechanized tools or equipment by or on
+146 behalf of a member operator to a depth not greater than 18
+147 inches for repairing, connecting, protecting, or routine
+148 maintenance of the member operator's underground facilities.
+149 c. An operator utilizing unmechanized tools or
+150 equipment in the response to a locate request for the purpose
+151 of identifying their facility.
+152 d. An operator replacing above ground structure in its
+153 approximate previous location and at its approximate previous
+154 depth.
+155 e. A person providing or performing land surveying or
+156 engineering activities or services as defined by the State
+157 Board of Licensure for Professional Engineers and Land
+158 Surveyors.
+159 (13)(15) IMPLIED EASEMENT. Any unwritten easement or
+160 right-of-way on private property required to provide utility
+161 or other services by means of underground facilities on
+162 property of the owner requesting such service.
+163 (14)(16) MARK or MARKING. The use of stakes, flags,
+164 paint, buoys, or clearly identifiable materials placed on the
+165 surface of the ground or water to show the approximate
+166 location of underground facilities.
+167 (15)(17) MECHANIZED EQUIPMENT. Equipment powered or
+168 energized by any motor, engine, hydraulic, or pneumatic device
+Page 6
+
+energized by any motor, engine, hydraulic, or pneumatic device
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+169 and is used for excavation or demolition work, including, but
+170 not limited to, tractors, trenchers, bulldozers, power
+171 shovels, augers, backhoes, scrapers, pile drivers, drills,
+172 cable and pipe plows, or other equipment used for plowing-in
+173 or pulling-in cable or pipe.
+174 (16)(18) MEMBER. A person who participates in the
+175 "One-Call Notification System" to receive services and is in
+176 good standing with the "One-Call Notification System" in
+177 accordance with the guidelines set forth in the corporation's
+178 bylaws.
+179 (17)(19) NEAR MISS. An event where damage did not
+180 occur, but a clear potential for damage was identified.
+181 (18)(20) NONINVASIVE METHOD OF EXCAVATION. A method of
+182 excavation that does not compromise the integrity of the
+183 underground facility. These methods include, but are not
+184 limited to, hand digging, pot holing, soft digging, vacuum
+185 excavation methods, or other methods approved by the operator.
+186 (19)(21) NOTIFICATION AREA. An area or territory which
+187 an operator designates as the area where the operator wishes
+188 to receive notifications for any excavation in that area. The
+189 notification area should encompass the underground
+190 distribution system or network of the operator.
+191 (20)(22) ONE-CALL NOTIFICATION SYSTEM. A non-profit
+192 nonprofit corporation, a public corporation, or a governmental
+193 entity which will provide a statewide notification service,
+194 for the purpose of receiving statewide telephonic toll-free or
+195 electronic notification of any planned excavation or
+196 demolition activities by excavators or other persons as set
+Page 7
+
+demolition activities by excavators or other persons as set
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+197 forth in Section 37-15-4 and distributing the required
+198 excavation or demolition information to its affected member
+199 operators as set forth in Section 37-15-5.
+200 (21)(23) OPERATOR. Any person, governmental agency, or
+201 political subdivision, or its agents, who owns or operates a
+202 public or private underground facility which furnishes
+203 services, information, or materials, or transports or
+204 transmits electric energy, light, water, steam, oil, gases,
+205 gas, mixture of gases, petroleum, petroleum products,
+206 hazardous or flammable liquids, toxic or corrosive fluids and
+207 gases, or items of like nature, and telecommunications, cable
+208 television, water, drainage, sewage, or other systems of like
+209 nature. The term "operator" does not apply to any entity
+210 listed above described in this subdivision if all of the
+211 underground facilities owned and operated by the entity are
+212 for the sole use of the entity and are located solely on the
+213 entity's own property or on property over which the entity has
+214 rights of operation.
+215 (22)(24) PERSON. An individual, joint venture,
+216 partnership, association, authority, cooperative, firm,
+217 corporation, governmental entity, or any subdivision or
+218 instrumentality of that entity and its employees, agents, or
+219 legal representatives.
+220 (23)(25) POSITIVE RESPONSE. The communication among
+221 member operators, persons excavating, and the "One-Call
+222 Notification System" concerning the status of locating an
+223 underground facility.
+224 (24)(26) PREMARK. To delineate the general scope of the
+Page 8
+
+(24)(26) PREMARK. To delineate the general scope of the
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+225 excavation on the surface of the ground using white paint,
+226 white stakes, or other similar white markings.
+227 (25)(27) ROUTINE ROADWAY MAINTENANCE. Maintenance work
+228 on a roadway that is not done pursuant to a contract awarded
+229 by a state or local government through a bid process for which
+230 plan drawings have been developed in advance or work for which
+231 detailed and specific scheduling is not possible or feasible,
+232 except that maintenance work that complies with subparagraph
+233 (11)b.1. may be contracted.
+234 (26)(28) TOLERANCE ZONE. The width of the underground
+235 facility plus 18 inches on either side of the outside edge of
+236 the underground facility on a horizontal plane.
+237 (27)(29) UNDERGROUND FACILITY. Any cable, pipeline,
+238 duct, wire, conduit, or other similar installation, installed
+239 underground or underwater, by which an operator transports or
+240 delivers materials, information, or services.
+241 (28)(30) WILLFUL NONCOMPLIANCE. The intentional refusal
+242 or failure to perform, or comply with, a duty created or
+243 imposed by this chapter or by the rules adopted pursuant to
+244 this chapter.
+245 (31) WORKING AGREEMENT. An agreement established as
+246 part of the complex or large project process.
+247 (29)(32) WORKING DAY. A 24-hour period commencing the
+248 beginning of the start of the next working day from the time
+249 of receipt of the notification, excluding Saturday, Sunday,
+250 and the following nine holidays: New Year's Day, Memorial Day
+251 (observed), Independence Day, Labor Day, Veterans Day,
+252 Thanksgiving Day, the Friday following Thanksgiving Day,
+Page 9
+
+Thanksgiving Day, the Friday following Thanksgiving Day,
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+253 Christmas Eve, and Christmas Day. When any of these holidays
+254 occur on a Saturday, it will be observed on the preceding
+255 Friday, and when any of these holidays occur on a Sunday, it
+256 will be observed on the following Monday.
+257 (30)(33) WORKING DAY HOURS. The time from 7:00 a.m. to
+258 5:00 p.m. local time on working days."
+259 "§37-15-4
+260 (a) A permit issued pursuant to law authorizing
+261 excavation or demolition operations shall not be deemed to
+262 relieve a person from the responsibility for complying with
+263 this chapter. Any public agency issuing such permit shall
+264 notify the person receiving the permit of the notification
+265 requirements of this chapter;. however However, failure to
+266 provide such notification shall not make the State Department
+267 of Transportation subject to the penalties provided for in
+268 Section 37-15-10.
+269 (b) Before commencing any excavation or demolition
+270 operation prohibited by Section 37-15-3, each person
+271 responsible for the excavation or demolition shall give
+272 telephonic or electronic notice of the intent to excavate or
+273 demolish to the underground facility operator or the "One-Call
+274 Notification System" acting on behalf of the operator at least
+275 two but not more than 10 working days prior to the start of
+276 the proposed excavation, not including the day of
+277 notification, and at least two working days but not more than
+278 30 calendar days, not including the day of notification, prior
+279 to the start of demolition or any blasting operations for
+280 either excavation or demolition.
+Page 10
+
+either excavation or demolition.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+281 (c) The notice required by subsection (b) must contain
+282 the name, address, and telephone number of the person
+283 responsible for the excavation or the demolition and the
+284 person giving notice, the proposed starting date and time, the
+285 type of excavation or demolition operation to be conducted,
+286 the location of the proposed excavation or demolition with
+287 sufficient details to enable the operator to locate same with
+288 reasonable certainty, and whether or not explosives are to be
+289 used. In the event the location requirements of this
+290 subsection cannot be met, the excavator shall premark the
+291 route or boundaries of the site of proposed excavation or
+292 demolition by means of white as the identifying color on
+293 stakes, flags, paint, buoys, or clearly identifiable materials
+294 placed on the surface of the ground or water prior to the
+295 notification to the One-Call Notification System. However,
+296 premarking is not required when the premarking could
+297 reasonably interfere with traffic or pedestrian control.
+298 (d) Notification to the One-Call Notification System of
+299 an intent to excavate shall be valid for a period of 20
+300 working days from the proposed starting date given for
+301 excavation, and the notice to demolish shall be valid for a
+302 period of 30 working days from the starting date given. Each
+303 person responsible for excavation or demolition shall renew
+304 with the One-Call Notification System each notice of intent to
+305 excavate or demolish at least two working days, not counting
+306 including the day of notification, prior to the expiration
+307 date of the notice if the excavation or demolition has not
+308 been completed.
+Page 11
+
+been completed.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+309 (e) When engaged in an extensive and contiguous
+310 construction, demolition, or excavation activity, working
+311 agreements may be established to accomplish the intent and
+312 purpose of this chapter between operators, public agencies,
+313 and contractors after initial compliance with the notification
+314 provisions of this chapter.
+315 (f)(e) Compliance with the notice requirements of this
+316 section is not required of persons plowing less than 12 inches
+317 in depth for agricultural purposes.
+318 (g)(f) Compliance with the notice requirements of this
+319 section is not required by persons or operators excavating on
+320 their own property or easement when no other persons or
+321 operators have underground facilities on the property or
+322 easement.
+323 (h)(g) Except for those persons submitting design or
+324 survey locate requests, no person, including an operator,
+325 shall request markings of a site through the One-Call
+326 Notification System that meets the operational requirements as
+327 described in subsection (a) of Section 37-15-5(a), unless
+328 excavation is scheduled to commence. In addition, no person
+329 shall make repeated requests for remarking, unless the
+330 repeated request is required for excavating to continue or due
+331 to circumstances not reasonably within the control of the
+332 person.
+333 (i)(h) Any person who complies with the notification
+334 requirements of this chapter is not liable for damage to an
+335 operator's underground facility if all of the following are
+336 satisfied:
+Page 12
+
+satisfied:
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+337 (1) The operator received the notification required by
+338 this section.
+339 (2) The operator failed to locate its underground
+340 facilities as required by Section 37-15-6.
+341 (3) The damage is a proximate result of the operator's
+342 failure to locate its underground facilities as required by
+343 Section 37-15-6."
+344 "§37-15-4.1
+345 (a) Any person may submit a design or survey locate
+346 request to the One-Call Notification System. The design or
+347 survey locate request shall describe the tract or parcel of
+348 land for which the design or survey locate request has been
+349 submitted with sufficient particularity as defined by policies
+350 developed and promulgated by the One-Call Notification System
+351 to enable the facility operator to ascertain the precise tract
+352 or parcel of land involved and. The request shall state the
+353 name, address, and telephone number, and facsimile number of
+354 the person who has submitted the design or survey locate
+355 request and the company name of the project owner.
+356 (b) Within five working days after a design or survey
+357 locate request has been submitted to the One-Call Notification
+358 System for a proposed project, the operator shall respond by
+359 one of the following methods:
+360 (1) Marking the approximate location of all underground
+361 facilities in the area of proposed excavation.
+362 (2) Providing to the person submitting the design or
+363 survey locate request the best available description of all
+364 underground facilities in the area of proposed excavation
+Page 13
+
+underground facilities in the area of proposed excavation
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+365 which may include drawings of underground facilities already
+366 built in the area or other facility records that are
+367 maintained by the facility operator.
+368 (3) Allowing the person submitting the design or survey
+369 locate request or any other authorized person to inspect or
+370 copy the drawings or other records for all underground
+371 facilities within the proposed area of excavation.
+372 (4) The complex or large project process as provided in
+373 Section 37-15-4.2 may be used for complex or large survey or
+374 design projects."
+375 "§37-15-5
+376 (a) Until January 1, 2027 2037:
+377 (1) Operators who have underground facilities within
+378 this state shall participate in and utilize the services of
+379 the One-Call Notification System.
+380 (2) Operators that are members of the One-Call
+381 Notification System on January 1, 2020, must remain members.
+382 (3) Operators with more than 25,000 customers or 500
+383 miles of facilities, that are not members, must join the
+384 One-Call Notification System by January 1, 2021.
+385 (4) Operators that do not meet the thresholds described
+386 in subdivision (2) or (3), must join the One-Call Notification
+387 System by January 1, 2022.
+388 (5)(2) Operators of electrical underground facilities
+389 that join the One-Call Notification System under the
+390 requirements of subdivision (3) or (4) having less than five
+391 percent underground trench miles compared to the total miles
+392 of line, are not subject to the membership costs until their
+Page 14
+
+of line, are not subject to the membership costs until their
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+393 underground trench miles exceed the trench mile exemption.
+394 These operators shall be required to report annually to the
+395 One-Call Notification System their percentage of underground
+396 trench miles by the end of each calendar year.
+397 (6)(3) If an operator of an underground facility fails
+398 to become a member of the One-Call Notification System, as
+399 required by this chapter, and that failure is a cause of
+400 damage to that underground facility caused by a person who has
+401 complied with this chapter and has have exercised reasonable
+402 care in the performance of the excavations that has caused
+403 damage to the underground facility, the operator has no right
+404 of recovery against the person for the damage to that
+405 underground facility.
+406 (b) Between April 18, 1994, and January 1, 1995, or any
+407 time thereafter, any Any nonprofit non-profit corporation,
+408 public corporation, or governmental entity desiring to become
+409 the One-Call Notification System shall apply to the Alabama
+410 Public Service Commission for a certificate of public
+411 convenience and necessity, verifying under oath that the
+412 applicant meets the requirements of this chapter. After a
+413 public hearing on the application, if the Alabama Public
+414 Service Commission deems that the applicant meets the
+415 requirements of this chapter, and if it is found that the
+416 applicant is fit, willing, and able to properly perform the
+417 services proposed and that the proposed service is or will be
+418 required by the present or future public convenience or
+419 necessity, then in such event the Alabama Public Service
+420 Commission may issue a certificate of public convenience and
+Page 15
+
+Commission may issue a certificate of public convenience and
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+421 necessity authorizing the applicant to commence its operation
+422 as the One-Call Notification System. The Alabama Public
+423 Service Commission shall revoke a certificate if the
+424 non-profit nonprofit corporation, public corporation, or
+425 governmental entity ceases to meet the requirements as set
+426 forth in this chapter. The One-Call Notification System must
+427 provide a report of operations and financial review or audit
+428 to the Public Service Commission annually.
+429 (c) Subject to subsections (a) and (b), there shall be
+430 a statewide One-Call Notification System in accordance with
+431 this chapter to provide notice of all excavation or demolition
+432 near underground facilities.
+433 (d) The One-Call Notification System shall be
+434 incorporated or operated as a non-profit nonprofit corporation
+435 and governed by a board of directors representing its
+436 membership in accordance with the One-Call Notification System
+437 bylaws.
+438 (e) Operators of underground natural gas or hazardous
+439 liquid pipeline facilities or the One-Call Notification System
+440 acting on their behalf shall develop and implement a public
+441 awareness and damage prevention program to educate the general
+442 public, excavators, and operators about the availability and
+443 use of the One-Call Notification System as required in
+444 applicable federal regulations and the requirements of this
+445 chapter.
+446 (f) The person giving notice of intent to excavate or
+447 demolish shall be furnished an individual reference file
+448 number for each notification and upon request shall be
+Page 16
+
+number for each notification and upon request shall be
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+449 furnished the names of the operators to whom the notification
+450 will be transmitted.
+451 (g) An adequate record of notifications shall be
+452 maintained by the underground facility operator or the
+453 One-Call Notification System in order to document timely
+454 compliance with this chapter. These records shall be retained
+455 for a period of not less than three years and shall be made
+456 available at a reasonable cost upon proper and adequate
+457 advance request.
+458 (h) The services of the One-Call Notification System
+459 should be provided on working days in accordance with the
+460 established working day hours.
+461 (i) The One-Call Notification System should voice
+462 record the notification telephone calls, and after hours
+463 after-hours calls should at least reach a voice recording
+464 which explains emergency procedures.
+465 (j) All members of the One-Call Notification System
+466 shall provide the One-Call Notification System with the
+467 following information:
+468 (1) The notification area data in a format as required
+469 by the current database system utilized by the One-Call
+470 Notification System for the locations in which members have
+471 underground facilities or for other reasons wish to receive
+472 notifications of proposed excavations, demolitions, or
+473 blasting. This information shall be updated at least once a
+474 year.
+475 (2) The name, address, and telephone number of a person
+476 to receive emergency notifications.
+Page 17
+
+to receive emergency notifications.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+477 (k) The One-Call Notification System shall promptly
+478 transmit the information received from the excavator, as set
+479 forth in Section 37-15-4, to its appropriate member operators.
+480 (l) All members of the One-Call Notification System who
+481 have changes, additions, or new installations of buried
+482 facilities within the boundaries of the State of Alabama shall
+483 notify the One-Call Notification System of changes in the
+484 information required in subdivision (1) of subsection (j)(1),
+485 within 30 days of the completion of such change, addition, or
+486 new installation."
+487 "§37-15-6
+488 (a)(1) Each operator served with notice in accordance
+489 with Section 37-15-4, with underground facilities in the area,
+490 shall mark or cause to be marked or otherwise provide the
+491 approximate location of the operator's underground facilities
+492 by marking in a manner as prescribed herein prior to the
+493 proposed start of excavation, demolition, or blasting. If any
+494 underground facilities become damaged due to an operator
+495 furnishing inaccurate information as to the approximate
+496 location of the facilities, through no fault of the operator,
+497 then the civil liabilities imposed by this chapter do not
+498 apply.
+499 (2) In lieu of such marking, the operator may request
+500 to be present at the site upon commencement of the excavation,
+501 demolition, or blasting.
+502 (3) A member operator that states that it does not have
+503 accurate information concerning the exact location of its
+504 underground facilities is exempt from the requirements of this
+Page 18
+
+underground facilities is exempt from the requirements of this
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+505 section, but shall provide the best available information to
+506 the person excavating in order to comply with the requirements
+507 of this section. A person excavating is not liable for any
+508 damage to an underground facility under the exemption in this
+509 subdivision if the excavation or demolition is performed with
+510 reasonable care as noted in Section 37-15-8, and the excavator
+511 uses detection equipment or other acceptable means to
+512 determine the location of the underground facilities.
+513 (4) When an excavator encounters an unmarked
+514 underground facility on an excavation site where notice of
+515 intent to excavate has been made in accordance with the
+516 provisions of Section 37-15-4, and attempts a follow-up or
+517 second notice relative to revising the original notice to the
+518 One-Call Notification System or the operator, all operators
+519 thus notified must attempt to contact the excavator within
+520 four hours and provide a response relative to any of their
+521 known underground facilities, active or abandoned, at the site
+522 of the excavation.
+523 (b) When marking the approximate location of
+524 underground facilities, the operator shall follow the color
+525 code designation in accordance with the latest edition of the
+526 American Public Works Association Uniform Color Code.
+527 (c) The color code designation referenced in this
+528 section shall not be used by any operator or person to mark
+529 the boundary or location of any excavation or demolition area.
+530 If the excavator elects to mark the proposed excavation or
+531 demolition site, the boundary or location shall be identified
+532 using white as the identifying color or with natural color
+Page 19
+
+using white as the identifying color or with natural color
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+533 wood stakes. White flags or white stakes may have a thin
+534 stripe, one inch or less of the designated color code, to
+535 indicate the excavator's proposed type of facility, if
+536 applicable.
+537 (d) Each operator, upon determining that no underground
+538 facility is present on the tract or parcel of land or upon
+539 completion of the marking of the location of any underground
+540 facilities on the tract or parcel of land, shall provide a
+541 positive response with information to the One-Call
+542 Notification System in accordance with the procedures
+543 developed by the One-Call Notification System.
+544 (e) If all operators notified on the locate request
+545 have submitted a positive response that indicates a closed or
+546 completed response by the operator to the One-Call
+547 Notification System prior to the proposed excavation date, the
+548 excavator who made the request, upon verifying the closed or
+549 completed status in the positive response system, may begin
+550 work prior to the proposed date of excavation given, while
+551 following all requirements of Section 37-15-8 or other
+552 applicable portions of this chapter The requirement for
+553 providing a positive response shall become effective January
+554 1, 2021.
+555 (f) After the required notice of excavation is given
+556 and the operator has designated the facility as complete or
+557 cleared in the positive response system or has otherwise
+558 responded in accordance with this section, if the excavator
+559 observes or becomes aware of an unmarked underground facility
+560 in the area of proposed excavation, the excavator shall not
+Page 20
+
+in the area of proposed excavation, the excavator shall not
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+561 begin excavating until an additional notice is made to the
+562 One-Call Notification System. The excavator may begin after
+563 the giving of the notice, but shall exercise reasonable care
+564 to avoid the underground facility that was observed.
+565 (f)(g) Any contract locator acting on behalf of an
+566 operator is subject to this section."
+567 "§37-15-8
+568 In addition to the notification requirements of Section
+569 37-15-4, each person responsible for an excavation or
+570 demolition operation designated in Section 37-15-3, when
+571 performing excavation or demolition within the tolerance zone,
+572 shall do all of the following to avoid damage to or minimize
+573 interference with the underground facilities:
+574 (1) Determine the location of any marked underground
+575 facility utilizing noninvasive methods of excavation. For
+576 parallel type excavations, the existing facility shall be
+577 exposed at intervals as often as necessary to avoid damages.
+578 (2) Maintain a clearance of at least 18 inches between
+579 any underground facility and the cutting edge or point of
+580 mechanized equipment.
+581 (3) When crossing the facility within the tolerance
+582 zone, use reasonable care to ascertain the depth of the
+583 underground utilities below the surface of the ground.
+584 (3)(4) Provide such support for underground facilities
+585 in and near a construction area, including backfill
+586 operations, as may be reasonably required by the operator for
+587 the protection of the utilities.
+588 (4)(5) Protect and preserve the markings of approximate
+Page 21
+
+(4)(5) Protect and preserve the markings of approximate
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+589 locations of underground facilities until those markings are
+590 no longer required for proper and safe excavation or
+591 demolition."
+592 "§37-15-9
+593 (a) Each person responsible for any excavation or
+594 demolition operation that results in any damage to an
+595 underground facility, immediately upon discovery of such
+596 damage, shall notify the operator of such facility of the
+597 location of the damage or the One-Call Notification System
+598 operating on behalf of the underground facility owner and
+599 shall allow the operator reasonable time to accomplish any
+600 necessary repairs before completing the excavation or
+601 demolition in the immediate area of the damage to such
+602 facility.
+603 (b) In addition to subsection (a), each person
+604 responsible for any excavation or demolition shall immediately
+605 report to the operator or the One-Call Notification System
+606 operating on behalf of the underground facility owner and
+607 appropriate law enforcement agencies and fire departments any
+608 damage to an underground facility that results in escaping
+609 flammable, corrosive, explosive, or toxic liquids or gas and
+610 shall take reasonable actions necessary to protect persons or
+611 property and to minimize safety hazards until those law
+612 enforcement agencies and fire departments and the operator
+613 arrive at the underground facility.
+614 (c) If an event damages any pipe, cable, or its
+615 protective covering, or other underground facility, or there
+616 is a significant near miss that could have resulted in damage,
+Page 22
+
+is a significant near miss that could have resulted in damage,
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+617 the operator receiving the notice shall file a report with the
+618 One-Call Notification System. Reports must be submitted
+619 annually to the system, no later than March 31 for the prior
+620 calendar year by the deadline date established for the prior
+621 year reporting, or more frequently at the option and sole
+622 discretion of the operator. Each report must describe, if
+623 known, the cause, nature, and location of the damage. The
+624 One-Call Notification System shall establish and maintain a
+625 process to facilitate submission of reports by operators or
+626 persons excavating.
+627 (d) A public agency shall not be liable for physical or
+628 other damages that occur to an underground facility during the
+629 course of performing routine roadway maintenance when the
+630 underground facility was installed within the public
+631 right-of-way in violation of the public agency's requirements
+632 or not in accordance with the utility permit under which the
+633 installation was performed."
+634 "§37-15-10
+635 (a) Any person who violates this chapter, or the rules
+636 adopted under this chapter, shall be subject to a civil
+637 penalty as follows:
+638 (1) For a first violation, the violator shall complete
+639 a course of training concerning compliance with this chapter
+640 or pay a civil penalty in an amount not to exceed five hundred
+641 dollars ($500) per incident, or both.
+642 (2) For a second or subsequent violation within a
+643 12-month period, the violator shall complete a course of
+644 training concerning compliance with this chapter or pay a
+Page 23
+
+training concerning compliance with this chapter or pay a
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+645 civil penalty in an amount not to exceed one thousand dollars
+646 ($1,000) per incident, or both.
+647 (3) For a third or subsequent violation within a
+648 12-month period, the violator shall complete a course of
+649 training concerning compliance with this chapter and pay a
+650 civil penalty in an amount not to exceed three thousand
+651 dollars ($3,000) per incident.
+652 (4) Notwithstanding this subsection, if any violation
+653 was the result of gross negligence or willful noncompliance,
+654 the violator shall be required to complete a course of
+655 training concerning compliance with this chapter and pay a
+656 civil penalty in an amount not to exceed ten thousand dollars
+657 ($10,000) per incident.
+658 (b) Any person who is required to complete a course of
+659 training under this section shall be responsible for paying
+660 for the cost of the training. For those instances in which
+661 training is ordered, if the person is a firm, partnership,
+662 association, corporation, limited liability company, joint
+663 venture, department, or subdivision of the state or other
+664 governmental entity or any other body or organization, it may
+665 be required that at least one manager or supervisor thereof
+666 attend any training.
+667 (c) The penalties provided under this section may be
+668 subject to periodic review by the authority board and revised,
+669 by rule, as needed to ensure enforcement penalties are deemed
+670 effective and are in compliance with federal law.
+671 (d) The amount of such penalties shall be dependent
+672 upon the degree of non-compliance noncompliance, the amount of
+Page 24
+
+upon the degree of non-compliance noncompliance, the amount of
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+673 injury or damage caused, the degree of threat to public
+674 safety, the degree of public inconvenience caused as a result
+675 of the violation, and the number of past violations.
+676 Mitigation of the penalty may be shown by good faith efforts
+677 of the violator to have complied with this chapter.
+678 (e) The Underground Damage Prevention Fund is created
+679 within the State Treasury, to be administered by the
+680 authority. All penalties recovered in actions brought by the
+681 authority under this chapter shall be paid into the
+682 Underground Damage Prevention Fund. All sources of funds
+683 collected by the authority under this chapter, including, but
+684 not limited to, grants, assessments, and civil penalties,
+685 shall be deposited into the fund. Any monies remaining in the
+686 Underground Damage Prevention Fund fund at the end of the
+687 fiscal year shall not revert to the State General Fund, but
+688 shall remain in the Underground Damage Prevention Fund for the
+689 exclusive use of the authority. The expenditures of monies in
+690 the Underground Damage Prevention Fund shall be at the
+691 discretion of the authority board to carry out its duties
+692 under this chapter. Excess funds shall be used for purposes
+693 related to underground facility damage prevention, including,
+694 but not limited to, support public awareness programs and
+695 training and education of excavators, operators, locators, and
+696 other persons to reduce the number and severity of violations
+697 of this chapter.
+698 (f) This chapter does not affect any civil remedies for
+699 personal injury or property damage or criminal sanctions
+700 except as otherwise specifically provided for in this chapter.
+Page 25
+
+except as otherwise specifically provided for in this chapter.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+701 (g) Evidence of findings of fact, civil penalties, or
+702 any of the actions or proceedings pursuant to this chapter
+703 shall not be admissible in any other civil causes of actions
+704 related to the excavation or damage for which the penalty or
+705 fine was issued;. however However, these materials are
+706 discoverable in civil actions arising from the facts herein.
+707 This chapter does not limit any person's right to pursue any
+708 additional civil remedy otherwise allowed by law.
+709 (h) No civil penalty may be imposed pursuant to this
+710 section against an excavator or operator who violates any
+711 provision of this chapter if the violation occurred while the
+712 excavator or operator was responding to an emergency.
+713 Notwithstanding the foregoing, the civil penalty shall be
+714 imposed if the violation was willful or malicious.
+715 (i) This section shall not be construed to limit any
+716 provision of law granting governmental immunity to state or
+717 local entities or to impose any liability or duty of care not
+718 otherwise imposed by law upon any state or local entity.
+719 (j) Any person who willfully or maliciously removes or
+720 otherwise destroys a marking used by an operator to mark the
+721 location of any underground facility, except in the ordinary
+722 course of excavation, is guilty of a Class C misdemeanor.
+723 (k) Any monies received by the Underground Damage
+724 Prevention Authority prior to April 22, 2021, which were
+725 directed to be paid into the Underground Damage Prevention
+726 Fund, shall be deposited into the fund."
+727 "§37-15-10.1
+728 (a) The Underground Damage Prevention Authority is
+Page 26
+
+(a) The Underground Damage Prevention Authority is
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+729 created for the purpose of enforcing this chapter and for
+730 reviewing penalty provisions and the adequacy of the
+731 enforcement process. It is the intent of the Legislature that
+732 the authority and its enforcement activities not be funded by
+733 appropriations from the state budget.
+734 (b) The authority shall may utilize the services of the
+735 Alabama Public Service Commission to provide administrative
+736 support for the authority, or the authority may contract with
+737 a third-party administrator, subject to the concurrence by the
+738 authority board. The Public Service Commission, or the
+739 third-party administrator, shall charge the expenses
+740 associated with the administrative duties of the authority
+741 back to the authority, subject to the concurrence of the
+742 authority board. The administrative support provided by the
+743 Alabama Public Service Commission to the authority is in an
+744 administrative capacity only and nothing in this chapter shall
+745 expand the jurisdiction of the Alabama Public Service
+746 Commission in any way.
+747 (c) The authority shall be composed of a board of
+748 underground facility protection stakeholders. The board shall
+749 be composed of one subject matter expert representative from
+750 each of the following stakeholders and all board appointments
+751 shall be made by March 31, 2020, as follows:
+752 (1) Alabama Attorney General's Office.
+753 (2) Alabama Public Service Commission - gas pipeline
+754 safety.
+755 (3) Alabama State Department of Transportation.
+756 (4) Alabama county engineers.
+Page 27
+
+(4) Alabama county engineers.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+757 (5) Cable television industry.
+758 (6) Electric utility industry.
+759 (7) Municipal utility operator industry.
+760 (8) Natural gas distribution industry.
+761 (9) One-Call Notification System.
+762 (10) Professional excavator industry.
+763 (11) Professional road builder industry.
+764 (12) Professional land surveyor industry.
+765 (13) Telecommunications industry.
+766 (14) Transmission pipeline industry.
+767 (15) Utility facility locating industry.
+768 (16) Water utility industry.
+769 (17) Wastewater industry.
+770 (d) The Governor shall appoint the stakeholder
+771 representatives selected from qualified persons as provided in
+772 subsection (c) with the exception of the stakeholder
+773 representatives from the Alabama Attorney General's office,
+774 the Alabama Public Service Commission - gas pipeline safety,
+775 and the Alabama State Department of Transportation, who shall
+776 be appointed by the head of the respective agency. The initial
+777 authority board shall be appointed with staggered terms as
+778 determined by the Governor. After the initial appointment,
+779 each stakeholder representative shall serve a term of three
+780 years or until a replacement is appointed, whichever occurs
+781 later. No person shall be appointed for more than two full
+782 consecutive terms with the exception of the stakeholder
+783 representatives from the Alabama Attorney General's office,
+784 the Alabama Public Service Commission - gas pipeline safety,
+Page 28
+
+the Alabama Public Service Commission - gas pipeline safety,
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+785 the Alabama State Department of Transportation, and the
+786 One-Call Notification System.
+787 (e) Membership of the authority board shall be
+788 inclusive and reflect the racial, gender, geographic,
+789 urban/rural urban, rural, and economic diversity of the state.
+790 (f) The board shall elect an executive committee made
+791 up of five representatives from the authority board as
+792 provided in this section excluding those entities representing
+793 a state agency, who will be responsible for levying civil
+794 penalties and taking actions as described in Section 37-15-10,
+795 this section, and Section 37-15-10.2.
+796 (g) Members of the authority board and executive
+797 committee may participate in a meeting of the board or
+798 committee by means of telephone conference, video conference,
+799 or similar communications equipment by means of which all
+800 persons participating in the meeting may hear each other at
+801 the same time and members of the public may simultaneously
+802 listen to the meeting. Participation by such means shall
+803 constitute presence in person at a meeting for all purposes.
+804 (h) The board may do all of the following:
+805 (1) Adopt rules to conduct the affairs of the
+806 authority.
+807 (2) Make and enter into contracts.
+808 (3) Enter into an interagency agreement with the
+809 Attorney General's office General to serve as legal counsel.
+810 The Attorney General shall be compensated at a rate not to
+811 exceed the normal hourly rate authorized by the Governor for
+812 legal services contracts. The authority shall also reimburse
+Page 29
+
+legal services contracts. The authority shall also reimburse
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+813 the Attorney General for any expenses incurred in providing
+814 legal representation.
+815 (4) Oversee the development of or contract for the
+816 development and administration of the designated training
+817 program.
+818 (5) Evaluate and revise the enforcement program process
+819 and penalty structure by adopting rules if the current
+820 structure does not meet the purpose and intent of this chapter
+821 or federal law.
+822 (i) No member of the board, individually or jointly,
+823 shall be civilly liable for acts within the scope of his or
+824 her duties as a board member which are made in good faith and
+825 are absent unreasonable, wanton, willful, intentional conduct,
+826 or a violation of federal law.
+827 (j) The members of the board shall serve without
+828 compensation.
+829 (k) Nothing in this chapter shall grant the authority
+830 jurisdiction over damage to utilities located above the
+831 ground.
+832 (l) Board members shall not participate in any
+833 enforcement action decisions pertaining to the entity they
+834 represent."
+835 "§37-15-10.2
+836 (a) Any person who violates this chapter may be
+837 reported to the authority for the alleged violation.
+838 (b) The board shall develop and implement a process for
+839 the receipt of a complaint of a violation of this chapter. The
+840 complaint must be made no later than 30 days after the known
+Page 30
+
+complaint must be made no later than 30 days after the known
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+841 occurrence of the violation. A complaint may be filed as
+842 information only and designated not to be pursued under the
+843 enforcement provisions.
+844 (c) Upon receipt of a complaint of a violation of this
+845 chapter, the administrator, operating on behalf of the
+846 authority, shall provide notice to the reported violator
+847 advising that a complaint of violation has been made setting
+848 out the time and place of the alleged violation, the identity
+849 of who reported the violation, his or her right to file a
+850 written response within 14 days, and his or her right to
+851 appeal from an adverse decision.
+852 (d) The administrator, acting on behalf of the
+853 authority, shall submit the complaint and documentation to the
+854 executive committee.
+855 (e) The authority executive committee shall review the
+856 complaint and any documentation regarding the complaint and
+857 make any needed recommendation for penalty action.
+858 (f) The administrator, operating on behalf of the
+859 authority, shall notify the complainant and the reported
+860 violator of any penalty assessed.
+861 (g) Once the reported violator is notified of the
+862 designated penalty as described in Section 37-15-10, the
+863 violator may pay the penalty to the Underground Damage
+864 Prevention Fund or dispute the penalty and request a hearing
+865 before the full authority board.
+866 (h) The request for a hearing before the authority
+867 board must be made within 30 days of the issuance of
+868 notification of the violation.
+Page 31
+
+notification of the violation.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+869 (i) The full authority board shall meet no more than
+870 quarterly, based on need. The hearings shall be held at the
+871 place set forth in the notice of hearing. There shall be no
+872 presumption of correctness attached to any finding of fact or
+873 any assessment of a penalty that is appealed to the authority
+874 board, and the proceedings and hearing before the authority
+875 board shall be tried de novo. The complainant must and alleged
+876 violator may request to attend the hearing.
+877 (j) The authority board in the appeal process may do
+878 all of the following:
+879 (1) Repeal the initial penalty provisions cited for the
+880 alleged violation of this chapter.
+881 (2) Uphold the initial penalty provisions cited for the
+882 alleged violation of this chapter.
+883 (3) Issue a new penalty provision related to the
+884 alleged violation of this chapter.
+885 (4) Issue an order stating the outcome of the hearing,
+886 including any assigned penalty.
+887 (k) A person aggrieved by the final order, within 30
+888 days from the date of the final order, may seek judicial
+889 review in the circuit court by filing a notice of appeal.
+890 (l) All complaints filed pursuant to this chapter shall
+891 not be subject to the Alabama Open Records Act. However, the
+892 authority shall make available upon request a summary of a
+893 complaint after a final resolution has been entered regarding
+894 any such complaint requested along with any documents
+895 associated with the final resolution of the complaint.
+896 However, this restriction shall not prevent a party from
+Page 32
+
+However, this restriction shall not prevent a party from
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+897 obtaining a copy of the complaint by means of a subpoena or
+898 other method allowed by the Alabama Rules of Civil Procedure
+899 or the Alabama Rules of Criminal Procedure. The Alabama Open
+900 Meetings Act shall apply to all meetings and judicial hearings
+901 required pursuant to this chapter, except for those meetings
+902 of the authority in which the initial determination of
+903 violation and recommended fine is discussed and determined.
+904 (m) The authority may bring an action against any
+905 person or entity to collect any fines, penalties, or other
+906 monies owed to the authority.
+907 (n) The authority shall be governed by the Alabama
+908 Administrative Procedure Act."
+909 Section 2. Section 37-15-4.2 is added to Chapter 15 of
+910 Title 37, Code of Alabama 1975, to read as follows:
+911 §37-15-4.2
+912 (a) The excavator for an excavation project that
+913 qualifies for a complex or large project shall provide the
+914 underground facility operator, via the one-call notification
+915 center, with notice of the planned complex or large project
+916 not less than five working days prior to the planned complex
+917 or large project pre-excavation planning meeting. The notice
+918 shall follow the guidelines established for complex or large
+919 projects which shall include, but not be limited to, all of
+920 the following:
+921 (1) Scope of project details and expected timelines for
+922 the work to be concluded, including descriptions of project
+923 phase, if appropriate.
+924 (2) Company representative contact information.
+Page 33
+
+(2) Company representative contact information.
+4UKCKI3-1 02/04/2026 ZAK (H) HSE 2026-429
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB322
+925 (3) Field contact representative contact information.
+926 (4) List of known contractors and subcontractors.
+927 (5) Use of premarking requirements at proposed
+928 excavation sites.
+929 (b) The excavator, operators, and locators involved in
+930 the complex or large project shall negotiate in good faith to
+931 reach a working agreement, which shall include, but not be
+932 limited to, the agreed upon scope of work, timeline for
+933 excavation activity, and location completion schedule.
+934 (c) Once the working agreement is finalized, the locate
+935 requests for utility markings shall be made in accordance with
+936 the location completion schedule and in compliance with the
+937 requirements of Section 37-15-4. The operator shall mark the
+938 proposed excavation site in compliance with the requirements
+939 of Section 37-15-6.
+940 (d) An excavator's knowing failure to designate a
+941 qualifying project as a complex or large project subject to
+942 this section and an excavator or operator's failure to comply
+943 with a working agreement shall be subject to the enforcement
+944 provisions of Section 37-15-10.
+945 (e) An operator may require an excavator to utilize the
+946 complex or large project process if individual locate requests
+947 placed as routine requests combined qualify for the complex or
+948 large project process.
+949 Section 3. This act shall become effective on January
+950 1, 2027.
+Page 34

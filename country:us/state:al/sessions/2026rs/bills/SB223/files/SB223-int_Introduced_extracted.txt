@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB223 INTRODUCED
+1 SB223
+2 EJL8Q92-1
+3 By Senator Carnley
+4 RFD: State Governmental Affairs
+5 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+EJL8Q92-1 01/27/2026 GED (L)ma 2026-268
+1
+2
+3
+4 SYNOPSIS:
+5 Automatic Dependent Surveillance-Broadcast is a
+6 technology used in aircraft to provide real-time
+7 aircraft tracking for air traffic control purposes. The
+8 data may be used by government agencies, but may also
+9 be used by persons to impose fees and other charges on
+10 the owners or operators of aircraft.
+11 This bill would prohibit the use of Automatic
+12 Dependent Surveillance-Broadcast data for the purpose
+13 of identifying aircraft in order to impose fees or
+14 other charges on the owners and operators of the
+15 aircraft.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to aviation; to limit the use of Automatic
+23 Dependent Surveillance-Broadcast (ADS-B) data to identify
+24 aircraft in order to assess fees or impose charges on owners
+25 or operators of the aircraft; and to provide enforcement and
+26 remedies.
+27 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+28 Section 1. This act shall be known and may cited as the
+Page 1
+
+Section 1. This act shall be known and may cited as the
+SB223 INTRODUCED
+29 Limitation on Use of ADS-B Data Act.
+30 Section 2. (a) The Legislature finds that Automatic
+31 Dependent Surveillance–Broadcast (ADS-B) systems are designed
+32 to enhance aviation safety, situational awareness, and
+33 efficiency by allowing aircraft to broadcast positional and
+34 status information to air traffic control and other
+35 appropriately equipped receivers.
+36 (b) The Legislature further finds that the use of ADS-B
+37 data to identify specific aircraft for the purpose of
+38 assessing fees or otherwise imposing charges on the owners or
+39 operators of the aircraft raises privacy, fairness, and policy
+40 concerns unrelated to the safety purposes for which the system
+41 was developed.
+42 (c) It is the purpose of this act to prohibit the use
+43 of ADS-B data to identify aircraft for the assessment of fees
+44 or the imposition of charges on owners or operators, while
+45 preserving the ability of aviation stakeholders to use ADS-B
+46 for safety, regulatory compliance, and operational purposes.
+47 Section 3. For the purposes of this act, the following
+48 terms have the following meanings.
+49 (1) ADS-B DATA. Any information contained in or derived
+50 from ADS-B broadcasts, including aircraft position, velocity,
+51 heading, identification codes or call signs, and other flight
+52 status information, which is collected, recorded, processed,
+53 or stored by public or private parties.
+54 (2) AUTOMATIC DEPENDENT SURVEILLANCE-BROADCAST (ADS-B).
+55 A surveillance technology in which an aircraft determines its
+56 position from onboard navigation sources and automatically
+Page 2
+
+position from onboard navigation sources and automatically
+SB223 INTRODUCED
+57 broadcasts that position and other ADS-B data via radio data
+58 link. The term includes both ADS-B Out transmissions from
+59 aircraft and ADS-B In reception of the broadcasts.
+60 (3) FEE or CHARGE. Any monetary assessment, toll, tax,
+61 surcharge, or other required payment imposed on an aircraft
+62 owner or operator, including, without limitation, usage-based
+63 fees, distance-based fees, or access charges.
+64 (4) GOVERNMENT AGENCY. Any department, agency, board,
+65 commission, authority, or other instrumentality of the state;
+66 any county or municipality within the state; or any political
+67 subdivision or public corporation thereof.
+68 (5) PERSON. Any individual, partnership, corporation,
+69 limited liability company, association, organization, trust,
+70 estate, governmental entity, or other legal entity of any
+71 kind.
+72 Section 4. (a) No person, including a government
+73 agency, shall use ADS-B data to identify an aircraft for the
+74 purpose of assessing a fee or otherwise imposing a charge on
+75 the owner or operator of the aircraft.
+76 (b) The prohibition in subsection (a) applies when the
+77 ADS-B data is obtained:
+78 (1) Directly from broadcast reception;
+79 (2) Indirectly through third parties; or
+80 (3) From databases or services that compile or
+81 disseminate ADS-B information.
+82 Section 5. Nothing in this act shall be construed to
+83 restrict:
+84 (1) The use of ADS-B data by air traffic control; the
+Page 3
+
+(1) The use of ADS-B data by air traffic control; the
+SB223 INTRODUCED
+85 Federal Aviation Administration; or aviation service providers
+86 for safety of flight, traffic management, search and rescue,
+87 accident investigation, facility planning, or regulatory
+88 compliance purposes; or
+89 (2) The voluntary, contractual use of ADS-B data by
+90 aircraft owners or operators with service providers for
+91 operational services, including flight following, maintenance,
+92 or safety analytics, provided the data is not used to identify
+93 the aircraft for the assessment of fees or charges on the
+94 owner or operator.
+95 Section 6. (a) Any person aggrieved by a violation of
+96 Section 4 may bring a civil action in a court of competent
+97 jurisdiction for:
+98 (1) Injunctive relief to prevent or restrain further
+99 violation;
+100 (2) Actual damages, or statutory damages of up to five
+101 thousand dollars ($5,000) per violation, whichever is greater;
+102 and
+103 (3) Reasonable attorney fees and costs.
+104 (b) The Attorney General may bring an action to enforce
+105 this act and seek:
+106 (1) Civil penalties not to exceed ten thousand dollars
+107 ($10,000) per violation;
+108 (2) Injunctive relief; and
+109 (3) Any other relief the court deems appropriate.
+110 Section 7. This act shall not be construed to conflict
+111 with or impede any federal law, regulation, or function
+112 related to aviation safety, air traffic management, or the
+Page 4
+
+related to aviation safety, air traffic management, or the
+SB223 INTRODUCED
+113 operation and maintenance of the national airspace system.
+114 Section 8. This act shall become effective on October
+115 1, 2026.
+Page 5

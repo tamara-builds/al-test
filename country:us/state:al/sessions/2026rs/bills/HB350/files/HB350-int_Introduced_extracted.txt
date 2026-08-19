@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB350 INTRODUCED
+1 HB350
+2 PS4ZYRR-1
+3 By Representatives Shaw, DuBose, Brown, Marques, Moore (P),
+4 Chestnut, Rafferty, Rigsby, Faulkner
+5 RFD: Ways and Means Education
+6 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+PS4ZYRR-1 12/18/2025 RA (F)RA 2025-3623
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish the Angel Investor Tax
+6 Credit Act which would allow certain qualified
+7 investors to claim income tax credits for investments
+8 in certain qualified businesses.
+9
+10
+11
+12 A BILL
+13 TO BE ENTITLED
+14 AN ACT
+15
+16 Relating to income tax; to create the Angel Investor
+17 Tax Credit Act; to provide for income tax credits to qualified
+18 investors who make qualified investments.
+19 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+20 Section 1. This act shall be known as the Angel
+21 Investor Tax Credit Act.
+22 Section 2. The Legislature finds and declares that
+23 early stage capital is critical to the growth of innovative
+24 startup companies in the state, and that angel investors play
+25 a key role in financing high-growth businesses. Therefore,
+26 having a credit in place for those angel investors will help
+27 promote entrepreneurship, job creation, capital investment,
+28 and long-term economic growth in the state.
+Page 1
+
+and long-term economic growth in the state.
+HB350 INTRODUCED
+29 Section 3. For the purposes of this act, the following
+30 terms have the following meanings:
+31 (1) DEPARTMENT. The Alabama Department of Commerce.
+32 (2) PRIORITY IMPACT BUSINESS. A qualified business that
+33 the department determines is primarily engaged in, or whose
+34 products or services materially support, one or more of the
+35 following:
+36 a. Rural health care access or delivery.
+37 b. Agriculture production, agribusiness, or
+38 agricultural technology.
+39 c. Educational supports or services for high-need
+40 student populations, including students in poverty, English
+41 learners, students with disabilities, gifted students, or
+42 public charter school students.
+43 d. Home-based education, including homeschooling.
+44 e. Workforce development or workforce participation.
+45 f. Housing affordability.
+46 (3) QUALIFIED ANGEL INVESTOR. A person who either:
+47 a. Makes a qualified investment and is not a
+48 controlling shareholder, owner, or employee of the qualified
+49 business at the time of the investment; or
+50 b. Is a pass-through entity, including a limited
+51 liability corporation, an S-corporation, or a partnership that
+52 makes a qualified investment, provided that the credit is
+53 claimed by the owners, not the pass-through entity.
+54 (4) QUALIFIED BUSINESS. A business entity that at the
+55 time of the first qualified investment it receives meets all
+56 of the following criteria:
+Page 2
+
+of the following criteria:
+HB350 INTRODUCED
+57 a. Headquartered in this state and intends to remain in
+58 this state after receipt of the investment.
+59 b. Has 100 or fewer employees.
+60 c. Employs at least 51 percent of its employees in this
+61 state or pays at least 51 percent of its payroll to employees
+62 in this state.
+63 d. Has been in operation for 10 years or less.
+64 e. Is primarily engaged in manufacturing, processing,
+65 or assembling products; developing, producing,
+66 commercializing, or licensing technology products, software,
+67 or technology-enabled services; conducting research and
+68 development including in biotechnology, life sciences, or
+69 medical devices; or developing or proving agribusiness or
+70 agricultural technology products and services.
+71 f. Is not primarily engaged in retail sales; real
+72 estate development; the business of insurance, banking, or
+73 lending; or the provision of professional services provided by
+74 accountants, attorneys, or physicians.
+75 (5) QUALIFIED INVESTMENT. A cash investment made in
+76 exchange for equity, debt, or other ownership interest in a
+77 qualified business as approved by the department.
+78 Section 4. (a)(1) For tax years beginning on or after
+79 January 1, 2027, and ending December 31, 2031, a qualified
+80 angel investor may claim an income tax credit in an amount
+81 equal to 25 percent of the amount contributed to a qualified
+82 business during the tax year as provided in this section.
+83 (2) Any credit provided by this act may not decrease a
+84 taxpayer's liability to less than zero. If the tax liability
+Page 3
+
+taxpayer's liability to less than zero. If the tax liability
+HB350 INTRODUCED
+85 of the taxpayer is less than the credit offered, then the
+86 unused portion may be carried forward for up to five years.
+87 (3) A qualified angel investor may not claim more than
+88 two hundred fifty thousand dollars ($250,000) in credits
+89 pursuant to this act in any single tax year.
+90 (4) The total amount of credits granted shall not
+91 exceed five million dollars ($5,000,000) for the tax year
+92 ending December 31, 2027, ten million dollars ($10,000,000)
+93 for the tax year ending December 31, 2028, and twelve million
+94 dollars ($12,000,000) for each subsequent tax year.
+95 (b) The department shall reserve not less than 50
+96 percent of the total tax credits available each tax year for
+97 qualified investments in a priority impact business. Reserved
+98 credits shall be granted on a first-come, first-served basis
+99 within the reserve category. Any reserved credits not awarded
+100 by October 1 of each year shall be made available for other
+101 qualified investments. The unreserved tax credits authorized
+102 by this section shall be on a first-come, first-served basis.
+103 (c)(1) The department shall submit an annual
+104 informational report to the Department of Revenue containing a
+105 list of priority impact businesses, qualified businesses, and
+106 qualified angel investors.
+107 (2) The department may require qualified businesses to
+108 report on job creation, revenue growth, and other economic
+109 impacts.
+110 (3) The department shall coordinate with the Department
+111 of Revenue to monitor compliance with this act.
+112 (d)(1) To claim a credit under this section, a
+Page 4
+
+(d)(1) To claim a credit under this section, a
+HB350 INTRODUCED
+113 qualified angel investor shall submit documentation of their
+114 qualified investment in a qualified business to the Department
+115 of Revenue. The Department of Revenue shall certify qualified
+116 investments in a qualified business made in accordance with
+117 this act.
+118 (2) The Department of Revenue may recapture all of, or
+119 a portion of, the credit if any of the following occur:
+120 a. The qualified investment is sold, transferred, or
+121 otherwise disposed of within three years of the investment
+122 date.
+123 b. The qualified business relocates its principal
+124 operation outside of Alabama within three years of the
+125 investment.
+126 c. The credit was obtained through material
+127 misrepresentation or fraud.
+128 (e) The department shall conduct workshops and outreach
+129 campaigns to educate investors and startups about the tax
+130 credit and it may also partner with universities, incubators,
+131 and tech accelerators to identify qualifying businesses and
+132 attract angel investors.
+133 (f) The Department of Revenue and the Department of
+134 Commerce shall adopt any rules necessary to implement and
+135 administer this act.
+136 Section 5. This act shall become effective on June 1,
+137 2026.
+Page 5

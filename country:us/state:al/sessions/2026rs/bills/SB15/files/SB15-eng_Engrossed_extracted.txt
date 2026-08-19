@@ -1,0 +1,1108 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB15 ENGROSSED
+1 SB15
+2 FKG8J5C-2
+3 By Senator Givhan
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 13-Jan-26
+6 PFD: 20-Aug-25
+Page 0
+
+PFD: 20-Aug-25
+SB15 Engrossed
+1
+2
+3
+4 A BILL
+5 TO BE ENTITLED
+6 AN ACT
+7
+8 Relating to secured transactions; to create the Uniform
+9 Assignment for Benefit of Creditors Act; to provide for
+10 definitions and the scope of the act; to provide requirements
+11 for assignee and assignment agreements and for the effect of
+12 assignments; to provide requirements for filing, recording,
+13 and title transfers; to provide for notification to creditors;
+14 to provide for the duties and powers of assignors and
+15 assignees; to provide for allowed, disallowed, and disputed
+16 claims; to provide requirements for a proof of claim; to
+17 specify the rights of transferees; to provide for
+18 distributions, claim subordination, and the validity of
+19 subordination agreements; to provide for the liability of
+20 assignors and assignees, the removal of assignees, and the
+21 appointment of successor assignees; to provide for the winding
+22 up and final accounting; to provide for interstate matters,
+23 potential court action, and ancillary assignees; and to
+24 specify which provisions of an agreement may vary.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Short title.
+27 This act shall be known and may be cited as the Uniform
+28 Assignment for Benefit of Creditors Act.
+Page 1
+
+Assignment for Benefit of Creditors Act.
+SB15 Engrossed
+29 Section 2. Definitions.
+30 For the purposes of this act, the following terms have
+31 the following meanings:
+32 (1) AFFILIATE. Includes:
+33 a. A person that directly or indirectly owns, controls,
+34 or holds, with power to vote, 20 percent or more of the
+35 outstanding voting interests of another person, other than a
+36 person that holds the interests:
+37 1. In a fiduciary or agency capacity without sole
+38 discretionary power to vote the interests; or
+39 2. Solely to secure a debt, if the person has not in
+40 fact exercised the power to vote;
+41 b. A person with 20 percent or more of the person's
+42 outstanding voting interests directly or indirectly owned,
+43 controlled, or held, with power to vote, by another person;
+44 c. A person whose business is operated under a lease or
+45 operating agreement by another person, or a person
+46 substantially all of whose assets are controlled by the other
+47 person; or
+48 d. A person that operates the business or substantially
+49 all the assets of another person under a lease or operating
+50 agreement.
+51 (2) ASSET. A legal or equitable interest in property of
+52 an assignor, regardless of the person holding or in
+53 possession, custody, or control of the property or where the
+54 property is located. The term does not include:
+55 a. A legal or equitable interest in property restricted
+56 from assignment if the restriction is effective under other
+Page 2
+
+from assignment if the restriction is effective under other
+SB15 Engrossed
+57 law, unless the other law permits assignment with the consent
+58 of another person and the person consents to the assignment in
+59 a manner permitted by the other law; or
+60 b. If the assignor is an individual, a legal or
+61 equitable interest in property to the extent the equitable
+62 interest is exempt from legal process under other law.
+63 (3) ASSIGNED ASSET. An asset transferred under an
+64 assignment.
+65 (4) ASSIGNEE. A person to which assets are transferred
+66 under an assignment.
+67 (5) ASSIGNMENT. A transfer by a person of all the
+68 person's assets to another person for the benefit of the
+69 transferor's creditors.
+70 (6) ASSIGNMENT AGREEMENT. An agreement that transfers
+71 or provides for a transfer of all the assignor's assets.
+72 (7) ASSIGNMENT ESTATE. The assets held at a given time
+73 by the assignee under an assignment.
+74 (8) ASSIGNOR. A person whose assets are transferred
+75 under an assignment.
+76 (9) CLAIM. A creditor's right to payment or to an
+77 equitable remedy, regardless of whether the right is reduced
+78 to judgment, liquidated, unliquidated, fixed, contingent,
+79 matured, unmatured, disputed, undisputed, legal, equitable,
+80 secured, or unsecured.
+81 (10) COHABITANT. Each of two individuals not married to
+82 each other who live together as a couple after each has
+83 reached the age of majority or been emancipated.
+84 (11) CREDITOR. A person that has a claim against an
+Page 3
+
+(11) CREDITOR. A person that has a claim against an
+SB15 Engrossed
+85 assigned asset or the assignor.
+86 (12) ELECTRONIC. Relating to technology having
+87 electrical, digital, magnetic, wireless, optical,
+88 electromagnetic, or similar capabilities.
+89 (13) GOOD FAITH. Honesty in fact and the observance of
+90 reasonable commercial standards of fair dealing.
+91 (14) INSIDER. Includes:
+92 a. In the case of an individual:
+93 1. A relative of the individual;
+94 2. A partnership or limited liability company in which
+95 the individual is a general partner or managing member; or
+96 3. An organization of which the individual is a
+97 director, officer, or person in control;
+98 b. In the case of an organization:
+99 1. A director, officer, manager, or other person in
+100 control of or with controlling equity interest in the
+101 organization;
+102 2. A partnership or limited liability company in which
+103 the organization is a general partner or managing member;
+104 3. A general partner or managing member of the
+105 organization; or
+106 4. A relative of a general partner, managing member,
+107 director, officer, manager, or other person in control of or
+108 with controlling equity interest in the organization;
+109 c. An affiliate; or
+110 d. A managing agent of an organization.
+111 (15) LIEN. An interest in an asset that secures payment
+112 or performance of an obligation.
+Page 4
+
+or performance of an obligation.
+SB15 Engrossed
+113 (16) ORGANIZATION. A person other than an individual.
+114 (17) PERFECTED LIEN. Includes:
+115 a. A lien on real property other than fixtures on which
+116 a bona fide purchaser of the property cannot acquire an
+117 interest superior to the interest of the lienholder; or
+118 b. A lien on fixtures or property other than real
+119 property on which a creditor cannot acquire a lien by
+120 attachment, levy, or the like that is superior to the interest
+121 of the lienholder.
+122 (18) PERSON. An individual, estate, for-profit or
+123 nonprofit entity, government or governmental subdivision,
+124 agency, instrumentality, or other legal entity. The term
+125 includes a protected series, however denominated, of an entity
+126 if the protected series is established under law that limits,
+127 or limits if conditions specified under law are satisfied, the
+128 ability of a creditor of the entity or of any other protected
+129 series of the entity to satisfy a claim from assets of the
+130 protected series.
+131 (19) PROOF OF CLAIM. A record a creditor submits to an
+132 assignee to evidence the creditor's claim.
+133 (20) RECORD. Information:
+134 a. Inscribed on a tangible medium; or
+135 b. Stored in an electronic or other medium and
+136 retrievable in perceivable form.
+137 (21) RELATIVE. An individual related by affinity or
+138 consanguinity within the third degree or a cohabitant.
+139 (22) SECURITY INTEREST. A lien created by an agreement.
+140 (23) SEND. In connection with a record or notification,
+Page 5
+
+(23) SEND. In connection with a record or notification,
+SB15 Engrossed
+141 means:
+142 a. To deposit in the mail, deliver for transmission, or
+143 transmit by any other usual means of communication, with
+144 postage or cost of transmission provided for, addressed to any
+145 address reasonable under the circumstances; or
+146 b. To cause the record or notification to be received
+147 within the time the record or notification would have been
+148 received if properly sent under paragraph a.
+149 (24) SIGN. With present intent to authenticate or adopt
+150 a record, means:
+151 a. Execute or adopt a tangible symbol; or
+152 b. Attach to or logically associate with the record an
+153 electronic symbol, sound, or process.
+154 (25) STATE. A state of the United States, the District
+155 of Columbia, Puerto Rico, the United States Virgin Islands, or
+156 any other territory or possession subject to the jurisdiction
+157 of the United States. The term includes a federally recognized
+158 Indian tribe.
+159 (26) TRANSFER. Disposing of or parting with an asset or
+160 with an interest in an asset, regardless of whether the
+161 disposition or parting is indirect, conditional, or
+162 involuntary.
+163 Section 3. Scope.
+164 This act applies to an assignment made by an assignor
+165 that is:
+166 (1) An organization whose principal place of business
+167 is in this state;
+168 (2) An organization whose internal affairs are governed
+Page 6
+
+(2) An organization whose internal affairs are governed
+SB15 Engrossed
+169 by the law of this state;
+170 (3) An individual whose principal residence is in this
+171 state;
+172 (4) An organization wholly owned, directly or
+173 indirectly, by an assignor that satisfies subdivision (1),
+174 (2), or (3); or
+175 (5) An organization that:
+176 a. Is partly owned, directly or indirectly, and
+177 controlled by an assignor that satisfies subdivision (1), (2),
+178 or (3);
+179 b. Has no place of business or employees; and
+180 c. Relies on the services the organization receives
+181 from an assignor that satisfies subdivision (1), (2), or (3).
+182 Section 4. Requirements for assignee and assignment
+183 agreement.
+184 (a) An assignee must be a person that:
+185 (1) Is not a creditor, affiliate, or insider of the
+186 assignor;
+187 (2) Is not an affiliate or insider of a creditor of the
+188 assignor;
+189 (3) Does not have a claim against the assignment
+190 estate, other than a claim for fees and expenses to be paid
+191 under the assignment agreement;
+192 (4) Does not have a material financial interest in the
+193 outcome of the assignment, other than fees and expenses to be
+194 paid under the assignment agreement;
+195 (5) Does not hold an equity interest in the assignor
+196 other than a noncontrolling interest in a publicly traded
+Page 7
+
+other than a noncontrolling interest in a publicly traded
+SB15 Engrossed
+197 company; and
+198 (6) Is not an affiliate of a person that fails to
+199 satisfy subdivision (1), (2), (3), (4), or (5).
+200 (b) A person that satisfies subsection (a) is not
+201 precluded from being an assignee merely because the person
+202 performed services for the assignor before the assignment.
+203 (c) An assignment agreement must be in a record signed
+204 by the assignee and the assignor. The record must:
+205 (1) State the name and address of the assignor and of
+206 the assignee;
+207 (2) Transfer or provide for a transfer of all the
+208 assignor's assets;
+209 (3) Describe the assigned assets in sufficient detail
+210 to identify the assets;
+211 (4) Provide for the distribution of the assignment
+212 estate;
+213 (5) Describe the fees to be charged by the assignee in
+214 connection with the assignment, including the basis on which
+215 they are to be calculated; and
+216 (6) Include a representation by the assignor, under
+217 penalty of perjury, that the assignor is assigning all the
+218 assignor's assets.
+219 (d) If an assignee relies in good faith on the
+220 assignor's representation made under subdivision (c)(6), all
+221 the assignor's assets are deemed to be assigned, even if the
+222 representation is inaccurate.
+223 Section 5. Effect of assignment; when assignment
+224 effective.
+Page 8
+
+effective.
+SB15 Engrossed
+225 (a) An assignee obtains the rights, title, and
+226 interests of the assignor in the assigned assets.
+227 (b) Unless the assignor is an individual, an assignee
+228 obtains the rights, title, and interests of the assignor in
+229 assets acquired after the assignment.
+230 (c) Except as provided in Section 10(b)(12), an
+231 assignee takes each assigned asset subject to an existing
+232 interest in the asset held by another person.
+233 (d) An assignee holds the assigned assets subject to
+234 the assignee's duties under Section 9.
+235 (e) An assignment is subject to other law under which
+236 the assignment may be fraudulent or otherwise voidable.
+237 (f) The effective date of the assignment agreement is
+238 the date the assignment agreement is signed by the last party
+239 to the assignment agreement which is required to sign the
+240 assignment agreement unless a later date is identified in the
+241 assignment agreement as the effective date.
+242 Section 6. Filing, recording, and title transfer
+243 requirements.
+244 (a) In this section, "financing statement" has the
+245 meaning in Section 7-9A-102(a)(39).
+246 (b) An assignee of a legal or equitable interest in
+247 personal property may file a financing statement in the filing
+248 office of:
+249 (1) This state established for purposes of Section
+250 7-9A-501(a)(2);
+251 (2) Any other state in which:
+252 a. The assignor would be located under Section 7-9A-307
+Page 9
+
+a. The assignor would be located under Section 7-9A-307
+SB15 Engrossed
+253 if the assignor were a debtor for the purpose of that section;
+254 or
+255 b. An asset of the assignment estate may be located.
+256 (c) A financing statement filed under subsection (b)
+257 must indicate that the financing statement is filed in
+258 connection with an assignment.
+259 (d) When filing a financing statement under subsection
+260 (b), the assignee must:
+261 (1) Attach a copy of the assignment agreement to each
+262 financing statement filed; or
+263 (2) State on the financing statement that a copy of the
+264 assignment agreement is available on request to the assignee.
+265 (e) A financing statement filed under subsection (b)
+266 may:
+267 (1) Designate the assignor as "debtor" and the assignee
+268 as "secured party"; or
+269 (2) Use the terms "assignor" and "assignee" or words of
+270 similar import.
+271 (f) The filing of a financing statement under
+272 subsection (b) is not itself a factor in determining whether
+273 an asset secures an obligation. The rights of the assignee
+274 under the assignment are not affected if the assignee does not
+275 file a financing statement under subsection (b).
+276 (g) An assignee of an estate that includes a legal or
+277 equitable interest in real property shall record the
+278 assignment of the interest or notice of the assignment under
+279 the real estate recording law of the jurisdiction where the
+280 property is located.
+Page 10
+
+property is located.
+SB15 Engrossed
+281 (h) An assignee shall comply with other law governing
+282 the transfer of title to an asset.
+283 (i) By signing an assignment agreement, the assignor
+284 authorizes the assignee to take the actions required by this
+285 section.
+286 Section 7. Notification to creditors.
+287 (a) Unless a creditor waives the right to notification
+288 in a signed record, an assignee shall send a notification of
+289 the assignment to each creditor known to the assignee within a
+290 reasonable time not to exceed 30 days after the effective date
+291 of the assignment agreement.
+292 (b) The notification must:
+293 (1) Be in a record signed by the assignee;
+294 (2) Include the assignee's name, address, and other
+295 contact information reasonably necessary to communicate with
+296 the assignee;
+297 (3) Provide reasonable instructions for submitting a
+298 proof of claim using the method established by the assignee
+299 under Section 9(b)(5); and
+300 (4) Identify the date established under Section 9(b)(6)
+301 by which each creditor whose claim is not otherwise allowed
+302 without a timely proof of claim under this act must submit a
+303 proof of claim to the assignee.
+304 (c) An assignee shall use reasonable means to provide
+305 the information in subsection (b) to unknown creditors,
+306 including by any means the assignor regularly used to:
+307 (1) Provide information to the assignor's creditors; or
+308 (2) Communicate information about the assignor, other
+Page 11
+
+(2) Communicate information about the assignor, other
+SB15 Engrossed
+309 than advertising, to the public.
+310 Section 8. Duties of assignor.
+311 (a) Subject to Section 23, an assignor has a duty to
+312 take all reasonable actions necessary for the assignee to
+313 administer the assignment, the assigned assets, and the
+314 assignment estate.
+315 (b) In furtherance of the duty under subsection (a),
+316 the assignor shall:
+317 (1) Preserve and turn over to the assignee the assigned
+318 assets in the assignor's possession or control;
+319 (2) Identify and provide to the assignee information
+320 reasonably necessary to administer the assignment and the
+321 assigned assets;
+322 (3) Sign, and comply with any notarization required
+323 under other law, any record reasonably necessary to transfer
+324 an assigned asset;
+325 (4) Provide the assignee with the name, address, and
+326 other contact information reasonably necessary to communicate
+327 with an appropriate person willing and able to act as a
+328 representative on behalf of the assignor as may be reasonably
+329 necessary to administer the assignment, the assigned assets,
+330 and the assignment estate;
+331 (5) If the assignment includes a legal or equitable
+332 interest in real property or titled personal property,
+333 cooperate with the assignee in taking actions under Section 6;
+334 (6) On or as soon as practicable after the effective
+335 date of the assignment agreement, provide the assignee a list
+336 of all assets, a list of all the assignor's employees
+Page 12
+
+of all assets, a list of all the assignor's employees
+SB15 Engrossed
+337 including those whose employment is terminated in connection
+338 with the assignment, and a list of all the assignor's known
+339 creditors including, for each creditor, the creditor's address
+340 and other contact information reasonably necessary to
+341 communicate with the creditor;
+342 (7) Verify under penalty of perjury the accuracy of the
+343 lists required under subdivision (6);
+344 (8) With respect to a legal or equitable interest in
+345 property restricted from assignment, cooperate with the
+346 assignee to obtain consent from a person whose consent to
+347 assign the interest is necessary under other law; and
+348 (9) Provide assistance to the assignee as required by
+349 the assignment agreement.
+350 (c) The duties in this section also apply to a
+351 representative identified in subdivision (b)(4).
+352 Section 9. Duties of assignee.
+353 (a) Subject to Section 23, an assignee has a fiduciary
+354 duty to the assignment estate for the benefit of creditors:
+355 (1) Of loyalty, including the duty to manage the
+356 assignment in good faith;
+357 (2) To use reasonable care to maximize distributions
+358 under Section 15; and
+359 (3) To wind up the assignment under Section 19 in a
+360 manner compatible with the best interests of the assignment
+361 estate and creditors.
+362 (b) Without limitation on the duties under subsection
+363 (a), and subject to Section 23, the assignee shall also have a
+364 duty to:
+Page 13
+
+duty to:
+SB15 Engrossed
+365 (1) Maintain a separate deposit account for funds
+366 related to the assignment;
+367 (2) Collect on or dispose of each assigned asset,
+368 unless the assignee determines it is more economically
+369 efficient to abandon the asset;
+370 (3) Prepare and retain appropriate business records,
+371 including a record of each receipt, disbursement, and
+372 collection on or disposition of an assigned asset;
+373 (4) Pay administrative expenses of the assignment
+374 estate, to the extent the assignment estate has sufficient
+375 unencumbered assets;
+376 (5) Establish a method that is reasonably designed to
+377 permit a creditor to submit a proof of claim;
+378 (6) Establish a single date by which creditors whose
+379 claims are not otherwise allowed without timely proofs of
+380 claim under this act must submit proofs of claim, which must
+381 be not less than 90 and not more than 210 days after the
+382 effective date of the assignment agreement;
+383 (7) Unless a claim would receive minimal or no
+384 distribution without regard to its validity or asserted
+385 priority, examine the validity and priority of claims against
+386 the assignment estate and, if necessary, consult with the
+387 assignor's representative designated under Section 8(b)(4), if
+388 any;
+389 (8) At least every six months, provide to each creditor
+390 a summary of the assets, liabilities, and expenses of the
+391 assignment estate, and a status report that provides in
+392 summary form actions taken to liquidate assets and plans of
+Page 14
+
+summary form actions taken to liquidate assets and plans of
+SB15 Engrossed
+393 distribution;
+394 (9) Comply with all requirements of the Internal
+395 Revenue Service and state and local taxing authorities;
+396 (10) Send a notification to each creditor of the
+397 assignee's compensation and any change in the method of
+398 determining the assignee's compensation from the method
+399 provided in the assignment agreement;
+400 (11) Send a final accounting under Section 19(a); and
+401 (12) Comply with the other requirements imposed on the
+402 assignee under this act.
+403 Section 10. Powers of assignee.
+404 (a) An assignee has the powers necessary or appropriate
+405 to perform the assignee's duties.
+406 (b) Unless the assignment agreement expressly provides
+407 otherwise, the assignee has power to:
+408 (1) Operate an existing business that uses an assigned
+409 asset, including preservation of the asset and collection on
+410 or the sale, lease, license, or other disposition of the
+411 asset;
+412 (2) Incur secured or unsecured debt and pay expenses
+413 incidental to the exercise of the power under subdivision (1);
+414 (3) Assert a right, claim, cause of action, or defense
+415 the assignor could have asserted that relates to the
+416 assignment estate;
+417 (4) Engage professionals, including a professional
+418 previously engaged by the assignor, to give advice, to
+419 prosecute or defend litigation, or for other purposes as the
+420 assignee considers appropriate, and pay the professional a
+Page 15
+
+assignee considers appropriate, and pay the professional a
+SB15 Engrossed
+421 reasonable fee for services from the assignment estate;
+422 (5) Collect on or sell, lease, license, or otherwise
+423 dispose of an asset of the assignment estate whether or not
+424 subject to a lien or other encumbrance;
+425 (6) Exercise a right to redeem an asset of the
+426 assignment estate which is subject to a mortgage, deed of
+427 trust, security interest, or other encumbrance;
+428 (7) Settle a matter involving a debtor of the assignor;
+429 (8) Prosecute or defend a litigation pending on the
+430 effective date of the assignment agreement in favor of or
+431 against the assignor in the manner and with the same effect as
+432 the assignor could have done if an assignment had not been
+433 made;
+434 (9) Recover an asset in the manner and with the same
+435 effect as the assignor might or could have done if an
+436 assignment had not been made;
+437 (10) Settle claims against the assignment estate;
+438 (11) Abandon an assigned asset;
+439 (12) Subject to subsections (c) and (e), avoid a
+440 transfer or the incurrence of an obligation a creditor that
+441 has filed a proof of claim could have avoided under other law
+442 if the assignment had not occurred; and
+443 (13) Invest funds, subject to applicable prudent
+444 investor standards under other law.
+445 (c) The power under subdivision (b)(12) is exclusive to
+446 the assignee with respect to a creditor that submits a proof
+447 of claim. A recovery by the assignee in the exercise of this
+448 power must be for the benefit of the assignment estate but may
+Page 16
+
+power must be for the benefit of the assignment estate but may
+SB15 Engrossed
+449 not exceed the amount, asset, or other value the creditor
+450 could have obtained by the avoidance.
+451 (d) For the purpose of exercising the assignee's power
+452 under subdivision (b)(12), exercising a voidable-transaction
+453 remedy, or otherwise establishing the priority of the
+454 assignee's interest, an assignee has a lien on the assignment
+455 estate and the status of:
+456 (1) A lien creditor under Section 7-9A-102(a)(52)(B) as
+457 to an asset that is a legal or equitable interest in personal
+458 property or fixtures;
+459 (2) A bona fide purchaser under Section 35-4-90, Code
+460 of Alabama 1975, as to an asset that is a legal or equitable
+461 interest in non-fixture real property located in this state;
+462 and
+463 (3) A bona fide purchaser under the law of another
+464 state as to an asset that is a legal or equitable interest in
+465 non-fixture real property located in the other state.
+466 (e) An assignee's power under subdivision (b)(12) to
+467 avoid a transfer made before the effective date of the
+468 assignment agreement, under or in connection with a swap
+469 agreement, securities contract, commodity contract, forward
+470 contract, repurchase agreement, or master netting agreement is
+471 limited to the extent a trustee would not have the power to
+472 avoid the transfer under the Bankruptcy Code, 11 U.S.C. § 101
+473 et seq.
+474 (f) An assignee shall exercise the powers under this
+475 section consistent with the assignee's fiduciary duty under
+476 Section 9(a).
+Page 17
+
+Section 9(a).
+SB15 Engrossed
+477 Section 11. Allowed claim.
+478 (a) An assignee shall allow a creditor's claim if:
+479 (1) The creditor submits a proof of claim in compliance
+480 with Section 13; and
+481 (2) The assignee does not dispute the claim under
+482 Section 12 before final distribution.
+483 (b) An assignee may:
+484 (1) Allow a claim, pay a known liquidated claim, or
+485 accept a notice to the assignee of a claim received by the
+486 date established by the assignee under Section 9(b)(6) even if
+487 the creditor does not submit a proof of claim; or
+488 (2) Allow and pay a claim evidenced by a late-filed
+489 proof of claim, if the assignee determines there is a
+490 reasonable basis for excusing the late filing.
+491 (c) Any unsecured portion of an allowed claim shall be
+492 valued as of the effective date of the assignment agreement.
+493 (d) A creditor's claim is allowed if the creditor
+494 succeeds in a dispute under Section 12(b).
+495 (e) Subject to subsection (f), after expiration of the
+496 time for submitting a proof of claim, the assignee shall
+497 create a complete list of creditors that have submitted a
+498 proof of claim in compliance with Section 13. For each
+499 creditor's claim, the list must:
+500 (1) State the amount of the claim, if the amount is
+501 known to the assignee; and
+502 (2) State whether the claim is secured or unsecured
+503 and, if secured, describe the collateral for the claim.
+504 (f) If a class of creditors will receive no
+Page 18
+
+(f) If a class of creditors will receive no
+SB15 Engrossed
+505 distribution on account of allowed claims, the assignee shall
+506 send a notice in a record to each creditor in that class that
+507 the creditor will receive no distribution instead of the list
+508 required in subsection (e).
+509 (g) Upon request, the assignee shall provide the list
+510 created under subsection (e) to a creditor or other party with
+511 an interest in the assignment estate to the extent permitted
+512 by privacy laws and subject to any privacy safeguards the
+513 assignee determines in the assignee's business judgment are
+514 reasonably necessary.
+515 Section 12. Disputed and disallowed claims.
+516 (a) An assignee may dispute a creditor's claim before
+517 final distribution by sending notice in a record stating the
+518 nature of the assignee's dispute to the creditor.
+519 (b) If a dispute cannot be resolved consensually, the
+520 assignee may commence a proceeding to disallow the claim under
+521 Section 21. The assignee must commence the proceeding before
+522 final distribution under Section 15. If the proceeding is not
+523 filed before final distribution, the assignee shall allow the
+524 claim under Section 11.
+525 (c) An assignee shall create a dollar-for-dollar
+526 reserve for the estimated amount of the potential distribution
+527 on a disputed claim.
+528 (d) Subject to subsection (b), an assignee shall
+529 disallow a claim for reimbursement or contribution of a person
+530 that is liable with the assignor on, or that has secured, the
+531 claim, to the extent:
+532 (1) The claim against the assignment estate is
+Page 19
+
+(1) The claim against the assignment estate is
+SB15 Engrossed
+533 disallowed;
+534 (2) The claim for reimbursement or contribution is
+535 contingent as of the time of allowance or disallowance; or
+536 (3) The person asserts a right of subrogation to the
+537 rights of a creditor.
+538 (e) A claim for reimbursement or contribution of a
+539 person liable with the assignor on, or that has secured, the
+540 claim that becomes fixed after the effective date of the
+541 assignment agreement shall be determined, and shall be allowed
+542 or disallowed, subject to subsection (b), as if the claim had
+543 become fixed before the effective date of the assignment
+544 agreement.
+545 (f) An assignee may reconsider the assignee's decision
+546 to allow or disallow a claim for cause. If a reconsidered
+547 claim is allowed under Section 11, before the assignee makes
+548 additional payments or transfers to other creditors that are
+549 equal or junior in priority under Section 15 to the
+550 reconsidered claim, the creditor with the reconsidered claim
+551 shall receive a payment or transfer in an amount proportionate
+552 in value to the payments or transfers already received by the
+553 other creditors. This subsection does not modify the
+554 assignee's right under other law to recover from a creditor an
+555 excess payment or transfer made to the creditor. If a
+556 reconsidered claim is disallowed, the assignee must comply
+557 with subsections (b) and (c).
+558 Section 13. Proof of claim.
+559 (a) A proof of claim must:
+560 (1) State the name, address, and other contact
+Page 20
+
+(1) State the name, address, and other contact
+SB15 Engrossed
+561 information reasonably necessary to communicate with the
+562 creditor;
+563 (2) State the amount of the claim;
+564 (3) Briefly state the nature of the claim;
+565 (4) Identify any asset of the assignment estate
+566 securing the claim;
+567 (5) Be signed by the creditor under penalty of perjury;
+568 (6) Include a copy of a record, if any, on which the
+569 claim is based;
+570 (7) Be submitted using the method established under
+571 Section 9(b)(5); and
+572 (8) Be submitted by the date established by the
+573 assignee under Section 9(b)(6).
+574 (b) A proof of claim submitted in compliance with this
+575 section is prima facie evidence of the validity and amount of
+576 the claim.
+577 (c) The submission by a creditor of a proof of claim in
+578 compliance with this section constitutes the creditor's:
+579 (1) Consent to the jurisdiction of the court specified
+580 in Section 21; and
+581 (2) Assignment to the assignee of any right of the
+582 creditor to bring a voidable transaction action relating to
+583 the creditor's claim.
+584 Section 14. Rights of transferees.
+585 (a) An assignee's disposition of assets:
+586 (1) Transfers to a transferee for value all of the
+587 assignee's rights in the assets;
+588 (2) Discharges the assignee's lien as a lien creditor
+Page 21
+
+(2) Discharges the assignee's lien as a lien creditor
+SB15 Engrossed
+589 and, to the extent the assignment creates a security interest
+590 in favor of the assignee, the assignee's security interest;
+591 and
+592 (3) Discharges any subordinate security interest or
+593 other lien subordinate to the assignee's lien.
+594 (b) A transferee that acts in good faith takes free of
+595 the rights and interests described in subsection (a), even if
+596 the assignee fails to comply with this act or the requirements
+597 of a judicial proceeding.
+598 (c) If a transferee does not take free of the rights
+599 and interests described in subsection (a), the transferee
+600 takes the asset subject to:
+601 (1) The assignee's rights in the assets of the
+602 assignment estate;
+603 (2) The assignee's lien and, if applicable, security
+604 interest; and
+605 (3) Any other security interest or other lien.
+606 (d) Unless otherwise provided in a record, any warranty
+607 arising by operation of other law is disclaimed to the extent
+608 permitted by other law.
+609 (e) If a subordinate security interest or other lien is
+610 discharged under this section, the assignee may file a record
+611 with the official or office responsible for maintaining an
+612 official filing, recording, registration, or
+613 certificate-of-title system covering the collateral secured by
+614 the security interest or other lien. The record must state
+615 that the security interest or other lien is discharged as a
+616 subordinate security interest or other lien in connection with
+Page 22
+
+subordinate security interest or other lien in connection with
+SB15 Engrossed
+617 a disposition under an assignment for the benefit of creditors
+618 of the debtor whose property is subject to the security
+619 interest or other lien.
+620 Section 15. Distributions.
+621 (a) In this section, "protected secured creditor" means
+622 a secured creditor whose lien:
+623 (1) Is a perfected lien;
+624 (2) Cannot be avoided by the assignee under Section
+625 10(b)(12); and
+626 (3) Is not subordinate to the lien of the assignee.
+627 (b) Except as provided in Section 16, the assignee
+628 shall pay claims from the assignment estate allowed under
+629 Section 11 in the order of priority stated in this section.
+630 (c) Unless otherwise agreed between the assignee and a
+631 protected secured creditor, before distributions are made
+632 under subsections (d), (e), (f), and (g), and in accordance
+633 with the priorities of creditors with liens under other law,
+634 the protected secured creditor shall receive the asset or the
+635 proceeds from the collection on or disposition of the asset to
+636 the extent of the value of the protected secured creditor's
+637 interest in the asset, less the assignee's reasonable and
+638 necessary expenses of preserving or disposing of the asset to
+639 the extent the expenses benefit the protected secured creditor
+640 and are incurred with the protected secured creditor's consent
+641 or acquiescence. The protected secured creditor has an
+642 unsecured claim under subdivision (g)(2) for the amount of the
+643 claim that remains after deducting the amount or value of an
+644 asset the protected secured creditor receives under this
+Page 23
+
+asset the protected secured creditor receives under this
+SB15 Engrossed
+645 subsection. To the extent a claim is secured by property the
+646 value of which, after the deductions provided under this
+647 subsection, is greater than the amount of the claim, the
+648 protected secured creditor may receive interest on the claim
+649 and any reasonable fees, costs, or charges provided for under
+650 the assignment agreement or other law under which the claim
+651 arose.
+652 (d) After the distributions under subsection (c), the
+653 assignee shall pay the necessary costs of the administration
+654 of the assignment estate. The costs include:
+655 (1) Fees and reimbursements of the expenses of the
+656 assignee and any professionals employed by the assignee;
+657 (2) Post-assignment taxes incurred by the assignee;
+658 (3) Post-assignment rent incurred by the assignee in
+659 occupying premises on which assets of the assignment estate
+660 are located or the business of the assignor is conducted;
+661 (4) Post-assignment lease payments incurred by the
+662 assignee in renting personal property used in the business of
+663 the assignor; and
+664 (5) Amounts required to be paid under the assignment
+665 agreement for expenses of winding up the assignment under
+666 Section 19.
+667 (e) After the distributions under subsections (c) and
+668 (d), the assignee shall pay claims entitled to priority under
+669 federal law including under 31 U.S.C. § 3713, from the
+670 assignment estate.
+671 (f) After the distributions under subsections (c), (d),
+672 and (e), the assignee shall pay claims from the assignment
+Page 24
+
+and (e), the assignee shall pay claims from the assignment
+SB15 Engrossed
+673 estate for wages, salaries, or commissions earned not more
+674 than 180 days before the earlier of the effective date of the
+675 assignment agreement or the cessation of the assignor's
+676 business. Payment shall be limited to the greater of:
+677 (1) The amount of the claim allowed as a priority claim
+678 ahead of claims of other unsecured creditors under the
+679 Bankruptcy Code, 11 U.S.C. § 101 et seq.; or
+680 (2) The amount allowed as a priority claim ahead of
+681 claims of other unsecured creditors under applicable
+682 non-bankruptcy law.
+683 (g) After the distributions under subsections (c), (d),
+684 (e), and (f), each creditor shall receive a distribution of
+685 the assets of the assignment estate in the following order of
+686 priority:
+687 (1) Unsecured claims entitled to priority ahead of
+688 claims of other unsecured creditors under other law; and
+689 (2) Unsecured claims not entitled to priority.
+690 (h) If the assets available for distribution to claims
+691 with equal priority under subsection (g) are insufficient to
+692 pay the total amount of the claims with that priority, each
+693 creditor with a claim with that priority shall receive a pro
+694 rata distribution of the available assets based on the
+695 proportion the amount of the creditor's claim bears to the
+696 total amount of the claims with that priority.
+697 (i) If the claims entitled to the distribution under
+698 subsections (c), (d), (e), (f), and (g) are paid in full, the
+699 residue shall be distributed to allowed claims evidenced by a
+700 late-filed proof of claim, other than a late-filed claim
+Page 25
+
+late-filed proof of claim, other than a late-filed claim
+SB15 Engrossed
+701 allowed by the assignee under Section 11(b)(2), and, after the
+702 allowed claims evidenced by a late-filed proof of claim have
+703 been paid in full, as provided in the assignment agreement.
+704 (j) An assignee may make interim distributions after
+705 considering future expenses and the reserves for disputed
+706 claims established under Section 12(c).
+707 Section 16. Claim subordination.
+708 (a) A subordination agreement is enforceable under this
+709 act to the same extent the agreement is enforceable under
+710 other law.
+711 (b) Subject to subsection (c), the following claims are
+712 subordinate to a claim or interest that is senior or equal in
+713 priority to a claim or interest represented by a security or
+714 other equity interest in the assignor or an affiliate of the
+715 assignor:
+716 (1) A claim arising from rescission of a purchase or
+717 sale of the security or other equity interest; and
+718 (2) A claim for damages arising from the purchase or
+719 sale of the security or other equity interest or for
+720 reimbursement or contribution on the claim.
+721 (c) If the security is common stock or another common
+722 equity interest, a claim subject to subordination under
+723 subsection (b) has the same priority as common stock or
+724 another common equity interest.
+725 Section 17. Liability.
+726 (a) An assignor is not personally liable for an act or
+727 omission by the assignee.
+728 (b) An assignee is not personally liable for an act or
+Page 26
+
+(b) An assignee is not personally liable for an act or
+SB15 Engrossed
+729 omission by the assignor.
+730 (c) If an assignor designates a representative that may
+731 act on behalf of the assignor under Section 8(b)(4), the
+732 representative is exculpated to the same extent as a person
+733 acting on behalf of the assignor under other law had there
+734 been no assignment, except for an act or omission resulting
+735 from the representative's gross negligence or willful
+736 misconduct.
+737 (d) A term of an assignment agreement relieving the
+738 assignee of liability is unenforceable to the extent the
+739 agreement relieves the assignee of liability for an act or
+740 omission committed in bad faith or with reckless indifference
+741 to the purposes of the assignment or the interests of the
+742 creditors of the assignment estate.
+743 (e) Subject to subsection (f), an assignee is
+744 personally liable for breach of a fiduciary duty under Section
+745 9(a). If the assignee is liable:
+746 (1) The assignee is personally liable to a creditor for
+747 an individualized harm to the creditor, if the harm is not
+748 shared by all creditors or a class of creditors; and
+749 (2) The assignee is personally liable to the assignment
+750 estate for a harm shared by all creditors or a class of
+751 creditors.
+752 (f) An assignee is not liable if, in the performance of
+753 the assignee's duties and exercise of the assignee's powers,
+754 the assignee relies in good faith on:
+755 (1) A record of the assignor;
+756 (2) Information, an opinion, a report, or a statement
+Page 27
+
+(2) Information, an opinion, a report, or a statement
+SB15 Engrossed
+757 presented to the assignee by the assignor's officer or
+758 employee, a committee of the assignor's board of directors, an
+759 independent director or manager of the assignor, or another
+760 representative of the assignor; or
+761 (3) Information, an opinion, a report, or a statement
+762 presented to the assignee by another person that has been
+763 selected with reasonable care by or on behalf of the assignee
+764 as to a matter the assignee reasonably believes is within the
+765 other person's professional or expert competence.
+766 Section 18. Assignee removal; successor assignee.
+767 (a) The assignor or a creditor may request the circuit
+768 court to remove the assignee if the assignor or creditor has a
+769 reasonable belief grounds for removal exist under subsection
+770 (b).
+771 (b) After a request under subsection (a) or on the
+772 court's initiative in an action pending before the court under
+773 Section 21, the court may remove an assignee:
+774 (1) For cause, including the assignee's fraud,
+775 dishonesty, incompetence, gross mismanagement, or failure to
+776 comply with this act; or
+777 (2) If removal of the assignee best serves the
+778 interests of the creditors.
+779 (c) After an assignee resigns, or is removed, dies, or
+780 becomes incapacitated, a successor assignee provided for in
+781 the assignment agreement becomes the assignee unless the
+782 successor assignee is not eligible to be an assignee under
+783 Section 4(a) or is subject to removal under subsection (b). A
+784 court shall appoint a successor assignee if:
+Page 28
+
+court shall appoint a successor assignee if:
+SB15 Engrossed
+785 (1) The assignment agreement does not provide for a
+786 successor assignee; or
+787 (2) The successor assignee provided for in the
+788 assignment agreement is ineligible to be an assignee under
+789 Section 4(a) or is subject to removal under subsection (b).
+790 (d) Subject to Section 17, an assignee that resigns, or
+791 is removed, dies, or becomes incapacitated, is discharged from
+792 the assignee's duties under this act when the assignee, or a
+793 representative of a deceased or incapacitated assignee:
+794 (1) Accounts for and turns over to the successor
+795 assignee all assets of the assignment estate; and
+796 (2) Submits to creditors a report summarizing the
+797 receipts and disbursements made during the service of the
+798 assignee.
+799 (e) Subject to an applicable privilege, a court may
+800 order an attorney, accountant, or other person that has
+801 information in a record relating to the assignment estate or
+802 the assignor's financial affairs to turn over or disclose the
+803 record to the successor assignee.
+804 Section 19. Winding up.
+805 (a) On completion of an assignee's duties, the assignee
+806 shall send a creditor whose claim is allowed under Section 11,
+807 and not satisfied in full, a final accounting sufficient to
+808 inform the creditor of all material aspects of the assignment,
+809 including:
+810 (1) A description of the actions taken by the assignee
+811 under the assignment;
+812 (2) A summary of the assets received by the assignee at
+Page 29
+
+(2) A summary of the assets received by the assignee at
+SB15 Engrossed
+813 the commencement of the assignment and the assets received by
+814 the assignee during the assignment;
+815 (3) A summary of disbursements made by the assignee
+816 during the assignment for the purpose of administering the
+817 assignment estate, including the fees charged by the assignee,
+818 and payments to professionals, for rent, and for business
+819 purchases;
+820 (4) A summary of collections and dispositions of assets
+821 by the assignee;
+822 (5) A summary of distributions made or proposed to be
+823 made by the assignee for creditor claims;
+824 (6) A description of additional work to be done by the
+825 assignee to complete the administration of the assignment
+826 estate and the distributions under Section 15; and
+827 (7) Other information considered reasonably necessary
+828 by the assignee.
+829 (b) Except as otherwise provided in the final
+830 accounting or if the assignee has not fulfilled the assignee's
+831 duties under this act, the assignee is discharged from the
+832 assignee's duties under this act when the assignee sends the
+833 final accounting and distributes all the assets of the
+834 assignment estate.
+835 (c) If the final accounting describes additional work
+836 under subdivision (a)(6), the assignee shall exercise the
+837 powers appropriate to complete the work.
+838 Section 20. Interstate matters.
+839 (a) Subject to subsection (b), an assignment made under
+840 the law of another state must be recognized and enforced on an
+Page 30
+
+the law of another state must be recognized and enforced on an
+SB15 Engrossed
+841 issue if the result for the issue would be substantially
+842 similar to the result for the issue if the assignment had been
+843 made under this act.
+844 (b) If a claim for wages, salaries, or commissions or a
+845 governmental claim exists in another state, for the purpose of
+846 determining the priority of the claim under Section 15(f)(2),
+847 the assignee shall use the amount asserted or determined under
+848 the law of the other state.
+849 (c) If an assignee determines that a creditor should
+850 receive the treatment the creditor would receive under an
+851 assignment made under the law of another state, the assignee
+852 may treat the creditor as the creditor would be treated in the
+853 other state.
+854 Section 21. Court action.
+855 (a) The circuit court may hear and resolve a matter
+856 involving the administration of an assignment or the exercise
+857 of an assignee's powers and duties, including a request for
+858 instructions or approval or to declare rights.
+859 (b) Without limiting the rights of the assignee or a
+860 creditor or other interested person to request the court to
+861 hear or resolve a matter under subsection (a), on request of
+862 the assignee, the court may issue an order relating to the
+863 administration of the assignment or the exercise of the
+864 assignee's powers and duties, including an order for
+865 disposition of an asset or the incurrence of an obligation.
+866 (c) Acceptance of the assignment by the assignee
+867 constitutes the assignee's consent to the jurisdiction of the
+868 court.
+Page 31
+
+court.
+SB15 Engrossed
+869 Section 22. Ancillary assignee.
+870 (a) Subject to other law of this state governing a
+871 person from another state serving as a fiduciary in this
+872 state, the circuit court may appoint a person serving as an
+873 assignee in an assignment in another state, or the person's
+874 nominee, as an ancillary assignee relating to assigned assets
+875 located in this state or subject to the jurisdiction of a
+876 court in this state, if:
+877 (1) The person or nominee would be eligible to serve as
+878 an assignee under Section 4; and
+879 (2) The appointment furthers the person's possession,
+880 custody, control, or disposition of an assigned asset under
+881 the assignment in the other state.
+882 (b) The court may issue an order that implements an
+883 order entered in another state appointing or directing an
+884 assignee or otherwise concerning an assignment in the other
+885 state.
+886 (c) Unless the court orders otherwise, an ancillary
+887 assignee appointed under subsection (a) has the rights,
+888 powers, and duties of an assignee appointed under this act.
+889 (d) A person in possession, custody, or control of an
+890 assigned asset in this state, other than a creditor holding a
+891 lien or a right of setoff or recoupment relating to the asset,
+892 on notification in a record by an ancillary assignee appointed
+893 under subsection (a), shall turn the asset over to the
+894 ancillary assignee.
+895 Section 23. Provisions variable by agreement.
+896 (a) Except as provided in this section and Section
+Page 32
+
+(a) Except as provided in this section and Section
+SB15 Engrossed
+897 10(b), this act may not be varied by agreement.
+898 (b) The duties under Sections 8(a) and 9(a) may not be
+899 disclaimed by agreement. An assignor and the assignee may
+900 determine by agreement the standards measuring the fulfillment
+901 of the duties of the assignor under Section 8 and the assignee
+902 under Section 9 if the standards are not manifestly
+903 unreasonable.
+904 (c) Except as provided in Section 17(d), the assignment
+905 agreement may limit the assignee's liability under Section 17
+906 and may require the assignee be indemnified by the assignment
+907 estate.
+908 (d) Except as provided under Section 7(a), whenever
+909 this act requires an action to be taken within a reasonable
+910 time, a time not manifestly unreasonable may be fixed by
+911 agreement.
+912 (e) The assignment agreement may provide for duties of
+913 the assignee in addition to those in this act.
+914 Section 24. Uniformity of application and construction.
+915 In applying and construing the Uniform Assignment for
+916 Benefit of Creditors Act, a court shall consider the promotion
+917 of uniformity of the law among states that enact this uniform
+918 act.
+919 Section 25. Relation to electronic signatures in global
+920 and national commerce act.
+921 This act modifies, limits, or supersedes the Electronic
+922 Signatures in Global and National Commerce Act, 15 U.S.C. §
+923 7001 et seq., but does not modify, limit, or supersede 15
+924 U.S.C. § 7001(c), or authorize electronic delivery of any of
+Page 33
+
+U.S.C. § 7001(c), or authorize electronic delivery of any of
+SB15 Engrossed
+925 the notices described in 15 U.S.C. § 7003(b).
+926 Section 26. Transitional provision.
+927 This act applies to an assignment made on or after
+928 October 1, 2026.
+929 Section 27. This act shall become effective on October
+930 1, 2026.
+Page 34
+
+1, 2026.
+SB15 Engrossed
+931
+932
+933 Senate
+934 Read for the first time and referred ................13-Jan-26
+935 to the Senate committee on Fiscal
+936 Responsibility and Economic
+937 Development
+938
+939 Read for the second time and placed ................21-Jan-26
+940 on the calendar:
+941 1 amendment
+942
+943 Read for the third time and passed ................10-Feb-26
+944 as amended
+945 Yeas 32
+946 Nays 0
+947 Abstains 0
+948
+949
+950 Patrick Harris,
+951 Secretary.
+952
+Page 35

@@ -1,0 +1,289 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB167 INTRODUCED
+1 SB167
+2 SLZTI85-1
+3 By Senator Orr
+4 RFD: Finance and Taxation General Fund
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+SLZTI85-1 01/14/2026 KMS (L),cr 2026-210
+1
+2
+3
+4 SYNOPSIS:
+5 Under the Alabama Administrative Procedure Act,
+6 agency rulings in contested cases are required to be
+7 taken as prima facie just and reasonable by a reviewing
+8 court on questions of fact and the agency's
+9 interpretation of laws based on those facts.
+10 This bill would revise the standard of judicial
+11 review to provide that a court may consider, but not
+12 defer to, an agency's interpretation of law and shall
+13 favor a reasonable interpretation that limits agency
+14 power and maximizes individual liberty.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to the Alabama Administrative Procedure Act;
+22 to amend Section 41-22-20, Code of Alabama 1975; to revise the
+23 standard of judicial review of agency rulings.
+24 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+25 Section 1. Section 41-22-20 of the Code of Alabama
+26 1975, is amended to read as follows:
+27 "§41-22-20
+28 (a) A person who has exhausted all administrative
+Page 1
+
+(a) A person who has exhausted all administrative
+SB167 INTRODUCED
+29 remedies available within the agency, other than rehearing,
+30 and who is aggrieved by a final decision in a contested case
+31 is entitled to judicial review under this chapter. A
+32 preliminary, procedural, or intermediate agency action or
+33 ruling is immediately reviewable if review of the final agency
+34 decision would not provide an adequate remedy.
+35 (b) All proceedings for review may be instituted by
+36 filing of notice of appeal or review and a cost bond with the
+37 agency to cover the reasonable costs of preparing the
+38 transcript of the proceeding under review, unless waived by
+39 the agency or the court on a showing of substantial hardship.
+40 A petition shall be filed either in the Circuit Court of
+41 Montgomery County or in the circuit court of the county in
+42 which the agency maintains its headquarters, or unless
+43 otherwise specifically provided by statute, in the circuit
+44 court of the county where a party other than an intervenor,
+45 resides, or if a party, other than an intervenor, is a
+46 corporation, domestic or foreign, having a registered office
+47 or business office in this state, then in the county of the
+48 registered office or principal place of business within this
+49 state.
+50 (c) The filing of the notice of appeal or the petition
+51 does not itself stay enforcement of the agency decision. If
+52 the agency decision has the effect of suspending or revoking a
+53 license, a stay or supersedeas shall be granted as a matter of
+54 right upon such conditions as are reasonable, unless the
+55 reviewing court, upon petition of the agency, determines that
+56 a stay or supersedeas would constitute a probable danger to
+Page 2
+
+a stay or supersedeas would constitute a probable danger to
+SB167 INTRODUCED
+57 the public health, safety, or welfare. In all other cases, the
+58 agency may grant, or the reviewing court may order, a stay
+59 upon appropriate terms, but, in any event, the order shall
+60 specify the conditions upon which the stay or supersedeas is
+61 granted;, provided, however, if the appeal or proceedings for
+62 review to any reviewing court is from an order of the agency
+63 increasing or reducing or refusing to increase rates, fares,
+64 or charges, or any of them, or any schedule or parts of any
+65 schedule of rates, fares, or charges, the reviewing court
+66 shall not direct or order a supersedeas or stay of the action
+67 or order to be reviewed without requiring, as a condition
+68 precedent to the granting of such the supersedeas, that the
+69 party applying for supersedeas or stay shall execute and file
+70 with the clerk of the court a bond as provided for and
+71 required by statute or law. If the circuit court shall fail
+72 fails or refuse refuses to grant supersedeas or stay, the
+73 party seeking such relief may petition the appropriate court
+74 to which the appeal or review lies to order a supersedeas or
+75 stay of the action or order of the agency from which review is
+76 sought. After the required bond shall have has been filed and
+77 approved by the clerk, such the agency order shall be stayed
+78 and superseded, and it shall be lawful to charge the rates,
+79 fares, or charges which have been reduced, refused, or denied
+80 by the agency order, until the final disposition of the cause.
+81 The provisions of this This subsection shall apply when
+82 applicable, anything in Rule 60 of the Alabama Rules of Civil
+83 Procedure restricting the provisions of this subsection to the
+84 contrary notwithstanding.
+Page 3
+
+contrary notwithstanding.
+SB167 INTRODUCED
+85 (d) The notice of appeal or review shall be filed
+86 within 30 days after the receipt of the notice of or other
+87 service of the final decision of the agency upon the
+88 petitioner or, if a rehearing is requested under Section
+89 41-22-17, within 30 days after the receipt of the notice of or
+90 other service of the decision of the agency thereon. The
+91 petition for judicial review in the circuit court shall be
+92 filed within 30 days after the filing of the notice of appeal
+93 or review. Copies of the petition shall be served upon the
+94 agency and all parties of record. Any person aggrieved who is
+95 not a party may petition to become a party by filing a motion
+96 to intervene as provided in Section 41-22-14. Failure to file
+97 such the petition within the time stated shall operate as a
+98 waiver of the right of such the person to review under this
+99 chapter, except that for good cause shown, the judge of the
+100 reviewing court may extend the time for filing, not to exceed
+101 an additional 30 days, or, within four months after the
+102 issuance of the agency order, issue an order permitting a
+103 review of the agency decision under this chapter
+104 notwithstanding such the waiver. Any notice required herein in
+105 this subsection which is mailed by the petitioner, certified
+106 mail return receipt requested, shall be deemed to have been
+107 filed as of the date it the notice is postmarked. This section
+108 shall apply to judicial review from the final order or action
+109 of all agencies, and amends the judicial review statutes
+110 relating to all agencies to provide a period of 30 days within
+111 which to appeal or to institute judicial review.
+112 (e) If there has been no hearing prior to agency action
+Page 4
+
+(e) If there has been no hearing prior to agency action
+SB167 INTRODUCED
+113 and the reviewing court finds that the validity of the action
+114 depends upon disputed facts, the court shall order the agency
+115 to conduct a prompt fact-finding proceeding under this chapter
+116 after having a reasonable opportunity to reconsider its
+117 determination on the record of the proceedings.
+118 (f) Unreasonable delay on the part of an agency in
+119 reaching a final decision shall be justification for any
+120 person whose rights, duties, or privileges are adversely
+121 affected by such the delay to seek a court order compelling
+122 action by the agency.
+123 (g) Within 30 days after receipt of the notice of
+124 appeal or within such additional time as the court may allow,
+125 the agency shall transmit to the reviewing court the original
+126 or a certified copy of the entire record and transcript of the
+127 proceedings under review. With the permission of the court,
+128 the record of the proceedings under review may be shortened by
+129 stipulation of all parties to the review proceedings. Any
+130 party found by the reviewing court to have unreasonably
+131 refused to stipulate to limit the record may be taxed by the
+132 court for such the additional costs as may be occasioned by
+133 the refusal. The court may require or permit subsequent
+134 corrections or additions to the record when deemed desirable.
+135 (h) The petition for review shall name the agency as
+136 respondent and shall contain a concise statement of:
+137 (1) The nature of the agency action which is the
+138 subject of the petition;
+139 (2) The particular agency action appealed from;
+140 (3) The facts and law on which jurisdiction and venue
+Page 5
+
+(3) The facts and law on which jurisdiction and venue
+SB167 INTRODUCED
+141 are based;
+142 (4) The grounds on which relief is sought; and
+143 (5) The relief sought.
+144 (i) In proceedings for judicial review of agency action
+145 in a contested case, except where appeal or judicial review is
+146 by a trial de novo, a reviewing court shall not itself hear or
+147 accept any further evidence with respect to those issues of
+148 fact whose determination was entrusted by law to the agency in
+149 that contested case proceeding; provided, however, that
+150 evidence may be introduced in the reviewing court as to fraud
+151 or misconduct of some person engaged in the administration of
+152 the agency or procedural irregularities before the agency not
+153 shown in the record and the affecting order, ruling, or award
+154 from which review is sought, and proof thereon may be taken in
+155 the reviewing court. If, before the date set for hearing a
+156 petition for judicial review of agency action in a contested
+157 case, it is shown to the satisfaction of the court that
+158 additional evidence is material and that there were good
+159 reasons for failure to present it that additional evidence in
+160 the contested case proceeding before the agency, the court may
+161 remand to the agency and order that the additional evidence be
+162 taken before the agency upon conditions determined by the
+163 court. The agency may modify its findings and decision in the
+164 case by reason of the additional evidence and shall file that
+165 evidence and any modification, new findings, or decision with
+166 the reviewing court and mail copies of the new findings, or
+167 decision to all parties.
+168 (j)(1) The review shall be conducted by the court
+Page 6
+
+(j)(1) The review shall be conducted by the court
+SB167 INTRODUCED
+169 without a jury and, except as herein provided in subdivision
+170 (2), shall in the review of contested cases be confined to the
+171 record and the additions thereto as may be made under
+172 subsection (i) of this section. Judicial review shall be by
+173 trial de novo in the circuit court where review is sought from
+174 tax assessments, tax determinations, or tax redeterminations,
+175 rulings of the Revenue Department of Revenue granting,
+176 denying, or revoking licenses, or rulings on petitions for tax
+177 refunds, or, unless a subsequent agency statute provides
+178 otherwise, where an agency statute existing on the effective
+179 date of Act No. 81-855, 1981 Acts of Alabama, or thereafter
+180 enacted provides for a trial de novo on appeal to or review by
+181 the courts; provided, however,. inIn the review of tax
+182 assessments, tax determinations, or tax redeterminations,
+183 rulings of the Revenue Department of Revenue granting,
+184 denying, or revoking licenses, or rulings on petitions for tax
+185 refunds, the administrative record and transcript shall be
+186 transmitted to the reviewing court as provided in subsection
+187 (g) of this section, and, on motion of either party, shall be
+188 admitted into evidence in the trial de novo, subject to the
+189 rights of either party to assign errors, objections, or
+190 motions to exclude calling attention to any testimony or
+191 evidence in the administrative record or transcript which is
+192 deemed objectionable or inadmissible. Provided further that
+193 (2) Notwithstanding subdivision (1), with the consent
+194 of all parties, judicial review may be on the administrative
+195 record and transcript.
+196 (3) The court, upon request, shall hear oral argument
+Page 7
+
+(3) The court, upon request, shall hear oral argument
+SB167 INTRODUCED
+197 and receive written briefs.
+198 (k) Except where judicial review is by trial de novo,
+199 the agency order shall be taken as prima facie just and
+200 reasonable and the court shall not substitute its judgment for
+201 that of the agency as to the weight of the evidence on
+202 questions of fact, except where otherwise authorized by
+203 statute. The court may affirm the agency action or remand the
+204 case to the agency for taking additional testimony and
+205 evidence or for further proceedings. The court may reverse or
+206 modify the decision or grant other appropriate relief from the
+207 agency action, equitable or legal, including declaratory
+208 relief, if the court finds that the agency action is due to be
+209 set aside or modified under standards set forth in appeal or
+210 review statutes applicable to that agency or if substantial
+211 rights of the petitioner have been prejudiced because the
+212 agency action is any one or more of the following:
+213 (1) In violation of constitutional or statutory
+214 provisions;.
+215 (2) In excess of the statutory authority of the
+216 agency;.
+217 (3) In violation of any pertinent agency rule;.
+218 (4) Made upon unlawful procedure;.
+219 (5) Affected by other error of law;.
+220 (6) Clearly erroneous in view of the reliable,
+221 probative, and substantial evidence on the whole record; or.
+222 (7) Unreasonable, arbitrary, or capricious, or
+223 characterized by an abuse of discretion or a clearly
+224 unwarranted exercise of discretion.
+Page 8
+
+unwarranted exercise of discretion.
+SB167 INTRODUCED
+225 (l) During the review, when interpreting any statute or
+226 rule, the court may consider, but shall not defer to, an
+227 agency's interpretation and shall instead interpret its
+228 meaning and effect de novo. In an action brought by or against
+229 an agency, after applying all customary tools of
+230 interpretation, the court shall exercise any remaining doubt
+231 in favor of a reasonable interpretation that limits agency
+232 power and maximizes individual liberty.
+233 (l)(m) Unless the court affirms the decision of the
+234 agency, the court shall set out in writing, which writing
+235 shall become a part of the record, the reasons for its
+236 decision."
+237 Section 2. This act shall become effective on October
+238 1, 2026.
+Page 9

@@ -1,0 +1,170 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB270 INTRODUCED
+1 HB270
+2 84IN3HF-1
+3 By Representatives Clarke, Jackson, Hassell, Drummond,
+4 Lawrence, Gray, Morris, Boyd, Hall, Warren, Hollis, McClammy,
+5 Bracy, Moore (M), Ensler, Daniels, Rafferty, Lands, Travis,
+6 Hendrix, Jones, Sellers, Datcher, Givan, McCampbell, Forte,
+7 Tillman, Chestnut, England
+8 RFD: Constitution, Campaigns and Elections
+9 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+84IN3HF-1 01/12/2026 JWB (L)lg 2026-49
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the only way for an elector
+6 to vote before election day is to vote by absentee
+7 ballot, provided the elector meets one of the excuses
+8 that allows for absentee voting.
+9 This bill would provide a process for in-person
+10 early voting in general and special elections, other
+11 than municipal elections.
+12 This bill would prescribe minimum days and hours
+13 of operation of early voting centers.
+14 This bill would allow an elector, without
+15 excuse, to cast his or her vote using a paper ballot
+16 and tabulator at an early voting center.
+17 This bill would require each county commission
+18 to establish early voting center locations in the
+19 county and establish a communications plan to publish
+20 notice of early voting in the respective county.
+21 This bill would provide that staffing,
+22 reimbursement of election expenses, and election day
+23 conduct would apply to early voting.
+24 This bill would also require the Secretary of
+25 State to adopt rules to ensure the process does not
+26 permit electors to vote more than once in any election.
+27
+28
+Page 1
+
+HB270 INTRODUCED
+29 A BILL
+30 TO BE ENTITLED
+31 AN ACT
+32
+33 Relating to elections; to provide a process for early
+34 voting in certain elections; to prescribe the number,
+35 location, and hours of operation of early voting centers in
+36 each county; to authorize electors to cast a vote, without
+37 excuse, by paper ballot and tabulator at an early voting
+38 center; to provide for the conduct of early voting; and to
+39 require the Secretary of State to adopt rules.
+40 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+41 Section 1. (a) This section shall apply to all general
+42 and special elections other than municipal elections.
+43 (b) Beginning in the election cycle for the November
+44 2028 General Election, qualified electors of this state may
+45 obtain and cast an in-person ballot in advance of election
+46 day, without excuse, at an early voting center in accordance
+47 with this section.
+48 (c)(1) The early voting period shall begin the Saturday
+49 10 calendar days before election day and extend until close of
+50 business on the Thursday five days before election day. Early
+51 voting centers shall have the following hours of operation:
+52 a. On weekdays and Saturdays, early voting centers
+53 shall be open 9:00 a.m. to 5:00 p.m.
+54 b. On Sundays, early voting centers shall be open 1:00
+55 p.m. to 5:00 p.m.
+56 (2) The early voting election officials may establish
+Page 2
+
+(2) The early voting election officials may establish
+HB270 INTRODUCED
+57 hours of operation where the early voting centers are open
+58 longer than the required times under subdivision (1). Nothing
+59 in this subsection shall be construed to prohibit a county
+60 commission from establishing a greater number of hours for
+61 voting during the early voting period beyond the number of
+62 hours required by this subsection.
+63 (d)(1) Notwithstanding Section 17-8-1, Code of Alabama
+64 1975, not more than 20 nor less than 15 days before the date
+65 early voting begins pursuant to this section, the appointing
+66 board of each county shall appoint necessary early voting
+67 election officials, including at least one inspector and three
+68 clerks at each center. During the early voting period,
+69 election officials shall carry out the roles, duties, and
+70 functions prescribed by law to election officials on election
+71 day, as further provided by rules adopted by the Secretary of
+72 State. Election officials shall be compensated for their
+73 services as provided in Section 17-8-12, Code of Alabama 1975.
+74 (2) Poll watchers shall be allowed at each early voting
+75 center as provided in Section 17-8-7, Code of Alabama 1975, or
+76 as otherwise provided by law.
+77 (e)(1) Each county shall operate at least one early
+78 voting center for every 100,000 residents, according to the
+79 most recent federal decennial census. The county commission
+80 shall determine the location of each early voting center and
+81 the geographical area the center serves using the most recent
+82 federal decennial census tract and block map. The boundaries
+83 shall coincide with existing precinct boundaries. An early
+84 voting center may be located in any branch of the county
+Page 3
+
+voting center may be located in any branch of the county
+HB270 INTRODUCED
+85 courthouse or courthouse annex, a government building
+86 generally accessible to the public, or a location that is used
+87 as an election day polling place.
+88 (2) Notwithstanding subdivision (1), for any special
+89 election, the county commission, by majority vote, may reduce
+90 the number of early voting centers when the commission
+91 determines a lesser number of centers is sufficient to meet
+92 the needs of early voters.
+93 (f) The process for voting at an early voting center
+94 shall be conducted in the same manner as set forth in state
+95 law for voting in person on election day. Each early voting
+96 center shall be equipped with at least two tabulator machines
+97 with which electors may cast their paper ballot. When the time
+98 arrives for closing the early voting centers each day, all
+99 qualified voters who are waiting in line to vote shall be
+100 permitted by the election officer to cast their vote. Upon the
+101 daily closing of an early voting center, the election officers
+102 shall secure all ballots cast, the poll lists maintained at
+103 the location, and all other voting materials, whether used or
+104 unused, as provided by rules adopted by the Secretary of State
+105 as necessary to comply with state law.
+106 (g) Each county commission shall create a communication
+107 plan to inform eligible electors of the opportunity to vote
+108 early. The plan may use any media outlet, including social
+109 media and the official county website, and shall publicize the
+110 designation of voting precincts to assigned early voting
+111 centers, along with the location, date, and hours of operation
+112 of each early voting center. Each county shall provide the
+Page 4
+
+of each early voting center. Each county shall provide the
+HB270 INTRODUCED
+113 Secretary of State's Office with elector polling place
+114 information for early voting, and the Secretary of State shall
+115 integrate the early voting polling place information in its
+116 voter information poll locator website.
+117 (h) All expenses and costs incurred to comply with this
+118 section shall be reimbursed in accordance with Article 1 of
+119 Chapter 16 of Title 17, Code of Alabama 1975.
+120 (i) The Secretary of State shall adopt rules to
+121 implement this section. The rules shall include, but not be
+122 limited to, provisions that do all of the following:
+123 (1) Ensure that ballots cast early, by any method
+124 allowed under state law, are counted and canvassed as if cast
+125 on election day.
+126 (2) Ensure an efficient and fair early voting process
+127 that respects the privacy of the voter.
+128 (3) Ensure that electors who vote during the early
+129 voting period are not permitted to vote more than once in the
+130 same election.
+131 Section 2. This act shall become effective on July 1,
+132 2026.
+Page 5

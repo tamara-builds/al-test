@@ -1,0 +1,253 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB172 INTRODUCED
+1 SB172
+2 NRCBV8J-1
+3 By Senator Waggoner
+4 RFD: Judiciary
+5 First Read: 20-Jan-26
+Page 0
+
+First Read: 20-Jan-26
+NRCBV8J-1 01/14/2026 THR (L)ma 2026-274
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require app store operators to
+6 take certain actions regarding the age of account
+7 holders and to provide age signals that determine an
+8 app user's age category to developers of covered
+9 applications.
+10 This bill would require app store operators to
+11 provide account holders and the parents of account
+12 holders with certain information and tools related to
+13 age signals and age appropriateness.
+14 This bill would authorize the Attorney General
+15 to enforce violations of the bill and would provide
+16 civil penalties for violations.
+17 This bill would also limit liability for
+18 violations in certain circumstances.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to consumer protection; to establish certain
+26 requirements for developers and app store operators regarding
+27 the age of users; to authorize enforcement; to provide
+28 exemptions from liability; and to establish civil penalties.
+Page 1
+
+exemptions from liability; and to establish civil penalties.
+SB172 INTRODUCED
+29 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+30 Section 1. This act shall be known and may be cited as
+31 the Access & Responsible Digital Safety Act.
+32 Section 2. For the purposes of this act, the following
+33 terms have the following meanings:
+34 (1) ADULT. An account holder who is or is estimated to
+35 be 18 years of age or older.
+36 (2) AGE CATEGORY. Categorization of an individual based
+37 on age or estimated age, including a description of the user
+38 as a minor, adult, or being within a given age range.
+39 (3) AGE SIGNAL. A signal that indicates an account
+40 holder's age category and may include the general methods by
+41 which that information has been assured, which the account
+42 holder or the account holder's parent has agreed to share.
+43 (4) APPLICATION or APP. A software program that is
+44 designed to be run on a connected device and to perform, or to
+45 help the user perform, a specific task on the connected device
+46 and that is distributed through an app store. The term does
+47 not include websites, Internet browser extensions, or software
+48 with a primary purpose of extending the functionality of an
+49 Internet browser.
+50 (5) APP STORE. Ane application that distributes other
+51 applications from developers to users of connected devices.
+52 The term does not include Internet browsers.
+53 (6) APP STORE OPERATOR. An entity, company, or
+54 organization that owns, operates, or controls an app store.
+55 (7) CONNECTED DEVICE. A smartphone, tablet, gaming
+56 console, or virtual reality device that enables users to
+Page 2
+
+console, or virtual reality device that enables users to
+SB172 INTRODUCED
+57 connect to the Internet and download applications.
+58 (8) COVERED APPLICATION. An application that is not an
+59 app store and that is developed to provide, whether legally
+60 required or not, a different experience for adults than the
+61 experience for minors or to provide an experience that is
+62 intended only for adults. The term includes, but is not
+63 limited to, applications with different account types,
+64 content, or features, or which engage in different advertising
+65 or data practices depending on a user's age. The term does not
+66 include Internet browsers or online search engines.
+67 (9) DEVELOPER. Any individual or entity that creates,
+68 owns, or controls an application.
+69 (10) MINOR. An account holder who is or is estimated to
+70 be under 18 years of age.
+71 (11) PASSWORD. A string of characters or other secure
+72 methods used to enable, deactivate, modify, or uninstall
+73 parental supervision functionality on a device, including a
+74 pin code or passkey.
+75 Section 3. (a) An app store operator shall do all of
+76 the following:
+77 (1) Ask an account holder to declare his or her age
+78 when creating an account with the app store operator.
+79 (2) Provide developers of covered applications the
+80 technical ability to access an age signal where the account
+81 holder or the account holder's parent has agreed to the
+82 access.
+83 (3) Provide the account holder's parent or the
+84 developer of a covered application with the ability to prevent
+Page 3
+
+developer of a covered application with the ability to prevent
+SB172 INTRODUCED
+85 account holders who are not adults from acquiring or using the
+86 developer's covered application from an app store.
+87 (4) Provide the capability to developers to disclose
+88 their relevant parental controls for a covered application
+89 through a centralized product page or user interface that
+90 provides relevant information about a covered application.
+91 (5) Comply with this act regarding any covered
+92 application for which the app store operator is also the
+93 developer.
+94 (6) Refrain from using data collected from third-party
+95 covered applications in the course of compliance with this act
+96 to give the app store operator preference relative to those of
+97 third parties, or to otherwise use the data in an
+98 anti-competitive manner.
+99 (b) An app store operator may do both of the following:
+100 (1) Use commercially reasonable efforts to obtain the
+101 age category of an account holder with a reasonable level of
+102 certainty.
+103 (2) Provide an account holder with a mechanism to
+104 obtain his or her age category and the ability to request an
+105 update if an account holder believes his or her age category
+106 is incorrect.
+107 (c) An app store operator that makes a good faith
+108 effort, taking into consideration available technology, to
+109 facilitate the provision of an age signal, shall not be liable
+110 for any of the following:
+111 (1) An erroneous age signal.
+112 (2) Except where the developer and app store operator
+Page 4
+
+(2) Except where the developer and app store operator
+SB172 INTRODUCED
+113 are controlled by the same entity, any conduct by a developer
+114 of a covered application that receives an age signal.
+115 (3) Failing to provide the technical ability to access
+116 an age signal due to any reasonable technical limitations,
+117 such as outages, that prevent the provision of the age signal
+118 upon request.
+119 (4) Not providing an age signal to developers that do
+120 not adhere to reasonable safety standards and app store
+121 policies.
+122 (d)(1) Nothing in this section may be read to preclude
+123 an app store operator from using multiple commercially
+124 reasonable methods to obtain, estimate, or provide the age
+125 category of an account holder.
+126 (2) Nothing in this section may be read to restrict an
+127 app store operator's ability to satisfy this section by
+128 obtaining a minor account holder's age from the minor's
+129 parent.
+130 Section 4. (a) The developer of a covered application
+131 shall do all of the following:
+132 (1) Report to the app store operator whether the
+133 developer's applications provide a different experience for
+134 adults than for minors, or whether the developer's
+135 applications are intended only for adults.
+136 (2) Provide tools to help parents support minors using
+137 the developer's covered applications unless the application is
+138 intended only for adults and blocks minors.
+139 (3) Use commercially reasonable efforts to determine
+140 whether a user is an adult or a minor with a reasonable level
+Page 5
+
+whether a user is an adult or a minor with a reasonable level
+SB172 INTRODUCED
+141 of certainty.
+142 (4) Make a reasonable effort, proportionate to the
+143 risks, to ensure that users who are minors cannot engage in
+144 any activity that has been restricted for adults only.
+145 (5) Obtain consent prior to permitting minor account
+146 holders from accessing content or enabling features the
+147 developer has designated as unsuitable for use by minors
+148 without parental guidance or supervision.
+149 (6) Refrain from delivering advertising to minors.
+150 (b) If a developer chooses to access an age signal
+151 facilitated by an app store operator, the developer shall do
+152 all of the following:
+153 (1) Request the minimum amount of information needed
+154 for purposes of compliance with this act.
+155 (2) Refrain from willfully disregarding any information
+156 related to an individual's age or age category which is
+157 otherwise available to the developer.
+158 (3) Refrain from sharing information obtained from the
+159 age signal with third parties other than a service provider,
+160 but only if the information is necessary for the service
+161 provider to implement safety measures or privacy protections
+162 for minors, or if the developer is required by law to share
+163 the information.
+164 (4) Refrain from using an age signal for any purpose
+165 beyond that intended by this act, including, but not limited
+166 to, using an age signal to back into or attempt to back into a
+167 user's date of birth.
+168 (c) Nothing in this section may be read to require a
+Page 6
+
+(c) Nothing in this section may be read to require a
+SB172 INTRODUCED
+169 developer to determine whether a user is an adult or a minor
+170 if the developer and the app store operator are controlled by
+171 the same entity.
+172 Section 5. An app store operator or operating system
+173 provider that makes a good faith effort to comply with this
+174 act, taking into consideration available technology, shall not
+175 be liable under any provision of this act, or otherwise liable
+176 for its actions taken in attempt to comply with this act,
+177 including, but not limited to, any of the following:
+178 (1) The provision of an erroneous age signal.
+179 (2) The conduct of a developer of a covered application
+180 that receives an age signal.
+181 (3) Failing to provide an age signal due to any
+182 reasonable technical limitations or outages that prevent the
+183 provision of an age signal upon request.
+184 Section 6. (a) A developer is solely liable for
+185 correctly identifying whether the developer's applications are
+186 covered applications under this act. No app store may be
+187 required to proactively identify covered applications. An app
+188 store may not be held liable in cases where a developer
+189 provides inaccurate information about its applications.
+190 (b) The developer of a covered application shall not be
+191 liable for an erroneous age signal provided by an app store
+192 operator if the developer makes a reasonable effort, taking
+193 into consideration available technology, to properly use the
+194 age signal and carries out other age assurance, if needed, as
+195 proportionate to the risks presented to users by use of the
+196 developer's applications.
+Page 7
+
+developer's applications.
+SB172 INTRODUCED
+197 Section 7. (a) The Attorney General shall have
+198 exclusive authority to enforce the provisions of this act.
+199 (b) Nothing in this act may be read to serve as the
+200 basis for a private right of action under this act or any
+201 other law.
+202 (c) The Attorney General my initiate an action and seek
+203 a civil penalty of up to one thousand dollars ($1,000) for
+204 each violation of this act.
+205 Section 8. This act shall become effective on January
+206 1, 2027.
+Page 8

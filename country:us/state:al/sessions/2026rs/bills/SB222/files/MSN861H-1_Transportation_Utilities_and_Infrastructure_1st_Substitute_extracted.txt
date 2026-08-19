@@ -1,0 +1,647 @@
+Title: 
+Official Title: 
+Source: versions - Transportation, Utilities and Infrastructure 1st Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+MSN861H-1 03/31/2026 CMH (L)CMH 2025-2069 SUB SB222
+TRANSPORTATION, UTILITIES AND INFRASTRUCTURE SUBSTITUTE TO
+SB222
+OFFERED BY REPRESENTATIVE MARQUES
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, vehicles and combinations of
+6 vehicles, including any load on the vehicle, may not
+7 exceed a total outside width of 102 inches, with an
+8 exception for mirrors or other safety equipment.
+9 This bill would include within this exception
+10 equipment that is an integral part of an automated
+11 driving system, including sensors, cameras, and
+12 lighting equipment, provided the total outside width
+13 does not exceed 122 inches.
+14 Under existing law, the Department of
+15 Transportation may issue a permit to authorize an
+16 applicant to operate a vehicle whose weight, width,
+17 length, or height, or combination thereof, exceeds the
+18 statutory maximum limits.
+19 This bill would authorize the department to
+20 issue an oversized vehicle permit for a vehicle
+21 equipped with an automated driving system (ADS).
+22 This bill would also provide that the statutory
+23 authorization for the operation of ADS-equipped
+24 vehicles does not impose any legal duty to upgrade any
+25 part of the state or local transportation network to
+26 accommodate such ADS-equipped vehicles.
+27
+28
+Page 1
+
+29 A BILL
+30 TO BE ENTITLED
+31 AN ACT
+32
+33 Relating to motor vehicles; to amend Sections 32-9-20,
+34 32-9-29, and 32-9C-6, Code of Alabama 1975, to provide a
+35 limited exception to the width restrictions of motor vehicles
+36 for purposes of automated driving system equipment; to
+37 authorize vehicles equipped with automated driving systems to
+38 receive an oversized vehicle permit; and to further provide
+39 for the relation of ADS-equipped vehicles to other laws and
+40 requirements.
+41 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+42 Section 1. Sections 32-9-20, 32-9-29, and 32-9C-6, Code
+43 of Alabama 1975, are amended to read as follows:
+44 "§32-9-20
+45 (a) It shall be unlawful for any individual to drive or
+46 move on any highway in this state any vehicle of a size or
+47 weight except in accordance with the following:
+48 (1) HEIGHT. No vehicle, semitrailer, or trailer shall
+49 exceed in height 13 1/2 feet, including load.
+50 (2) LENGTH. No vehicle shall exceed in length 40 feet;
+51 except, that the length of a truck-semitrailer combination,
+52 semitrailers, including load, used in a truck
+53 tractor-semitrailer combination, shall not exceed 57 feet;
+54 semitrailers and trailers, including load, used in a truck
+55 tractor-semitrailer-trailer combination, shall not exceed 28
+56 1/2 feet each; and motor vehicles designed, used, or
+Page 2
+
+1/2 feet each; and motor vehicles designed, used, or
+57 maintained primarily as a mobile dwelling, office, or
+58 commercial space, commonly called motor homes, shall not
+59 exceed 45 feet. Semitrailers exceeding 53 1/2 feet shall only
+60 be operated on highways designated pursuant to Section 32-9-1
+61 and shall only be operated when the distance between the
+62 kingpin of a semitrailer and the rearmost axle or a point
+63 midway between the two rear axles, if the two rear axles are
+64 tandem axles, does not exceed 41 feet and if the semitrailer
+65 is equipped with a rear underride guard of a substantial
+66 construction consisting of a continuous lateral beam extending
+67 to within four inches of the lateral extremities of the
+68 semitrailer and located not more than 22 inches from the
+69 surface as measured with the semitrailer empty and on a level
+70 surface. For purposes of enforcement of this subdivision,
+71 lengths of semitrailers and trailers refer to the cargo
+72 carrying portion of the unit. Truck tractor units used
+73 exclusively in combinations transporting motor vehicles may
+74 directly carry a portion of the cargo, provided that the
+75 combinations are restricted to truck tractor-semitrailer
+76 combinations only and provided further that the overall length
+77 of these particular combinations shall not exceed 65 feet;
+78 except that the overall length of stinger-steered type units
+79 shall not exceed 80 feet. No truck tractor-semitrailer
+80 combination used exclusively for transporting motor vehicles
+81 shall carry any load extending more than four feet beyond the
+82 front or six feet beyond the rear of the combination. No other
+83 vehicle operated on a highway shall carry any load extending
+84 more than a total of five feet beyond both the front and rear,
+Page 3
+
+more than a total of five feet beyond both the front and rear,
+85 inclusive, of the vehicle.
+86 (3) WEIGHT.
+87 a.1. Axle Weight. The gross weight imposed on the
+88 highway by the wheels of any one axle of a vehicle shall not
+89 exceed 20,000 pounds, or other weight, if any, as may be
+90 permitted by federal law to keep the state from losing federal
+91 funds; provided, that inadequate bridges shall be posted to
+92 define load limits.
+93 2. For the purpose of this subdivision, an "axle load"
+94 shall be defined as the total load transmitted to the road by
+95 all wheels whose centers are included between two parallel
+96 transverse vertical planes 40 inches apart, extending across
+97 the full width of the vehicle.
+98 3. Vehicles and combinations of vehicles shall not
+99 operate on the Interstate Highway System of Alabama that have
+100 a weight greater than 20,000 pounds carried on any one axle,
+101 including the allowable load tolerance, or with a tandem axle
+102 weight in excess of 34,000 pounds, including the allowable
+103 load tolerance, or overall gross weight on a group of two or
+104 more consecutive axles produced by application of the
+105 following formula:
+106 W=500 (LN/(N-1) + 12N + 36)
+107 where W = overall gross weight on any group of two or
+108 more consecutive axles to the nearest 500 pounds, L = distance
+109 in feet between the extreme of any group of two or more
+110 consecutive axles, and N = number of axles in the group under
+111 consideration; except, that two consecutive sets of tandem
+112 axles may carry a gross load of 34,000 pounds each, provided
+Page 4
+
+axles may carry a gross load of 34,000 pounds each, provided
+113 the overall distance between the first and last axles of the
+114 consecutive sets of tandem axles is 36 feet or more and the
+115 overall gross weight may not exceed 80,000 pounds, including
+116 the allowable load tolerance.
+117 b. Gross Weight. Subject to the limit upon the weight
+118 imposed upon the highway through any one axle as set forth
+119 herein, the total weight with load imposed upon the highway by
+120 all the axles of a vehicle or combination of vehicles shall
+121 not exceed the gross weight given for the respective distances
+122 between the first and last axle of the vehicle or combination
+123 of vehicles, measured longitudinally to the nearest foot as
+124 set forth in the following table:
+125 COMPUTED GROSS WEIGHT TABLE
+126 For various spacings of axle groupings
+127 Distance in feet between first and last Maximum load in
+128 axles of vehicle or combination of pounds on all the
+129 vehicles axles
+130 2 axles 3 axles 4 axles 5 axles 6 axles
+131 8 or less 36,000 42,000 42,000
+132 9 38,000 42,500 42,500
+133 10 40,000 43,500 43,500
+134 11 44,000 44,000
+135 12 45,000 50,000 50,000
+136 13 45,500 50,500 50,500
+137 14 46,500 51,500 51,500
+138 15 47,000 52,000 52,000
+139 16 48,000 52,500 58,000 58,000
+Page 5
+
+16 48,000 52,500 58,000 58,000
+140 17 48,500 53,500 58,500 58,500
+141 18 49,500 54,000 59,000 59,000
+142 19 50,000 54,500 60,000 60,000
+143 20 51,000 55,500 60,500 66,000
+144 21 51,500 56,000 61,000 66,500
+145 22 52,500 56,500 61,500 67,000
+146 23 53,000 57,500 62,500 68,000
+147 24 54,000 58,000 63,000 68,500
+148 25 54,500 58,500 63,500 69,000
+149 26 56,000 59,500 64,000 69,500
+150 27 57,000 60,000 65,000 70,000
+151 28 59,000 60,500 65,500 71,000
+152 29 60,000 61,500 66,000 71,500
+153 30 62,000 66,500 72,000
+154 31 63,500 67,000 72,500
+155 32 64,500 68,000 73,500
+156 33 65,000 69,000 74,000
+157 34 65,500 70,000 74,500
+158 35 66,500 71,000 75,000
+159 36 67,000 72,000 76,000
+160 37 68,000 73,000 77,000
+161 38 69,000 74,000 78,000
+162 39 70,000 75,000 79,000
+163 40 71,000 76,000 80,000
+164 41 72,000 77,000 81,000
+165 42 73,000 78,000 82,000
+Page 6
+
+42 73,000 78,000 82,000
+166 43 74,000 79,000 83,000
+167 44 and over 75,000 80,000 84,000
+168 c. Special Permits. Except as provided by special
+169 permits, no vehicle or combination of vehicles exceeding the
+170 gross weights specified in paragraph a. or b. shall be
+171 permitted to travel on the public highways within the State of
+172 Alabama.
+173 d.1. Allowable Load Tolerance. For purposes of
+174 enforcing this subdivision, all weights less than or equal to
+175 the sum of the weight otherwise prescribed by this
+176 subdivision, plus the allowable load tolerance, shall be
+177 deemed to be in compliance with the requirements of this
+178 section and shall not constitute violations thereof. No
+179 evidence shall be admitted into evidence or considered by the
+180 trier of fact in any civil action unless the evidence
+181 proffered would tend to prove that the weight of the vehicle
+182 exceeded the amount provided in this subsection. Nothing in
+183 this paragraph shall restrict or affect the right of any
+184 defendant to place in evidence such evidence tending to prove
+185 the defendant was in compliance with this section.
+186 2. For the purposes of this subdivision, the allowable
+187 load tolerance is calculated by multiplying the weight
+188 prescribed by this subdivision by one-tenth (.10).
+189 e. Special Trucks.
+190 1. Dump trucks, dump trailers, concrete mixing trucks,
+191 fuel oil, gasoline trucks, and trucks designated and
+192 constructed for special type work or use shall not be made to
+193 conform to the axle spacing requirements of paragraph b.,
+Page 7
+
+conform to the axle spacing requirements of paragraph b.,
+194 provided that the vehicle shall be limited to a weight of
+195 20,000 pounds per axle plus the allowable load tolerance; and,
+196 provided further, that the maximum gross weight of the vehicle
+197 shall not exceed the maximum weight allowed by this section
+198 for the appropriate number of axles, irrespective of the
+199 distance between axles, plus the allowable load tolerance. All
+200 axles shall be brake equipped.
+201 2. Trucks delivering asphalt plant mix that do not
+202 exceed the maximum allowable gross weight and operate within
+203 50 miles of their home base shall not be required to conform
+204 to the requirements of paragraph a.
+205 3. Concrete mixing trucks that operate within 50 miles
+206 of their home base and do not exceed the maximum allowable
+207 gross weight shall not be required to conform to the
+208 requirements of paragraph a.
+209 4. It is a violation if a vehicle named under this
+210 paragraph travels upon bridges designated and posted by the
+211 Director of Transportation as incapable of carrying the load.
+212 f. Driver Compliance. If the driver of any vehicle can
+213 comply with the weight requirements of this section by
+214 shifting or equalizing the load on all wheels or axles and
+215 does so when requested by the proper authority, the driver
+216 shall not be held to be operating in violation of this
+217 section.
+218 g. Portable Scales.
+219 1. Portable scales may be used to enforce this section.
+220 To determine the weight of each axle, the axles of any vehicle
+221 described or commonly referred to as tandem or triaxle rigs or
+Page 8
+
+described or commonly referred to as tandem or triaxle rigs or
+222 units, that is, vehicles having two or more axles in addition
+223 to a steering axle, shall be weighed simultaneously, and the
+224 total weight so derived shall be divided by the number of
+225 axles weighed in the group to arrive at the per axle weight,
+226 except that if any one axle in the group exceeds 20,000 pounds
+227 in weight, it shall not exceed the weight of any other axle in
+228 the group by more than 50 percent.
+229 2. When portable scales are used to enforce this
+230 section and either the axle weight or the gross weight of a
+231 vehicle is determined to be in violation of this section, if
+232 the operator of the vehicle believes that the determination of
+233 a violation is based on inaccuracies of the portable scales,
+234 the operator may do either of the following:
+235 (i) Request that an enforcement officer accompany the
+236 operator and vehicle to the nearest platform scales certified
+237 by the Department of Agriculture and Industries and operated
+238 by a bonded operator within a distance of 10 highway miles to
+239 verify the accuracy of the portable scales used in determining
+240 the axle weight or gross weight of the vehicle. If the axle
+241 weights or gross weight of the vehicle is shown by the
+242 platform scales to be within the legal limits of this section,
+243 including the allowable load tolerance, the operator of the
+244 vehicle shall not be held to be in violation of this section.
+245 (ii) Proceed with the vehicle to the nearest platform
+246 scales certified by the Department of Agriculture and
+247 Industries and operated by a bonded operator within a distance
+248 of 100 highway miles to verify the accuracy of the portable
+249 scales used in determining the axle weight or gross weight of
+Page 9
+
+scales used in determining the axle weight or gross weight of
+250 the vehicle without being accompanied by an enforcement
+251 officer. If the axle weights or gross weight of the vehicle is
+252 shown by the platform scales to be within the legal limits of
+253 this section, including the allowable load tolerance, the
+254 operator of the vehicle shall not be held to be in violation
+255 of this section upon providing a copy of the platform scale
+256 weight ticket and an affidavit, to be established and provided
+257 online by the court having jurisdiction over this matter
+258 within 48 hours of being weighed by the portable scales. Upon
+259 complying with this section, no court costs, fees, or
+260 penalties shall apply.
+261 3. When using portable scales to enforce this section,
+262 not more than five vehicles may be detained at any one time,
+263 including a vehicle being weighed.
+264 h. County Highways. The governing body of a county, by
+265 appropriate resolution, may authorize limitations less than
+266 those prescribed in this section for vehicles operated upon
+267 the county highways of the county.
+268 i. Posted Roads and Bridges. The Department of
+269 Transportation may post or limit any road or bridge to weights
+270 less than those prescribed by this section. It is the
+271 legislative intent and purpose that this section be rigidly
+272 enforced by the Department of Transportation, the Alabama
+273 State Law Enforcement Agency, any other authorized law
+274 enforcement officer of this state, and any county, city, and
+275 incorporated town.
+276 j. Agricultural Commodities. Two and three axle
+277 vehicles being used exclusively for the purpose of
+Page 10
+
+vehicles being used exclusively for the purpose of
+278 transporting agricultural commodities or products to and from
+279 a farm and for agricultural purposes relating to the operation
+280 and maintenance of a farm by any farmer, custom harvester, or
+281 husbandman may not be made to conform to the axle requirements
+282 of paragraph a. or the gross weight requirements of paragraph
+283 b.
+284 (4) WIDTH. Vehicles and combinations of vehicles
+285 operating on highways shall not exceed a total outside width,
+286 including any load thereon, of 102 inches, exclusive of
+287 mirrors, automated driving system (ADS) equipment, or other
+288 safety devices approved by the Department of Transportation.
+289 No passenger vehicle shall carry any load extending beyond the
+290 line of the fenders. No vehicle hauling forest products or
+291 culvert pipe on any highway shall have a load exceeding 102
+292 inches in width. For purposes of this subdivision, ADS
+293 equipment includes equipment that is an integral part of an
+294 automated driving system, including, but not limited to,
+295 appurtenances such as sensors, cameras, and lighting
+296 equipment, provided the equipment is not used as a
+297 load-carrying device and the total outside width of the
+298 appurtenances, as measured from the outside edges of such,
+299 does not exceed 122 inches.
+300 (b)(1) Any vehicle utilizing an auxiliary power or idle
+301 reduction technology unit in order to promote reduction of
+302 fuel use and emissions because of engine idling shall be
+303 allowed an additional 400 pounds total to the gross, axle,
+304 tandem, or bridge formula weight limits defined in this
+305 section.
+Page 11
+
+section.
+306 (2) To be eligible for the exception provided in this
+307 subsection, the operator of the vehicle must provide written
+308 proof or certification of the weight of the auxiliary power
+309 unit (APU) and demonstrate or certify the idle reduction
+310 technology is fully functional at all times.
+311 (3) Written proof or certification of the weight of the
+312 APU must be available to law enforcement officers if the
+313 vehicle is found in violation of applicable weight laws. The
+314 weight allowed may not exceed 400 pounds or the actual weight
+315 proven or certified, whichever is less.
+316 (4) It is the intent of this subsection to apply at the
+317 state highway level the weight limit increase for vehicles
+318 using a functioning auxiliary power or idle reduction
+319 technology as provided in the Federal Energy Policy Act of
+320 2005.
+321 (c)(1) Any motor vehicle, if operated by an engine
+322 fueled primarily by natural gas, may exceed any vehicle weight
+323 limit, up to a maximum gross vehicle weight of 82,000 pounds,
+324 under this section by an amount that is equal to the
+325 difference between:
+326 a. The weight of the vehicle attributable to the
+327 natural gas tank and fueling system carried by that vehicle;
+328 and
+329 b. The weight of a comparable diesel tank and fueling
+330 system.
+331 (2) This subsection applies on federal interstate
+332 highways to the weight limit increases for vehicles using an
+333 EPA certified natural gas engine or an EPA approved conversion
+Page 12
+
+EPA certified natural gas engine or an EPA approved conversion
+334 unit installed on the vehicle that allows the vehicle to
+335 operate primarily on compressed natural gas or liquefied
+336 natural gas.
+337 (d) Nothing in this section shall be construed as
+338 effectuating either of the following:
+339 (1) Permitting size or weight limits on the National
+340 System of Interstate and Defense Highways in this state in
+341 excess of those permitted under 23 U.S.C. § 127. If the
+342 federal government prescribes or adopts vehicle size or weight
+343 limits greater than or less than those now prescribed by 23
+344 U.S.C. § 127 for the National System of Interstate and Defense
+345 Highways, the increased or decreased limits shall become
+346 effective on the National System of Interstate and Defense
+347 Highways in this state.
+348 (2) Denying the operation of any vehicle or combination
+349 of vehicles that could be lawfully operated upon the highways
+350 and roads of this state on January 4, 1975."
+351 "§32-9-29
+352 (a) Authorized; application; issuance; seasonal, etc.,
+353 limitations; refusal, revocation, or cancellation.
+354 (1) The Director of the State Department of
+355 Transportation or the official of the department designated by
+356 the director, upon application and for good cause being shown
+357 therefor, may issue a permit in writing authorizing the
+358 applicant to operate or move upon the state's public roads a
+359 vehicle or combination of no more than two vehicles and loads
+360 whose weight, width, length, or height, or combination
+361 thereof, exceeds the maximum limit specified by law;,
+Page 13
+
+thereof, exceeds the maximum limit specified by law;,
+362 provided, that the load transported by such vehicle or
+363 vehicles is of such nature that it is a unit whichthat cannot
+364 be readily dismantled or separated;, provided, however, that
+365 bulldozers and similar construction equipment shall not be
+366 deemed readily separable for purposes of this chapter; and
+367 further provided, that no permit shall be issued to any
+368 vehicle whose operation upon the public roads of this state
+369 threatens to unduly damage a road or any appurtenances
+370 thereto.
+371 (2) Permits may be issued on application to the
+372 department to persons, firms, or corporationsindividuals or
+373 entities. The director shall adopt reasonable rules whichthat
+374 are necessary or desirable governing the issuance of the
+375 permits; provided, that the. The rules shall not conflict with
+376 this title and other provisions of law.
+377 (3) The original copy of every permit shall be carried
+378 in the vehicle itself and shall be open to inspection by any
+379 law enforcement officer or authorized agent of the department.
+380 (4) The application for any permit shall specifically
+381 describe the type of permit applied for, as described in
+382 subsection (b), and the application for a single trip permit,
+383 in addition, shall describe the points of departure and
+384 destination.
+385 (5) The director or the official of the department
+386 designated by the director may withhold sucha permit or, if
+387 sucha permit is issued, may establish seasonal or other time
+388 limitations within which the vehicles described may be
+389 operated on the public road indicated, or may otherwise limit
+Page 14
+
+operated on the public road indicated, or may otherwise limit
+390 or prescribe conditions of operation of suchthe vehicle, when
+391 necessary to assure against undue damage to the road
+392 foundation, surfaces, or bridge structures, and may require
+393 such undertaking or other security as may be deemed necessary
+394 to compensate the state for any injury to any roadway or
+395 bridge structure.
+396 (6) For just cause, including, but not limited to,
+397 repeated and consistent past violations, the director or an
+398 official of the department designated by the director may
+399 refuse to issue, or may cancel, suspend, or revoke, the permit
+400 of an applicant or permittee.
+401 (b) Duration and limits of permits; bond or insurance
+402 requirements.
+403 (1)a. ANNUAL. The director or the official of the
+404 department designated by the director, pursuant to this
+405 section, may issue an annual permit which shall permit the
+406 vehicle or combination vehicle and load, including
+407 ADS-equipped vehicles, to be operated on the state highway
+408 system of this state for 12 months from the date the permit is
+409 issued, even though the vehicle or its load exceeds the
+410 maximum limits specified in this article;, provided, that an
+411 annual permit shall not authorize the operation of a vehicle
+412 including all enforcement tolerances:
+413 1. Whose total gross weight exceeds 150,000 pounds;,
+414 provided, that gross weights over 100,000 pounds shall require
+415 advance routing by the department;
+416 2. Whose single axle weight exceeds 22,000 pounds;
+417 3. Whose total length exceeds 75 feet;, with the
+Page 15
+
+3. Whose total length exceeds 75 feet;, with the
+418 exception of mobile homes, whose length limitations, including
+419 towing vehicle, shall be 85 feet;
+420 4. Whose total width exceeds 120 inches or whose load
+421 width exceeds 144 inches;, with the exception of mobile homes,
+422 whose width limitation shall be 168 inches;, provided, that
+423 mobile homes whose width exceeds 144 inches shall require
+424 advance route approval by the department; or
+425 5. Whose height exceeds 14 feet.
+426 A permit to operate a vehicle whichthat exceeds the
+427 statutory limits of height, weight, width, or length shall be
+428 issued only on condition of payment of an indemnity bond or
+429 proof of insurance protection for three hundred thousand
+430 dollars ($300,000.00)($300,000), the bond or insurance
+431 protection conditioned for payment to the department to be
+432 held in trust for the benefit of the owners of bridges and
+433 appurtenances thereof, traffic signals, signs, or other
+434 highway structures damaged by a vehicle operating under
+435 authority of the overheight permit. The liability under the
+436 bond or insurance certificate shall be contingent upon proof
+437 of negligence or fault on the part of the permittee, his or
+438 her agents, or operators.
+439 b. Notwithstanding paragraph a., the director, pursuant
+440 to this section, may issue an annual permit to operate a
+441 vehicle whichthat exceeds the maximum limits otherwise
+442 provided in this article for rubber-tired equipment used
+443 solely in the scope and operation of mining refractory grade
+444 bauxite. The equipment may not exceed the limits of paragraph
+445 a., except that the permit may not authorize the operation of
+Page 16
+
+a., except that the permit may not authorize the operation of
+446 a vehicle, including enforcement tolerances, which exceeds 16
+447 feet in width, exceeds 18 feet in height, or exceeds a single
+448 axle weight of 27,000 pounds. In addition, the permit may not
+449 authorize the operation of the vehicle on any bridge, over or
+450 under any overpass, or on an interstate highway. The fee for
+451 the annual permit shall be one hundred dollars ($100).
+452 (2) SINGLE TRIP. The director may issue a single trip
+453 permit, pursuant to this section, to any vehicle. Nothing in
+454 this chapter shall be construed to require the State
+455 Department of Transportation to allow the use of automated
+456 driving systems or ADS-equipped vehicles in operations
+457 requiring a single trip permit under this article.
+458 (c) Fees. The director may adopt rules concerning the
+459 issuance of permits and charge a fee for the issuance as
+460 follows:
+461 (1) ANNUAL. Charges for the issuance of annual permits
+462 shall be as follows:
+463 a. For modular homes, sectional houses, portable
+464 buildings, boats, and any vehicle or combination of vehicles,
+465 one hundred dollars ($100.00);($100), except, that a vehicle
+466 or combination of vehicles having trailer or combination of
+467 trailers with sidewalls or roof which has transported modular
+468 homes, sectional houses, and portable buildings, after
+469 depositing any load, may return unloaded to its point of
+470 origin, even though the unloaded vehicles exceed the 55-foot
+471 limitation provided for in this article, up to and including
+472 12 feet wide and 75 feet long.
+473 b. For heavy commodities or equipment, overweight,
+Page 17
+
+b. For heavy commodities or equipment, overweight,
+474 overlength, overheight, and overwidth, one hundred dollars
+475 ($100.00)($100). A tractor and trailer (low boy type), after
+476 depositing a load referred to in this subparagraph, may return
+477 to its point of origin, even though the unloaded tractor and
+478 trailer (low boy type) may exceed the 55-foot limitation
+479 provided for in this article up to and including 12 feet wide
+480 and 75 feet long.
+481 c. For mobile homes up to and including 14 feet wide
+482 and 85 feet long, including towing vehicle, one hundred
+483 dollars ($100.00)($100).
+484 (2) SINGLE TRIP. Charges for the issuance of single
+485 trip permits shall be as follows:
+486 a. Mobile homes, modular homes, sectional houses,
+487 portable buildings, and boats:
+488 1. Up to and including 12 feet wide and 75 feet long,
+489 ten dollars ($10.00)($10).
+490 2. Boats in excess of 12 feet wide, twenty dollars
+491 ($20.00)($20).
+492 3. Mobile homes, modular homes, sectional houses, and
+493 portable buildings in excess of 12 feet wide and/or 75 feet
+494 long, twenty dollars ($20.00)($20).
+495 b. Heavy commodities or equipment:
+496 1. Over on any limitations as to length, height, or
+497 width, ten dollars ($10.00)($10).
+498 2. Over on weight, as follows:
+499 PERMIT
+500 WEIGHT PERMITTED
+501 FEE
+Page 18
+
+WEIGHT PERMITTED
+FEE
+502 From 80,001 pounds up to 100,000 pounds $ 10.0010
+503 From 100,001 pounds up to 125,000
+504 30.0030
+505 pounds
+506 From 125,001 pounds up to 150,000
+507 60.0060
+508 pounds
+509 From 150,001 pounds and over 100.00100
+510 c. Miscellaneous:
+511 1. Houses, twenty dollars ($20.00)($20).
+512 2. Off-the-road equipment, ten dollars ($10.00)($10).
+513 3. Other oversized vehicles, loads, and equipment not
+514 herein specified, twenty dollars ($20.00)($20).
+515 4. Other overheight loads not herein specified, ten
+516 dollars ($10.00)($10).
+517 (d) Certain vehicles on interstate highways. Under this
+518 section, 14 feet-wide vehicles and combination vehicles and
+519 load may be issued a permit to travel the interstate highways.
+520 (e) The Director of the State Department of
+521 Transportation, by rule, may establish limits for combinations
+522 of commercial wreckers and towed disabled or abandoned
+523 vehicles that exceed the maximum height, weight, or length
+524 limitations established by law. The director may establish a
+525 permitting method for commercial wreckers and may establish a
+526 fee for any permits that are issued. The director may
+527 authorize exceptions to any permit required under this
+528 subsection or may waive any permit required under this
+529 subsection under emergency, exigent, or other extraordinary
+Page 19
+
+subsection under emergency, exigent, or other extraordinary
+530 conditions. Permits may not be issued to a personan individual
+531 or entity that is currently prohibited from operating by a
+532 federal or state agency responsible for vehicle safety. The
+533 permit authorized by this subsection shall be in addition to
+534 any registration requirements as provided for in Chapter 6 of
+535 this title and Chapter 12 of Title 40.
+536 (f) Violations of federal law, etc. No permit shall be
+537 issued under this section if the issuance of the permit would
+538 violate United States law or would cause the State of Alabama
+539 to lose federal-aid funds. Notwithstanding any provisions of
+540 any statute to the contrary, all permit fees collected in
+541 accordance with this section shall be paid to the Public Road
+542 and Bridge Fund in addition to any sums appropriated therefor
+543 to the department.
+544 (g) Farm and agricultural commodities and equipment
+545 exempt. The term "heavy commodities or equipment," as used in
+546 this section, is not intended to include farm and agricultural
+547 commodities or equipment, and such farm or agricultural
+548 commodities and equipment are exempt from the requirement of
+549 obtaining permits for movement on the state highway system of
+550 Alabama."
+551 "§32-9C-6
+552 (a) Except as otherwise provided in this chapter or in
+553 Chapter 9B and notwithstanding any other provision of law, the
+554 operation of ADS-equipped vehicles and automated driving
+555 systems is governed exclusively by this chapter.
+556 (b) No state or local entity may impose requirements,
+557 including performance standards, specific to the operation of
+Page 20
+
+including performance standards, specific to the operation of
+558 ADS-equipped vehicles, automated driving systems, or automated
+559 commercial motor vehicles as defined in Section 32-9B-1,
+560 except as specifically authorized by this chapter. Nothing in
+561 this section shall be construed to repeal or in any way modify
+562 Section 32-9-29.
+563 (c) No municipality or other local or state entity may
+564 impose a tax on, or impose requirements on, ADS-equipped
+565 vehicles or automated driving systems, where the tax or other
+566 requirement relates specifically to the operation of
+567 ADS-equipped vehicles.
+568 (d) Nothing in this chapter creates a legal duty or
+569 otherwise requires the state or any county or municipality to
+570 upgrade any part of its transportation network to accommodate
+571 the operation of ADS-equipped vehicles or automated driving
+572 systems."
+573 Section 2. This act shall become effective on October
+574 1, 2026.
+Page 21

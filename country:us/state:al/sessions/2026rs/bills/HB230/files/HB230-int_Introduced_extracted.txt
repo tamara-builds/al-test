@@ -1,0 +1,414 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB230 INTRODUCED
+1 HB230
+2 4UXPJ3R-1
+3 By Representatives Sorrells, Reynolds
+4 RFD: Ways and Means General Fund
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+4UXPJ3R-1 01/14/2026 TEW (F)TEW 2026-241
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law provides that the current
+6 supplemental privilege assessment, secondary
+7 supplemental assessment, and surcharge that are imposed
+8 on each bed in a nursing facility expire on August 31,
+9 2028.
+10 This bill would remove the sunset clause and
+11 make the current supplemental privilege assessment,
+12 secondary supplemental privilege assessment, and
+13 surcharge permanent.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to the privilege assessment for nursing homes;
+21 to amend Section 40-26B-21, as last amended by Act 2025-299,
+22 2025 Regular Session, Code of Alabama 1975; to make the
+23 supplemental privilege assessment, the secondary supplemental
+24 privilege assessment, and the surcharge permanent by removing
+25 the August 31, 2028, sunset date each place it appears; to
+26 amend Section 40-26B-26, Code of Alabama 1975, to make
+27 Medicaid reimbursement of nursing homes to be in accordance
+28 with the reimbursement methodology contained in Chapter
+Page 1
+
+with the reimbursement methodology contained in Chapter
+HB230 INTRODUCED
+29 560-X-22 of the Alabama Administrative Code in effect as of
+30 May 1, 2026.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Section 40-26B-21, as last amended by Act
+33 2025-299, 2025 Regular Session, Code of Alabama 1975, is
+34 amended to read as follows:
+35 "§40-26B-21
+36 To provide further for the availability of indigent
+37 health care, the operation of the Medicaid program, and the
+38 maintenance and expansion of medical services:
+39 (a) There is levied and shall be collected a privilege
+40 assessment on the business activities of every nursing
+41 facility in the State of Alabama. The privilege assessment
+42 imposed is in addition to all other taxes and assessments, and
+43 shall be at the annual rate of one thousand eight hundred
+44 ninety-nine dollars and ninety-six cents ($1,899.96) for each
+45 bed in the nursing facility. Beginning September 1, 2020, the
+46 privilege assessment shall be increased from one thousand
+47 eight hundred ninety-nine dollars and ninety-six cents
+48 ($1,899.96) for each bed in the nursing facility, by an
+49 addition to the privilege assessment equal to three hundred
+50 twenty-seven dollars and forty-eight cents ($327.48) per
+51 annum. The addition to the privilege assessment shall be paid
+52 in equal monthly installments and shall merge into and be a
+53 part of the privilege assessment described in this subsection.
+54 The payment to nursing facilities of the determined allowable
+55 costs in respect to the addition to the privilege assessment
+56 described in this subsection shall be included in Medicaid per
+Page 2
+
+described in this subsection shall be included in Medicaid per
+HB230 INTRODUCED
+57 diem rates for services provided commencing as of October 1,
+58 2020, and shall continue to be included in such Medicaid per
+59 diem rates in the same manner that reimbursement for the
+60 privilege assessment is included in Medicaid per diem rates.
+61 For each Medicaid nursing facility, in determining the October
+62 1, 2020 adjustment to the Medicaid per diem for the allowable
+63 costs associated with the addition to the privilege
+64 assessment, the Medicaid Agency shall divide the total
+65 addition to the privilege assessment by the total of all
+66 incurred resident days, (regardless of payor class,) reported
+67 by each nursing facility in its Medicaid cost report filed for
+68 the period then endingended June 30, 2019. Notwithstanding the
+69 foregoing, in the event that the June 30, 2019 cost report is
+70 for a period of less than one year, the resident days reported
+71 shall be annualized. After the October 1, 2020 adjustment
+72 under this subsection, the addition to the privilege
+73 assessment shall be fully merged into the privilege assessment
+74 and reimbursed in accordance with the method set forth for
+75 calculating the reimbursement for the privilege assessment. In
+76 the event that any portion of the privilege assessment paid by
+77 a facility cannot be included in the computation of Medicaid
+78 per diem rate because of the effect of any cost ceiling
+79 provision of the reimbursement methodology, the cost ceiling
+80 shall be adjusted to ensure continued treatment of the total
+81 privilege assessments as an allowable cost.
+82 (b)(1) For the periodBeginning September 1, 2010,
+83 through August 31, 2028, there is levied and shall be
+84 collected a supplemental privilege assessment on the business
+Page 3
+
+collected a supplemental privilege assessment on the business
+HB230 INTRODUCED
+85 activities of every nursing facility in the State of Alabama.
+86 The supplemental privilege assessment imposed is in addition
+87 to all other taxes and assessments, including, without
+88 limitation, the privilege taxes provided for under this
+89 article, and from September 1, 2010, through August 31, 2011,
+90 shall be at the annual rate of one thousand sixty-three
+91 dollars and eight cents ($1,063.08) for each bed in the
+92 nursing facility, and one thousand six hundred three dollars
+93 and eight cents ($1,603.08) for the periodperiods beginning of
+94 September 1, 2011, through August 31, 2028, except that
+95 beginningMay 19, 2012. Beginning with the monthly payment for
+96 the supplemental privilege assessment due beginning May 20,
+97 2012, and ending August 31, 2028, there shall be a monthly
+98 surcharge due with each monthly payment of the supplemental
+99 privilege assessment. The initial monthly surcharge shall be
+100 one hundred thirty-one dollars and twenty-five cents ($131.25)
+101 per licensed bed. Beginning with the monthly payment of the
+102 supplemental privilege assessment due on September 20, 2012,
+103 the monthly surcharge shall be reduced to forty-three dollars
+104 and seventy-five cents ($43.75) per bed, per month.
+105 (2) For the periodBeginning October 1, 2015, through
+106 August 31, 2028, there shall be collected a secondary
+107 supplemental privilege assessment on the business activities
+108 of every nursing facility in the State of Alabama. The
+109 secondary supplemental privilege assessment imposed in this
+110 subdivision is contingent upon the minimum appropriation
+111 provided in Section 2 of Act 2015-536, and is in addition to
+112 all other taxes and assessments, including, without
+Page 4
+
+all other taxes and assessments, including, without
+HB230 INTRODUCED
+113 limitation, the privilege taxes provided for under this
+114 article, and beginning October 1, 2015, shall be at the annual
+115 rate of four hundred one dollars and twenty-eight cents
+116 ($401.28) for each bed in the nursing facility, payable
+117 monthly.
+118 (c) The total privilege assessment (and the addition to
+119 the privilege assessment), supplemental privilege assessment,
+120 secondary privilege assessment, (privilege assessments) and
+121 surcharge paid by a nursing facility pursuant to this article
+122 shall be considered an allowable cost, as that term is defined
+123 in the reimbursement methodology for nursing facilities
+124 contained in Title 560 of the Alabama Administrative Code,
+125 and, to the extent permitted under applicable federal law
+126 governing the Alabama Medicaid nursing home program, the total
+127 privilege assessments paid must be included in the computation
+128 of the Medicaid per diem rate determined under the
+129 reimbursement methodology for nursing facilities contained in
+130 Title 560 of the Alabama Administrative Code. The payment to
+131 nursing facilities of the determined allowable costs in
+132 respect to the supplemental privilege assessment described in
+133 subsection (b) shall be included in Medicaid per diem rates
+134 for services provided commencing as of January 1, 2011, and
+135 shall continue to be included in such Medicaid per diem rates
+136 for a period equal to the number of months during which the
+137 supplemental assessments have been in effect. For each
+138 Medicaid nursing facility, in determining the adjustment to
+139 the Medicaid per diem for the allowable costs associated with
+140 the supplemental assessment, the Medicaid Agency shall divide
+Page 5
+
+the supplemental assessment, the Medicaid Agency shall divide
+HB230 INTRODUCED
+141 the total supplemental assessment due under subsection (b) by
+142 the total of all incurred resident days, (regardless of payor
+143 class,) reported by such nursing facility in its Medicaid cost
+144 report filed for the period then endingended June 30, 2010. To
+145 accommodate the increase in the supplemental assessment and
+146 the surcharge described in subsection (b), the agency shall
+147 use the mechanism described in this subsection to adjust each
+148 nursing facility's rate effective as of October 1, 2011,
+149 regarding the privilege assessment, and May 1, 2012, regarding
+150 the surcharge. Notwithstanding the foregoing, in the event
+151 that such cost report shall be for a period less than one
+152 year, the resident days reported shall be annualized. In the
+153 event that any portion of the privilege assessment paid by a
+154 facility cannot be included in the computation of the Medicaid
+155 per diem rate because of the effect of any cost ceiling
+156 provision of the reimbursement methodology, the cost ceiling
+157 must be adjusted to ensure continued treatment of the total
+158 privilege assessments as an allowable cost.
+159 (d) The privilege assessment rate or the supplemental
+160 privilege assessment rate or the surcharge rate shall be
+161 reduced by the department upon the advice of the Medicaid
+162 Agency if, but only if, such reduction is required to ensure
+163 that the total revenues to the State of Alabama produced by
+164 this privilege assessment or, if the supplemental privilege
+165 assessment and surcharge are in effect, the aggregate of the
+166 supplemental privilege assessment and surcharge and the
+167 privilege assessment, during any state fiscal year are less
+168 than or equal to six percent of the total revenues received by
+Page 6
+
+than or equal to six percent of the total revenues received by
+HB230 INTRODUCED
+169 the nursing facilities in the state subject to the assessment
+170 during that same fiscal year. In the event that the
+171 supplemental privilege assessment or surcharge are reduced as
+172 provided in the preceding sentence, then for each Medicaid
+173 nursing facility a corresponding reduction shall be made to
+174 the Medicaid per diem adjustment described in subsection (c)
+175 to ensure that only the amount of supplemental privilege
+176 assessment or surcharge actually paid is used in computing
+177 that Medicaid nursing facility's allowable costs.
+178 (e) The Medicaid nursing facility program shall
+179 continue to be administered directly by the Medicaid Agency
+180 during the period in which the provider assessment provided by
+181 this section is levied and collected."
+182 Section 2. Section 40-26B-26, Code of Alabama 1975, is
+183 amended to read as follows:
+184 "§40-26B-26
+185 (a) No revenues resulting from the privilege assessment
+186 established by this article and applied to increases in
+187 covered services or reimbursement levels or other enhancements
+188 of the Medicaid program shall be subject to reduction or
+189 elimination while the privilege assessment is in effect.
+190 (b) Every nursing facility participating in the
+191 Medicaid program in the State of Alabama shall be reimbursed
+192 according to the reimbursement methodology contained in
+193 Chapter 560-X-22 of the Alabama Administrative Code, as it is
+194 in effect as of May 1, 2026, which methodology is incorporated
+195 by reference herein, except that the following shall apply:
+196 (1) The ceiling for the operating cost center described
+Page 7
+
+(1) The ceiling for the operating cost center described
+HB230 INTRODUCED
+197 in Rule 560-X-22-.06(2)(a) of the Alabama Administrative Code
+198 shall be computed at the median plus five percent.
+199 (2) The ceiling for the direct patient care cost center
+200 described in Rule 560-X-22-.06(2)(b) of the Alabama
+201 Administrative Code shall be computed at the median plus 10
+202 percent, and the provider's actual allowable reported cost per
+203 patient day plus 11 percent, or the established ceiling plus
+204 11 percent, whichever is less, will be used for each
+205 provider's rate computation.
+206 (3) The Medicaid Inflation Index described in Rule
+207 560-X-22-.07 of the Alabama Administrative Code shall be
+208 computed without regard to the trend factor variance described
+209 in Rule 560-X-22-.07(4) of the Alabama Administrative Code.
+210 (4) In calculating the ceiling for the operating cost
+211 center, the direct patient care cost center or the indirect
+212 patient care cost center, any increase in that ceiling over
+213 such ceiling set in the year next preceding, shall not exceed
+214 an amount equal to the product of such ceiling for the
+215 previous year times the sum of the Medicaid Inflation Index,
+216 described in Rule 560-X-22-.07 of the Alabama Administrative
+217 Code, plus four percent.
+218 (5) In determining the reimbursement in any fiscal year
+219 to a nursing facility for certain specialized medical
+220 equipment as described in Rule 560-X-22-.14(19) of the Alabama
+221 Administrative Code, there shall be added to the daily
+222 Medicaid per diem rate computed for that fiscal year, without
+223 regard to the cost of such specialized medical equipment, an
+224 amount equal to the actual cost of such specialized medical
+Page 8
+
+amount equal to the actual cost of such specialized medical
+HB230 INTRODUCED
+225 equipment utilized for Medicaid residents during the fiscal
+226 year next preceding and divided by the actual number of
+227 Medicaid patient days incurred during that preceding fiscal
+228 year. For the purpose of this subdivision, the terms "Medicaid
+229 patient days,"", "Medicaid per diem rate,"", and "fiscal year"
+230 shall have the meanings assigned to them in Chapter 560-X-22
+231 of the Alabama Administrative Code.
+232 (6) For the period that the federal financial
+233 participation under Title XIX of the Social Security Act for
+234 certain intergovernmental transfers is available to the
+235 Alabama Medicaid program, the commissioner of the agency may
+236 pay an enhancement, not to exceed the upper limits for
+237 Medicare nursing facility payments, to rural hospital
+238 connected nursing facilities under governmental authority or
+239 control. Notwithstanding the foregoing, the enhancement shall
+240 not be limited by the provisions of Chapter 560-X-22 of the
+241 Alabama Administrative Code.
+242 (7) Notwithstanding subdivision (3), from October 1,
+243 2011, through September 30, 2014, in applying the inflation
+244 factor, zero percent shall be used to compute overall rates.
+245 (8) Beginning with the setting of Medicaid nursing
+246 facility rates based on the cost reporting period endingended
+247 June 30, 2020, the current asset value, as described in Rule
+248 560-X-22-.14(11) of the Alabama Administrative Code, for each
+249 nursing facility, after applying the July 1, 2020, rebasing as
+250 provided under Rule 560-X-22-.14(11) of the Alabama
+251 Administrative Code, used to calculate nursing facility rates,
+252 shall be recalculated by adding to each respective nursing
+Page 9
+
+shall be recalculated by adding to each respective nursing
+HB230 INTRODUCED
+253 facility's current asset value an amount equal to the product
+254 derived by multiplying the June 30, 2020, rebasing as provided
+255 under Rule 560-X-22-.14(11) of the Alabama Administrative Code
+256 by 41.03 percent%. The current asset value as adjusted herein,
+257 shall be rebased each subsequent year in accordance with Rule
+258 560-X-22.14 of the Alabama Administrative Code, and applied to
+259 calculate Medicaid nursing facility rates each subsequent cost
+260 reporting year. Notwithstanding anything to the contrary in
+261 the foregoing, for the purposes of applying the recalculated
+262 current asset value to calculate a nursing facility's Medicaid
+263 rate for the cost reporting year beginning July 1, 2020, any
+264 resulting rate increase shall be effective for services
+265 provided on or after October 1, 2020. No nursing facility
+266 Medicaid rate increase for the recalculation of current asset
+267 value described in this subdivision shall be effective for
+268 services provided prior to October 1, 2020.
+269 (9) For purposes of revising or adjusting the ceiling
+270 under Rule 560-X-22-.06(3) of the Alabama Administrative Code,
+271 once the ceiling has been established for a fiscal year, it
+272 shall be final and not subject to revision or adjustment
+273 during that year, except as provided in this subdivision. At
+274 the discretion of the agency, the ceiling may be revised or
+275 adjusted upon either the discovery of a material error or upon
+276 a determination by the commissioner that it is necessary to
+277 increase one or more of the ceilings in the event nursing
+278 facilities are unable to be reimbursed for increases in
+279 allowable costs that were required to be expended by nursing
+280 facilities to meet a nationwide or statewide public health
+Page 10
+
+facilities to meet a nationwide or statewide public health
+HB230 INTRODUCED
+281 emergency or because of a new federal or state law or
+282 regulation or a statewide uncontrollable catastrophic event
+283 affecting a majority of nursing facilities, and the resulting
+284 increase in allowable costs would not be reimbursed due to the
+285 annual ceiling increase limitation set forth in Rule
+286 560-X-22-.06(2) of the Alabama Administrative Code. Because
+287 the ceiling rate is based on information provided in the cost
+288 reports, it is to the benefit of each provider to ensure that
+289 the provider's information is correct and accurate. If obvious
+290 errors are detected during the desk audit process, providers
+291 shall be given an opportunity to submit corrected data to the
+292 agency.
+293 (c) Payments by the Medicaid program to each nursing
+294 facility for nursing home services shall be sufficient to
+295 cover the costs determined by cost reporting principles
+296 incurred by each such nursing facility in providing care in an
+297 economical and efficient manner and that is adequate to permit
+298 the provision of care and services necessary to attain or
+299 maintain the highest practicable, physical, mental, and
+300 psychosocial well-being of each resident eligible for Alabama
+301 Medicaid nursing home benefits in conformity with applicable
+302 state and federal laws, rules, and regulations and quality and
+303 safety standards.
+304 (d) Notwithstanding subsection (b), Medicaid shall be
+305 empowered to create a special reimbursement model to
+306 accommodate enhanced reimbursed care provided in dedicated
+307 ventilator units in nursing facilities that meet special
+308 physical plant requirements such as dedicated emergency power
+Page 11
+
+physical plant requirements such as dedicated emergency power
+HB230 INTRODUCED
+309 generation, through-the-wall medical gases and suction,
+310 24-hour per day staffing with trained licensed respiratory
+311 therapists, and medical direction through contract with or
+312 employment of an Alabama licensed physician who is a board
+313 certified pulmonologist.
+314 (e)(1) Notwithstanding subsection (b), the Alabama
+315 Medicaid Agency may create a quality incentive program for
+316 nursing facilities that meet certain quality measures during
+317 the scoring year. For the purpose of this subsection, the
+318 scoring year for any year is the cost reporting year beginning
+319 July 1 and ending June 30. The first scoring period shall be
+320 July 1, 2020, through June 30, 2021. The quality incentive
+321 shall be paid to nursing facilities in a lump sum on or before
+322 February 1, following the scoring period endingended the
+323 immediately prior June 30. For each scoring year, the Alabama
+324 Medicaid Agency shall establish a quality incentive fund of
+325 not less than five-million dollars ($5,000,000), from which
+326 quality incentive awards will be awarded and paid to those
+327 nursing facilities qualifying for a quality incentive award.
+328 Quality incentive scoring for each scoring period shall be
+329 determined from certain measures selected by the Alabama
+330 Medicaid Agency from both of the following:
+331 a. Five of the MDS Quality Measures compiled by the
+332 Centers for Medicare and Medicaid Services (CMS), Department
+333 of Health and Human Services.
+334 b. Three of customer satisfaction survey categories
+335 that are independently gathered and prepared by NRC Health, or
+336 another nationally recognized satisfaction survey company with
+Page 12
+
+another nationally recognized satisfaction survey company with
+HB230 INTRODUCED
+337 experience in the long- term care field.
+338 (2) The Alabama Medicaid Agency shall determine the
+339 manner that scoring points are awarded, provided that to be
+340 eligible to earn points for any category, a nursing facility
+341 must do either of the following:
+342 a. Show improvement in that category during the current
+343 scoring period over the most recent prior scoring period.
+344 b. Rank for that category at or above the established
+345 national average."
+346 Section 3. This act shall become effective on June 1,
+347 2026.
+Page 13

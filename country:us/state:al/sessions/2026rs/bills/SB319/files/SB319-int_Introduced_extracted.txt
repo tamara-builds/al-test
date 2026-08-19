@@ -1,0 +1,1002 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB319 INTRODUCED
+1 SB319
+2 SLE9B77-1
+3 By Senator Weaver (N & P)
+4 RFD: Shelby County Legislation
+5 First Read: 24-Feb-26
+Page 0
+
+First Read: 24-Feb-26
+SLE9B77-1 02/20/2026 THR (L)ma 2026-998
+1
+2
+3
+4 A BILL
+5 TO BE ENTITLED
+6 AN ACT
+7
+8
+9 Relating to Shelby County; to establish a civil service
+10 system in the City of Helena; to provide for the board; to
+11 provide for the appointment of a director; to provide for the
+12 establishment of policies; to provide for an appeals process;
+13 and to repeal Act 92-201, 1992 Regular Session (Acts 1992, p.
+14 442), relating to the civil service system of the City of
+15 Helena.
+16 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+17 Section 1. This act shall be known and may be cited as
+18 the City of Helena Civil Service System Act.
+19 Section 2. For the purposes of this act, the following
+20 terms have the following meanings:
+21 (1) APPOINTING AUTHORITY. The mayor, city council, or
+22 any employee of the city duly authorized to make appointments
+23 to the regular service by virtue of his or her supervisory
+24 capacity.
+25 (2) CERTIFICATION. A submission of names of eligibles
+26 from a reemployment list, promotion list, or eligible register
+27 to any appointing authority for the purpose of filling a
+28 position in the classified service.
+Page 1
+
+position in the classified service.
+SB319 INTRODUCED
+29 (3) CITY. The City of Helena.
+30 (4) CLASS. A group of positions in the regular service
+31 sufficiently similar in respect to the duties,
+32 responsibilities, and authority that the same descriptive
+33 title may be used to identify all positions allocated to the
+34 class; that the same requirements as to education, experience,
+35 capacity, knowledge, proficiency, ability, and other
+36 qualifications should be required of the incumbents; that the
+37 same tests of fitness may be used to choose qualified
+38 employees; and that the same schedule of compensation can be
+39 made to apply with equity.
+40 (5) CLASSIFICATION. The assigning of a position to the
+41 appropriate class in accordance with its duties,
+42 responsibilities, and authority.
+43 (6) CLASSIFIED SERVICE. Any employment position in the
+44 city, whether regular, probationary, temporary, or exempt, for
+45 which a position of employment exists and the salary and
+46 benefits are determined by the appointing authority.
+47 (7) COUNCIL. City Council of the City of Helena.
+48 (8) DEMOTION. Any disciplinary or other action that
+49 reduces the pay grade or pay step of a nonexempt employee in
+50 the regular service.
+51 (9) DEPARTMENT HEAD. Any individual who provides
+52 administrative and supervisory work in directing all
+53 activities and employees of a city department.
+54 (10) DIRECTOR. The personnel director appointed by the
+55 mayor or the company contracted by the mayor to perform
+56 personnel services.
+Page 2
+
+personnel services.
+SB319 INTRODUCED
+57 (11) ELIGIBLE. An individual whose name is on a
+58 reemployment list, a promotion list, or an eligible register.
+59 (12) ELIGIBLE REGISTER. A record containing names,
+60 listed and ranked in order of their final earned average from
+61 the highest to the lowest, of those individuals who have
+62 successfully completed prescribed tests and are qualified for
+63 original appointment to positions in the class for which the
+64 test was held.
+65 (13) MAYOR. The individual elected or appointed to the
+66 official position of mayor of the city.
+67 (14) OPEN-COMPETITIVE. The process of seeking qualified
+68 candidates for a regular position from any qualified
+69 individual including taking applications from the general
+70 public and other employees in the regular service not
+71 otherwise in the department for which the position exists.
+72 (15) PAY GRADE. The specific pay range set forth in the
+73 pay plan for a classification.
+74 (16) PAY STEP. The specific pay rate within a pay range
+75 as set forth in the pay plan.
+76 (17) PERSONNEL BOARD. The board created by this act.
+77 (18) POSITION. Any job or set of duties in the regular
+78 service requiring the full-time employment of one individual
+79 in the performances and exercises of the job or duties.
+80 (19) PROBATIONARY EMPLOYEE. An employee appointed to a
+81 regular position from a reemployment list, promotion list, or
+82 eligible register who has not completed his or her
+83 probationary period.
+84 (20) PROMOTION. An advancement from one class to
+Page 3
+
+(20) PROMOTION. An advancement from one class to
+SB319 INTRODUCED
+85 another related occupational class with increased duties or
+86 responsibilities, or both, and for which a higher rate of pay
+87 is prescribed.
+88 (21) PUBLIC HEARING. A meeting of the board, open to
+89 the public, at which any resident, taxpayer, or party at
+90 interest may appear and may be heard.
+91 (22) PUBLIC NOTICE. A written notice placed upon the
+92 bulletin board maintained at or near the entrance to the
+93 offices of the city clerk in a place accessible to the public
+94 during business hours.
+95 (23) PUBLIC RECORD. A record which the public has the
+96 right to inspect in a reasonable manner during ordinary
+97 business hours.
+98 (24) QUALIFICATIONS. The minimum experience,
+99 educational, physical, and personal requirements determining
+100 the eligibility of an applicant for examination.
+101 (25) REEMPLOYMENT LIST. A list containing the names of
+102 individuals who have occupied, and have been separated from,
+103 regular positions in the classified service and who are
+104 entitled to preference in appointment to vacancies in
+105 positions.
+106 (26) REGULAR EMPLOYEE. An employee who was appointed
+107 under this act to a regular classified position and who has
+108 completed his or her probationary period, the hours of work of
+109 which shall be fixed by the appointing authority with due
+110 regard to the convenience of the public, and to working hours
+111 customarily observed in the community.
+112 (27) REGULAR POSITION. Any position in the regular
+Page 4
+
+(27) REGULAR POSITION. Any position in the regular
+SB319 INTRODUCED
+113 service which has required or which is likely to require the
+114 full-time services of an individual without interruption for a
+115 period of more than six months.
+116 (28) SEASONAL POSITION. Any position in the classified
+117 service which requires or is likely to require the services of
+118 an incumbent during certain parts of each year, only at
+119 recurring annual or other periods.
+120 (29) SERIES. A subdivision of a group consisting of two
+121 or more classes of positions, similar as to line of work but
+122 differing in responsibility or difficulty, which constitutes
+123 steps in a normal line of promotion.
+124 (30) SPECIFICATIONS. A formal statement descriptive of
+125 a position that contains all of the following:
+126 a. The title and class.
+127 b. A description of the duties or responsibilities of
+128 the position.
+129 c. The minimum qualifications required of applicants as
+130 to education, experience, physical ability, or other
+131 attributes.
+132 (31) TEMPORARY POSITION. Any employment position in the
+133 city which is not regular, but which requires or is likely to
+134 require the services for a set period of time not to exceed 12
+135 months.
+136 (32) TEST. A written or oral examination, or both, or
+137 other methods established as herein provided to determine the
+138 merit, efficiency, or general fitness of applicants for
+139 positions.
+140 (33) TITLE. The term used to designate all employment
+Page 5
+
+(33) TITLE. The term used to designate all employment
+SB319 INTRODUCED
+141 by class and grade and shall be descriptive of the duties of
+142 the position.
+143 Section 3. (a) There is created a personnel board for
+144 the City of Helena which shall be comprised of the following
+145 members:
+146 (1) Member One, elected by the employees of the regular
+147 service.
+148 (2) Member Two, appointed by the mayor and city
+149 council.
+150 (3) Member Three, selected by Member One and Member
+151 Two.
+152 (b) Member One shall serve an initial term of four
+153 years. Member Two shall serve an initial term of three years.
+154 Member Three shall serve an initial term of two years. The
+155 subsequent terms of all members shall be four years. A vacancy
+156 in any board position shall be filled in the same manner as
+157 the initial selections.
+158 (c) In order to be selected to serve on the board, or
+159 to continue to serve on the board, an individual must meet all
+160 of the following qualifications:
+161 (1) Is a qualified elector of the city.
+162 (2) Has not held public office, been a candidate for
+163 public office, or held office with a political party in the
+164 previous three years.
+165 (3) Is not an employee of the city or the relative or
+166 domestic partner of an employee of the city.
+167 Section 4. The board shall do all of the following:
+168 (1) Meet in regular session at least semiannually.
+Page 6
+
+(1) Meet in regular session at least semiannually.
+SB319 INTRODUCED
+169 (2) Adopt board policies, rules, and regulations.
+170 (3) Hear and render decisions in appeals of
+171 disciplinary and related matters.
+172 (4) Transact any other business within the purview of
+173 the board.
+174 Section 5. (a) The mayor may appoint a personnel
+175 director.
+176 (b) The personnel director shall carry out the policies
+177 established by the board.
+178 (c) The personnel director may be suspended or
+179 terminated by the mayor for cause, subject to a right of
+180 appeal directly to the board.
+181 (d) Any regular employee may file a complaint against
+182 the personnel director directly to the mayor.
+183 (e) The personnel director shall do all of the
+184 following:
+185 (1) Serve as secretary of the board.
+186 (2) Prepare any policies, rules, or regulations for the
+187 approval of the board.
+188 (3) Coordinate with the city regarding this act.
+189 (4) Report findings and recommendations of the board to
+190 the city.
+191 (5) Administer oaths, issue subpoenas, demand the
+192 attendance of witnesses, and compel the production of records,
+193 documents, and papers in connection with investigations,
+194 hearings, or inquiries.
+195 (6) Study the organization, operation, and workforce
+196 requirements of the city's departments.
+Page 7
+
+requirements of the city's departments.
+SB319 INTRODUCED
+197 (7) Make recommendations to the board.
+198 (8) Maintain an official roster of all positions in the
+199 city.
+200 (9) Maintain a record of all personnel transactions in
+201 the city.
+202 (10) Promote and assist in the establishment of
+203 programs for employee pensions, welfare, health care, and
+204 career development.
+205 (11) Work with departments to maintain employee and
+206 retiree files, including tax and benefit elections, resumes,
+207 disciplinary actions, responses, applications, and copies of
+208 certifications and training.
+209 (12) Work with departments to counsel employees on
+210 their rights under this act and city policy.
+211 (f) The mayor may contract with a human resources
+212 company to carry out the duties of the personnel director.
+213 Section 6. On June 1, 2026, all employees holding
+214 regular full-time positions in the service of the city shall
+215 continue in their regular status in the classified service as
+216 provided in this section, unless the position to which they
+217 are appointed or elected is otherwise exempted by this act.
+218 The service shall be divided into the following two
+219 categories:
+220 (1) A regular service comprised of all employees and
+221 appointees holding regular full-time positions in the service
+222 of the city. Employees occupying these positions shall be in
+223 the classified service unless specifically exempted under this
+224 act.
+Page 8
+
+act.
+SB319 INTRODUCED
+225 (2) An exempt service comprised of all of the
+226 following:
+227 a. Part-time employees.
+228 b. Individuals engaged in teaching or in supervision
+229 teaching in the public schools who work for the city.
+230 c. Officials elected by popular general vote.
+231 d. The city clerk, city treasurer, or the city
+232 clerk-treasurer elected pursuant to Section 11-43-3, Code of
+233 Alabama 1975.
+234 e. The police chief or fire chief elected pursuant to
+235 Section 11-43-5, Code of Alabama 1975.
+236 f. Any city manager appointed pursuant to Section
+237 11-43-20, Code of Alabama 1975. Nothing in this paragraph
+238 shall require the appointment of a city manager.
+239 g. Any other individual appointed or elected pursuant
+240 to Section 11-43-3 or 11-43-5, Code of Alabama 1975, to the
+241 extent of an individual's official designation as a statutory
+242 official within the city.
+243 h. The judge of any court.
+244 i. The city attorney.
+245 j. The city prosecutor.
+246 k. The administrative assistant to the mayor.
+247 l. The director of personnel.
+248 m. Individuals serving in long-term positions funded or
+249 partially funded by state or federal grant funds.
+250 n. Common laborers, seasonal employees, and temporary
+251 employees as determined by the city.
+252 o. Part-time members of boards.
+Page 9
+
+o. Part-time members of boards.
+SB319 INTRODUCED
+253 p. Attorneys, physicians, surgeons, and dentists, who,
+254 with permission of the appointing authority of the city,
+255 engage in outside similar employment.
+256 Section 7. (a) The classification plan shall provide a
+257 complete inventory of all employee positions in the service of
+258 the city and an accurate description of and specifications for
+259 each class of work, including all other employee positions in
+260 the city for which salary and benefits are set out by the
+261 city, with the exception of the city council and mayor. The
+262 plan shall standardize titles so that each is indicative of a
+263 definite range of duties and responsibilities and has the same
+264 meaning throughout the service and shall show whether the
+265 position is deemed a regular or exempt position.
+266 (b) The classification plan shall consist of the
+267 following:
+268 (1) A grouping in classes of positions which are
+269 approximately equal in difficulty and responsibility, call for
+270 the same general qualifications, and can be equitably
+271 compensated within the same range of pay under similar working
+272 conditions.
+273 (2) Class titles that are descriptive of the work of
+274 the class and identify the class. These class titles shall be
+275 used in all personnel, accounting, budget, and related
+276 records. No person shall be appointed to or employed in a
+277 position in the classified service under a title not included
+278 in the classification plan. Working titles may be used in the
+279 course of departmental routine to indicate authority, status
+280 in the organization, or administrative rank.
+Page 10
+
+in the organization, or administrative rank.
+SB319 INTRODUCED
+281 (3) Job descriptions for each position. The
+282 descriptions shall first be recommended by the director or
+283 department head with approval by the mayor. The written
+284 specifications for each position shall include all of the
+285 following:
+286 a. A title which is descriptive and consistent with
+287 other titles in the plan.
+288 b. A brief overall description of the kind and level of
+289 work.
+290 c. Examples of typical duties performed in positions in
+291 the class.
+292 d. Qualification requirements setting forth the
+293 necessary experience, education, certifications, physical
+294 endurance, physical fitness level, or other requirements.
+295 e. The required knowledge, skills, and abilities needed
+296 in order to perform the work, the pay grade associated with
+297 the position, and the supervision of the position.
+298 (4) An allocation list showing the class title of each
+299 position in the regular service as identified by the name of
+300 the occupant.
+301 (c) The classification plan shall be used as follows:
+302 (1) As a guide in recruiting and examining candidates
+303 for employment.
+304 (2) For determining lines of promotion and in
+305 developing employee training programs.
+306 (3) For determining salaries to be paid for various
+307 types of work based on wage surveys and job analysis.
+308 (4) For determining personnel service items in
+Page 11
+
+(4) For determining personnel service items in
+SB319 INTRODUCED
+309 departmental budgets.
+310 (5) For providing job terminology understandable by all
+311 officials, employees, and the general public.
+312 (d) The council, by resolution, shall prepare or direct
+313 the preparation of the classification plan, as needed, from
+314 time to time. When the plan is completed and adopted, the
+315 director shall submit to each department head a copy of the
+316 class specifications for each position class and a list
+317 allocating the positions to the tentative position classes.
+318 Each department head shall notify employees about the
+319 allocation of their respective positions. The director shall
+320 make a copy of the class specification and individual
+321 allocation available to each employee or his or her
+322 representative on request.
+323 (e) The director shall maintain the classification plan
+324 to reflect the duties performed by each employee in the
+325 classified service and the class to which each position is
+326 allocated.
+327 (f) The director shall do all of the following:
+328 (1) Recommend to the mayor and city council the
+329 establishment of new position classes and the deletion or
+330 revision of existing classes.
+331 (2) Review the duties and responsibilities of each new
+332 position established and allocate the position to the
+333 appropriate position class.
+334 (3) Periodically study positions to determine if
+335 changes in duties and responsibilities are necessary and
+336 recommend reallocation or reclassification of positions. A
+Page 12
+
+recommend reallocation or reclassification of positions. A
+SB319 INTRODUCED
+337 classification study may be made at the request of the mayor
+338 or city council. A change in duty assignments of a current
+339 employee may occur only after the employee has been performing
+340 the duties for a sufficient duration to warrant investigation,
+341 and a change in the employee's duty assignment may not be
+342 temporary in nature.
+343 (4) Direct the grading and classifying of all positions
+344 in the classified service at least once every five years.
+345 (g) When a position is reallocated to another position
+346 class, the method of filing the position shall be determined
+347 under this act regarding transfers, demotions, or promotions
+348 as may be appropriate.
+349 (h) The mayor may recommend to the city council the
+350 elimination or modification of approved job descriptions and
+351 positions in the classification plan, together with any pay
+352 grade recommendations associated with the position. Upon
+353 approval by the council, any nonexempt regular employee
+354 currently serving in a position being eliminated or modified,
+355 where the change would result in the employee's termination or
+356 demotion, shall have all rights of appeal afforded to
+357 employees solely as to the question of whether the elimination
+358 or modification was arbitrary and capricious. In the event a
+359 modification of a nonexempt employee position results in
+360 additional duties, the affected employee may request, in
+361 writing, a pay grade review by the council, and the council
+362 may modify the pay grade classification.
+363 Section 8. (a) The city, after recommendation of the
+364 mayor and resolution of the council, shall adopt rules,
+Page 13
+
+mayor and resolution of the council, shall adopt rules,
+SB319 INTRODUCED
+365 polices, and procedures for employees compiled in an employee
+366 handbook, which may be amended from time to time. At a
+367 minimum, the handbook shall contain policies and procedures
+368 covering all of the following subjects, and shall be
+369 consistent with this act and all other state or federal laws:
+370 (1) The accrual and use of sick leave by employees.
+371 However, the sick leave of any employee in the regular service
+372 already accrued as of the effective date of this act may not
+373 be diminished.
+374 (2) Overtime and compensation. However, the overtime
+375 and compensation of any employee in the regular service
+376 already accrued as of the effective date of this act may not
+377 be diminished.
+378 (3) The accrual and use of vacation time. However, the
+379 vacation time of any employee in the regular service already
+380 accrued as of the effective date of this act may not be
+381 diminished.
+382 (4) Military leave of absence, including temporary
+383 leave for National Guard and armed forces reserve training.
+384 (5) Summonses for jury duty or as a witness in court.
+385 (6) Periods of permitted absence without leave.
+386 (7) Employment outside of the regular service and
+387 related conflicts of interest.
+388 (8) Open position posting, applicant recruitment,
+389 applicant testing, and eligibility determination.
+390 (9) Resignation and retirement from the regular
+391 service.
+392 (10) Annual and intermittent reviews of employee
+Page 14
+
+(10) Annual and intermittent reviews of employee
+SB319 INTRODUCED
+393 performance.
+394 (11) Loss of required certifications and other
+395 requirements for continued performance in the class.
+396 (12) Reporting conflicts of interest.
+397 (13) Handling of grievances between and among employees
+398 that do not rise to the level of disciplinary actions.
+399 (14) The proper certification of payroll so that
+400 payroll compensation is timely and accurately kept.
+401 (15) Layoffs, reductions in force, and reinstatements.
+402 (16) Disciplinary causes and actions for employees in
+403 the public service.
+404 (b) The city may impose disciplinary action on any
+405 employee who violates the rules, regulations, or codes of
+406 conduct adopted by the city.
+407 (c) Nothing in this act shall prohibit the police,
+408 fire, and other applicable departments from instituting
+409 standard operating procedures, rules, and regulations for
+410 departmental operations enforceable upon employees in that
+411 department that are in addition to and not otherwise
+412 inconsistent with the rules, policies, and procedures of the
+413 city. The city may impose disciplinary action for violations.
+414 Section 9. (a) The council, with the aid of the
+415 director, mayor, and other city personnel the council deems
+416 necessary, by resolution, shall adopt a pay plan as the basis
+417 of compensation for employees in the service of the city. The
+418 plan shall be constructed to provide fair compensation for all
+419 classes in the classification plan with due regard to all of
+420 the following factors:
+Page 15
+
+the following factors:
+SB319 INTRODUCED
+421 (1) Varying degrees of difficulty and responsibility
+422 among the several classes of work.
+423 (2) Prevailing rates of pay and fringe benefits for
+424 similar employment in private establishments and other public
+425 jurisdictions in the area.
+426 (3) Recruiting experience for the several classes of
+427 work.
+428 (4) Financial conditions of the city.
+429 (b) The pay plan adopted by the council shall contain
+430 all of the following information:
+431 (1) Special and specific provisions for administering
+432 the plan.
+433 (2) A basic salary grade for each position class in the
+434 classification plan.
+435 (3) A basic salary schedule containing the minimum
+436 rate, maximum rate, and intermediate rate of pay for each
+437 salary grade, and a conversion of rates for basis of payment.
+438 (4) The basis of pay indicating the number of weekly
+439 work hours in general application to the classified service or
+440 exceptions.
+441 (c) Upon final adoption by the council, the plan shall
+442 be disseminated to all employees by the director. The plan
+443 shall become effective within 30 days after its adoption by
+444 the council.
+445 (d) The pay plan shall be amended in accordance with
+446 the following procedures:
+447 (1) When the mayor and council, by resolution, add a
+448 new position to the classification plan and fix the salary
+Page 16
+
+new position to the classification plan and fix the salary
+SB319 INTRODUCED
+449 grade, the job description shall assign the position to the
+450 appropriate pay grade.
+451 (2) In the case of a proposed pay plan amendment
+452 directly affecting the pay of more than three regular
+453 employees, prior to amending the pay plan, the mayor and the
+454 council shall provide an opportunity for employees to present
+455 their views.
+456 (e) The council, by resolution, shall fix the holidays
+457 that employees shall observe. Employees on non-pay status,
+458 such as a leave of absence or on paid military leave, shall
+459 not earn additional time for holidays. All regular employees
+460 of the city shall receive the same number of holidays.
+461 Employees who are required to work on an observed holiday
+462 shall be compensated in accordance with this act and federal
+463 law.
+464 (f) Any pay plan previously adopted by the city on the
+465 effective date of this act shall remain in force and effect
+466 until and unless amended or replaced as provided in this
+467 section.
+468 (g) Each employee in the regular service shall be paid
+469 at a rate set forth in the pay plan for the classification in
+470 which he or she serves, in accordance with the following
+471 provisions for administering the pay plan:
+472 (1) New appointments to the regular service shall be
+473 made at the beginning rate of the salary range for the
+474 classification to which the appointment is made, unless in the
+475 discretion of the appointing authority circumstances, skills,
+476 or experience dictate a different rate.
+Page 17
+
+or experience dictate a different rate.
+SB319 INTRODUCED
+477 (2) Salary advancement within established salary ranges
+478 shall be based on meritorious performance on the job as set
+479 out in the employee handbook and shall be in accordance with
+480 the provisions for administering the pay plan. An efficiency
+481 rating reflecting satisfactory performance shall be required
+482 for advancement. An employee with continued satisfactory
+483 service shall be eligible for future annual increases until
+484 such time as the maximum rate for the range is reached.
+485 (3) In the event a regular employee is promoted,
+486 transferred, or demoted, his or her rate of pay for the new
+487 position shall be determined as follows:
+488 a. Upon promotion, the employee's regular base pay
+489 shall determine the new rate in the promotional class. The new
+490 rate shall be the larger of either of the following:
+491 1. A one step increase above the former rate.
+492 2. The entrance rate for the promotional class.
+493 3. A different rate within the salary range at the
+494 discretion of the appointing authority when circumstances,
+495 skills, or experience dictate a different rate.
+496 b. When an employee is demoted, compensation shall be
+497 reduced to the salary prescribed for the class or grade to
+498 which the employee is demoted, or the step rate reduced if the
+499 employee remains in the position. In no event shall the pay
+500 grade exceed the maximum approved rate of the new
+501 classification.
+502 c. When an employee is transferred from one department
+503 to another, the step in the pay range shall be in accord with
+504 the approved job description of the position to be occupied by
+Page 18
+
+the approved job description of the position to be occupied by
+SB319 INTRODUCED
+505 the employee. All transfers shall be approved by the
+506 appointing authority.
+507 (h) In the event the rate of pay of a supervisor is
+508 less than or equal to the base rate of pay of subordinates
+509 directly supervised in lower related classes, the rate of the
+510 supervisor may be advanced in grade by the council.
+511 Section 10. (a) Vacancies and newly created positions
+512 in the regular service shall be filled by open-competitive,
+513 transfer, promotion, appointment, reappointment, or demotion
+514 as determined by the appointing authority.
+515 (b) When a vacancy exists for a regular position that
+516 is not otherwise exempt from this act, the appointing
+517 authority shall inform the director of the vacancy and whether
+518 the position is a promotional or open position. The director
+519 shall then certify to the appointing authority eligibles from
+520 the appropriate list in the manner and pursuant to the
+521 procedures as set forth in the employee handbook. The
+522 appointing authority shall then make an appointment from the
+523 names certified to him or her.
+524 (c) The procedure for appointments to the regular
+525 service shall be as follows:
+526 (1) An appointment to a full-time regularly budgeted
+527 position made from a certified eligible register shall be for
+528 a probationary period. The probationary period shall be an
+529 integral part of the examination process and shall be utilized
+530 to evaluate the employee's performance on the job and for
+531 dismissing any employee who does not meet the required
+532 standards of performance. The probationary period shall be one
+Page 19
+
+standards of performance. The probationary period shall be one
+SB319 INTRODUCED
+533 year from the date of appointment with no interruptions in
+534 service.
+535 (2) An employee in probationary status may be
+536 discharged without the right of appeal.
+537 (3) A promotional probationer who is demoted for
+538 unsatisfactory service may return to the position held prior
+539 to appointment, if still vacant, without right of appeal. In
+540 the event the position is filled, the mayor shall determine
+541 the manner in which the employee shall be retained in the
+542 service, being closely guided by the provisions governing
+543 layoffs and reductions in force. The demoted employee may
+544 elect to separate from the service and have his or her name
+545 retained on the layoff list for the classification of the
+546 former position for a period not to exceed two years.
+547 (d) Employment of an eligible from an eligible register
+548 in a full-time regularly budgeted position, after the
+549 satisfactory completion of a probationary period, shall be a
+550 regular appointment, for which the suspension, demotion, or
+551 termination shall be subject to all rights of appeal as set
+552 forth in this act.
+553 (e) In the absence of an eligible register, or until a
+554 register is available, the mayor, for urgent need, may
+555 authorize the filling of a vacancy by provisional appointment.
+556 Any candidate for provisional appointment shall meet
+557 educational, experience, and related requirements set by the
+558 appointing authority. Provisional appointment shall be for a
+559 period of not more than nine months. Any provisional employee
+560 failing to qualify by examination shall be separated from the
+Page 20
+
+failing to qualify by examination shall be separated from the
+SB319 INTRODUCED
+561 position after the appropriate eligible register is certified
+562 and the replacement appointed or earlier at the direction of
+563 the mayor. The provisional appointment of an individual shall
+564 not confer on the appointee any rights of status, appeal, or
+565 related rights set forth in this act.
+566 (f) No officer or employee of any department of the
+567 city shall make or approve any payment for personal services
+568 to any individual holding a position in the regular service
+569 not otherwise exempt from this act unless the position was
+570 filled from a certified list of eligibles approved by the
+571 director. The director may refuse to certify the payroll,
+572 voucher, or account of any ineligible individual found to be
+573 performing the duties of a position.
+574 (g) The appointing authority shall not be bound by the
+575 list of eligibles to fill any vacancy set forth for positions
+576 in the exempt service. Further, an appointment to the exempt
+577 service shall not confer any right of status, appeal, or any
+578 related right under this act.
+579 (h) Vacancies in positions above the lowest rank in any
+580 category in the classified service shall be filled as far as
+581 practicable by the promotion of employees in the service
+582 unless otherwise determined by the appointing authority. In
+583 each case, the appointing authority shall determine whether an
+584 open-competitive or promotional examination will serve the
+585 best interests of the service in attracting well-qualified
+586 candidates. Promotions in every case must involve a definite
+587 increase in duties and responsibility. The change of an
+588 employee from a position in a class to a position in another
+Page 21
+
+employee from a position in a class to a position in another
+SB319 INTRODUCED
+589 related occupational class for which the maximum rate is
+590 higher shall be deemed a promotion.
+591 (i) An employee may be demoted to a position of a lower
+592 grade or pay for which he or she is qualified for any of the
+593 following reasons:
+594 (1) The employee would otherwise be laid off because
+595 the position is being abolished or reclassified to a different
+596 grade, there is a lack of work or funds, or another employee
+597 returns to the position from an authorized leave.
+598 (2) The employee does not possess the necessary
+599 qualifications to render satisfactory service in the position.
+600 (3) The employee is removed during probation.
+601 (4) The employee voluntarily requests the demotion.
+602 (5) The employee is demoted for disciplinary reasons.
+603 (j) All demotions shall be approved by the appointing
+604 authority and pursuant to the rules adopted by the city. If a
+605 non-probationary employee is demoted against his or her will,
+606 he or she may appeal to the board as provided in this act.
+607 (k) The involuntary change of an employee from a
+608 position in a class or job to another class or job for which
+609 the maximum rate is lower shall be deemed a demotion and shall
+610 be carried out in accordance with this act.
+611 (l) The appointing authority, at any time, may assign
+612 an employee in the regular service under his or her
+613 jurisdiction from one position to another in the same class
+614 regardless of the shift, location, hours of work, or other
+615 consideration as long as the work week basis remains the same.
+616 Any transfer made pursuant to this subsection shall be made
+Page 22
+
+Any transfer made pursuant to this subsection shall be made
+SB319 INTRODUCED
+617 with the retention of all rights of seniority, vacation, sick
+618 leave, and overtime as the employee may have accrued.
+619 (m) An appointing authority may assign any employee in
+620 the regular service under his or her jurisdiction any duties
+621 related to the employee's current classification. An employee
+622 in the regular service may not be assigned the duties of a
+623 different class for a period in excess of one year. Any and
+624 all assignments outside the classification shall be
+625 immediately reported to the director and the mayor.
+626 Section 11. (a) The tenure of every employee in the
+627 regular service shall be conditioned on the satisfactory
+628 conduct of the employee and the continued efficient
+629 performance of assigned duties and responsibilities. A regular
+630 employee may be dismissed, demoted, or suspended for cause or
+631 for any reason deemed to be in the best interests of the
+632 public service and shall have the right of appeal as set forth
+633 in Section 12. The reasons for the action shall be furnished
+634 in writing to the employee and the director.
+635 (b) The following are among the causes which are
+636 sufficient for dismissal, demotion, or suspension:
+637 (1) Absence without leave.
+638 (2) A conviction for any criminal act involving
+639 controlled substances, alcohol, violence, theft, embezzlement,
+640 or any crime charged as a felony.
+641 (3) Conduct unbecoming an employee in the public
+642 service.
+643 (4) Conviction for a criminal offense involving moral
+644 turpitude.
+Page 23
+
+turpitude.
+SB319 INTRODUCED
+645 (5) Disorderly or immoral conduct.
+646 (6) Failure to pay or make proper provision for the
+647 liquidation of just debts.
+648 (7) Incapacity due to mental or physical disability of
+649 a permanent nature.
+650 (8) Incompetency or inefficiency.
+651 (9) Acts of insubordination, including, but not limited
+652 to, refusal to obey legitimate orders, delay or failure to
+653 carry out assigned work, disrespect, insolence, or like
+654 behavior.
+655 (10) Intoxication while on duty or public intoxication
+656 while off duty.
+657 (11) Neglect of duty.
+658 (12) Negligence or willful damage to public property or
+659 waste of public supplies or equipment.
+660 (13) Violation of any regulations or orders published,
+661 made, or given by a superior officer.
+662 (14) Willful violation of any provision of this act or
+663 the employee handbook.
+664 (15) Violation of city or departmental rules or
+665 regulations.
+666 (16) Tardiness.
+667 (17) Disregard of safety rules or regulations.
+668 (18) Falsification, misrepresentation, or suppression
+669 of any information, including, but not limited to, employment
+670 applications, employee reports, records, or time entry
+671 required by or supplied to any agency, including, but not
+672 limited to, the city.
+Page 24
+
+limited to, the city.
+SB319 INTRODUCED
+673 (19) Refusal to fully and truthfully answer questions
+674 from a supervisor or other designated individual during any
+675 inquiry, interrogation, hearing, or court proceeding.
+676 (20) Habitual or repetitive acts of misconduct,
+677 violations of policy, or infractions of rules or regulations.
+678 (21) Use of paid time for personal reasons or business
+679 reasons other than the purposes for which the individual was
+680 hired.
+681 (22) Failure to maintain required objective
+682 certifications or other requirements necessary to perform the
+683 duties of employment.
+684 (23) For any other reason deemed to be in the best
+685 interest of the public service.
+686 (c) Notice of suspension, dismissal, or demotion shall
+687 be in writing and shall set forth all of the following:
+688 (1) The cause of action.
+689 (2) The discipline imposed.
+690 (3) The date the suspension, dismissal, or demotion is
+691 set to become effective.
+692 (4) Any other information deemed appropriate.
+693 (d) A copy of the notice shall be delivered to the
+694 director on the same day that the notice is served on the
+695 employee. Notification shall be made prior to or on the date
+696 the dismissal or demotion is to be carried out, or as soon as
+697 practicable.
+698 (e) An appointing authority may suspend without pay any
+699 employee under his or her supervision. In the event a
+700 suspension or series of suspensions do not exceed an aggregate
+Page 25
+
+suspension or series of suspensions do not exceed an aggregate
+SB319 INTRODUCED
+701 of 40 working hours for a single offense or 80 working hours
+702 in any year of service, the employee shall not have the right
+703 of a hearing. If a suspension or series of suspensions do
+704 exceed those limits, a regular employee may appeal as provided
+705 in Section 12. A suspension shall be affected by service upon
+706 the employee by the appointing authority of a written
+707 statement of the delinquency for which suspension was made
+708 with a copy delivered to the director. The suspended employee
+709 may file an answer with the board and the department head.
+710 (f) An employee serving a probationary period may be
+711 disciplined, demoted, or dismissed by an appointing authority
+712 without right of appeal.
+713 (g) Any employee suspended without right to a hearing
+714 may obtain a review of the suspension by the appointing
+715 authority by filing with the mayor, not more than two business
+716 days after receipt, a written answer to the charges and a
+717 request for the review.
+718 Section 12. (a) An employee with regular status may
+719 appeal disciplinary action of dismissal, demotion, or
+720 suspension. The discipline imposed shall not be otherwise set
+721 aside the pendency of an appeal. An employee desiring to
+722 appeal, within 10 calendar days after notice of disciplinary
+723 action, shall file with the director and the mayor a written
+724 answer to the charges and request a hearing. The answer shall
+725 contain all of the following:
+726 (1) The reason for the dismissal, demotion, or
+727 suspension.
+728 (2) An admission or denial of guilt.
+Page 26
+
+(2) An admission or denial of guilt.
+SB319 INTRODUCED
+729 (3) The reasons why the dismissal, demotion, or
+730 suspension should not take effect.
+731 (b) Upon timely appeal, the board shall order a hearing
+732 of the charges before a hearing officer appointed pursuant to
+733 board rules and this act. The hearing shall be solely for the
+734 purpose of determining whether substantial evidence supports
+735 the disciplinary action, and whether the employee, by reason
+736 of his or her act or acts as charged and his or her record of
+737 service, should be retained in the service, removed, or
+738 otherwise disciplined. A hearing officer shall not be bound by
+739 the technical rules of evidence but shall diligently seek all
+740 the information bearing on the merits of the case. Each
+741 hearing officer shall be a practicing attorney licensed in
+742 this state who shall take testimony offered in support and
+743 denial of the charges and, within 15 days of the hearing,
+744 shall submit to the board and the parties a finding of facts,
+745 an interpretation of law, and a recommended decision. Either
+746 party may be represented by counsel.
+747 (c) The hearing officer may permit discovery by any
+748 party. The hearing officer shall hold the hearing within 30
+749 calendar days of his or her appointment by the board unless
+750 all parties consent to a continuance. The hearing officer may
+751 authorize the parties to use one or more discovery methods
+752 from the Alabama Rules of Civil Procedure, provided that the
+753 hearing officer shall determine the specific rules of
+754 discovery and shall set the required times of response.
+755 (d) When a request for discovery is directed to an
+756 officer or employee of the city, the city shall make the
+Page 27
+
+officer or employee of the city, the city shall make the
+SB319 INTRODUCED
+757 individual available on official time for the purpose of
+758 responding to the request and shall assist the individual as
+759 necessary in responding to the request. A party seeking
+760 discovery from a nonparty shall initiate the process by
+761 serving a request for discovery signed by the hearing officer
+762 on the individual. The hearing officer may issue subpoenas for
+763 production and attendance, enforceable by the Circuit Court of
+764 Shelby County, upon failure to obtain the voluntary
+765 cooperation of a nonparty. Upon written request, the hearing
+766 officer may subpoena noncharacter witnesses for or against the
+767 employee. Employees in the regular service shall be required
+768 to attend and testify without subpoena.
+769 (e) The parties shall be present at the next regular or
+770 special meeting held by the board after receipt of the hearing
+771 officer's findings. The board shall consider the report and
+772 may do any of the following:
+773 (1) Set aside the report.
+774 (2) Order a new hearing.
+775 (3) Rescind, modify, or increase the penalty imposed by
+776 the appointing authority.
+777 (4) Affirm the report as written and certify its
+778 findings to the appointing authority.
+779 (f) At the meeting, the board may request summation
+780 statements from the parties, not to exceed 15 minutes per
+781 party, in response to the hearing officer's report. A
+782 summation statement shall be limited to the finding of facts.
+783 The board shall render its decision at the meeting, unless the
+784 board votes to continue the hearing to a date certain and
+Page 28
+
+board votes to continue the hearing to a date certain and
+SB319 INTRODUCED
+785 notifies all parties of that date.
+786 (g) A decision of the board shall be final and may be
+787 appealed by either party to the circuit court to review
+788 questions of law and whether the decision is supported by
+789 substantial and legal evidence. On appeal, the circuit court
+790 may not reverse the finding of the board unless the court
+791 finds the decision was arbitrary and capricious against the
+792 great weight of evidence, or otherwise invalid due to fraud,
+793 and shall reverse, remand, or render the cause. The decision
+794 of the board shall be controlling until reversed on appeal.
+795 (h) An appeal to the circuit court shall be perfected
+796 by filing a notice of appeal with the Circuit Court of Shelby
+797 County, signed by the appealing party, indicating that the
+798 party appeals the board's decision and citing the reasons for
+799 the appeal. A notice of appeal shall confer jurisdiction upon
+800 the circuit court. A notice of appeal must be filed within 10
+801 calendar days of the announcement of the board's decision, and
+802 an appeal shall be served on the director within two days of
+803 the file of the notice of appeal with the circuit court.
+804 Section 13. (a) All of the following activities shall
+805 be prohibited:
+806 (1) No individual may be appointed or promoted to, or
+807 dismissed from, any position, or any way favored or
+808 discriminated against with respect to employment on the basis
+809 of race, color, creed, political activity, national origin,
+810 sex, gender, pregnancy, childbirth, pregnancy-related
+811 conditions, sexual orientation, gender identity, marital
+812 status, religion, political affiliation, age, disability,
+Page 29
+
+status, religion, political affiliation, age, disability,
+SB319 INTRODUCED
+813 genetic information, service in the military, or any other
+814 characteristic protected by applicable federal, state, or
+815 local laws or ordinances.
+816 (2) No individual may seek or attempt to use any
+817 political endorsement in connection with any appointment to a
+818 position.
+819 (3) No individual may use, directly or indirectly, any
+820 official possessed or anticipated authority to influence,
+821 secure, or attempt to secure for any other individual an
+822 appointment or advantage in appointment to any position, an
+823 increase in pay, or any other advantage in employment in a
+824 position, for the purpose of influencing the vote or political
+825 action of any individual, or for any consideration.
+826 (4) No individual in the employment of the city,
+827 whether regular or otherwise, may be denied the right to
+828 participate in political activities, to the same extent as any
+829 other resident of the state, including endorsing candidates or
+830 contributing to campaigns.
+831 (5) No individual in the employment of the city may be
+832 prohibited from joining local political clubs or organizations
+833 or state or national political parties.
+834 (6) No individual in the employment of the city may be
+835 prohibited from publicly supporting issues of public welfare
+836 or circulating or contributing to petitions calling for or
+837 supporting referendums.
+838 (7) No individual may engage in political activity
+839 while on duty or in uniform.
+840 (8) No individual may attempt to use political
+Page 30
+
+(8) No individual may attempt to use political
+SB319 INTRODUCED
+841 authority or position for the purposes of influencing the vote
+842 or political action of another individual.
+843 (b) A regular employee of the city may seek candidacy
+844 for public office by resigning his or her position for the
+845 purpose of becoming a candidate for nomination or election to
+846 a public office in the city. The employee's resignation shall
+847 be considered a leave of absence without pay if all of the
+848 following conditions are met:
+849 (1) A written resignation is submitted to the
+850 employee's appointing authority stating the purpose for the
+851 resignation with a copy forwarded to the director.
+852 (2) Within six months of the resignation date, he or
+853 she requests to be reinstated to the eligible register for the
+854 position.
+855 (3) The position has not been filled between the
+856 resignation date and the appointment date.
+857 (4) Within six months of the resignation date, he or
+858 she is reappointed to the position.
+859 Section 14. Act 92-201, 1992 Regular Session (Acts
+860 1992, p. 442), relating to the civil service system of the
+861 City of Helena, is repealed.
+862 Section 15. This act shall become effective on June 1,
+863 2026.
+Page 31

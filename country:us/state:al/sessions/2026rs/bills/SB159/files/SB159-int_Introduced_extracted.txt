@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB159 INTRODUCED
+1 SB159
+2 7BY7N22-1
+3 By Senators Williams, Sessions, Kitchens, Shelnutt, Roberts,
+4 Woods, Bell, Price, Butler, Barfoot, Allen, Carnley, Melson,
+5 Jones, Hovey, Kelley
+6 RFD: Finance and Taxation General Fund
+7 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+7BY7N22-1 01/13/2026 MRF (F)MRF 2026-206
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a utility gross receipts tax
+6 is levied on utility services, and a utility service
+7 use tax is levied on the storage, use, or other
+8 consumption of electricity, domestic water, natural
+9 gas, telegraph, and telephone in the state.
+10 This bill would exclude the use or purchase of
+11 natural gas or electricity for use or consumption in
+12 commercial greenhouses, pivot irrigation systems, and
+13 poultry houses from the utility gross receipts tax and
+14 utility service use tax.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to the utility gross receipts tax and utility
+22 service use tax; to amend Sections 40-21-83 and 40-21-103,
+23 Code of Alabama 1975, to exclude the use of natural gas or
+24 electricity in commercial greenhouses, pivot irrigation
+25 systems, and poultry houses from the taxes.
+26 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+27 Section 1. Sections 40-21-83 and 40-21-103 of the Code
+28 of Alabama 1975, are amended to read as follows:
+Page 1
+
+of Alabama 1975, are amended to read as follows:
+SB159 INTRODUCED
+29 "§40-21-83
+30 There are specifically excluded from the gross receipts
+31 or gross sales of a utility, all revenues derived from any of
+32 the following:
+33 (1) The furnishing of utility services which the State
+34 of Alabama is prohibited from taxing under the Constitution or
+35 laws of the United States of America or the Constitution of
+36 the State of Alabama of 2022.
+37 (2) The furnishing of utility services which are
+38 otherwise taxed under Sections 40-23-1 to 40-23-36, inclusive.
+39 (3) Wholesale sales.
+40 (4) The furnishing of electricity, natural gas, or
+41 domestic water for use or consumption by, in, or for the
+42 direct production, generation, processing, storage, delivery,
+43 or transmission of electricity, natural gas, or domestic
+44 water.
+45 (5) The furnishing of electricity to a manufacturer or
+46 compounder for use in an electrolytic or electrothermal
+47 manufacturing or compounding process.
+48 (6) The furnishing of natural gas to a manufacturer or
+49 compounder as a chemical raw material in the manufacturing or
+50 compounding of tangible personal property, but not as fuel or
+51 energy.
+52 (7) The furnishing of natural gas to be used by a
+53 manufacturer or compounder to chemically convert raw materials
+54 prior to the use of the converted raw materials in an
+55 electrolytic or electrothermal manufacturing or compounding
+56 process.
+Page 2
+
+process.
+SB159 INTRODUCED
+57 (8) The use or consumption of electricity by an
+58 incorporated municipality, a board, or corporation organized
+59 under the authority of any incorporated municipality in
+60 furnishing or providing street lighting or traffic-control
+61 systems; the use or consumption of telephone services by an
+62 incorporated municipality in providing fire alarm systems; and
+63 the use or consumption of domestic water by an incorporated
+64 municipality in extinguishing fires, explosions, or
+65 conflagrations.
+66 (9) The furnishing of natural gas or electricity for
+67 use or consumption as fuel or energy in and for the heating of
+68 commercial greenhouses, pivot irrigation systems, and poultry
+69 houses.
+70 (10) The furnishing of utility services through the use
+71 of a prepaid telephone calling card."
+72 "§40-21-103
+73 The storage, use, or other consumption of utility
+74 services in the State of Alabama is hereby specifically
+75 excluded from the tax herein levied:
+76 (1) Whenever the State of Alabama is prohibited from
+77 taxing such storage, use, or consumption under the
+78 Constitution or laws of the United States of America or the
+79 Constitution of the State of Alabama of 2022;
+80 (2) Whenever any tax relating to the sale, use,
+81 storage, or consumption of said utility services shall be
+82 levied under the provisions of Article 2 of Chapter 23 of this
+83 title, or under the provisions of Sections 40-23-1 through
+84 40-23-36 or the Alabama Transaction Tax Act of 1992 if enacted
+Page 3
+
+40-23-36 or the Alabama Transaction Tax Act of 1992 if enacted
+SB159 INTRODUCED
+85 into law;
+86 (3) Whenever the purchase of said utility services
+87 shall have been at a wholesale sale;
+88 (4) Whenever electricity, natural gas, or domestic
+89 water shall have been used or consumed directly in or for the
+90 production, generation, processing, storage, delivery, or
+91 transmission of electricity, natural gas, or domestic water;
+92 (5) Whenever electricity purchased for storage, use, or
+93 other consumption is used or consumed by a manufacturer or
+94 compounder in an electrolytic or electrothermal manufacturing
+95 or compounding process;
+96 (6) Whenever natural gas purchased for storage, use, or
+97 other consumption is used or consumed by a manufacturer or
+98 compounder as a chemical raw material in the manufacturing or
+99 compounding of tangible personal property, but not as fuel or
+100 energy;
+101 (7) Whenever natural gas purchased for storage, use, or
+102 other consumption is used by a manufacturer or compounder to
+103 chemically convert raw materials prior to the use of such
+104 converted raw materials in an electrolytic or electrothermal
+105 manufacturing or compounding process;
+106 (8) Whenever the sales price of said utility services
+107 shall be included as a part of the gross receipts or gross
+108 sales of a utility subject to the utility gross receipts tax
+109 for the purpose of calculating the utility gross receipts tax
+110 payable by said utility;
+111 (9) Whenever electricity purchased for storage, use, or
+112 other consumption is used or consumed in a process for the
+Page 4
+
+other consumption is used or consumed in a process for the
+SB159 INTRODUCED
+113 isotopic enrichment of uranium and when said electricity is
+114 purchased from a subsidiary corporation of the corporation
+115 engaged in the isotopic enrichment of uranium; and
+116 (10) Whenever utility services are furnished through
+117 the use of a prepaid telephone calling card; and
+118 (11) Whenever natural gas or electricity purchased for
+119 storage, use, or other consumption is used or consumed as fuel
+120 or energy in commercial greenhouses, pivot irrigation systems,
+121 and poultry houses."
+122 Section 2. This act shall become effective on
+123 September 1, 2026.
+Page 5

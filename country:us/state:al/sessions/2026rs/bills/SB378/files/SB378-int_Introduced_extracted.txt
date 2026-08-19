@@ -1,0 +1,386 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB378 INTRODUCED
+1 SB378
+2 6Y8YTZZ-1
+3 By Senator Chambliss
+4 RFD: Finance and Taxation General Fund
+5 First Read: 31-Mar-26
+Page 0
+
+First Read: 31-Mar-26
+6Y8YTZZ-1 03/25/2026 ZAK (L)ZAK 2026-1376
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, owners of certain dams and
+6 reservoirs may elect to have their dams and reservoirs
+7 inspected and file with the local emergency management
+8 agency an emergency action plan if the dam or reservoir
+9 has a high or significant hazard potential.
+10 This bill would require the Alabama Emergency
+11 Management Agency to administer the Alabama Dam Safety
+12 Program and replace all duties of local emergency
+13 management agencies under the program with the Alabama
+14 Emergency Management Agency.
+15 Also under existing law, participating owners
+16 must notify the local emergency management agency of
+17 the construction, modification, or removal of a dam or
+18 reservoir.
+19 This bill would require participating owners to
+20 submit plans for constructing, modifying, or removing a
+21 dam or reservoir to the Alabama Emergency Management
+22 Agency for approval.
+23 This bill would authorize the agency to adopt
+24 rules to administer the program, including approval
+25 procedures and fees.
+26 This bill would require the agency submit to the
+27 Governor and Legislature a program implementation plan
+28 and any operational and financial needs of the agency
+Page 1
+
+and any operational and financial needs of the agency
+SB378 INTRODUCED
+29 for the program.
+30
+31
+32
+33 A BILL
+34 TO BE ENTITLED
+35 AN ACT
+36
+37 Relating to dam safety, to amend Sections 33-7-71,
+38 33-7-72, 33-7-73, and 33-7-74, Code of Alabama 1975, to
+39 require the Alabama Emergency Management Agency to administer
+40 the Alabama Dam Safety Program; to require participating dam
+41 and reservoir owners to receive approval from the agency
+42 before constructing, modifying, or removing dams and
+43 reservoirs; to authorize the agency to adopt rules and fees to
+44 administer the program; and to require the agency to submit a
+45 program implementation plan and operational and financial
+46 needs of the program to the Governor and Legislature.
+47 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+48 Section 1. Sections 33-7-71, 33-7-72, 33-7-73, and
+49 33-7-74, Code of Alabama 1975, are amended to read as follows:
+50 "§33-7-71
+51 For the purposes of this article, the following terms
+52 have the following meanings:
+53 (1) ABANDON or ABANDONMENT. To render a dam
+54 non-impounding by dewatering and filling the reservoir created
+55 by the dam with solid materials, by diverting the natural
+56 drainway around the site, or by removing a portion of the dam
+Page 2
+
+drainway around the site, or by removing a portion of the dam
+SB378 INTRODUCED
+57 to allow drainage to occur the same, or nearly the same, as
+58 before the construction of the dam.
+59 (2) ADVERSE CONSEQUENCES. Negative impacts that may
+60 occur upstream, downstream, or at locations remote from the
+61 dam. The primary concerns are loss of human life, disruption
+62 of public infrastructure, environmental impact, and economic
+63 loss, including property damage.
+64 (3) AGENCY. The Emergency Management Agency.
+65 (3)(4) ALTERATIONS or REPAIRS. Alterations or repairs
+66 to an existing dam and appurtenant works that affect the
+67 safety of the dam or reservoir.
+68 (4)(5) APPURTENANT WORKS. The structures or machinery
+69 incident or annexed to a dam whose purpose is to operate,
+70 assist, and maintain the dam. The term includes spillways,
+71 either in the dam or separate therefrom, the reservoir and its
+72 rim, low level outlet works, and water conduits, including
+73 tunnels, pipelines, or penstocks, either through the dam or
+74 its abutments.
+75 (5)(6) BREACH. Partial removal of a dam, creating a
+76 channel through the dam to the original stream bottom
+77 elevation.
+78 (6)(7) DAM.
+79 a. An artificial barrier, including appurtenant works,
+80 with the ability to impound water, wastewater, or liquid-borne
+81 materials and to which either of the following apply:
+82 1. Is 25 feet or more in height from the natural bed of
+83 the stream or watercourse measured at the downstream toe of
+84 the barrier, or from the lowest elevation of the outside limit
+Page 3
+
+the barrier, or from the lowest elevation of the outside limit
+SB378 INTRODUCED
+85 of the barrier, if it is not across a stream channel or
+86 watercourse, to the maximum water storage elevation.
+87 2. Has an impounding capacity at maximum water storage
+88 elevation of 50 acre feet or more.
+89 b. The term includes a fill or structure for highway or
+90 railroad use or for any other purpose which impounds water.
+91 c. This definition The term does not apply to any
+92 include any of the following:
+93 1. Any barrier not in excess of six feet in height
+94 regardless of storage capacity or which has a storage capacity
+95 at maximum water storage elevation not greater than 15 acre
+96 feet regardless of height, unless the barrier, due to its
+97 location or other physical characteristics, is classified as a
+98 high hazard potential dam.
+99 2.d. This definition does not apply to any Any dam
+100 subject to the jurisdiction of any other state or federal
+101 agency.
+102 3.e. The term does not include any Any obstruction in a
+103 canal used to raise or lower water.
+104 4.f. This term does not include privately Privately
+105 owned dams, regardless of the hazard designation, unless the
+106 owner has voluntarily elected to participate in the program in
+107 accordance with this article.
+108 (7)(8) DAYS. In establishing deadlines, means all
+109 calendar days, including Sundays Saturday, Sunday, and
+110 holidays.
+111 (8)(9) EMERGENCY. All conditions leading to or causing
+112 a breach, overtopping, or any other condition of a dam and its
+Page 4
+
+a breach, overtopping, or any other condition of a dam and its
+SB378 INTRODUCED
+113 appurtenant works that may be construed as unsafe or
+114 threatening to life or property.
+115 (9)(10) EMERGENCY ACTION PLAN. A plan that identifies
+116 the area that would likely be inundated by the failure of a
+117 dam and the actions that should be taken in the event of a
+118 failure or threatening condition at the dam.
+119 (10)(11) ENGINEER. An engineer who has a background in
+120 civil engineering and who satisfies all of the following:
+121 a. Is a licensed professional engineer.
+122 b. Is competent in areas related to dam investigation,
+123 design, construction, and operation for the type of dam being
+124 investigated, designed, constructed, or operated.
+125 c. Has relevant experience in areas such as
+126 investigation, design, construction, reconstruction,
+127 enlargement, repair, alteration, maintenance, operation,
+128 breach, removal, or abandonment of dams.
+129 d. Understands adverse dam incidents, failures, and the
+130 potential causes and consequences of failures.
+131 e. Continues with necessary training and continuing
+132 education to keep abreast of the state of the practice in dam
+133 safety engineering.
+134 (11)(12) ENLARGEMENT. Any change in or addition to an
+135 existing dam or reservoir that raises or may raise the water
+136 storage elevation of the water impounded by the dam.
+137 (12)(13) HAZARD POTENTIAL. The possible incremental
+138 adverse consequences that result from the release of water or
+139 stored contents due to failure of the dam or misoperation of
+140 the dam or appurtenant works. The hazard potential
+Page 5
+
+the dam or appurtenant works. The hazard potential
+SB378 INTRODUCED
+141 classification of a dam does not reflect in any way on the
+142 current condition of the dam and its appurtenant works,
+143 including safety, structural integrity, or flood routing
+144 capacity.
+145 (13)(14) HIGH HAZARD POTENTIAL DAM. A dam assigned the
+146 high hazard potential classification where the dam's failure
+147 or misoperation will likely cause loss of human life.
+148 (14)(15) LOCAL EMERGENCY MANAGEMENT AGENCY. The local
+149 emergency management organization that has jurisdiction over
+150 the area in which a dam or reservoir is located.
+151 (15)(16) LOW HAZARD POTENTIAL DAM. A dam assigned the
+152 low hazard potential classification where failure or
+153 misoperation results in no probable loss of human life and low
+154 economic or environmental losses with those economic losses
+155 that do occur being principally limited to the owner's
+156 property.
+157 (16)(17) PARTICIPATING OWNER. Any of the following that
+158 elect to be included in this definition by written affidavit
+159 delivered to the local emergency management agency:
+160 a. Any municipal or quasi-municipal corporation.
+161 b. Any county or quasi-county corporation.
+162 c. Any public utility.
+163 d. Any district as defined by Section 11-99A-2.
+164 e. Any person.
+165 f. The duly authorized agent, lessee, or trustee of any
+166 entity described in paragraphs a. through e.
+167 g. Receivers or trustees appointed by any court for any
+168 entity described in paragraphs a. through e.
+Page 6
+
+entity described in paragraphs a. through e.
+SB378 INTRODUCED
+169 h. This state and any department, board, commission,
+170 institution, or agency thereof that voluntarily elects to be
+171 subject to this article.
+172 (17)(18) PERSON. Any individual, bankruptcy trustee,
+173 firm, association, organization, partnership, business trust,
+174 corporation, limited liability corporation, limited liability
+175 partnership, or company.
+176 (18)(19) PROBABLE. More likely than not to occur;
+177 reasonably expected; realistic.
+178 (20) PROGRAM. The Alabama Dam Safety Program.
+179 (19)(21) RECONSTRUCTION. Removal and replacement of an
+180 existing dam or a portion thereof.
+181 (20)(22) REMOVAL. Complete elimination of the dam
+182 embankment or structure to restore the approximate original
+183 topographic contours of the valley.
+184 (21)(23) RESERVOIR. Any area that contains or will
+185 contain impounded water, wastewater, or liquid-borne materials
+186 by virtue of its having been impounded by a dam. This term
+187 does not include privately owned privately-owned reservoirs,
+188 regardless of the hazard designation, unless the owner has
+189 elected to participate in the program in accordance with this
+190 article.
+191 (22)(24) SIGNIFICANT HAZARD POTENTIAL DAM. A dam
+192 assigned the significant hazard potential classification where
+193 failure or misoperation results in no probable loss of human
+194 life but can result in major economic loss, environmental
+195 damage, disruption of lifeline facilities, or other issues
+196 impacting public safety and welfare.
+Page 7
+
+impacting public safety and welfare.
+SB378 INTRODUCED
+197 (23)(25) STATE-OWNED DAM OR RESERVOIR. Any dam or
+198 reservoir that is owned by this state or a department, board,
+199 commission, institution, or agency thereof.
+200 (24)(26) WATER STORAGE ELEVATION. The maximum elevation
+201 of water surface which can that may be obtained by the dam or
+202 reservoir."
+203 "§33-7-72
+204 (a) The Alabama Emergency Management Agency shall
+205 administer the Alabama Dam Safety Program in accordance with
+206 this article.
+207 (a)(b) A participating owner shall ensure cause all
+208 plans and specifications for initial construction,
+209 reconstruction, enlargement, alteration, repair, operation,
+210 breach, abandonment, or removal of dams and reservoirs, and
+211 the supervision of the construction of dams and reservoirs,
+212 shall to be in the charge of an engineer and assisted by
+213 qualified geologists and other specialists as necessary.
+214 (b)(c) A participating owner of any dam or reservoir
+215 shall ensure cause the dam or reservoir is to be inspected a
+216 minimum of once every four years by an engineer. The engineer
+217 shall certify to the local emergency management agency that
+218 the inspection has been completed and deliver a record of the
+219 inspection to the owner.
+220 (c)(d) A participating owner shall notify the local
+221 emergency management agency in writing of the construction or
+222 the enlargement cause all plans and specifications for initial
+223 construction, reconstruction, enlargement, alteration, repair,
+224 operation, breach, abandonment, or removal of any dam or
+Page 8
+
+operation, breach, abandonment, or removal of any dam or
+SB378 INTRODUCED
+225 reservoir to be submitted to the agency for approval. Plans
+226 and specifications shall be signed and sealed by the design
+227 engineer.
+228 (d)(e) Upon the transfer of ownership of any dam or
+229 reservoir, the current participating owner shall notify the
+230 local emergency management agency. The subsequent owner may
+231 elect to continue participating in the inspection program but
+232 or may also elect to cease participation with no penalty.
+233 (e)(f) A participating owner of a state-owned dam or
+234 reservoir shall submit a written affidavit to the local
+235 emergency management agency for each state-owned dam or
+236 reservoir elected to be subject to this article.
+237 (f)(g) Notwithstanding any other provision of this
+238 article, a state-owned dam or reservoir that is subject to
+239 this article shall be inspected a minimum of once every four
+240 years by an engineer, so long as sufficient funds have been
+241 appropriated by the Legislature to, or sufficient relevant
+242 grant funds have been obtained by, the participating owner of
+243 the state-owned dam or reservoir. The engineer shall certify
+244 to the local emergency management agency that the inspection
+245 has been completed and deliver a record of the inspection to
+246 the owner."
+247 "§33-7-73
+248 (a) It shall be the duty of the inspecting An engineer
+249 to inspecting a dam or reservoir pursuant to Section 33-7-72
+250 shall assign a hazard potential classification to the dams and
+251 reservoirs dam or reservoir.
+252 (b) In order to protect life and property,
+Page 9
+
+(b) In order to protect life and property,
+SB378 INTRODUCED
+253 participating owners of high and significant hazard potential
+254 dams and reservoirs shall develop and file with the local
+255 emergency management agency an emergency action plan prepared
+256 by an engineer in consultation with the highest ranking
+257 official of the local emergency management agency Director of
+258 Emergency Management, or his or her designee, which shall be
+259 implemented in the event of an emergency involving that
+260 participating owner's dam or dams reservoir. The participating
+261 owners of such dams and reservoirs shall periodically test and
+262 update the emergency action plan. The plan shall include all
+263 of the following elements:
+264 (1) Emergency notification plan with flowchart.
+265 (2) Statement of purpose.
+266 (3) Project description.
+267 (4) Emergency detection, evaluation, and
+268 classification.
+269 (5) General responsibilities.
+270 (6) Preparedness.
+271 (7) Inundation maps or other acceptable description of
+272 the inundated area.
+273 (8) Appendices.
+274 (c) If the participating owner of a dam or reservoir
+275 makes the determination that an emergency involving a dam or
+276 reservoir exists, the owner shall immediately implement the
+277 emergency action plan, notify the local emergency management
+278 agency, and take any additional actions necessary to safeguard
+279 life, health, and property."
+280 "§33-7-74
+Page 10
+
+"§33-7-74
+SB378 INTRODUCED
+281 (a) The local emergency management agency has neither
+282 inspection nor regulatory duty or responsibility. The agency
+283 shall adopt rules to implement this article, including:
+284 (1) Approval procedures to implement Section
+285 33-7-72(d); and
+286 (2) Fees as necessary to offset the agency's costs in
+287 implementing this article.
+288 (b) Records pertaining to dams and reservoirs kept by
+289 and in the possession of the agency or a local emergency
+290 management agency pursuant to this article shall not be public
+291 documents.
+292 (c) Nothing in this article shall be construed to
+293 relieve a participating owner or operator of a dam or
+294 reservoir of the legal duties, obligations, or liabilities, or
+295 to waive any immunity, incident to the ownership or operation
+296 of the dam or reservoir.
+297 (d) Any records or other information relating to a dam
+298 or reservoir pursuant to this article possessed by a local
+299 emergency management agency shall be transferred to the agency
+300 before January 1, 2027. A local emergency management agency
+301 may retain a copy of any such information to enable
+302 appropriate action in the event of an emergency.
+303 (e) Before the fifteenth legislative day of the 2027
+304 Regular Session, the agency shall prepare and submit to the
+305 Governor and the Legislature, including the Chair of the House
+306 Ways and Means General Fund Committee and the Chair of the
+307 Senate Finance and Taxation General Fund Committee, both of
+308 the following:
+Page 11
+
+the following:
+SB378 INTRODUCED
+309 (1) An Alabama Dam Safety Program Implementation Plan
+310 designed to comply with the National Dam Safety Program
+311 established pursuant to 33 U.S.C. § 467f.
+312 (2) A statement of any operational or financial needs,
+313 including legislative action, appropriation, or other
+314 resources necessary for the agency to implement this article.
+315 (f) The agency may receive and shall seek federal,
+316 state, and private funds, including grants from the Federal
+317 Emergency Management Agency.
+318 (g) The agency shall coordinate with the United States
+319 Army Corps of Engineers to ensure all relevant dams in Alabama
+320 are included in the National Inventory of Dams and Low-Head
+321 Dams."
+322 Section 2. This act shall become effective on October
+323 1, 2026.
+Page 12

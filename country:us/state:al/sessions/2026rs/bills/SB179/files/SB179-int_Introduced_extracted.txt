@@ -1,0 +1,419 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB179 INTRODUCED
+1 SB179
+2 ARLXBQS-1
+3 By Senator Barfoot
+4 RFD: Judiciary
+5 First Read: 20-Jan-26
+Page 0
+
+First Read: 20-Jan-26
+ARLXBQS-1 12/02/2025 VSM (L)ma 2025-3445
+1
+2
+3
+4 SYNOPSIS:
+5 Under the Alabama Uniform Trust Code, creditors
+6 of a person who creates an irrevocable trust may
+7 recover more than would be allowed under the Alabama
+8 Qualified Dispositions in Trust Act.
+9 Existing law also provides that upon release of
+10 a power of withdrawal, the holder of the power is
+11 treated as the creator of the trust if the released
+12 property value exceeds federal safe harbor amounts
+13 under the Internal Revenue Code.
+14 This bill would amend the Alabama Uniform Trust
+15 Code to make creditor claims subject to the same limits
+16 as those in the Alabama Qualified Dispositions in Trust
+17 Act and would set limits on when a trust beneficiary or
+18 holder of a withdrawal power is considered the creator
+19 of the trust.
+20 This bill would provide that the trustee has the
+21 right to reimburse the trust's creator for trust income
+22 taxes paid or payable without the payment being subject
+23 to the claims of the creditors of the trust's creator.
+24 This bill would also make nonsubstantive,
+25 technical revisions to update the existing code
+26 language to current style.
+27
+28
+Page 1
+
+SB179 INTRODUCED
+29
+30 A BILL
+31 TO BE ENTITLED
+32 AN ACT
+33
+34 Relating to trusts; to amend Section 19-3B-505, Code of
+35 Alabama 1975, to limit creditor claims to conform to the
+36 Alabama Qualified Dispositions in Trust Act; to limit when a
+37 holder of a withdrawal power is considered a settlor; to amend
+38 Section 19-3B-816, Code of Alabama 1975, to allow a trustee to
+39 reimburse a settlor for income taxes paid or payable without
+40 such amount being subject to the claims of the settlor's
+41 creditors; and to make nonsubstantive, technical revisions to
+42 update the existing code language to current style.
+43 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+44 Section 1. Sections 19-3B-505 and 19-3B-816, Code of
+45 Alabama 1975, are amended to read as follows:
+46 "§19-3B-505
+47 (a) Whether or not the terms of a trust contain a
+48 spendthrift provision, the following rules apply:
+49 (1) During the lifetime of the settlor, the property of
+50 a revocable trust is subject to claims of the settlor's
+51 creditors.
+52 (2) With Except as provided in Chapter 3E, with respect
+53 to an irrevocable trust, a creditor or assignee of the settlor
+54 may reach the maximum amount that can be distributed to or for
+55 the settlor's benefit. If a trust has more than one settlor,
+56 then the amount the creditor or assignee of a particular
+Page 2
+
+then the amount the creditor or assignee of a particular
+SB179 INTRODUCED
+57 settlor may reach may not exceed the settlor's interest in the
+58 portion of the trust attributable to that settlor's
+59 contribution.
+60 (3) After the death of a settlor, and subject to the
+61 settlor's right to direct the source from which liabilities
+62 will be paid, the property of a trust that was revocable
+63 immediately prior to the settlor's death is subject to claims
+64 of the settlor's creditors, costs of administration of
+65 administering the settlor's estate, the expenses of the
+66 settlor's funeral and disposal of remains, and the homestead
+67 allowance, exempt property, and family allowance to a
+68 surviving spouse and children, to the extent the settlor's
+69 probate estate is inadequate to satisfy those claims, costs,
+70 expenses, and homestead allowance, exempt property, and family
+71 allowance.
+72 (b) With respect to claims, expenses, and taxes in
+73 connection with the settlement of a trust that was revocable
+74 at the settlor's death:
+75 (1) Any claim of a creditor which would be barred
+76 against the fiduciary of a decedent's estate, the estate of
+77 the decedent, or any creditor or beneficiary of the decedent's
+78 estate, shall be barred against the trustee, the trust
+79 property, and the creditors and beneficiaries of the trust.;
+80 (2) A trustee at any time may give notice to any person
+81 the trustee has reason to believe may have a claim against the
+82 settlor at death. The notice shall contain the name and
+83 address of the trustee to whom the claim must be presented. If
+84 the person fails to present the claim in writing within 90
+Page 3
+
+the person fails to present the claim in writing within 90
+SB179 INTRODUCED
+85 days from the date of the notice, then the person shall be
+86 forever barred from asserting or recovering on the claim from
+87 the trustee, the trust property, and the creditors and
+88 beneficiaries of the trust. Any person who presents a claim on
+89 or before the date specified in the notice may not later
+90 increase the claim following the expiration of the 90-day
+91 period.;
+92 (3) If a claim is not presented in writing to the
+93 personal representative of the settlor's estate or to the
+94 trustee: (i) within six months from the date of the
+95 appointment of the initial personal representative of the
+96 settlor's estate, or (ii) if no personal representative is
+97 appointed within six months from the settlor's date of death
+98 and a claim is not presented in writing to the trustee within
+99 six months from the settlor's date of death, then no trustee
+100 shall be chargeable for any assets that the trustee may pay or
+101 distribute in good faith in satisfaction of any lawful claims,
+102 expenses, or taxes or to any beneficiary before the claim was
+103 presented. A payment or distribution of assets by a trustee
+104 shall be deemed to have been made in good faith unless the
+105 creditor can prove that the trustee had actual knowledge of
+106 the claim at the time of the payment or distribution. The
+107 six-month period shall not be interrupted or affected by the
+108 death, resignation, or removal of a trustee, except that the
+109 time during which there is no trustee in office shall not be
+110 counted as part of the period.; and
+111 (4) The provisions of Section 43-2-371 dealing with
+112 regarding the priority of payment of claims, expenses, and
+Page 4
+
+regarding the priority of payment of claims, expenses, and
+SB179 INTRODUCED
+113 taxes from the probate estate of a decedent shall apply to a
+114 revocable trust to the extent the assets of the decedent's
+115 probate estate are inadequate.
+116 (c) For purposes of this section:
+117 (1) during During the period the power may be
+118 exercised, the holder of a power of withdrawal is treated in
+119 the same manner as the settlor of a revocable trust to the
+120 extent of the property subject to the power; and
+121 (2) upon the lapse, release, or waiver of the power,
+122 the holder is treated as the settlor of the trust only to the
+123 extent the value of the property affected by the lapse,
+124 release, or waiver exceeds the greater of the amount specified
+125 in Section 2041(b)(2), 2503(b), or 2514(e) of the Internal
+126 Revenue Code of 1986, in each case as in effect on January 1,
+127 2007, or as later amended.
+128 (2) A beneficiary of an irrevocable trust who holds a
+129 power of withdrawal is not a settlor of the trust upon the
+130 lapse of the power;
+131 (3) The power of a trustee of an irrevocable trust,
+132 whether arising under the trust agreement or any other
+133 provision of the law, to make a distribution to or for the
+134 benefit of a settlor for the purpose of satisfying or
+135 reimbursing, in whole or in part, the settlor for income taxes
+136 paid or payable on all or any portion of the trust principal
+137 and income that are includable in the settlor's personal
+138 income under applicable law, as well as distributions made by
+139 the trustee pursuant to such authority, shall not be
+140 considered an amount that may be distributed to or for the
+Page 5
+
+considered an amount that may be distributed to or for the
+SB179 INTRODUCED
+141 benefit of the settlor; and
+142 (4) A person, including, but not limited to, a previous
+143 settlor of the trust, who becomes a beneficiary of a trust due
+144 to the exercise of a power of appointment by someone other
+145 than that person, shall not be considered a settlor of the
+146 trust."
+147 "§19-3B-816
+148 (a) Without limiting the authority conferred granted by
+149 Section 19-3B-815, a trustee may:
+150 (1) collect Collect trust property and accept or reject
+151 additions to the trust property from a settlor or any other
+152 person, including, but not being limited to, the authority to
+153 receive, collect, hold, and retain common or preferred stock
+154 or other interests in the trustee or any related party;
+155 (2) acquire Acquire or sell property, for cash or on
+156 credit, at public or private sale;
+157 (3) exchange Exchange, partition, or otherwise change
+158 the character of trust property;
+159 (4) deposit Deposit trust money in an account in a
+160 regulated financial-service service institution;
+161 (5) borrow Borrow money, with or without security, and
+162 mortgage or pledge trust property for a period within or
+163 extending beyond the duration of the trust;
+164 (6) with With respect to an interest in a
+165 proprietorship, partnership, limited liability company,
+166 business trust, corporation, or other form of business or
+167 enterprise, continue the business or other enterprise and take
+168 any action that may be taken by shareholders, members, or
+Page 6
+
+any action that may be taken by shareholders, members, or
+SB179 INTRODUCED
+169 property owners, including merging, dissolving, or otherwise
+170 changing the form of business organization or contributing
+171 additional capital;
+172 (7) with With respect to stocks or other securities,
+173 exercise the rights of an absolute owner, including the right
+174 to:
+175 (A) votea. Vote, or give proxies to vote, with or
+176 without power of substitution, or enter into or continue a
+177 voting trust agreement;
+178 (B) holdb. Hold a security in the name of a nominee or
+179 in other form without disclosure of the trust so that title
+180 may pass by delivery;
+181 (C) payc. Pay calls, assessments, and other sums
+182 chargeable or accruing against the securities, and sell or
+183 exercise stock subscription or conversion rights; and
+184 (D) depositd. Deposit the securities with a depositary
+185 depository or other regulated financial-service service
+186 institution;
+187 (8) with With respect to an interest in real property,
+188 construct, or make ordinary or extraordinary repairs to,
+189 alterations to, or improvements in, buildings or other
+190 structures,; demolish improvements,; raze existing or erect
+191 new party walls or buildings,; subdivide or develop land,;
+192 dedicate land to public use or grant public or private
+193 easements,; and make or vacate plats and adjust boundaries;
+194 (9) enter Enter into a lease for any purpose as lessor
+195 or lessee, including a lease or other arrangement for
+196 exploration and removal of natural resources, with or without
+Page 7
+
+exploration and removal of natural resources, with or without
+SB179 INTRODUCED
+197 the option to purchase or renew, for a period within or
+198 extending beyond the duration of the trust;
+199 (10) grant Grant an option involving for a sale, lease,
+200 or other disposition of trust property or acquire an option
+201 for the acquisition of to purchase property, including an
+202 option exercisable beyond the duration of the trust trust's
+203 duration, and exercise an option so acquired any such option;
+204 (11) insure Insure the property of the trust against
+205 damage or loss and insure the trustee, the trustee's agents,
+206 and beneficiaries against liability arising from the
+207 administration of the trust;
+208 (12) abandon Abandon or decline to administer property
+209 of no value or of insufficient value to justify its collection
+210 or continued administration;
+211 (13) with With respect to environmental law, exercise
+212 those powers granted a fiduciary by applicable law;
+213 (14) pay Pay or contest any claim, settle a claim by or
+214 against the trust, and release, in whole or in part, a claim
+215 belonging to the trust;
+216 (15) pay Pay taxes, assessments, compensation of the
+217 trustee and of employees and agents of the trust, and other
+218 expenses incurred in the administration of the trust;
+219 (16) exercise Exercise elections with respect to
+220 federal, state, and local taxes;
+221 (17) select Select a mode of payment under any employee
+222 benefit or retirement plan, annuity, or life insurance payable
+223 to the trustee, exercise rights thereunder, including exercise
+224 of exercising the right to indemnification for expenses and
+Page 8
+
+of exercising the right to indemnification for expenses and
+SB179 INTRODUCED
+225 against liabilities, and take appropriate action to collect
+226 the proceeds;
+227 (18) make Make loans out of trust property, including
+228 loans to a beneficiary on terms and conditions the trustee
+229 considers to be fair and reasonable under the circumstances,
+230 and the trustee has place a lien on future distributions for
+231 repayment of those loans;
+232 (19) pledge Pledge trust property to guarantee loans
+233 made by others to the beneficiary;
+234 (20) appoint Appoint a trustee to act in another
+235 jurisdiction with respect to trust property located in the
+236 other jurisdiction, confer upon the appointed trustee all of
+237 the powers and duties of the appointing trustee, require that
+238 the appointed trustee furnish security, and remove any trustee
+239 so appointed;
+240 (21)(A) pay a. Pay an amount distributable to a
+241 beneficiary who is under a legal disability or who the trustee
+242 reasonably believes is incapacitated, by paying it directly to
+243 the beneficiary or applying it for the beneficiary's benefit,
+244 or by:
+245 1. paying Paying it to the beneficiary's conservator
+246 or, if the beneficiary does not have a conservator, the
+247 beneficiary's guardian;
+248 2. paying Paying it to the beneficiary's custodian
+249 under the Uniform Transfers to Minors Act or custodial trustee
+250 under the Uniform Custodial Trust Act, and, for that purpose,
+251 creating a custodianship or custodial trust;
+252 3. if If the trustee does not know of a conservator,
+Page 9
+
+3. if If the trustee does not know of a conservator,
+SB179 INTRODUCED
+253 guardian, custodian, or custodial trustee, paying it to an
+254 adult relative or other person having legal or physical care
+255 or custody of the beneficiary, to be expended on the
+256 beneficiary's behalf; or
+257 4. managing Managing it as a separate fund on the
+258 beneficiary's behalf, subject to the beneficiary's continuing
+259 right to withdraw the distribution.
+260 (B) the b. The trustee shall not be under any duty to
+261 see to responsible for ensuring the application of the
+262 payment made pursuant to subparagraphs 1. to 4. above, so made
+263 this subdivision if the trustee acted as a prudent person in
+264 the selection of the person, including the minor or
+265 incompetent, to whom the payments were made; and the receipt
+266 of the person funds shall be full acquittance to the trustee.;
+267 (22) on On distribution of trust property or the
+268 division or termination of a trust, make distributions in
+269 divided or undivided interests, allocate particular assets in
+270 proportionate or disproportionate shares, value the trust
+271 property for those purposes, and adjust for resulting
+272 differences in valuation;
+273 (23) resolve Resolve a dispute concerning the
+274 interpretation of the trust or its administration by
+275 mediation, arbitration, or other procedure for alternative
+276 dispute resolution and to employ counsel, expert witnesses, or
+277 other agents;
+278 (24) prosecute Prosecute or defend an action, claim, or
+279 judicial proceeding in any jurisdiction to protect trust
+280 property and the trustee in the performance of the trustee's
+Page 10
+
+property and the trustee in the performance of the trustee's
+SB179 INTRODUCED
+281 duties and to employ counsel, expert witnesses, or other
+282 agents;
+283 (25) sign Sign and deliver contracts and other
+284 instruments that are useful to achieve or facilitate the
+285 exercise of the trustee's powers;
+286 (26) on On termination of the trust, exercise the
+287 powers appropriate to wind up the administration of the trust
+288 and distribute the trust property to the persons entitled to
+289 it;
+290 (27) create Create or join in the creation of a joint
+291 venture, partnership, limited liability company, business
+292 trust, corporation, or other form of business or enterprise,
+293 continue the business or other enterprise and take any action
+294 that may be taken by shareholders, members, or property
+295 owners, including merging, dissolving, or otherwise changing
+296 the form of business organization or contributing additional
+297 capital;
+298 (28) employ Employ and compensate persons deemed by the
+299 trustee needful necessary to advise or assist in the proper
+300 management and administration of the trust, including, but not
+301 limited to, agents, auditors, including public accountants,
+302 certified public accountants or internal auditors, brokers,
+303 attorneys-at-law, attorneys-in-fact, investment bankers,
+304 investment advisors, rental agents, realtors, appraisers, and
+305 tax specialists, including any related party, so long as the
+306 relationship and the fees charged are reasonable and disclosed
+307 in any a reasonable manner to the current beneficiaries; and
+308 to do so without liability for any neglect, omission,
+Page 11
+
+to do so without liability for any neglect, omission,
+SB179 INTRODUCED
+309 misconduct, or default of the agent or representative,
+310 provided the trustee acted as a prudent person in selecting
+311 and monitoring the agent or representative. For purposes of
+312 the immediately preceding sentence, compensation Compensation
+313 charged by or paid to an affiliated business entity shall be
+314 presumed to be reasonable if the compensation is consistent
+315 with the published fee schedule maintained by the affiliated
+316 business entity in the ordinary course of business;
+317 (29) pay Pay any and all expenses reasonably necessary
+318 for the administration of the trust including interest, taxes,
+319 insurance premiums, assessments, agents' fees or compensation,
+320 trustees' fees or compensation, including additional fees for
+321 extraordinary services and fees to related parties, and other
+322 expenses incurred in the collection, care, administration, and
+323 protection of the trust estate; and
+324 (30) in In addition to the investments authorized by
+325 the document or any provision of law for the investment of
+326 funds held by a trustee, the trustee may invest in and hold:
+327 (i) interests, however evidenced, in any common trust fund or
+328 other collective investment fund maintained by any national or
+329 state chartered bank or trust company having trust powers; or
+330 (ii) securities of or other interests in any open-end or
+331 closed-end management type investment company or investment
+332 trust so long as the portfolio of such common trust fund,
+333 collective investment fund, or investment company or
+334 investment trust consists of investments authorized with
+335 respect to the trustee.
+336 (b) Without limiting the authority granted by Section
+Page 12
+
+(b) Without limiting the authority granted by Section
+SB179 INTRODUCED
+337 19-3B-815, a trustee, who is neither related or subordinated
+338 within the meaning of 26 U.S.C. §672(c), in the trustee's sole
+339 discretion, may distribute to or for the benefit of the
+340 settlor or other person treated as owner under the Internal
+341 Revenue Code, all or any portion of the trust for the purpose
+342 of satisfying or reimbursing, in whole or in part, the settlor
+343 or such other person for the amount of any income taxes paid
+344 or payable on all or any portion of the trust principal and
+345 income which are includable in the settlor's or such other
+346 person's personal income under applicable law.
+347 (b)(c) Nothing contained in this section, insofar as
+348 such authorization that may be prohibited by the Constitution
+349 of Alabama of 1901 2022, shall authorize the investment of
+350 trust assets in the stock of any private corporation."
+351 Section 2. This act shall become effective on October
+352 1, 2026, and apply to all trusts in accordance with Section
+353 19-3B-1204.
+Page 13

@@ -1,0 +1,441 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB565 INTRODUCED
+1 HB565
+2 G3H5I62-1
+3 By Representative Garrett
+4 RFD: Ways and Means Education
+5 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+G3H5I62-1 02/18/2026 KHF (F)KHF 2025-3307
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would enact the College and Higher
+6 Education Excellence and Results (CHEER) Act to
+7 establish a program to provide bonus funding to higher
+8 education institutions that meet identified student and
+9 institution performance goals and objectives.
+10 This bill would also establish the
+11 Outcomes-Based Higher Education Funding Coordinating
+12 Committee and provide for its duties and
+13 responsibilities.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to higher education; to add Chapter 5B to
+21 Title 16, Code of Alabama 1975, commencing with Section
+22 16-5B-1; to create the College and Higher Education Excellence
+23 and Results (CHEER) Act; to establish a process to provide
+24 bonus funding to higher education institutions that meet
+25 identified student and institution performance goals and
+26 objectives; to establish the College and Higher Education
+27 Excellence and Results (CHEER) Fund and provide for its
+28 funding and appropriations; and to establish the
+Page 1
+
+funding and appropriations; and to establish the
+HB565 INTRODUCED
+29 Outcomes-Based Higher Education Funding Coordinating Committee
+30 and provide for its duties and responsibilities.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Chapter 5B is added to Title 16, Code of
+33 Alabama 1975, commencing with Section 16-5B-1, to read as
+34 follows:
+35 §16-5B-1
+36 This act shall be known and may be cited as the College
+37 and Higher Education Excellence and Results (CHEER) Act.
+38 §16-5B-2
+39 For the purposes of this chapter, the following terms
+40 have the following meanings:
+41 (1) ACADEMICALLY UNDERPREPARED STUDENT. A student that
+42 started his or her academic program without meeting the
+43 readiness requirements established by the Outcomes-Based
+44 Higher Education Funding Coordinating Committee in discussion
+45 with the individual institutions.
+46 (2) ADULT LEARNER. A student that is 25 years of age or
+47 older.
+48 (3) ALABAMA COMMISSION ON HIGHER EDUCATION (ACHE). The
+49 commission established in Chapter 5 of Title 16, Code of
+50 Alabama 1975.
+51 (4) AVAILABLE FUNDING MULTIPLIER. Formula used to
+52 determine the annual amount of bonus funding available to each
+53 eligible institution calculated like the higher education
+54 portion of the funds appropriated from the Education Trust
+55 Fund Advancement and Technology Fund pursuant to Section
+56 29-9-4, excluding dual enrollment students from the
+Page 2
+
+29-9-4, excluding dual enrollment students from the
+HB565 INTRODUCED
+57 calculation.
+58 (5) BASE YEAR. The year established by the
+59 Outcomes-Based Higher Education Funding Coordinating Committee
+60 in discussion with the individual institutions to reflect the
+61 reference point prior to the performance year to be used to
+62 measure and compare performance and outcome changes over time.
+63 (6) COLLEGE AND HIGHER EDUCATION EXCELLENCE AND RESULTS
+64 (CHEER) FUND. The fund created by this chapter to provide
+65 bonus funding to higher education institutions that meet
+66 identified student and institution performance goals and
+67 objectives.
+68 (7) COMMITTEE. The Outcomes-Based Higher Education
+69 Funding Coordinating Committee established in Section 16-5B-6.
+70 (8) COMPLETION. The number of degrees or certificates
+71 awarded by an eligible institution.
+72 (9) CREDIT. One semester credit hour or the equivalent.
+73 (10) EDUCATIONAL PROGRAM. A program that leads to a
+74 certificate, an associate degree, bachelor's degree, technical
+75 degree, micro-credential, industry credential, graduate degree
+76 or any other program as defined by the Outcomes-Based Higher
+77 Education Funding Coordinating Committee in discussion with
+78 the individual institutions.
+79 (11) ELIGIBLE INSTITUTIONS. The following institutions:
+80 a. Alabama A&M University.
+81 b. Alabama State University.
+82 c. Athens State University.
+83 d. Auburn University.
+84 e. Auburn University at Montgomery.
+Page 3
+
+e. Auburn University at Montgomery.
+HB565 INTRODUCED
+85 f. Jacksonville State University.
+86 g. Troy University.
+87 h. The University of Alabama at Birmingham.
+88 i. The University of Alabama in Huntsville.
+89 j. The University of Alabama in Tuscaloosa.
+90 k. University of Montevallo.
+91 l. University of North Alabama.
+92 m. University of South Alabama.
+93 n. University of West Alabama.
+94 o. Tuskegee University.
+95 p. Community and technical colleges that are part of
+96 the Alabama Community College System.
+97 (12) EMPLOYED IN A HIGH-DEMAND FIELD. A graduated
+98 student is employed in a job with more jobs available than
+99 qualified candidates to fill or where there will be more jobs
+100 available in that career over a defined period of time, as
+101 determined by the Outcomes-Based Higher Education Funding
+102 Coordinating Committee in discussion with the individual
+103 institutions.
+104 (13) EMPLOYED IN A HIGH-WAGE JOB. A graduated student
+105 that is employed in a job five years after graduation with a
+106 wage that is at least one of the following, for the 25 to 34
+107 age group, as determined by the Outcomes-Based Higher
+108 Education Funding Coordinating Committee in discussion with
+109 the individual institutions:
+110 a. Ten percent higher than the state median wage for
+111 high school graduates, if the student passed an industry
+112 credential or completed a sub-associate or technical program.
+Page 4
+
+credential or completed a sub-associate or technical program.
+HB565 INTRODUCED
+113 b. Twenty percent higher than the state median wage for
+114 high school graduates, if the student earned an associate
+115 degree.
+116 c. Fifty percent higher than the state median wage, if
+117 the student earned a bachelor's degree or other
+118 post-bachelor's degree.
+119 (14) ENROLLED. A student is enrolled in an educational
+120 institution.
+121 (15) HIGHER-NEED STUDENT. A student that is likely to
+122 require additional supports and services to achieve
+123 postgraduation success, including low-income students,
+124 academically underprepared students, adult learners, and other
+125 categories of higher-need students as identified pursuant to
+126 §16-5B-5.
+127 (16) LOW-INCOME STUDENT. A student who received a full
+128 or partial federal Pell Grant award at any point in the
+129 academic year.
+130 (17) PERFORMANCE YEAR. The year established by the
+131 Outcomes-Based Higher Education Funding Coordinating Committee
+132 in discussion with the individual institutions to reflect the
+133 most recently completed scholastic year used to measure
+134 performance and outcome changes from the established base
+135 year.
+136 (18) PREMIER RESEARCH UNIVERSITY. A public university
+137 that meets the criteria established in the annual Education
+138 Trust Fund appropriations act using objective measures of
+139 research activity and financial performance based on publicly
+140 available data, including: research revenues and expenditures
+Page 5
+
+available data, including: research revenues and expenditures
+HB565 INTRODUCED
+141 reported in audited financial statements; data from the
+142 Integrated Postsecondary Education Data System (IPEDS); and
+143 results from the National Science Foundation Higher Education
+144 Research and Development Survey (NSF HERD).
+145 (19) SOME COLLEGE, NO DEGREE. Adults with some
+146 postsecondary education, but have not earned a degree or
+147 credential, including those who dropped out, are currently
+148 enrolled, or took a few classes.
+149 (20) STUDENT POSTGRADUATION SUCCESS. A student that is
+150 enrolled, employed, or enlisted, as defined in this section,
+151 within a time frame of graduating from or completing an
+152 educational program established by the Outcomes-Based Higher
+153 Education Funding Coordinating Committee in discussion with
+154 the individual institutions.
+155 (21) STUDENT RETENTION. Keeping students enrolled and
+156 engaged in an eligible institution from one academic period to
+157 the next, calculated by dividing the number of returning
+158 students by the total number who started in the previous
+159 academic period.
+160 §16-5B-3
+161 (a) There is established a fund in the State Treasury
+162 for higher education institutions of this state which shall be
+163 known as the College and Higher Education Excellence and
+164 Results (CHEER) Fund. The fund shall be used to provide bonus
+165 funding to higher education institutions that meet identified
+166 student and institution performance goals and objectives. The
+167 fund shall be comprised of all funds appropriated or otherwise
+168 made available by the Legislature from whatever source for the
+Page 6
+
+made available by the Legislature from whatever source for the
+HB565 INTRODUCED
+169 purposes of this chapter. All funds appropriated to the
+170 Alabama Commission on Higher Education pursuant to Act
+171 2023-378 for outcomes-based funding for 4-year colleges and
+172 universities remaining unencumbered on the effective date of
+173 this act shall be transferred to the CHEER Fund and allocated
+174 as provided in this chapter. All funds appropriated or made
+175 available to the CHEER Fund shall remain in the fund and not
+176 revert or be expended for any other purpose other than those
+177 set out in this chapter.
+178 (b) The fund shall be administered and distributed by
+179 the Alabama Commission on Higher Education (ACHE) in
+180 accordance with this chapter and the provisions of the annual
+181 Education Trust Fund appropriations act. The commission shall
+182 not charge a fee for administration and distribution of the
+183 fund.
+184 (c) The bonus funding appropriated pursuant to this
+185 chapter is subject to and shall be allocated only in
+186 accordance with this chapter or other legislative act and
+187 shall be budgeted and allotted in accordance with Article 4,
+188 Chapter 4 and Chapter 19 of Title 41, Code of Alabama 1975.
+189 Any monetary interest that accrues to the CHEER Fund shall be
+190 retained in the fund from year to year and shall be subject
+191 only to this chapter.
+192 (d) An eligible institution shall be eligible to
+193 receive annual bonus funding from the CHEER Fund only if:
+194 (1) The eligible institution provides the annual data
+195 necessary to measure outcomes, as required by Section 16-5B-6.
+196 (2) The annual data provided by the eligible
+Page 7
+
+(2) The annual data provided by the eligible
+HB565 INTRODUCED
+197 institution pursuant to Section 16-5B-6 is accurate and has
+198 not been manipulated by the institution to generate bonus
+199 funding, as determined by the committee in discussion with the
+200 individual institutions. An eligible institution shall not
+201 receive any portion of its current available funding related
+202 to an outcome category with faulty or manipulated data. The
+203 committee may also recommend reductions in future available
+204 funding to any eligible institution that produces faulty or
+205 manipulated data.
+206 (3) The eligible institution is in compliance with
+207 Article 6, Chapter 1 of Title 41, Code of Alabama 1975.
+208 (4) The eligible institution is in compliance with the
+209 requirements of HB_/SB_ of the 2026 Regular Session requiring
+210 annual reports regarding the amount of state and federal funds
+211 received and expended and plans for dealing with funding
+212 reductions.
+213 §16-5B-4
+214 (a) There shall be an outcomes-based higher education
+215 funding program. The commission shall implement the program
+216 commencing with the fiscal year that begins on October 1,
+217 2026, contingent upon funding being appropriated by the
+218 Legislature for such purpose.
+219 (b) The bonus funding described in this chapter shall
+220 be allocated in accordance with this chapter. The total amount
+221 of available funding for the program each year shall be
+222 apportioned among eligible institutions using the available
+223 funding multiplier. An institution may receive bonuses that
+224 total up to its available funding.
+Page 8
+
+total up to its available funding.
+HB565 INTRODUCED
+225 §16-5B-5
+226 (a) Subject to available funding for the CHEER Fund for
+227 any fiscal year of the state, the committee in discussion with
+228 the individual institutions shall select factors for inclusion
+229 in the performance outcome categories for CHEER Fund bonus
+230 funding to be identified in the annual Education Trust Fund
+231 appropriations act for each fiscal year:
+232 (1) Student success factors, including:
+233 a. Student postgraduate success, including:
+234 1. Employment in a high-wage job;
+235 2. Employment in a high-demand field; and
+236 3. Enrollment.
+237 b. Adult learner;
+238 c. Completion rate;
+239 d. Higher-need students;
+240 e. Some college, no degree;
+241 f. Student retention; and
+242 g. Other proposals, initiatives, concepts, as deemed
+243 necessary by the committee in discussion with the individual
+244 institutions, to advance the creation and expansion of
+245 institutions of excellence across all Alabama higher education
+246 while serving the needs of the workforce and communities
+247 throughout the state.
+248 (2) Alignment with economic development and workforce
+249 needs, including certificate and degree production in
+250 high-demand fields and the potential earning power of
+251 graduates.
+252 (3) Research, including increased research expenditures
+Page 9
+
+(3) Research, including increased research expenditures
+HB565 INTRODUCED
+253 or receipt of additional matching federal funds or other funds
+254 for research activities by premier research universities.
+255 (4) Innovation, use of methodologies and practices that
+256 accelerate or remove barriers to students obtaining
+257 certificates or degrees, as approved by the committee.
+258 (b) The bonus amount for each weighted category shall
+259 be calculated by multiplying the percentage for each weight by
+260 the amount of available bonus funding for that institution.
+261 (1) If an institution meets or exceeds the identified
+262 performance goals and objectives for a category, it will
+263 receive all of its available bonus funding related to that
+264 category.
+265 (2) If an institution does not meet its identified
+266 performance goals and objectives for a category, the available
+267 funding for that category shall remain in the CHEER Fund and
+268 available to be appropriated to other eligible institutions at
+269 a later time.
+270 (c) By September 1 of each year, the commission shall
+271 certify the amount to be distributed from the CHEER Fund to
+272 each institution that meets their performance goals and
+273 objectives pursuant to this section and outlined in the annual
+274 Education Trust Fund appropriations act, not to exceed the
+275 available amounts in the CHEER Fund. The commission shall
+276 distribute the appropriations in the CHEER Fund for that
+277 fiscal year to the institutions in the amounts certified.
+278 (d) It is the intent of the Legislature that eligible
+279 institutions receiving bonus funding from this chapter utilize
+280 the funds solely to serve the needs of their student
+Page 10
+
+the funds solely to serve the needs of their student
+HB565 INTRODUCED
+281 population in a manner that directly supports and advances the
+282 performance outcome categories selected by the committee
+283 pursuant to Section 16-5B-5, and that is reasonably calculated
+284 to result in measurable improvements in the student success
+285 factors identified therein. Provided, however, bonus funding
+286 received by premier research universities for increased
+287 research expenditures may be used for enhancing and increasing
+288 research and innovation including equipment, instrumentation,
+289 and infrastructure (e.g., hardware and software); recruiting
+290 principal investigators, graduate research students; capital
+291 projects, including renovation of existing facilities;
+292 associated operating and maintenance costs; and matching funds
+293 for federal grants and contracts.
+294 §16-5B-6
+295 (a) There shall be established the Outcomes-Based
+296 Higher Education Funding Coordinating Committee led by the
+297 Chair of the Senate Finance and Taxation Education Committee
+298 and the Chair of the House Ways and Means Education Committee.
+299 (b) The membership of the committee shall include the
+300 following:
+301 (1) A representative of the Council of Presidents, to
+302 represent the four-year institutions, appointed by the
+303 council.
+304 (2) The Executive Director of the Alabama Commission on
+305 Higher Education (ACHE), or his or her designee.
+306 (3) The Chancellor of the Alabama Community College
+307 System, or his or her designee.
+308 (4) The Chair of the Senate Finance and Taxation
+Page 11
+
+(4) The Chair of the Senate Finance and Taxation
+HB565 INTRODUCED
+309 Education Committee.
+310 (5) The ranking minority member of the Senate Finance
+311 and Taxation Education Committee.
+312 (6) The Chair of the House Ways and Means Education
+313 Committee.
+314 (7) The ranking minority member of the House Ways and
+315 Means Education Committee.
+316 (8) The Chair of the House Education Policy Committee.
+317 (9) The Chair of the Senate Education Policy Committee.
+318 (10) The Minority Leader of the House of
+319 Representatives, or his or her designee.
+320 (11) The Minority Leader of the Senate, or his or her
+321 designee.
+322 (c) Within one year of the effective date of this act,
+323 the committee shall establish a process for collecting the
+324 data needed to award bonuses for postgraduation success. The
+325 committee, based on recommendations from the Alabama
+326 Department of Workforce, shall also determine every three
+327 years which occupations qualify as high-demand fields and
+328 high-wage jobs, using labor market data, accounting for both
+329 the statewide and regional workforce demand.
+330 (d) The committee shall assist institutions: (i) in
+331 understanding the data that determines their eligibility for
+332 bonus funding; and (ii) in identifying strategies to improve
+333 eligibility.
+334 (e) On a schedule to be determined by the committee,
+335 the committee may make recommendations to the Legislature to:
+336 (1) Adjust the amount of bonus for each outcome to
+Page 12
+
+(1) Adjust the amount of bonus for each outcome to
+HB565 INTRODUCED
+337 improve the degree to which the bonus is incentivizing
+338 significant improvements in the outcome;
+339 (2) Define other categories of students who are not
+340 achieving similar success rates as other students on eligible
+341 outcomes and whose identification is not easily subject to
+342 manipulation to earn bonus funding; and
+343 (3) Define the bonus amount for new categories of
+344 students to be included in the annual Education Trust Fund
+345 appropriations act.
+346 §16-5B-7
+347 (a) Each year, the committee shall publish a report on
+348 the implementation and impact of the program.
+349 (1) The report shall include, for the entire state and
+350 each institution, data that shows:
+351 a. The number and percentage of students eligible for
+352 bonus funding for each eligible outcome and for each category
+353 of higher-need student; and
+354 b. The bonus funding earned for each eligible outcome
+355 and each category of higher-need students.
+356 (2) Topics in each report shall include, but are not
+357 limited to:
+358 a. Whether any or all of the bonus percentages need to
+359 be adjusted to achieve the purpose of this program; and
+360 b. Any changes and improvements to data collection to
+361 improve accuracy and timeliness of bonus determinations.
+362 Section 2. The outcomes-based funding program
+363 established in this act shall supersede and replace any
+364 existing outcomes-based funding program for eligible
+Page 13
+
+existing outcomes-based funding program for eligible
+HB565 INTRODUCED
+365 institutions, including the program for the Alabama Community
+366 College System developed by the Alabama Community College
+367 Advisory Council on Outcomes-Based Funding pursuant to Act
+368 2017-217.
+369 Section 3. This act shall become effective on June 1,
+370 2026.
+Page 14

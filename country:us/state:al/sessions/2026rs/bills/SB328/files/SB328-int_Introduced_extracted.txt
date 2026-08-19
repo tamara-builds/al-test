@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB328 INTRODUCED
+1 SB328
+2 4UV5HII-1
+3 By Senator Elliott
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 25-Feb-26
+Page 0
+
+First Read: 25-Feb-26
+4UV5HII-1 02/19/2026 JWB (L)JWB 2026-951
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, state agencies subject to
+6 the Alabama Administrative Procedure Act are required
+7 to conduct a review of all agency rules every five
+8 years.
+9 This bill would require all state agencies,
+10 regardless of whether the agency is subject to the
+11 Alabama Administrative Procedure Act, to conduct
+12 quarterly, artificial intelligence-assisted reviews of
+13 all rules.
+14 This bill would require agencies to acquire or
+15 develop artificial intelligence systems capable of
+16 performing the analyses required.
+17 This bill would require agency staff to review
+18 the recommendations of the artificial intelligence
+19 system and determine whether to implement the
+20 recommendation.
+21 This bill would also require an agency to
+22 publish information annually regarding the artificial
+23 intelligence-assisted reviews.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+SB328 INTRODUCED
+29
+30 Relating to artificial intelligence; to require state
+31 agencies to complete initial and quarterly reviews of rules
+32 using artificial intelligence; to create guidelines for the
+33 artificial intelligence-assisted review; to require agencies
+34 to acquire or create artificial intelligence systems capable
+35 of performing the review; to require human approval of any
+36 determinations made by artificial intelligence systems; and to
+37 require publication of certain information regarding the
+38 review process.
+39 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+40 Section 1. This act shall be known and may be cited as
+41 the Agentic Artificial Intelligence Regulatory Review Act.
+42 Section 2. For purposes of this act, the following
+43 terms have the following meanings:
+44 (1) AGENCY. Any department, board, commission, or other
+45 entity under the executive branch authorized to adopt rules.
+46 (2) AGENTIC ARTIFICIAL INTELLIGENCE. Advanced
+47 artificial intelligence systems capable of autonomous analysis
+48 and recommendation generation regarding regulatory
+49 requirements.
+50 (3) GUIDANCE DOCUMENT. Any agency statement that lacks
+51 the force of law but provides direction regarding regulatory
+52 compliance or interpretation.
+53 (4) PLAIN LANGUAGE. Clear, concise, and well-organized
+54 writing appropriate to the subject matter and intended
+55 audience.
+56 (5) RULE. Any regulation, standard, or requirement
+Page 2
+
+(5) RULE. Any regulation, standard, or requirement
+SB328 INTRODUCED
+57 adopted by an agency that has the force and effect of law.
+58 Section 3. (a) By April 1, 2027, each agency of this
+59 state shall complete an artificial intelligence-assisted,
+60 comprehensive review of all rules and guidance documents under
+61 the agency's authority.
+62 (b) Following the initial report required in subsection
+63 (a), each agency shall conduct an artificial
+64 intelligence-assisted review of the agency's rules and
+65 guidance documents on a quarterly basis.
+66 (c) Each agency shall acquire or develop agentic
+67 artificial intelligence systems that are capable of performing
+68 the analyses required by Section 4.
+69 Section 4. For each rule or guidance document reviewed,
+70 the agency shall use an artificial intelligence system to
+71 analyze:
+72 (1) Whether the requirements of the rule or guidance
+73 document are discretionary or mandated by statute, federal
+74 law, or another binding authority;
+75 (2) Whether requirements conflict with or duplicate
+76 other legal provisions;
+77 (3) How requirements compare to those of neighboring
+78 states and federal standards on the same issue or topic;
+79 (4) Whether the text of the rule or guidance document
+80 is in plain language;
+81 (5) Whether there is any cost incurred due to
+82 compliance with the rule or guidance document, including: (i)
+83 training hours required; (ii) fees or direct costs; (iii)
+84 administrative costs related to forms and paperwork; (iv) the
+Page 3
+
+administrative costs related to forms and paperwork; (iv) the
+SB328 INTRODUCED
+85 number of persons affected by the requirements; and (v) any
+86 other similar cost of compliance;
+87 (6) Whether the language in the rule or guidance
+88 document can be simplified without the agency materially
+89 changing the rule or guidance document; and
+90 (7) Whether there is an economic impact due to the rule
+91 or guidance document. The artificial intelligence system shall
+92 carry out a cost-benefit analysis to determine the economic
+93 impact and shall determine whether costs may be saved from
+94 modifications to the rule or guidance document.
+95 Section 5. (a) All analyses performed by artificial
+96 intelligence systems pursuant to Section 4 shall be reviewed
+97 and approved by staff of the agency that has the following:
+98 (1) Subject matter expertise on the matter analyzed.
+99 (2) Legal or regulatory analysis experience.
+100 (3) Authority to approve or reject the artificial
+101 intelligence recommendations on behalf of the agency.
+102 (b) Agency staff, when reviewing the analyses, shall
+103 perform all of the following actions:
+104 (1) Verify the factual accuracy of the analyses.
+105 (2) Assess whether the recommendations made by the
+106 artificial intelligence system are appropriate for
+107 implementation.
+108 (3) Ensure that the language of the rule, guidance
+109 document, or any recommendation aligns with the statutory
+110 authority and legislative intent.
+111 (4) Make final determinations regarding any proposed
+112 changes by the artificial intelligence system.
+Page 4
+
+changes by the artificial intelligence system.
+SB328 INTRODUCED
+113 (c) No rule may be amended or repealed based solely on
+114 artificial intelligence analysis without human review and
+115 approval.
+116 Section 6. (a) During the initial review and quarterly
+117 reviews required by Section 3, each agency shall:
+118 (1) Eliminate rules or guidance documents that conflict
+119 with any statutory, federal, or otherwise binding law;
+120 (2) Remove duplicative or unnecessary rules or guidance
+121 documents;
+122 (3) Correct any text of a rule or guidance document not
+123 written in plain language;
+124 (4) Update outdated or unnecessarily burdensome rules
+125 or guidance documents; and
+126 (5) Update any incorrect citations or references.
+127 (b) When agency staff, pursuant to Section 5,
+128 determines that provisions identified by artificial
+129 intelligence as unnecessarily burdensome shall be retained by
+130 the agency, the staff shall document the public benefits
+131 provided by the rule or guidance document and why less
+132 burdensome alternatives are insufficient to accomplish agency
+133 directives.
+134 (c) If an agency is subject to the Alabama
+135 Administrative Procedure Act, Sections 41-22-1 through
+136 41-22-27, Code of Alabama 1975, the agency shall follow the
+137 Alabama Administrative Procedure Act when adopting or amending
+138 rules pursuant to this act.
+139 Section 7. (a) Before September 1 each year, each
+140 agency shall publish a report containing all of the following:
+Page 5
+
+agency shall publish a report containing all of the following:
+SB328 INTRODUCED
+141 (1) The number of rules and guidance documents
+142 reviewed.
+143 (2) The number of rules and guidance documents modified
+144 or eliminated.
+145 (3) A summary of any recommendations made by the
+146 artificial intelligence system which were accepted and
+147 rejected.
+148 (4) An estimate of the cost savings to persons that are
+149 regulated by the agency.
+150 (b) Each agency shall publish the report on the
+151 agency's website.
+152 Section 8. This act shall become effective on October
+153 1, 2026.
+Page 6

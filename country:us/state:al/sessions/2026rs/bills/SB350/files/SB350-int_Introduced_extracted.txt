@@ -1,0 +1,236 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB350 INTRODUCED
+1 SB350
+2 QNPFP15-1
+3 By Senators Chesteen, Chambliss, Albritton, Melson, Gudger
+4 RFD: Healthcare
+5 First Read: 10-Mar-26
+Page 0
+
+First Read: 10-Mar-26
+QNPFP15-1 03/04/2026 SH EBO SH EBO-2026-29
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, certain anticompetitive
+6 business practices violate state and federal antitrust
+7 law.
+8 Also under existing law, states may provide
+9 immunity from state and federal antitrust laws under
+10 the state action doctrine, subject to certain
+11 requirements.
+12 This bill would create the Rural Health
+13 Antitrust Immunity Act.
+14 This bill would provide immunity from antitrust
+15 laws to rural healthcare providers who engage in
+16 conduct to improve healthcare access, healthcare
+17 quality, and health outcomes for rural Alabama citizens
+18 through the Alabama Rural Health Transformation
+19 Program’s initiatives.
+20 This bill would establish a system of continued
+21 oversight and supervision by the state.
+22
+23 A BILL
+24 TO BE ENTITLED
+25 AN ACT
+26
+27 Relating to rural healthcare; to authorize regulated
+28 collaboration among rural healthcare providers and related
+Page 1
+
+collaboration among rural healthcare providers and related
+SB350 INTRODUCED
+29 entities; to establish a certification and active supervision
+30 framework administered by the state; to articulate a state
+31 policy displacing competition where necessary to preserve
+32 rural healthcare access and quality; to provide limited
+33 immunity from state and federal antitrust laws consistent with
+34 the state action doctrine; to prescribe application, review,
+35 monitoring, renewal, and enforcement procedures; to limit
+36 immunity to approved and supervised conduct; and to provide
+37 related protections and safeguards.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. This act may be known and cited as the Rural
+40 Health Antitrust Immunity Act.
+41 Section 2. The Legislature finds and declares the
+42 following:
+43 (1) Alabama’s rural communities face persistent
+44 disparities in access to care, workforce capacity, health
+45 outcomes, and healthcare infrastructure, requiring coordinated
+46 and sustained action across state agencies, the Legislature,
+47 providers, and community partners.
+48 (2) Rural healthcare facilities are closing and losing
+49 important specialty services due to declining populations,
+50 diminishing health literacy and nutrition awareness,
+51 increasing costs, and the inability to recruit and retain
+52 qualified physicians and other healthcare professionals.
+53 (3) The One Big Beautiful Bill Act, signed into law on
+54 July 4, 2025, by President Donald J. Trump, established the
+55 Rural Health Transformation Program, which authorizes states
+56 to submit plans to strengthen rural communities by improving
+Page 2
+
+to submit plans to strengthen rural communities by improving
+SB350 INTRODUCED
+57 healthcare access, quality, and outcomes by transforming the
+58 healthcare delivery system. On November 5, 2025, the state
+59 submitted its plan, known as the Alabama Rural Health
+60 Transformation Program, to the Centers for Medicare & Medicaid
+61 Services, which includes policy reforms, innovative care
+62 models, shared-service infrastructure, and workforce
+63 initiatives.
+64 (4) On December 18, 2025, Governor Kay Ivey issued
+65 Executive Order No. 741 which established the Alabama Rural
+66 Health Transformation Advisory Group to coordinate policy
+67 development, stakeholder engagement, and intergovernmental
+68 collaboration.
+69 (5) Collaboration among entities and individuals to
+70 expand access to healthcare in rural areas of the state is in
+71 the best interest of Alabama citizens.
+72 (6) It is the policy of this state to improve
+73 healthcare access, healthcare quality, and health outcomes for
+74 Alabama citizens who live in one of the state’s rural counties
+75 through the Alabama Rural Health Transformation Program’s
+76 initiatives, and, where necessary, to substitute regulated
+77 collaboration and coordination for unfettered competition
+78 under active state supervision. The Legislature further
+79 articulates a state policy to displace competition in rural
+80 healthcare markets, when reasonably necessary to advance the
+81 purposes of this Act, including authorization of conduct that
+82 may otherwise restrain trade, affect prices, markets, or
+83 output.
+84 (7) It is the intent of the legislature to exempt from
+Page 3
+
+(7) It is the intent of the legislature to exempt from
+SB350 INTRODUCED
+85 state anti-trust laws, and provide immunity from federal
+86 anti-trust laws through the state action doctrine, to entities
+87 and individuals carrying out the state’s policy provided in
+88 this Act.
+89 (8) This Act is intended to satisfy the requirements of
+90 the state-action doctrine under federal antitrust law.
+91 Section 3. (a) Subject to approval as provided in this
+92 Act, entities and individuals may engage in data sharing,
+93 collaborating, and providing shared services to carry out the
+94 state’s policy provided in this Act. Such activities may
+95 include, but are not limited to:
+96 (1) Joint purchasing and contracting;
+97 (2) Shared clinical, administrative, and support
+98 services;
+99 (3) Coordinated staffing arrangements;
+100 (4) Joint quality improvement initiatives;
+101 (5) Shared technology platforms;
+102 (6) Joint negotiations with payors, suppliers, and
+103 vendors;
+104 (7) Coordinated service line development; and
+105 (8) Shared facilities, equipment, and infrastructure.
+106 (b) Prior to engaging in activities provided in
+107 subsection (a), an entity or individual shall obtain a valid
+108 certificate authorizing such activities issued by the State
+109 Health Planning and Development Agency, acting through its
+110 Executive Director.
+111 (c) An applicant shall describe with reasonable
+112 particularity:
+Page 4
+
+particularity:
+SB350 INTRODUCED
+113 (1) The parties to the engagement;
+114 (2) The nature and scope of the proposed activities;
+115 (3) The anticipated effects of engagement, including
+116 any expected impact on competition; and
+117 (4) Any other information requested by the State Health
+118 Planning and Development Agency.
+119 (d) In addition, to the requirements of subsection (c),
+120 the applicant shall certify that the engagement is in good
+121 faith and is reasonably necessary to further the state’s
+122 policy set forth in this Act.
+123 (e) The State Health Planning and Development Agency
+124 may issue a certificate if it determines that the activities
+125 are reasonably necessary to further the state’s policy set
+126 forth in this Act and the benefits of the proposed activities
+127 outweigh foreseeable anticompetitive effects. In making this
+128 determination, the State Health Planning and Development
+129 Agency may consider the effects of the proposed engagement on:
+130 (1) The quality of hospital and related care provided
+131 to rural Alabama citizens;
+132 (2) The continued availability of hospital facilities
+133 in close geographical proximity to the rural communities they
+134 serve;
+135 (3) Potential cost efficiencies in the services
+136 provided by the applicant and other individuals and entities
+137 involved in the proposed engagement;
+138 (4) The efficient use of rural healthcare resources and
+139 equipment, including the avoidance of duplication of resources
+140 and equipment;
+Page 5
+
+and equipment;
+SB350 INTRODUCED
+141 (5) Improvements in health outcomes in the region
+142 impacted by the proposed engagement;
+143 (6) Access to care for medically underserved rural
+144 populations and the extent to which these populations are
+145 likely to benefit from the proposed activities;
+146 (7) The ability of rural healthcare payors to negotiate
+147 appropriate payment and service arrangements with rural
+148 healthcare providers;
+149 (8) Competition among rural healthcare providers and
+150 others providing goods or services to, or competing with, such
+151 providers;
+152 (9) The quality, availability, and price of healthcare
+153 services for rural Alabama citizens; and
+154 (10) Whether other alternatives could reasonably
+155 achieve the same or greater public health benefits with fewer
+156 anticompetitive effects.
+157 (f) A certificate issued under this section shall not
+158 become effective unless and until it is reviewed and approved
+159 in writing by the Governor or the Governor’s designee. The
+160 Governor may approve, in whole or in part, disapprove, or
+161 return the certificate for further consideration, and may
+162 impose conditions consistent with the purposes of this Act.
+163 Section 4. (a) A certificate issued pursuant to section
+164 3. is valid for a period of three years. An applicant may
+165 renew its certificate in three-year increments. An application
+166 for renewal shall include:
+167 (1) A certification that the engagement has continued
+168 and will continue in good faith and continues to be reasonably
+Page 6
+
+and will continue in good faith and continues to be reasonably
+SB350 INTRODUCED
+169 necessary to further the state’s policy set forth in this Act;
+170 (2) An explanation of how the engagement has furthered
+171 the state’s policy as set forth in this Act; and
+172 (3) Any other information requested by the State Health
+173 Planning and Development Agency.
+174 (b) The State Health Planning and Development Agency
+175 may approve the renewal, in whole or in part, or on an amended
+176 basis, if it determines that the activities continue to be
+177 reasonably necessary to further the state’s policy set forth
+178 in this Act and the benefits of the proposed activities
+179 outweigh foreseeable anticompetitive effects.
+180 Section 5. (a) The State Health Planning and
+181 Development Agency shall adopt rules that provide for the
+182 ongoing and active supervision of activities conducted
+183 pursuant to a certificate issued under this Act.
+184 (b) Notwithstanding Section 4., the State Health
+185 Planning and Development Agency shall amend or revoke a
+186 certificate at any time if it determines that the activities
+187 conducted pursuant to a certificate are not reasonably
+188 necessary to further the state’s policy set forth in this Act
+189 or the benefits of the proposed activities do not outweigh
+190 foreseeable anticompetitive effects.
+191 Section 6. The State Health Planning and Development
+192 Agency shall adopt rules to implement this act.
+193 Section 7. This act shall become effective immediately.
+Page 7

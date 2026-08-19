@@ -1,0 +1,663 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB133 INTRODUCED
+1 SB133
+2 NRXWITT-1
+3 By Senator Singleton (N & P)
+4 RFD: Local Legislation
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+NRXWITT-1 01/12/2025 CMH (L)bm 2025-3332
+1
+2
+3
+4 A BILL
+5 TO BE ENTITLED
+6 AN ACT
+7
+8
+9 Relating to the Greene County Racing Commission; to
+10 amend Sections 45-32-150, 45-32-150.01, 45-32-150.02,
+11 45-32-150.06, 45-32-150.07, 45-32-150.08, 45-32-150.11,
+12 45-32-150.12, 45-32-150.13, 45-32-150.16, and 45-32-150.20,
+13 Code of Alabama 1975, to increase the annual compensation of
+14 members of the commission; to further provide for the duties
+15 of members of the commission; to delete certain restrictions
+16 on the number of racing days authorized; to increase the
+17 authorized license fee; to establish a residency requirement
+18 as a condition for licensure; to provide Legislative intent;
+19 to further provide for the levy of a local tax on pari-mutuel
+20 wagering; to further provide for the distribution of revenues;
+21 and to repeal Section 45-32-150.09, Code of Alabama 1975,
+22 relating to the suspension or revocation of a license, and
+23 Section 45-32-150.19, Code of Alabama 1975, relating to the
+24 manipulation of racing outcomes.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Sections 45-32-150, 45-32-150.01,
+27 45-32-150.02, 45-32-150.06, 45-32-150.07, 45-32-150.08,
+28 45-32-150.11, 45-32-150.12, 45-32-150.13, 45-32-150.16, and
+Page 1
+
+45-32-150.11, 45-32-150.12, 45-32-150.13, 45-32-150.16, and
+SB133 INTRODUCED
+29 45-32-150.20, Code of Alabama 1975, are amended to read as
+30 follows:
+31 "§45-32-150
+32 (a) The Greene County Racing Commission is hereby
+33 created and established and is vested with the powers and
+34 duties specified in this part, and all other powers necessary
+35 and proper to enable it to execute fully and effectually the
+36 purposes of this part. The official name of the commission
+37 shall be Greene County Racing Commission, the same being
+38 sometimes referred to herein as the racing commission or the
+39 commission.
+40 (b) The commission shall consist of three persons who
+41 shall be appointed by the Governor legislative delegation that
+42 represents Greene County in the House and the Senate for the
+43 State of Alabama. Each such member shall hold office for a
+44 term of eightthree years from the effective date of the
+45 appointment; provided, however, the term of office of the
+46 present three commissioners shall expire three years after
+47 their last appointment.
+48 (c) If a vacancy occurs for any reason, then that
+49 position shall be filled for the unexpired term and that
+50 commissioner shall be chosen in the same manner as other
+51 commissioners are appointed.
+52 (d) All books, records, maps, documents, and papers
+53 shall constitute public records, and shall be available for
+54 copying, examination, and inspection during all normal
+55 business hours by any agency, official, or personnel."
+56 "§45-32-150.01
+Page 2
+
+"§45-32-150.01
+SB133 INTRODUCED
+57 (a) The members of the commission shall be qualified
+58 electors of Greene County and not less than 21 years of age,
+59 who shall have resided in the State of Alabama for a period of
+60 not less than five years next preceding their appointment.
+61 Each commissioner shall take the same constitutional oath of
+62 office as other county officers, and shall give bond payable
+63 to the county in the amount of five thousand dollars ($5,000),
+64 conditioned that he or she shall faithfully and properly
+65 perform the duties of his or her office. The premiums on
+66 suchthe bonds shall be paid by the commission. The commission
+67 may employ such assistanceas many assistants and employees as
+68 may be necessary who shall be paid out of funds deposited in
+69 the county treasury to the credit of the racing commission.
+70 (b) A member of the racing commission may not be an
+71 official member of any board of directors, or person
+72 financially interested in any race track, pari-mutuel license,
+73 or race meeting licensed by the commission, nor shall he or
+74 she race dogs in any race meeting licensed by the commission.
+75 (c) An individual member of the commission or any
+76 officer, employee, or agent of the commission shall not be
+77 held personally liable for any liability, loss, damage, or
+78 expense suffered by any person as the result of any action
+79 taken by the commission, unless the liability, loss, damage,
+80 or expense arises out of or results from the willful
+81 misconduct or wrongdoing of the member, officer, employee, or
+82 agent."
+83 "§45-32-150.02
+84 (a) The qualifications and manner of appointment of
+Page 3
+
+(a) The qualifications and manner of appointment of
+SB133 INTRODUCED
+85 members of the Greene County Racing Commission shall be set by
+86 local law. The salary or other compensation of a member of the
+87 Greene County Racing Commission shall be set by the local
+88 legislative delegation that represents Greene County in the
+89 state Legislature.The compensation of each member of the
+90 commission shall be twenty-five thousand dollars ($25,000)
+91 annually. Each commissioner who attends a racing event or
+92 performs the duties required by this part, at the facility,
+93 shall receive an additional fifty dollars ($50) per day.
+94 (b) One member of the commission shall be in attendance
+95 or on call to cover each 24-hour pari-mutuel dayrequired to be
+96 in attendance at each racing event.
+97 (c) Each member of the Greene County Racing Commission
+98 shall be paid at the same rate as any other employee of the
+99 Greene County Commission for attending any out-of-town meeting
+100 on official business of the Greene County Racing Commission.
+101 (d) The above compensation and other sums required to
+102 be paid under this section shall be paid out of the funds in
+103 the county treasury deposited to the credit ofcollected by the
+104 Greene County Racing Commission and shall be paid to the
+105 commissioners in the same manner as the compensation of other
+106 county officers is paid."
+107 "§45-32-150.06
+108 Any person, association, or corporation desiring to
+109 operate a racetrack or pari-mutuel license in the county,
+110 shall have the right, subject to this part, to hold and
+111 conduct one or more racing meetings at the track each year,
+112 provided that no such license shall be granted to any person,
+Page 4
+
+provided that no such license shall be granted to any person,
+SB133 INTRODUCED
+113 association, or corporation, or to any track, for a period
+114 including more than 313 racing days in any one year. The
+115 racing days shall include the charity days as provided in
+116 Section 45-32-150.21 for the racetrack."
+117 "§45-32-150.07
+118 No race or racing shall be permitted on Sunday. No
+119 person individual under 18 years of age shall may be employed
+120 in any manner about the race track or pari-mutuel license
+121 except as exercise boys and grooms; nor shall persons under 18
+122 years of age or be permitted to attend any race."
+123 "§45-32-150.08
+124 (a) On or before the first day of December of each
+125 year, anyAny person, association, or corporation possessing
+126 the qualifications prescribed in this part shall have the
+127 right to apply to the racing commission for a permit or
+128 license to conduct race meetings and racing under this part.
+129 (b) On or before the first day of January of each
+130 year,Within 30 days after the receipt of any such application
+131 under this section, the commission shall convene to consider
+132 and act upon all permits or licenses applied for which an
+133 application has been received.
+134 (c) Approved permits or licenses shall be granted for a
+135 period of not more than 10 years from the date of issuance and
+136 shall set forth, in addition to any other information
+137 prescribed by the commission, the name of the licensee, the
+138 location of the race track or pari-mutuel license, duration of
+139 the race meeting, and the kind of racing desired to be
+140 conducted and shall show the receipt by the commission of a
+Page 5
+
+conducted and shall show the receipt by the commission of a
+SB133 INTRODUCED
+141 license fee set by the commission, the setting of which is
+142 hereby authorized, provided, however, the license fee shall
+143 not exceed one thousand dollars ($1,000) annually.
+144 (d) The fee for the license shall be established by the
+145 commission. The annual license fee may not exceed twenty-five
+146 thousand dollars ($25,000) or, for multi-year contracts, not
+147 more than twenty-five thousand dollars ($25,000) for each year
+148 of the multi-year contract.
+149 (e) No such license issued under this section shall be
+150 transferable, nor shall it apply to any other place, track, or
+151 enclosure, except the one specified in this licensewith the
+152 approval of the commission.
+153 (1)(f) The commission shall not issue any licenses
+154 which would permit any two race tracks in the county to
+155 operate on the same racing days. Further, after the first
+156 license has been issued to the licensee, all subsequent
+157 applications for The commission may issue no more than two
+158 racetrack or pari-mutuel licenses.
+159 (g) When applying to renew a license, by a permit
+160 holderthe application shall be accompanied by proof, in such a
+161 form as the commission may require, that the licensee still
+162 possesses the qualifications set out in this part. Such The
+163 application for renewal of licenses a license shall be granted
+164 upon the same terms and conditions as previously issued and
+165 shall not be denied except for due cause.
+166 (h) An application for a license to operate a racetrack
+167 or pari-mutuel pool shall only be granted if the applicant
+168 meets the following:
+Page 6
+
+meets the following:
+SB133 INTRODUCED
+169 (1) The applicant is a corporation, association,
+170 company, partnership, sole proprietorship, individual, or
+171 other legal entity that has been incorporated, organized, or
+172 otherwise established in this state and currently holds a
+173 racetrack or pari-mutuel license immediately preceding the
+174 date on which the license is issued.
+175 (2) If the applicant is a corporation, association,
+176 company, partnership, sole proprietorship, or other legal
+177 entity, the applicant has been incorporated, organized, or
+178 otherwise established in this state for at least five years
+179 and its managing member or majority officer has been a
+180 resident of this state for at least five years immediately
+181 preceding the date on which the license is issued.
+182 (3) If the applicant is an individual, the applicant
+183 has been a resident of this state for at least five years
+184 immediately preceding the date on which the license is issued.
+185 (2)(i) Seventy-fiveTo the best of a licensee's ability,
+186 75 percent of the employees of the track or tracks shall be
+187 bona fide resident citizens of Greene County, Alabama."
+188 "§45-32-150.11
+189 (a) The commission shall have the power to grant,
+190 refuse, suspend, or withdraw licenses to all persons connected
+191 with race tracks, including gate keepers, announcers, ushers,
+192 starters, officials, drivers, dog owners, agents, trainers,
+193 grooms, stable foremen, exercise boys, veterinarians, valets,
+194 sellers of racing forms or bulletins, and attendants in
+195 connection with the wagering machines, pursuant to such the
+196 rules and regulations as adopted by the commission may adopt
+Page 7
+
+rules and regulations as adopted by the commission may adopt
+SB133 INTRODUCED
+197 and upon the payment of a license fee as fixed and determined
+198 by the commission in accordance with the position and
+199 compensation of such person.
+200 (b) Any license may be revoked by the commission, at
+201 its discretion, and any person whose license is revoked shall
+202 be ineligible to participate in such occupation connected with
+203 racing unless the license is returned by the commission with
+204 permission to operate thereunder. The commission may deny or
+205 revoke a license to any person who has been refused or denied
+206 a license by any other state racing commission or racing
+207 authority.
+208 (c) Upon a licensee's willful violation of this part or
+209 any rule of the commission, the commission may do either of
+210 the following:
+211 (1) Suspend or revoke the license of the licensee.
+212 (2) Assess a fine against the licensee of not more than
+213 one thousand dollars ($1,000) for each offense."
+214 "§45-32-150.12
+215 (a) The commission shall make rules governing,
+216 permitting, and regulating the wagering on dog races under the
+217 form of mutuel wagering by patrons known as pari-mutuel
+218 wagering, which method shall be legal to the extent that and
+219 so long as, the same is carried on and conducted strictly in
+220 conformity with this part, and not otherwise. Only the
+221 persons, associations, or corporations receiving a license
+222 from the commission shall have the right or privilege to
+223 conduct this type of wagering and the licenses shall restrict
+224 and confine this form of wagering to a space within the race
+Page 8
+
+and confine this form of wagering to a space within the race
+SB133 INTRODUCED
+225 meeting grounds. All other forms of wagering on the result of
+226 dog races shall continue to be illegal, and any or all
+227 wagering outside of the enclosure of such races, where such
+228 races shall have been licensed by the commission shall be
+229 illegal.
+230 (b) No person or corporation shall directly or
+231 indirectly purchase pari-mutuel tickets or participate in the
+232 purchase of any part of a pari-mutuel pool for another for
+233 hire or for any gratuity and no person shall purchase any part
+234 of a pari-mutuel pool through another, wherein he or she gives
+235 or pays directly or indirectly such other person anything of
+236 value. Any person violating this section shall be deemed
+237 guilty of a misdemeanor, and, upon conviction in a court of
+238 competent jurisdiction, shall be punished by a fine of not
+239 more than five hundred dollars ($500), or by imprisonment not
+240 to exceed six months, or both fine and imprisonment in the
+241 discretion of the court.
+242 (c) In addition to other rules and regulations that may
+243 be promulgatedadopted by the racing commission, the following
+244 shall be complied with by the licensee or operator of the race
+245 plant and employees thereof.:
+246 (1) A duly licensed veterinarian shall be on the
+247 grounds at weighing time and make examination of the physical
+248 condition of each greyhound, and any dog not considered to be
+249 in good physical condition, shall be reported to the presiding
+250 official.
+251 (2)(1) An adequate security force shall be employed as
+252 prescribed by the racing commission. Members of security force
+Page 9
+
+prescribed by the racing commission. Members of security force
+SB133 INTRODUCED
+253 shall have the same powers as other law enforcement officers
+254 of the county while performing their duties on the premises of
+255 the racetrack.
+256 (3)(2) Public liability insurance shall be carried by
+257 the licensee or operator in an amount and with a company
+258 approved by the racing commission.
+259 (4)(3) A pari-mutuel ticket shall not be sold to an
+260 individual who is visibly inebriated.
+261 (5) The racing operator is authorized to open the
+262 Greene County Racetrack for business and to conduct live
+263 greyhound racing and or televised horse or greyhound racing
+264 and pari-mutuel wagering during the hours as it deems
+265 desirable, however in no event shall the racing commission be
+266 authorized to allow live greyhound racing or televised horse
+267 or greyhound racing, or both, and pari-mutuel wagering thereon
+268 to be conducted after 2:00 AM on Sunday; provided that the
+269 racing operator shall not conduct any live racing event at the
+270 Greene County Racetrack before 10:00 AM, nor shall it present
+271 any televised racing event before 8:00 AM with the hour to be
+272 determined according to the time then applicable in Alabama.
+273 If the racing operator keeps the Greene County Racetrack open
+274 for business until midnight on any day, whether conducting
+275 pari-mutuel wagering on live racing or televised racing, or
+276 both, the racing operator may continue all or any of its
+277 operations past midnight for not exceeding the first two hours
+278 of the following day, even if the following day is not a day
+279 on which the Greene County Racetrack is scheduled to be open
+280 for business as a racing day permitted under this part, and
+Page 10
+
+for business as a racing day permitted under this part, and
+SB133 INTRODUCED
+281 the time, not exceeding two hours, for which the operations of
+282 the racetrack are continued into the following day shall not
+283 be counted as a racing day or any part thereof against the
+284 limit of racing days permitted the racing operator in any one
+285 year. A pari-mutuel ticket shall not be sold to an individual
+286 who is visibly inebriated.
+287 (6)(4) Notwithstanding the provisions of this part and
+288 any rules and regulations of the racing commission now in
+289 effect, there shall be no limit imposed upon the number of
+290 races which may be conducted within a single racing program."
+291 "§45-32-150.13
+292 (a) Every licensee conducting race meetings under this
+293 part, shall pay to the ex-officio treasurer of the racing
+294 commission, for the use of the commission, a tax in an amount
+295 equal to four percent of the total contributions to all
+296 simulcast pari-mutuel pools conducted or made on any race
+297 track or pari-mutuel licenseelicensed under this part. The
+298 commission of a licensee on a pari-mutuel pool shall in no
+299 event exceed 18 percent of the amount contributed to the
+300 pari-mutuel pool, which amount shall include the four percent
+301 tax heretofore provided. After the deduction of the four
+302 percent for the use of the commission and the percentage
+303 commission of the licensee, the remainder of the total
+304 contributions to each pool shall be divided among and
+305 redistributed to the contributors to such pools betting on the
+306 winning dog. The amount of each redistribution for each
+307 winning bet placed shall be determined by dividing the total
+308 amount remaining in the pool after the deductions hereinabove
+Page 11
+
+amount remaining in the pool after the deductions hereinabove
+SB133 INTRODUCED
+309 provided for by the number of bets placed on the winning dog.
+310 Each redistribution shall be made in a sum equal to the next
+311 lowest multiple of 10. The licensee is entitled to retain the
+312 odd cents of all redistributions to be known as the breaks to
+313 the dime, and all monies represented by any unclaimed,
+314 uncashed, or abandoned pari-mutuel tickets known as outs
+315 money. Under the pari-mutuel system of wagering herein
+316 provided, the licensee shall be permitted to provide separate
+317 pools for bets to win, place, and show and also a daily double
+318 pool, a quiniela pool, double quiniela pool, trifecta pool,
+319 and such other bets and pools as the commission may from time
+320 to time allow. Each pool shall be redistributed separately as
+321 herein provided. Should there be no ticket bet on the winning
+322 dog, the entire pool shall be divided among the holders of
+323 tickets on the dog running next in line until the pool has
+324 been redistributed to the contributors. The licensee shall be
+325 required to use a totalizator machine to record the wagering
+326 and compute the odds. Rules and regulations governing the
+327 operation of each of the pools shall be set out in book form
+328 by the racing commission. The licensee shall collect from each
+329 person attending the race meeting under this part 15 percent
+330 of the established admissions price or ten cents ($.10),
+331 whichever sum is greater, as an admission tax. Licensees shall
+332 make payment of such taxes to the ex-officio treasurer of the
+333 racing commission every tenth calendar day of any and every
+334 race meeting, which payment shall be accompanied by a report
+335 on the races covered by such report and such other information
+336 as the commission may require. Every license issued by the
+Page 12
+
+as the commission may require. Every license issued by the
+SB133 INTRODUCED
+337 commission shall contain the terms, conditions, provisions,
+338 percentage commissions of licensee, and tax as set forth in
+339 this section, which such terms, conditions, provisions,
+340 percentage commission of licensee, and tax shall not be
+341 altered or changed during the term of such license without the
+342 mutual consent of the commission and licensee.
+343 (b) Every licensee conducting historical horse racing
+344 under this part shall pay to the ex-officio treasurer of the
+345 racing commission, for the use of the commission, a tax in an
+346 amount equal to 10 percent of the total contributions less
+347 prizes and promotions paid to winners from all historical
+348 horse racing pari-mutuel pools conducted or made on any
+349 racetrack or pari-mutuel licensee under this part. The tax may
+350 be adjusted as determined necessary by the commission but
+351 shall not exceed 15 percent."
+352 "§45-32-150.16
+353 (a) All fees, commissions, taxes, and other monies,
+354 including fines and forfeitures, received under this part
+355 shall be paid to the Treasurer of Greene County and deposited
+356 by the treasurer in the county treasury to the account of
+357 theex-officio Treasurer of the Greene County Racing Commission
+358 and distributed by and through the Greene County Racing
+359 Commission. All such monies remaining, after payment of
+360 expenses incurred and retention of necessary operational
+361 funding in the administration of this part, including the
+362 payment of the salaries and expenses of the members and
+363 employees of this commission, shallmay be distributed on a
+364 quarterly basis as follows:
+Page 13
+
+quarterly basis as follows:
+SB133 INTRODUCED
+365 (1) There shall be distributed toTo the Greene County
+366 Commission, an amount not to exceed two hundred thousand
+367 dollars ($200,000)forty thousand dollars ($40,000) per year:
+368 a. To pay principal of and interest on bonds, warrants,
+369 or other securities at any time thereafter issued by the
+370 Greene County Commission for the purpose of providing and
+371 equipping the existing jail facility; or constructing new jail
+372 facilities and renovating, improving, and equipping existing
+373 jail facilities.
+374 b. To enable the county to make lease rental payments
+375 to any public corporation in an amount sufficient to retire
+376 bonds or other securities issued by such public corporation
+377 for the purpose of providing funds to pay cost of acquiring,
+378 providing, construction, and equipping a new jail facility;
+379 renovating, improving, and equipping the existing jail
+380 facility; or constructing new jail facilities and renovating
+381 existing jail facilities, or any combination thereof.
+382 c. To pay principal of and any interest on bonds,
+383 warrants, or other securities at any time hereafter issued by
+384 the Greene County Commission for the purpose of providing
+385 funds to pay costs of acquiring, providing, constructing, and
+386 equipping a new county courthouse; and renovating, improving,
+387 and equipping the existing county courthouse.
+388 d. To enable the county to make lease rental payments
+389 to any public corporation in an amount sufficient to retire
+390 bonds or other securities issued by such public corporation
+391 for the purpose of providing funds to pay costs of acquiring,
+392 providing, construction, and equipping a new county
+Page 14
+
+providing, construction, and equipping a new county
+SB133 INTRODUCED
+393 courthouse; renovating, improving, and equipping the existing
+394 county courthouse; or acquiring, providing, constructing, and
+395 equipping a new county courthouse and renovating, improving,
+396 and equipping the existing county courthouse or any
+397 combination thereof. At such time as the principal and
+398 interest bonds, warrants, or other securities heretofore
+399 mentioned are satisfied, then the sum shall be prorated
+400 equally as provided in the following subdivisions (2), (3),
+401 (4), and (5).
+402 The balance is to be distributed as follows:
+403 (2) Twenty-five percent of the monies shall be
+404 appropriated to the municipalities of Greene County on a per
+405 capita basis according to the most recent population figures
+406 used by the federal government for the purpose of revenue
+407 sharing, or if these figures are not available, the most
+408 recent federal decennial census shall be used.
+409 (3) Five Seven percent to the Greene County Hospital
+410 Board.
+411 (4) Thirty percent of the monies shall be appropriated
+412 to the Greene County Board of Education.
+413 (5) One percent to the E-911 system.
+414 (6) Two percent to the Greene County Industrial
+415 Development Authority to be used first for the development and
+416 provision of natural gas to the Crossroads of America
+417 Industrial Park.
+418 (7) One percent for the maintenance or provision of a
+419 county ambulance service.
+420 (5)(8) FortyThirty-four percent of the monies shall be
+Page 15
+
+(5)(8) FortyThirty-four percent of the monies shall be
+SB133 INTRODUCED
+421 appropriated to the General Fund of Greene County to be
+422 allocated and spent in the following prescribed manner:
+423 a. Fifty-five and one-halfForty percent of this amount
+424 shall remain unearmarked and may be spent by the county
+425 commission in any manner, provided by law, for the benefit of
+426 the citizens of Greene County, by the county governing body
+427 thereof.
+428 b. Ten percent to be used by the county governing
+429 bodycommission to upgradefor law enforcement purposes in the
+430 county.
+431 c. Fifteen percent for the Greene County fire
+432 departments.
+433 c. Eight percent for the maintenance of a county
+434 ambulance service.
+435 d. TwoFour percent for the establishment and
+436 maintenance of day care centers within the county.
+437 e. Three Four and one-half percent to be appropriated
+438 to the Greene County Library Association for the upgrading of
+439 the library system.
+440 f. One Two percent to be appropriated to the Community
+441 Services Programs of Tuscaloosa-Bibb Counties, Incorporated,
+442 to be used for assistance to low income residents of Greene
+443 County.
+444 g. Two percent to be appropriated to the West Alabama
+445 Mental Health Center, Incorporated, to be used for mental
+446 health services within Greene County.
+447 h. One Three percent to be appropriated to the Greene
+448 County Retired Senior Volunteer Program (RSVP)Woman to Woman,
+Page 16
+
+County Retired Senior Volunteer Program (RSVP)Woman to Woman,
+SB133 INTRODUCED
+449 Incorporated.
+450 i. Two Three and one-half percent to be appropriated to
+451 the Society of Folk Arts and Culture, Incorporated, for
+452 culture and youth development.
+453 j. One percent to be appropriated to the Greene County
+454 Commission to be used as follows:
+455 1. One-third of the one percent thereof to be used by
+456 the county commission in cultural and historical preservation.
+457 2. One-third of the onej. One percent thereof to the
+458 Greene County Historical Society for their use in restoring
+459 and preserving historic sites and buildings in the county.
+460 3. One-third of the onek. One percent thereof to the
+461 Alabama Civil Rights Educational Freedom Museum, Incorporated.
+462 k. Two l. Three percent to the Greene County Health
+463 Department to be used for general health care in Greene County
+464 and to augment the Women, Infants, and Children (WIC) and
+465 related health programs in Greene County.
+466 l. Three m. Four percent to be appropriated to the
+467 Parks and Recreation Board. No more than 15 percent of the
+468 three percent thereof shall be used for maintenance and
+469 development of the Greene County Golf Course.
+470 m.n. Four and one-half percent to Greene County
+471 Community Improvement Association for the construction,
+472 renovation, and operation of community centers in Tishabee,
+473 Clinton, Dollarhide, Knoxville, Mantua, and Mt. Hebron. When
+474 the foregoing facilities have been constructed and renovated
+475 in these communities, then the funds shall be designated for
+476 the general use and operations of the Greene County Community
+Page 17
+
+the general use and operations of the Greene County Community
+SB133 INTRODUCED
+477 Improvement Association for the construction of additional
+478 community centers and the operation of community centers in
+479 Greene County.
+480 n.o. One and three-quarters percent to be appropriated
+481 to Branch Heights.
+482 o.p. Three-quarters percent to be appropriated to the
+483 county department of human resources.
+484 p. One and one-half percent to be appropriated to the
+485 E-911 system.
+486 (b) The Greene County Racing Commission shall
+487 redistribute the allocated funding of any defunct agency or
+488 organization receiving funds under this section."
+489 "§45-32-150.20
+490 (a) It shall be unlawful for any person to transmit or
+491 communicate to another by any means whatsoever the results,
+492 changing odds, track conditions, or any other information
+493 relating to any greyhound race from any race track in this
+494 county, between the period of time beginning one hour prior to
+495 the first race of the day and ending 30 minutes after the
+496 posting of the official results of each race, as to that
+497 particular race, except that this period may be reduced to
+498 permit the transmitting of the results of the last race each
+499 day not sooner than 15 minutes after the official posting of
+500 such results. Provided, however, that the commission may, by
+501 rule, permit the immediate transmission by radio, television,
+502 or press wire of any pertinent information concerning feature
+503 races.
+504 (b)(a) It shall be unlawful for any person to transmit
+Page 18
+
+(b)(a) It shall be unlawful for any person to transmit
+SB133 INTRODUCED
+505 by any means whatsoever racing information to any other
+506 person, or to relay the same to any other person by word of
+507 mouth, by signal, or by use of telephone, telegraph, radio, or
+508 any other means, when the information is knowingly used or
+509 intended to be used for illegal gambling purposes, or in
+510 furtherance of such gambling purposes.
+511 (b) No license shall be issued which would allow any
+512 race track or pari-mutuel licensee in the county to operate on
+513 the same day.
+514 (c) Any person violating this section shall be guilty
+515 of a felony and, upon conviction, shall be imprisoned in the
+516 state penitentiary for not less than one year nor more than 10
+517 years, or shall be fined not less than one thousand dollars
+518 ($1,000) nor more than five thousand dollars ($5,000), or
+519 both, in the discretion of the court."
+520 Section 2. (a) The Legislature hereby finds and
+521 declares that a computerized machine, which replays actual
+522 historical horse races and allows pari-mutuel wagering
+523 thereon, is already a permissible lawful activity at each of
+524 the four pari-mutuel wagering racetracks in the State of
+525 Alabama. The Legislature hereby further finds and declares
+526 that a uniform local tax on the handle from pari-mutuel
+527 wagering on these historical horse racing computerized
+528 machines is necessary for the licensed racetrack and
+529 pari-mutuel licenses located in Greene County so that such
+530 racetrack and pari-mutuel licenses can be competitive with the
+531 other racetracks and pari-mutuel licenses located in the State
+532 of Alabama.
+Page 19
+
+of Alabama.
+SB133 INTRODUCED
+533 (b) For purposes of this act, pari-mutuel wagering on
+534 historical horse racing computerized machines may be conducted
+535 without regard to any of the following: (i) The type of
+536 graphics on the machine used to conduct the activity; (ii)
+537 whether the patron chooses a specific horse upon which to
+538 wager; and (iii) whether the patron watches all or part of the
+539 historical race.
+540 (c) The local tax on pari-mutuel wagering on historical
+541 horse races on these computerized machines at the Greene
+542 County racetrack and other pari-mutuel licenses shall be
+543 calculated at a rate up to 15 percent and the state tax rate
+544 shall be levied at one percent and shall be collected,
+545 administered, and distributed in the same manner and on the
+546 same terms as are applicable to the local pari-mutuel tax on
+547 live greyhound racing conducted at the Greene County racetrack
+548 and pari-mutuel licenses, provided that the total handle less
+549 prizes paid to winners from pari-mutuel wagering of historical
+550 horse races on these computerized machines shall be separately
+551 calculated from any other racing handle, live or simulcast.
+552 (d) It is the intent of the Legislature in assessing a
+553 state and local tax that the tax shall be in lieu of any other
+554 tax on pari-mutuel wagering on historical horse races on these
+555 computerized machines that may otherwise be imposed by law,
+556 including, but not limited to, any tax assessed pursuant to
+557 Sections 45-32-151.02, 40-23-2, 40-23-61, and 40-12-222, Code
+558 of Alabama 1975.
+559 Section 3. The following sections are repealed:
+560 (1) Section 45-32-150.09, Code of Alabama 1975,
+Page 20
+
+(1) Section 45-32-150.09, Code of Alabama 1975,
+SB133 INTRODUCED
+561 relating to the suspension or revocation of licenses.
+562 (2) Section 45-32-150.19, Code of Alabama 1975,
+563 relating to the manipulation of race outcomes.
+564 Section 4. This act shall become effective immediately.
+Page 21

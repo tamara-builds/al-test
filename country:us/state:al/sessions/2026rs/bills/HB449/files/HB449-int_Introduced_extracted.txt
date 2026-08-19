@@ -1,0 +1,1528 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB449 INTRODUCED
+1 HB449
+2 I3JLVWW-1
+3 By Representative Ensler
+4 RFD: Economic Development and Tourism
+5 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+I3JLVWW-1 02/11/2026 CMH (L) bm 2026-300
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would implement the constitutional
+6 amendment proposed in House Bill xxx of the 2026 Regular
+7 Session to authorize a state lottery by creating the
+8 Alabama Lottery Corporation as a public corporation
+9 tasked with operating and managing the lottery.
+10 This bill would establish the Alabama Lottery
+11 Trust Fund, which would be used by the Legislature each
+12 year to provide supplemental appropriations for only the
+13 following purposes: (i) to address problem gambling
+14 additions and treatment; (ii) to establish a
+15 postsecondary scholarship program for public two-year
+16 community and technical colleges and four-year public
+17 institutions of higher education; (iii) to provide
+18 cost-of-living raises and other benefits for active
+19 public education employees and bonuses for retired
+20 education employees; (iv) to award grants to hospitals to
+21 assist in their operation and prevent their closure; and
+22 (v) to provide tax credits to eligible residents of the
+23 state as determined by the Legislature.
+24 This bill would establish the Alabama Lottery
+25 Corporation Board of Directors to supervise the state
+26 lottery and would provide for the appointment and duties
+27 of the board.
+28 This bill would provide that the lottery
+Page 1
+
+This bill would provide that the lottery
+HB449 INTRODUCED
+29 corporation would be under the day-to-day supervision of
+30 a chief executive officer who would be the president of
+31 the corporation, and would provide for his or her
+32 appointment and duties.
+33 This bill would impose lottery advertising
+34 restrictions on the corporation to limit advertisements
+35 with a strong appeal to minors.
+36 This bill would provide criminal penalties for
+37 sales of lottery tickets to minors, underage purchase of
+38 lottery tickets, making of counterfeit lottery tickets,
+39 skimming of lottery proceeds, and theft of a lottery
+40 prize by fraud.
+41 This bill would require lottery tickets to be
+42 printed onto paper, plastic, or other tangible material,
+43 with exceptions.
+44 This bill would amend various gambling-related
+45 offenses to increase the penalties and provide heightened
+46 criminal penalties for a second or subsequent conviction
+47 under the gambling laws of the state.
+48 This bill would also provide a procedure for
+49 owners and operators of business establishments to be
+50 held criminally liable for allowing unlawful gambling
+51 activities to occur on the business premises.
+52
+53
+54
+55 A BILL
+56 TO BE ENTITLED
+Page 2
+
+TO BE ENTITLED
+HB449 INTRODUCED
+57 AN ACT
+58
+59 Relating to lottery activities; to add Chapter 30 to
+60 Title 41, Code of Alabama 1975, to implement the constitutional
+61 amendment proposed in House Bill xxx of the 2026 Regular
+62 Session, to create the Alabama Lottery to be administered by the
+63 Alabama Lottery Corporation and to provide for the creation and
+64 operation of the corporation; to provide for the governance of
+65 the corporation by a board of directors and provide for the
+66 appointment and duties of the board; to provide for the
+67 appointment of a president of the corporation and provide for
+68 the powers and duties thereof; to establish the Alabama Lottery
+69 Trust Fund and provide for the distribution of funds therein
+70 through an independent supplemental appropriation bill; to
+71 establish certain advertising restrictions related to the
+72 lottery; to amend Sections 13A-12-20, 13A-12-21, 13A-12-22,
+73 13A-12-23, 13A-12-24, 13A-12-25, 13A-12-26, 13A-12-27,
+74 13A-12-28, and 13A-12-30, Code of Alabama 1975, to update and
+75 increase criminal penalties for various unlawful gambling
+76 activities and provide heightened criminal penalties for
+77 subsequent violations; to add Section 13A-12-32 to the Code of
+78 Alabama 1975, to provide a procedure to establish criminal
+79 liability for certain owners and operators where certain
+80 unlawful gambling activities occur; to repeal Division 3 of
+81 Article 2 of Chapter 12 of Title 13A, Code of Alabama 1975,
+82 relating to transportation of lottery paraphernalia; to make
+83 nonsubstantive technical revisions to update the existing code
+84 language to current style; and to provide for the repeal of the
+Page 3
+
+language to current style; and to provide for the repeal of the
+HB449 INTRODUCED
+85 act under certain specified conditions.
+86 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+87 Section 1. Chapter 30 is added to Title 41, Code of
+88 Alabama 1975, to read as follows:
+89 Chapter 30. Alabama Lottery Corporation.
+90 §41-30-1. Accountability of the Alabama Lottery
+91 Corporation.
+92 The Legislature recognizes that the operations of a state
+93 lottery are unique activities for state government and that a
+94 corporate structure will best enable the lottery to be managed
+95 in an entrepreneurial and business-like manner. It is the intent
+96 of the Legislature that the Alabama Lottery Corporation shall be
+97 accountable to the Governor, the Legislature, and the people of
+98 the State of Alabama through a system of audits, reports, and
+99 disclosures as required by this chapter.
+100 §41-30-2. Definitions.
+101 As used in this chapter, the following words have the
+102 following meanings:
+103 (1) BOARD. The Alabama Lottery Corporation Board of
+104 Directors.
+105 (2) CORPORATION. The Alabama Lottery Corporation.
+106 (3) FISCAL YEAR. The fiscal year used by the State of
+107 Alabama government.
+108 (4) INSTANT TICKET. A lottery game in which a player
+109 scratches or otherwise removes anything overlaying words or
+110 symbols to determine if the player has won, as indicated by the
+111 symbols and words that are displayed.
+112 (5) LOTTERY or LOTTERY GAME. A game of chance that
+Page 4
+
+(5) LOTTERY or LOTTERY GAME. A game of chance that
+HB449 INTRODUCED
+113 generally involves the drawing or revealing of numbers at random
+114 for a prize. The term includes, but is not limited to, a state
+115 lottery, instant win game, a multi-jurisdiction lottery, or
+116 other draw-based or instant win game that is approved and
+117 conducted through the Alabama Lottery Corporation. The term does
+118 not include video lottery terminals, electronic games of chance,
+119 sports wagering, bingo, electronic bingo, or any game similar to
+120 bingo, including pull-tabs, punch boards, tip jars, or instant
+121 bingo, whether or not played with an electronic, computer, or
+122 other technological aid. The term does not include any other
+123 form of gambling activity.
+124 (6) LOTTERY RETAILER. Any person with whom the
+125 corporation has contracted to sell lottery tickets to the
+126 public.
+127 (7) LOTTERY TICKET. Any tangible evidence of proof of
+128 participation in, or a right, privilege, or possibility of
+129 becoming a winner in, a lottery game.
+130 (8) MAJOR PROCUREMENT. Any item, product, or service in
+131 the amount of one million dollars ($1,000,000) or more,
+132 including, but not limited to, major advertising contracts,
+133 annuity contracts, prizes, products, and services unique to the
+134 state lottery.
+135 (9) NET PROCEEDS. Gross lottery revenues, minus amounts
+136 paid as prizes and expenses, of the operation of the lottery.
+137 (10) PERSON. Any individual, corporation, partnership,
+138 unincorporated association, or other legal entity.
+139 (11) PRESIDENT. The president and chief executive officer
+140 of the Alabama Lottery Corporation.
+Page 5
+
+of the Alabama Lottery Corporation.
+HB449 INTRODUCED
+141 (12) SECURITY. The protection of information that would
+142 provide an unfair advantage to any individual involved in the
+143 operation of the lottery; the protection and preservation of the
+144 integrity of lottery games and operations; and the measures
+145 taken to prevent crimes against the corporation and its
+146 retailers.
+147 (13) VENDOR. Any person who has entered into a contract
+148 with the corporation.
+149 §41-30-3. Administration of the state lottery.
+150 (a) There is created a state lottery. The lottery shall
+151 be administered by a corporation to be known as the Alabama
+152 Lottery Corporation. The corporation shall be managed in a
+153 manner that enables the people of the State of Alabama to
+154 benefit from its profits and to ensure the integrity of the
+155 lottery.
+156 (b) The existence of the corporation shall begin upon the
+157 appointment of all seven members of the board.
+158 (c) The corporation shall be domiciled in the State of
+159 Alabama. The exclusive venue for any action or matter against
+160 the corporation arising out of or in connection with the
+161 issuance, nonissuance, delivery, or failure to deliver a lottery
+162 ticket or payment or nonpayment of a lottery prize in the county
+163 in which its corporate headquarters is located, and the circuit
+164 court for that county shall have exclusive jurisdiction over the
+165 action or matter. For purposes of the assessment of court costs
+166 only, the corporation shall be a private corporation.
+167 §41-30-4. Administration of the affairs of the Alabama
+168 Lottery Corporation.
+Page 6
+
+Lottery Corporation.
+HB449 INTRODUCED
+169 (a)(1) The affairs of the corporation shall be
+170 administered by the Alabama Lottery Corporation Board of
+171 Directors. The board shall be composed of seven voting members
+172 appointed as follows:
+173 a. One member appointed by the Governor.
+174 b. One member appointed by the President Pro Tempore of
+175 the Senate.
+176 c. One member appointed by the Speaker of the House of
+177 Representatives.
+178 d. One member appointed by Majority Leader of the Senate.
+179 e. One member appointed by the Majority Leader of the
+180 House of Representatives.
+181 f. One member appointed by the Minority Leader of the
+182 Senate.
+183 g. One member appointed by the Minority Leader of the
+184 House of Representatives.
+185 (2) All appointments shall be subject to confirmation by
+186 the Senate.
+187 (3) In addition to the voting members, the Commissioner
+188 of Revenue and the State Treasurer shall attend all meetings of
+189 the board in a nonvoting, ex officio capacity.
+190 (b) The voting members of the board shall be residents of
+191 the State of Alabama and may not be serving as a public
+192 official, as that term is defined in Section 36-25-1. The
+193 Governor, when making appointments to the board, shall
+194 coordinate the appointments so that diversity of gender, race,
+195 and geographical area is reflective of the makeup of the state.
+196 (c) The initial appointees of the board shall serve
+Page 7
+
+(c) The initial appointees of the board shall serve
+HB449 INTRODUCED
+197 staggered terms as follows: (i) One term shall expire after one
+198 year; (ii) one term shall expire after two years; (iii) one term
+199 shall expire after three years; (iv) one term shall expire after
+200 four years; and (v) one term shall expire after five years.
+201 After the expiration of the initial terms, members of the board
+202 shall serve for terms of five years.
+203 (d) A member may serve beyond the end of his or her
+204 respective term until a successor has been appointed and
+205 confirmed by the Senate. No member may serve more than two
+206 consecutive five-year terms. Members serve at the pleasure of
+207 the Governor. The board shall elect a chair from among its
+208 voting members. As near as practical, the board chair shall
+209 serve a term of two years.
+210 (e) Appointed members of the board shall be entitled to
+211 per diem compensation paid by the corporation and shall be
+212 reimbursed by the corporation for necessary travel and other
+213 reasonable expenses incurred in the performance of their
+214 official duties. Members of the board shall not have any direct
+215 or indirect interest in an undertaking that puts their personal
+216 interest in conflict with that of the corporation, including,
+217 but not limited to, an interest in a major procurement contract
+218 or a participating retailer.
+219 (f) The board, upon the initial call of the Governor and
+220 the chair thereafter, shall meet each month for the first 18
+221 months following the effective date of this act and at such
+222 other times as the chair may determine. Five voting members of
+223 the board shall constitute a quorum. The board shall also meet
+224 upon the call of five or more of the voting members of the
+Page 8
+
+upon the call of five or more of the voting members of the
+HB449 INTRODUCED
+225 board. The board shall keep accurate and complete records of all
+226 its meetings.
+227 (g) Meetings of the board shall be subject to the Alabama
+228 Open Meetings Act.
+229 §41-30-5. Inspection of records.
+230 All records of the corporation shall be deemed public
+231 records and subject to public inspection pursuant to the Article
+232 3 of Chapter 12 of Title 36, unless any of the following apply:
+233 (1) The record relates to or was provided by a
+234 confidential source or informant and relates to lottery
+235 security, applicant, vendor, or retailer qualifications or
+236 conduct.
+237 (2) The record involves a trade secret of the corporation
+238 or of a vendor.
+239 (3) The record pertains to the internal security
+240 operations of the lottery or its lottery retailers or the record
+241 is of such a sensitive nature that its disclosure would endanger
+242 the security of the lottery or its lottery retailers, including,
+243 but not limited to, records containing security procedures,
+244 investigative techniques, or internal security information.
+245 (4) The record is covered by another exemption under
+246 federal or state law.
+247 §41-30-6. Appointment of president of the Alabama Lottery
+248 Corporation.
+249 (a)(1) From time to time, the board may appoint an
+250 individual to serve as president of the corporation. The
+251 president shall serve at the pleasure of the board.
+252 (2) The Governor may approve or disapprove the
+Page 9
+
+(2) The Governor may approve or disapprove the
+HB449 INTRODUCED
+253 appointment within 30 days of notice of the appointment. If the
+254 Governor does not disapprove the appointment as prescribed in
+255 this subsection, the appointment shall be deemed approved.
+256 (b) The president shall manage the daily affairs of the
+257 corporation and shall have the powers and duties specified by
+258 the board and this chapter and any rules adopted thereunder.
+259 (c) The president may employ personnel as he or she deems
+260 necessary. All personnel shall serve at the will and pleasure of
+261 the president, unless otherwise specified by the president.
+262 (d) Following his or her appointment and during his or
+263 her entire employment by the board, the president shall reside
+264 in this state.
+265 §41-30-7. Duties of the board.
+266 The board shall have the following powers and duties:
+267 (1) Approve, disapprove, amend, or modify the budget
+268 recommended by the president for the operation of the
+269 corporation.
+270 (2) Adopt rules as necessary to carry out and implement
+271 the operations of the corporation, the conduct of lottery games
+272 in general, and any other matters necessary or desirable for the
+273 efficient and effective operation of the lottery or convenience
+274 of the public.
+275 (3) Establish the salary of the president.
+276 (4) Acquire and hold, in its own name, real property and
+277 improvements thereon by purchase, gift, lease, lease with the
+278 option to purchase, or other lawful means, except eminent
+279 domain, to carry out its duties; and transfer, sell, or convey
+280 real property and any improvements thereon. Any obligations
+Page 10
+
+real property and any improvements thereon. Any obligations
+HB449 INTRODUCED
+281 created in connection with the purchase or improvement of real
+282 property shall not create debts, obligations, or liabilities of
+283 the State of Alabama.
+284 (5) Provide for the conduct of specific lottery games and
+285 operations, including, but not limited to, the following:
+286 a. The types of lottery games that may be conducted.
+287 b. The sale price of tickets.
+288 c. The number and amount of prizes.
+289 d. The methods that shall be used in selling tickets for
+290 lottery games.
+291 e. The methods and location of selecting or validating
+292 winning tickets.
+293 f. The manner of payment of prizes.
+294 g. The frequency of games and drawings.
+295 h. Any other matters necessary to carry out this act and
+296 necessary for the efficient and effective operation of the
+297 lottery.
+298 (6) Conduct hearings upon receiving a complaint alleging
+299 a violation of this chapter or rules adopted by the corporation
+300 or as otherwise provided by this chapter.
+301 (7) Periodically review the performance of the
+302 corporation and advise the president and make recommendations
+303 regarding operations of the corporation and identify potential
+304 statutory improvements to this chapter, the rules of the
+305 corporation, and the management of the corporation.
+306 (8) Request from the corporation any information the
+307 board determines to be relevant to its duties.
+308 (9) Conduct and administer lottery games to result in
+Page 11
+
+(9) Conduct and administer lottery games to result in
+HB449 INTRODUCED
+309 maximization of revenues to the State of Alabama. The
+310 corporation, its employees, and the members of the board shall
+311 provide for the efficient and effective operation of lottery
+312 games, ensure the integrity of the lottery, and maintain the
+313 dignity of the state and the general welfare of its residents.
+314 (10) Supervise and administer the lottery in accordance
+315 with this chapter and the rules governing this chapter.
+316 (11) Submit quarterly and annual reports to the Governor,
+317 the Lieutenant Governor, the Speaker of the House of
+318 Representatives, the State Treasurer, the State Auditor, the
+319 Joint Legislative Committee on Performance Evaluation and
+320 Expenditure Review, the Director of Finance, and the
+321 Commissioner of Revenue containing financial information and
+322 projections which include, but are not limited to, disclosure of
+323 gross revenues, expenses, and net proceeds for the period.
+324 (12) Establish a system of continuous internal audits.
+325 (13) Maintain weekly or more frequent records of lottery
+326 transactions, including distribution of tickets to lottery
+327 retailers, revenues received, claims for prizes, prizes paid,
+328 and all other financial transactions of the corporation.
+329 (14) Establish a code of ethics for officers and
+330 employees of the corporation to carry out the standards of
+331 conduct established by this chapter.
+332 (15) Establish guidelines for the disposal of lottery
+333 property if the corporation is dissolved.
+334 (16) Sue and be sued in its corporate name.
+335 (17) Adopt a corporate seal and a symbol.
+336 (18) Hold patents, copyrights, trademarks, and service
+Page 12
+
+(18) Hold patents, copyrights, trademarks, and service
+HB449 INTRODUCED
+337 marks and enforce its rights with respect thereto.
+338 (19) Register to do business in the State of Alabama and
+339 appoint agents upon which process may be served.
+340 (20) Enter into written agreements with one or more other
+341 states or sovereigns for the operation, marketing, and promotion
+342 of a joint lottery or joint-lottery games.
+343 (21) Make, solicit, and request proposals and offers, and
+344 execute and effectuate any and all agreements or contracts,
+345 including, but not limited to:
+346 a. Contracts that provide for the placement of commercial
+347 advertising on tickets.
+348 b. Contracts for the purchase or lease of real property
+349 as are necessary for the operation and promotion of the lottery.
+350 c. Contracts or agreements necessary for the
+351 implementation, operation, and promotion of the lottery and this
+352 chapter.
+353 (22) Adopt bylaws and rules to administer this chapter.
+354 §41-30-8. Duties and obligations of the president.
+355 (a) The president, as chief executive officer of the
+356 corporation, shall do all of the following:
+357 (1) Direct and supervise all administrative and technical
+358 activities in accordance with this chapter and the rules
+359 governing this chapter.
+360 (2) Supervise and administer the operation of the
+361 corporation, the lottery, and its games.
+362 (3) Employ, manage, and direct the personnel of the
+363 corporation and its facilities and services as necessary to
+364 implement this chapter.
+Page 13
+
+implement this chapter.
+HB449 INTRODUCED
+365 (4) Enter into contracts with lottery retailers.
+366 (5) Make available for inspection by the board or any
+367 member of the board, upon request, all books, records, files,
+368 and other information and documents of his or her office.
+369 (6) Advise and make recommendations to the board for the
+370 adoption of rules or other actions to improve the operation and
+371 administration of the lottery and the corporation.
+372 (7) Enter into any contract pursuant to this chapter with
+373 any person for the promotion and operation of the lottery or for
+374 the performance of any of the functions as provided in this
+375 chapter or rule adopted under this chapter, unless the contract
+376 constitutes a major procurement. A major procurement shall
+377 require approval from the board.
+378 (8) Attend meetings of the board or appoint a designee to
+379 attend on his or her behalf.
+380 (9) Not later than 30 days before the beginning of the
+381 corporation's fiscal year, submit the proposed annual budget of
+382 the corporation and projected net proceeds to the board for
+383 review and approval.
+384 (10) Subject to the approval of the board, amend or
+385 modify the budget at any time in any manner deemed necessary for
+386 the proper operation of the corporation.
+387 (11) Require bond from employees of the corporation as he
+388 or she deems necessary; provided, the president shall require
+389 bond, in an amount determined by the board, from employees with
+390 access to corporate funds or lottery funds.
+391 (12) For good cause, suspend, revoke, or refuse to renew
+392 any contract entered into in accordance with this chapter or
+Page 14
+
+any contract entered into in accordance with this chapter or
+HB449 INTRODUCED
+393 rule adopted under this chapter.
+394 (13) Upon specific or general approval of the board,
+395 conduct hearings and administer oaths to persons for the purpose
+396 of assuring the security or integrity of lottery operations, or
+397 to determine the qualifications or compliance by vendors and
+398 lottery retailers.
+399 (14) Upon receiving specific or general approval of the
+400 board, enter into contracts with consultants and technical
+401 assistants as may be required to implement and administer this
+402 chapter.
+403 (15) By agreement, secure information, goods, and
+404 services as necessary from any department, agency, or unit of
+405 the federal, state, or local government. To the extent allowed
+406 by federal or state law or rule, the president may compensate
+407 the department, agency, or unit of government for its
+408 information, goods, and services.
+409 (16) Supervise ticket validation and lottery drawings.
+410 (17) For just cause and subject to the terms of a vendor
+411 contract, inspect the facilities of any vendor in order to
+412 determine the integrity of the vendor's product and in order to
+413 determine whether the vendor is in compliance with its contract.
+414 (18) Report any suspected violations of this chapter to
+415 the local district attorney or the Attorney General.
+416 (19) Upon request, provide assistance to the local
+417 district attorney and the Attorney General during an
+418 investigation into a violation of this chapter.
+419 (b) The president and the board shall conduct an ongoing
+420 examination of the operation and administration of lotteries in
+Page 15
+
+examination of the operation and administration of lotteries in
+HB449 INTRODUCED
+421 other states and countries, including reviewing available
+422 literature on the subject; federal laws and regulations which
+423 may affect the operation of the lottery; and the reaction of
+424 residents of this state to existing or proposed features of
+425 lottery games with a view toward implementing improvements that
+426 will tend to serve the purposes of this chapter.
+427 (c) The president may also establish one or more market
+428 or equipment research centers for lottery products and may
+429 establish lottery player information centers.
+430 (d) There shall be no liability on the part of, and no
+431 cause of action shall arise against, the corporation or its
+432 governing board, staff, agents, vendors, or employees, arising
+433 out of or in connection with their duties and obligations as
+434 provided for under this chapter.
+435 §41-30-9. Procurement of goods and services.
+436 (a) The corporation may purchase, lease, or
+437 lease-purchase any goods or services as necessary for
+438 implementing and administering this chapter.
+439 (b) The procurement of any supplies or services by the
+440 corporation shall be solely governed by rules pursuant to the
+441 Alabama Administrative Procedure Act. The rules adopted shall be
+442 consistent with any applicable requirements of the Constitution
+443 of Alabama of 2022, and shall be established in accordance with
+444 the underlying purposes and policies of promoting responsible
+445 and efficient use of public funds dedicated and appropriated to
+446 agencies for their use, and promoting fairness, competition,
+447 transparency, integrity, and value in the procurement process.
+448 In no case may a rule be adopted in conflict with the laws of
+Page 16
+
+In no case may a rule be adopted in conflict with the laws of
+HB449 INTRODUCED
+449 this state regarding the public disclosure of the use of public
+450 funds and the transparency of public expenditures, or that is
+451 otherwise in conflict with state law regarding public records
+452 and public access to those records.
+453 (c) The corporation may make procurements necessary for
+454 the function of the lottery, including procurements for the
+455 design of lottery games, the distribution of lottery tickets to
+456 lottery retailers, the supply of goods and services, and
+457 advertising. In all procurement decisions, the corporation shall
+458 take into account the particularly sensitive nature of the state
+459 lottery and shall promote and ensure security, honesty,
+460 fairness, and integrity in the operation and administration of
+461 the lottery and the objectives of raising net proceeds for the
+462 benefit of the state.
+463 §41-30-10. Intelligence sharing and restricted use
+464 agreements.
+465 (a) The corporation may enter into intelligence sharing,
+466 reciprocal use, or restricted use agreements with the federal
+467 government, law enforcement agencies, lottery regulation
+468 agencies, and gambling enforcement agencies of other
+469 jurisdictions that provide for and regulate the use of
+470 information provided and received pursuant to the agreement.
+471 (b) Records, documents, and information in the possession
+472 of the corporation received pursuant to an intelligence sharing,
+473 reciprocal use, or restricted use agreement entered into by the
+474 corporation pursuant to subsection (a) shall be exempt from
+475 Article 3 of Chapter 12 of Title 36. The corporation may not
+476 release the record, document, or other information without the
+Page 17
+
+release the record, document, or other information without the
+HB449 INTRODUCED
+477 written permission of the person or agency providing the record
+478 or information to the corporation.
+479 §41-30-11. Lottery advertising restrictions.
+480 (a) The corporation may enter into one or more commercial
+481 advertising contracts with a person for the purpose of promoting
+482 the lottery and the sale of lottery tickets, subject to the
+483 requirements of this section.
+484 (b) No commercial advertising conducted for the purpose
+485 of promoting the lottery or the sale of lottery tickets may have
+486 a strong appeal to individuals under 18 years of age.
+487 (c) The board shall adopt rules to govern any advertising
+488 conducted pursuant to this chapter. At a minimum, the rules
+489 shall establish restrictions and requirements for advertising,
+490 including signage, and may include limiting the media or forums
+491 where advertising may occur.
+492 (d) Notwithstanding the foregoing, the corporation may
+493 advertise as necessary to participate in a multi-jurisdiction
+494 lottery.
+495 §41-30-12. Criminal background checks.
+496 (a) The Alabama State Bureau of Investigations shall
+497 perform a criminal background check on potential vendors,
+498 including potential lottery retailers and potential employees of
+499 the corporation.
+500 (b) The required criminal background check shall be
+501 conducted prior to the finalization of any contract with a
+502 potential vendor or prior to the employment of any potential
+503 employee.
+504 (c) The corporation shall reimburse the Alabama State
+Page 18
+
+(c) The corporation shall reimburse the Alabama State
+HB449 INTRODUCED
+505 Bureau of Investigations for the actual costs of conducting the
+506 criminal background investigations.
+507 §41-30-13. Claiming a prize.
+508 (a) The proceeds of any lottery prize of six hundred
+509 dollars ($600) or more shall be subject to state and federal
+510 income tax withholding laws, as applicable. To claim a lottery
+511 prize of six hundred dollars ($600) or more, an individual
+512 holding a winning lottery ticket must provide to the corporation
+513 the individual's name, address, and any other information
+514 required by rule of the Department of Revenue. The Department of
+515 Revenue shall adopt rules governing the administration of this
+516 subsection.
+517 (b) The corporation shall withhold any attachments,
+518 garnishments, or executions authorized and issued pursuant to
+519 law if timely served upon the process agent of the corporation.
+520 (c) The board shall adopt policies and procedures to
+521 establish a system of verifying the validity of tickets or
+522 shares claimed to win prizes and to effect payment of those
+523 prizes, subject to the following conditions:
+524 (1) No prize, portion of a prize, or right of a person to
+525 a prize shall be assignable. Any prize, or portion thereof,
+526 remaining unpaid at the death of a prizewinner shall be paid to
+527 the estate of the deceased prizewinner or to the trustee of a
+528 trust established by the deceased prizewinner if a copy of the
+529 trust document or instrument has been filed with the
+530 corporation, along with a notarized letter of direction from the
+531 deceased prizewinner, and no written notice of revocation has
+532 been received by the corporation prior to the deceased
+Page 19
+
+been received by the corporation prior to the deceased
+HB449 INTRODUCED
+533 prizewinner's death. Following a deceased prizewinner's death
+534 and prior to any payment to a trustee, the corporation shall
+535 obtain from the trustee and each trust beneficiary a written
+536 agreement to indemnify and hold the corporation harmless with
+537 respect to any claims that may be asserted against the
+538 corporation arising from payment to or through the trust.
+539 (2) No prize shall be paid arising from a claimed ticket
+540 that is stolen, counterfeit, altered, fraudulent, unissued,
+541 produced or issued in error, unreadable, not received, unclaimed
+542 or not recorded by the corporation within the applicable
+543 deadline, lacking in captions that conform and agree with the
+544 play symbols as appropriate to the lottery game involved, or not
+545 in compliance with any additional specific rules and public or
+546 confidential validation and security tests of the corporation
+547 appropriate to the particular lottery game involved.
+548 (3) No particular prize in any lottery game shall be paid
+549 more than once, and in the event of a determination by the
+550 corporation or a court that more than one claimant is entitled
+551 to a particular prize, the sole remedy of the claimants shall be
+552 to award to each of them an equal share in the prize.
+553 (4) A holder of a winning ticket from an Alabama lottery
+554 game or from a multi-state or multi-jurisdiction lottery game
+555 shall claim a prize within the timeframe provided for by rule of
+556 the board. If a valid claim is not made for a prize within the
+557 applicable period, the prize shall constitute an unclaimed prize
+558 for purposes of this section.
+559 (5) The corporation shall not disclose the identity of
+560 the person holding a winning lottery ticket where the prize
+Page 20
+
+the person holding a winning lottery ticket where the prize
+HB449 INTRODUCED
+561 amount is in excess of one million dollars ($1,000,000) without
+562 that person's written permission.
+563 (6) No prize shall be paid upon a lottery ticket
+564 purchased or sold in violation of this chapter or rule adopted
+565 thereunder. A lottery ticket purchased or sold in violation of
+566 this chapter or rule adopted thereunder shall constitute an
+567 unclaimed prize for purposes of this section.
+568 (d) Unclaimed prize money shall not constitute net
+569 lottery proceeds. Unclaimed prize money shall be held in trust
+570 by the corporation and used as provided in this section.
+571 Annually, the corporation shall distribute a portion of
+572 unclaimed prize money, not to exceed two hundred thousand
+573 dollars ($200,000) each year, to the State General Fund to the
+574 credit of the Department of Mental Health for the treatment of
+575 compulsive gambling disorder and educational programs related to
+576 the disorder. In addition, unclaimed prize money may be added to
+577 the pool from which future prizes are to be awarded or used for
+578 special prize promotions.
+579 (e) The corporation is discharged of all liability upon
+580 payment of a prize.
+581 (f) No ticket shall be purchased by and no prize shall be
+582 paid to any of the following persons:
+583 (1) Any member of the board.
+584 (2) Any officer or employee of the corporation.
+585 (3) Any spouse, child, brother, sister, or parent
+586 residing as a member of the same household in the principal
+587 place of abode of any individual listed in this subsection.
+588 §41-30-14. Withholding of lottery prizes of persons who
+Page 21
+
+§41-30-14. Withholding of lottery prizes of persons who
+HB449 INTRODUCED
+589 have outstanding child support arrearages or debts owed to the
+590 state.
+591 (a)(1) The board shall coordinate with the Department of
+592 Human Resources to adopt rules providing for the withholding of
+593 lottery prizes of individuals who have outstanding child support
+594 arrearages as reported to the corporation, beginning at prize
+595 levels to be determined by the board. The rules may require any
+596 agency reporting current child support arrearages to the
+597 corporation to provide information relating to the arrearages in
+598 a manner, format, or record approved by the corporation.
+599 (2) The corporation shall not be liable for withholding a
+600 lottery prize based upon child support arrearage information
+601 provided to the corporation.
+602 (b)(1) The corporation shall withhold any lottery prize
+603 of an individual who has had a delinquent debt claim reported by
+604 a state agency or a political subdivision of the state. The
+605 Department of Revenue and the corporation shall cooperate to
+606 implement this section.
+607 (2) The corporation shall not be liable for withholding a
+608 lottery prize based upon a delinquent debt claim provided to it
+609 by the Department of Revenue.
+610 (3) The board shall adopt rules to implement this
+611 subsection.
+612 §41-30-15. Monies received from the sale of lottery
+613 tickets; creation of funds.
+614 (a) All lottery proceeds received by the corporation,
+615 including all monies from the sale of lottery tickets and all
+616 other sources of revenue, shall be the property of the
+Page 22
+
+other sources of revenue, shall be the property of the
+HB449 INTRODUCED
+617 corporation. The corporation shall use monies in the fund to
+618 first pay for its reasonable operating expenses, second for the
+619 payment of prize money, and all remaining funds shall be
+620 transferred to the Alabama Lottery Trust Fund. The corporation
+621 shall endeavor to maximize the amount of revenues that may be
+622 generated for deposit into the Alabama Lottery Trust Fund.
+623 (b) On or before the twentieth day of each month, the
+624 corporation shall transfer from its operating accounts to the
+625 Alabama Lottery Trust Fund the amount of all net proceeds. Upon
+626 deposit into the Alabama Lottery Trust Fund, any monies
+627 representing net proceeds shall become the unencumbered property
+628 of the State of Alabama and the corporation shall have no power
+629 to agree or undertake otherwise. The monies shall be invested by
+630 the State Treasurer in accordance with state investment
+631 practices.
+632 §41-30-16. Funding of the corporation.
+633 (a) The corporation may enter into contracts to incur
+634 debt in its own name and enter into financing agreements with
+635 the state, agencies, or instrumentalities of the state, or with
+636 any commercial bank or credit provider. Any contract or
+637 financing agreement entered into pursuant to this subsection
+638 must be approved by the Finance Director of the Department of
+639 Finance. Any obligations created in connection with any
+640 contracts or financing agreements entered into pursuant to this
+641 section shall solely and exclusively be obligations of the
+642 corporation and shall not create debts, obligations, or
+643 liabilities of the State of Alabama.
+644 (b) The corporation shall be self-sustaining and
+Page 23
+
+(b) The corporation shall be self-sustaining and
+HB449 INTRODUCED
+645 self-funded. Monies in the State General Fund shall not be used
+646 or obligated to pay the prizes of the lottery, and no claim for
+647 the payment of an expense of the lottery or prizes of the
+648 lottery may be made against any monies other than monies
+649 credited to the operations accounts of the corporation.
+650 §41-30-17. Selection and maintenance of statewide network
+651 of lottery retailers.
+652 (a) The corporation shall develop and maintain a
+653 statewide network of lottery retailers that will serve the
+654 public convenience and promote the sale of lottery tickets,
+655 while ensuring the integrity of the lottery operations, games,
+656 and activities.
+657 (b) A lottery game may not be played except as authorized
+658 by general law and rules adopted by the board. A lottery game
+659 may not be operated through the use of a video lottery terminal
+660 or any other mechanical, electromechanical, or other electronic
+661 device or machine that performs all the functions of a lottery
+662 by itself when networked with other similar devices or machines;
+663 provided, this section shall not apply to the use of a lottery
+664 vending machine otherwise allowed at a licensed lottery retailer
+665 which meets any requirements established by the corporation.
+666 (c) A lottery ticket may not be sold except by a licensed
+667 lottery retailer in accordance with general law and rules
+668 adopted by the board.
+669 §41-30-18. Selection of lottery retailers.
+670 (a) To govern the selection of lottery retailers, the
+671 board shall adopt rules to provide a list of objective criteria
+672 upon which the selection of lottery retailers shall be based.
+Page 24
+
+upon which the selection of lottery retailers shall be based.
+HB449 INTRODUCED
+673 The criteria shall include, but not be limited to, the following
+674 with regard to the applicant:
+675 (1) Financial responsibility.
+676 (2) Location and security of place of business or
+677 activity.
+678 (3) Character, integrity, and reputation.
+679 (4) Whether the applicant is current in the filing of all
+680 applicable tax returns and the payment of all applicable taxes,
+681 interest, and penalties owed to the state or any political
+682 subdivision thereof, excluding items under formal appeal.
+683 (b) No person shall be selected as a lottery retailer for
+684 the sale of lottery tickets if the person has done any of the
+685 following:
+686 (1) Has been convicted of a criminal offense related to
+687 the security or integrity of the lottery in this state or any
+688 other jurisdiction.
+689 (2) Has been convicted of any illegal gambling activity,
+690 false statements, false swearing, or perjury in this state or
+691 any other jurisdiction.
+692 (3) Has been convicted of any felony in this state,
+693 unless more than five years have elapsed from the date of the
+694 individual's release from incarceration without a subsequent
+695 conviction of a crime described in this subsection.
+696 (4) Has been found to have violated this chapter or any
+697 rule adopted under this chapter, unless either 10 or more years
+698 have passed since the violation, or the president and the board
+699 find the violation both minor and unintentional in nature.
+700 (5) Is a vendor or an employee or agent of any vendor
+Page 25
+
+(5) Is a vendor or an employee or agent of any vendor
+HB449 INTRODUCED
+701 doing business with the corporation.
+702 (6) Resides in the same household as an officer or board
+703 member of the corporation.
+704 (7) Has knowingly made a false statement of material fact
+705 to the corporation.
+706 (c) The board shall not consider the applicant's
+707 political affiliation, political activities, or monetary
+708 contributions to political organizations or candidates for any
+709 public office.
+710 §41-30-19. Cancellation, denial, revocation, suspension,
+711 renewal rejection, or termination of contract with lottery
+712 retailer.
+713 (a) Any contract executed by the corporation with a
+714 lottery retailer pursuant to this chapter shall specify the
+715 reasons for which any contract may be canceled, denied, revoked,
+716 suspended, renewal rejected, or terminated by the corporation,
+717 including, but not limited to, the following:
+718 (1) Violation of this chapter or a rule adopted
+719 thereunder.
+720 (2) Failure to accurately account for lottery tickets,
+721 revenues, or prizes as required by this chapter and rules
+722 adopted thereunder.
+723 (3) Commission of any fraud, deceit, or
+724 misrepresentation.
+725 (4) Insufficient sale of tickets.
+726 (5) Conduct prejudicial to public confidence in the
+727 lottery.
+728 (6) Filing for or being placed in bankruptcy or
+Page 26
+
+(6) Filing for or being placed in bankruptcy or
+HB449 INTRODUCED
+729 receivership.
+730 (7) Any material change in any matter considered by the
+731 corporation in executing the contract with the lottery retailer.
+732 (8) Failure to make available for inspection or copying
+733 any record upon request of the corporation.
+734 (9) Failure to meet any of the objective criteria
+735 established by the board pursuant to this chapter.
+736 (b)(1) Following a public hearing on the matter, if the
+737 president determines that the cancellation, denial, revocation,
+738 suspension, rejection of renewal, or termination of a lottery
+739 retailer contract is in the best interest of the lottery, the
+740 public welfare, or the State of Alabama, the president may
+741 cancel, deny, revoke, suspend, reject the renewal, or terminate
+742 the contract.
+743 (2) Notwithstanding subdivision (1), the president may
+744 temporarily suspend any lottery retailer contract without prior
+745 notice, pending any investigation, prosecution, and public
+746 hearing.
+747 §41-30-20. Treatment of lottery proceeds by lottery
+748 retailers; insolvency.
+749 (a)(1) All proceeds from the sale of lottery tickets
+750 received by a lottery retailer shall be held in trust by the
+751 lottery retailer until paid to the corporation either directly
+752 or through the corporation's authorized collection
+753 representative.
+754 (2) A lottery retailer shall have a fiduciary duty to
+755 preserve and account for lottery proceeds and shall be
+756 personally liable for the lottery proceeds.
+Page 27
+
+personally liable for the lottery proceeds.
+HB449 INTRODUCED
+757 (3) Lottery proceeds shall include unsold instant tickets
+758 received by a lottery retailer, cash proceeds of the sale of any
+759 lottery products, the net amount of allowable sales commissions,
+760 and credit for lottery prizes to winners by lottery retailers.
+761 (4) Sales proceeds and unused instant tickets shall be
+762 delivered to the corporation or its authorized collection
+763 representative upon demand.
+764 (b)(1) The board shall require each lottery retailer to
+765 place all lottery proceeds due the corporation in a bank account
+766 in an institution insured by the Federal Deposit Insurance
+767 Corporation not later than the close of the next banking day
+768 after the date of collection by the lottery retailer until the
+769 date the proceeds are paid over to the corporation.
+770 (2) Each lottery retailer shall establish a separate bank
+771 account for lottery proceeds. The lottery proceeds shall be kept
+772 separate and apart from all other funds and assets and shall not
+773 be commingled with any other funds or assets.
+774 (c) A lottery retailer shall receive seven percent of the
+775 sales of lottery tickets sold by the lottery retailer.
+776 (d) Whenever any individual who receives proceeds from
+777 the sale of lottery tickets in the capacity of a lottery
+778 retailer becomes insolvent, or dies insolvent, the proceeds due
+779 the corporation from the individual or his or her estate shall
+780 have preference over all other debts or demands.
+781 §41-30-21. Illegal lottery devices prohibited.
+782 (a) A lottery retailer or agent, associate, employee, or
+783 representative of a lottery retailer may not allow any illegal
+784 lottery device to be on the licensed premises of the lottery
+Page 28
+
+lottery device to be on the licensed premises of the lottery
+HB449 INTRODUCED
+785 retailer. For purposes of this section, an illegal lottery
+786 device is any machine or other device that sells lottery tickets
+787 or otherwise participates in a lottery not approved by the
+788 corporation.
+789 (b) The corporation may assess a fine against a lottery
+790 retailer who violates this section, as follows:
+791 (1) For a first offense, a fine of not less than two
+792 hundred dollars ($200) nor more than one thousand dollars
+793 ($1000).
+794 (2) For a subsequent offense, a fine of not less than
+795 five hundred dollars ($500) nor more than two thousand dollars
+796 ($2,000). In addition, the corporation may suspend, revoke, or
+797 take other disciplinary action against the lottery retailer
+798 license of the lottery retailer.
+799 (c)(1) Except as provided in subdivision (2), a person
+800 who violates this section is guilty of a Class A misdemeanor.
+801 (2) On a second or subsequent violation of this section,
+802 a person is guilty of a Class C felony.
+803 §41-30-22. Sale to minors prohibited.
+804 (a) A lottery retailer or agent, associate, employee, or
+805 representative of a lottery retailer may not sell a lottery
+806 ticket to any individual unless the individual submits any one
+807 of the following forms of identification to establish that the
+808 individual is 18 years of age or older:
+809 (1) A valid and current Alabama driver license containing
+810 a photograph of the individual presenting the driver license.
+811 (2) A valid and current driver license of another state
+812 containing a photograph of the individual presenting the driver
+Page 29
+
+containing a photograph of the individual presenting the driver
+HB449 INTRODUCED
+813 license.
+814 (3) A valid and current nondriver identification card
+815 issued by the State of Alabama containing a photograph of the
+816 individual presenting the identification card.
+817 (4) A valid and current passport or visa issued by the
+818 federal government or another country or nation which contains a
+819 permanently attached photograph of the individual presenting the
+820 passport or visa.
+821 (5) A valid and current military or federal
+822 identification card issued by the federal government containing
+823 a photograph of the individual presenting the identification
+824 card.
+825 (6) A valid and current tribal identification card issued
+826 by a federally recognized Indian tribe containing a photograph
+827 of the individual presenting the identification card.
+828 (b)(1) Each form of identification listed in subsection
+829 (a) must on its face establish the age of the individual as 18
+830 years of age or older and there must be no reason to doubt the
+831 authenticity or correctness of the identification.
+832 (2) No form of identification shall be accepted as proof
+833 of age if it is expired, defaced, mutilated, or altered. If the
+834 form of identification used is a duplicate, the presenting
+835 individual shall submit additional identification which contains
+836 the name, date of birth, and photograph of the individual.
+837 (3) An educational institution identification card,
+838 check-cashing identification card, or employee identification
+839 card shall not be considered as lawful identification for the
+840 purposes of this section.
+Page 30
+
+purposes of this section.
+HB449 INTRODUCED
+841 (c) The corporation shall assess a fine against any
+842 lottery retailer who sells a lottery ticket to an individual
+843 under 18 years of age in violation of this section, as follows:
+844 (1) For a first offense, a fine of not less than two
+845 hundred dollars ($200) nor more than one thousand dollars
+846 ($1000).
+847 (2) For a subsequent offense, a fine of not less than
+848 five hundred dollars ($500) nor more than two thousand dollars
+849 ($2,000). In addition, the corporation may suspend, revoke, or
+850 take other disciplinary action against the lottery retailer
+851 license of the lottery retailer.
+852 (d)(1) Except as provided in subdivision (2), a person
+853 who violates this section is guilty of a Class A misdemeanor.
+854 (2) On a second or subsequent violation of this section,
+855 a person is guilty of a Class A misdemeanor and shall serve a
+856 minimum of 48 hours in the county jail.
+857 §41-30-23. Underage purchase of lottery ticket; penalty.
+858 (a) It is unlawful for any individual under 18 years of
+859 age to purchase a lottery ticket.
+860 (b) An individual who violates this section shall be
+861 guilty of a violation and fined not more than one hundred
+862 dollars ($100) and shall be subject to the citation and arrest
+863 procedures of Section 11-45-9.1.
+864 §41-30-24. Counterfeit lottery tickets prohibited.
+865 (a) It shall be unlawful for any person, with intent to
+866 defraud, to falsely make, alter, forge, utter, pass, or
+867 counterfeit a lottery ticket.
+868 (b) A violation of this section is a Class C felony.
+Page 31
+
+(b) A violation of this section is a Class C felony.
+HB449 INTRODUCED
+869 §41-30-25. Theft of lottery prize by deception or fraud.
+870 (a) It shall be unlawful for any person to influence or
+871 attempt to influence the winning of a lottery prize through the
+872 use of coercion, fraud, or deception or by tampering with
+873 lottery equipment or materials.
+874 (b) A violation of this section is a Class B felony.
+875 §41-30-26. Prohibited actions for current and former
+876 board members and officers of the corporation.
+877 (a) A current or former board member or officer of the
+878 corporation, or a corporation or other entity owned in whole or
+879 in part by a former board member or officer of the corporation,
+880 may not solicit, accept employment, or enter into a contract for
+881 compensation of any kind with a vendor of the corporation during
+882 the member's service with the corporation or within one year
+883 after termination of service with the corporation.
+884 (b) The name of any individual who is a board member or
+885 an officer or employee of the corporation shall not appear upon
+886 any lottery ticket, lottery game, lottery form, or paper used in
+887 playing any lottery game.
+888 (c) A board member or an officer or employee of the
+889 corporation who violates this section shall be removed from
+890 office or dismissed from employment.
+891 (d) The prohibitions of subsection (a) and subsection (c)
+892 do not apply to ex officio members of the board.
+893 (e) The State Ethics Commission shall administer and
+894 enforce this section. The procedures and penalties provided for
+895 in Chapter 25 of Title 36 shall apply to the administration and
+896 enforcement of this section.
+Page 32
+
+enforcement of this section.
+HB449 INTRODUCED
+897 §41-30-27. Skimming of lottery proceeds.
+898 (a) An individual may not knowingly exclude, or take any
+899 action in an attempt to exclude, anything or its value from the
+900 deposit, counting, collection, or computation of gross revenues
+901 or net proceeds from lottery activities. A person who violates
+902 this section commits the crime of skimming of lottery proceeds.
+903 (b) An individual who commits the crime of skimming of
+904 lottery proceeds shall be punished as follows:
+905 (1) If the offense involves less than one thousand
+906 dollars ($1,000), the individual is guilty of a Class C felony.
+907 (2) If the offense involves one thousand dollars ($1,000)
+908 or more but less than ten thousand dollars ($10,000), the
+909 individual shall be guilty of a Class B felony. The individual
+910 shall serve a minimum period of incarceration of not less than
+911 three years without benefit of probation, parole, or suspension
+912 of sentence.
+913 (3) If the offense involves ten thousand dollars
+914 ($10,000) or more, the individual shall be guilty of a Class B
+915 felony and shall serve a period of incarceration of not less 10
+916 years nor more than 25 years without benefit of probation,
+917 parole, or suspension of sentence.
+918 §41-30-28. Compliance with federal laws.
+919 The State of Alabama, in accordance with 15 U.S.C. §
+920 1172, hereby declares that any and all lottery equipment, and
+921 the materials, paraphernalia, and supplies thereof, may be
+922 transported in interstate commerce into or out of the state
+923 without violating that section, or any other applicable federal
+924 law, if the equipment, materials, paraphernalia, and supplies
+Page 33
+
+law, if the equipment, materials, paraphernalia, and supplies
+HB449 INTRODUCED
+925 are used in accordance with this chapter.
+926 §41-30-29. Lottery tickets.
+927 (a) The board may adopt rules to provide for the form of
+928 lottery tickets sold pursuant to this chapter.
+929 (b) Lottery tickets, including instant tickets, shall be
+930 printed onto paper, plastic, or other tangible material;
+931 provided, the form of any multi-jurisdiction lottery ticket
+932 shall be subject to any requirement to participate in any
+933 multi-jurisdiction draw-based lottery.
+934 §41-30-30. Financial integrity of lottery.
+935 (a) To ensure the financial integrity of the lottery, the
+936 corporation through its board shall do all of the following:
+937 (1) Compile and submit quarterly and annual reports and
+938 financial statements.
+939 (2) Contract with an independent auditor who is a
+940 certified public accountant or firm to conduct an annual
+941 financial audit of the books and records of the corporation. The
+942 cost of this annual financial audit shall be an operating
+943 expense of the corporation. The independent auditor shall have
+944 no financial interest in any vendor with whom the corporation is
+945 under contract.
+946 (b) A contract for an independent auditor under this
+947 section shall be reviewed by and subject to the approval of the
+948 Examiner of Public Accounts to ensure that the independent
+949 auditor is qualified to perform the audit.
+950 (c) The audit shall be completed by January 1 of each
+951 year.
+952 (d) A contract for audit services may not exceed a period
+Page 34
+
+(d) A contract for audit services may not exceed a period
+HB449 INTRODUCED
+953 of five years and the same firm may not receive two consecutive
+954 audit contracts.
+955 §41-30-31. Distribution of lottery funds.
+956 On an annual basis, the Legislature shall appropriate the
+957 proceeds in the Alabama Lottery Trust Fund by and through an
+958 independent supplemental appropriation bill for only one or more
+959 of the following purposes:
+960 (1) For the establishment and support of problem gambling
+961 and gambling addiction treatment centers and programs.
+962 (2) For the establishment and provision of a last-dollar
+963 postsecondary scholarship program for in-state, public two-year
+964 community and technical colleges and in-state public four-year
+965 institutions of higher education.
+966 (3) For cost-of-living raises and other benefits for
+967 state education employees and bonuses or other benefits to
+968 retirees of the Teachers' Retirement System.
+969 (4) For the award of grants for the operation,
+970 maintenance, and improvement of existing health care facilities,
+971 with an emphasis on preventing the closure of hospitals in rural
+972 areas of the state.
+973 (5) For the award of tax credits to eligible residents of
+974 the state as determined by the Legislature.
+975 Section 2. Sections 13A-12-20, 13A-12-21, 13A-12-22,
+976 13A-12-23, 13A-12-24, 13A-12-25, 13A-12-26, 13A-12-27,
+977 13A-12-28, and 13A-12-30, Code of Alabama 1975, are amended to
+978 read as follows:
+979 "§13A-12-20
+980 The following definitions apply to this article:
+Page 35
+
+The following definitions apply to this article:
+HB449 INTRODUCED
+981 (1) ADVANCE GAMBLING ACTIVITY. A person "advances gambling
+982 activity" if he engages in cConduct that materially aids any
+983 form of gambling activity. Conduct of this nature includes,
+984 including, but is not limited to, conductany of the following:
+985 a. Conduct directed toward the creation or establishment
+986 of the particular game, contest, scheme, device, or activity
+987 involved,.
+988 b. Conduct directed toward the acquisition or maintenance
+989 of premises, paraphernalia, equipment, or apparatus therefor,.
+990 c. Conduct directed toward the solicitation or inducement
+991 of persons to participate therein,.
+992 d. Conduct directed toward the actual conduct of the
+993 playing phases thereof,.
+994 e. Conduct directed toward the arrangement of any of its
+995 financial or recording phases or toward any other phase of its
+996 operation. A person advances gambling activity if, having
+997 f. Any situation where a person has substantial
+998 proprietary control or other authoritative control over premises
+999 being used with his or her knowledge for purposes of gambling
+1000 activity, he and the person permits that activity to occur or
+1001 continue or makes no effort to prevent its occurrence or
+1002 continuation.
+1003 (2) BOOKMAKING. Advancing gambling activity by
+1004 unlawfullyUnlawfully accepting bets from members of the public
+1005 as a business, rather than in a casual or personal fashion, upon
+1006 the outcome of future contingent events.
+1007 (3) COIN-OPERATED AMUSEMENT MACHINE. Every game or device
+1008 (i) whose operation requires the payment of or insertion of a
+Page 36
+
+(i) whose operation requires the payment of or insertion of a
+HB449 INTRODUCED
+1009 coin, bill, other money, token, ticket, or similar object; (ii)
+1010 is designed and manufactured for bona fide amusement purposes;
+1011 (iii) by application of some skill, entitles the player to
+1012 replay the game or device at no additional cost if a single play
+1013 can reach no more than 25 free replays or can be discharged of
+1014 accumulated free replay, or rewards the player exclusively with
+1015 merchandise limited to noncash merchandise, prizes, toys, gift
+1016 certificates, or novelties, each of which has a wholesale value
+1017 of not more than 10 dollars ($10); and (iv) can be legally
+1018 shipped interstate according to federal law.
+1019 a. The term includes, but is not limited to, the
+1020 following: Pinball machines, console machines, video games,
+1021 crane machines, claw machines, pusher machines, bowling
+1022 machines, novelty arcade games, foosball or table soccer
+1023 machines, miniature racetrack or football machines, target or
+1024 shooting gallery machines, basketball machines, shuffleboard
+1025 games, kiddie ride games, skeeball machines, air hockey
+1026 machines, roll down machines, coin-operated pool table or
+1027 coin-operated billiard table, and every machine of any kind or
+1028 character used by the public to provide music whose operation
+1029 requires the payment of or the insertion of a coin, bill, other
+1030 money, token, ticket, or similar object, including jukeboxes or
+1031 other similar types of music machines.
+1032 b. The term does not include slot machines, video poker
+1033 games, electronic bingo, or any other machine that is not
+1034 legally permitted to be operated in the state.
+1035 (4) ELECTRONIC GAME OF CHANCE. Any game of chance,
+1036 including, but not limited to, pachinko, video lottery
+Page 37
+
+including, but not limited to, pachinko, video lottery
+HB449 INTRODUCED
+1037 terminals, video poker machines, and electronic bingo machines.
+1038 The term does not include a coin-operated amusement machine.
+1039 (3) CONTEST OF CHANCE. Any contest, game, gaming scheme or
+1040 gaming device in which the outcome depends in a material degree
+1041 upon an element of chance, notwithstanding that skill of the
+1042 contestants may also be a factor therein.
+1043 (4)(5) GAMBLING ACTIVITY. A person engages in gambling if
+1044 he stakes or risks something Staking or risking a thing of value
+1045 upon the outcome of a contest game of chance or a future
+1046 contingent event not under his or her control or influence, upon
+1047 an agreement or understanding that he or she or someone else
+1048 will receive something a thing of value in the event of a
+1049 certain outcome. Gambling The term does not include bona any of
+1050 the following:
+1051 a. Bona fide business transactions valid under the law of
+1052 contracts, including, but not limited to, contracts for the
+1053 purchase or sale at a future date of securities or commodities,
+1054 and agreements.
+1055 b. Agreements to compensate for loss caused by the
+1056 happening of chance, including, but not limited to, contracts of
+1057 indemnity or guaranty and life, health, or accident insurance.
+1058 c. Traditional raffles used with paper tickets or
+1059 traditional paper bingo when conducted for bona fide fundraising
+1060 purposes in a noncommercial manner.
+1061 (5)(6) GAMBLING DEVICE. Any device, machine,
+1062 paraphernalia, or equipment that is normally used or usable in
+1063 the playing phases of any gambling activity, whether that
+1064 activity consists of gambling between persons or gambling by a
+Page 38
+
+activity consists of gambling between persons or gambling by a
+HB449 INTRODUCED
+1065 person involving the playing of a machine. However, The term
+1066 does not include lottery tickets, traditional paper raffle
+1067 tickets, traditional paper bingo, or coin-operated amusement
+1068 machinespolicy slips and other items used in the playing phases
+1069 of lottery and policy schemes are not gambling devices within
+1070 this definition.
+1071 (7) GAME OF CHANCE. Any contest, game, gambling scheme, or
+1072 gambling device in which the outcome depends in a material
+1073 degree upon an element of chance, notwithstanding that skill of
+1074 the contestants may also be a factor.
+1075 (8) INSTANT WIN TICKET. A lottery game in which a player
+1076 scratches or otherwise removes anything overlaying words or
+1077 symbols to determine whether the player has won, as indicated by
+1078 the symbols and words that are displayed.
+1079 (6)(9) LOTTERY or POLICYLOTTERY GAME. A game of chance
+1080 that generally involves the selling of numbered or other
+1081 identifiable lottery tickets or instant win tickets and the
+1082 drawing or revealing of winning numbers at random for the award
+1083 of a prize.An unlawful gambling scheme in which:
+1084 a. The players pay or agree to pay something of value for
+1085 chances, represented and differentiated by numbers or by
+1086 combinations of numbers or by some other medium, one or more of
+1087 which chances are to be designated by the winning ones; and
+1088 b. The winning chances are to be determined by a drawing
+1089 or by some other fortuitous method; and
+1090 c. The holders of the winning chances are to receive
+1091 something of value.
+1092 (10) LOTTERY TICKET. Any tangible evidence of proof of
+Page 39
+
+(10) LOTTERY TICKET. Any tangible evidence of proof of
+HB449 INTRODUCED
+1093 participation in, or a right, privilege, or possibility of
+1094 becoming a winner in, a lottery game.
+1095 (11) OPERATOR. Any person in control of, or having
+1096 responsibility for, the daily operation of a business
+1097 establishment or other premises. The term does not include a
+1098 store clerk or other employee of the establishment who is under
+1099 the control or supervision of another person.
+1100 (12) OWNER. Any of the following:
+1101 a. Any person who owns a business establishment or other
+1102 premises.
+1103 b. Any mortgagor, lessor, or other person with the right
+1104 to possession of a business establishment or other premises.
+1105 c. Any person whose name appears on a lease, alcohol
+1106 retail license, or other legal document associated with a
+1107 business establishment or other premises.
+1108 (7)(13) PARI-MUTUEL, MUTUEL, or THE NUMBERS GAME. A form
+1109 of lottery or other gambling activity in which the winning
+1110 chances or plays are not determined upon the basis of a drawing
+1111 or other act on the part of persons conducting or connected with
+1112 the scheme, but are determined upon the basis of the outcome of
+1113 a future contingent event or events otherwise unrelated to the
+1114 particular scheme.
+1115 (8)(14) PLAYER. A person who engages in any form of
+1116 gambling activity solely as a contestant or bettor, without
+1117 receiving or becoming entitled to receive any profit therefrom
+1118 other than personal gambling winnings, and without otherwise
+1119 rendering any material assistance to the establishment, conduct,
+1120 or operation of the particular gambling activity.
+Page 40
+
+or operation of the particular gambling activity.
+HB449 INTRODUCED
+1121 (9)(15) PROFIT FROM GAMBLING ACTIVITY. A person "profits
+1122 from gambling activity" if he accepts or receives Accepting or
+1123 receiving money or other property pursuant to an agreement or
+1124 understanding with any person whereby he shares or is to share
+1125 in the proceeds of gambling activity.
+1126 (10)(16) SLOT MACHINE. A gambling device that, as a result
+1127 of the insertion of a coin or other object, operates, either
+1128 completely automatically or with the aid of some physical act by
+1129 the player, in such a manner that, depending upon elements of
+1130 chance, it may eject something of value. A device so constructed
+1131 or readily adaptable or convertible to such use is no less a
+1132 slot machine because it is not in working order or because some
+1133 mechanical act of manipulation or repair is required to
+1134 accomplish its adaptation, conversion, or workability. Nor is it
+1135 any less a slot machine because apart from its use or
+1136 adaptability as such it may also sell or deliver something of
+1137 value on a basis other than chance.
+1138 (11)(17) SOMETHINGTHING OF VALUE. Any of the following:
+1139 (i) money or property,;(ii) any token, object, or article
+1140 exchangeable for money or property; or (iii) any form of credit
+1141 or promise directly or indirectly contemplating transfer of
+1142 money or property or of any interest therein, or involving
+1143 extension of a service entertainment or a privilege of playing
+1144 at a game or scheme without charge. The term does not include a
+1145 de minimis benefit when considering its value and the frequency
+1146 with which it is provided.
+1147 (12)(18) UNLAWFUL. Not specifically authorized by law."
+1148 "§13A-12-21
+Page 41
+
+"§13A-12-21
+HB449 INTRODUCED
+1149 (a) A person commits the crime of simple unlawful gambling
+1150 if he the person knowingly advances participates in or profits
+1151 from unlawful gambling activity as a player.
+1152 (b) It is a defense to a prosecution under this section
+1153 that a person charged with being a player the defendant was
+1154 engaged in a social game in a private place. The burden of
+1155 injecting the issue is on the defendant, but this does not shift
+1156 the burden of proof.
+1157 (c)(1) Simple gambling is a Class C Class A misdemeanor.
+1158 (2) Simple gambling is a Class D felony if the person has
+1159 a prior conviction under this article."
+1160 "§13A-12-22
+1161 (a) A person commits the crime of promoting gambling
+1162 activity if he the person knowingly advances or profits from
+1163 unlawful gambling activity otherwise than as a player.
+1164 (b)(1) Promoting gambling is a Class A misdemeanorClass C
+1165 felony.
+1166 (2) Promoting gambling is a Class B felony if the person
+1167 has a prior conviction under this article."
+1168 "§13A-12-23
+1169 (a) A person commits the crime of conspiracy to promote
+1170 unlawful gambling activity if he the person conspires to advance
+1171 or profit from gambling activity otherwise than as a player.
+1172 (b) "Conspire" means to engage in activity constituting a
+1173 criminal conspiracy as defined in Section 13A-4-3.
+1174 (c)(1) Conspiracy to promote unlawful gambling activity
+1175 is a Class A misdemeanorClass C felony.
+1176 (2) Conspiracy to promote unlawful gambling activities is
+Page 42
+
+(2) Conspiracy to promote unlawful gambling activities is
+HB449 INTRODUCED
+1177 a Class B felony if the person has a prior conviction under this
+1178 article."
+1179 "§13A-12-24
+1180 (a) A person commits the crime of possession of gambling
+1181 records in the first degree if, with knowledge of the contents
+1182 thereof, he the person possesses any writing, paper, instrument,
+1183 or article of a kind commonly used in the operation or promotion
+1184 of any of the following:
+1185 (1) Of a kind commonly used in the operation or promotion
+1186 of a A bookmaking scheme or enterprise, and constituting,
+1187 reflecting, or representing more than five 10 bets, or more than
+1188 $500.00one thousand dollars ($1,000); or.
+1189 (2) Of a kind commonly used in the operation, promotion or
+1190 playing of a An unlawful lottery or mutuel scheme or enterprise,
+1191 and constituting, reflecting, or representing more than five 10
+1192 plays or chances therein.
+1193 (3) An unlawful electronic game of chance.
+1194 (b)(1) Possession of gambling records in the first degree
+1195 is a Class A misdemeanorClass C felony.
+1196 (2) Possession of gambling records in the first degree is
+1197 a Class B felony if the person has a prior conviction under this
+1198 article."
+1199 "§13A-12-25
+1200 (a) A person commits the crime of possession of gambling
+1201 records in the second degree if, with knowledge of the contents
+1202 thereof, he the person possesses any writing, paper, instrument,
+1203 or article of a kind commonly used in the operation or promotion
+1204 of either of the following:
+Page 43
+
+of either of the following:
+HB449 INTRODUCED
+1205 (1) Of a kind commonly and peculiarly used in the
+1206 operation or promotion of a A bookmaking scheme or enterprise;
+1207 or.
+1208 (2) Of a kind commonly and peculiarly used in the
+1209 operation, promotion or playing of a A lottery or mutuel scheme
+1210 or enterprise.
+1211 (b)(1) Possession of gambling records in the second
+1212 degree is a Class A misdemeanor.
+1213 (2) Possession of gambling records in the second degree
+1214 is a Class C felony if the person has a prior conviction under
+1215 this article."
+1216 "§13A-12-26
+1217 A person does not commit the crime of possession of
+1218 gambling records in either degree pursuant to Section 13A-12-24
+1219 or Section 13A-12-25 if the writing, paper, instrument, or
+1220 article possessed by the defendant is neither used nor intended
+1221 to be used in the operation or promotion of a bookmaking scheme
+1222 or enterprise, or in the operation, promotion, or playing of a
+1223 lottery or mutuel scheme or enterprise. The burden of injecting
+1224 the issue is on the defendant, but this does not shift the
+1225 burden of proof."
+1226 "§13A-12-27
+1227 (a) A person commits the crime of possession of a gambling
+1228 device if, with knowledge of the character thereof, he or she
+1229 the person manufactures, sells, transports, places, or
+1230 possesses, or conducts or negotiates any transaction affecting
+1231 or designed to affect ownership, custody, or use of either of
+1232 the following:
+Page 44
+
+the following:
+HB449 INTRODUCED
+1233 (1) A slot machine, unless exempted pursuant to subsection
+1234 (c); or.
+1235 (2) Any other gambling device, with the intention that it
+1236 be used in the advancement of to advance unlawful gambling
+1237 activity.
+1238 (b)(1) Possession of a gambling device is a Class A
+1239 misdemeanorClass C felony.
+1240 (2) Possession of a gambling device is a Class B felony if
+1241 the person has a prior conviction under this article.
+1242 (c) The crime of possession of a gambling device does not
+1243 apply to a slot machine manufactured before 1960, with the
+1244 intention that the slot machine be used only for the personal
+1245 and private use of the owner or for public display as a
+1246 historical artifact in a manner that the slot machine is not
+1247 accessible to the public."
+1248 "§13A-12-28
+1249 (a) Proof of possession of any gambling device, as defined
+1250 by subdivision (5) of Section 13A-12-20 or any gambling record
+1251 specified in Sections 13A-12-24 and 13A-12-25 is prima facie
+1252 evidence of possession thereof with knowledge of its character
+1253 or contents.
+1254 (b) In any prosecution under this article in which it is
+1255 necessary to prove the occurrence of a sporting event, either of
+1256 the following shall be admissible in evidence and shall
+1257 constitute prima facie proof of the occurrence of the event:
+1258 (1) a A published report of its occurrence in any daily
+1259 newspaper, magazine, or other periodically printed publication
+1260 of general circulation, or .
+Page 45
+
+of general circulation, or .
+HB449 INTRODUCED
+1261 (2) evidence Evidence that a description of some aspect
+1262 of the event was written, printed, or otherwise noted at the
+1263 place in which a violation of this chapter is alleged to have
+1264 been committed, shall be admissible in evidence and shall
+1265 constitute prima facie proof of the occurrence of the event."
+1266 "§13A-12-30
+1267 (a) Any gambling device or gambling record possessed or
+1268 used in violation of this article is shall be forfeited to the
+1269 state as illegal contraband, and shall by court order be
+1270 destroyed or otherwise disposed of as the court directs, without
+1271 the necessity of any secondary civil forfeiture action. On
+1272 conviction of the underlying violation of this article, the
+1273 defendant shall be required to pay all costs associated with the
+1274 seizure, storage, and disposition of the contraband.
+1275 (b) Any vehicle possessed or used in violation of this
+1276 article may be forfeited to the state and disposed of by court
+1277 order as authorized by law shall be subject to forfeiture
+1278 pursuant to the procedures set forth in Section 20-2-93.
+1279 (c) Money used as bets or stakes in gambling activity in
+1280 violation of this article is forfeited to the state and by court
+1281 order shall be transmitted to the General Fund of the state
+1282 shall be subject to forfeiture pursuant to the procedures set
+1283 forth in Section 20-2-93.
+1284 (d) All property that is seized and not required to be
+1285 destroyed may be sold. The proceeds from the sale shall be used
+1286 first for payment of all proper expenses of the proceedings for
+1287 forfeiture and sale, storage expenses, advertising costs, and
+1288 court costs. All remaining proceeds and any money forfeited
+Page 46
+
+court costs. All remaining proceeds and any money forfeited
+HB449 INTRODUCED
+1289 shall be awarded and distributed by the court to the seizing
+1290 agencies or prosecuting authorities that participated in the
+1291 investigation, seizure, and litigation."
+1292 Section 3. Section 13A-12-32 is added to Article 2 of
+1293 Chapter 12 of Title 13A, Code of Alabama 1975, to read as
+1294 follows:
+1295 §13A-12-32
+1296 The owner or operator of a business establishment or
+1297 other premises may be held criminally liable for a violation of
+1298 this division if a violation of this division occurs on the
+1299 premises of the business establishment or other premises of the
+1300 owner or operator thereof and either of the following apply:
+1301 (1) The owner or operator had actual knowledge of the
+1302 violation and allowed or consented to the violation.
+1303 (2) The owner or operator was deemed to have constructive
+1304 knowledge of the violation and failed to reasonably cause the
+1305 violation to cease within the amount of time provided by written
+1306 notice of the violation. The owner or operator of a business
+1307 establishment or other premises shall be deemed to have
+1308 constructive knowledge of a violation upon any law enforcement
+1309 agency or prosecutorial entity providing written notice of the
+1310 violation and a reasonable opportunity to cure the violation.
+1311 The notice may be provided in person or by certified mail.
+1312 Section 4. Division 3, comprised of Sections 13A-12-70
+1313 through 13A-12-76, of Article 2 of Chapter 12 of Title 13A, Code
+1314 of Alabama 1975, relating to the transportation of lottery
+1315 paraphernalia, is repealed.
+1316 Section 5. In the event the proposed constitutional
+Page 47
+
+Section 5. In the event the proposed constitutional
+HB449 INTRODUCED
+1317 amendment in House Bill xxx of the 2026 Regular Session is not
+1318 ratified, this act shall be repealed.
+1319 Section 6. This act shall become effective upon
+1320 ratification of the amendment to the Constitution of Alabama of
+1321 2022, proposed in House Bill xxx of the 2026 Regular Session.
+Page 48

@@ -1,0 +1,271 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB86 INTRODUCED
+1 SB86
+2 FK8BR5D-1
+3 By Senator Carnley
+4 RFD: State Governmental Affairs
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+FK8BR5D-1 11/25/2025 EGC (L)lg 2025-2999
+1
+2
+3
+4
+5 SYNOPSIS:
+6 Under existing law, certain sellers and fleet
+7 producers of compressed or liquefied natural gas and
+8 certain suppliers, importers, exporters, distributors,
+9 blenders, and terminal operators of motor fuels have 30
+10 days to file a new or replacement bond once notified by
+11 the Alabama Department of Revenue.
+12 This bill would extend the current 30-day filing
+13 period for new or replacement bonds.
+14 Under existing law, when an entity unlawfully
+15 imports into or transports, delivers, stores, or sells
+16 motor fuels in Alabama, the Alabama Department of
+17 Revenue will make an assessment, including interest and
+18 penalties, which must be paid within 30 days.
+19 This bill would extend the current 30-day
+20 payment period for assessments made on unlawfully
+21 imported or transported motor fuels.
+22 This bill would also make nonsubstantive,
+23 technical revisions to update the existing code
+24 language to current style.
+25
+26
+27 A BILL
+28 TO BE ENTITLED
+Page 1
+
+TO BE ENTITLED
+SB86 INTRODUCED
+29 AN ACT
+30
+31 Relating to surety bonds and motor fuel assessments; to
+32 amend Sections 40-17-168.5 and 40-17-335 to extend the filing
+33 period for new or replacement surety bonds; to amend Section
+34 40-17-353 to extend the payment period for assessments made on
+35 certain unlawful transactions of motor fuels; and to make
+36 nonsubstantive, technical revisions to update the existing
+37 code language to current style.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. Sections 40-17-168.5, 40-17-335, and
+40 40-17-353, Code of Alabama 1975, are amended to read as
+41 follows:
+42 "§40-17-168.5
+43 (a) Upon approval of the application by the department,
+44 the applicant must file with the department a surety bond. The
+45 bond amount for an applicant for a license as a public seller
+46 of CNG/LNG or a fleet producer of CNG/LNG shall be a minimum
+47 of twenty-five thousand dollars ($25,000) or in the
+48 approximate amount of twice the average monthly tax liability,
+49 whichever is greater.
+50 (b) The department shall review the bond amounts every
+51 five years beginning January 2023 to ensure that each public
+52 seller of CNG/LNG and each fleet producer of CNG/LNG has
+53 posted a surety bond sufficient to cover twice the average
+54 monthly tax liability as referenced in subdivision (a). Based
+55 upon this review, or if at any time that the department
+56 determines that the bond amount is insufficient to cover twice
+Page 2
+
+determines that the bond amount is insufficient to cover twice
+SB86 INTRODUCED
+57 the average monthly tax liability, the commissioner may
+58 require an additional surety bond from any licensee ifunder
+59 one or more of the following circumstances:
+60 (1) The commissioner determines that the surety on an
+61 existing bond is unsatisfactory.;
+62 (2) A surety notifies the department that it intends to
+63 cancel a bond as provided in subsection (d).; or
+64 (3) The commissioner, after reviewing the payment
+65 history of the licensee, determines that the existing bond of
+66 the licensee is insufficient in an amount to insure the prompt
+67 payment of all excise taxes that are due or may become due to
+68 the state by the licensee upon the sale or withdrawal of
+69 compressed natural gas or liquefied natural gas. However, in
+70 no case shall a new or additional bond be more than two months
+71 of average excise tax owed by the licensee.
+72 (c)(1) The department shall notify a licensee at his or
+73 her last known address by first class U.S. mail or, at the
+74 option of the department, certified mail, return receipt
+75 requested, that it is requiring such new or additional bond
+76 for any reason as provided abovein subsection(b), and the
+77 licensee, within 3060 days from the date the notice is mailed
+78 by the department, shall do either of the following:
+79 a. File the new or additional bond as requested by the
+80 department.; or
+81 b. File a notice of appeal with the Alabama Tax
+82 Tribunal as allowed in Chapter 2A.
+83 (2) The department may immediately cancel the
+84 licensee's license upon the expiration of the 3060-day period
+Page 3
+
+licensee's license upon the expiration of the 3060-day period
+SB86 INTRODUCED
+85 set out abovein subdivision(1) if the licensee fails to either
+86 provide the new or additional bond requested by the department
+87 or timely appeal to the Alabama Tax Tribunal.
+88 (d)(1) Any surety on an existing bond furnished by a
+89 licensee may notify the department in writing of its intent to
+90 cancel the bond. The department shall immediately notify the
+91 licensee of the intent of the surety to cancel the surety
+92 bond, and the licensee shall have 3060 days from the date the
+93 notice is mailed by the department to provide a sufficient
+94 replacement bond as requested by the department.
+95 (2) The department may immediately cancel the
+96 licensee's license upon expiration of the 3060-day period set
+97 out abovein subdivision(1) if the licensee fails to either
+98 provide a new replacement bond as requested by the department
+99 or appeal the proposed revocation to the Alabama Tax Tribunal
+100 within the 3060 days as allowed by Chapter 2A.
+101 (3) The surety requesting to be released shall remain
+102 liable for any liability already accrued or which shall accrue
+103 during the 3060-day period set out abovein subdivision(1), but
+104 shall not be responsible for any liability which accrues after
+105 the 3060-day period.
+106 (e) A surety providing a bond must be authorized to
+107 engage in business within this state. The surety bonds are
+108 conditioned upon faithful compliance with this article,
+109 including the filing of returns and the payment of all tax
+110 prescribed hereinin this article. The commissioner shall
+111 approve surety bonds shall be approved by the commissioner as
+112 to sufficiencythat are sufficient in content and form, and the
+Page 4
+
+to sufficiencythat are sufficient in content and form, and the
+SB86 INTRODUCED
+113 surety bonds shall indemnify the state against any loss
+114 arising from the failure of the licensee to pay, for any
+115 cause, the motor fuel excise tax levied by this article.
+116 (f) A personal producer of CNG is not required to post
+117 a bond."
+118 "§40-17-335
+119 (a) Upon approval of the application by the department,
+120 the applicant shall file with the department a surety bond as
+121 herein provided:.
+122 (1) Except as provided under subdivision (3), theThe
+123 bond amount for an applicant for a license as a supplier,
+124 permissive supplier, or terminal operator shall be in the
+125 approximate amount of twice the average monthly tax liability,
+126 not to exceed two million dollars ($2,000,000), except as
+127 provided under subdivision (3).
+128 (2) Except as provided under subdivision (3), theThe
+129 bond amount for an applicant for a license as an exporter,
+130 blender, importer, or distributor shall be a minimum of two
+131 thousand dollars ($2,000) or the approximate amount of twice
+132 the average monthly tax liability, whichever is greater,
+133 except as provided under subdivision (3).
+134 (3) The bond for distributors, suppliers, and
+135 permissive suppliers who are licensed with the department on
+136 October 1, 2012, shall remain at the amount that is filed with
+137 the department on that date, except as provided under
+138 subsection (b).
+139 (4) For an applicant for a license only as a motor fuel
+140 transporter or aviation fuel purchaser, there shall be no
+Page 5
+
+transporter or aviation fuel purchaser, there shall be no
+SB86 INTRODUCED
+141 bond.
+142 (5) Only one bond shall be required of an applicant for
+143 multiple licenses. Except as provided under subdivision (3),
+144 the bond amount shall be based on the highest average monthly
+145 tax liability of the separate licenses, but shall cover all
+146 licenses.
+147 (b) The commissioner may require an additional surety
+148 bond from any licensee if: (1)(i) the commissioner determines
+149 that the surety on an existing bond is unsatisfactory; (2)(ii)
+150 a surety notifies the department that it intends to cancel a
+151 bond as provided in subsection (d); or (3)(iii) the
+152 commissioner, after reviewing the financial condition of the
+153 licensee, determines that the existing bond of the licensee is
+154 insufficient in an amount to insure the prompt payment of all
+155 excise taxes that are due or may become due the state by the
+156 licensee upon the sale or withdrawal of motor fuel. However,
+157 in no case shall a new or additional bond be more than two
+158 months of average excise tax owed by the licensee.
+159 (c) The department shall notify a licensee at his or
+160 her last known address by first class U.S. mail or, at the
+161 option of the department, certified mail, return receipt
+162 requested, that itthe department is requiring sucha new or
+163 additional bond for any reason as provided above, and the
+164 licensee, within 3060 days from the date suchthe notice is
+165 mailed by the department, shall either: (1)(i) file the new or
+166 additional bond as requested by the department,; or (2)(ii)
+167 file a notice of appeal with the Alabama Tax Tribunal as
+168 allowed in Chapter 2B of this title. The department may
+Page 6
+
+allowed in Chapter 2B of this title. The department may
+SB86 INTRODUCED
+169 immediately cancel the licensee's license upon the expiration
+170 of the 3060-day period set out above if the licensee fails to
+171 either provide the new or additional bond requested by the
+172 department or timely appeal to the Alabama Tax Tribunal.
+173 (d) Any surety on an existing bond furnished by a
+174 licensee may notify the department in writing of its intent to
+175 cancel the bond. The department shall immediately notify the
+176 licensee of the intent of the surety to cancel and the
+177 licensee shall have 3060 days from the date the notice is
+178 mailed by the department to provide a sufficient replacement
+179 bond as requested by the department. The department may
+180 immediately cancel the licensee's license upon expiration of
+181 the 3060-day period set out above if the licensee fails to
+182 either provide a new replacement bond as requested by the
+183 department or appeal the proposed revocation to the Alabama
+184 Tax Tribunal within the 3060 days as allowed by Chapter 2B of
+185 this title. The surety requesting to be released shall remain
+186 liable for any liability already accrued or which shall accrue
+187 during the 3060-day period set out above, but shall not be
+188 responsible for any liability which accrues after the 3060-day
+189 period.
+190 (e) A surety providing a bond must be authorized to
+191 engage in business within this state. The surety bonds are
+192 conditioned upon faithful compliance with the provisions of
+193 this article, including the filing of returns and the payment
+194 of all tax prescribed hereinin this article. The commissioner
+195 shall approve surety bonds shall be approved by the
+196 commissioner as to sufficiencythat are sufficient in content
+Page 7
+
+commissioner as to sufficiencythat are sufficient in content
+SB86 INTRODUCED
+197 and form, and the surety bonds shall indemnify the state
+198 against any loss arising from the failure of the licensee to
+199 pay, for any cause, the motor fuel excise tax levied by this
+200 article and Article 12A, Chapter 17 of this title."
+201 "§40-17-353
+202 (a) Upon the discovery of any motor fuel illegally
+203 imported into or illegally transported, delivered, stored, or
+204 sold in this state, the commissioner shall order the tank or
+205 other storage receptacle in which the motor fuel is located to
+206 be seized and locked or sealed until the tax, interest, and
+207 penalties levied under this article are assessed and paid.
+208 (b) If the assessment for the above tax described in
+209 subsection(a) is not paid within 3060 days, the commissioner,
+210 in addition to the other remedies in this article, may sell
+211 the motor fuel and use the proceeds of the sale to satisfy the
+212 assessment due, with any excess funds after payment of the
+213 assessment and costs of the sale being returned to the owner
+214 of the motor fuel.
+215 (c) All motor fuel and any property, tangible or
+216 intangible, which is found upon the person or in any vehicle
+217 which the person is using, including the vehicle itself, to
+218 transport or sell illegally transported, delivered, stored,
+219 sold, imported, or acquired motor fuel, and any property found
+220 in the immediate vicinity, including motor vehicles, tanks,
+221 and other storage devices, used to aid in the illegal
+222 transportation or sale of motor fuel, shall be considered
+223 contraband and shall be forfeited to this state."
+224 Section 2. This act shall become effective immediately.
+Page 8

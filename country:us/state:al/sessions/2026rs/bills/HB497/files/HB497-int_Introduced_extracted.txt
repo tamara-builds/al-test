@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB497 INTRODUCED
+1 HB497
+2 5VXHS3M-1
+3 By Representative Easterbrook
+4 RFD: State Government
+5 First Read: 24-Feb-26
+Page 0
+
+First Read: 24-Feb-26
+5VXHS3M-1 02/24/2026 OW (L)cr 2026-872
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama Department of
+6 Mental Health (ADMH) is authorized to establish
+7 standards for its facilities and providers, and
+8 pursuant to that authority, has established the ADMH
+9 Division of Development Disabilities Community Incident
+10 Prevention and Management System (IPMS), which sets
+11 requirements for service providers certified by ADMH to
+12 protect individuals receiving services for
+13 developmental and intellectual disabilities.
+14 This bill would establish critical incident type
+15 classifications and provider reporting requirements for
+16 certain incident types for use in the Division of
+17 Developmental Disabilities Community Incident
+18 Prevention and Management System.
+19 This bill would require ADMH to adopt and amend
+20 rules and policies as necessary for implementation.
+21 This bill would also prohibit ADMH from
+22 requiring or adopting more stringent incident reporting
+23 requirements than the requirements provided for by this
+24 act or by federal law or regulations.
+25
+26
+27 A BILL
+28 TO BE ENTITLED
+Page 1
+
+TO BE ENTITLED
+HB497 INTRODUCED
+29 AN ACT
+30
+31 Relating to the Alabama Department of Mental Health
+32 (ADMH); to establish critical incident type classifications
+33 and provider reporting requirements for certain incident types
+34 for use within the ADMH Division of Developmental Disabilities
+35 Community Incident Prevention and Management System (IPMS); to
+36 provide for implementation and adoption of the IPMS; and to
+37 prohibit ADMH from adopting more stringent reporting
+38 requirements in certain circumstances.
+39 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+40 Section 1. (a) For the purposes of this section, the
+41 following terms have the following meanings:
+42 (1) ADMH. The Alabama Department of Mental Health.
+43 (2) CRITICAL INCIDENT. An occurrence or event, severe
+44 in nature, scope, and potential consequences, involving a
+45 recipient that warrants immediate action.
+46 (3) ELECTRONIC MANAGEMENT SYSTEM. A web-based system
+47 used to identify, report, investigate, resolve, track, and
+48 trend critical incidents.
+49 (4) ELOPEMENT. Occurs when a recipient cannot be
+50 located and there is reason to believe the recipient may be
+51 lost or in danger.
+52 (5) EXPLOITATION. The expenditure, diminution, or use
+53 of the property, assets, or resources of recipients subject to
+54 protection under the Chapter 9 of Title 38, Code of Alabama
+55 1975, without the express voluntary consent of that recipient
+56 or legally authorized representative. The term includes, but
+Page 2
+
+or legally authorized representative. The term includes, but
+HB497 INTRODUCED
+57 is not limited to, improperly requesting a recipient to
+58 perform an employee's work responsibilities, services, or
+59 tasks for the employee; requesting, taking, or receiving
+60 money, gifts, or other personal possessions from a recipient;
+61 or utilizing a recipient to engage in conduct with other
+62 recipients which would be prohibited if performed by an
+63 employee.
+64 (6) LAW ENFORCEMENT INVOLVEMENT. Any situation where
+65 law enforcement is called to request assistance for a
+66 recipient who is exhibiting extreme behavior, to provide
+67 notice of an accident, or to report a crime, and when no one
+68 is arrested, charged, or incarcerated.
+69 (7) MAJOR INJURY. Any observable and substantial injury
+70 that is not considered a moderate injury and that results in
+71 permanent or protracted impairment, such as a serious
+72 fracture, a major wound requiring sutures, injury to an
+73 internal organ, a burn, or a physical disfigurement of the
+74 body, which typically require medical treatment and may result
+75 in hospitalization.
+76 (8) MEDICATION ERROR. Occurs when a recipient receives
+77 a wrong medicine, wrong dose, medication given at a wrong
+78 time, medication administered by a wrong route, or when the
+79 medication is not given for the right purpose or if there is a
+80 documentation error.
+81 (9) MISTREATMENT. Any act or threat of intimidation,
+82 harassment, or similar deed to cause harm or create the fear
+83 of harm to a recipient. The term includes the willful or
+84 reckless infliction of emotional or mental anguish or the use
+Page 3
+
+reckless infliction of emotional or mental anguish or the use
+HB497 INTRODUCED
+85 of a physical or chemical restraint, medication, or isolation
+86 as punishment or as a substitute for treatment or care of a
+87 recipient. The term also includes, but is not limited to,
+88 using physical or non-verbal gestures as a means of
+89 intimidation, withholding of or the threat of withholding
+90 physical necessities or personal possessions as a means of
+91 intimidation for control of the recipient, or making false
+92 statements as a means of confusing, frightening, or badgering
+93 the recipient.
+94 (10) MODERATE INJURY. Any observable and substantial
+95 impairment of a recipient's physical health requiring medical
+96 treatment that is not considered a major injury and that does
+97 not cause a substantial risk of death, a permanent
+98 disfigurement, or a protracted loss or impairment of the
+99 function of a bodily member or organ. The term includes, but
+100 is not limited to, superficial fractures and wounds requiring
+101 sutures that do not result in permanent disfigurement.
+102 (11) NEGLECT. The intentional or unintentional failure
+103 of a provider to provide food, shelter, clothing, medical
+104 services, supervision, or basic needs for safety for a
+105 recipient who is unable to care for himself or herself. The
+106 term includes self-neglect.
+107 (12) PEER-TO-PEER PHYSICAL ASSAULT. A type of physical
+108 abuse in which two or more recipients engage in intentional,
+109 reckless, or aggressive behavior that results in a moderate or
+110 major injury to another recipient.
+111 (13) PEER-TO-PEER SEXUAL ASSAULT. A type of sexual
+112 abuse wherein two or more recipients engage in unwanted or
+Page 4
+
+abuse wherein two or more recipients engage in unwanted or
+HB497 INTRODUCED
+113 non-consensual sexual contact or activity.
+114 (14) PHYSICAL ABUSE. The intentional infliction of
+115 physical pain, injury, or willful deprivation of services
+116 necessary to maintain physical and mental health by a provider
+117 or provider employee to a recipient. The term shall include,
+118 but not be limited to, hitting, kicking, pinching, slapping,
+119 or otherwise striking a recipient, and the use of excessive
+120 force regardless of whether an injury results.
+121 (15) PROVIDER. Any individual, agency, organization,
+122 contractor, or group certified by ADMH to offer services for
+123 individuals with developmental and intellectual disabilities
+124 through ADMH Division of Developmental Disabilities.
+125 (16) RECIPIENT. An individual with developmental or
+126 intellectual disabilities who receives services from a
+127 provider.
+128 (17) RESTRICTIVE INTERVENTION. Any use of physical,
+129 mechanical, or chemical restraints to immobilize or reduce the
+130 ability of a recipient to move his or her arms, legs, body, or
+131 head freely.
+132 (18) RIGHTS VIOLATION. The unlawful interference,
+133 denial, or infringement of a recipient's fundamental freedoms
+134 and legal entitlements, including discrimination and
+135 retaliation.
+136 (19) SECLUSION. The involuntary confinement of a
+137 recipient alone in a room or an area where the recipient is
+138 physically prevented from leaving.
+139 (20) SELF-NEGLECT. A type of neglect in which the
+140 recipient fails to provide for his or her own basic needs when
+Page 5
+
+recipient fails to provide for his or her own basic needs when
+HB497 INTRODUCED
+141 the failure is the result of the recipient's mental or
+142 physical inability, and the failure substantially endangers a
+143 recipient's health, safety, welfare, or life.
+144 (21) SERVICES. Supports provided for recipients living
+145 with developmental and intellectual disabilities that are
+146 designed to meet the needs of the recipient and are part of a
+147 coordinated system of care.
+148 (22) SEXUAL ABUSE. Any offense under Article 4, Chapter
+149 6, Title 13A, Code of Alabama 1975, which is perpetrated by
+150 anyone. The term includes, but is not limited to, unwanted or
+151 non-consensual sexual contact or activity using force,
+152 coercion or threats, rape, incest, sodomy, and indecent
+153 exposure.
+154 (23) SUICIDE ATTEMPT. An act committed by a recipient
+155 in an attempt to cause his or her own death, limited to the
+156 actual occurrence of an act. The term does not include verbal
+157 suicidal threats by a recipient.
+158 (24) UNEXPLAINED OR UNEXPECTED DEATH. The permanent
+159 suspension of consciousness and the end of life due to an
+160 unknown or unanticipated cause. At a minimum, unanticipated
+161 causes include those that resulted from suicide, homicide or
+162 other criminal activity, medical error or complications,
+163 undiagnosed conditions or accidents, or those that were
+164 suspicious for possible abuse or neglect.
+165 (25) VERBAL ABUSE. The infliction of disparaging and
+166 angry outbursts such as name calling, blaming, threatening, or
+167 making derogatory comments that demean or could reasonably be
+168 expected to cause shame, ridicule, humiliation, or emotional
+Page 6
+
+expected to cause shame, ridicule, humiliation, or emotional
+HB497 INTRODUCED
+169 distress.
+170 (b) The ADMH Division of Developmental Disabilities
+171 shall establish and maintain a Community Incident Prevention
+172 and Management System (IPMS) that provides guidance for
+173 providers for the implementation of an incident prevention and
+174 management system to protect recipients from potential harm.
+175 (c) The ADMH Division of Developmental Disabilities
+176 shall design the IPMS to classify all of the following as
+177 critical incidents:
+178 (1) Mistreatment, including emotional and psychological
+179 abuse.
+180 (2) Physical and sexual abuse.
+181 (3) Verbal Abuse.
+182 (4) Peer-to-peer physical and sexual assault.
+183 (5) Elopement.
+184 (6) Unexplained or unexpected death.
+185 (7) Exploitation.
+186 (8) Major injury.
+187 (9) Law enforcement involvement.
+188 (10) Medication error resulting in consultation with
+189 poison control, an emergency room visit, urgent care,
+190 hospitalization, or death.
+191 (11) Neglect.
+192 (12) Rights violation.
+193 (13) The misuse or unauthorized use of restrictive
+194 intervention or seclusion.
+195 (14) Suicide attempt.
+196 (d) The ADMH Division of Developmental Disabilities
+Page 7
+
+(d) The ADMH Division of Developmental Disabilities
+HB497 INTRODUCED
+197 shall also design the IPMS to include the following provider
+198 reporting requirements:
+199 (1) Incident reports of critical incident types must be
+200 reported to the ADMH Regional Office or another entity as
+201 designated by ADMH within 24 hours of when the provider
+202 becomes aware of the incident.
+203 (2) All other incident types not included in subsection
+204 (c) must be submitted at least quarterly to the electronic
+205 incident management system as designated by ADMH.
+206 (e) ADMH shall adopt rules and policies to implement
+207 and administer this section, but may not require or adopt more
+208 stringent reporting requirements for critical incidents than
+209 the requirements provided for by this section, unless federal
+210 law or regulations so require.
+211 Section 2. This act shall become effective on October
+212 1, 2026.
+Page 8
