@@ -1,0 +1,428 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB588 INTRODUCED
+1 HB588
+2 SL9D188-1
+3 By Representative Hassell
+4 RFD: Health
+5 First Read: 10-Mar-26
+Page 0
+
+First Read: 10-Mar-26
+SL9D188-1 02/24/2026 KMS (L)cr 2026-312
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would create the Community Health
+6 Worker Certification Act.
+7 This bill would create the Community Health
+8 Worker Certification Board and provide for the
+9 membership, powers, and duties of the board.
+10 This bill would specify the minimum core
+11 competency skills framework for community health
+12 workers.
+13 This bill would provide for training programs
+14 offered through public K-12 career technical schools,
+15 public two-year and four-year institutions of higher
+16 education, and other board-approved competency-based
+17 providers.
+18 This bill would provide for requirements for
+19 certification of community health workers.
+20 This bill would create the Community Health
+21 Worker Certification Board Fund in the State Treasury.
+22 This bill would specify when certification is
+23 necessary, the proper use of the title of certified
+24 community health worker, and would provide for the
+25 denial, suspension, and discipline of the certification
+26 of a certified community health worker.
+27 This bill would provide for the adoption of
+28 rules by the board.
+Page 1
+
+rules by the board.
+HB588 INTRODUCED
+29 This bill would also require the Alabama
+30 Medicaid Agency to seek required federal approvals to
+31 support reimbursement for certain services provided by
+32 certified community health workers.
+33
+34
+35 A BILL
+36 TO BE ENTITLED
+37 AN ACT
+38
+39 Relating to community health workers; to add Chapter 44
+40 to Title 34, Code of Alabama 1975, to create the Community
+41 Health Worker Certification Act; to create the Community
+42 Health Worker Certification Board and provide for the
+43 membership, powers, and duties of the board; to specify the
+44 minimum core competency skills framework for community health
+45 workers; to provide for training programs offered through
+46 public K-12 career technical schools, public two-year and
+47 four-year institutions of higher education, and other approved
+48 competency-based providers; to provide for the certification
+49 of community health workers; to create the Community Health
+50 Worker Certification Board Fund in the State Treasury; to
+51 specify when certification is necessary and provide for the
+52 proper use of the title of certified community health worker;
+53 to provide for the denial, suspension, and discipline of
+54 certification of a certified community health worker; to
+55 provide for the adoption of rules; and to also require the
+56 Alabama Medicaid Agency to seek required federal approvals to
+Page 2
+
+Alabama Medicaid Agency to seek required federal approvals to
+HB588 INTRODUCED
+57 support reimbursement for certain services provided by
+58 certified community health workers.
+59 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+60 Section 1. Chapter 44 is added to Title 34 of the Code
+61 of Alabama 1975, to read as follows:
+62 §34-44-1 Short title.
+63 This chapter shall be known and may be cited as the
+64 Community Health Worker Certification Act.
+65 §34-44-2 Definitions.
+66 For the purposes of this chapter, the following terms
+67 have the following meanings:
+68 (1) BOARD. The Community Health Worker Certification
+69 Board.
+70 (2) CERTIFICATION. Recognition by the board that an
+71 individual has met eligibility requirements and demonstrated
+72 competency standards established by this chapter and rules
+73 adopted pursuant to this chapter.
+74 (3) CERTIFIED COMMUNITY HEALTH WORKER. A community
+75 health worker who holds certification issued under this
+76 chapter.
+77 (4) COMMUNITY HEALTH WORKER. A front line public health
+78 worker who serves as a liaison, link, and intermediary between
+79 health and social services and the community and facilitates
+80 access to services and service delivery. A community health
+81 worker may also provide outreach, community education,
+82 informal counseling, social support, and advocacy.
+83 §34-44-3 Community Health Worker Certification Board.
+84 (a) There is created the Community Health Worker
+Page 3
+
+(a) There is created the Community Health Worker
+HB588 INTRODUCED
+85 Certification Board.
+86 (b)(1) The board shall be co-chaired by a
+87 representative of the State Department of Education, appointed
+88 by the State Superintendent of Education, and a representative
+89 of the Alabama Community Health Worker Coalition appointed by
+90 the Governor from a list of three names nominated by the
+91 board. Each co-chair shall be familiar with the community
+92 health worker model and may be a practicing community health
+93 worker. The co-chairs shall be voting members of the board.
+94 (2) Additional voting members of the board, who shall
+95 each be familiar with the community health worker model and
+96 may be a practicing community health worker, shall include one
+97 member appointed by each of the following:
+98 a. The Lieutenant Governor.
+99 b. The President Pro Tempore of the Senate.
+100 c. The Speaker of the House of Representatives.
+101 d. The Speaker Pro Tempore of the House of
+102 Representatives.
+103 e. The Senate Majority Leader.
+104 f. The House Majority Leader.
+105 g. The Senate Minority Leader.
+106 h. The House Minority Leader.
+107 (3) The leadership of the Alabama Community Health
+108 Worker Coalition shall appoint the following voting members:
+109 a. Two practicing community health workers;
+110 b. One individual with extensive experience and
+111 training in public health policy; and
+112 c. One practicing community health worker or researcher
+Page 4
+
+c. One practicing community health worker or researcher
+HB588 INTRODUCED
+113 who has used the community health worker model in his or her
+114 work.
+115 d. One community member familiar with community health
+116 worker services.
+117 (4) The State Superintendent of Education shall appoint
+118 two voting members.
+119 (5) The Board of Trustees of the Alabama Community
+120 College System shall appoint one voting member and one
+121 nonvoting member.
+122 (6) Additional nonvoting members may be appointed to
+123 the board as deemed necessary by the board to ensure balanced
+124 representation of practitioners, educators, employers, public
+125 agencies, payers, and community voices aligned with the
+126 community health worker model and consistent with this chapter
+127 and rules adopted pursuant to this chapter.
+128 (7) The appointing authorities shall coordinate board
+129 appointments to ensure the membership of the board is
+130 inclusive and reflects the racial, gender, geographic, urban,
+131 rural, and economic diversity of the state.
+132 (c) Members of the board shall serve for terms of four
+133 years. No member of the board shall serve for more than two
+134 consecutive full terms. Vacancies on the board for any reason
+135 shall be filled by the original appointing authority for the
+136 unexpired term of office. A member originally appointed for
+137 less than a full term may serve two consecutive full terms
+138 thereafter. A former member may be reappointed after a lapse
+139 of one year.
+140 (d)(1) The board shall establish and hold regular
+Page 5
+
+(d)(1) The board shall establish and hold regular
+HB588 INTRODUCED
+141 quarterly and additional special meetings for the purpose of
+142 transacting business as provided by rules adopted by the
+143 board. Notice of board meetings and the conduct of meetings
+144 shall comply with the Alabama Open Meetings Act.
+145 (2) A majority of the membership of the board shall
+146 constitute a quorum at any meeting of the board.
+147 (3) The State Department of Education, upon notice
+148 satisfactory to the department, shall provide adequate space
+149 for the board to meet.
+150 (e) The board may select and employ an executive
+151 director who shall serve at the pleasure of the board and who
+152 shall be responsible for the administration of board rules and
+153 policies. The executive director shall be responsible for
+154 employing and supervising other support personnel as directed
+155 by the board. The executive director shall be designated as
+156 the agent for the board for service of legal process upon the
+157 board, act as its recording and corresponding secretary, have
+158 custody of and safeguard and keep in good order all property
+159 and records of the board, sign all instruments and matters
+160 that require approval of the board, and perform all duties as
+161 the board may assign or delegate.
+162 (f) Members shall serve without compensation but may be
+163 reimbursed for travel and other expenses actually incurred in
+164 the performance of their duties in the same manner as state
+165 employees, subject to the availability of funds.
+166 (g) The Governor may remove any member of the board for
+167 misconduct, incompetency, neglect of duty, or for any other
+168 sufficient cause.
+Page 6
+
+sufficient cause.
+HB588 INTRODUCED
+169 §34-44-4 Core competency skills framework.
+170 (a) The board shall adopt the following core competency
+171 skills as the minimum competency framework:
+172 (1) Communication.
+173 (2) Interpersonal skills and relationship building
+174 skills.
+175 (3) Service coordination and navigation.
+176 (4) Capacity building.
+177 (5) Advocacy.
+178 (6) Presentation and facilitation.
+179 (7) Organizational and cultural competency.
+180 (8) Public health knowledge.
+181 (9) Understanding of health systems and basic diseases.
+182 (10) Behavioral health issues and knowledge.
+183 (11) Field experience.
+184 (b) In adopting, interpreting, and implementing the
+185 core competency skills framework, the board shall align
+186 competency standards, training program requirements, approved
+187 pathways, and assessment criteria with the nationally
+188 recognized community health worker competency standards and
+189 shall incorporate updates to those standards as they are
+190 revised or replaced, through board policy and administrative
+191 rule.
+192 (c) Nothing in this chapter or the core competency
+193 skills framework shall be construed to authorize a community
+194 health worker to provide direct care or treatment to any
+195 individual or to perform any act or service for which a
+196 license issued by a professional licensing board is required.
+Page 7
+
+license issued by a professional licensing board is required.
+HB588 INTRODUCED
+197 §34-44-5 Training.
+198 (a) Community health workers shall be provided with
+199 academic-based and community-based training opportunities that
+200 lead to the mastery of the community health worker core
+201 competency skills framework. Training may be delivered by
+202 educational institutions including, but not limited to, public
+203 K-12 career technical schools and two-year or four-year
+204 institutions of higher education, or through other
+205 competency-based, academic-based, community-based
+206 organizations, employers, providers, and instructors approved
+207 by the board.
+208 (b) The board shall establish minimum requirements for
+209 community health worker training programs that mirror the
+210 nationally adopted curriculum adopted by the Alabama Community
+211 Health Worker Coalition and require demonstration of
+212 competency through instruction, applied learning, and
+213 supervised practice, including field experience.
+214 (c) At a minimum, approved training programs shall
+215 incorporate the community health worker core competencies
+216 national standards as recommended by the Community Health
+217 Worker Core Consensus (C3) Project, the National Association
+218 of Community Health Workers (NACHW), the Foundations for
+219 Community Health Workers, 3rd edition, and other nationally
+220 recognized community health workers competency frameworks, and
+221 any updated versions or modules published after October 1,
+222 2026, as determined by the board.
+223 (d) The board shall collaborate with the State
+224 Department of Education, the Alabama Community College System,
+Page 8
+
+Department of Education, the Alabama Community College System,
+HB588 INTRODUCED
+225 and the Alabama Commission on Higher Education to establish
+226 procedures for awarding college course credit or recognition
+227 of prior learning for training, mentorship, and continuing
+228 education completed under a board-approved program.
+229 (e) Training, mentorship, and continuing education
+230 approved by the board may be offered through two-year and
+231 four-year public institutions of higher education on a
+232 flexible, non-credit or credit basis and shall not be
+233 restricted to traditional semester schedules or credit hour
+234 requirements. These offerings should be accessible throughout
+235 the year, allowing individuals to enroll and complete training
+236 at various times as needed.
+237 §34-44-6 Certification.
+238 (a) Certification is not required to perform services
+239 within the core competency skills of a community health worker
+240 pursuant to this chapter. An individual who is not certified
+241 may continue to work as a community health worker, subject
+242 only to the requirements of his or her hiring organization,
+243 employer, contractor, payer, or other entity.
+244 (b) An employer requiring certification as a condition
+245 of employment may verify certification with the board. Proof
+246 of certification may be provided in a form and manner
+247 established by board rule.
+248 (c) The board shall establish and administer a
+249 community health worker certification program. Certification
+250 is voluntary unless otherwise required by a hiring
+251 organization or payer as a condition of employment or
+252 reimbursement. The certification program shall require the
+Page 9
+
+reimbursement. The certification program shall require the
+HB588 INTRODUCED
+253 applicant to demonstrate knowledge of the requirements of this
+254 chapter, rules adopted pursuant to this chapter, and the
+255 community health worker core competency skills framework.
+256 (d) The board, by rule, shall provide for all of the
+257 following:
+258 (1) Eligibility standards for initial certification,
+259 renewal, and recertification. Standards shall include, but not
+260 be limited to, minimum age requirements, training or education
+261 requirements, competency requirements, and ethical standards.
+262 (2) Multiple pathways to certification including, but
+263 not limited to, grandfathering, which may include any of the
+264 following:
+265 a. Completion of an approved training program;
+266 b. Demonstration of relevant work experience;
+267 c. Successful completion of an examination or
+268 assessment; and
+269 d. Other competency-based criteria and verification
+270 requirements.
+271 (e)(1) The board shall establish a process for granting
+272 certification to individuals who hold a current, valid
+273 community health worker certification from another state,
+274 provided that the certification requirements of the other
+275 state are substantially equivalent to those provided by this
+276 chapter and board rules. Applicants seeking certification by
+277 reciprocity shall submit proof to the board of current
+278 certification and evidence that the applicant satisfies or
+279 exceeds Alabama's core competency and training standards.
+280 (2) The board may require a reciprocity applicant to
+Page 10
+
+(2) The board may require a reciprocity applicant to
+HB588 INTRODUCED
+281 complete additional training or bridging requirements and, if
+282 necessary, to demonstrate competency or to successfully
+283 complete a certification examination or assessment, or both.
+284 (3) The board may enter into reciprocity agreements
+285 with other states to facilitate certification across state
+286 lines, provided those agreements uphold the standards
+287 established by this chapter. All reciprocity applicants,
+288 including those with national certification, shall also obtain
+289 certification pursuant to this chapter to be recognized as
+290 certified.
+291 §34-44-7 Community Health Worker Certification Board
+292 Fund.
+293 (a) There is created a separate special revenue trust
+294 fund in the State Treasury known as the Community Health
+295 Worker Certification Board Fund. All receipts collected by the
+296 board under this chapter shall be deposited in this fund and
+297 used only to carry out the purposes of this chapter. Receipts
+298 shall be disbursed only by warrant of the Comptroller. No
+299 funds shall be withdrawn except as budgeted and allotted
+300 according to Article 4 of Chapter 4 of Title 41 and Chapter 19
+301 of Title 41, and only in amounts as stipulated in the general
+302 appropriations bill or other appropriations bills.
+303 (b) The board may also accept all gifts, bequests, and
+304 donations from any source whatsoever, and the gifts, bequests,
+305 and donations shall be used or expended in accordance with
+306 their terms or stipulations. In the absence of any terms or
+307 stipulations, the gifts, bequests, or donations may be used or
+308 expended for such purposes as the board may determine.
+Page 11
+
+expended for such purposes as the board may determine.
+HB588 INTRODUCED
+309 §34-44-8 Use of title.
+310 (a) An individual may use the title "certified
+311 community health worker" or "CCHW" only if the individual
+312 holds a valid certification credential issued by the board
+313 pursuant to this chapter.
+314 (b) An individual who does not hold a valid
+315 certification credential issued by the board may use the title
+316 "community health worker" or "CHW."
+317 §34-44-9 Discipline.
+318 The board may deny, suspend, revoke, or otherwise
+319 discipline a certified community health worker for cause
+320 established by rule, including fraud or material
+321 misrepresentation in an application for initial or renewal of
+322 certification. Any hearing relating to an action of the board
+323 under this chapter shall be conducted pursuant to the Alabama
+324 Administrative Procedure Act, Chapter 22 of Title 41.
+325 §34-44-10 Rules.
+326 The board shall adopt rules as necessary to implement
+327 this chapter pursuant to the Alabama Administrative Procedure
+328 Act. In addition to any other rule specifically authorized by
+329 this chapter, board rules may do all of the following:
+330 (1) Establish reasonable uniform fees and fee
+331 structures for applications, renewals, and training program
+332 approval.
+333 (2) Establish uniform application forms and standards
+334 for certification pathways including, but not limited to,
+335 grandfathering and reciprocity, and time frames for each
+336 pathway.
+Page 12
+
+pathway.
+HB588 INTRODUCED
+337 (3) Provide additional requirements for initial and
+338 renewal of certification including, but not limited to,
+339 minimum age requirements and acceptable documentation for
+340 proof of training which may include certificates of
+341 completion, transcripts, or official letters from recognized
+342 training providers or certifying bodies and procedures for
+343 verifying submitted documentation.
+344 (4) Provide continuing education requirements,
+345 including ethics.
+346 (5) Develop a procedure and establish criteria for
+347 approving training program providers and instructors.
+348 (6) Develop procedures for complaint intake and
+349 investigations.
+350 (7) Establish disciplinary guidelines.
+351 (8) Establish procedures for conducting audits.
+352 §34-44-11 Coordination of federal approvals for
+353 Medicaid reimbursement.
+354 The Alabama Medicaid Agency, in coordination with the
+355 board, shall seek any required federal approvals for
+356 reimbursement mechanisms, including a State Plan Amendment,
+357 waiver, or alternative payment model, to support reimbursement
+358 for certain services provided by certified community health
+359 workers, as permitted by state and federal law.
+360 Section 2. This act shall become effective on October
+361 1, 2026.
+Page 13

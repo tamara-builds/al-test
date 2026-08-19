@@ -1,0 +1,594 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB267 ENGROSSED
+1 HB267
+2 YMVPEN6-2
+3 By Representative Sells
+4 RFD: Agriculture and Forestry
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+HB267 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to the State Forestry Commission; to amend
+10 Sections 9-3-5, 9-3-7, 9-13-3, 9-13-10, 9-13-11, 9-13-12,
+11 9-13-140, 9-13-141, 9-13-142, 9-13-221, and 9-13-225, Code of
+12 Alabama 1975, and to add Sections 9-3-5.1 and 9-13-11.1 to the
+13 Code of Alabama 1975; to authorize the State Forester to earn
+14 sick and annual leave and receive reimbursement from travel;
+15 to remove the ability of the commission to appoint forest law
+16 enforcement officers; to refine the procedure for obtaining a
+17 burn permit; to provide penalties for conducting a prescribed
+18 burn without a permit; to provide penalties for violations of
+19 fire prevention measures in drought conditions; to require
+20 seized vehicles and equipment to be delivered to the State
+21 Forester or his or her designee; and to repeal Sections
+22 9-13-5, 9-13-6, 9-13-7, 9-13-8, 9-13-9, 9-13-13, 9-13-14,
+23 9-13-15, 9-13-24, 9-13-64, 9-13-223, and 9-13-226, Code of
+24 Alabama 1975, which govern forest fire wardens and provide
+25 procedures and penalties for the violation of certain fire
+26 prevention measures.
+27 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+28 Section 1. Sections 9-3-5, 9-3-7, 9-13-3, 9-13-10,
+Page 1
+
+Section 1. Sections 9-3-5, 9-3-7, 9-13-3, 9-13-10,
+HB267 Engrossed
+29 9-13-11, 9-13-12, 9-13-140, 9-13-141, 9-13-142, 9-13-221, and
+30 9-13-225, Code of Alabama 1975, are amended to read as
+31 follows:
+32 "§9-3-5
+33 It shall be the duty of the Alabama Forestry Commission
+34 to appoint with the advice and consent of the Governor a State
+35 Forester who shall serve as the executive secretary and
+36 administrative officer for the commission. The person
+37 soindividual appointed as the State Forester must have earned
+38 a minimum of a bachelor of science degree in forestry and must
+39 be licensed and registered under the forestry laws of Alabama
+40 with considerable experience in the forestry field. The State
+41 Forester shall receive a salary as fixed by the commission and
+42 shall serve at the pleasure of the commission and shall
+43 receive actual expenses. Notwithstanding any other provisions
+44 of law, the State Forester shall earn and use annual and sick
+45 leave and receive reimbursement when traveling on official
+46 business of the commission, as if he or she were an employee
+47 in the classified or unclassified service of the state. The
+48 State Forester shall in no other way be subject to or receive
+49 benefits of the state Merit System. Until otherwise provided
+50 for by the commission, the present State Forester of the
+51 Division of Forestry of the Department of Conservation and
+52 Natural Resources shall continue to serve as the State
+53 Forester under the commission. The State Forester shall devote
+54 his or her full time to the duties of histhe office. He or she
+55 shall be required to take the oath of office and give bond in
+56 the sum of fifty thousand dollars ($50,000).00."
+Page 2
+
+the sum of fifty thousand dollars ($50,000).00."
+HB267 Engrossed
+57 "§9-3-7
+58 (a) The commission shall have its main offices in the
+59 City of Montgomery; provided, that it. The commission may
+60 establish other district or subdistrict offices and facilities
+61 throughout the state in such places as it may deemas the
+62 commission deems advisable or necessary.
+63 (b) Notwithstanding any other provisions of law, no
+64 construction or maintenance projects involving commission
+65 offices or facilities shall be subject to the jurisdiction or
+66 oversight of the Division of Construction Management within
+67 the Department of Finance unless the cost of the project
+68 exceeds seven hundred fifty thousand dollars ($750,000). The
+69 Division of Construction Management shall retain its authority
+70 to adopt a uniform minimum building standards code that will
+71 apply to such projects costing seven hundred fifty thousand
+72 dollars ($750,000) or less."
+73 "§9-13-3
+74 (a) The commission shall give such advice, assistance,
+75 and cooperation as may be practicable to private landowners
+76 and promote, so far as it may be able, a proper appreciation
+77 in this state among all classes of the population of the
+78 benefits to be derived from forest culture, preservation, and
+79 use.
+80 (b) The commission may take suchreasonable and
+81 practicable measures as may be reasonable and practicable to
+82 prevent and suppress forest fires and other influences harmful
+83 to forest growth and may apply such parts of the forestry
+84 fundexpend monies from the Special State Forestry Fund and
+Page 3
+
+fundexpend monies from the Special State Forestry Fund and
+HB267 Engrossed
+85 other funds accruing to itthe commission as may be necessary
+86 to implement such purposes and to providingprovide such
+87 systems of control as itthe commission may establish, either
+88 independently or in cooperation with the federal government
+89 and other agencies, public or private.
+90 (c) The commission shall be the sole cooperating agency
+91 in joint work in the promotion and development of forestry and
+92 other matters and interests devolving upon it by law, among
+93 all classes of land ownership in the state, in which both the
+94 state and the federal government may have financial or
+95 administrative participation.
+96 (d)(1) The commission, for the purpose of establishing,
+97 developing, and maintaining state forests, administrative
+98 headquarters sitessites for offices or facilities, tower
+99 sites, and other areas necessary for its efficient operation,
+100 may acquire land by donation, purchase, condemnation, or
+101 lease, and for these purposes may useexpend such funds as may
+102 be available to itthe commission and not otherwise obligated,
+103 and may enter into agreements with the federal government or
+104 other agencies and private landowners for acquiring by lease,
+105 purchase, or otherwise such lands as in its judgment arethe
+106 commission deems desirable or necessary.
+107 (2) When lands are acquired or leased under this
+108 section, the commission is authorized to make expenditures
+109 frommay expend any funds available to the commission and not
+110 otherwise obligated, for the management, development, and
+111 utilization of such areaslands, to sell or otherwise dispose
+112 of products from such lands, to have sole charge of all state
+Page 4
+
+of products from such lands, to have sole charge of all state
+HB267 Engrossed
+113 forests and other lands that have been acquired hereunder, and
+114 to have authority to make suchadopt rules and regulations for
+115 the management, administration, occupancy, and use of said
+116 lands and all property and things of whatsoever nature therein
+117 or thereon as it shall find necessaryproperty in state forests
+118 and lands acquired by the commission.
+119 (3) The commission shall have full power and authority
+120 tomay sell, exchange, or lease lands under its jurisdiction
+121 when in its judgment it is advantageous to the state to do so
+122 in the orderly development and management of state forests and
+123 other designated areas; provided, however, that said sale,
+124 lease or exchange shall not be contrary to the terms of any
+125 contract which it has entered into. Any sale or lease of lands
+126 by the commission is subject to Article 3 of Chapter 15 of
+127 Title 9 except for the sale or lease of land that has an
+128 appraised or assessed value not exceeding fifty thousand
+129 ($50,000).
+130 (e) The commission may employ such officers,
+131 assistants, and employees as may be necessary and, as to
+132 personsindividuals employed wholly or in part in carrying out
+133 the provisions of cooperative agreements with the federal
+134 government or other agencies, for such compensation heretofore
+135 or hereafter paid may use suchthe contributions or receipts as
+136 may be derived from the United States or from any private or
+137 philanthropic source to pay the compensation of these
+138 individuals."
+139 "§9-13-10
+140 All employees of the State Forestry Commission
+Page 5
+
+All employees of the State Forestry Commission
+HB267 Engrossed
+141 appointed as forest law enforcement officers by the State
+142 Forester are hereby constituted peace officers of the State of
+143 Alabama with full police power and may exercise such powers
+144 anywhere within the state. They are hereby authorized to carry
+145 firearms or other weapons when they are actually in the
+146 discharge of their duties as such officers as provided by law.
+147 They shall be clothed with the power to arrest with or without
+148 warrant any person who shall violate any of the laws of the
+149 State of Alabama or any rule or regulation of the Alabama
+150 Forestry Commission and take him before a proper court for
+151 trial. All employees of the State Forestry Commission and all
+152 duly appointed officers of the United States whose duty it is
+153 to prevent and suppress forest fires are empowered to enter
+154 any lands and to construct thereon fire lines, fire lanes, or
+155 fire breaksfirebreaks, to set back fires thereon if necessary
+156 to prevent the further spread of fire then actually burning,
+157 and to do all other work necessary in the performance of their
+158 duties, including the right to enter any lands for the purpose
+159 of making investigations for the cause or causes of fires,
+160 without liability for trespass or damage therefrom."
+161 "§9-13-11
+162 (a) It shall be a Class C felony for everyany person,
+163 firm, association, or corporation to do either of the
+164 following:
+165 (1) Willfully, maliciously, or intentionally burnsburn,
+166 setsset fire to, attemptsattempt to set fire to, or
+167 causescause to be burned or any fire to be set to any forest,
+168 grass, woodlands, or other inflammable vegetation on any lands
+Page 6
+
+grass, woodlands, or other inflammable vegetation on any lands
+HB267 Engrossed
+169 not owned, leased, controlled, or in the lawful possession of
+170 the person, firm, association, or corporation setting the fire
+171 or burning such lands or causing the fire to be set or lands
+172 to be burned.
+173 (2) Shall haveHave in his or her possession or shall
+174 set, throw, or place any device, instrument, or other
+175 incendiary paraphernalia, including any time-delay incendiary
+176 device, in or adjacent to any forest, grass, woodlands, or
+177 other inflammable vegetation, whichif the forest, grass,
+178 woodland, or other inflammable vegetation is not owned,
+179 leased, controlled, or in the lawful possession of the person
+180 possessing suchthe device, instrument, or paraphernalia.
+181 (b) It shall be a Class B misdemeanor for any person,
+182 firm, association, or corporation to do any of the following:
+183 (1) Who recklesslyRecklessly or with wanton disregard
+184 for the safety of persons or property allowsallow a fire to
+185 escape from land owned, leased, or controlled by him or her,
+186 whereby any property of another is injured or destroyed;.
+187 (2) Who shall burnBurn any brush, stumps, logs,
+188 rubbish, fallen timber, grass, stubble, or debris of any sort,
+189 whether on one's own land or that of another, without taking
+190 reasonably necessary precautions, both before lighting the
+191 fire and all times thereafter to prevent the escape thereof;.
+192 (3) Who shall setSet fire to any brush, stumps, logs,
+193 rubbish, fallen timber, grass, stubble, or debris of any sort
+194 within or near any forest or woodland, unless the area
+195 surrounding said material to be burned shall beis cleared of
+196 all inflammable material for a reasonably safe distance in all
+Page 7
+
+all inflammable material for a reasonably safe distance in all
+HB267 Engrossed
+197 directions and maintained free of all inflammable material so
+198 long as such fire shall continuecontinues to burn;.
+199 (4) Who shall setSet a fire within or near any forest,
+200 woodland, or grassland without clearing the ground immediately
+201 around it free from material whichthat will carry fire, or
+202 shall leave such fire before itthe fire is totally
+203 extinguished, or start a fire in any forest, woodland, or
+204 grassland by throwing away a lighted cigar, cigarette, or
+205 match or by the use of firearms or in any other manner and
+206 leave the same unextinguished;.
+207 (5) Who shall destroyDestroy, remove, injure, or deface
+208 any fire warning or notices or deface any inscription or
+209 devices comprising such notices;.
+210 (6) Who shall burn any new ground, field, grasslands,
+211 or woodlands, or adjoining woodlands or grasslands of another
+212 within any area which has been placed under organized forest
+213 fire protection by the State Forestry CommissionConduct any
+214 prescribed burning, as defined in 9-13-272(2), without first
+215 obtaining verbal authorizationa burn permit from the State
+216 Forestry Commission by obtaining a burning permit number.
+217 (c) It shall be a Class A misdemeanor for any person to
+218 recklessly or with wanton disregard for the safety of persons
+219 or property burn, set fire to, attempt to set fire to, or
+220 cause to be burned or any fire to be set to any forest, grass,
+221 woodlands, or other inflammable vegetation on any lands not
+222 owned, leased, controlled, or in the lawful possession of the
+223 person setting the fire or burning such lands or causing the
+224 fire to be set or lands to be burned without the permission of
+Page 8
+
+fire to be set or lands to be burned without the permission of
+HB267 Engrossed
+225 the lawful owner.
+226 (d) (1) Burning permits may be obtained from the
+227 district operations center when the center is in active
+228 operation. The following criteria must be met:
+229 a. The person requesting the permit must have adequate
+230 tools, equipment, and manpower to stay with and control the
+231 fire during the entire burning period.
+232 b. The person requesting the permit is responsible to
+233 keep the fire confined.
+234 c. In no case will the person requesting the permit
+235 allow the fire to be unattended until it is dead out.
+236 (2) Burning permits will be issued if the individual
+237 requesting the permit states that the above criteria will be
+238 met unless the State Forester shall declare a fire alert.
+239 Under fire alert conditions the State Forester may allow
+240 issuance of permits at his or her discretion, taking into
+241 account the number of fires burning in the district, current
+242 and projected weather conditions, the ability of the person
+243 seeking the permit to contain the fire and that individual's
+244 knowledge of fire behavior, and other factors which may affect
+245 fires and fire behavior. A fire alert will be issued by the
+246 State Forester for any district or portion of a district that
+247 in the opinion of the State Forester, has existing conditions
+248 which produce extraordinary danger from fire or smoke.
+249 (3) If subsequent to issuance of a permit a lawfully
+250 authorized fire escapes to the lands of another and an
+251 investigation reveals that the permit holder did not meet all
+252 the criteria as set forth above, the fire will be treated as
+Page 9
+
+the criteria as set forth above, the fire will be treated as
+HB267 Engrossed
+253 if no legal authorization had been obtained.
+254 (4) A burning permit once issued may be revoked if the
+255 person requesting the permit fails to comply with proper
+256 burning procedures or if weather conditions develop which may
+257 result in erratic fire or smoke behavior.
+258 (e) An area shall be deemed legally placed under
+259 organized forest fire protection by the State Forestry
+260 Commission of the State of Alabama upon proclamation of the
+261 State Forester. Such proclamation shall describe the lands
+262 placed in said area and shall be published once a week for two
+263 consecutive weeks in a newspaper published in the county where
+264 the lands composing said area are located. If there are no
+265 newspapers published in the county where said lands are
+266 located, then said proclamation shall be published in a
+267 newspaper of an adjoining county. In the event the lands
+268 composing said area are located in more than one county, such
+269 proclamation shall be so published in a newspaper in each
+270 county where said lands are located. Beginning with the
+271 twelfth day after the first publication of said proclamation
+272 in said newspaper or newspapers, the lands described in the
+273 proclamation shall be deemed in an area under organized forest
+274 fire protection. Upon the trial of any person, firm, or
+275 corporation for the violation of any provision of this
+276 section, a certified copy of said proclamation executed by the
+277 State Forester shall be admissible in evidence and shall be
+278 conclusive evidence of the fact that the lands described in
+279 said proclamation constitute an area under organized forest
+280 fire protection within the meaning of this section.
+Page 10
+
+fire protection within the meaning of this section.
+HB267 Engrossed
+281 (f)(d) All moneysmonies collected for any violation of
+282 this section as fines, or forfeitures, etc., shall go tobe
+283 deposited into the Alabama Forestry Commission Fund and shall
+284 be used in defraying the expense of the administration of
+285 suchthe State Forestry Commission."
+286 "§9-13-12
+287 Any fire burning uncontrolled on any forested, cutover,
+288 brushland, or grassland area is hereby declared to be a public
+289 nuisance by reason of its menace to life and property. Any
+290 person, firm, association or corporation responsible either
+291 for the starting or the existence of sucha fire is hereby
+292 required toshall make a reasonable effort to control or
+293 extinguish itthe fire as soon as he or she has knowledge
+294 thereof, and if such person, firm, association or corporation
+295 shall refuse or neglect to do so, anyof the fire. Any
+296 organized fire suppression force may suppress the nuisance
+297 thus constituted by controlling and extinguishing the fire,
+298 and the cost thereof may be recovered from saidthe person,
+299 firm, association or corporation responsible for the starting
+300 or existence of suchthe fire."
+301 "§9-13-140
+302 Whenever conditions exist in any county or counties in
+303 this state which produce extraordinary danger from fire, the
+304 State Forestry Commission, with approval of the Governor, may
+305 by regulation declareorder, declare a droughtwildfire
+306 emergency condition in suchthe county or counties."
+307 "§9-13-141
+308 At such time as the State Forestry Commission has
+Page 11
+
+At such time as the State Forestry Commission has
+HB267 Engrossed
+309 declared by regulation a droughtwildfire emergency in any
+310 county or counties, it shall be unlawful in suchthe county or
+311 counties for any person to set fire to any forest, grass,
+312 woods, wildlands, or marshes or to build a campfire or bonfire
+313 or to burn trash or other material that may cause a forest,
+314 grass, or woods fire. This prohibition does not apply to any
+315 backfire set by an official representative or agent of the
+316 State Forestry Commission. Nor does this prohibition apply
+317 when a backfire is set by any person for the purpose of saving
+318 life or property;, provided, that suchthe person shall have
+319 the burden of proving the necessity for setting suchthe
+320 backfire if he or she claims same as a defense."
+321 "§9-13-142
+322 Any person violating any provision of this article
+323 shall be guilty of a Class B misdemeanor and, upon conviction
+324 thereof, shall be fined not less than $250.00 nor more than
+325 $500.00 and, at the discretion of the court, may be sentenced
+326 to the county jail for a period not exceeding six months."
+327 "§9-13-221
+328 (a) It shall be the duty of any sheriff, policeman,
+329 forestry officer,police officer, or other peace officer or law
+330 enforcement officer in the State of Alabama, who is arresting
+331 any person who is charged with violating or attempting to
+332 violate Section 9-13-60 or any felony laws of the State of
+333 Alabama involving timber or forest products or transactions
+334 pertaining thereto, to seize any vehicle and equipment used,
+335 which is in the possession or under control of the person or
+336 persons charged with violating the laws, and to deliver any
+Page 12
+
+persons charged with violating the laws, and to deliver any
+HB267 Engrossed
+337 suchthe seized vehicle and equipment, to the regional forester
+338 of the forestry region in which the arrest is madeState
+339 Forester or his or her designee. The person receiving any
+340 vehicle and equipment from the arresting officer shall keep
+341 itthe vehicle and equipment in a safe place and in as good
+342 condition as when received, until disposed of as hereinafter
+343 provided.
+344 (b) The seizure of vehicles and equipment provided in
+345 this section is authorized only when the arrest is for a crime
+346 involving the theft of timber harvesting equipment or the
+347 parts thereof, the harvesting, removal, transportation, or
+348 disposal of any forest products, or any other transactions
+349 related to forest products or timber harvesting equipment or
+350 any part or parts from timber harvesting equipment."
+351 "§9-13-222
+352 Within five days after the arrest or final conviction
+353 of any person for violating Section 9-13-60 or any felony laws
+354 of the State of Alabama outlineddescribed in this
+355 articleSection 9-13-221, the person receiving possession ofwho
+356 seizes any vehicle and equipment, seized as aforesaidas
+357 required by Section 9-13-221, shall report the seizure and
+358 detention of the vehicle and equipment to the district
+359 attorney or other prosecuting official, giving a full
+360 description of suchthe vehicle and equipment, any
+361 identification number, make and model thereof, the name of the
+362 person in whose possession itthe vehicle or equipment was
+363 found when seized, the person, if any, making claim to samethe
+364 vehicle or equipment or any interest thereinin the vehicle or
+Page 13
+
+vehicle or equipment or any interest thereinin the vehicle or
+HB267 Engrossed
+365 equipment if the name can be ascertained or is known, and the
+366 date and place of the seizure, and a statement of the
+367 circumstances surrounding the seizing of the property."
+368 "§9-13-225
+369 (a) When any judgment of condemnation or forfeiture is
+370 made in any case filed under the provisions of this section,
+371 the judge making suchthe judgment shall order and direct that
+372 saidthe seized vehicle and equipment be forfeited or awarded
+373 to the State Forester to be sold or used by him in the
+374 enforcement of the lawthe Alabama Forestry Commission or sold
+375 pursuant to Section 9-3-22.
+376 (b) And said order, in the event thatIf no appeal is
+377 taken within 15 days from the rendition thereof,after the
+378 order is made, the order shall be carried out and executed.
+379 The court, at its discretion, shall direct in said judgment
+380 that the cost of the proceedings be paid by the
+381 person(s)person or persons in whose possession saidthe vehicle
+382 and equipment were found when seized, or by any party or
+383 parties that claim to own saidthe vehicle and equipment, or
+384 any interest therein, and who contested the condemnation and
+385 forfeiture thereof. The State Forester shall keep a permanent
+386 record of all such vehicles and equipment forfeited and
+387 awarded to him as provided for herein, tothe State Forester
+388 and the vehicles and equipment shall be accounted for as other
+389 public property."
+390 Section 2. Sections 9-3-5.1 and 9-13-11.1 are added to
+391 the Code of Alabama 1975, to read as follows:
+392 §9-3-5.1
+Page 14
+
+§9-3-5.1
+HB267 Engrossed
+393 The State Forester may declare, by order, a wildfire
+394 alert whenever, in his or her opinion, existing weather or
+395 other conditions produce a heightened level of danger from
+396 fire or smoke. The wildfire alert may be issued for the
+397 entirety of the state or for designated portions of the state.
+398 §9-13-11.1
+399 (a) For the purposes of this section, the term
+400 "prescribed burn" shall have the same meaning as defined in
+401 Section 9-13-272.
+402 (b) No person shall conduct any prescribed burn without
+403 first obtaining a burn permit from the State Forestry
+404 Commission. Burn permits shall be issued in the manner
+405 determined by rule of the State Forester. This may include
+406 issuing permits electronically.
+407 (c) A person may obtain a burn permit only if the
+408 requesting individual makes a declaration that the following
+409 criteria are met:
+410 (1) The person requesting the permit has adequate
+411 tools, equipment, manpower, and other resources to stay with
+412 and control the fire during the entire burning period.
+413 (2) The person requesting the permit is sufficiently
+414 skilled and responsibly able to keep the fire controlled.
+415 (3) The person requesting the permit may not allow the
+416 fire to be unattended until the fire is fully contained,
+417 meaning that the fire, and any burning or smoldering material
+418 from the fire, must be entirely within established or natural
+419 firebreaks.
+420 (d) The State Forester may decline to issue a requested
+Page 15
+
+(d) The State Forester may decline to issue a requested
+HB267 Engrossed
+421 burn permit under any of the following circumstances:
+422 (1) The person requesting the burn permit has in the
+423 past demonstrated reckless or irresponsible conduct while
+424 conducting prescribed burns. Reckless or irresponsible conduct
+425 includes, but is not limited to, the person allowing multiple
+426 prescribed burns to escape containment and cause material
+427 damage to adjacent land or require the State Forestry
+428 Commission or fire department to respond to or suppress the
+429 fire.
+430 (2) The person requesting the burn permit is seeking to
+431 conduct a prescribed burn in any area for which the State
+432 Forester has issued a wildfire alert. Under these
+433 circumstances, the State Forester shall take into account the
+434 current number of wildfires in the area and the state
+435 generally, current and projected weather conditions, the
+436 knowledge, training, and ability of the person seeking the
+437 burn permit to control and contain the prescribed burn, and
+438 any other factors relevant to determining whether issuing the
+439 requested burn permit might create an unreasonable risk of
+440 injury to individuals or property.
+441 (e) If it is determined that a burn permit was issued
+442 by the State Forestry Commission based on any false
+443 declaration by the person who requested the burn permit, any
+444 prescribed burn conducted pursuant to the false declaration
+445 and permit shall be treated as if no legal authorization has
+446 been obtained.
+447 (f) If it is determined that a burn permit was issued
+448 based on any false declaration by the person who requested the
+Page 16
+
+based on any false declaration by the person who requested the
+HB267 Engrossed
+449 burn permit, the burn permit may be revoked by the State
+450 Forestry Commission.
+451 (g) A burn permit that has already been issued may be
+452 revoked at any time by the State Forestry Commission if any
+453 person conducting a prescribed burn fails to comply with
+454 proper prescribed burning procedures.
+455 (h) Regardless of the conduct of any person conducting
+456 a prescribed burn pursuant to an issued burn permit, the State
+457 Forestry Commission may revoke a burn permit at any time if
+458 weather or other conditions develop which may produce erratic
+459 fire or smoke behavior or other circumstances that may create
+460 an unreasonable risk of injury to individuals or property.
+461 (i) If a burn permit is revoked by the State Forestry
+462 Commission, any continuation of a prescribed burn conducted
+463 pursuant to the burn permit, except actions by the person
+464 conducting the prescribed burn to contain, suppress, or
+465 otherwise control a prescribed burn that was commenced before
+466 the burn permit was revoked, shall be treated as if no legal
+467 authorization had been obtained.
+468 (j) The State Forestry Commission may adopt rules and
+469 forms to implement and administer this chapter.
+470 Section 3. Sections 9-13-5, 9-13-6, 9-13-7, 9-13-8, and
+471 9-13-9, Code of Alabama 1975, providing for the appointment,
+472 duties, and compensation of forest fire wardens; Sections
+473 9-13-13, 9-13-14, and 9-13-15, Code of Alabama 1975,
+474 prohibiting certain conduct as a precaution against the spread
+475 of fire; and Sections 9-13-24, 9-13-64, 9-13-223, and
+476 9-13-226, Code of Alabama 1975, establishing the powers and
+Page 17
+
+9-13-226, Code of Alabama 1975, establishing the powers and
+HB267 Engrossed
+477 duties of employees, fees for arresting officers, and
+478 procedures regarding the reporting of and award of property
+479 after timber theft, are repealed.
+480 Section 4. This act shall become effective on October
+481 1, 2026.
+Page 18
+
+1, 2026.
+HB267 Engrossed
+482
+483
+484 House of Representatives
+485 Read for the first time and referred ................15-Jan-26
+486 to the House of Representatives
+487 committee on Agriculture and
+488 Forestry
+489
+490 Read for the second time and placed ................21-Jan-26
+491 on the calendar:
+492 0 amendments
+493
+494 Read for the third time and passed ................05-Feb-26
+495 as amended
+496 Yeas 101
+497 Nays 0
+498 Abstains 1
+499
+500
+501 John Treadwell
+502 Clerk
+503
+Page 19

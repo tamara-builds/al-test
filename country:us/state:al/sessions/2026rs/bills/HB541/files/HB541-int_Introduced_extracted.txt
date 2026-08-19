@@ -1,0 +1,296 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB541 INTRODUCED
+1 HB541
+2 TBYPQ99-1
+3 By Representatives Yarbrough, Stadthagen, Butler, Myrex,
+4 Harrison, Kiel, Underwood, Hammett, Whorton, Treadaway,
+5 Pettus, Rehm, Paschal, Mooney, Ledbetter, Carns, Stringer
+6 RFD: Ethics and Campaign Finance
+7 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+TBYPQ99-1 03/03/2026 PMG (L)cr 2026-918
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, Alabama is an open primary
+6 state. There is no requirement in state law that an
+7 elector must register his or her party affiliation when
+8 registering to vote.
+9 This bill would allow an elector to register a
+10 political party affiliation.
+11 This bill would require an elector to be
+12 registered with a political party in order to vote that
+13 party's ballot in a primary election or primary runoff
+14 election.
+15 This bill would prohibit an elector from
+16 switching his or her political party affiliation to
+17 another political party during a blackout period
+18 starting 60 says before a primary election.
+19 This bill would require the Secretary of State
+20 to update the voter registration form, retain certain
+21 voter history, and adopt rules.
+22 This bill would also require each political
+23 party to publish qualifications for candidates on its
+24 official website.
+25 This bill would also make nonsubstantive,
+26 technical revisions to update the existing code
+27 language to current style.
+28
+Page 1
+
+HB541 INTRODUCED
+29
+30 A BILL
+31 TO BE ENTITLED
+32 AN ACT
+33
+34 Relating to primary elections; to establish the
+35 Safeguard Alabama Voter Engagement (SAVE) Act; to require
+36 electors to register their party affiliation in order to vote
+37 in primary elections and to provide for deadlines to register
+38 party affiliation; to amend Sections 17-13-1 and 17-13-7,
+39 Code of Alabama 1975, to prohibit electors registered with a
+40 political party from voting a different political party ballot
+41 at a primary election or primary runoff election; to require
+42 the Secretary of State to retain certain voter history
+43 information as a public record; to amend Section 17-3-52, Code
+44 of Alabama 1975, to require the Secretary of State to revise
+45 the voter application form to allow for party registration; to
+46 repeal Section 17-13-7.1, Code of Alabama 1975, which
+47 prohibits crossover voting between a primary election and
+48 subsequent primary runoff election; to amend Section 17-13-47,
+49 Code of Alabama 1975, to require political parties to publish
+50 qualifications for candidates on the websites of the political
+51 parties; and to make nonsubstantive, technical revisions to
+52 update the existing code language to current
+53 style.
+54 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+55 Section 1. (a) This section shall be known and may be
+56 cited as the Safeguard Alabama Voter Engagement (SAVE) Act.
+Page 2
+
+cited as the Safeguard Alabama Voter Engagement (SAVE) Act.
+HB541 INTRODUCED
+57 (b)(1) On and after January 1, 2027, a qualified
+58 elector shall register his or her political party affiliation
+59 before the elector may vote in any countywide or statewide
+60 primary or primary runoff election. A qualified elector may
+61 register his or her party affiliation through the Secretary of
+62 State's website or with the board of registrars, or at the
+63 voting precinct of the elector on the day of any countywide or
+64 statewide primary or primary runoff election. An elector who
+65 has not registered a political party affiliation shall be
+66 considered unaffiliated for purposes of Title 17, Code of
+67 Alabama 1975. Notwithstanding Section 17-3-50, Code of Alabama
+68 1975, an unaffiliated elector may register a political party
+69 affiliation at any time, including during the 14-day period
+70 before an election.
+71 (2) If an elector chooses to register party affiliation
+72 at a voting precinct on primary election day or primary runoff
+73 election day, the act of requesting the ballot of a specific
+74 political party shall constitute party registration, and no
+75 additional action shall be required of the elector.
+76 (3) A qualified elector who has already registered his
+77 or her political party affiliation may not change his or her
+78 political party affiliation to a different political party
+79 during the period beginning 60 days prior to a primary
+80 election through the day of the corresponding general
+81 election.
+82 (c) An elector who has registered a political party
+83 affiliation may change his or her status to unaffiliated at
+84 any time, provided the elector may not subsequently register
+Page 3
+
+any time, provided the elector may not subsequently register
+HB541 INTRODUCED
+85 with a different political party during the blackout period
+86 described in subdivision (b)(3).
+87 (d) Nothing in this section shall be construed to
+88 prohibit any state executive committee of a political party
+89 from establishing the qualifications of individuals desiring
+90 to become candidates for nomination to offices at a primary
+91 election.
+92 (e)(1) Beginning on and after July 1, 2027, signs shall
+93 be posted at each polling place at a primary election and
+94 primary runoff election that contains the following notice:
+95 "By voting in this primary election, you have
+96 registered your affiliation with a particular political party.
+97 State law prohibits you from changing your political party
+98 affiliation to a different political party until after the
+99 general election. In the future, you may not change your party
+100 affiliation within the 60-day period before any primary
+101 election."
+102 (2) A sign shall be posted in a clearly visible
+103 location near the entrance of the polling place, and may be
+104 posted in other conspicuous locations within a polling place,
+105 as determined by the Secretary of State, by rule.
+106 (f) The Secretary of State shall retain the following
+107 voter history information for purposes of Section 17-4-38,
+108 Code of Alabama 1975 for each voter:
+109 (1) The party ballot requested in each primary and
+110 primary runoff election held between January 1, 2017 and
+111 January 1, 2027; and
+112 (2) The party affiliation registered pursuant to this
+Page 4
+
+(2) The party affiliation registered pursuant to this
+HB541 INTRODUCED
+113 section for the entire period of time the voter remains on the
+114 voter registration list.
+115 (g) The Secretary of State shall adopt rules to
+116 implement this section.
+117 Section 2. Sections 17-3-52, 17-13-1, 17-13-7, and
+118 17-13-47, Code of Alabama 1975, are amended to read as
+119 follows:
+120 "§17-3-52
+121 (a) The board of registrars shall have power to
+122 examine, under oath or affirmation, all applicants for
+123 registration, and to may take testimony touching the
+124 qualifications of such applicants, but no applicant shall be
+125 required to answer any question, written or oral, not related
+126 to his or her qualifications to register.
+127 (b)(1) In order to aid the registrars to judicially
+128 determine if applicants to register have the qualifications to
+129 register to vote, each applicant shall be furnished by the
+130 board a written application, which shall be uniform in all
+131 cases with no discrimination as between applicants., the The
+132 form and contents of which the application shall be
+133 promulgated adopted, by rule, by the Secretary of State of the
+134 State of Alabama. The application shall be so worded that
+135 there will be placed before the registrars information
+136 necessary or proper to aid them the registrars to pass upon
+137 the qualifications of each applicant. The application shall be
+138 completed in writing. There shall be incorporated in such
+139 application an oath to support and defend the Constitution of
+140 the United States and the Constitution of the State of Alabama
+Page 5
+
+the United States and the Constitution of the State of Alabama
+HB541 INTRODUCED
+141 of 1901 2022 and a statement in such oath by the applicant
+142 disavowing belief in or affiliation with any group or party
+143 which advocates the overthrow of the government of the United
+144 States or the State of Alabama by unlawful means. The
+145 application and oath shall be duly signed by the applicant.
+146 (2)a. On and after July 1, 2027, the application shall
+147 include a provision that requires the applicant to choose his
+148 or her political party affiliation as a Democrat or Republican
+149 or as a member of any other political party authorized to hold
+150 primary elections, or to remain unaffiliated. If an applicant
+151 fails to choose one of these options, the applicant shall be
+152 considered unaffiliated for purposes of this title.
+153 b. The application shall also include a notice
+154 generally stating that once registered, a voter may not change
+155 his or her political party affiliation to another political
+156 party during the period 60 days preceding a primary election
+157 through the corresponding general election day, but that a
+158 voter may become unaffiliated from any political party at any
+159 time. Moreover, a voter who remains unaffiliated, may later
+160 register a political party affiliation.
+161 (c) If the applicant is unable to read or write, then
+162 the applicant shall be exempt from the above stated
+163 requirements in subsection (b) which the applicant is unable
+164 to meet and in such cases, a witness shall read to the
+165 applicant the application and oath, herein provided for and
+166 the applicant's answers thereto shall be written down by the
+167 witness, and the applicant shall be registered as a voter if
+168 he or she meets all other requirements herein set out in this
+Page 6
+
+he or she meets all other requirements herein set out in this
+HB541 INTRODUCED
+169 section.
+170 (d) Each member of the board is authorized to
+171 administer the oaths to be taken by applicants and witnesses.
+172 (e) Except as provided in Section 17-3-53, the
+173 applications of persons individuals applying for registration
+174 shall not become public records as public records are defined
+175 under the laws of the State of Alabama, nor shall the board
+176 disclose the information contained in such applications and
+177 written answers, except with the written consent of the person
+178 individual who filed the answer or pursuant to the order of a
+179 court of competent jurisdiction in a proper proceeding."
+180 "§17-13-1
+181 A primary election, including a separate and special
+182 presidential preference primary election, within the meaning
+183 of this chapter, is an election held by the qualified voters
+184 who are registered members of any political party, for the
+185 purpose of nominating a candidate or candidates for public or
+186 party office."
+187 "§17-13-7
+188 (a) All persons individuals who are qualified electors
+189 under the general laws of the State of Alabama and who are
+190 also registered members of a political party and entitled to
+191 participate in such primary election under the rules of the
+192 party shall be entitled to vote therein in a primary election
+193 or primary runoff election and shall receive the official
+194 primary ballot of that political party for which he or she is
+195 registered pursuant to Section 1., and no other; but every
+196 governing body of a party shall have the right, power, and
+Page 7
+
+governing body of a party shall have the right, power, and
+HB541 INTRODUCED
+197 authority to fix and prescribe the political or other
+198 qualifications of its own members and shall, in its own way,
+199 declare and determine who shall be entitled and qualified to
+200 vote in such primary election or to be candidates therein or
+201 to otherwise participate in such political parties and
+202 primaries. The qualifications of electors entitled to vote in
+203 such primary election shall not necessarily be the same as the
+204 qualifications for electors entitled to become candidates
+205 therein. Nothing herein contained shall be so construed as to
+206 prohibit any state executive committee of a party from fixing
+207 such qualifications as it may deem necessary for persons
+208 desiring to become candidates for nomination to offices at a
+209 primary election.
+210 (b) A political party may require all poll lists for
+211 primary elections to state at the top thereof that by
+212 participating in the primary election a voter shall indicate a
+213 preference for the party holding the primary, and will support
+214 the nominees of that party in the general election, and that
+215 he or she is qualified under the rules of such party to vote
+216 in its primary election.
+217 (b) No person individual shall be eligible to
+218 participate in the primary election or primary runoff election
+219 unless he or she signs the poll list and thereby certifies to
+220 the truth of the statement has registered his or her
+221 affiliation pursuant to Section 1 with a political party
+222 participating in that primary election or primary runoff
+223 election."
+224 "§17-13-47
+Page 8
+
+"§17-13-47
+HB541 INTRODUCED
+225 (a) The governing body of a political party may fix
+226 assessments upon those able to pay, or other qualifications as
+227 it may deem necessary, for persons individuals desiring to
+228 become candidates for nomination to offices at a primary
+229 election, but such assessments shall not exceed two percent of
+230 one year's salary of the office sought and, for an
+231 unremunerative or party county office or an unremunerative or
+232 party office to be filled by a vote of a subdivision greater
+233 than one county, it shall not exceed fifty dollars ($50) or
+234 one hundred fifty dollars ($150) for an unremunerative or
+235 party office to be filled by a vote of the entire state.
+236 (b) The governing body of each political party shall
+237 publish on its official website the qualifications set by the
+238 governing body for candidates seeking nomination to offices of
+239 that political party."
+240 Section 3. Section 17-13-7.1, Code of Alabama 1975,
+241 prohibiting crossover voting between a primary election and
+242 subsequent primary runoff election, is repealed.
+243 Section 4. This act shall become effective on January
+244 1, 2027.
+Page 9

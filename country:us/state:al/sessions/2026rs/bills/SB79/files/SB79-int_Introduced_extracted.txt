@@ -1,0 +1,237 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB79 INTRODUCED
+1 SB79
+2 FKRXAD5-1
+3 By Senators Roberts, Barfoot, Waggoner, Jones, Butler, Givhan,
+4 Shelnutt
+5 RFD: Finance and Taxation Education
+6 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+FKRXAD5-1 01/12/2026 KHF (F)KHF 2026-158
+1
+2
+3
+4 SYNOPSIS:
+5 Under current law, any contributions made by an
+6 employer to a Trump Account on behalf of an employee,
+7 or dependent of an employee pursuant to 26 U.S.C. §
+8 530A, shall be included in gross income of the
+9 employee.
+10 Under expiring law, an individual taxpayer is
+11 allowed an exclusion from gross income for amounts paid
+12 by their employer on any qualified education loan
+13 pursuant to 26 U.S.C. § 127(c)(1)(B).
+14 This bill would exclude contributions by the
+15 employer to Trump Accounts from the gross income of an
+16 individual taxpayer and make the exclusion for amounts
+17 paid by an employer on qualified education loans
+18 permanent for individual taxpayers.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to income taxes; to amend Section 40-18-14,
+26 Code of Alabama 1975, to exclude from gross income of an
+27 individual taxpayer amounts paid by an employer as a
+28 contribution to a Trump Account; and to make the exclusion for
+Page 1
+
+contribution to a Trump Account; and to make the exclusion for
+SB79 INTRODUCED
+29 amounts paid by an employer on any qualified education loan
+30 permanent for individual taxpayers.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Section 40-18-14, Code of Alabama 1975, is
+33 hereby amended as follows:
+34 "§40-18-14
+35 (a) The term "gross income" as used herein:
+36 (1) Includes gains, profits and income derived from
+37 salaries, wages, or compensation for personal services of
+38 whatever kind, or in whatever form paid, including the
+39 salaries, income, fees, and other compensation of state,
+40 county, and municipal officers and employees, or from
+41 professions, vocations, trades, business, commerce or sales,
+42 or dealings in property whether real or personal, growing out
+43 of ownership or use of or interest in such property; also from
+44 interest, royalties, rents, dividends, securities, or
+45 transactions of any business carried on for gain or profit and
+46 the income derived from any source whatever, including any
+47 income not exempted under this chapter and against which
+48 income there is no provision for a tax. The term "gross
+49 income" as used herein also includes alimony and separate
+50 maintenance payments to the extent they are includable in
+51 gross income for federal income tax purposes under 26 U.S.C. §
+52 71, relating to alimony and separate maintenance payments. The
+53 term "gross income" as used herein also includes any amount
+54 included in gross income under 26 U.S.C. § 83 at the time it
+55 is so included under 26 U.S.C. § 83.
+56 (2) For purposes of this chapter, the reductions in tax
+Page 2
+
+(2) For purposes of this chapter, the reductions in tax
+SB79 INTRODUCED
+57 attributes required by 26 U.S.C. § 108 shall be applied only
+58 to the net operating losses determined under this chapter and
+59 the basis of depreciable property. The basis reductions of
+60 depreciable property shall not exceed the basis reductions for
+61 federal income tax purposes. All other tax attribute
+62 reductions required by 26 U.S.C. § 108 shall not be
+63 recognized.
+64 (3) Gross income does not include the following items
+65 which shall be exempt from income tax under this chapter:
+66 a. Amounts received under life insurance policies and
+67 contracts paid by reason of the death of the insured in
+68 accordance with 26 U.S.C. § 101;
+69 b. Amounts received, other than amounts paid by reason
+70 of the death of the insured, under life insurance, endowment
+71 or annuity contracts, determined in accordance with 26 U.S.C.
+72 § 72;
+73 c. The value of property acquired by gift, bequest,
+74 devise, or descent, but the income from such property shall be
+75 included in the gross income, in accordance with 26 U.S.C. §
+76 102;
+77 d. Interest upon obligations of the United States or
+78 its possessions; or securities issued under provisions of the
+79 Federal Farm Loan Act of July 18, 1916;
+80 e. Any amounts received by an individual which are
+81 excludable from gross income under 26 U.S.C. § 104, relating
+82 to compensation for injuries or sickness, or 26 U.S.C. § 105,
+83 relating to amounts received under accident or health plans;
+84 f. Interest on obligations of the State of Alabama and
+Page 3
+
+f. Interest on obligations of the State of Alabama and
+SB79 INTRODUCED
+85 any county, municipality, or other political subdivision
+86 thereof;
+87 g. The rental value of a parsonage provided to a
+88 minister of the gospel to the extent excludable under 26
+89 U.S.C. § 107;
+90 h. Income from discharge of indebtedness to the extent
+91 allowed by 26 U.S.C. § 108;
+92 i. For each individual resident taxpayer, or each
+93 husband and wife filing a joint income tax return, as the case
+94 may be, any gain realized from the sale of a personal
+95 residence of the taxpayer shall be excluded to the extent
+96 excludable for federal income tax purposes under 26 U.S.C. §
+97 121;
+98 j. Contributions made by an employer on behalf of an
+99 employee to a trust which is part of a qualified cash or
+100 deferred arrangement, as defined in 26 U.S.C. § 401(k)(2) or 5
+101 U.S.C. § 8437, under which the employee has an election
+102 whether the contribution will be made to the trust or received
+103 by the employee in cash and contributions made by an employer
+104 for an employee for an annuity contract, which contributions
+105 would be excludable from the gross income, for federal income
+106 tax purposes, of the employee in accordance with the
+107 provisions of 26 U.S.C. § 403(b). The limitations imposed by
+108 26 U.S.C. § 402(g) shall apply for purposes of this paragraph;
+109 k. Amounts that an employee is allowed to exclude from
+110 gross income for federal income tax purposes pursuant to 26
+111 U.S.C. § 125, relating to cafeteria plans, and 26 U.S.C. §
+112 132, relating to certain fringe benefits; and
+Page 4
+
+132, relating to certain fringe benefits; and
+SB79 INTRODUCED
+113 l. Amounts paid or incurred by an employer on behalf of
+114 an employee if the amounts may be excluded from gross income
+115 for federal income tax purposes by an employee pursuant to 26
+116 U.S.C. § 129, relating to dependent care expenses.
+117 m.1.(i) Amounts received by a full-time hourly waged
+118 paid employee as compensation for work performed in excess of
+119 40 hours in a week.
+120 (ii) The exemption provided pursuant to this
+121 subparagraph shall be available for tax years that begin after
+122 December 31, 2023, and end on October 1, 2024.
+123 2.(i) Amounts paid as overtime compensation in
+124 accordance with the U.S. Fair Labor Standards Act.
+125 (ii) The exemption provided pursuant to this
+126 subparagraph shall be available beginning on October 1, 2024,
+127 through June 30, 2025.
+128 3. Notwithstanding subparagraph 2., for employers
+129 governed by the National Railway Labor Act, the exemption
+130 provided in this paragraph applies to hourly component
+131 overtime compensation as defined in applicable collective
+132 bargaining agreements.
+133 4. Each employer shall submit to the Department of
+134 Revenue, on forms prescribed by the department, all of the
+135 following:
+136 (i) For the tax year beginning January 1, 2023, the
+137 total amount received by full-time hourly wage-paid employees
+138 as compensation for work performed in excess of 40 hours in a
+139 week and the total number of employees for which it was paid.
+140 The data shall be due no later than January 31, 2024.
+Page 5
+
+The data shall be due no later than January 31, 2024.
+SB79 INTRODUCED
+141 (ii) For the tax year beginning on or after January 1,
+142 2024, through September 30, 2024, the total amount received by
+143 full-time hourly wage-paid employees as compensation for work
+144 performed in excess of 40 hours in a week. Beginning on
+145 October 1, 2024, and each year thereafter, the total amount
+146 paid pursuant to this paragraph and the total number of
+147 employees for which it was paid. The data shall be provided
+148 monthly or quarterly and shall be due no later than the due
+149 date for the corresponding monthly or quarterly withholding
+150 tax returns.
+151 (iii) Additional information as may be required by the
+152 department.
+153 5. The department shall report to the Legislative
+154 Services Agency - Fiscal Division and the Department of
+155 Finance the data collected and compiled pursuant to
+156 subparagraph 4. no later than 30 days after the due date of
+157 the data.
+158 n. Any net capital gain derived from the exchange of
+159 precious metal bullion. For purposes of this paragraph,
+160 "precious metal bullion" means coins, bars, or rounds
+161 containing primarily refined gold, silver, platinum, or
+162 palladium that is marked and valued primarily by its weight,
+163 purity, and content.
+164 o. For tax years beginning on or after January 1, 2026,
+165 the amounts of principal or interest on any qualified
+166 education loan which are paid by an employer, whether paid to
+167 the employee or to their lender, and which are excluded from
+168 an employee’s federal gross income pursuant to 26 U.S.C. §
+Page 6
+
+an employee’s federal gross income pursuant to 26 U.S.C. §
+SB79 INTRODUCED
+169 127(c)(1)(B) as amended by § 70412 of the One, Big, Beautiful
+170 Bill Act, Pub. L. 119-21.
+171 p. For tax years beginning on or after January 1, 2026,
+172 amounts contributed by an employer to the Trump Account of an
+173 employee or their dependent which are excluded from the
+174 employee's federal gross income pursuant to § 70204 of the
+175 One, Big, Beautiful Bill Act, Pub. L. 119-21.
+176 (4) The term "gross income," in the case of a resident
+177 individual, includes income from sources within and outside
+178 Alabama, including without limitation, the resident's
+179 proportionate share of any income arising from a Subchapter K
+180 entity, Alabama S corporation, or estate or trust, regardless
+181 of the geographic source of the income. The term "gross
+182 income," in the case of a nonresident individual, includes
+183 only income from property owned or business transacted in
+184 Alabama. For purposes of this article, "proportionate share"
+185 shall be defined by reference to (i) the status of the
+186 individual owner as a partner or member of a Subchapter K
+187 entity, shareholder of an Alabama S corporation, or
+188 beneficiary of an estate or trust, and (ii) the allocable
+189 interest in that entity owned by the individual.
+190 (b) The Department of Revenue may adopt rules to
+191 provide for the administration of this section."
+192 Section 2. This act shall become effective on May 1,
+193 2026.
+Page 7

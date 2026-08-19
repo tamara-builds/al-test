@@ -1,0 +1,281 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB171 INTRODUCED
+1 HB171
+2 XD36QZE-1
+3 By Representative Robbins
+4 RFD: Children and Senior Advocacy
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+XD36QZE-1 01/09/2026 JWB (L)lg 2025-2730
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a social media platform may
+6 provide recommendations or sections of additional feeds
+7 to users on its websites, services, or applications,
+8 regardless of whether the users of the platform are
+9 minors.
+10 This bill would introduce limits on the ability
+11 of social media platforms to provide these media feeds,
+12 defined as "addictive feeds," without age verification
+13 or parental consent.
+14 This bill would prohibit social media platform
+15 operators from notifying minors from 12:00 a.m. to 6:00
+16 a.m.
+17 This bill would require social media platform
+18 operators to disclose certain information regarding the
+19 algorithms that influence which media is prioritized to
+20 users.
+21 This bill would also authorize the Attorney
+22 General to bring suits to enforce this act provided
+23 that operators of social media platforms may cure any
+24 violation.
+25
+26
+27 A BILL
+28 TO BE ENTITLED
+Page 1
+
+TO BE ENTITLED
+HB171 INTRODUCED
+29 AN ACT
+30
+31 Relating to social media; to provide age-verification
+32 requirements for social media platforms that host addictive
+33 feeds; to prohibit social media platform operators from
+34 notifying minors during certain hours; to require social media
+35 platform operators to disclose certain information regarding
+36 media-prioritization algorithms used on their platforms; and
+37 to authorize the Attorney General to enforce this act.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. For the purposes of this act, the following
+40 terms have the following meanings:
+41 (1) ACCESSIBLE USER INTERFACE. An interface that
+42 requires minimal user interactions, such as clicks, taps, or
+43 swipes, for a user to input data, make a choice, or take an
+44 action while using an addictive social media platform.
+45 (2) ADDICTIVE FEED. A website, online service, online
+46 application, or mobile application, or a portion thereof, in
+47 which multiple pieces of media generated or shared by users of
+48 a website, online service, online application, or mobile
+49 application, either concurrently or sequentially, are
+50 recommended, selected, or prioritized for display to a user
+51 based in whole or in part on information associated with the
+52 user or the user's device, unless any of the following
+53 conditions are met:
+54 a. The recommendation, selection, or prioritization is
+55 based on information that is not associated with the user or
+56 user's device and does not concern the user's previous
+Page 2
+
+user's device and does not concern the user's previous
+HB171 INTRODUCED
+57 interactions with media generated or shared by other users.
+58 b. The recommendation, prioritization, or selection of
+59 media is based on user-selected privacy, user-enabled
+60 accessibility settings, or technical information concerning
+61 the user's device.
+62 c. The user expressly and unambiguously requested that
+63 specific media, media by a specified author, creator, or
+64 poster of media to which the user has subscribed, or media
+65 shared by users to a page or group to which the user has
+66 subscribed. This condition is not met if the media is
+67 recommended, selected, or prioritized for display based in
+68 whole or in part on other information associated with the user
+69 or the user's device.
+70 d. The user expressly and unambiguously requested that
+71 specific media, media by a specified author, creator, or
+72 poster of media the user has subscribed to, or media shared by
+73 users to a page or group the user has subscribed to, be
+74 blocked or deprioritized for display. This condition is not
+75 met if the media is not blocked or deprioritized based on
+76 other information associated with the user or the user's
+77 device.
+78 e. The media is part of direct and private
+79 communications.
+80 f. The media recommended, selected, or prioritized is
+81 in response to a specific search inquiry by the user.
+82 g. The media recommended, selected, or prioritized for
+83 display is exclusively next in a preexisting sequence from the
+84 same author, creator, poster, or source.
+Page 3
+
+same author, creator, poster, or source.
+HB171 INTRODUCED
+85 h. The recommendation, selection, or prioritization is
+86 necessary to comply with this act and any rules adopted
+87 pursuant to this act.
+88 (3) ADDICTIVE SOCIAL MEDIA PLATFORM. A website, online
+89 service, online application, or mobile application that offers
+90 or provides users an addictive feed as a significant part of
+91 the services provided by the website, online service, online
+92 application, or mobile application.
+93 (4) COVERED MINOR. A user of a website, online service,
+94 online application, or mobile application in Alabama when the
+95 covered operator has actual knowledge the user is a minor.
+96 (5) COVERED OPERATOR. Any person who operates an
+97 addictive social media platform. The term does not include
+98 Internet service providers, data center operators, or similar
+99 providers of services that are necessary for users to access
+100 an addictive social media platform but that do not offer a
+101 platform or addictive feed through the service.
+102 (6) COVERED USER. A user of a website, online service,
+103 online application, or mobile application in Alabama who is
+104 not acting as an operator, or agent or affiliate of the
+105 operator, of the website, online service, online application,
+106 or mobile application, or any portion thereof.
+107 (7) MEDIA. A piece of text, an image, or a video.
+108 (8) MINOR. An individual under 18 years of age.
+109 (9) PARENT. The parent or legal guardian of a minor.
+110 (10) REASONABLE AGE-VERIFICATION METHOD. Any
+111 commercially available software, application, program, or
+112 methodology that, when enabled, provides reasonable assurances
+Page 4
+
+methodology that, when enabled, provides reasonable assurances
+HB171 INTRODUCED
+113 that any individual accessing certain published material is 18
+114 years of age or older.
+115 (11) WEIGHT. An individual numeric setting that
+116 controls the output of an addictive feed's algorithm at a high
+117 level across an addictive social media platform's user base,
+118 such as the relative contributions of different factors to how
+119 media is prioritized.
+120 Section 2. (a) It shall be unlawful for a covered
+121 operator to provide an addictive feed to a covered user
+122 unless:
+123 (1) The operator employs a reasonable age-verification
+124 method on the addictive social media platform to provide
+125 reasonable assurance that individuals under 18 years of age
+126 cannot access the addictive feed; or
+127 (2) The covered operator has obtained verifiable
+128 parental consent to provide an addictive feed to a covered
+129 minor.
+130 (b)(1) Information collected for the purpose of
+131 obtaining age-verification or parental consent shall not be
+132 used for any other purpose and shall be deleted immediately
+133 after an attempt to obtain age verification, except where
+134 necessary for compliance with any applicable state or federal
+135 law.
+136 (2) If an operator, intentionally or unintentionally,
+137 shares any consumer information collected for the purpose of
+138 obtaining age-verification or parental consent in violation of
+139 subdivision (1), the operator shall be liable to the party
+140 injured in an action at law, suit in equity, or other proper
+Page 5
+
+injured in an action at law, suit in equity, or other proper
+HB171 INTRODUCED
+141 proceeding for redress.
+142 (c) Nothing in this section shall be construed as
+143 preventing any action taken in good faith to restrict access
+144 to or availability of media which the covered operator
+145 considers to be obscene or otherwise objectionable.
+146 Section 3. Each covered operator shall provide an
+147 accessible user interface on his or her addictive social media
+148 platform which gives covered users the option to expressly and
+149 unambiguously communicate their preferences about the types of
+150 items to be recommended and to be blocked in the website's,
+151 service's, or application's output. Covered operators shall
+152 take all reasonable steps to ensure that the media selected
+153 for display is consistent with those preferences.
+154 Section 4. It shall be unlawful for the covered
+155 operator of an addictive social media platform to send
+156 notifications to a covered minor between the hours of 12:00
+157 a.m. and 6:00 a.m.
+158 Section 5. Nothing in this act shall be construed as
+159 requiring the operator of an addictive social media platform
+160 to give a parent any additional or special access to or
+161 control over the data or accounts of his or her minor child.
+162 Section 6. Other than as necessary for compliance with
+163 this act, a covered operator shall not withhold, degrade,
+164 lower the quality, or increase the price of any product,
+165 service, or feature to a covered user due to the covered
+166 operator being prohibited from providing an addictive feed to
+167 a covered minor under Section 2(a) or due to the user's
+168 exercise of any rights contained in Section 3.
+Page 6
+
+exercise of any rights contained in Section 3.
+HB171 INTRODUCED
+169 Section 7. (a) A covered operator that administers an
+170 addictive feed shall prominently and conspicuously provide on
+171 the operator's website, service, or application:
+172 (1) A description of each algorithmic system that is in
+173 use by the covered operator;
+174 (2) A description of each source of input to each
+175 algorithmic system used in any deployed addictive feed and the
+176 source of the data of each input; and
+177 (3) A description of the weights used in each addictive
+178 feed. The covered operator shall categorize each weight into
+179 four quartile groups according to each weight's relative
+180 importance in contributing to the system's output.
+181 (b) A covered operator shall disclose on the addictive
+182 social media platform, on an annual basis, the high-level
+183 objectives, key results, and performance metrics the covered
+184 operator uses to evaluate product teams responsible for
+185 addictive feed design. This disclosure must be accessible by
+186 the general public.
+187 Section 8. (a) This act shall apply to conduct that
+188 occurs in whole or in part in the State of Alabama. For
+189 purposes of this act, conduct takes place wholly outside of
+190 Alabama if the addictive social media platform is accessed by
+191 a user who is physically located outside of Alabama.
+192 (b) Nothing in this act shall be construed to impose
+193 liability for commercial activities or actions by operators
+194 that is inconsistent with the treatment of such activities or
+195 actions under 15 U.S.C. § 6502.
+196 Section 9. (a) No earlier than April 1, 2027, whenever
+Page 7
+
+Section 9. (a) No earlier than April 1, 2027, whenever
+HB171 INTRODUCED
+197 it appears to the Attorney General, either upon complaint or
+198 otherwise, that any person, within or outside the state, has
+199 engaged in any of the acts or practices in violation of this
+200 act, the Attorney General shall:
+201 (1) Send a notice to the operator that informs the
+202 operator there has been a violation under this act, provides
+203 factual information regarding the specific violation, and
+204 informs the operator that the operator has 30 days to remedy
+205 the violation before any action will be taken by the Attorney
+206 General. If the operator remedies the violation within 30 days
+207 following receipt of the notice, the Attorney General may not
+208 bring any action or proceeding under subdivision (2); and
+209 (2) If the operator fails to remedy the violation
+210 within 30 days following receipt of a notice, bring an action
+211 or special proceeding in the name and on behalf of the State
+212 of Alabama to do any of the following:
+213 a. Enjoin any violation of this act.
+214 b. Obtain restitution of any monies or property
+215 obtained, directly or indirectly, by a violation of this act.
+216 c. Seek forfeiture of any profits or gains obtained,
+217 directly or indirectly, including, but not limited to, the
+218 destruction of unlawfully obtained data.
+219 d. Obtain damages caused, directly or indirectly, by a
+220 violation of this act.
+221 e. Obtain civil penalties of up to five thousand
+222 dollars ($5,000) per violation.
+223 f. Obtain any other and further relief as the court may
+224 deem proper, including preliminary relief.
+Page 8
+
+deem proper, including preliminary relief.
+HB171 INTRODUCED
+225 (b) The Attorney General shall maintain a website to
+226 receive complaints, information, or referrals from members of
+227 the public concerning a covered operator's or social media
+228 platform's alleged compliance or noncompliance with this act.
+229 Section 10. This act shall become effective on October
+230 1, 2026.
+Page 9

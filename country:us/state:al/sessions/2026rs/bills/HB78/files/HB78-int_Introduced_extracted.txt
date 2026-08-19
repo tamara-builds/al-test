@@ -1,0 +1,311 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB78 INTRODUCED
+1 HB78
+2 JPUQCNY-1
+3 By Representatives Ross, DuBose, Lamb, Mooney, Rehm, Kirkland,
+4 Shaver, Fidler, Givens, Reynolds, Faulkner, Kiel, Sells,
+5 Stadthagen, Baker, Collins, Hulsey, Holk-Jones, Colvin
+6 RFD: Education Policy
+7 First Read: 13-Jan-26
+8 PFD: 02-Dec-25
+Page 0
+
+PFD: 02-Dec-25
+JPUQCNY-1 11/13/2025 GP (L)lg 2025-2510
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require the Department of Early
+6 Childhood Education to develop guidelines for the
+7 appropriate use of screen time in child-care
+8 facilities, prekindergarten, and kindergarten.
+9 This bill would require the guidelines to define
+10 what constitutes "high-quality programming" and set
+11 limits on the amount of screen time that may be used in
+12 early childhood education settings, depending on the
+13 age of the child.
+14 This bill would require the Department of Early
+15 Childhood Education to develop guidelines for healthy
+16 screen time practices for children and make the
+17 guidelines publicly available at no cost to parents and
+18 guardians.
+19 This bill would require the Department of Early
+20 Childhood Education, in collaboration with the
+21 Department of Human Resources (DHR) and the State Board
+22 of Education, to create a training program on the
+23 appropriate use of screen time for teachers and other
+24 staff members who supervise children.
+25 This bill would require each licensed child-care
+26 facility to implement the guidelines and training
+27 requirements as a condition for licensure by DHR.
+28 This bill would require certain prekindergarten
+Page 1
+
+This bill would require certain prekindergarten
+HB78 INTRODUCED
+29 classrooms and each public kindergarten classroom to
+30 implement the guidelines and training requirements.
+31 This bill would also require DHR to oversee the
+32 implementation of this act for licensed child-care
+33 facilities, the Secretary of the Department of Early
+34 Childhood Education for prekindergarten classrooms, and
+35 local boards of education for kindergarten classrooms.
+36
+37
+38 A BILL
+39 TO BE ENTITLED
+40 AN ACT
+41
+42 Relating to early childhood education; to add Article
+43 4, commencing with Section 26-24-40, to Chapter 24, Title 26,
+44 and Sections 16-40-15 and 38-7-7.1 to the Code of Alabama
+45 1975; to require the Department of Early Childhood Education
+46 to develop guidelines and training for appropriate screen time
+47 use in early childhood education settings; to provide limits
+48 on the use of screen time in licensed child-care facilities,
+49 certain prekindergarten classrooms, and public kindergarten
+50 classrooms; to require certain teachers and staff members to
+51 annually undergo training; to require the Department of Early
+52 Childhood Education, the Department of Human Resources, and
+53 the State Board of Education to implement the guidelines and
+54 training requirements for the early childhood education
+55 programs under their jurisdiction; to condition licensure of
+56 child-care facilities on compliance with screen time
+Page 2
+
+child-care facilities on compliance with screen time
+HB78 INTRODUCED
+57 guidelines; and to require the Department of Early Childhood
+58 Education to issue free guidelines to parents and guardians
+59 about healthy screen use for children.
+60 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+61 Section 1. (a) This act shall be known and may be cited
+62 as The Healthy Early Development and Screen Time Act.
+63 (b) The Legislature finds and declares the following:
+64 (1) Birth through five years of age is a child's most
+65 critical period of rapid brain development, language
+66 acquisition, and social-emotional growth.
+67 (2) Published peer-reviewed research demonstrates that
+68 excessive screen exposure in children under three years of age
+69 is associated with delayed communication skills, impaired
+70 problem-solving, and reduced social interaction.
+71 (3) National and international pediatric authorities,
+72 including, but not limited to, the American Academy of
+73 Pediatrics, recommend little to no screen time for children
+74 under two years of age and no more than one hour per day of
+75 high-quality, adult-supervised screen use for children who are
+76 two through five years of age.
+77 (4) High-quality educational media used interactively
+78 with adult participation may provide some benefit, but should
+79 not displace physical activity, caregiver interaction, or
+80 sleep.
+81 (5) It is the intent of the state to provide parents,
+82 child-care facilities, early childhood educators, and health
+83 care professionals with clear, research-based screen time
+84 guidelines to safeguard children's healthy development.
+Page 3
+
+guidelines to safeguard children's healthy development.
+HB78 INTRODUCED
+85 Section 2. A new Article 4, commencing with Section
+86 26-24-40, is added to Chapter 24 of Title 26, Code of Alabama
+87 1975, to read as follows:
+88 Article 4
+89 §26-24-40
+90 For the purposes of this article, the following terms
+91 have the following meanings:
+92 (1) ADULT-SUPERVISED USE. Media engagement in which a
+93 parent, guardian, or caregiver is actively present and guiding
+94 and discussing the media content.
+95 (2) DEPARTMENT. The Department of Early Childhood
+96 Education.
+97 (3) EARLY CHILDHOOD EDUCATION PROGRAM. a. All of the
+98 following:
+99 1. A licensed child-care facility, as defined in
+100 Section 38-7-2 which serves children five years of age and
+101 under.
+102 2. Prekindergarten operating under Article 2.
+103 3. Public kindergarten.
+104 b. In addition to regular school day programs, the term
+105 includes any after-school, extended day, or summer program
+106 provided by an entity described in paragraph a.
+107 (4) HIGH-QUALITY PROGRAMMING. Media content
+108 specifically designed for early childhood education, as
+109 determined by the department in Section 26-24-41.
+110 (5) SCREEN TIME. Time spent using digital visual media
+111 devices, including, but not limited to, televisions,
+112 computers, smart phones, and other visual media devices.
+Page 4
+
+computers, smart phones, and other visual media devices.
+HB78 INTRODUCED
+113 §26-24-41
+114 (a)(1) The Research and Evaluation Team within the
+115 department shall develop guidelines for determining what
+116 constitutes "high-quality programming." The guidelines shall
+117 be based on current evidence-based research and practices
+118 related to screen time use. The department may consult with
+119 the Department of Human Resources and the State Board of
+120 Education in developing the guidelines.
+121 (2) In setting the guidelines, the department shall
+122 consider, but not be limited to, the following factors:
+123 a. The target audience of the program, and whether it
+124 is age-appropriate in an early childhood education setting.
+125 b. The pacing of the program, with a preference toward
+126 slow-paced programming.
+127 c. Whether the programming is free of violence.
+128 d. Whether the programming is free of advertisement
+129 that the department determines is harmful to children.
+130 (b) Each early childhood education program shall
+131 implement screen time standards as follows:
+132 (1) For children under two years of age, screen time is
+133 prohibited. For purposes of this subdivision, the term "screen
+134 time" does not include live, interactive video communication,
+135 such as a video call with a child's family.
+136 (2) For children two through four years of age:
+137 a. Screen time may not exceed more than 30 minutes per
+138 day, nor 90 minutes per week, with preference given to
+139 interactive group viewing that promotes discussion and social
+140 interaction; and
+Page 5
+
+interaction; and
+HB78 INTRODUCED
+141 b. Individual screen time is prohibited.
+142 (3) For all childhood education programs:
+143 a. All screen time must meet the department's standard
+144 for high-quality programming and be actively supervised by
+145 staff; and
+146 b. Background television and passive screen time is
+147 prohibited.
+148 §26-24-42
+149 (a) The Research and Evaluation Team within the
+150 department shall develop research-based guidelines on healthy
+151 screen time practices for children from birth through five
+152 years of age. The guidelines shall be based on current
+153 evidence-based research and practices related to screen time
+154 use. The department may consult with the Department of Human
+155 Resources and the State Board of Education in developing the
+156 guidelines.
+157 (b) The guidelines shall emphasize:
+158 (1) The importance of play, reading, physical activity,
+159 and caregiver-child interaction.
+160 (2) The risks of excessive screen use on children,
+161 including developmental delays and behavioral impacts.
+162 (3) Strategies for setting screen-free routines in the
+163 home.
+164 (c) The department shall make the guidelines publicly
+165 available at no cost to parents and guardians in the state.
+166 §26-24-43
+167 (a) The department, in collaboration with the
+168 Department of Human Resources and the State Board of
+Page 6
+
+Department of Human Resources and the State Board of
+HB78 INTRODUCED
+169 Education, shall develop training relating to the appropriate
+170 use of screen time in early childhood education programs, what
+171 constitutes high-quality programming, and alternatives to
+172 screen time. The training may be tailored to each specific
+173 type of early childhood education program.
+174 (b) Each early childhood education program teacher or
+175 other staff member who closely supervises children shall
+176 annually complete the training.
+177 (c) The department, the Department of Human Resources,
+178 and the State Board of Education may adopt rules to implement
+179 and administer the training required by this section.
+180 §26-24-44
+181 (a) Compliance with this article shall be monitored and
+182 enforced by the following entities:
+183 (1) For child-care facilities licensed by the
+184 Department of Human Resources (DHR), by DHR pursuant to
+185 Section 38-7-7.1.
+186 (2) For prekindergarten programs operating under
+187 Article 2, by the department pursuant to subsection (b).
+188 (3) For public kindergarten, by the local school
+189 principal pursuant to Section 16-40-15.
+190 (b)(1) In addition to the standards established
+191 pursuant to Article 2, each prekindergarten operating under
+192 Article 2 shall implement and abide by a screen time policy
+193 that meets the requirements of this article.
+194 (2) The secretary of the department shall monitor
+195 prekindergarten compliance with this article as he or she
+196 deems necessary, provided that the secretary must:
+Page 7
+
+deems necessary, provided that the secretary must:
+HB78 INTRODUCED
+197 a. Include a screen time policy and usage requirements
+198 in the Office of School Readiness Program Guidelines;
+199 b. Require prekindergarten teachers to annually
+200 complete the training required by Section 26-24-43; and
+201 c. In the event that a prekindergarten is not in
+202 compliance with this section, prioritize technical assistance
+203 and additional training with the relevant staff members. If
+204 noncompliance continues, the department may authorize
+205 corrective action plans.
+206 Section 3. Section 16-40-15 is added to the Code of
+207 Alabama 1975, to read as follows:
+208 §16-40-15
+209 (a) Each local board of education shall adopt a screen
+210 time policy that provides guidance on the appropriate use of
+211 screen time in kindergarten classrooms. The policy shall:
+212 (1) Meet the requirements of Article 4, Chapter 24 of
+213 Title 26, with respect to kindergarten classrooms;
+214 (2) Notwithstanding Section 26-24-41, allow
+215 kindergarten students to use screen time to complete required
+216 kindergarten assessments;
+217 (3) Require kindergarten teachers to annually complete
+218 the screen time training created pursuant to Section 26-24-42;
+219 and
+220 (4) In the event that a kindergarten classroom is not
+221 in compliance with this section, prioritize technical
+222 assistance and additional training with the relevant teacher.
+223 If noncompliance continues, the local board of education may
+224 authorize corrective action plans.
+Page 8
+
+authorize corrective action plans.
+HB78 INTRODUCED
+225 (b) The local school principal shall oversee compliance
+226 with this section for the kindergarten classes under his or
+227 her purview and, if necessary, implement any technical
+228 assistance or corrective action.
+229 Section 4. Section 38-7-7.1 is added to the Code of
+230 Alabama 1975, to read as follows:
+231 §38-7-7.1
+232 (a) In addition to the standards for licensing
+233 established pursuant to Section 38-7-7, each child-care
+234 facility shall implement and abide by a screen time policy
+235 that meets the requirements of Article 4, Chapter 24 of Title
+236 26 as a condition for licensing under this chapter.
+237 (b) The department shall monitor compliance with this
+238 section as it deems necessary, provided that the department
+239 must:
+240 (1) Include a child-care facility's compliance with
+241 screen time policy and usage requirements in the Alabama
+242 Quality STARS Quality Rating and Improvement System;
+243 (2) Review compliance during any inspection under
+244 Section 38-7-11;
+245 (3) Require staff who supervise children to undergo the
+246 training created pursuant to Section 26-24-43; and
+247 (4) In the event that a child-care facility is not in
+248 compliance with this section, prioritize technical assistance
+249 and additional training with the relevant staff members. If
+250 noncompliance continues, the department may authorize
+251 corrective action plans.
+252 Section 5. This act shall become effective on January
+Page 9
+
+Section 5. This act shall become effective on January
+HB78 INTRODUCED
+253 1, 2027.
+Page 10

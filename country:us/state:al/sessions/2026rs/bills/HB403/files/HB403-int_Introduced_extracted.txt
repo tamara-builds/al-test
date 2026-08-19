@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB403 INTRODUCED
+1 HB403
+2 4UKMHIR-1
+3 By Representatives Rafferty, Hulsey, Tillman
+4 RFD: Transportation, Utilities and Infrastructure
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+4UKMHIR-1 02/05/2026 JWB (L)bm 2026-729
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Public Service
+6 Commission reviews retail electric service contracts
+7 between utilities and large load customers. The
+8 commission approves these contracts if the commission
+9 finds that the contracts are in the public interest.
+10 This bill would provide that when the commission
+11 is making the determination that a contract between a
+12 utility and a large load data center is in the public
+13 interest, the commission must take into account certain
+14 considerations, including that the contract will
+15 provide for the recovery from the data center of
+16 incremental costs that are attributable to the data
+17 center and that the contract will promote positive
+18 benefits for other residential, commercial, and
+19 industrial utility customers.
+20
+21
+22 A BILL
+23 TO BE ENTITLED
+24 AN ACT
+25
+26 Relating to utilities; to add Section 37-4-22.1 to the
+27 Code of Alabama 1975; to provide specific considerations for
+28 the Public Service Commission's review and approval of retail
+Page 1
+
+the Public Service Commission's review and approval of retail
+HB403 INTRODUCED
+29 electric service contracts between a utility and a large load
+30 data center, including determining that such contracts provide
+31 for the recovery of incremental costs and promote other
+32 positive benefits.
+33 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+34 Section 1. Section 37-4-22.1 is added to the Code of
+35 Alabama 1975, to read as follows:
+36 §37-4-22.1
+37 (a) For purposes of this section, the following terms
+38 have the following meanings:
+39 (1) INCREMENTAL COSTS OF RETAIL ELECTRIC SERVICE. The
+40 additional costs associated with the generation, transmission,
+41 distribution, sale, or furnishing of electricity to a large
+42 load data center customer, including fuel costs and taxes,
+43 which the utility would not incur but for the large load data
+44 center customer contract.
+45 (2) LARGE LOAD DATA CENTER. A customer of the utility
+46 which has executed a contract for retail electric service with
+47 the utility which requires the utility to serve an electric
+48 load of at least 150 megawatts and meets the definition of a
+49 data processing center as defined in Section 40-9B-3.
+50 (3) TERMS AND CONDITIONS. The provisions in a contract
+51 for service between a customer and utility which address
+52 matters such as minimum term for contract length, upfront
+53 payments, security and collateral, and minimum payment.
+54 (b) Consistent with the commission's authority under
+55 Title 37 generally and Section 37-4-22 specifically, a
+56 contract for retail electric service between a utility and a
+Page 2
+
+contract for retail electric service between a utility and a
+HB403 INTRODUCED
+57 person that qualifies as a large load data center is
+58 consistent with the public interest where the commission
+59 determines that the contract pricing and contract terms and
+60 conditions over the contract term will:
+61 (1) Provide for the recovery of the incremental costs
+62 of retail electric service to the large load data center
+63 customer's premises from the large load data center customer;
+64 and
+65 (2) Promote positive benefits to all other retail
+66 electric customers of the utility.
+67 (c) The determination of whether a contract between a
+68 large load data center and a utility promotes positive
+69 benefits under subdivision (b)(2) includes considerations such
+70 as:
+71 (1) Whether the pricing and terms and conditions of the
+72 contract could lower costs for other residential, commercial,
+73 and industrial customers of the utility; and
+74 (2) Whether the large load data center customer is
+75 expected to increase the efficiency of the utility's power
+76 system; and
+77 Section 2. This act shall become effective on October
+78 1, 2026.
+Page 3

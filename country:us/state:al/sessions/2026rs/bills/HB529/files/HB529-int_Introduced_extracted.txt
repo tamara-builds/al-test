@@ -1,0 +1,533 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB529 INTRODUCED
+1 HB529
+2 7BCG82E-1
+3 By Representative Drummond (N & P)
+4 RFD: Mobile County Legislation
+5 First Read: 26-Feb-26
+Page 0
+
+First Read: 26-Feb-26
+7BCG82E-1 02/24/2026 VSM (L)ma 2026-972
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, Class 2 municipalities may
+6 put a lien on real properties for unpaid municipal code
+7 violations and foreclose on those properties with
+8 unpaid municipal code liens.
+9 This bill would revise the foreclosure process
+10 for Class 2 municipalities by removing the requirement
+11 to notify the State of Alabama and all other taxing
+12 officials in the municipality's jurisdiction of the
+13 municipality's intent to complete a municipal lien
+14 foreclosure sale. This bill would authorize the
+15 municipality to create and adopt its own petition for
+16 judicial in rem foreclosure by local ordinance and
+17 would remove the statutory petition and deed language.
+18 This bill would shorten the time periods for
+19 proceeding to a foreclosure sale, executing foreclosure
+20 deeds, and filing foreclosure reports.
+21 This bill would also make nonsubstantive,
+22 technical revisions to update the existing code
+23 language to current style.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+HB529 INTRODUCED
+29
+30 Relating to Class 2 municipalities; to amend Sections
+31 11-40-65, 11-40-67, and 11-40-68, Code of Alabama 1975; to
+32 remove the requirement to notify state and local taxing
+33 authorities, other than the local ad valorem tax collector, of
+34 the municipalities' intent to foreclose on a municipal lien;
+35 to remove the requirement to use statutory language for
+36 petitions for judicial in rem foreclosure and foreclosure
+37 deeds; to authorize a Class 2 municipality to adopt its own
+38 forms for petitions to foreclose and foreclosure deeds; to
+39 authorize the municipality to proceed with a foreclosure sale
+40 30 days from the date of the judicial order directing the sale
+41 instead of 45 days; to authorize the circuit court to execute
+42 foreclosure deeds within 30 days after the foreclosure sale
+43 instead of 90 days; to authorize the municipality to file a
+44 foreclosure report with the circuit clerk within 30 days of
+45 the foreclosure sale instead of 90 days; and to make
+46 nonsubstantive, technical revisions to update the existing
+47 code language to current style.
+48 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+49 Section 1. This act shall apply only to Class 2
+50 municipalities.
+51 Section 2. Sections 11-40-65, 11-40-67, and 11-40-68,
+52 Code of Alabama 1975, are amended to read as follows:
+53 "§11-40-65
+54 (a) After a municipal code lien has been recorded with
+55 the office of the probate judge judge of probate of the county
+56 in which the real property lies, the Class 2 municipality may
+Page 2
+
+in which the real property lies, the Class 2 municipality may
+HB529 INTRODUCED
+57 identify those properties on which to commence a judicial in
+58 rem foreclosure in accordance with this article, except that
+59 those properties identified by the Class 2 municipality
+60 identifies as owner occupied owner-occupied shall not be
+61 subject to judicial in rem foreclosure under this article. The
+62 Class 2 municipality shall not file a petition for judicial in
+63 rem foreclosure in accordance with this article for a period
+64 of six months following the date upon which the municipal code
+65 lien is recorded in the office of the probate judge judge of
+66 probate. A petition for judicial in rem foreclosure may
+67 include any other municipal code lien that has been filed
+68 prior to the date the petition is filed. After enforcement
+69 proceedings have commenced in accordance with this article,
+70 the enforcement proceedings may be amended to include any
+71 subsequently arising municipal code liens and, if applicable,
+72 any and all taxes as defined in this article.
+73 (b) If the property on which the Class 2 municipality
+74 is seeking to foreclose under this article is subject to taxes
+75 as defined in this article, then at least 60 days prior to the
+76 filing of the petition, the Class 2 municipality shall notify
+77 the county's ad valorem tax collecting official all other
+78 taxing agencies within the jurisdiction of the Class 2
+79 municipality, and the State of Alabama of the Class 2
+80 municipality's intention to file a petition for judicial in
+81 rem foreclosure of the real property on which a municipal code
+82 lien exists. Upon notification, the Revenue Commissioner
+83 county's ad valorem tax collector shall provide the tax payoff
+84 amount to the Class 2 municipality.
+Page 3
+
+amount to the Class 2 municipality.
+HB529 INTRODUCED
+85 (c) The Class 2 municipality shall record in the
+86 appropriate lis pendens record in the office of the judge of
+87 probate of the county in which the real property is located, a
+88 notice of his or her its intent to file a judicial in rem
+89 foreclosure action. The notice shall include a legal
+90 description of the property, the property's street address of
+91 the property, if available, a statement that the property is
+92 subject to judicial in rem foreclosure proceedings under this
+93 article, and a statement that those proceedings may extinguish
+94 any legal interests in the property.
+95 (d) Simultaneous with the filing of his or her the
+96 notice of intent to file a judicial in rem foreclosure action,
+97 the Class 2 municipality shall file a petition with the clerk
+98 of the circuit court for the judicial circuit in which the
+99 real property is located, the petition shall have form and
+100 content substantially identical to that form as provided in
+101 subsection (i).
+102 (e) The petition shall be filed against the real
+103 property against which the municipal code lien has been
+104 recorded and shall provide all of the following:
+105 (1) The identity of the Class 2 municipality.
+106 (2) The real property address.
+107 (3) A description of the real property.
+108 (4) The tax identification number of the real property.
+109 (5) The municipal code lien which that is being
+110 foreclosed.
+111 (6) The principal amount of the municipal code lien
+112 together with applicable interest and penalties.
+Page 4
+
+together with applicable interest and penalties.
+HB529 INTRODUCED
+113 (7) The principal amount of any additional municipal
+114 code liens, if any, in accordance with subsection (a) together
+115 with applicable interest and penalties in accordance with
+116 subsection (a) if any.
+117 (8) The year or years for which the taxes are
+118 delinquent, if any.
+119 (9) The principal amount of the taxes together with
+120 interest and penalties, if any.
+121 (10) The tax payoff amount.
+122 (11) A statement that upon final sale, in accordance
+123 with this article and payment of the tax payoff amount, if
+124 applicable, an interested party's rights of redemption under
+125 Title 40, or under Chapter 10 or this title, Chapter 51 of
+126 this title, shall be extinguished.
+127 (12) The names and addresses of all interested parties
+128 to whom copies of the petition are to be sent in accordance
+129 with subsection (f).
+130 (f) The Class 2 municipality shall mail copies of the
+131 petition by both certified mail, return receipt requested, and
+132 by regular mail to all interested parties whose identity and
+133 address are reasonably ascertainable. Copies of the petition
+134 shall also be mailed by first-class mail to the real property
+135 address to the attention of the occupants of the property, if
+136 any. In addition, notice shall be physically posted on the
+137 real property and shall include the following statement: "THIS
+138 PROPERTY IS SUBJECT TO A JUDICIAL IN REM FORECLOSURE ACTION
+139 AND MAY BE TRANSFERRED TO [NAME OF CLASS 2 MUNICIPALITY] OR
+140 ANOTHER PARTY. PERSONS WITH INFORMATION REGARDING THE CURRENT
+Page 5
+
+ANOTHER PARTY. PERSONS WITH INFORMATION REGARDING THE CURRENT
+HB529 INTRODUCED
+141 OWNER OF THE PROPERTY ARE REQUESTED TO CONTACT [NAME OF CLASS
+142 2 MUNICIPALITY]."
+143 (g) If the Class 2 municipality finds reason to believe
+144 that the real property is owner occupied owner-occupied after
+145 the filing of the petition, the Class 2 municipality shall
+146 immediately seek dismissal of its petition.
+147 (h) Within 30 days of the filing of the petition, the
+148 Class 2 municipality shall cause a notice of the filing of the
+149 petition to be published once each week for three consecutive
+150 weeks in a newspaper of general circulation in the county in
+151 which the property is located. Such notice shall specify:
+152 (1) The name and address of the Class 2 municipality.
+153 (2) The real property address.
+154 (3) A description of the real property.
+155 (4) The tax identification number of the real property.
+156 (5) Any applicable municipal code lien upon which is
+157 being foreclosed upon.
+158 (6) The principal amount of any municipal code lien
+159 together with interest and penalties.
+160 (7) The applicable period of tax delinquency, if any.
+161 (8) The principal amount of taxes, if any.
+162 (9) Upon deposit with the appropriate parties by the
+163 court of the tax payoff amounts, if any, any and all rights of
+164 redemption accorded to interested parties under Title 40, or
+165 under Chapter 10 or under this title, Chapter 51 of this
+166 title, are extinguished.
+167 (10) The date and place of the filing of the petition.
+168 (i) The Class 2 Municipality, by local ordinance, may
+Page 6
+
+(i) The Class 2 Municipality, by local ordinance, may
+HB529 INTRODUCED
+169 adopt forms and policies to implement and administer this
+170 section. The petition for judicial in rem foreclosure shall be
+171 in substantially the following form:
+172 IN THE CIRCUIT COURT FOR__________ COUNTY
+173 STATE OF ALABAMA-
+174 Petitioner: )
+175 [Class 2 municipality] )
+176 Name, Address, )
+177 Telephone Number )
+178 v. Civil Action No: ________
+179 Respondents:
+180 __________, ACRES OF LAND LYING )
+181 AND BEING IN __________________, )
+182 _____________COUNTY, ALABAMA )
+183 __________________________________ )
+184 __________________________________ )
+185 (Address of Property)
+186 And
+187 _______________________________ )
+188 Name and mailing address of Owner
+189 PETITION FOR JUDICIAL IN REM FORECLOSURE COMES NOW
+190 (Petitioner) and petitions this Court for judicial in rem
+191 foreclosure in accordance with Section _________ of the Code
+192 of Alabama 1975, by showing this Court as follows:
+193 1. _________ is the owner of certain real property
+194 located at ________ (the "Property") having a tax
+195 identification number of _____. (A legal description of the
+196 Property is attached hereto as Exhibit "A" and by this
+Page 7
+
+Property is attached hereto as Exhibit "A" and by this
+HB529 INTRODUCED
+197 reference incorporated herein).
+198 2. The municipal code lien(s) recorded against the
+199 Property by City of _____ for nonpayment of costs incurred,
+200 penalties, or fees arising from violations of the City of
+201 _______'s Code of Ordinances related to the Property, the
+202 total amount of which is $ ________ (amount includes principal
+203 amount of the municipal code lien and any accrued interest and
+204 penalties as of this date) have not been paid. (An itemized
+205 list of any municipal code lien recorded against the Property
+206 and the subject of this Petition is attached hereto as Exhibit
+207 "B" and by this reference incorporated herein.)
+208 3. The taxes assessed against the Property by
+209 City/County of _____ or by the State of Alabama for the
+210 year(s) _____ in the amount of $ ________ (amount includes
+211 principal amount of taxes owed and any accrued interest and
+212 penalties as of this date) [have] [have not] been paid.
+213 4. Attached hereto as Exhibit "C" is a list of the
+214 names and addresses of interested parties also receiving a
+215 copy of this Petition by first class mail.
+216 5. Occupants of the Property shall be served by mailing
+217 the petition by first-class mail to the attention of the
+218 occupants at the above-listed Property address.
+219 6. Based upon the information and belief of the
+220 Petitioner the Property is not owner-occupied property.
+221 7. The Petition has also been posted on the Property in
+222 accordance with Section 11-4-54(f), Code of Alabama 1975.
+223 8. Simultaneously with the filing of this Petition,
+224 Petitioner has filed a lis pendens in the appropriate office
+Page 8
+
+Petitioner has filed a lis pendens in the appropriate office
+HB529 INTRODUCED
+225 of the judge of probate.
+226 WHEREFORE, Petitioner demands (1) a hearing before the
+227 Circuit Court in _____ County (the "Court") and (2) a judgment
+228 by the Court stating that (a) the municipal code lien recorded
+229 against the Property is delinquent and (b) that notice has
+230 been given to all interested parties, and an order that the
+231 Court may cause the Property to be sold at public outcry in a
+232 similar manner as that required in Section 40-10-15 of the
+233 Code of Alabama.
+234 CITY OF ______________
+235 By: ___________________
+236 Its: ___________________
+237 NOTICE TO RESPONDENTS AND ALL INTERESTED PARTIES
+238 This petition serves as notice to the respondents and
+239 all interested parties that (1) each party is presumed to own
+240 or have a legal interest in the property, (2) that foreclosure
+241 proceedings have been commenced because of the failure to pay
+242 the municipal code lien cited above, and (3) foreclosure will
+243 result in the loss of ownership of the Property and all rights
+244 or interests of all interested parties, including any and all
+245 rights or redemption accorded to by interested parties under
+246 Title 40, Chapter 10 and Title 11, Chapter 5, Code of Alabama
+247 1975.
+248 To avoid loss of ownership or any interest in the
+249 property, payment of the full amount of the municipal code
+250 lien, penalties, interest, and costs, plus payment of the full
+251 amount of any property taxes that are due or delinquent, if
+252 any, including any related penalties, interest, and costs must
+Page 9
+
+any, including any related penalties, interest, and costs must
+HB529 INTRODUCED
+253 be paid to the _____ office located at _____ by _____date.
+254 Respondents and all interested parties are also reminded that
+255 each of you may wish to contact an attorney to protect your
+256 rights.
+257 A hearing on the above matter shall take place before
+258 the Circuit Court of _____ County no earlier than 30 days
+259 after the filing of this petition. To determine the exact time
+260 and date of such hearing, please call the office of the
+261 Circuit Court of _____ County.
+262 This _____ day of _____, _____.
+263 __________________________
+264 Circuit Clerk of ______ County
+265 EXHIBIT A
+266 Description of the Property
+267 Together with all rights, title, and interest running
+268 with the above-described property but not taxed under a
+269 separate tax reference number as delineated on the tax maps of
+270 the petitioner for the year(s) for the municipal code liens
+271 being foreclosed.
+272 EXHIBIT B
+273 Names and Addresses of Interested Parties"
+274 "§11-40-67
+275 (a) At any point prior to the moment of the sale, any
+276 interested party may redeem the real property from the sale by
+277 payment of paying the redemption amount. Payment shall be made
+278 to the Class 2 municipality. Following Upon receipt of the
+279 payment, the Class 2 municipality shall file for dismissal of
+280 the proceedings. If any delinquent ad valorem property taxes,
+Page 10
+
+the proceedings. If any delinquent ad valorem property taxes,
+HB529 INTRODUCED
+281 interest, or fees are included in the redemption amount, the
+282 Class 2 municipality shall remit those amounts to the county's
+283 tax collecting official.
+284 (b) In the event of the payment by If the owner of the
+285 real property makes payment of the redemption amount, the
+286 proceedings shall be dismissed, and the rights and interests
+287 of all interested parties shall remain unaffected.
+288 (c) In the event of payment by any interested party
+289 other than the owner, the party making the payment shall
+290 possess a lien on the real property for the full amount of the
+291 payment, which lien shall have the same priority as the
+292 municipal code lien discussed in subsection (b) of Section
+293 11-40-63(b). The lienholder shall have the right to enforce
+294 the lien as permitted to the holder of any lien under existing
+295 law. The lienholder shall not otherwise succeed to the rights
+296 of the Class 2 municipality or the tax certificate holder."
+297 "§11-40-68
+298 (a) Following the hearing and order of the court in
+299 accordance with Section 11-40-66, the court shall order the
+300 Class 2 municipality to cause a sale of sell the real
+301 property. to The sale shall be advertised in a newspaper of
+302 general circulation in the county where the land is
+303 located.and conducted by the court in a manner similar to that
+304 procedure contemplated by Section 40-10-15. The sale shall not
+305 occur earlier than 45 30 days following the date of the order
+306 of the court.
+307 (b) Except as otherwise authorized by law, the minimum
+308 bid price for the sale of the real property shall be the
+Page 11
+
+bid price for the sale of the real property shall be the
+HB529 INTRODUCED
+309 redemption amount.
+310 (1) In the absence of any bid higher than the minimum
+311 bid price, the court or its designee shall submit a bid in for
+312 the real property on behalf of the Class 2 municipality or its
+313 designee in an amount equal to the minimum bid price, thereby
+314 causing the Class 2 municipality to become the purchaser at
+315 the sale pursuant to Section 11-40-66.
+316 (2) A bid in submitted on behalf of the Class 2
+317 municipality or its designee shall be tendered as a credit bid
+318 for that part of the minimum bid price equal to the municipal
+319 code lien payoff, as defined in this article. If the minimum
+320 bid price bid in submitted by the Class 2 municipality
+321 includes a tax payoff amount, as defined in this article, the
+322 Class 2 municipality shall tender the amount of the tax payoff
+323 to the court., which, together Together with the municipal
+324 code lien payoff, the tax payoff shall satisfy the full amount
+325 of the minimum bid price.
+326 (c) Payment of the winning bid shall be due immediately
+327 after the sale is conducted. The proceeds of the foreclosure
+328 sale shall be distributed in the following manner:
+329 (1) If the purchaser is a party other than the Class 2
+330 municipality, the court or its designee shall deposit with the
+331 Class 2 municipality the amount of the proceeds equal to the
+332 municipal code lien payoff, less any costs incurred or fees
+333 charged by the office of the judge of probate.
+334 (2) If the purchaser is the Class 2 municipality, then
+335 the Class 2 municipality shall tender to the court an amount
+336 equal to any costs incurred by the court that are included in
+Page 12
+
+equal to any costs incurred by the court that are included in
+HB529 INTRODUCED
+337 the amount of the municipal code lien payoff.
+338 (3) If If the purchaser is a party other than the Class
+339 2 municipality, and the minimum bid price includes a tax
+340 payoff amount, the court shall deposit the amounts paid with
+341 the appropriate parties in accordance with the following
+342 Sections 40-5-10, 40-10-128, 40-10-129, and 40-10-193, and any
+343 applicable local acts.
+344 (4) In the event that the foreclosure sale price
+345 exceeds the minimum bid price at the foreclosure sale, the
+346 surplus shall be distributed by the court to the interested
+347 parties, including the owner, as their interests appear and in
+348 the order of priority in which their interests exist.
+349 (d) Upon deposit with the appropriate parties by the
+350 court of the tax payoff amounts, if any, described in
+351 subsection (c)(3), any and all rights of redemption accorded
+352 to interested parties under Title 40, or under Chapter 10 or
+353 under this title, Chapter 51 of this title, are extinguished.
+354 (e) From and after the moment of the sale, the sale
+355 Once the sale is completed, the sale shall be considered final
+356 and binding.
+357 (f) Within 90 30 days following the date of the sale,
+358 the court shall cause to be executed a deed to the real
+359 property identified in the petition to be executed. Upon
+360 execution, the court shall cause the deed to be recorded with
+361 the office of the judge of probate.
+362 (g) Within 90 30 days following the date of the sale,
+363 the Class 2 municipality shall file a report of the sale with
+364 the clerk of the circuit court, which report shall identify
+Page 13
+
+the clerk of the circuit court, which report shall identify
+HB529 INTRODUCED
+365 identifying whether a sale took place, the foreclosure sale
+366 price, and the identity of the purchaser.
+367 (h) The Class 2 municipality, by local ordinance, may
+368 adopt forms and policies to implement and administer this
+369 section. The form of the deed provided for in subsection (e)
+370 shall be substantially as follows:
+371 When recorded please return to: Cross-reference:
+372 _________________________ Deed Book ____, Page
+373 _________________________ _______ County, Alabama
+374 Records
+375 STATE OF ALABAMA
+376 COUNTY OF __________
+377 JUDICIAL IN REM FORECLOSURE DEED
+378 This indenture (the "deed") made this _____ day of
+379 _____, _____, by and between _____, a _____ ("grantor") and
+380 _____, a _____ ("grantee").
+381 WITNESSETH
+382 WHEREAS, on the _____ day of _____, _____, during the
+383 legal hours of sale, grantor did expose for sale at public
+384 outcry to the highest bidder for cash before the courthouse
+385 door in _____ County, Alabama, the property (as hereinafter
+386 defined) at which sale grantee was the highest and best bidder
+387 for the sum of $_____ and the property was then and there sold
+388 to grantee for the sum. The sale was made by grantor pursuant
+389 to and by virtue of the power and authority granted to it in
+390 that certain order of the court granted _____, _____, Case No.
+391 _____, Circuit Court of _____ County, Alabama, (the "order").
+392 Said sale was made after advertising the time, place, and
+Page 14
+
+Said sale was made after advertising the time, place, and
+HB529 INTRODUCED
+393 terms thereof in the _____, published in _____, Alabama, in
+394 the aforesaid county, and being the publication in which the
+395 [Class 2 municipality's] advertisements for the county are now
+396 published, once a week for three consecutive weeks prior to
+397 the sale on the _____, _____, _____, and _____ of _____,
+398 _____, and the advertisement in all respects complied with the
+399 requirements of Section _____ of the Code of Alabama 1975.
+400 Notice of the time, place, and terms of the sale of the
+401 property was given pursuant to Section _____ , Code of Alabama
+402 1975. Sale was made for the purpose of paying the municipal
+403 code lien(s) owed to _____, the interest and penalties on the
+404 indebtedness, the expenses of the sale including attorneys'
+405 fees, all of which were mature and payable because of failure
+406 of the owner to pay the amount owed and reflected in the
+407 municipal code lien.
+408 NOW, THEREFORE, grantor, acting under and by virtue of
+409 the order and pursuant to Section _____, Code of Alabama 1975,
+410 for and in consideration of the facts hereinbefore recited,
+411 has bargained, sold, and conveyed and does hereby bargain,
+412 sell, and convey unto grantee, its successors and assigns, the
+413 following described property (herein referred to as the
+414 "property"); to wit:
+415 All that tract or parcel of land lying and being in
+416 Land Lot _____ of the _____ District, _____ County, Alabama,
+417 and being more particularly described on Exhibit "A" attached
+418 hereto and by this reference made a party hereof.
+419 This deed is given subject to all restrictions,
+420 easements, rights-of-way, declarations, and covenants, if any,
+Page 15
+
+easements, rights-of-way, declarations, and covenants, if any,
+HB529 INTRODUCED
+421 to which the deed is junior and inferior in terms of priority.
+422 TO HAVE AND TO HOLD, the property unto grantee, its
+423 successors and assigns in fee simple.
+424 IN TESTIMONY WHEREOF, I have hereunto set my hand and
+425 seal, this ______ day of _____________________, 20_____.
+426 ____________________________
+427 Judge of the Circuit Court of ______ County
+428 THE STATE OF ALABAMA,
+429 __________________________ COUNTY.
+430 I, _______________________________, a
+431 ____________________ in and for the County, in the State of
+432 Alabama, hereby certify that _________________________ whose
+433 name as Judge of the Circuit Court of ________ County is
+434 signed to the foregoing conveyance and who is known to me,
+435 acknowledged before me, on this day, that, being informed of
+436 the contents of this conveyance, he or she, in his or her
+437 capacity as Judge of the Circuit Court of ___________ County,
+438 executed the same voluntarily, on this day.
+439 Given under my hand, this _______ day of
+440 _________________________, 20______.
+441 _____________________
+442 EXHIBIT
+443 Description of the Property
+444 Together with all right, title, and interest running
+445 with the above-described property but not taxed under a
+446 separate tax reference number as delineated on the tax maps of
+447 the petitioner for the year(s) for the municipal code lien
+448 being foreclosed."
+Page 16
+
+being foreclosed."
+HB529 INTRODUCED
+449 Section 3. This act shall become effective on October
+450 1, 2026.
+Page 17

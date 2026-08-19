@@ -1,0 +1,383 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB211 INTRODUCED
+1 SB211
+2 MSI7QWW-1
+3 By Senator Allen
+4 RFD: Education Policy
+5 First Read: 27-Jan-26
+Page 0
+
+First Read: 27-Jan-26
+MSI7QWW-1 01/26/2026 GP (L)lg 2025-2482
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, certain state public
+6 educational authorities may implement a sick leave bank
+7 to facilitate the transfer of sick leave or
+8 catastrophic leave from one employee to another,
+9 subject to certain limitations.
+10 This bill would expand the definition of
+11 "educational authority" to include local boards of
+12 education, two-year and four-year public institutions
+13 of higher education, and certain other public schools
+14 in this state.
+15 This bill would require the State Board of
+16 Education to adopt a model sick leave policy providing
+17 for the use of sick leave banks, catastrophic leave,
+18 and the donation of sick leave.
+19 This bill would remove the cap limiting how much
+20 catastrophic sick leave an employee may donate to
+21 another employee.
+22 This bill would require the sick leave policy to
+23 allow employees to donate sick leave directly to
+24 another employee, subject to certain limitations, even
+25 if the donor and receiving employee work for different
+26 education authorities.
+27 This bill would require each educational
+28 authority to implement a sick leave bank policy that
+Page 1
+
+authority to implement a sick leave bank policy that
+SB211 INTRODUCED
+29 does not contradict the requirements of this bill.
+30 This bill would also revise the duties of sick
+31 leave bank committees and require policies developed by
+32 local sick leave bank committees to be approved by the
+33 educational authority.
+34
+35
+36 A BILL
+37 TO BE ENTITLED
+38 AN ACT
+39
+40 Relating to public education employees; to amend
+41 Section 16-22-9, Code of Alabama 1975; to revise the
+42 definition of "education authority" for purposes of sick
+43 leave; to require the State Board of Education to adopt a
+44 model policy relating to sick leave; to require the model
+45 policy to authorize the direct donation of sick leave between
+46 education employees employed by any educational authority; to
+47 require educational authorities to implement the model policy;
+48 to require policies developed by the sick leave bank committee
+49 to be approved by the educational authority; to further
+50 provide for the duties of sick bank leave committees; and to
+51 further provide for sick leave banks and catastrophic sick
+52 leave.
+53 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+54 Section 1. Section 16-22-9, Code of Alabama 1975, is
+55 amended to read as follows:
+56 "§16-22-9
+Page 2
+
+"§16-22-9
+SB211 INTRODUCED
+57 (a) The following terms shall have the following
+58 meanings, respectively For the purposes of this section, the
+59 following terms have the following meanings:
+60 (1) ACCS. The Alabama Community College System.
+61 (2) ACHE. The Alabama Commission on Higher Education.
+62 (3) BOARD. The State Board of Education.
+63 (4) CATASTROPHIC ILLNESS. Any illness or, injury, or
+64 pregnancy or medical condition related to childbirth,
+65 certified by a licensed physician, which causes the employee
+66 to be absent from work for an extended period of time and
+67 which is unrelated to the Public Education Employee Injury
+68 Compensation Program.
+69 (5)(2) CHIEF EXECUTIVE OFFICER. The superintendent of
+70 any public county or city K-12 school system; the President of
+71 the Alabama Institute for Deaf and Blind; the president of any
+72 two-year school or college under the auspices of the State
+73 Board of Education Alabama Community College System; the
+74 President of Alabama Agricultural and Mechanical University;
+75 the Superintendent of the Department of Youth Services School
+76 District; the Executive Director of the Alabama School of Fine
+77 Arts; and the Executive Director of the Alabama High School of
+78 Mathematics and Science; the Executive Director of the Alabama
+79 School of Cyber Technology and Engineering; the Executive
+80 Director of the Alabama School of Healthcare Sciences; and the
+81 president of the board of trustees of any public four-year
+82 institution of higher education.
+83 (6)(3) EDUCATIONAL AUTHORITY or AUTHORITY or BOARD.
+84 Each city and county local board of education; the Board of
+Page 3
+
+Each city and county local board of education; the Board of
+SB211 INTRODUCED
+85 Trustees of the Alabama Institute for Deaf and Blind; the
+86 Alabama Youth Services Board in its capacity as the Board of
+87 Education for the Department of Youth Services School
+88 District; the Board of Directors of the Alabama School of Fine
+89 Arts; the Board of Directors of the Alabama High School of
+90 Mathematics and Science; the Board of Directors of the Alabama
+91 School of Cyber Technology and Engineering; the Board of
+92 Directors of the Alabama School of Healthcare Sciences; the
+93 State Board of Education Board of Trustees of ACCS as applied
+94 to two-year postsecondary institutions; and the Board board of
+95 Trustees trustees of Alabama Agricultural and Mechanical
+96 University each public four-year institution of higher
+97 education in the state.
+98 (7)(4) EMPLOYEE. Any personindividual employed by the
+99 an educational authority on a full-time or part-time basis.
+100 (8) PARTICIPATING MEMBER. An employee who voluntarily
+101 chooses to participate in a sick leave bank.
+102 (5)(9) SICK LEAVE. The same meaning as Section
+103 16-1-18.1.
+104 (10) SICK LEAVE BANK COMMITTEE. A committee of five
+105 employees, one representing the authority and four
+106 representing the participating members of the sick leave bank.
+107 (b)(1) The board shall adopt a model sick leave policy
+108 and adopt rules to implement and administer the model policy.
+109 The board may collaborate with other educational authorities
+110 to develop and implement the model policy.
+111 (2) The board's model policy shall provide for:
+112 a. Employees to deposit an equal number of days, not to
+Page 4
+
+a. Employees to deposit an equal number of days, not to
+SB211 INTRODUCED
+113 exceed five, of their earned sick leave into the bank. The
+114 days deposited shall be available to be loaned to any
+115 participating member whose sick leave has been exhausted;
+116 b. The use of catastrophic leave, as provided in
+117 subsection (f); and
+118 c. Employees to donate their earned sick leave directly
+119 to any other employee, as provided in subsection (g).
+120 (3)a. The board shall develop uniform state forms:
+121 1. Necessary for the operation and administration of
+122 sick leave banks and sick leave donation;
+123 2. To ensure the orderly transfer and acceptance of
+124 catastrophic sick leave days from one sick leave bank to
+125 another; and
+126 3. To ensure the orderly direct donation of sick leave
+127 days from one employee to another.
+128 b. The forms established under this subdivision may be
+129 used by any educational authority.
+130 (c)(1) Each An educational authority, upon the request
+131 of 10 percent of its full-time certificated and full-time
+132 support personnel, shall establish a sick leave bank plan for
+133 each of the two groups either jointly or separately. The
+134 decision whether to have a joint or separate sick leave bank
+135 shall be the exclusive decision of the employees, utilizing a
+136 secret balloting process.
+137 (2)(c) At the beginning of each scholastic year, an
+138 election shall be held among the sick leave bank participating
+139 members to determine by secret ballot the four participating
+140 members who are to serve on the sick leave bank committee. The
+Page 5
+
+members who are to serve on the sick leave bank committee. The
+SB211 INTRODUCED
+141 term of office shall be one year. The chief executive officer
+142 of the authority shall be responsible for conducting the
+143 election in a fair and equitable manner and, ensuring the
+144 confidentiality of the secret balloting process. The chief
+145 executive officer of the authority shall also appoint the
+146 authority's representative on the committee, subject to board
+147 approval by the educational authority.
+148 (d)(1) Notwithstanding any other provision of law to
+149 the contrary, it shall be the exclusive responsibility of the
+150 each sick leave bank committee to write shall provide
+151 administrative and clerical support to the educational
+152 authority related to the operation of the sick leave bank by:
+153 a. Implementing and administering the model sick leave
+154 policy created pursuant to subsection (b); and
+155 b. Developing and implementing any additional the
+156 guidelines and or administrative procedures of as necessary
+157 for compliance with this section, the orderly operation of the
+158 sick leave bank, including the catastrophic leave and direct
+159 sick leave donation as provided inprovisions of this section,
+160 subject to the approval of the educational authority. It shall
+161 also be the committee's duty to develop all necessary forms
+162 for the orderly operation and administration of the sick leave
+163 bank and catastrophic leave provisions of this section.
+164 To ensure the orderly transfer and acceptance of
+165 catastrophic sick leave days from one sick leave bank to
+166 another, the State Board of Education shall provide a uniform
+167 state form.
+168 (e) Each plan shall allow the employees to deposit an
+Page 6
+
+(e) Each plan shall allow the employees to deposit an
+SB211 INTRODUCED
+169 equal number of days (not to exceed five) of his or her earned
+170 sick leave into the bank. The days deposited shall be
+171 available to be loaned to any participating member whose sick
+172 leave has been exhausted.
+173 (f) Upon the establishment of a sick leave bank, the
+174 sick leave bank committee shall establish procedures providing
+175 for the uniform administration of the sick leave bank.
+176 Guidelines shall be developed by the sick leave bank
+177 committee for the operation of the sick leave bank.
+178 (2) The guidelines developed by a sick leave bank
+179 committee shall be approved by: (i) a secret ballot vote of
+180 the participating members of the sick leave bank; and (ii) the
+181 educational authority. The accounting of the sick leave bank
+182 shall be the responsibility of the authority. Vacancies
+183 occurring on thea committee shall be filled by the respective
+184 partiesin the same manner as provided in subdivision (c)(2).
+185 No representative on the committee shall serve for a term
+186 longer than five years.
+187 (e) Each educational authority may adopt rules and
+188 policies to implement and administer this section as to its
+189 employees and the educational institutions under its control,
+190 provided that no educational authority(g) Each sick leave
+191 bank's guidelines shall include the regulations of this
+192 section. Additional guidelines shall be adopted by the sick
+193 leave bank committee as may be deemed appropriate and
+194 beneficial. No board or sick leave bank committee shall may
+195 adopt any policy or rule thatregulation which conflicts with
+196 the model policy developed under subsection (b), the
+Page 7
+
+the model policy developed under subsection (b), the
+SB211 INTRODUCED
+197 catastrophic leave provisions of subsection (f), the sick
+198 leave direct donation provisions of subsection (g), any other
+199 provision of this section, or any of the following general
+200 regulations:
+201 (1) No employee shall be allowed to owe more than 15
+202 days to the sick leave bank, unless over 50 percent of the
+203 participating members of the bank vote to extend the limit.
+204 (2) Appropriate administrative forms for administering
+205 the sick leave bank shall comply with the model policy and
+206 uniform forms created pursuant to this section and be
+207 developed by the sick leave bank committee, subject to the
+208 approval of the educational authority.
+209 (3) Sick leave days borrowed from the sick leave bank
+210 shall be repaid to the sick leave bank monthly as re-earned by
+211 the participating member. Upon the resignation or other
+212 termination of an employee who has an outstanding loan of sick
+213 leave days, the value of the loan shall be deducted from the
+214 final paycheck at the employee's prevailing rate of pay.
+215 (4) A participating member of the sick leave bank shall
+216 not be allowed to accumulate more days than allowed in Section
+217 16-1-18.1, including days in the sick leave bank.
+218 (5) Employee membership in the sick leave bank shall be
+219 voluntary.
+220 (6) Any alleged abuse of the use of the sick leave bank
+221 shall be investigated by the applicable sick leave bank
+222 committee. On the finding of wrongdoing, the participating
+223 member shall repay all of the sick leave credits drawn from
+224 the sick leave bank and be subject to other appropriate
+Page 8
+
+the sick leave bank and be subject to other appropriate
+SB211 INTRODUCED
+225 disciplinary action as determined by the localeducational
+226 authority.
+227 (7) Upon retirement or transfer of the sick leave bank
+228 member, days on deposit with the sick leave bank shall be
+229 withdrawn and transferred with the employee or made accessible
+230 for retirement credit, as applicable.
+231 (8) Before being eligible to use catastrophic sick
+232 leave days, the participating member of the sick leave bank
+233 shall first borrow and utilize days from the sick leave bank,
+234 up to a maximum of 15 days. However, if the participating
+235 member later qualifies for catastrophic sick leave, donated
+236 catastrophic sick leave days may be used to repay days owed to
+237 the sick leave bank to the credit of the affected
+238 participating member.
+239 (9) At the beginning of the scholastic year, or upon
+240 employment of a new employee, as the case may be, the
+241 appropriate number of sick leave days shall, upon application
+242 of the employee, shall be credited to the employee's account
+243 to enable the employee to join the sick leave bank if the
+244 employee does not have the minimum number of sick leave days
+245 to enable him or her to join the bank. TheEach sick leave bank
+246 committee shall develop in its guidelines a provision whether
+247 or not to allow other employees who have previously failed or
+248 refused to join the sick leave bank the option to join upon
+249 deposit of the prerequisite number of sick leave days. Any
+250 policy developed by the sick leave bank committee shall be
+251 uniformly applied to all employees.
+252 (10)a. No employee may be required to appear before the
+Page 9
+
+(10)a. No employee may be required to appear before the
+SB211 INTRODUCED
+253 sick leave bank committee or request approval from the sick
+254 leave bank committee in order to donate or receive leave under
+255 this section, provided that each employee shall provide the
+256 applicable educational authority with a written plan regarding
+257 the employee's intended use of leave that he or she intends to
+258 take pursuant to this section.
+259 b. Any discretionary functions relating to the sick
+260 leave bank are the responsibility of the educational
+261 authority.
+262 (f) (h) Catastrophic sick leave. Employees, at their
+263 discretion, may donate a specific number of days to the sick
+264 leave bank to be designated for a specific employee for use
+265 against a catastrophic illness as defined by this section. A
+266 donating employee shall not be required to donate a minimum
+267 number of catastrophic days to the sick leave bank. The
+268 recipient employee may use catastrophic sick leave days for
+269 himself or herself or for other covered personsindividuals as
+270 provided in Section 16-1-18.1. Before sick leave days for a
+271 catastrophic illness may be used by a recipient employee, the
+272 recipient employee shall have first exhausted all sick and
+273 personal leave. Donated days shall become available for use by
+274 the particular employee who shall not be required to repay the
+275 days. Any employee who donates sick leave days to the sick
+276 leave bank for a particular employee suffering from a
+277 catastrophic illness shall be clearly informed that the
+278 donated days are not to be recovered or returned to the donor.
+279 If a particular employee does not require all of the days
+280 donated to the credit of the employee, the days shall revert
+Page 10
+
+donated to the credit of the employee, the days shall revert
+SB211 INTRODUCED
+281 to the credit of those employees who donated the days in
+282 accordance with the guidelines adopted by the sick leave bank
+283 committee. No employee may donate more than 30 sick leave
+284 days, exclusive of the provisions of subsection (e), to the
+285 sick leave bank for the catastrophic sick leave of any one
+286 employee. A sick leave bank is authorized to may donate sick
+287 leave days to another sick leave bank for use by a particular
+288 employee who is suffering a catastrophic illness. An employee
+289 must be a participating member of the sick leave bank to
+290 donate or receive catastrophic sick leave days.
+291 (g)(1)(i) Beginning with the 2027-2028 school year, an
+292 employee may directly donate sick leave to any other employee
+293 of any educational authority for any reason. An employee
+294 donating leave under this section may donate to an employee of
+295 any other educational authority, even if the donor is employed
+296 by a different educational authority than the receiving
+297 employee. Sick leave donated under this subsection shall not
+298 be deposited into a sick leave bank. The recipient employee is
+299 not required to repay the donor for the sick leave. No
+300 individual employee may receive more than 30 total sick leave
+301 days per academic school year under this subsection.
+302 (2) If an educational authority has not authorized a
+303 sick leave bank, the authority shall adopt procedures to
+304 implement this subsection as the policy pertains to the direct
+305 donation of sick leave.
+306 (h)Compliance required. If an authority fails to comply
+307 with this section within 30 calendar days after receiving the
+308 petition to establish a sick leave bank, the State
+Page 11
+
+petition to establish a sick leave bank, the State
+SB211 INTRODUCED
+309 Superintendent of Education (for the public K-12 schools), the
+310 Chancellor of ACCS Postsecondary Education (for the two-year
+311 community colleges postsecondary schools), or the president of
+312 the governing board of trustees (for four-year colleges and
+313 universities)public institutions of higher education shall
+314 investigate the situation and shall immediately take due and
+315 appropriate steps to ensure compliance with this section.
+316 (i) It is the intent of the Legislature that all
+317 constitutionally created boards of trustees comply with the
+318 requirements of this section."
+319 Section 2. This act shall become effective on July 1,
+320 2026.
+Page 12

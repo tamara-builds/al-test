@@ -1,0 +1,811 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 625
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+7B15HVV-1 02/03/2026 EGC (L)EGC 2026-197 SUB HB302
+BOARDS, AGENCIES AND COMMISSIONS SUBSTITUTE TO HB302
+OFFERED BY REPRESENTATIVE BUTLER
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Supreme Court of Alabama
+6 is required to prescribe all bail bond forms.
+7 This bill would require the Supreme Court of
+8 Alabama to require a qualifying power of attorney
+9 document issued by a professional surety company to be
+10 attached to all bail bond forms.
+11 Under existing law, a professional bail bondsman
+12 is not qualified to own his or her own professional
+13 bail company until he or she has been licensed as a
+14 professional bail bondsman for at least three years,
+15 but that restriction does not apply to professional
+16 surety bondsmen.
+17 This bill would require a professional surety
+18 bondsman to be licensed for at least three years before
+19 he or she could own his or her own professional surety
+20 company.
+21 Under existing law, there is an annual
+22 recertification process for professional surety
+23 companies and professional bond companies with certain
+24 reporting requirements the companies must follow.
+25 This bill would require circuit clerks to
+26 prepare a report listing all professional surety
+27 companies and professional bail bond companies
+28 authorized to operate in the circuit within 30 days of
+Page 1
+
+authorized to operate in the circuit within 30 days of
+29 the presiding circuit judge issuing the authorization
+30 order.
+31 Under existing law, professional bail companies,
+32 when applying for authorization, are required to submit
+33 to the presiding circuit court judge either an original
+34 corporate surety bond or an escrow agreement that
+35 guarantees the payment of all sums of money the
+36 professional bail company may be obligated to pay.
+37 This bill would allow a professional bail
+38 company, when applying for authorization, to guarantee
+39 its payments with only an escrow agreement.
+40 Under existing law, the terms "apprentice" and
+41 "employee" are defined in the administrative rules of
+42 the board but not in the Code of Alabama 1975.
+43 This bill would define the terms.
+44 Under existing law, an apprentice bondsman
+45 license expires after 120 days, and the Alabama
+46 Professional Bail Bonding Board may provide exceptions
+47 so that applicants who are 19 or 20 years of age may
+48 hold an apprentice license until they are 21 years of
+49 age.
+50 This bill would extend the apprentice license
+51 expiration to 180 days, provide that an apprentice
+52 license can only be issued once, and require a 19 or 20
+53 year old apprentice to complete an eight hour
+54 instructional course.
+55 Under existing law, the Governor is responsible
+56 for appointing to the Alabama Professional Bail Bonding
+Page 2
+
+for appointing to the Alabama Professional Bail Bonding
+57 Board one circuit, district, or municipal judge who is
+58 currently serving and one municipal or circuit court
+59 clerk who is currently serving.
+60 This bill would provide that the appointed judge
+61 and court clerk may be currently serving,
+62 supernumerary, or retired.
+63 This bill would provide the Governor two
+64 additional appointments to the board, one serving
+65 sheriff, nominated by the Alabama Sheriff's
+66 Association, and one lay person, nominated by the
+67 Alabama Circuit Clerks Association.
+68 Under existing law, the Alabama Professional
+69 Bail Bonding Board must select a new president and vice
+70 president each time a new member is appointed to the
+71 board.
+72 This bill would rename the positions of
+73 president and vice president chair and vice chair.
+74 This bill would also remove the requirement that
+75 a new chair and vice chair be elected each time a new
+76 member is appointed to the board.
+77 Under existing law, there is no late fee for
+78 submitting a license renewal application after the
+79 deadline.
+80 This bill would impose a late fee on renewal
+81 applications submitted after the deadline.
+82 This bill would impose an additional late fee
+83 for license renewal fees paid after the deadline.
+84 Under existing law, there is no residency
+Page 3
+
+Under existing law, there is no residency
+85 requirement to become a licensed bondsman in this
+86 state.
+87 This bill would require applicants to be a
+88 resident of this state for at least one year to become
+89 a licensed bondsman.
+90 Under existing law, there is no process for
+91 placing a bondsman license in inactive status.
+92 This bill would impose a late fee on late
+93 license renewal and would provide a process for placing
+94 a license in inactive status as well as reverting an
+95 inactive license to active status.
+96 This bill would also make nonsubstantive,
+97 technical revisions to update the existing code
+98 language to current style.
+99
+100
+101 A BILL
+102 TO BE ENTITLED
+103 AN ACT
+104
+105 Relating to bail and surety bonding; to amend Sections
+106 15-13-112, 15-13-159, 15-13-160, 15-13-201, 15-13-202,
+107 15-13-203, 15-13-205, 15-13-210, 15-13-211, and 15-13-217,
+108 Code of Alabama 1975; to require the Supreme Court of Alabama
+109 to require qualifying power of attorney documents issued by a
+110 professional surety company to be attached to all bail bond
+111 forms; to require a professional surety bondsman to be
+112 licensed for at least three years before he or she could own
+Page 4
+
+licensed for at least three years before he or she could own
+113 his or her own professional surety company; to require circuit
+114 clerks to report the authorized professional bail bond
+115 companies within 30 days of the close of annual
+116 recertification; to provide that a professional bail company
+117 may only guarantee payments to the court through an escrow
+118 agreement; to define the terms "apprentice" and "employee"; to
+119 extend the apprentice license expiration to 180 days; to
+120 require 19 or 20 year old apprentice bondsmen to complete an
+121 instructional course; to provide that judges and clerks
+122 appointed by the Governor to the Alabama Bail Bonding Board
+123 may be presently serving, supernumerary, or retired; to
+124 provide for the appointment of one serving sheriff and one lay
+125 person to be appointed by the Governor to the Alabama Bail
+126 Bonding Board; to remove the requirement that a chair and vice
+127 chair be elected each time a new member is appointed to the
+128 Alabama Bail Bonding Board; to impose late fees on renewal
+129 applications; to provide an additional late fee for license
+130 renewal fees paid after the deadline; to require bondsman
+131 license applicants to be a resident of this state; to provide
+132 a process for placing a bondsman license in inactive status
+133 and reverting to active status; and to make nonsubstantive,
+134 technical revisions to update the existing code language to
+135 current style.
+136 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+137 Section 1. Sections 15-13-112, 15-13-159, 15-13-160,
+138 15-13-201, 15-13-202, 15-13-203, 15-13-205, 15-13-210,
+139 15-13-211, and 15-13-217, Code of Alabama 1975, are amended to
+140 read as follows:
+Page 5
+
+read as follows:
+141 "§15-13-112
+142 The Supreme Court of Alabama shall prescribe the
+143 different forms used for bail bonds and shall publish the
+144 forms in the Alabama Rules of Criminal Procedure. The supreme
+145 court shall require an original qualifying power of attorney
+146 to be attached to all bail bond forms. The original qualifying
+147 power of attorney shall: (i) be issued by a professional
+148 surety company; and (ii) specify the names of all agents that
+149 may execute and bind the company to a bail undertaking and any
+150 applicable limitations of the agents. The Supreme Courtsupreme
+151 court may change the forms from time to time as the court
+152 deems necessary but the forms and their terms shall conform to
+153 the terms of this chapter or any other laws of the State of
+154 Alabama."
+155 "§15-13-159
+156 (a) No professional surety company shall execute or
+157 become surety on any appearance bond in this state, unless it
+158 has an order granting authorization to become professional
+159 surety on any bail. The order granting the authorization shall
+160 be reissued annually, prior to January 1 of each year, by the
+161 presiding circuit judge of the county in which the company
+162 desires to execute bail or appearance bonds. Prior to the
+163 judge's issuance of the original order and no later than
+164 December 1 of each year, thereafter, professional surety
+165 companies shall submit annually to the presiding circuit judge
+166 the following:
+167 (1) An original or certified copy of a certificate of
+168 authority or certificate of compliance from the Department of
+Page 6
+
+authority or certificate of compliance from the Department of
+169 Insurance reflecting that the company is qualified to write a
+170 bail line of insurance and that the company is in good
+171 standing with the department.
+172 (2) An original qualifying power of attorney issued by
+173 the professional surety company, specifying any applicable
+174 limitations and the names of the agents that may execute and
+175 bind the company to a bail undertaking. The qualifying power
+176 of attorney shall not name any company, corporation, or other
+177 entity as an agent except a person as defined as a
+178 professional bondsman in Division 1, Section 15-13-100, and
+179 that person shall be an agent of the company licensed with the
+180 Department of Insurance.
+181 (3) A copy of the license issued by the Department of
+182 Insurance of each agent who is named in or appointed by the
+183 qualifying power of attorney in subdivision (2) or a letter or
+184 other documentation from the department indicating that the
+185 appointed agents are temporarily licensed as agents of the
+186 professional surety company for those lines of insurance.
+187 (4) An affidavit or certification in writing, under
+188 oath, executed by a licensed agent of the professional surety
+189 company who is the manager or an owner or president of a
+190 corporation, company, partnership, or other entity that
+191 represents the professional surety company, filed with the
+192 clerk of the circuit court of each county in which the
+193 professional surety company executes or becomes surety on
+194 appearance bonds, stating the following:
+195 a. That all appearance bonds shall be executed in the
+196 name of the professional surety company as surety by the
+Page 7
+
+name of the professional surety company as surety by the
+197 agents listed or appointed in the qualifying power of attorney
+198 presented to the court or any other qualifying powers of
+199 attorney filed with the circuit clerk of the county.
+200 b. That all agents listed or appointed in the
+201 qualifying powers of attorney shall be licensed by the
+202 Department of Insurance, prior to their appointments.
+203 c. That any agency, company, corporation, or other
+204 entity that represents the professional surety company in the
+205 county, has no owners or other persons having a direct or
+206 indirect financial interest in such agency, company,
+207 corporation, or other entity, that have been convicted of a
+208 felony or a crime involving moral turpitude. If any
+209 personindividual having a direct or indirect financial
+210 interest in such agency, company, corporation, or other entity
+211 has been convicted of a felony or a crime involving moral
+212 turpitude, then the affidavit or certification shall certify
+213 that there has been such conviction, providing the name of the
+214 personindividual convicted, and certify that the
+215 personindividual convicted has been pardoned or has had a
+216 restoration of civil rights.
+217 d. That the professional surety company has no
+218 knowledge of forfeitures that have been final for more than 30
+219 days that have not been paid to the clerk of the court arising
+220 out of surety undertaking, and that the professional surety
+221 company has no petitions, motions, or other litigation matters
+222 pending.
+223 e. That no agents of the professional surety company
+224 who have the authority to execute appearance bonds in its
+Page 8
+
+who have the authority to execute appearance bonds in its
+225 behalf or any person having a financial interest, direct or
+226 indirect, in the ownership or management of any agency,
+227 company, corporation, or other entity that represents the
+228 professional surety company in the execution of appearance
+229 bonds, is an attorney, a judicial official, a person
+230 authorized to accept an appearance bond, or an agent of an
+231 attorney, judicial official, or person authorized to accept an
+232 appearance bond.
+233 f. The names and addresses of all persons, officers,
+234 employees, and agents of the agency, company, corporation, or
+235 other entity that represents the professional surety company
+236 becoming surety on appearance bonds who have a direct or
+237 indirect financial interest in the agency, company,
+238 corporation, or other entity representing the professional
+239 surety company and the nature and extent of each interest.
+240 g. That those persons stated in this section have not,
+241 within a period of two years, violated any provisions of this
+242 chapter or any rules adopted by the Supreme Court of Alabama
+243 in accordance with this chapter.
+244 (5) A copy of the current license issued by the Alabama
+245 Professional Bail Bonding Board pursuant to the Alabama Bail
+246 Bond Regulatory Act, Article 8.
+247 (b)(1) Not more than 30 days after the presiding
+248 circuit court judge of the county issues the order granting
+249 authorization to professional surety companies, the circuit
+250 clerk shall prepare a list of authorized surety companies. The
+251 list shall include all of the following information:
+252 a. The name of each authorized surety company.
+Page 9
+
+a. The name of each authorized surety company.
+253 b. The name of each principal attached to each
+254 authorized surety company.
+255 c. All final forfeitures and bail bond posting fees
+256 owed to the court by each surety company.
+257 (2) The circuit clerk shall submit the list of
+258 authorized surety companies to the Alabama Professional Bail
+259 Bonding Board.
+260 (c) A professional surety bondsman may not own a
+261 professional surety company until he or she has been licensed
+262 as a professional surety bondsman for at least three years. If
+263 the owner of a professional surety company dies or becomes
+264 completely incapacitated, as determined by the board, his or
+265 her professional surety company may be sold to an unlicensed
+266 individual. The unlicensed individual shall have 90 calendar
+267 days, from date of purchase, to obtain a license and shall
+268 employ a minimum of one employee who has been licensed for at
+269 least three consecutive years."
+270 "§15-13-160
+271 (a) No professional bail company shall execute or
+272 become surety on any appearance bond in this state, unless the
+273 company has an order granting authorization to become
+274 professional surety on any bail. The order granting
+275 authorization shall be reissued annually prior to January 1 of
+276 each year by the presiding circuit judge of the county in
+277 which the company desires to execute bail or appearance bonds.
+278 Prior to the judge's issuance of the original order and no
+279 later than December 1 of each year, thereafter, professional
+280 bail companies shall submit annually to the presiding circuit
+Page 10
+
+bail companies shall submit annually to the presiding circuit
+281 judge the following:
+282 (1)a. An original corporate surety bond or escrow
+283 agreement, filed and approved by the presiding circuit judge
+284 of the county in which the professional bail company executes
+285 or becomes surety on appearance bonds, in the amount of
+286 twenty-five thousand dollars ($25,000), guaranteeing the
+287 payment of all sums of money that may become due by virtue of
+288 any judgment absolute that may be rendered against the
+289 professional bail company on a forfeiture entered by any court
+290 in the county. Corporate surety bonds shall be executed only
+291 by a surety company that at the time is operating and
+292 authorized to do business in the this state and qualified to
+293 write bonds by the Department of Insurance. The corporate
+294 surety bond shall provide that it may be cancelled as to any
+295 future liability by the corporate surety company or the
+296 professional bail company by giving 30 daysdays' prior written
+297 notice of the cancellation to the clerk of the circuit court
+298 in which the bond or instrument was filed. A bank in this
+299 state shall be a party to all escrow agreements, and those
+300 agreements shall provide that the agreement may be cancelled
+301 as to any future liability only by the professional bail
+302 company and bank by giving 30 daysdays' prior written notice
+303 of the cancellation to the clerk of the circuit court in which
+304 the escrow agreement or instrument is filed. Once a
+305 professional bail company has filed an original continuous
+306 corporate surety bond or escrow agreement with the circuit
+307 clerk and it has been approved by the presiding circuit judge,
+308 then the professional bail company does not have to file any
+Page 11
+
+then the professional bail company does not have to file any
+309 other original continuous corporate surety bond or escrow
+310 agreement upon annual recertification. The professional bail
+311 company shall submit an original certificate from the
+312 insurance company that executed the corporate surety bond
+313 reflecting that it is still in force or an original letter
+314 from the bank stating the escrow agreement is still effective
+315 and the monies are still held in trust. When any professional
+316 bail company is annually recertifying, the circuit clerk shall
+317 send the original corporate surety bond or original escrow
+318 agreement with any cancellations received by the circuit clerk
+319 to the presiding circuit judge for review and approval.
+320 b. Any new original corporate surety bond or escrow
+321 agreement made on or after September 1, 2023October 1, 2026,
+322 in a county with a population of 200,000 or more, shall
+323 require a surety bond or an escrow agreement in the amount of
+324 fifty thousand dollars ($50,000). This paragraph does not
+325 affect any corporate surety bond or escrow agreement made
+326 before September 1, 2023October 1, 2026. Current escrow
+327 agreements and corporate surety bonds shall remain at
+328 twenty-five thousand dollars ($25,000) for any renewal
+329 thereafter.
+330 (2) An original qualifying power of attorney, letter,
+331 or other document issued by the professional bail company
+332 specifying any applicable limitations and specifying the
+333 agents who are authorized to execute and bind the professional
+334 bail company to a bail undertaking or to appearance bonds. The
+335 qualifying power of attorney, letter, or other document may
+336 only name persons as agents.
+Page 12
+
+only name persons as agents.
+337 (3) An original affidavit or certificate in writing,
+338 under oath, executed by an owner or officer of a professional
+339 bail company, to the clerk of the circuit court of the county
+340 in which the professional bail company shall execute or become
+341 surety on appearance bonds which contains all of the
+342 following:
+343 a. That all appearance bonds shall be executed in the
+344 name of the professional bail company as surety by the agents
+345 listed or appointed in the qualifying power of attorney,
+346 letter, or other document presented to the court or any other
+347 person so named in any future qualifying powers of attorney,
+348 letters, or documents filed with the circuit clerk of the
+349 county.
+350 b. That the professional bail company is qualified to
+351 do business in this state and its resident address.
+352 c. That the professional bail company has sufficient
+353 financial net worth to satisfy its obligations as a surety.
+354 d. That no person having a direct or indirect financial
+355 interest in the professional bail company has been convicted
+356 of a felony or a crime involving moral turpitude.
+357 Notwithstanding the foregoing, if any person having a direct
+358 or indirect financial interest in the bonding business has
+359 been convicted of a felony or a crime involving moral
+360 turpitude, then the person making the certification shall
+361 certify that there has been a conviction, provide the name of
+362 the person convicted, and certify that the person convicted
+363 has been pardoned or has had a restoration of civil rights.
+364 e. That the professional bail company has no knowledge
+Page 13
+
+e. That the professional bail company has no knowledge
+365 of any forfeiture that has been made final for more than 30
+366 days that has not been paid arising out of surety undertakings
+367 and as to which the professional bail company has no
+368 petitions, motions, or other litigation matters pending.
+369 f. That there are no persons, including employees,
+370 agents, or persons with a financial interest in the
+371 professional bail company, who, within a period of two years,
+372 violated this chapter, or any rules adopted by the Supreme
+373 Court governing the qualifications of professional surety or
+374 bail companies.
+375 g. That no employee, agent, or any other person having
+376 a direct or indirect financial interest in the professional
+377 bail company is an attorney, a judicial official, a person
+378 authorized to accept an appearance bond, or an agent of an
+379 attorney, judicial official, or person authorized to accept an
+380 appearance bond.
+381 h. The names and addresses of all officers, employees,
+382 and agents of the professional bail company who have a direct
+383 or indirect financial interest in the professional bail
+384 company and the nature and extent of each interest.
+385 (b)(1) Not more than 30 days after the presiding
+386 circuit court judge of the county issues the order granting
+387 authorization to professional bail companies, the circuit
+388 clerk shall prepare a list of authorized bail bond companies.
+389 The list shall include all of the following information:
+390 a. The name of each authorized bail bond company.
+391 b. The name of each principal attached to each
+392 authorized bail bond company.
+Page 14
+
+authorized bail bond company.
+393 c. All final forfeitures and bail bond posting fees
+394 owed to the court by each company.
+395 (2) The circuit clerk shall also submit the list of
+396 authorized bail bond companies to the Alabama Professional
+397 Bail Bonding Board.
+398 (c) A professional bondsman may not own a professional
+399 bail company until he or she has been licensed as a
+400 professional bondsman for at least three years. If the owner
+401 of a professional bail company dies or becomes completely
+402 incapacitated, as determined by the board, his or her
+403 professional bail bond company may be sold to an unlicensed
+404 individual. The unlicensed individual shall have 90 calendar
+405 days, from date of purchase, to obtain a license and shall
+406 employ a minimum of one employee who has been licensed for at
+407 least three consecutive years."
+408 "§15-13-201
+409 For the purposes of this article, the following terms
+410 shall have the following meanings:
+411 (1) APPRENTICE. Any individual working directly for and
+412 under the direct supervision of a fully-licensed professional
+413 bail bondsman, professional surety bondsman, or recovery
+414 agent, who is engaged in the bail bond or professional surety
+415 business, and who has been granted an apprentice license by
+416 the board.
+417 (1)(2) BOARD. Alabama Professional Bail Bonding Board.
+418 (3) EMPLOYEE. a. Any individual who engages in the
+419 performance of any of the duties of or for a professional bail
+420 company or professional surety company, including, but not
+Page 15
+
+company or professional surety company, including, but not
+421 limited to, clerical, stenographic, investigative, or
+422 administrative duties, or any other work or responsibilities
+423 under the contract of hire, express or implied, oral or
+424 written, where the employer has the authority or right to
+425 control or direct the employee in how the duties, work, or
+426 responsibilities are carried out or performed.
+427 b. The term includes any individual who has
+428 communication or interaction with potential or actual
+429 customers and any individual who is working as an apprentice.
+430 c. The term does not include any person whose bail
+431 bondsman license has been revoked.
+432 (2)(4) PROFESSIONAL BAIL COMPANY. A person, individual
+433 proprietor, partnership corporation, or other entity, other
+434 than a professional surety company, that furnishes bail or
+435 becomes surety for a person on an appearance bond and does so
+436 for a valuable consideration.
+437 (3)(5) PROFESSIONAL BONDSMAN. Any individual or agent
+438 who is employed by a professional bail company or professional
+439 surety company to solicit and execute appearance bonds or
+440 actively seek bail bond business for or on behalf of a
+441 professional bail company, including any individual who has a
+442 direct or indirect ownership interest in a professional bail
+443 company.
+444 (4)(6) PROFESSIONAL SURETY BONDSMAN. Any individual who
+445 is employed by a professional surety company to solicit and
+446 execute appearance bonds or actively seek bail bond business
+447 for or on behalf of a professional surety company, including
+448 any individual who has a direct or indirect ownership interest
+Page 16
+
+any individual who has a direct or indirect ownership interest
+449 in a professional surety company.
+450 (5)(7) PROFESSIONAL SURETY COMPANY. An insurance
+451 company, domestic or foreign corporation, or association
+452 engaged in the business of insurance, or a surety with a bail
+453 line of insurance to which has been issued a certificate of
+454 authority or certificate of compliance by the Department of
+455 Insurance to execute appearance bonds or bail bonds in
+456 criminal cases in the state.
+457 (6)(8) RECOVERY AGENT. Any individual, other than an
+458 attorney or law enforcement officer, utilized by a
+459 professional surety company, professional bail company, or
+460 professional bondsman to apprehend a defendant who was
+461 released on bail and who violated the terms of his or her
+462 bail."
+463 "§15-13-202
+464 (a) An individual may not hold himself or herself out
+465 to the public as a professional bondsman or a professional
+466 surety bondsman, operate as a recovery agent, or use any term,
+467 title, or abbreviation that expresses, infers, or implies that
+468 the individual is licensed as a professional bondsman unless
+469 the individual at the time holds a valid license as a
+470 professional bondsman as provided in this article.
+471 (b) All applicants shall pass an examination, unless
+472 exempted by this article, based on criteria established by the
+473 Alabama Professional Bail Bonding Board and established under
+474 Section 15-13-203 and shall comply with the continuing
+475 education requirements established by this article.
+476 (c) The board may issue an apprentice license, which
+Page 17
+
+(c) The board may issue an apprentice license, which
+477 expires 120180 days after issuance, to any applicant who
+478 satisfies all criteria for licensure except passing the
+479 examination. The board may require an applicant for licensurea
+480 license as an apprentice to sign an affidavit, on a form
+481 provided by the board, attesting that the applicant has no
+482 felony convictions. An apprentice license shall only be issued
+483 once, and a licensee who has previously possessed a
+484 professional license may not receive a subsequent apprentice
+485 license. The board, by rule, may also provide an age exception
+486 to allow any applicant who is 19 or 20 years of age to work as
+487 an apprentice until he or she reaches the age of 21 years of
+488 age. Before the expiration of his or her apprentice license,
+489 an apprentice who is 19 or 20 years of age shall complete an
+490 eight-hour continuing education instructional course conducted
+491 by an educational provider approved by the Alabama
+492 Professional Bail Bonding Board, at no cost to the apprentice.
+493 The board may charge a fee, not exceeding fifty dollars ($50),
+494 for an apprentice license.
+495 (d) An apprentice may perform all duties without direct
+496 supervision, except for the apprehension of a fugitive. An
+497 apprentice shall have his or her license available at all
+498 times."
+499 "§15-13-203
+500 (a) The Alabama Professional Bail Bonding Board is
+501 created to administer and enforce this article. The board
+502 shall consist of all of the following members:
+503 (1) Seven professional bondsmen, one from each of the
+504 seven congressional districts of the state, nominated by the
+Page 18
+
+seven congressional districts of the state, nominated by the
+505 Alabama Bail Bond Association and appointed by the Governor
+506 from a list of not more than four nominees for each position
+507 on the board. For the initial terms of office, the President
+508 of the Alabama Bail Bond Association shall be the professional
+509 bondsman member of the board who represents the congressional
+510 district in which he or she resides. Each professional
+511 bondsman member appointed to the board shall be the owner of a
+512 professional bail bond company with at least five years of
+513 experience. Except as otherwise provided, no two professional
+514 bondsman members shall reside in the same congressional
+515 district. If no professional bondsman is available for
+516 nomination by the Alabama Bail Bond Association for a
+517 congressional district, the Alabama Bail Bond Association
+518 shall provide a list of four professional bondsman nominees
+519 from the state at largeat-large to the Governor for that
+520 congressional district, and the Governor shall appoint one of
+521 those nominees to fill that position on the board.
+522 (2) One serving circuit, district, or municipal court
+523 judge, who is presently serving, supernumerary, or retired,
+524 nominated by the Alabama Bail Bond Association and appointed
+525 by the Governor from a list of four nominees.
+526 (3) One serving circuit or municipal court clerk, who
+527 is presently serving, supernumerary, or retired, nominated by
+528 the Alabama Bail Bond AssociationAlabama Circuit Clerks
+529 Association and appointed by the Governor from a list of four
+530 nominees.
+531 (4) One serving sheriff, nominated by the Alabama
+532 Sheriff's Association and appointed by the Governor from a
+Page 19
+
+Sheriff's Association and appointed by the Governor from a
+533 list of four nominees.
+534 (5) One lay person, nominated by the Alabama Bail Bond
+535 Association and appointed by the Governor from a list of four
+536 nominees.
+537 (b) The appointments to the board shall be for terms of
+538 four years. The nominating and appointing authorities shall
+539 coordinate their nominations and appointments so that
+540 diversity of gender, race, and geographical areas is
+541 reflectiveto assure the membership is inclusive and reflects
+542 the racial, gender, geographic, urban, rural, and economic
+543 diversity of the makeup of this state. Vacancies shall be
+544 filled by appointment of the Governor for the unexpired
+545 portion of the term.
+546 (c) The board, pursuant to the Alabama Administrative
+547 Procedure Act, Chapter 22 of Title 41, shall adopt and enforce
+548 reasonable rules as the board determines necessary to
+549 effectively and efficiently carry out its official duty of
+550 licensing and regulating professional bail bond companies and
+551 professional bondsmen.
+552 (d) Each member of the board shall receive travel and
+553 per diem compensation for expenses incurred in the conduct of
+554 official duties while attending meetings and transacting the
+555 business of the board, in accordance with applicable state
+556 travel and per diem paid to state employees. The compensation
+557 of members shall be paid from funds available to the board in
+558 the same manner as other expenses are paid."
+559 "§15-13-205
+560 At the initial meeting of the board and each time a new
+Page 20
+
+At the initial meeting of the board and each time a new
+561 member is appointed to the board, the members of the board
+562 shall select from among their members a presidentchair to
+563 preside over meetings of the board, a vice presidentchair to
+564 preside in the absence of the presidentchair, and a
+565 secretary."
+566 "§15-13-210
+567 (a) An application and all information on an
+568 application for licensurea license pursuant to this article
+569 shall be treated as confidential and shall be filed with the
+570 board on forms prescribed by the board. The application shall
+571 include all of the following information of the applicant:
+572 (1) His or her full name.
+573 (2) His or her date of birth.
+574 (3) All residences during the immediate past five
+575 years.
+576 (4) All employment or occupations engaged in during the
+577 immediate past five years.
+578 (5) A list of convictions and pending charges involving
+579 a felony or misdemeanor in any jurisdiction.
+580 (b)(1) On or before September 1 each year, the board
+581 shall send an email reminder to each licensee stating that the
+582 last day for submitting an application for a license renewal
+583 is September 30 of that year.
+584 (2) Failure to submit a renewal application by
+585 September 30 shall result in a late application fee of one
+586 hundred twenty-five dollars ($125)."
+587 "§15-13-211
+588 Each individual applicant shall meet all of the
+Page 21
+
+Each individual applicant shall meet all of the
+589 following criteria, demonstrating that he or she:
+590 (1) Is at least 21 years of age.
+591 (2) Has not been declared by any court of competent
+592 jurisdiction as incompetent by reason of mental defect or
+593 disease unless a court of competent jurisdiction has
+594 subsequently declared the applicant competent.
+595 (3) Has not been convicted of a crime of moral
+596 turpitude, with the board having the final determination on
+597 the interpretation of moral turpitude.
+598 (4) Has not been convicted of a felony.
+599 (5) Has successfully completed pre-licensurepre-license
+600 education administered by an educational provider approved by
+601 the board.
+602 (6) Has been a resident of this state for at least one
+603 year, as demonstrated by the applicant's Alabama driver
+604 license or Alabama nondriver identification card."
+605 "§15-13-217
+606 (a) A professional bondsman, professional surety
+607 bondsman, or recovery agent commencing business in any
+608 judicial circuit in this state on and after June 1, 2020,
+609 shall attend a 16-hour instructional course conducted by an
+610 educational provider approved by the board and pass an
+611 examination approved by the board and administered by an
+612 educational provider approved by the board. Upon completion of
+613 the course and passage of the examination, the individual
+614 shall be awarded a pre-licensurepre-license examination
+615 certificate by the board, copies of which may be submitted to
+616 the presiding circuit judge, or other judicial authority,
+Page 22
+
+the presiding circuit judge, or other judicial authority,
+617 along with the other requirements set forth in Section
+618 15-13-159 or Section 15-13-160. Those professional bondsmen,
+619 professional surety bondsmen, and recovery agents doing
+620 business immediately prior to June 1, 2020, are exempt from
+621 the initial instructional course and examination.
+622 (b) Unless exempted pursuant to subsection (i), a
+623 professional bondsman, professional surety bondsman, or
+624 recovery agent making an annual filing in any circuit in this
+625 state pursuant to Section 15-13-159 or Section 15-13-160 on
+626 and after March 1, 2020, shall first complete eight hours of
+627 continuing education conducted by an educational provider
+628 approved by the board. A professional bail company owner, who
+629 is at least 55 years of age and has five years of experience
+630 in the profession, shall only be required to complete four
+631 hours of continuing education. The educational provider
+632 approved by the board shall provide the board with the name of
+633 all professional bondsmen, professional surety bondsmen, or
+634 recovery agents completing eight hours of continuing
+635 education. Upon completion of the eight hours of continuing
+636 education, the individual shall request issuance of an annual
+637 continuing education certificate from the board, copies of
+638 which may be submitted to the presiding circuit judge along
+639 with the other requirements set forth in Section 15-13-159 or
+640 Section 15-13-160.
+641 (c) The instructional course, examination, or
+642 continuing education courses shall be taught or sponsored by
+643 an educational provider approved by the board, which must
+644 apply annually for authority to offer such examination or
+Page 23
+
+apply annually for authority to offer such examination or
+645 courses.
+646 (d) A list of approved course providers shall be
+647 published on the website of the board.
+648 (e) The cost of the instructional course shall be set
+649 by the approved course provider but shall not exceed five
+650 hundred dollars ($500) per course. Upon completion of the
+651 instructional course, the approved course provider shall issue
+652 an instructional course completion certificate in a form
+653 approved by the board. This completion certificate, along with
+654 the application fee, must be presented to the board in order
+655 to take the pre-licensurepre-license examination. An
+656 instructional course completion certificate shall be valid for
+657 a period of 12 months.
+658 (f) The cost of continuing education courses shall be
+659 set by the approved course provider but shall not exceed
+660 seventy-five dollars ($75) per hour. Any fee required to be
+661 paid by a course provider for reporting continuing education
+662 course completion to the board may be added to the maximum
+663 charges provided in this subsection.
+664 (g) Each professional bondsman, professional surety
+665 bondsman, and recovery agent must renew his or her
+666 certification with the board by completing eight hours of
+667 approved continuing education prior to September 30 each year.
+668 Late renewal within the next 12 months may be had by
+669 completing the eight hours of continuing education and paying
+670 a renewal license fee of twice the amount otherwise required.
+671 If a professional bondsman, professional surety bondsman, or
+672 recovery agent fails to renew a certification for a 12-month
+Page 24
+
+recovery agent fails to renew a certification for a 12-month
+673 period, the professional bondsman, professional surety
+674 bondsman, or recovery agent will be required to take the
+675 instructional course and examination to again become
+676 certified.
+677 (h) The board, by rule, shall set the fees to be paid
+678 to the board in the administration of this section, not to
+679 exceed the maximum amounts set forth below:
+680 (1)a. Application fee for a professional bondsman,
+681 professional surety bondsman, or a recovery agent, a
+682 nonrefundable fee to be paid to take the examination and for
+683 the issuance of the pre-licensurepre-license examination
+684 certificate, per examination attempt: Up to five hundred
+685 dollars ($500).
+686 b. Application fee for a professional bail company or a
+687 professional surety company, a nonrefundable fee to be paid
+688 for the issuance of an initial license: Up to five hundred
+689 dollars ($500). Payment of this fee does not alleviate the
+690 requirement that each individual professional bondsman,
+691 professional surety bondsman, and recovery agent be licensed
+692 under this chapter.
+693 (2)a. Annual license renewal fee for a professional
+694 bondsman, professional surety bondsman, or recovery agent, to
+695 be paid to receive the annual continuing education
+696 certificate: From fifty dollars ($50) up to five hundred
+697 dollars ($500).
+698 b. Annual license renewal fee for a professional bail
+699 company or a professional surety company, to be paid to
+700 receive the renewal license: Up to one hundred dollars ($100).
+Page 25
+
+receive the renewal license: Up to one hundred dollars ($100).
+701 (3) A late fee to be charged for any late license
+702 renewal. The late fee shall be equal to the amount of the
+703 license renewal fee.
+704 (4) Renewal of an inactive license: Up to one hundred
+705 dollars ($100). The renewal is subject to the following
+706 requirements:
+707 a. A licensee may place their license into inactive
+708 status at anytime and renew the inactive license during the
+709 renewal period.
+710 b. Failure to renew an inactive license will result in
+711 a late fee added to the license renewal fee equal to the
+712 amount of the license renewal fee.
+713 c. The licensee may revert to active status once they
+714 pay for an active license, pass a background check, and
+715 complete the continuing education requirements.
+716 (i) Any professional bondsman or professional bail
+717 company owner who, on August 1, 2021, is at least 65 years of
+718 age and has 15 years of experience in the profession, shall be
+719 exempt from the continuing education requirements of this
+720 article.
+721 (j) The board shall adopt rules necessary to carry out
+722 this section."
+723 Section 2. This act shall become effective on October
+724 1, 2026.
+Page 26

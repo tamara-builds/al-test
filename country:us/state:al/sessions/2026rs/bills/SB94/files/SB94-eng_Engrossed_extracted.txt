@@ -1,0 +1,474 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB94 ENGROSSED
+1 SB94
+2 RBE39YM-2
+3 By Senator Melson
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+SB94 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to disabled parking; to amend Sections
+10 32-6-231, 40-12-300, and Section 32-6-233.1, as last amended
+11 by Act 2025-399 of the 2025 Regular Session, Code of Alabama
+12 1975, to further provide for the unauthorized use of
+13 designated disability parking places; to require certain
+14 individuals to notify the Department of Revenue of the death
+15 of a disabled individual who was issued a windshield placard;
+16 and to authorize the Department of Revenue to create an
+17 electronic scanning system for disability placards.
+18 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+19 Section 1. Section 32-6-233.1, Code of Alabama 1975, as
+20 last amended by Act 2025-399 of the 2025 Regular Session, and
+21 pursuant to that act is effective until October 1, 2028, is
+22 amended to read as follows:
+23 "§32-6-233.1
+24 (a)(1) It shall be unlawful for any person individual
+25 who does not have a distinctive special long-term access or
+26 long-term disability access license plate or placard or
+27 temporary disability placard as provided in Section 32-6-231,
+28 or who is not transporting a passenger who has a distinctive
+Page 1
+
+or who is not transporting a passenger who has a distinctive
+SB94 Engrossed
+29 special long-term access or long-term disability access
+30 license plate or placard or temporary disability placard as
+31 provided in Section 32-6-231, to park a motor vehicle in a
+32 parking place designated for individuals with disabilities at
+33 any place of public accommodation, at any business or legal
+34 entity engaged in interstate commerce or which is subject to
+35 any federal or state laws requiring access by individuals with
+36 disabilities, at any amusement facility or resort, or at any
+37 other place to which the general public is invited or
+38 solicited, even though located on private property., unless
+39 the individual meets one of the following requirements:
+40 a. The individual is the lawful holder of a distinctive
+41 special long-term access or long-term disability access
+42 license plate or placard or a temporary disability placard.
+43 b. The individual is transporting a passenger who is a
+44 lawful holder of a distinctive special long-term access or
+45 long-term disability access license plate or placard or a
+46 temporary disability placard.
+47 (2) Upon conviction, notwithstanding any other penalty
+48 provision that may be authorized or employed, the person
+49 individual shall be fined a minimum of fifty dollars ($50) for
+50 the first offense, a minimum of two hundred dollars ($200) for
+51 the second offense, and a minimum of five hundred dollars
+52 ($500) for the third or any subsequent offense. In addition,
+53 for the second or any subsequent offense under this section
+54 subdivision (1), the person individual shall be ordered by the
+55 court to perform a minimum of 40 hours of either of the
+56 following forms of community service:
+Page 2
+
+following forms of community service:
+SB94 Engrossed
+57 (1)a. Community service for a nonprofit organization
+58 that serves individuals with disabilities or serves
+59 individuals who have a disabling disease.
+60 (2)b. Any other community service that may sensitize
+61 the individuals individual to the needs and obstacles faced
+62 daily by individuals with disabilities.
+63 (b) Any authorized municipal, county, or state law
+64 enforcement officer may go on private property to enforce this
+65 section.
+66 (c) This section may be enforced by any law enforcement
+67 officer who has successfully complied with the minimum
+68 standards for police officers as set forth in Section
+69 36-21-46, including, but not limited to, municipal law
+70 enforcement officers, sheriffs, deputy sheriffs, and Alabama
+71 State Troopers. Any law enforcement officer enforcing this
+72 section may ask for verification that either the driver or a
+73 passenger of the parked vehicle is the lawful holder of a
+74 distinctive special long-term access or long-term disability
+75 access license plate or placard or temporary disability
+76 placard.
+77 (d) Any sign designating a special access parking or
+78 disability access parking place may contain on the sign or
+79 attached to the sign the amount of the fine for a parking
+80 violation on the first offense pursuant to subsection (a).
+81 (e)(1) If the law enforcement officer who issues the
+82 special access parking or disability access parking violation
+83 is employed by a local law enforcement agency, 100 percent of
+84 the fines collected pursuant to this section shall be paid to
+Page 3
+
+the fines collected pursuant to this section shall be paid to
+SB94 Engrossed
+85 the municipal or county general fund for the use of the law
+86 enforcement agency by whom the arresting officer is employed.
+87 (2) If the law enforcement officer who issues the
+88 special access parking or disability access parking violation
+89 is employed by a state law enforcement agency, the fines
+90 collected pursuant to this section shall be remitted to the
+91 State Treasury, to be deposited in a separate fund to be
+92 distributed 50 percent to the law enforcement agency by whom
+93 the arresting officer is employed,; 25 percent to the
+94 Administrative Office of Courts, to be expended for support of
+95 the trial courts,; and 25 percent to the Department of Mental
+96 Health, to be expended for the Individual and Family Support
+97 Program for individuals with developmental disabilities.
+98 (3) All funds deposited to a separate fund in the State
+99 Treasury pursuant to this subsection to be expended by the
+100 Department of Mental Health, the Administrative Office of
+101 Courts, and state law enforcement agencies shall be
+102 appropriated by the Legislature, for the purposes stated in
+103 this subsection. The expenditure of such sums so appropriated
+104 shall be budgeted and allotted pursuant to the Budget
+105 Management Act and Article 4 of Chapter 4 of Title 41. No
+106 monies deposited to this fund shall revert to the State
+107 General Fund at the end of any fiscal year. Prior to the
+108 release of any monies to the Individual and Family Support
+109 Program, such expenditures shall first be approved by the
+110 Commissioner of the Department of Mental Health.
+111 (f) This section shall be held in pari materia with all
+112 other provisions of law related to illegal special access
+Page 4
+
+other provisions of law related to illegal special access
+SB94 Engrossed
+113 parking or disability access parking violations and all laws
+114 or parts of laws which conflict with this section are
+115 repealed.
+116 (g) Municipal law enforcement officers, sheriffs,
+117 deputy sheriffs, and Alabama State Troopers, may cause
+118 vehicles illegally parked in accessible parking spaces to be
+119 towed.
+120 (h) Municipal law enforcement officers, sheriffs,
+121 deputy sheriffs, and Alabama State Troopers may issue
+122 violations for vehicles parked on access aisles. "Access
+123 aisles" are defined as the hash-marked or cross-striped space
+124 spaces that is are five feet or eight feet wide which is and
+125 are directly next to the accessible parking space. "Access
+126 aisle" also has the same definition as contained within the
+127 2010 Accessible Design Standards within the Americans with
+128 Disabilities Act."
+129 Section 2. Section 32-6-233.1, Code of Alabama 1975, as
+130 last amended by Act 2025-399 of the 2025 Regular Session and
+131 pursuant to that act takes effect October 1, 2028, is amended
+132 to read as follows:
+133 "§32-6-233.1
+134 (a)(1) It shall be unlawful for any individual person who does
+135 not have a distinctive special long-term access or long-term
+136 disability access license plate or placard or temporary
+137 disability placard as provided in Section 32-6-231, or who is
+138 not transporting a passenger who has a distinctive special
+139 long-term access or long-term disability access license plate
+140 or placard or temporary disability placard as provided in
+Page 5
+
+or placard or temporary disability placard as provided in
+SB94 Engrossed
+141 Section 32-6-231, to park a motor vehicle in a parking place
+142 designated for individuals with disabilities at any place of
+143 public accommodation, at any business or legal entity engaged
+144 in interstate commerce or which is subject to any federal or
+145 state laws requiring access by individuals with disabilities,
+146 at any amusement facility or resort, or at any other place to
+147 which the general public is invited or solicited, even though
+148 located on private property., unless the individual meets one
+149 of the following requirements:
+150 a. The individual is the lawful holder of a distinctive
+151 special long-term access or long-term disability access
+152 license plate or placard or a temporary disability placard.
+153 b. The individual is transporting a passenger who is a
+154 lawful holder of a distinctive special long-term access or
+155 long-term disability access license plate or placard or a
+156 temporary disability placard.
+157 (2) Upon conviction, notwithstanding any other penalty
+158 provision that may be authorized or employed, the person
+159 individual shall be fined a minimum of fifty dollars ($50) for
+160 the first offense, a minimum of two hundred dollars ($200) for
+161 the second offense, and a minimum of five hundred dollars
+162 ($500) for the third or any subsequent offense. In addition,
+163 for the second or any subsequent offense under this section
+164 subdivision (1), the person individual shall be ordered by the
+165 court to perform a minimum of 40 hours of either of the
+166 following forms of community service:
+167 (1)a. Community service for a nonprofit organization
+168 that serves individuals with disabilities or serves
+Page 6
+
+that serves individuals with disabilities or serves
+SB94 Engrossed
+169 individuals who have a disabling disease.
+170 (2)b. Any other community service that may sensitize
+171 the individuals individual to the needs and obstacles faced
+172 daily by individuals with disabilities.
+173 (b) Any authorized municipal, county, or state law
+174 enforcement officer may go on private property to enforce this
+175 section.
+176 (c) This section may be enforced by any law enforcement
+177 officer who has successfully complied with the minimum
+178 standards for police officers as set forth in Section
+179 36-21-46, including, but not limited to, municipal law
+180 enforcement officers, sheriffs, deputy sheriffs, and Alabama
+181 State Troopers. Any law enforcement officer enforcing this
+182 section may ask for verification that either the driver or a
+183 passenger of the parked vehicle is the lawful holder of a
+184 distinctive special long-term access or long-term disability
+185 access license plate or placard or temporary disability
+186 placard.
+187 (d) Any sign designating a special access parking or
+188 disability access parking place may contain on the sign or
+189 attached to the sign the amount of the fine for a parking
+190 violation on the first offense pursuant to subsection (a).
+191 (e)(1) If the law enforcement officer who issues the
+192 special access parking or disability access parking violation
+193 is employed by a local law enforcement agency, 50 percent of
+194 the fines collected pursuant to this section shall be paid to
+195 the municipal or county general fund for the use of the law
+196 enforcement agency by whom the arresting officer is employed
+Page 7
+
+enforcement agency by whom the arresting officer is employed
+SB94 Engrossed
+197 with the remainder to be remitted to the State Treasury, to be
+198 deposited in a separate fund to be distributed 50 percent to
+199 the Administrative Office of Courts, to be expended for
+200 support of the trial courts, and 50 percent to the Department
+201 of Mental Health, to be expended for the Individual and Family
+202 Support Program for individuals with developmental
+203 disabilities.
+204 (2) If the law enforcement officer who issues the
+205 special access parking or disability access parking violation
+206 is employed by a state law enforcement agency, the fines
+207 collected pursuant to this section shall be remitted to the
+208 State Treasury, to be deposited in a separate fund to be
+209 distributed 50 percent to the law enforcement agency by whom
+210 the arresting officer is employed,; 25 percent to the
+211 Administrative Office of Courts, to be expended for support of
+212 the trial courts,; and 25 percent to the Department of Mental
+213 Health, to be expended for the Individual and Family Support
+214 Program for individuals with developmental disabilities.
+215 (3) All funds deposited to a separate fund in the State
+216 Treasury pursuant to this subsection to be expended by the
+217 Department of Mental Health, the Administrative Office of
+218 Courts, and state law enforcement agencies shall be
+219 appropriated by the Legislature, for the purposes stated in
+220 this subsection. The expenditure of such sums so appropriated
+221 shall be budgeted and allotted pursuant to the Budget
+222 Management Act and Article 4 of Chapter 4 of Title 41. No
+223 monies deposited to this fund shall revert to the State
+224 General Fund at the end of any fiscal year. Prior to the
+Page 8
+
+General Fund at the end of any fiscal year. Prior to the
+SB94 Engrossed
+225 release of any monies to the Individual and Family Support
+226 Program, such expenditures shall first be approved by the
+227 Commissioner of the Department of Mental Health.
+228 (f) This section shall be held in pari materia with all
+229 other provisions of law related to illegal special access
+230 parking or disability access parking violations and all laws
+231 or parts of laws which conflict with this section are
+232 repealed.
+233 (g) Municipal law enforcement officers, sheriffs,
+234 deputy sheriffs, and Alabama State Troopers, may cause
+235 vehicles illegally parked in accessible parking spaces to be
+236 towed.
+237 (h) Municipal law enforcement officers, sheriffs,
+238 deputy sheriffs, and Alabama State Troopers may issue
+239 violations for vehicles parked on access aisles. "Access
+240 aisles" are defined as the hash-marked or cross-striped space
+241 spaces that is are five feet or eight feet wide which is and
+242 are directly next to the accessible parking space. "Access
+243 aisle" also has the same definition as contained within the
+244 2010 Accessible Design Standards within the Americans with
+245 Disabilities Act."
+246 Section 3. Sections 32-6-231 and 40-12-300, Code of
+247 Alabama 1975, are amended to read as follows:
+248 "§32-6-231
+249 (a) Any individual who submits to the license issuing
+250 official a completed special access parking or disability
+251 access parking application form approved by the Commissioner
+252 of Revenue which includes the physician's certification that
+Page 9
+
+of Revenue which includes the physician's certification that
+SB94 Engrossed
+253 he or she is an individual with a disability shall be issued
+254 one removable windshield placard displaying the Dynamic
+255 Accessibility Symbol, thereby designating the driver of the
+256 vehicle or the passenger as being an individual with a
+257 disability.
+258 (1) The removable windshield placard shall be prepared
+259 by the commissioner in conformity to Public Law 100-641 and
+260 rulemaking resulting therefrom.
+261 (2)a. The removable windshield placard issued to the
+262 individual with a long-term disability shall expire after a
+263 maximum period of five years or any period less than five
+264 years to be designated by the commissioner. The placard shall
+265 clearly reveal the expiration date and shall be designed in
+266 accordance with Public Law 100-641 and rulemaking resulting
+267 therefrom to hang from the front windshield rearview mirror
+268 when the vehicle is parked in a parking space reserved for
+269 individuals with disabilities. If the vehicle lacks a rearview
+270 mirror, the placard shall be placed on the dashboard.
+271 b. The commissioner may require all individuals with
+272 long-term disabilities to be recertified by a licensed
+273 physician before special access or disability access parking
+274 new removable windshield placards may be reissued.
+275 (3) In the event that an individual with a disability
+276 does not have the distinctive special access or disability
+277 access license plate as provided by Sections 40-12-300 to
+278 40-12-302, inclusive under Division 3 of Article 5 of Chapter
+279 12 of Title 40, upon request, a second placard may be issued.
+280 (b) The commissioner may adopt any rules necessary to
+Page 10
+
+(b) The commissioner may adopt any rules necessary to
+SB94 Engrossed
+281 administer this division.
+282 (c) An individual with a temporary disability, who
+283 submits to the license issuing official a completed special
+284 access or disability access application form approved by the
+285 commissioner which includes the physician's certification that
+286 he or she is an individual with a temporary disability, shall
+287 be issued one temporary removable windshield placard for a
+288 period valid up to six months.
+289 (d)(1) A removable windshield placard issued to an
+290 individual with a long-term or temporary disability shall
+291 expire one week following the death of the disabled
+292 individual.
+293 (2) The executor of the estate of any disabled
+294 individual who has been issued a removable windshield placard
+295 shall notify the Department of Revenue of the disabled
+296 individual's death either at the time of probate proceedings
+297 or within 90 days of the disabled individual's death,
+298 whichever comes first.
+299 (e) Any special access or disability access placard
+300 that is not in conformity with the federal system rule for
+301 parking reserved for individuals with disabilities, Public Law
+302 100-641, and subsequent Rule 23 C.F.R. § 1235, shall not be
+303 recognized as a valid disabled parking credential."
+304 "§40-12-300
+305 (a)(1) The distinctive license plates provided for
+306 herein shall be prepared by the Commissioner of Revenue and
+307 shall be issued through the county license issuing officials
+308 of the state in the same manner as are other motor vehicle
+Page 11
+
+of the state in the same manner as are other motor vehicle
+SB94 Engrossed
+309 license plates. An applicant for a distinctive plate shall
+310 present to the issuing official documentation that he or she
+311 is either of the following:
+312 a. A parent, stepparent, or legal guardian of a minor
+313 or an adult who is an individual with a disability as defined
+314 in Section 32-6-230.
+315 b. An individual with a disability as defined in
+316 Section 32-6-230.
+317 (2) Upon presentation of the required documentation,
+318 the applicant shall be issued the requested number of special
+319 access or disability access distinctive license plates upon
+320 the payment of the regular license fee, as provided by law.
+321 (b) Any private agency, nursing home, church, or
+322 charitable institution that submits to the licensing authority
+323 proof satisfactory to the commissioner that it operates a
+324 motor vehicle for the primary purpose of transporting one or
+325 more individuals with disabilities may apply for the
+326 distinctive plates. Applicants shall pay the regular fees for
+327 license plates, as provided by law.
+328 (c) Any government agency that applies for a license
+329 plate for a vehicle that it owns for the primary purpose of
+330 transporting individuals with disabilities shall be issued the
+331 requested number of license plates according to Section
+332 40-12-250, with the plate displaying the Dynamic Accessibility
+333 Symbol embossed on the plate.
+334 (d) The distinctive license plates shall be used only
+335 upon and for personally-owned, private, or government owned
+336 and operated passenger vehicles, including, but not limited
+Page 12
+
+and operated passenger vehicles, including, but not limited
+SB94 Engrossed
+337 to, vans, station wagons, buses, motorcycles, and pickup
+338 trucks, registered in the name of the individual or public or
+339 private agency, nursing home, church, or charitable
+340 institution making application therefor, and when issued to
+341 the applicant shall be used upon the vehicle for which issued
+342 in lieu of the standard license plates normally issued for the
+343 vehicle. This division shall not be construed to require an
+344 individual with a disability to display a distinctive special
+345 access or disability access license plate. It is specifically
+346 provided that this division shall be construed in pari materia
+347 with Section 32-6-231. The commissioner may adopt any rules
+348 necessary to carry out this division.
+349 (e) The commissioner may require all individuals with
+350 long-term disabilities to be recertified by a licensed
+351 physician before special access parking or disability access
+352 parking license plates may be reissued.
+353 (f) Notwithstanding any provision of this section, a
+354 motor vehicle may not be parked in an area reserved for
+355 individuals with disabilities to park, in a manner that
+356 violates Section 32-6-233.1, shall be subject to the penalties
+357 provided therein. unless the individual with a disability is
+358 in the vehicle."
+359 Section 4. (a) The Department of Revenue shall develop
+360 and implement an electronic scanning system through which a
+361 scannable barcode or quick response code shall appear on
+362 disability placards and, upon scanning, shall link to the
+363 disability placard holder's name and the status of the
+364 disability placard.
+Page 13
+
+disability placard.
+SB94 Engrossed
+365 (b) The Commissioner of Revenue shall adopt rules as
+366 necessary to implement this section. At a minimum, the rules
+367 shall address all of the following:
+368 (1) The creation of a scannable barcode or quick
+369 response code linked to a disability placard holder's name and
+370 the status of the disability placard as active or expired.
+371 (2) The appearance of the scannable barcode or quick
+372 response code on disability placards.
+373 (3) That the system and the information contained
+374 within the system may only be accessed by the Department of
+375 Revenue and law enforcement agencies enforcing Sections
+376 32-6-233 and 32-6-233.1, Code of Alabama 1975.
+377 Section 5. This act shall become effective on October
+378 1, 2026, except Section 2 shall become effective October 1,
+379 2028.
+Page 14
+
+2028.
+SB94 Engrossed
+380
+381
+382 Senate
+383 Read for the first time and referred ................13-Jan-26
+384 to the Senate committee on Judiciary
+385
+386 Read for the second time and placed ................21-Jan-26
+387 on the calendar:
+388 0 amendments
+389
+390 Read for the third time and passed ................19-Feb-26
+391 as amended
+392 Yeas 28
+393 Nays 0
+394 Abstains 0
+395
+396
+397 Patrick Harris,
+398 Secretary.
+399
+Page 15

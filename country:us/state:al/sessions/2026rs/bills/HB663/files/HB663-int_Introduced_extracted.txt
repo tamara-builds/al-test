@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB663 INTRODUCED
+1 HB663
+2 V71XZVV-1
+3 By Representative Faulkner
+4 RFD: Ways and Means General Fund
+5 First Read: 31-Mar-26
+Page 0
+
+First Read: 31-Mar-26
+V71XZVV-1 03/27/2026 CMH (L)CMH 2026-1466
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an excise tax in the amount
+6 of $0.10 per milliliter is assessed against consumable
+7 vapor products sold in the state.
+8 This bill would revise the calculation of the
+9 excise tax based on the amount of nicotine in the
+10 consumable vapor product.
+11 This bill would require each consumable vapor
+12 product to be properly labeled with information stating
+13 the amount of nicotine in the product and the total
+14 liquid content of the product.
+15 This bill would also provide civil penalties for
+16 violations of the product label requirements.
+17
+18
+19 A BILL
+20 TO BE ENTITLED
+21 AN ACT
+22
+23 Relating to consumable vapor products; to amend Section
+24 40-25-81, Code of Alabama 1975, as added by Act 2025-377, 2025
+25 Regular Session, to further provide for the excise tax on
+26 consumable vapor products based on quantity of nicotine; to
+27 provide product labeling requirements for consumable vapor
+28 products; to require the Alcoholic Beverage Control Board to
+Page 1
+
+products; to require the Alcoholic Beverage Control Board to
+HB663 INTRODUCED
+29 assess fines against e-liquid manufacturers for labeling
+30 violations; and to require the board to assess fines for
+31 retail violations concerning improperly labeled consumable
+32 vapor products.
+33 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+34 Section 1. Section 40-25-81, Code of Alabama 1975, as
+35 added by Act 2025-377, 2025 Regular Session, is amended to
+36 read as follows:
+37 "§40-25-81
+38 (a)(1) Beginning October 1, 2026, there is levied an
+39 excise tax upon all consumable vapor products sold at
+40 wholesale in this state or imported into this state for use,
+41 consumption, or sale at retail. The tax shall be tenlevied as
+42 follows:
+43 a. Ten cents ($0.10) per milliliter of a consumable
+44 vapor product containing more than six milligrams per
+45 milliliter of nicotine from tobacco, synthetic nicotine, or
+46 any tobacco substitute as defined under Section 28-11-2.
+47 b. Except as provided in paragraph c., five cents
+48 ($0.05) per milliliter of a consumable vapor product
+49 containing six milligrams or less per milliliter of nicotine
+50 from tobacco, synthetic nicotine, or any tobacco substitute as
+51 defined under Section 28-11-2.
+52 c. Ten cents ($0.10) per milliliter of a consumable
+53 vapor product if the label required in Section 2(a) of the act
+54 amending this section is not affixed to the consumable vapor
+55 product.
+56 (2) The tax shall not apply to sales between licensed
+Page 2
+
+(2) The tax shall not apply to sales between licensed
+HB663 INTRODUCED
+57 wholesalers, it being the purpose and intent of this provision
+58 that the tax levied is a levy on the ultimate consumer or user
+59 of consumable vapor products with the wholesaler acting merely
+60 as an agent of the state for the collection and payment of the
+61 tax to the state.
+62 (b)(1) Except as provided in subdivision (2), the tax
+63 shall be in addition to all other licenses and taxes levied by
+64 law.
+65 (2) The tax levied in subsection (a) shall be in lieu
+66 of any business license fee measured by the volume of sale for
+67 selling consumable vapor products. Any act of the Legislature
+68 or resolution by a county commission passed or enacted on or
+69 before October 1, 2025, imposing a business license fee on
+70 engaging in the business of selling consumable vapor products,
+71 is void. Nothing in this section shall be construed to
+72 restrict a municipality's authority to issue a business
+73 license pursuant to Article 2 of Chapter 51 of Title 11 on the
+74 privilege of doing business as a consumable vapor products
+75 wholesaler, importer, or retailer. Any business license issued
+76 pursuant to Article 2 of Chapter 51 of Title 11 shall not be
+77 measured by the volume of sale for selling consumable vapor
+78 products.
+79 (3) Notwithstanding any other provision of this
+80 article, an act of the Legislature or an ordinance or
+81 resolution by a taxing authority passed or enacted on or
+82 before October 1, 2025, imposing or providing for the levy of
+83 a local tax or license fee shall remain operative; however, no
+84 additional local tax or license fee may be levied on the sale
+Page 3
+
+additional local tax or license fee may be levied on the sale
+HB663 INTRODUCED
+85 of consumable vapor products after October 1, 2025.
+86 (c) The tax shall not apply to any consumable vapor
+87 product exported from this state for which proof of export is
+88 available in the form of a bill of lading, shipping document,
+89 or invoice."
+90 Section 2. (a) Every e-liquid manufacturer, as defined
+91 under Section 28-11-2, Code of Alabama 1975, shall include
+92 both of the following on the label of each e-liquid product:
+93 (1) The amount of nicotine in milligrams per milliliter
+94 of liquid.
+95 (2) The total volume of the liquid contents of the
+96 e-liquid product, expressed in milliliters.
+97 (b) If an e-liquid manufacturer, as defined under
+98 Section 28-11-2, Code of Alabama 1975, sells, furnishes, or
+99 gives away a consumable vapor product, as defined under
+100 Section 40-25-80, Code of Alabama 1975, without a label
+101 required in subsection (a), the Alcoholic Beverage Control
+102 Board shall assess against the e-liquid manufacturer a one
+103 thousand dollar ($1,000) fine for each day the product is
+104 offered for sale in violation of this section. The fine shall
+105 continue to be assessed each day until the offending product
+106 is removed from the market or until the offending product is
+107 properly labeled.
+108 (c) If a retailer holding a permit under Section
+109 28-11-7 or 28-11-7.1, Code of Alabama 1975, for the retail
+110 sale of electronic nicotine delivery systems offers for sale a
+111 consumable vapor product not labeled as required in subsection
+112 (a), the Alcoholic Beverage Control Board shall assess the
+Page 4
+
+(a), the Alcoholic Beverage Control Board shall assess the
+HB663 INTRODUCED
+113 following administrative penalties:
+114 (1) For a first offense within a four-year period, an
+115 administrative penalty of one thousand dollars ($1,000).
+116 (2) For a second offense within a four-year period, an
+117 administrative penalty of two thousand five hundred dollars
+118 ($2,500).
+119 (3) For a third or subsequent offense within a
+120 four-year period, an administrative penalty of five thousand
+121 dollars ($5,000). In addition, the board shall revoke the
+122 permit of the permit holder and no permit may be issued to the
+123 permit holder for a minimum of one year after the date of
+124 revocation.
+125 Section 3. This act shall become effective on October
+126 1, 2026.
+Page 5

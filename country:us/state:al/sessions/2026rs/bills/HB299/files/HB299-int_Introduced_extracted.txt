@@ -1,0 +1,632 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB299 INTRODUCED
+1 HB299
+2 XDIF5EE-1
+3 By Representative Oliver
+4 RFD: Health
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+XDIF5EE-1 10/10/2025 ZAK (L)ma 2025-2995
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama State Board of
+6 Respiratory Therapy regulates the practice of
+7 respiratory therapy in this state.
+8 This bill would authorize respiratory therapists
+9 to practice under the direction of an advanced practice
+10 healthcare provider in addition to a physician.
+11 This bill would revise the requirements that
+12 must be satisfied by an individual to be licensed by
+13 the board.
+14 This bill would add a member to the board.
+15 This bill would further provide for the issuance
+16 and privileges of temporary licenses.
+17 This bill would also provide criminal penalties
+18 for fraudulently obtaining a license or holding one's
+19 self out as a licensed respiratory therapist without a
+20 license.
+21
+22
+23
+24 A BILL
+25 TO BE ENTITLED
+26 AN ACT
+27
+28 Relating to the Alabama State Board of Respiratory
+Page 1
+
+Relating to the Alabama State Board of Respiratory
+HB299 INTRODUCED
+29 Therapy; to amend Sections 34-27B-2, 34-27B-3, 34-27B-4,
+30 34-27B-5, 34-27B-7, 34-27B-8, 34-27B-9, and 34-27B-11, Code of
+31 Alabama 1975, to authorize respiratory therapists to practice
+32 under certain advanced practice health care providers; to
+33 further provide for and revise requirements for licensure; to
+34 further provide for the duties and composition of the board;
+35 to further provide for temporary licenses; to add Section
+36 34-27B-8.1 to the Code of Alabama 1975, to provide criminal
+37 penalties for certain actions; and to repeal Section
+38 34-27B-12, Code of Alabama 1975, requiring the board to
+39 provide notice of regulations to respiratory therapists
+40 practicing on May 17, 2004.
+41 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+42 Section 1. Sections 34-27B-2, 34-27B-3, 34-27B-4,
+43 34-27B-5, 34-27B-7, 34-27B-8, 34-27B-9, and 34-27B-11, Code of
+44 Alabama 1975, are amended to read as follows:
+45 "§34-27B-2
+46 As used in this chapter, the following terms shall have
+47 the following meanings:
+48 (1) BOARD. The Alabama State Board of Respiratory
+49 Therapy.
+50 (2) DIRECT CLINICAL SUPERVISION. A situation where a
+51 licensed respiratory therapist or physician is available for
+52 the purpose of communication, consultation, and assistance.
+53 (3) HEALTHCARE HEALTH CARE FACILITY. The definition
+54 shall be the same meaning as in Section 22-21-260.
+55 (4) LICENSED ADVANCED PRACTICE PROVIDER. A health care
+56 professional who undergoes specialized education, training,
+Page 2
+
+professional who undergoes specialized education, training,
+HB299 INTRODUCED
+57 and certification to provide services such as medical
+58 diagnosis and treatment. The term includes a physician
+59 assistant, certified registered nurse practitioner, or
+60 certified registered nurse anesthetist with prescribing
+61 authority.
+62 (4)(5) MEDICALLY APPROVED PROTOCOL. A detailed plan for
+63 taking specific diagnostic or treatment actions, or both,
+64 authorized by the treating physician of the patient, all of
+65 which actions shall be which is:
+66 a. In a hospital or other inpatient health care
+67 facility, approved by the supervising physician of the
+68 respiratory therapist or in an outpatient treatment setting
+69 approved by the supervising physician of the respiratory
+70 therapist.;
+71 b. Except in cases of medical emergency, instituted
+72 following an evaluation of the patient by a physician or
+73 otherwise directed by the supervising physician of the
+74 respiratory therapist.; and
+75 c. Consistent with the definition of the scope of
+76 practice of respiratory therapy, as established by this
+77 chapter.
+78 (5)(6) PHYSICIAN. A person An individual who is a
+79 doctor of medicine or a doctor of osteopathy licensed to
+80 practice in this state.
+81 (6)(7) RESPIRATORY THERAPIST. A person An individual
+82 licensed by the board to administer respiratory therapy and
+83 who has the knowledge and skills necessary to administer
+84 respiratory therapy, monitor patient responses, modify
+Page 3
+
+respiratory therapy, monitor patient responses, modify
+HB299 INTRODUCED
+85 respiratory therapy based upon patient response, provide
+86 information and education to patients about deficiencies or
+87 disorders of the cardiopulmonary system, and supervise others
+88 in the delivery of appropriate respiratory therapy procedures.
+89 (7)(8) RESPIRATORY THERAPY OR CARE. Therapy,
+90 management, rehabilitation, diagnostic evaluation, and care of
+91 patients with deficiencies and abnormalities of the
+92 cardiopulmonary system and associated aspects of other
+93 systems' functions, given by a health care professional
+94 respiratory therapist under the direction of a physician or
+95 licensed advanced practice provider. The term includes, but is
+96 not limited to, the following activities conducted upon
+97 written prescription, verbal order, or medically approved
+98 protocol:
+99 a. Direct and indirect pulmonary care services that are
+100 safe, aseptic, preventive, or restorative to the patient.
+101 b. Direct and indirect respiratory therapy services,
+102 including, but not limited to, the administration of
+103 pharmacologic, diagnostic, and therapeutic agents related to
+104 respiratory therapy procedures necessary to implement a
+105 treatment, disease prevention, pulmonary rehabilitative, or
+106 diagnostic regimen prescribed by a physician or a licensed
+107 advanced practice provider.
+108 c. Observation and monitoring of signs and symptoms,
+109 general behavior, and general physical response to respiratory
+110 therapy treatment and diagnostic testing and determination of
+111 whether such these signs, symptoms, reactions, behavior, or
+112 general responses exhibit abnormal characteristics, and
+Page 4
+
+general responses exhibit abnormal characteristics, and
+HB299 INTRODUCED
+113 implementation, based on observed abnormalities, of
+114 appropriate reporting or referral practices or prescribed and
+115 medically approved respiratory therapy protocols or
+116 appropriate changes in a treatment regimen, pursuant to a
+117 prescription by a physician or a licensed advanced practice
+118 provider, or the initiation of emergency procedures.
+119 d. The diagnostic and therapeutic use of any of the
+120 following, in accordance with the prescription of a physician
+121 or a licensed advanced practice provider:
+122 1. Administration of medical gases, exclusive of not
+123 including general anesthesia.
+124 2. Aerosols.
+125 3. Humidification.
+126 4. Environmental control systems and hyperbaric
+127 therapy.
+128 5. Pharmacologic agents related to respiratory therapy
+129 procedures.
+130 6. Mechanical or physiological ventilatory support.
+131 7. Bronchopulmonary hygiene.
+132 8. Cardiopulmonary resuscitation.
+133 9. Maintenance of the natural airways.
+134 10. Insertion without cutting tissues and maintenance
+135 of artificial airways.
+136 11. Diagnostic and testing techniques required for
+137 implementation of respiratory therapy protocols.
+138 12. Collections of specimens of blood and other body
+139 fluids including specimens from the respiratory tract.
+140 13. Collection of inspired and expired gas samples.
+Page 5
+
+13. Collection of inspired and expired gas samples.
+HB299 INTRODUCED
+141 14. Analysis of blood, gases, and respiratory
+142 secretions.
+143 15. Measurements of ventilatory volumes, pressures, and
+144 flows.
+145 16. Pulmonary function testing.
+146 17. Hemodynamic and other related physiologic
+147 measurements of the cardiopulmonary system.
+148 18. Respiratory telecommunications.
+149 19. Cardiopulmonary disease management.
+150 20. Tobacco cessation.
+151 e. The transcription and implementation of the written
+152 and verbal orders of a physician or licensed advanced practice
+153 provider pertaining to the practice of respiratory therapy.
+154 f. Institution of known and medically approved
+155 protocols relating to respiratory therapy in emergency
+156 situations in the absence of immediate direction by a
+157 physician or licensed advanced practice provider and
+158 institution of specific procedures and diagnostic testing
+159 related to respiratory therapy as ordered by a physician to
+160 assist in diagnosis, monitoring, treatment, and medical
+161 research.
+162 g. Delivery of respiratory therapy procedures,
+163 instruction, and education of patients in the proper methods
+164 of self-care and prevention of cardiopulmonary diseases and
+165 other conditions requiring the use of respiratory therapy
+166 equipment or techniques."
+167 "§34-27B-3
+168 (a) Except as provided in Section 34-27B-7, no person
+Page 6
+
+(a) Except as provided in Section 34-27B-7, no person
+HB299 INTRODUCED
+169 individual shall hold himself or herself out to be, or
+170 function as, a respiratory therapist in this state unless
+171 licensed in accordance with this chapter.
+172 (b) In order to obtain a respiratory therapist license,
+173 an applicant shall demonstrate to the board that he or she:
+174 (i) is a citizen of the United States or, if not a citizen of
+175 the United States, a person an individual who is legally
+176 present in the United States with appropriate documentation
+177 from the federal government,; (ii) is at least 18 years of
+178 age,; (iii) is a high school graduate, or has the equivalent
+179 of a high school diploma,; (iv) demonstrates good moral
+180 character; and (v) meets one of the following requirements:
+181 (1) Holds and maintains credentials as a registered
+182 respiratory therapist (RRT) or a certified respiratory
+183 therapist (CRT), as granted by the National Board for
+184 Respiratory Care or its successor organization.
+185 (2) Holds a temporary license issued under subsection
+186 (d) of Section 34-27B-7 and passes the examination leading to
+187 the CRT or RRT credential.
+188 (3) Has a valid respiratory therapist license from
+189 another state, the District of Columbia, or a territory of the
+190 United States, whose requirements for licensure are considered
+191 by the board as substantially similar to those of Alabama this
+192 state and who otherwise meets the reciprocity requirements
+193 established by the board.
+194 (4) Meets the requirements of subdivision (2) of
+195 subsection (d) of Section 34-27B-7.
+196 (5)(4) Has been approved by the board as otherwise
+Page 7
+
+(5)(4) Has been approved by the board as otherwise
+HB299 INTRODUCED
+197 qualified by special training and has passed the licensure
+198 examination established by the board in subsection (c).
+199 (c) The board shall arrange for the administration of a
+200 licensure examination administered by the state or a national
+201 agency approved by the board. The examination shall be
+202 validated and nationally recognized as testing respiratory
+203 care competencies. The board may enter into agreements or
+204 contracts, consistent with state law, with outside
+205 organizations for the purpose of developing, administering,
+206 grading, and reporting the results of licensure examinations.
+207 Such These organizations shall be capable of meeting the
+208 standards of the National Commission for Health Certifying
+209 Agencies, or its equivalent or successor organization. The
+210 board shall establish criteria for satisfactory performance on
+211 the examination.
+212 (d) The board may request a criminal history background
+213 check of an applicant for the purpose of determining an
+214 applicant's suitability for a license to practice respiratory
+215 therapy. If requested by the board, the applicant shall submit
+216 a full set of fingerprints to the board for the purpose of
+217 obtaining a state and national criminal history background
+218 check.
+219 (2) Fingerprints obtained pursuant to subdivision (1)
+220 may be exchanged by the board, the Alabama State Law
+221 Enforcement Agency, or any successor entity thereof, or any
+222 channeler approved by the board, with the Federal Bureau of
+223 Investigation for the purpose of obtaining a state and
+224 national criminal history background check.
+Page 8
+
+national criminal history background check.
+HB299 INTRODUCED
+225 (3) The applicant shall be responsible for all costs
+226 associated with the submission of his or her fingerprints and
+227 obtaining a state and national criminal history background
+228 check. The board may incorporate those costs into the cost of
+229 licensing or may charge the applicant a separate fee, which
+230 may be payable to the board, the Alabama State Law Enforcement
+231 Agency, or any successor entity thereof, or the approved
+232 channeler, as appropriate.
+233 (4) Information received by the board pursuant to a
+234 state and national criminal history background check shall be
+235 confidential and shall not be a public record, except that any
+236 information received by and relied upon by the board in
+237 denying the issuance of a license may be disclosed as
+238 necessary to support the denial."
+239 "§34-27B-4
+240 (a) The board shall perform all of the following
+241 functions:
+242 (1) Set respiratory therapy licensure fees, including,
+243 but not limited to, application, initial, renewal, and
+244 reinstatement fees.
+245 (2) Establish and publish minimum standards of
+246 continuing education of respiratory therapy in accordance with
+247 those standards developed and accepted by the profession.
+248 (3) Examine for, approve, deny, revoke, suspend, and
+249 renew licensure of duly qualified applicants.
+250 (4) Promulgate Adopt and publish rules in accordance
+251 with the Administrative Procedure Act to administer this
+252 chapter.
+Page 9
+
+chapter.
+HB299 INTRODUCED
+253 (5) Conduct hearings on charges calling for the denial,
+254 suspension, revocation, or refusal to renew a license.
+255 (6) Maintain an up-to-date list of every person
+256 individual licensed to practice respiratory therapy pursuant
+257 to this chapter. The list shall include the last known place
+258 of residence and the state license number of the licensee.
+259 (7) Maintain an up-to-date list of persons individuals
+260 whose licenses have been suspended, revoked, or denied. The
+261 list shall include the name, Social Security number, type,
+262 date, and cause of action, penalty incurred, and the length of
+263 the penalty. The information on the list, except for Social
+264 Security numbers, shall be available for public inspection
+265 during reasonable business hours and the information may be
+266 shared with others as deemed necessary and acceptable by the
+267 board.
+268 (b) The board, by rule, shall prorate fees as
+269 appropriate and shall provide applicants and licensees with
+270 verification of receipt of fees."
+271 "§34-27B-5
+272 (a)(1) The Alabama State Board of Respiratory Therapy
+273 is created to implement and administer this chapter and shall
+274 be composed of six seven members appointed by the Governor.
+275 Three Four of the members shall be respiratory therapists, one
+276 member shall be the chief executive officer of a hospital, one
+277 member shall be a physician, and one member shall be a
+278 consumer.
+279 (2) The respiratory therapist members of the board
+280 appointed by the Governor shall be selected from a list of
+Page 10
+
+appointed by the Governor shall be selected from a list of
+HB299 INTRODUCED
+281 names submitted by the Alabama Society for Respiratory Care.
+282 The list shall include two names for each appointed position
+283 to be filled. The respiratory therapist members appointed to
+284 the board shall be registered or certified by the National
+285 Board for Respiratory Care or its successor organization.
+286 Respiratory therapists appointed to the initial board must be
+287 eligible to obtain a license under this chapter. Respiratory
+288 therapists selected for subsequent appointments must and be
+289 licensed by the state board.
+290 (3) The hospital member shall be selected from a list
+291 of two names submitted by the Alabama Hospital Association.
+292 (4) The physician member appointed shall be duly
+293 licensed to practice medicine in Alabama and shall be a member
+294 of at least one of the following: The American Thoracic
+295 Society, the American College of Chest Physicians, the
+296 American Society of Anesthesiologists, or the American Academy
+297 of Pediatrics. The physician member of the board appointed by
+298 the Governor shall be selected from a list of two names
+299 submitted by the Medical Association of the State of Alabama.
+300 (5) The consumer member appointed by the Governor shall
+301 be selected from one of the names submitted by the American
+302 Lung Association in Alabama, the Alabama Chapter of the Cystic
+303 Fibrosis Foundation, and the Alabama Asthma Coalition. Each
+304 entity shall submit one name for consideration.
+305 (b) All board members shall be residents of Alabama and
+306 all appointing authorities shall coordinate their appointments
+307 so that diversity of gender, race, and geographical areas is
+308 reflective of the makeup to assure the board's membership is
+Page 11
+
+reflective of the makeup to assure the board's membership is
+HB299 INTRODUCED
+309 inclusive and reflects the racial, gender, geographic, urban,
+310 rural, and economic diversity of this state.
+311 (c) The Governor shall make the appointments for all
+312 positions for members of the board within 90 days of the date
+313 the position becomes available, including initial
+314 appointments, vacancies, and replacements at the end of the
+315 term of service. All members shall continue to serve until a
+316 successor is appointed.
+317 (d) Members of the board shall have the same immunities
+318 from personal liability as state employees for actions taken
+319 in the performance of their official duties.
+320 (e) The term of office of those members first appointed
+321 shall be as follows: Two respiratory therapists and the
+322 hospital member, as determined by the Governor, shall serve
+323 for terms of two years, and one respiratory therapist and the
+324 physician member shall serve for terms of four years. The
+325 additional respiratory therapist member appointed after
+326 October 1, 2026, shall serve an initial term of not more than
+327 four years as determined by the Governor. Thereafter, the term
+328 of all members, including the consumer member, shall be for
+329 four years. No member shall be appointed for more than three
+330 consecutive full terms. A vacancy in an unexpired term shall
+331 be filled in the manner of the original appointment. The board
+332 shall elect a chair and vice chair annually.
+333 (f) The board shall meet at least twice each year at a
+334 time and place determined by the chair. A majority of the
+335 members of the board shall constitute a quorum for the
+Page 12
+
+members of the board shall constitute a quorum for the
+HB299 INTRODUCED
+336 transaction of business.
+337 (g) Each member shall serve without compensation, but
+338 shall be reimbursed for travel expenses incurred in attendance
+339 at meetings of the board and any other expenses incurred on
+340 business of the board at its discretion. Board members shall
+341 also receive a per diem allowance following the guidelines for
+342 state employees. The reimbursement for expenses and per diem
+343 shall be paid from funds derived from the Alabama State Board
+344 of Respiratory Therapy Fund."
+345 "§34-27B-7
+346 (a) The board shall issue a respiratory therapist
+347 license to any person individual who meets the qualifications
+348 required by this chapter and who pays the license fee
+349 established herein.
+350 (b) Any person individual who is issued a regular or
+351 temporary respiratory therapy license as a respiratory
+352 therapist under this chapter may use the words "licensed
+353 respiratory therapist" or the letters "L.R.T." in connection
+354 with his or her name to denote his or her license.
+355 (c) A license issued under this chapter shall be
+356 subject to biennial renewal every two years.
+357 (d)(1) The board may issue a six-month temporary
+358 license as a respiratory therapist to persons individuals who
+359 have graduated from a respiratory therapy educational program
+360 accredited by the Council on Allied Health Education Programs
+361 (CAHEP) in collaboration with the Committee on Accreditation
+362 for Respiratory Care (CoARC), or their successor
+363 organizations, and who have applied for and are awaiting
+Page 13
+
+organizations, and who have applied for and are awaiting
+HB299 INTRODUCED
+364 competency examination. The temporary license shall be
+365 renewable only once for an additional six-month period if the
+366 applicant fails the examination. Exceptions may be made at the
+367 discretion of the board based upon an appeal identifying
+368 extenuating circumstances. The holder of a temporary license
+369 may only provide respiratory therapy or care activities,
+370 services, and procedures as defined in Section 34-27B-2 under
+371 the direct clinical supervision of a licensed onsite
+372 respiratory therapist or physician.
+373 (2) The board shall grant a license as a respiratory
+374 therapist to other persons who do not meet the qualifications
+375 for licensure pursuant to Section 34-27B-3, but who, on the
+376 effective date of the adoption of the rules and regulations of
+377 the board, are currently employed in the administration of
+378 respiratory therapy under the direction of a physician in the
+379 State of Alabama. The opportunity to apply for a respiratory
+380 therapy license issued under this subdivision shall expire 365
+381 days after implementation of the rules of the board. Holders
+382 of these licenses shall be eligible to renew their licenses as
+383 are any other licensed respiratory therapists under this
+384 chapter."
+385 "§34-27B-8
+386 (a) The board may refuse to renew a license, may
+387 suspend or revoke a license, may impose probationary
+388 conditions, or may impose an administrative fine not to exceed
+389 five hundred dollars ($500) per violation, as disciplinary
+390 actions if a licensee or applicant for licensure has been
+391 found guilty of unprofessional conduct that has endangered, or
+Page 14
+
+found guilty of unprofessional conduct that has endangered, or
+HB299 INTRODUCED
+392 is likely to endanger, the health, welfare, or safety of the
+393 public. Unprofessional conduct includes, but is not limited
+394 to, each of the following:
+395 (1) Obtaining a license by means of fraud,
+396 misrepresentation, or concealment of material facts.
+397 (2) Being found guilty of unprofessional conduct as
+398 defined by the rules established by the board, or violating
+399 the code of ethics adopted and published by the American
+400 Association for Respiratory Care or its successor
+401 organization.
+402 (3) Conviction of a crime, other than a minor offense,
+403 in any court if the offense has a direct bearing on whether
+404 the person should be entrusted to serve the public in the
+405 capacity of a respiratory therapist.
+406 (b) The board, after a hearing, may exercise the
+407 disciplinary actions authorized in subsection (a). The board
+408 shall adopt policies for the conduct of the hearings. One year
+409 after the date of the revocation of a license, application may
+410 be made to the board for reinstatement. The board shall hold a
+411 hearing to consider any application for reinstatement.
+412 (c) The board may establish adopt rules regarding the
+413 disciplinary actions authorized in subsection (a) in
+414 accordance with the Administrative Procedure Act.
+415 (d) A suspended license is subject to expiration during
+416 the suspension period.
+417 (e) The board may subpoena any person or document and
+418 take testimony to carry out this chapter.
+419 (f) The board shall promote the early identification,
+Page 15
+
+(f) The board shall promote the early identification,
+HB299 INTRODUCED
+420 intervention, treatment, and rehabilitation of respiratory
+421 therapy licensees who may be impaired by reason of illness,
+422 inebriation, excessive use of drugs, narcotics, alcohol,
+423 chemicals, or other substances, or as a result of any physical
+424 or mental condition. If the board has reasonable cause to
+425 believe that a respiratory therapy licensee is impaired, the
+426 board may refer that licensee to a treatment program."
+427 "§34-27B-9
+428 (a) A person An individual who does not hold a license
+429 or a temporary license as a respiratory therapist or whose
+430 license or temporary license has been suspended or revoked may
+431 not do any of the following:
+432 (1) Use in connection with the person's individual's
+433 practice the words "respiratory care professional,"
+434 "respiratory therapist," "respiratory care practitioner,"
+435 "certified respiratory care practitioner," "licensed
+436 respiratory therapist," "inhalation therapist," or
+437 "respiratory therapy technician"; or use the letters "R.C.P."
+438 or "L.R.T."; or use any other words, letters, abbreviations,
+439 or insignia indicating or implying that the person individual
+440 is a respiratory therapist.
+441 (2) Directly or by implication represent in any way
+442 that the person individual is a respiratory therapist.
+443 (b) A person who holds a license or a temporary license
+444 to practice respiratory therapy under this chapter may use the
+445 title "respiratory therapist" and the abbreviation "L.R.T."
+446 "§34-27B-11
+447 Nothing in this chapter shall be construed as
+Page 16
+
+Nothing in this chapter shall be construed as
+HB299 INTRODUCED
+448 preventing or restricting the practice, services, or
+449 activities of any of the following:
+450 (1) Any person individual who is licensed in Alabama
+451 this state or certified by an organization accredited by the
+452 National Commission for Certifying Agencies and acceptable to
+453 the state from engaging in the profession or occupation for
+454 which the person individual is licensed or certified.
+455 (2) Any person individual employed by the United States
+456 government who provides respiratory therapy solely under the
+457 direction or control of the United States government agency or
+458 organization.
+459 (3) Any person individual receiving clinical training
+460 while pursuing a course of study leading to registry or
+461 certification in a respiratory therapy educational program
+462 accredited by the Council on Allied Health Education Programs
+463 in collaboration with the Committee on Accreditation for
+464 Respiratory Care or their successor organizations. This person
+465 will individual shall be under direct supervision and be
+466 designated by a title clearly indicating his or her status as
+467 a student or trainee.
+468 (4) Any emergency medical technician licensed by the
+469 Alabama State Board Department of Public Health who is
+470 providing care to a patient at the scene of an emergency, or
+471 during transport of the patient in a licensed ground
+472 ambulance, provided that such care may not exceed the scope of
+473 care permissible under the rules of the Alabama State Board
+474 Department of Public Health.
+475 (5) The delivery of respiratory therapy of sick or
+Page 17
+
+(5) The delivery of respiratory therapy of sick or
+HB299 INTRODUCED
+476 disabled persons individuals by family members or domestic
+477 servants or the care of non-institutionalized persons
+478 noninstitutionalized individuals by a surrogate family member
+479 as long as the persons individuals do not represent themselves
+480 as, or hold themselves out to be, respiratory therapists.
+481 (6) Any individual who has demonstrated competency in
+482 one or more areas covered by this chapter as long as the
+483 individual performs only those functions that he or she is
+484 qualified by examination to perform. The standards of the
+485 National Commission for Certifying Agencies, or its
+486 equivalent, shall serve as a standard with which to evaluate
+487 those examinations and examining organizations.
+488 (7) Any person individual performing respiratory
+489 services or care not licensed as a respiratory therapist in
+490 accordance with this chapter who is employed in a diagnostic
+491 laboratory, physician's office, clinic, or outpatient
+492 treatment facility and whose function is to administer
+493 treatment or perform diagnostic procedures confined to that
+494 laboratory, office, clinic, or outpatient facility under the
+495 direction of a licensed physician.
+496 (8) Any respiratory therapy student who performs
+497 limited respiratory therapy procedures as an employee of any a
+498 health care provider organization while enrolled in a
+499 respiratory therapy educational program accredited by the
+500 Council on Allied Health Education Programs in collaboration
+501 with the Committee on Accreditation for Respiratory Care or
+502 their successor organizations, provided any procedure
+503 performed by a respiratory therapy student is a procedure that
+Page 18
+
+performed by a respiratory therapy student is a procedure that
+HB299 INTRODUCED
+504 the student has previously studied and completed in clinical
+505 training. The employee shall be designated by title as a
+506 student or trainee and shall work under direct supervision of
+507 a licensed respiratory therapist. The board shall maintain a
+508 list of all such students.
+509 (9) Any individual employed by a durable medical
+510 equipment or home medical equipment company who delivers, sets
+511 up, or maintains respiratory equipment, but not including
+512 assessment, treatment, or evaluation of the patient.
+513 (10) Any individual employed as a polysommagraphic
+514 technologist working in a sleep center or diagnostic sleep
+515 clinic.
+516 (11) Any licensed respiratory therapist performing
+517 advances in the art and techniques of respiratory therapy
+518 learned through special training acceptable to the board."
+519 Section 2. Section 34-27B-8.1 is added to the Code of
+520 Alabama 1975, to read as follows:
+521 An individual shall be guilty of a Class B misdemeanor
+522 if he or she does any of the following:
+523 (1) Sells or fraudulently obtains or furnishes, or aids
+524 or abets in selling or fraudulently obtaining, any license
+525 issued pursuant to this chapter.
+526 (2) Practices respiratory therapy, uses the title
+527 respiratory therapist, or uses in connection with his or her
+528 name any designation tending to imply that he or she is a
+529 respiratory therapist without a valid and active license
+530 issued pursuant to this chapter.
+531 Section 3. Section 34-27B-12, Code of Alabama 1975,
+Page 19
+
+Section 3. Section 34-27B-12, Code of Alabama 1975,
+HB299 INTRODUCED
+532 requiring the Alabama State Board of Respiratory Therapy to
+533 provide notice of regulations to respiratory therapists
+534 practicing on May 17, 2004, is repealed.
+535 Section 4. This act shall become effective on October
+536 1, 2026.
+537
+Page 20

@@ -1,0 +1,768 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB87 INTRODUCED
+1 HB87
+2 JPUJ5NF-1
+3 By Representative Sells
+4 RFD: Ways and Means Education
+5 First Read: 13-Jan-26
+6 PFD: 17-Dec-25
+Page 0
+
+PFD: 17-Dec-25
+JPUJ5NF-1 11/06/2025 MRF (F)MRF 2025-3291
+1
+2
+3
+4 SYNOPSIS:
+5 Under current law certain items are exempt from
+6 sales and use tax. These taxes are imposed on the gross
+7 proceeds from the sale of deer feed under current law.
+8 This bill would exempt the gross proceeds from
+9 the sale of deer feed from sales and use tax.
+10
+11
+12 A BILL
+13 TO BE ENTITLED
+14 AN ACT
+15
+16 Relating to sales and use tax exemptions; to amend
+17 Section 40-23-4, Code of Alabama 1975, to exempt the gross
+18 proceeds from the sale of deer feed from sales and use tax,
+19 and to provide that the provisions of Section 40-23-4.01, Code
+20 of Alabama 1975, do not apply to this act.
+21 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+22 Section 1. Section 40-23-4, Code of Alabama 1975, is
+23 amended to read as follows:
+24 "§40-23-4
+25 (a) There are exempted from the provisions of this
+26 division and from the computation of the amount of the tax
+27 levied, assessed, or payable under this division the
+28 following:
+Page 1
+
+following:
+HB87 INTRODUCED
+29 (1) The gross proceeds of the sales of lubricating oil
+30 and gasoline as defined in Sections 40-17-30 and 40-17-170 and
+31 the gross proceeds from those sales of lubricating oil
+32 destined for out-of-state use which are transacted in a manner
+33 whereby an out-of-state purchaser takes delivery of such oil
+34 at a distributor's plant within this state and transports it
+35 out-of-state, which are otherwise taxed.
+36 (2) The gross proceeds of the sale, or sales, of
+37 fertilizer when used for agricultural purposes. The word
+38 "fertilizer" shall not be construed to include cottonseed
+39 meal, when not in combination with other materials.
+40 (3) The gross proceeds of the sale, or sales, of seeds
+41 for planting purposes and baby chicks and poults. Nothing
+42 herein shall be construed to exempt or exclude from the
+43 computation of the tax levied, assessed, or payable, the gross
+44 proceeds of the sale or sales of plants, seedlings, nursery
+45 stock, or floral products.
+46 (4) The gross proceeds of sales of insecticides and
+47 fungicides when used for agricultural purposes or when used by
+48 persons properly permitted by the Department of Agriculture
+49 and Industries or any applicable local or state governmental
+50 authority for structural pest control work and feed for
+51 livestock, deer, and poultry, but not including prepared food
+52 for dogs and cats.
+53 (5) The gross proceeds of sales of all livestock by
+54 whomsoever sold, and also the gross proceeds of poultry and
+55 other products of the farm, dairy, grove, or garden, when in
+56 the original state of production or condition of preparation
+Page 2
+
+the original state of production or condition of preparation
+HB87 INTRODUCED
+57 for sale, when such sale or sales are made by the producer or
+58 members of the producer's immediate family or for the producer
+59 by those employed by the producer to assist in the production
+60 thereof. Nothing herein shall be construed to exempt or
+61 exclude from the measure or computation of the tax levied,
+62 assessed, or payable hereunder, the gross proceeds of sales of
+63 poultry or poultry products when not products of the farm.
+64 (6) Cottonseed meal exchanged for cottonseed at or by
+65 cotton gins.
+66 (7) The gross receipts from the business on which, or
+67 for engaging in which, a license or privilege tax is levied by
+68 or under Sections 40-21-50, 40-21-53, and 40-21-56 through
+69 40-21-60; provided, that nothing contained in this subdivision
+70 shall be construed to exempt or relieve the person or persons
+71 operating the business enumerated in these sections from the
+72 payments of the tax levied by this division upon or measured
+73 by the gross proceeds of sales of any tangible personal
+74 property, except gas and water, the gross receipts from the
+75 sale of which are the measure of the tax levied by Section
+76 40-21-50, merchandise or other tangible commodities sold at
+77 retail by the persons, unless the gross proceeds of sale
+78 thereof are otherwise specifically exempted by this division.
+79 (8) The gross proceeds of sales or gross receipts of or
+80 by any person, firm, or corporation, from the sale of
+81 transportation, gas, water, or electricity, of the kinds and
+82 natures, the rates and charges for which, when sold by public
+83 utilities, are customarily fixed and determined by the Public
+84 Service Commission of Alabama or like regulatory bodies.
+Page 3
+
+Service Commission of Alabama or like regulatory bodies.
+HB87 INTRODUCED
+85 (9) The gross proceeds of the sale, or sales of wood
+86 residue, coal, or coke to manufacturers, electric power
+87 companies, and transportation companies for use or consumption
+88 in the production of by-products, or the generation of heat or
+89 power used in manufacturing tangible personal property for
+90 sale, for the generation of electric power or energy for use
+91 in manufacturing tangible personal property for sale or for
+92 resale, or for the generation of motive power for
+93 transportation.
+94 (10) The gross proceeds from the sale or sales of fuel
+95 and supplies for use or consumption aboard ships, vessels,
+96 towing vessels, or barges, or drilling ships, rigs or barges,
+97 or seismic or geophysical vessels, or other watercraft (herein
+98 for purposes of this exemption being referred to as "vessels")
+99 engaged in foreign or international commerce or in interstate
+100 commerce; provided, that nothing in this division shall be
+101 construed to exempt or exclude from the measure of the tax
+102 herein levied the gross proceeds of sale or sales of material
+103 and supplies to any person for use in fulfilling a contract
+104 for the painting, repair, or reconditioning of vessels,
+105 barges, ships, other watercraft, and commercial fishing
+106 vessels of over five tons load displacement as registered with
+107 the U.S. Coast Guard and licensed by the State of Alabama
+108 Department of Conservation and Natural Resources.
+109 For purposes of this subdivision, it shall be presumed
+110 that vessels engaged in the transportation of cargo between
+111 ports in the State of Alabama and ports in foreign countries
+112 or possessions or territories of the United States or between
+Page 4
+
+or possessions or territories of the United States or between
+HB87 INTRODUCED
+113 ports in the State of Alabama and ports in other states are
+114 engaged in foreign or international commerce or interstate
+115 commerce, as the case may be. For the purposes of this
+116 subdivision, the engaging in foreign or international commerce
+117 or interstate commerce shall not require that the vessel
+118 involved deliver cargo to or receive cargo from a port in the
+119 State of Alabama. For purposes of this subdivision, vessels
+120 carrying passengers for hire, and no cargo, between ports in
+121 the State of Alabama and ports in foreign countries or
+122 possessions or territories of the United States or between
+123 ports in the State of Alabama and ports in other states shall
+124 be engaged in foreign or international commerce or interstate
+125 commerce, as the case may be, if, and only if, both of the
+126 following conditions are met: (i) The vessel in question is a
+127 vessel of at least 100 gross tons; and (ii) the vessel in
+128 question has an unexpired certificate of inspection issued by
+129 the United States Coast Guard or by the proper authority of a
+130 foreign country for a foreign vessel, which certificate is
+131 recognized as acceptable under the laws of the United States.
+132 Vessels that are engaged in foreign or international commerce
+133 or interstate commerce shall be deemed for the purposes of
+134 this subdivision to remain in such commerce while awaiting or
+135 under repair in a port of the State of Alabama if the vessel
+136 returns after such repairs are completed to engaging in
+137 foreign or international commerce or interstate commerce. For
+138 purposes of this subdivision, seismic or geophysical vessels
+139 which are engaged either in seismic or geophysical tests or
+140 evaluations exclusively in offshore federal waters or in
+Page 5
+
+evaluations exclusively in offshore federal waters or in
+HB87 INTRODUCED
+141 traveling to or from conducting such tests or evaluations
+142 shall be deemed to be engaged in international or foreign
+143 commerce. For purposes of this subdivision, proof that fuel
+144 and supplies purchased are for use or consumption aboard
+145 vessels engaged in foreign or international commerce or in
+146 interstate commerce may be accomplished by the merchant or
+147 seller securing the duly signed certificate of the vessel
+148 owner, operator, or captain or such person's respective agent,
+149 on a form prescribed by the department, that the fuel and
+150 supplies purchased are for use or consumption aboard vessels
+151 engaged in foreign or international commerce or in interstate
+152 commerce. Any person filing a false certificate shall be
+153 guilty of a misdemeanor and upon conviction shall be fined not
+154 less than twenty-five dollars ($25) nor more than five hundred
+155 dollars ($500) for each offense. Each false certificate filed
+156 shall constitute a separate offense. Any person filing a false
+157 certificate shall be liable to the department for all taxes
+158 imposed by this division upon the merchant or seller, together
+159 with any interest or penalties thereon, by reason of the sale
+160 or sales of fuel and supplies applicable to the false
+161 certificate. If a merchant or seller of fuel and supplies
+162 secures the certificate herein mentioned, properly completed,
+163 the merchant or seller shall not be liable for the taxes
+164 imposed by this division, if the merchant or seller had no
+165 knowledge that the certificate was false when it was filed
+166 with the merchant or seller.
+167 (11) The gross proceeds of sales of tangible personal
+168 property to the State of Alabama, to the counties within the
+Page 6
+
+property to the State of Alabama, to the counties within the
+HB87 INTRODUCED
+169 state and to incorporated municipalities of the State of
+170 Alabama.
+171 (12) The gross proceeds of the sale or sales of
+172 railroad cars, vessels, barges, and commercial fishing vessels
+173 of over five tons load displacement as registered with the
+174 U.S. Coast Guard and licensed by the State of Alabama
+175 Department of Conservation and Natural Resources, when sold by
+176 the manufacturers or builders thereof.
+177 (13) The gross proceeds of the sale or sales of
+178 materials, equipment, and machinery that, at any time, enter
+179 into and become a component part of ships, vessels, towing
+180 vessels or barges, or drilling ships, rigs or barges, or
+181 seismic or geophysical vessels, other watercraft and
+182 commercial fishing vessels of over five tons load displacement
+183 as registered with the U.S. Coast Guard and licensed by the
+184 State of Alabama Department of Conservation and Natural
+185 Resources. Additionally, the gross proceeds from the sale or
+186 sales of lifeboats, personal flotation devices, ring life
+187 buoys, survival craft equipment, distress signals, EPIRB's,
+188 fire extinguishers, injury placards, waste management plans
+189 and logs, marine sanitation devices, navigation rulebooks,
+190 navigation lights, sound signals, navigation day shapes, oil
+191 placard cards, garbage placards, FCC SSL, stability
+192 instructions, first aid equipment, compasses, anchor and radar
+193 reflectors, general alarm systems, bilge pumps, piping, and
+194 discharge and electronic position fixing devices which are
+195 used on the aforementioned watercraft.
+196 (14) The gross proceeds of the sale or sales of fuel
+Page 7
+
+(14) The gross proceeds of the sale or sales of fuel
+HB87 INTRODUCED
+197 oil purchased as fuel for kiln use in manufacturing
+198 establishments.
+199 (15) The gross proceeds of the sale or sales of
+200 tangible personal property to county and city school boards
+201 within the State of Alabama, independent school boards within
+202 the State of Alabama, all educational institutions and
+203 agencies of the State of Alabama, the counties within the
+204 state, or any incorporated municipalities of the State of
+205 Alabama, and private educational institutions operating within
+206 the State of Alabama offering conventional and traditional
+207 courses of study, such as those offered by public schools,
+208 colleges, or universities within the State of Alabama; but not
+209 including nurseries, day care centers, and home schools.
+210 (16) The gross proceeds from the sale of all devices or
+211 facilities, and all identifiable components thereof, or
+212 materials for use therein, acquired primarily for the control,
+213 reduction, or elimination of air or water pollution and the
+214 gross proceeds from the sale of all identifiable components
+215 of, or materials used or intended for use in, structures built
+216 primarily for the control, reduction, or elimination of air
+217 and water pollution.
+218 (17) The gross proceeds of sales of tangible personal
+219 property or the gross receipts of any business which the state
+220 is prohibited from taxing under the Constitution or laws of
+221 the United States or under the constitution of this state.
+222 (18) When dealers or distributors use parts taken from
+223 stocks owned by them in making repairs without charge for the
+Page 8
+
+stocks owned by them in making repairs without charge for the
+HB87 INTRODUCED
+224 parts to the owner of the property repaired pursuant to
+225 warranty agreements entered into by manufacturers, such use
+226 shall not constitute taxable sales to the manufacturers,
+227 distributors, or to the dealers, under this division or under
+228 any county sales tax law.
+229 (19) The gross proceeds received from the sale or
+230 furnishing of food, including potato chips, candy, fruit and
+231 similar items, soft drinks, tobacco products, and stationery
+232 and other similar or related articles by hospital canteens
+233 operated by Alabama state hospitals at Bryce Hospital and
+234 Partlow State School for Mental Deficients at Tuscaloosa,
+235 Alabama, and Searcy Hospital at Mt. Vernon, Alabama, for the
+236 benefit of the patients therein.
+237 (20) The gross proceeds of the sale, or sales, of
+238 wrapping paper and other wrapping materials when used in
+239 preparing poultry or poultry products for delivery, shipment,
+240 or sale by the producer, processor, packer, or seller of such
+241 poultry or poultry products, including pallets used in
+242 shipping poultry and egg products, paper or other materials
+243 used for lining boxes or other containers in which poultry or
+244 poultry products are packed together with any other materials
+245 placed in such containers for the delivery, shipment, or sale
+246 of poultry or poultry products.
+247 (21) The gross proceeds of the sales of all
+248 antibiotics, hormones and hormone preparations, drugs,
+249 medicines or medications, vitamins, minerals or other
+250 nutrients, and all other feed ingredients including
+251 concentrates, supplements, and other feed ingredients when
+Page 9
+
+concentrates, supplements, and other feed ingredients when
+HB87 INTRODUCED
+252 such substances are used as ingredients in mixing and
+253 preparing feed for fish raised to be sold on a commercial
+254 basis, livestock, and poultry. Such exemption herein granted
+255 shall be in addition to exemptions now provided by law for
+256 feed for fish raised to be sold on a commercial basis,
+257 livestock, and poultry, but not including prepared foods for
+258 dogs or cats.
+259 (22) The gross proceeds of the sale, or sales, of
+260 seedlings, plants, shoots, and slips which are to be used for
+261 planting vegetable gardens or truck farms and other
+262 agricultural purposes. Nothing herein shall be construed to
+263 exempt, or exclude from the computation of the tax levied,
+264 assessed, or payable, the gross proceeds of the sale, or the
+265 use of plants, seedlings, shoots, slips, nursery stock, and
+266 floral products, except as hereinabove exempted.
+267 (23) The gross proceeds of the sale, or sales, of
+268 fabricated steel tube sections, when produced and fabricated
+269 in this state by any person, firm, or corporation for any
+270 vehicular tunnel for highway vehicular traffic, when sold by
+271 the manufacturer or fabricator thereof, and also the gross
+272 proceeds of the sale, or sales, of steel which enters into and
+273 becomes a component part of such fabricated steel tube
+274 sections of the tunnel.
+275 (24) The gross proceeds from sales of admissions to any
+276 theatrical production, symphonic or other orchestral concert,
+277 ballet, or opera production when the concert or production is
+278 presented by any society, association, guild, or workshop
+279 group, organized within this state, whose members or some of
+Page 10
+
+group, organized within this state, whose members or some of
+HB87 INTRODUCED
+280 whose members regularly and actively participate in the
+281 concerts or productions for the purposes of providing a
+282 creative outlet for the cultural and educational interests of
+283 its members, and of promoting such interests for the
+284 betterment of the community by presenting the productions to
+285 the general public for an admission charge. The employment of
+286 a paid director or conductor to assist in any such
+287 presentation described in this subdivision shall not be
+288 construed to prohibit the exemptions herein provided.
+289 (25) The gross proceeds of sales of "herbicides" for
+290 agricultural uses by whomsoever sold. The term herbicides, as
+291 used in this subdivision, means any substance or mixture of
+292 substances intended to prevent, destroy, repel, or retard the
+293 growth of weeds or plants. The term includes preemergence
+294 herbicides, postemergence herbicides, lay-by herbicides,
+295 pasture herbicides, defoliant herbicides, and desiccant
+296 herbicides.
+297 (26) The Alabama Chapter of the Cystic Fibrosis
+298 Research Foundation and the Jefferson Tuberculosis Sanatorium
+299 and any of their departments or agencies, heretofore or
+300 hereafter organized and existing in good faith in the State of
+301 Alabama for purposes other than for pecuniary gain and not for
+302 individual profit, shall be exempted from the computation of
+303 the tax on the gross proceeds of all sales levied, assessed,
+304 or payable.
+305 (27) The gross proceeds from the sale or sales of fuel
+306 for use or consumption aboard commercial fishing vessels are
+307 exempt from the computation of all sales taxes levied,
+Page 11
+
+exempt from the computation of all sales taxes levied,
+HB87 INTRODUCED
+308 assessed, or payable under this division or levied under any
+309 county or municipal sales tax law.
+310 (28) The gross proceeds from the sales of rope, fishing
+311 nets, tools, or any substitute used directly in the process of
+312 commercial fishing by a holder of a commercial license issued
+313 pursuant to Chapter 12 of Title 9.
+314 (29) The gross proceeds of sales of sawdust, wood
+315 shavings, wood chips, and other like materials sold for use as
+316 chicken litter by poultry producers and poultry processors.
+317 (30) The gross proceeds of the sales of all
+318 antibiotics, hormones and hormone preparations, drugs,
+319 medicines, and other medications including serums and
+320 vaccines, vitamins, minerals, or other nutrients for use in
+321 the production and growing of fish, livestock, and poultry by
+322 whomsoever sold. The exemption herein granted shall be in
+323 addition to the exemption provided by law for feed for fish,
+324 livestock, and poultry, and in addition to the exemptions
+325 provided by law for the above-enumerated substances and
+326 products when mixed and used as ingredients in fish,
+327 livestock, and poultry feed.
+328 (31) The gross proceeds of the sale or sales of all
+329 medicines prescribed by physicians for persons who are 65
+330 years of age or older, and when the prescriptions are filled
+331 by licensed pharmacists, shall be exempted under this division
+332 or under any county or municipal sales tax law. The exemption
+333 provided in this section shall not apply to any medicine
+334 purchased in any manner other than as is herein provided.
+335 For the purposes of this subdivision, proof of age may
+Page 12
+
+For the purposes of this subdivision, proof of age may
+HB87 INTRODUCED
+336 be accomplished by filing with the dispensing pharmacist any
+337 one or more of the following documents:
+338 a. The name and claim number as shown on a Medicare
+339 card issued by the United States Social Security
+340 Administration.
+341 b. A certificate executed by any adult person having
+342 knowledge of the fact that the person for whom the medicine
+343 was prescribed is not less than 65 years of age.
+344 c. An affidavit executed by any adult person having
+345 knowledge of the fact that the person for whom the medicine
+346 was prescribed is not less than 65 years of age.
+347 For the purposes of this subdivision, any person filing
+348 a false proof of age shall be guilty of a misdemeanor and upon
+349 conviction thereof shall be punished by a fine of one hundred
+350 dollars ($100).
+351 (32) There shall be exempted from the tax levied by
+352 this division the gross receipts of sales of grass sod of all
+353 kinds and character when in the original state of production
+354 or condition of preparation for sale, when the sales are made
+355 by the producer or members of the producer's family or for the
+356 producer by those employed by the producer to assist in the
+357 production thereof; provided, that nothing herein shall be
+358 construed to exempt sales of sod by a person engaged in the
+359 business of selling plants, seedlings, nursery stock, or
+360 floral products.
+361 (33) The gross receipts of sales of the following items
+362 or materials that are necessary in the farm-to-market
+363 production of tomatoes when such items or materials are used
+Page 13
+
+production of tomatoes when such items or materials are used
+HB87 INTRODUCED
+364 by the producer or members of the producer's family or for the
+365 producer by those employed by the producer to assist in the
+366 production thereof: Twine for tying tomatoes, tomato stakes,
+367 field boxes (wooden boxes used to take tomatoes from the
+368 fields to shed), and tomato boxes used in shipments to
+369 customers.
+370 (34) The gross proceeds from the sale of liquefied
+371 petroleum gas or natural gas sold to be used for agricultural
+372 purposes.
+373 (35) The gross receipts of sales from state nurseries
+374 of forest tree seedlings.
+375 (36) The gross receipts of sales of forest tree seed by
+376 the state.
+377 (37) The gross receipts of sales of Lespedeza bicolor
+378 and other species of perennial plant seed and seedlings sold
+379 for wildlife and game food production purposes by the state.
+380 (38) The gross receipts of any aircraft manufactured,
+381 sold, and delivered in this state if the aircraft are not
+382 permanently domiciled in Alabama and are removed to another
+383 state.
+384 (39) The gross proceeds from the sale or sales of all
+385 diesel fuel used for off-highway agricultural purposes.
+386 (40) The gross proceeds from sales of admissions to any
+387 sporting event that:
+388 a. Takes place in the State of Alabama on or after
+389 January 1, 1984, regardless of when such sales occur; and
+390 b. Is hosted by a not-for-profit corporation organized
+391 and existing under the laws of the State of Alabama; and
+Page 14
+
+and existing under the laws of the State of Alabama; and
+HB87 INTRODUCED
+392 c. Determines a national championship of a national
+393 organization, including, but not limited to, the Professional
+394 Golfers Association of America, the Tournament Players
+395 Association, the United States Golf Association, the United
+396 States Tennis Association, and the National Collegiate
+397 Athletic Association; and
+398 d. Has not been held in the State of Alabama on more
+399 than one prior occasion, provided, however, that for such
+400 purpose the Professional Golfers Association Championship, the
+401 United States Open Golf Championship, the United States
+402 Amateur Golf Championship of the United States Golf
+403 Association, and the United States Open Tennis Championship
+404 shall each be treated as a separate event.
+405 (41) The gross receipts from the sale of any aircraft
+406 and replacement parts, components, systems, supplies, and
+407 sundries affixed or used on the aircraft and ground support
+408 equipment and vehicles used by or for the aircraft to or by a
+409 certificated or licensed air carrier with a hub operation
+410 within this state, for use in conducting intrastate,
+411 interstate, or foreign commerce for transporting people or
+412 property by air. For the purpose of this subdivision, the
+413 words "hub operation within this state" shall be construed to
+414 have both of the following criteria:
+415 a. There originates from the location 15 or more flight
+416 departures and five or more different first-stop destinations
+417 five days per week for six or more months during the calendar
+418 year.
+419 b. Passengers or property or both are regularly
+Page 15
+
+b. Passengers or property or both are regularly
+HB87 INTRODUCED
+420 exchanged at the location between flights of the same or a
+421 different certificated or licensed air carrier.
+422 (42) The gross receipts from the sale of hot or cold
+423 food and beverage products sold to or by a certificated or
+424 licensed air carrier with a hub operation within this state,
+425 for use in conducting intrastate, interstate, or foreign
+426 commerce for transporting people or property by air. For the
+427 purpose of this subdivision, the words "hub operation within
+428 this state" shall be construed to have all of the following
+429 criteria:
+430 a. There originates from the location 15 or more flight
+431 departures and five or more different first-stop destinations
+432 five days per week for six or more months during the calendar
+433 year.
+434 b. Passengers or property or both are regularly
+435 exchanged at the location between flights of the same or a
+436 different certificated or licensed air carrier.
+437 (43) The gross receipts from the sale of any aviation
+438 jet fuel to a certificated or licensed air carrier purchased
+439 for use in scheduled all-cargo operations being conducted on
+440 international flights or in international commerce. For
+441 purposes of this subdivision, the following words or terms
+442 shall be defined and interpreted as follows:
+443 a. Air Carrier. Any person, firm, corporation, or
+444 entity undertaking by any means, directly or indirectly, to
+445 provide air transportation.
+446 b. All-Cargo Operations. Any flight conducted by an air
+447 carrier for compensation or hire other than a passenger
+Page 16
+
+carrier for compensation or hire other than a passenger
+HB87 INTRODUCED
+448 carrying flight, except passengers as specified in 14 C.F.R. §
+449 121.583(a) or 14 C.F.R. § 135.85, as amended.
+450 c. International Commerce. Any air carrier engaged in
+451 all-cargo operations transporting goods for compensation or
+452 hire on international flights.
+453 d. International Flights. Any air carrier conducting
+454 scheduled all-cargo operations between any point within the 50
+455 states of the United States and the District of Columbia and
+456 any point outside the 50 states of the United States and the
+457 District of Columbia, including any interim stops within the
+458 United States so long as the ultimate origin or destination of
+459 the aircraft is outside the United States and the District of
+460 Columbia.
+461 (44) The gross proceeds of the sale or sales of the
+462 following:
+463 a. Drill pipe, casing, tubing, and other pipe used for
+464 the exploration for or production of oil, gas, sulphur, or
+465 other minerals in offshore federal waters.
+466 b. Tangible personal property exclusively used for the
+467 exploration for or production of oil, gas, sulphur, or other
+468 minerals in offshore federal waters.
+469 c. Fuel and supplies for use or consumption aboard
+470 boats, ships, aircraft, and towing vessels when used
+471 exclusively in transporting persons or property between a
+472 point in Alabama and a point or points in offshore federal
+473 waters for the exploration for or production of oil, gas,
+474 sulphur, or other minerals in offshore federal waters.
+475 d. Drilling equipment that is used for the exploration
+Page 17
+
+d. Drilling equipment that is used for the exploration
+HB87 INTRODUCED
+476 for or production of oil, gas, sulphur, or other minerals,
+477 that is built for exclusive use outside this state and that
+478 is, on completion, removed forthwith from this state.
+479 The delivery of items exempted by this subdivision to
+480 the purchaser or lessee in this state does not disqualify the
+481 purchaser or lessee from the exemption if the property is
+482 removed from the state by any means, including by the use of
+483 the purchaser's or lessee's own facilities.
+484 The shipment to a place in this state of equipment
+485 exempted by this subdivision for further assembly or
+486 fabrication does not disqualify the purchaser or lessee from
+487 the exemption if on completion of the further assembly or
+488 fabrication the equipment is removed forthwith from this
+489 state. This subdivision applies to a sale that may occur when
+490 the equipment exempted is further assembled or fabricated if
+491 on completion the equipment is removed forthwith from this
+492 state.
+493 (45) The gross receipts derived from all bingo games
+494 and operations that are conducted in compliance with validly
+495 enacted legislation authorizing the conduct of such games and
+496 operations, and which comply with the distribution
+497 requirements of the applicable local laws; provided that the
+498 exemption from sales taxation granted by this subdivision
+499 shall apply only to gross receipts taxable under subdivision
+500 (2) of Section 40-23-2. It is further provided that this
+501 exemption shall not apply to any gross receipts from the sale
+502 of tangible personal property, such as concessions, novelties,
+503 food, beverages, etc. The exemption provided for in this
+Page 18
+
+food, beverages, etc. The exemption provided for in this
+HB87 INTRODUCED
+504 section shall be limited to those games and operations by
+505 organizations that have qualified for exemption under the
+506 provisions of 26 U.S.C. § 501 (c)(3), (4), (7), (8), (10), or
+507 (19), or which are defined in 26 U.S.C. § 501(d).
+508 (46) The gross receipts derived from the sale or sales
+509 of fruit or other agricultural products by the person or
+510 company, as defined in Section 40-23-1, that planted or
+511 cultivated and harvested the fruit or agricultural product,
+512 when the land is owned or leased by the seller.
+513 (47) The gross receipts derived from the sale or sales
+514 of all domestically mined or produced coal, coke, and coke
+515 by-products used in cogeneration plants.
+516 (48) The gross receipts from the sale or sales of
+517 metal, other than gold or silver, when such metal is purchased
+518 for the purpose of transferring such metal to an investment
+519 trust in exchange for shares or other units, each of which are
+520 both publicly traded and represent fractional undivided
+521 beneficial interests in the trust's net assets, including
+522 metal stored in warehouses located in this state, as well as
+523 the gross proceeds from the sale or other transfer of such
+524 metal to or from the investment trust in exchange for shares
+525 or other units that are publicly traded and represent
+526 fractional undivided beneficial interests in the trust's net
+527 assets but not to the extent that metal is transferred to or
+528 from the investment trust in exchange for consideration other
+529 than such publicly traded shares or other units. For purposes
+530 of this subdivision, the term "metals" includes, but is not
+531 limited to, copper, aluminum, nickel, zinc, tin, lead, and
+Page 19
+
+limited to, copper, aluminum, nickel, zinc, tin, lead, and
+HB87 INTRODUCED
+532 other similar metals typically used in commercial and
+533 industrial applications.
+534 (49)a. For the period commencing on October 1, 2012,
+535 and ending May 30, 2027, the gross receipts from the sale of
+536 parts, components, and systems that become a part of a fixed
+537 or rotary wing military aircraft or certified transport
+538 category aircraft that undergoes conversion, reconfiguration,
+539 or general maintenance so long as the address of the aircraft
+540 for FAA registration is not in the state; provided, however,
+541 that this exemption shall not apply to a local sales tax
+542 unless previously exempted by local law or approved by
+543 resolution of the local governing body.
+544 b. The exemption authorized by this subdivision shall
+545 not be available for sales of parts, components, or systems
+546 for new contracts or projects entered into after May 30, 2027,
+547 unless the Legislature enacts legislation to continue or
+548 reinstate the exemption for new contracts or projects after
+549 that date. No action or inaction on the part of the
+550 Legislature shall reduce, suspend, or disqualify sales of
+551 parts, components, or systems from the exemption in any past
+552 year or future years until May 30, 2030, with respect to
+553 contracts or projects entered into on or before May 30, 2027;
+554 it being the sole intent that failure of the Legislature to
+555 enact legislation to reinstate the exemption for new contracts
+556 or projects after May 30, 2027, shall affect only the
+557 availability of the exemption to new contracts and projects
+558 after that date and shall not affect availability of the
+559 exemption for contracts or projects entered into on or before
+Page 20
+
+exemption for contracts or projects entered into on or before
+HB87 INTRODUCED
+560 May 30, 2027, for which the exemption shall be available until
+561 May 30, 2030.
+562 (50) The gross proceeds from the sale or sales within
+563 school buildings of lunches to pupils of kindergarten,
+564 grammar, and high schools, either public or private, that are
+565 not sold for profit.
+566 (51) The gross proceeds of services provided by
+567 photographers, including, but not limited to, sitting fees and
+568 consultation fees, even when provided as part of a transaction
+569 ultimately involving the sale of one or more photographs, so
+570 long as the exempt services are separately stated to the
+571 customer on a bill of sale, invoice, or like memorialization
+572 of the transaction. For transactions occurring before October
+573 1, 2017, neither the Department of Revenue nor local tax
+574 officials may seek payment for sales tax not collected. With
+575 regard to such transactions in which sales tax was collected
+576 and remitted on services provided by photographers, neither
+577 the taxpayer nor the entity remitting sales tax shall have the
+578 right to seek refund of such tax.
+579 (52) a. For the period commencing on June 1, 2018, and
+580 ending 10 years thereafter, unless extended by an act of the
+581 Legislature, the gross proceeds of sales of bullion or money,
+582 as defined in Section 40-1-1(7).
+583 b. For purposes of this subdivision, the following
+584 words or terms shall be defined and interpreted as follows:
+585 1. Bullion. Gold, silver, platinum, palladium, or a
+586 combination of each precious metal, that has gone through a
+587 refining process and for which the item's value depends on its
+Page 21
+
+refining process and for which the item's value depends on its
+HB87 INTRODUCED
+588 mass and purity, and not on its form, numismatic value, or
+589 other value. The term includes bullion in the form of bars,
+590 ingots, rounds, or coins that meet the requirements set forth
+591 above. Qualifying bullion may contain other metals or
+592 substances, provided that the other substances are minimal in
+593 value compared with the value of the gold, silver, platinum,
+594 or palladium and the other substances do not add value to the
+595 item. For purposes of this subparagraph, "gold, silver,
+596 platinum, or palladium" does not include jewelry or works of
+597 art.
+598 2. Mass. An item's mass is its weight in precious
+599 metal.
+600 3. Numismatic Value. An external value above and beyond
+601 the base value of the underlying precious metal, due to the
+602 item's rarity, condition, age, or other external factor.
+603 4. Purity. An item's purity is the proportion of
+604 precious metal contained within.
+605 c. In order for bullion to qualify for the sales tax
+606 exemption, gold, silver, platinum, and palladium items must
+607 meet all of the following requirements:
+608 1. Must be refined.
+609 2. Must contain at least 80 percent gold, silver,
+610 platinum, or palladium or some combination of these metals.
+611 3. The sales price of the item must fluctuate with and
+612 depend on the market price of the underlying precious metal,
+613 and not on the item's rarity, condition, age, or other
+614 external factor.
+615 (53) a. The gross proceeds of the initial retail sales
+Page 22
+
+(53) a. The gross proceeds of the initial retail sales
+HB87 INTRODUCED
+616 of adaptive equipment that is permanently affixed to a motor
+617 vehicle.
+618 b. For the purposes of this subdivision, the following
+619 words or terms shall be defined and interpreted as follows:
+620 1. Adaptive Equipment. Equipment not generally used by
+621 persons with normal mobility that is appropriate for use in a
+622 motor vehicle and that is not normally provided by a motor
+623 vehicle manufacturer.
+624 2. Motor Vehicle. A vehicle as defined in Section
+625 40-12-240.
+626 3. Motor Vehicle Manufacturer. Every person engaged in
+627 the business of constructing or assembling vehicles or
+628 manufactured homes.
+629 c. In order to qualify for the exemption provided for
+630 herein, the adaptive equipment must be separately stated to
+631 the customer on a bill of sale, invoice, or like
+632 memorialization of the transaction.
+633 (54) For the period commencing on October 1, 2022, and
+634 ending September 30, 2027, unless extended by an act of the
+635 Legislature, the gross receipts derived from the sale of
+636 producer value added agricultural products when the sale is
+637 made by the producer or by the producer's immediate family, or
+638 for the producer by the producer's employees.
+639 (55) For the period commencing on October 1, 2024, and
+640 ending September 30, 2029, unless extended by an act of the
+641 Legislature, the gross proceeds of the sale or sales of
+642 hearing instruments as defined in Section 34-14-1, including
+643 hearing aids. The exemption provided in this subdivision shall
+Page 23
+
+hearing aids. The exemption provided in this subdivision shall
+HB87 INTRODUCED
+644 not apply to county or municipal sales taxes unless approved
+645 by resolution or ordinance adopted by the local governing
+646 body.
+647 (b) Any violation of any provision of this section
+648 shall be punishable in a court of competent jurisdiction by a
+649 fine of not less than five hundred dollars ($500) and no more
+650 than two thousand dollars ($2,000) and imprisonment of not
+651 less than six months nor more than one year in the county
+652 jail.
+653 (c) Section 40-23-4.01 shall not apply to this
+654 section."
+655 Section 2. This act shall become effective on September
+656 1, 2026.
+Page 24

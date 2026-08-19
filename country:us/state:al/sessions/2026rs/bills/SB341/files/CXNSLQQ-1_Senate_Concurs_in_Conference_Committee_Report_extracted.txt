@@ -1,0 +1,471 @@
+Title: 
+Official Title: 
+Source: versions - Senate Concurs in Conference Committee Report
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CXNSLQQ-1 04/08/2026 CMH (L)PMG 2026-1215 ConfComm SUBSB341
+CONFERENCE COMMITTEE ON SB341 SUBSTITUTE TO SB341
+1
+2
+3
+4 A BILL
+5 TO BE ENTITLED
+6 AN ACT
+7
+8 Relating to public safety; to establish the Alabama
+9 Work Zone Safety Act as a pilot program to authorize the
+10 procurement, installation, and operation of a photographic
+11 speed enforcement system in a segment of interstate highway
+12 declared to be a work zone; to require reports to the
+13 Legislature studying the effectiveness of the pilot program;
+14 to establish a process for the issuance of civil traffic
+15 citations for violations and the enforcement and appeal of
+16 such citations; to establish affirmative defenses to a
+17 violation; to repeal these provisions on September 30, 2028;
+18 and to create the ALEA Work Zone Safety Fund and the
+19 Transportation Work Zone Safety Fund and provide for certain
+20 civil penalties to be deposited into the fund.
+21 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+22 Section 1. Sections 1 through 19 of this act shall be
+23 known and may be cited as the Alabama Work Zone Safety Act.
+24 Section 2. The Legislature finds and declares the
+25 following:
+26 (1) Highway construction and maintenance creates a high
+27 risk environment for highway workers who must work alongside
+28 motor vehicles traveling at high rates of speed.
+Page 1
+
+motor vehicles traveling at high rates of speed.
+29 (2) Numerous highway workers have been struck and
+30 killed in work zones due to motor vehicles traveling at high
+31 rates of speed through the work zones.
+32 (3) Speed enforcement management within a work zone is
+33 one of the most effective measures to improve safety in the
+34 work zone.
+35 (4) Speed enforcement is highly labor intensive and can
+36 even be hazardous to law enforcement officers given the
+37 physical constraints of many work zones.
+38 (5) Photographic speed enforcement systems allow law
+39 enforcement to successfully manage speed enforcement in a work
+40 zone in a safe and cost-effective manner.
+41 (6) The adoption and implementation of a photographic
+42 speed enforcement system for work zones is necessary to reduce
+43 severe crashes, reduce speeding, and improve safe traffic flow
+44 in work zones in a state where the patrol resources alone are
+45 not capable of consistent enforcement of traffic laws at a
+46 level necessary to protect human life.
+47 (7) The severe lack of safety of highway workers in
+48 work zones is an emergency that necessitates the immediate
+49 adoption of a photographic speed enforcement system consistent
+50 with the terms of this act.
+51 Section 3. (a) The Alabama Work Zone Safety Act is
+52 enacted as a pilot program and shall continue through the
+53 completion of all work done in the work zone designated by the
+54 Department of Transportation, unless continued by act of the
+55 Legislature.
+56 (b) The Department of Transportation and the Alabama
+Page 2
+
+(b) The Department of Transportation and the Alabama
+57 State Law Enforcement Agency (ALEA) shall collaborate to
+58 implement the pilot program for one work zone conducted on the
+59 interstate and shall finalize a plan for the implementation of
+60 the pilot program by October 1, 2026. The plan shall
+61 contemplate a gradual rollout of the program and the promotion
+62 of driver awareness of the pending use of the program in work
+63 zones. The plan shall ensure that the full scale
+64 implementation and enforcement of the program shall not occur
+65 sooner than November 16, 2026, to ensure that the
+66 implementation of the program is phased in. To satisfy this
+67 deadline, the department and ALEA may make necessary emergency
+68 procurements pursuant to Sections 39-2-2 and 41-16-53, Code of
+69 Alabama 1975, and may adopt emergency rules pursuant to
+70 Section 41-22-5, Code of Alabama 1975, to govern the use of
+71 devices in work zones; ensure adequate notice for drivers, and
+72 signage rules, clear protocol for installation and placement
+73 of enforcement tools; provide for the use of speed detection
+74 to aid traffic law enforcement; and maintain statistical data
+75 to measure the effectiveness of tools on driver behavior.
+76 (c) Not later than March 1, 2027, the Department of
+77 Transportation and the Alabama State Law Enforcement Agency
+78 shall prepare an interim report to the Legislature summarizing
+79 the implementation of this pilot program and shall provide
+80 data measuring the effectiveness of the pilot program on
+81 creating safer work zones.
+82 Section 4. As used in Sections 1 through 19 of this
+83 act, the following terms have the following meanings:
+84 (1) ALEA. The Alabama State Law Enforcement Agency.
+Page 3
+
+(1) ALEA. The Alabama State Law Enforcement Agency.
+85 (2) AUTHORITY. The Alabama Toll Road, Bridge, and
+86 Tunnel Authority.
+87 (3) AUTOMATED PHOTOGRAPHIC SPEED ENFORCEMENT SYSTEM. A
+88 photographic speed enforcement system that is capable of
+89 automatically recording digital images and speed of motor
+90 vehicles.
+91 (4) CIVIL TRAFFIC CITATION. A non-criminal citation
+92 created pursuant to this act, the penalty for which is a civil
+93 fine, and the enforceability of which is accomplished through
+94 civil action.
+95 (5) DEPARTMENT. The Alabama Department of
+96 Transportation.
+97 (6) OWNER. The owner of a motor vehicle as shown on the
+98 motor vehicle registration records of the Alabama Department
+99 of Revenue or the analogous department or agency of another
+100 state or country, except as follows:
+101 a. The term does not include a motor vehicle rental or
+102 leasing company when a motor vehicle registered by the company
+103 is rented or leased to another person under a rental or lease
+104 agreement with the company, in which event "owner" means the
+105 person to whom the vehicle is rented or leased.
+106 b. The term does not include any motor vehicle
+107 displaying a plate that indicates the motor vehicle is being
+108 operated by an individual other than the owner of the motor
+109 vehicle, including a dealer license plate, fleet plate, U.S.
+110 military plate, utility plate, government plate, federal
+111 plate, or commercial motor vehicle plate, in which event
+112 "owner" means the person to whom the vehicle is assigned for
+Page 4
+
+"owner" means the person to whom the vehicle is assigned for
+113 use.
+114 (7) SPEEDING VIOLATION. Any violation of a motor
+115 vehicle at a speed that exceeds 10 miles per hour over the
+116 posted speed limit.
+117 (8) WORK ZONE. A segment of a state, U.S., or
+118 interstate highway designated by the department or the
+119 authority where construction, maintenance, inspection,
+120 surveying, or utility work is actively occurring and where
+121 workers are present, and where official work zone signage is
+122 posted.
+123 Section 5. (a) The department and authority may install
+124 automated photographic speed enforcement systems to monitor
+125 motor vehicle activity in a work zone.
+126 (b) The automated photographic speed enforcement system
+127 shall be: (i) a photographic, radar, lidar, laser, or other
+128 device; (ii) designed to automatically detect the speed of
+129 moving motor vehicles; (iii) designed to automatically record
+130 digital imaging of a motor vehicle and an image of the rear
+131 license plate of a motor vehicle engaged in a speeding
+132 violation; and (iv) designed to automatically record the speed
+133 of a motor vehicle engaged in a speeding violation.
+134 (c) The department, authority, or a third party
+135 approved by the department or authority may place automated
+136 photographic speed enforcement systems at work zones as
+137 necessary to assure the safety of the work zone. The
+138 department may adopt rules, including emergency rules, to
+139 implement this section and to provide for the approval of
+140 third parties under this section.
+Page 5
+
+third parties under this section.
+141 Section 6. (a) ALEA may use a manually operated
+142 photographic speed enforcement system to monitor motor vehicle
+143 activity in a work zone as necessary to assure the safety of
+144 the work zone. The system shall be operated by a law
+145 enforcement officer in a manner that combines a manually
+146 operated camera system that works in conjunction with an
+147 electronically operated speed detection system to record
+148 digital imaging of a motor vehicle that is speeding.
+149 (b) The Secretary of ALEA may adopt rules, including
+150 emergency rules, to implement this section and to establish
+151 uniform procedures for law enforcement officers operating
+152 under this act.
+153 Section 7. A photographic speed enforcement system
+154 authorized under this act may be used to detect and record
+155 motor vehicle speeding violations in an active work zone. For
+156 purposes of this act, "active work zone" means a work zone
+157 that satisfies all of the following conditions:
+158 (1) The area is designated by the department or
+159 authority as a work zone.
+160 (2) Employees or contractors of the department or
+161 authority or construction, maintenance, inspection, surveying,
+162 utility, or other workers are present.
+163 (3) Work zone traffic control devices, traffic
+164 controls, or warning signs are present to notify motorists and
+165 pedestrians of construction, maintenance, inspection,
+166 surveying, utility, or other workers in the area.
+167 (4) Not less than two warning signs are placed at least
+168 500 feet in advance of the entrance warning motorists that a
+Page 6
+
+500 feet in advance of the entrance warning motorists that a
+169 photographic speed enforcement system is being operated in the
+170 area and that a violation will result in a fine.
+171 Section 8. (a) When a motor vehicle is recorded
+172 operating in an active work zone at a speed that exceeds 10
+173 miles per hour over the posted speed limit, ALEA may issue a
+174 civil traffic citation to the registered owner of the motor
+175 vehicle.
+176 (b) When a speeding violation is recorded, ALEA shall
+177 send to the owner of the motor vehicle, via mail, a notice of
+178 the civil traffic citation which was recorded by the automated
+179 photographic speed enforcement system while committing a
+180 speeding violation. The notice shall be sent not later than 30
+181 days after the date the speeding violation is recorded, as
+182 follows:
+183 (1) If the vehicle is registered in this state, to the
+184 registered owner's address as shown on the registration
+185 records of the Department of Revenue.
+186 (2) If the vehicle is registered in another state or
+187 country, to the registered owner's address as shown on the
+188 motor vehicle registration records of the other state or
+189 country.
+190 (c) The notice shall contain all of the following:
+191 (1) A description of the violation alleged, including
+192 the speed at which the motor vehicle is alleged to have been
+193 operated, and the maximum speed applicable at the location.
+194 (2) The date, time, and location of the speeding
+195 violation.
+196 (3) A copy of recorded images of the vehicle involved
+Page 7
+
+(3) A copy of recorded images of the vehicle involved
+197 in the speeding violation.
+198 (4) The amount of the civil penalty to be imposed for
+199 the speeding violation.
+200 (5) The date by which the civil penalty must be paid.
+201 For purposes of this subdivision, the Alabama State Law
+202 Enforcement Agency shall require the civil penalty to be paid
+203 by a date certain, not less than 60 days following issuance of
+204 the notice of violation.
+205 (6) A statement that the person named in the notice of
+206 violation may pay the civil penalty in lieu of appearing at an
+207 administrative adjudication hearing.
+208 (7) A statement that the person has the right to
+209 contest the imposition of the civil penalty in an
+210 administrative adjudication and information about the manner
+211 and time in which the person may contest the imposition of the
+212 civil penalty.
+213 (8) A statement that failure to pay the civil penalty
+214 or to contest liability is an admission of liability.
+215 (9) A statement that a recorded image is evidence in a
+216 proceeding for the imposition of a civil penalty.
+217 (10) Any other information necessary for issuing the
+218 notice.
+219 (11) A statement that if the registered owner is a
+220 rental car company, the company has the right to provide
+221 information to ALEA on which individual was renting the
+222 vehicle at the time of violation. The statement shall include
+223 information about how to provide the information of the
+224 individual.
+Page 8
+
+individual.
+225 (d) In lieu of issuing a notice of violation, ALEA may
+226 mail a warning notice to the registered owner. ALEA shall
+227 exercise discretion in issuing the warning notice.
+228 (e) In the event the evidence produced by a
+229 photographic speed enforcement system does not produce an
+230 image of the license plate with sufficient clarity for a speed
+231 enforcement system operator to determine the identity of the
+232 owner, and if the identity cannot otherwise be reliably
+233 established, then no notice of speeding violation may be
+234 issued pursuant to this act.
+235 Section 9. Failure to pay a civil penalty or to contest
+236 liability in a timely manner is an admission of liability in
+237 the full amount of the civil fine assessed in the notice of
+238 violation.
+239 Section 10. (a) The Secretary of ALEA shall adopt rules
+240 providing for a hearing procedure and the administrative
+241 resolution of speeding violations under this act. The rules
+242 shall provide for the hearing to be conducted by a driver
+243 license hearing officer or other hearing officer appointed by
+244 the secretary. The hearing may be informal. The hearing shall
+245 not be a contested case under the Alabama Administrative
+246 Procedure Act. Following the hearing, the hearing officer
+247 shall issue a final order.
+248 (b)(1) Speeding violations under this act shall be
+249 punished by a civil fine of two hundred fifty dollars ($250),
+250 which shall be collected as other civil judgments are
+251 collected. Court costs shall not be assessed except as
+252 provided in subsection (c).
+Page 9
+
+provided in subsection (c).
+253 (2) In no event shall a speeding violation be
+254 punishable by a criminal fine or imprisonment.
+255 (3) The Secretary of ALEA shall not assess any points
+256 against a driver license or suspend or revoke a driver license
+257 for a speeding violation.
+258 (c) A person who is found liable for a speeding
+259 violation after an adjudicative hearing or who requests an
+260 adjudicative hearing and thereafter fails to appear at the
+261 time and place of the hearing is liable for court costs and
+262 fees set in addition to the amount of the civil penalty
+263 assessed for the speeding violation. A person who is found
+264 liable for a speeding violation after an adjudicative hearing
+265 shall pay the civil penalty and costs withing 60 days of the
+266 hearing.
+267 (d) Whenever a person is ordered to pay a civil penalty
+268 under this act, the amount of the civil penalty as set by this
+269 act may not be increased, decreased, or remitted by the court,
+270 and the liability may be satisfied only by payment in full.
+271 (e) An order issued under this section shall have the
+272 same weight and effect as any other civil judgment.
+273 Section 11. (a) Any agency using a photographic speed
+274 enforcement system shall ensure the system is calibrated on an
+275 annual basis by an independent calibration laboratory.
+276 (b) The independent calibration laboratory performing
+277 the calibration shall issue a certificate of calibration for
+278 the automated photographic speed enforcement system as proof
+279 of both of the following:
+280 (1) The annual calibration check was performed.
+Page 10
+
+(1) The annual calibration check was performed.
+281 (2) The automated photographic speed enforcement system
+282 is accurately calibrated.
+283 Section 12. (a) For purposes of this act, a "speed
+284 enforcement system operator" means any of the following
+285 individuals who are trained and certified to operate a
+286 photographic speed enforcement system:
+287 (1) An employee of ALEA or a county or municipal law
+288 enforcement agency.
+289 (2) An employee of the department or authority.
+290 (3) A third party approved by the department or
+291 authority to operate or install a photographic speed
+292 enforcement system.
+293 (b) An individual may be trained and certified to
+294 operate a photographic speed enforcement system as described
+295 in subsection (a) by completing training by the manufacturer
+296 or vendor of the system in the following:
+297 (1) Certification of automated speed enforcement
+298 systems and accuracy testing.
+299 (2) Image quality requirements.
+300 (3) Chain of custody procedures.
+301 (4) Technician training and discretion for determining
+302 which violations to process.
+303 (5) Vendor performance and auditing requirements.
+304 (6) Requirements for issuance, service, and processing
+305 of notices of violation.
+306 (7) Any other requirement adopted by rule of the
+307 department.
+308 (c) The manufacturer or vendor of a photographic speed
+Page 11
+
+(c) The manufacturer or vendor of a photographic speed
+309 enforcement system shall issue a certificate of training to an
+310 individual who successfully completes the training required
+311 under subsection (b).
+312 Section 13. (a) The reliability of a photographic speed
+313 enforcement system used to produce the recorded image of the
+314 speeding violation may be attested to by affidavit of a speed
+315 enforcement system operator.
+316 (b) An affidavit of a speed enforcement system operator
+317 that alleges a violation based on an inspection of the
+318 pertinent recorded image shall be admissible in a proceeding
+319 under this act as evidence of the facts contained in the
+320 affidavit.
+321 (c) The notice of violation; the recorded and
+322 reproduced images of the speeding violation, regardless of the
+323 media on which they are recorded, accompanied by a
+324 certification of authenticity of a speed enforcement system
+325 operator; and evidence of ownership of a vehicle as shown by
+326 copies or summaries of official records, shall be admissible
+327 into evidence without foundation unless the court finds there
+328 is an indication of untrustworthiness, in which case the
+329 prosecution shall be given a reasonable opportunity to lay an
+330 evidentiary foundation.
+331 (d) The issue of whether an image of a license plate is
+332 sufficiently clear to identify the vehicle is admissible as to
+333 the weight of the evidence.
+334 Section 14. (a) The owner of a motor vehicle may raise
+335 any of the following as an affirmative defense to the
+336 imposition of liability under this act:
+Page 12
+
+imposition of liability under this act:
+337 (1) The operator of the motor vehicle was acting in
+338 compliance with the lawful order or direction of a law
+339 enforcement officer.
+340 (2) The motor vehicle was being operated as an
+341 authorized emergency vehicle.
+342 (3) The motor vehicle was stolen or being operated by a
+343 person other than the owner of the vehicle without the
+344 effective consent of the owner.
+345 (4) The license plate depicted in the recorded image of
+346 the speeding violation was a stolen license plate and being
+347 displayed on a motor vehicle other than the motor vehicle for
+348 which the license plate had been issued.
+349 (5) The person who received the notice of civil traffic
+350 citation was not the owner of the motor vehicle at the time of
+351 the speeding violation.
+352 (6) The person who received the notice of civil traffic
+353 citation was not the operator of the motor vehicle at the time
+354 of the speeding violation.
+355 (7) The operator of the vehicle was arrested or was
+356 issued a citation and notice to appear by a law enforcement
+357 officer for a traffic or criminal violation of any other
+358 portion of Title 32, Code of Alabama 1975, or any other
+359 municipal ordinance that embraces and incorporates the
+360 statutes contained in that title, and the conduct resulting in
+361 the citation occurred simultaneously with and under the same
+362 set of circumstances recorded by the automated photographic
+363 speed enforcement system.
+364 (b) The burden of raising and establishing the
+Page 13
+
+(b) The burden of raising and establishing the
+365 affirmative defense shall be on the owner of the vehicle.
+366 Section 15. A final order issued under Section 10 may
+367 be reviewed by the circuit court by the filing of a notice of
+368 appeal pursuant to Section 41-22-20, Code of Alabama 1975,
+369 within 30 days after the final order is issued. The filing of
+370 the notice of appeal shall stay enforcement of the civil
+371 penalty.
+372 Section 16. The department or authority, or its
+373 contractor, shall place traffic control devices in conformity
+374 with a nationally recognized traffic engineering handbook,
+375 including, but not limited to, the Manual of Uniform Traffic
+376 Control Devices and the traffic control plans of the
+377 department. There is a presumption that the department's
+378 actions are in compliance with this section unless the
+379 contrary is shown by a preponderance of the evidence.
+380 Section 17. The department or authority may perform the
+381 duties assigned to the department or authority under this act
+382 either directly or through a contracted manufacturer or vendor
+383 selected pursuant to state the procurement process and
+384 operating in coordination with the department or authority.
+385 Any procurements made under this act shall not be considered
+386 to be a contract for professional services. The department or
+387 authority shall follow the department or authority's
+388 procurement procedures. The department or authority shall have
+389 sole discretion on selecting a vendor or vendors.
+390 Section 18. ALEA may procure the equipment and
+391 technology necessary to operate a photographic speed
+392 enforcement system pursuant to the state procurement law. The
+Page 14
+
+enforcement system pursuant to the state procurement law. The
+393 procurement shall not be considered a contract for
+394 professional services. The system may be operated using
+395 manual, handheld, or unmanned devices capable of being mounted
+396 to a vehicle. ALEA shall have sole discretion on selecting a
+397 vendor or vendors.
+398 Section 19. All civil penalties collected under this
+399 act shall be distributed as follows:
+400 (1) Fifty percent to ALEA, to be used solely for costs
+401 relating to the implementation of this act, with the remaining
+402 proceeds deposited into the ALEA Work Zone Safety Fund.
+403 (2) Fifty percent to the department, to be used solely
+404 for costs relating to the implementation of this act, with the
+405 remaining proceeds deposited into the Transportation Work Zone
+406 Safety Fund.
+407 Section 20. The ALEA Work Zone Safety Fund is created
+408 in the State Treasury to be administered by ALEA. Funds shall
+409 be budgeted and allotted pursuant to Chapter 19 of Title 41,
+410 Code of Alabama 1975.
+411 Section 21. The Transportation Work Zone Safety Fund is
+412 created in the State Treasury to be administered by the
+413 department. Funds shall be budgeted and allotted pursuant to
+414 Chapter 19 of Title 41, Code of Alabama 1975.
+415 Section 22. Sections 1 through 19 of this act are
+416 repealed September 30, 2028.
+417 Section 23. This act shall become effective
+418 immediately.
+Page 15

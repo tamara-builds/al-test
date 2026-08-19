@@ -1,0 +1,605 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB109 INTRODUCED
+1 SB109
+2 W1BVX5E-1
+3 By Senator Elliott
+4 RFD: County and Municipal Government
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+W1BVX5E-1 01/12/2026 CMH (L)bm 2025-3691
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would authorize peer-to-peer car
+6 sharing programs, which are business platforms that
+7 connect vehicle owners with drivers, to enable the
+8 sharing of vehicles for financial consideration in this
+9 state.
+10 This bill would also provide requirements for
+11 the operation of a peer-to-peer car sharing program,
+12 including insurance requirements, notification
+13 requirements, tax requirements, recordkeeping and
+14 reporting requirements, liability requirements,
+15 consumer protection disclosure requirements, and safety
+16 recall requirements.
+17
+18
+19 A BILL
+20 TO BE ENTITLED
+21 AN ACT
+22
+23 Relating to motor vehicles; to establish the
+24 Peer-to-Peer Car Sharing Program Act; to provide requirements
+25 for the operation of peer-to-peer car sharing programs; and to
+26 amend Section 40-12-222, Code of Alabama 1975, as last amended
+27 by Act 2025-240, to provide for the taxation of peer-to-peer
+28 car sharing programs under certain conditions.
+Page 1
+
+car sharing programs under certain conditions.
+SB109 INTRODUCED
+29 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+30 Section 1. Sections 1 through 14 of this act shall be
+31 known and may be cited as the Peer-to-Peer Car Sharing Program
+32 Act.
+33 Section 2. As used in Sections 1 through 14 of this
+34 act, the following words have the following meanings:
+35 (1) CAR SHARING DELIVERY PERIOD. The period of time
+36 during which a shared vehicle is being delivered to the
+37 location of the car sharing start time, if applicable, as
+38 documented by the governing peer-to-peer car sharing program
+39 agreement.
+40 (2) CAR SHARING PERIOD. The period of time that
+41 commences with the car sharing delivery period or, if there is
+42 no car sharing delivery period, that commences with the car
+43 sharing start time and, in either case, ends at the car
+44 sharing termination time.
+45 (3) CAR SHARING START TIME. The time when the shared
+46 vehicle becomes subject to the control of the shared vehicle
+47 driver at or after the time the reservation of a shared
+48 vehicle is scheduled to begin, as documented in the records of
+49 a peer-to-peer car sharing program.
+50 (4) CAR SHARING TERMINATION TIME. The earliest of the
+51 following events:
+52 a. The expiration of the agreed-upon period of time
+53 established for the use of a shared vehicle according to the
+54 terms of the peer-to-peer car sharing program agreement, if
+55 the shared vehicle is delivered to the agreed upon location in
+56 the agreement.
+Page 2
+
+the agreement.
+SB109 INTRODUCED
+57 b. When the shared vehicle is returned to a location as
+58 alternatively agreed upon by the shared vehicle owner and the
+59 shared vehicle driver as communicated through a peer-to-peer
+60 car sharing program, if the alternatively agreed upon location
+61 is incorporated into the peer-to-peer car sharing program
+62 agreement.
+63 c. When the shared vehicle owner, or the shared vehicle
+64 owner's authorized designee, takes possession and control of
+65 the shared vehicle.
+66 (5) PEER-TO-PEER CAR SHARING. The authorized use of a
+67 vehicle by an individual other than the vehicle's owner
+68 through a peer-to-peer car sharing program. The term does not
+69 include any of the following:
+70 a. A rental or leasing transaction of tangible personal
+71 property which is subject to Article 4 of Chapter 12 of Title
+72 40, Code of Alabama 1975, except as provided by Section
+73 40-12-222(a)(2)b.1., Code of Alabama 1975.
+74 b. Hiring, leasing, or renting a motor vehicle under a
+75 rental agreement governed by Section 32-15-6, Code of Alabama
+76 1975.
+77 (6) PEER-TO-PEER CAR SHARING PROGRAM. A business
+78 platform that connects vehicle owners with drivers to enable
+79 the sharing of vehicles for financial consideration. The term
+80 does not include any of the following:
+81 a. A person engaging or continuing within this state in
+82 the business of leasing or renting any automotive vehicle or
+83 truck trailer, semitrailer, or house trailer that is subject
+84 to Article 4 of Chapter 12 of Title 40, Code of Alabama 1975.
+Page 3
+
+to Article 4 of Chapter 12 of Title 40, Code of Alabama 1975.
+SB109 INTRODUCED
+85 b. A person facilitating a rental transaction of
+86 tangible personal property which is subject to Article 4 of
+87 Chapter 12 of Title 40, Code of Alabama 1975, except as
+88 provided by Section 40-12-222(a)(2)b.1., Code of Alabama 1975.
+89 c. A motor vehicle rental company licensed pursuant to
+90 Section 27-7-5.1, Code of Alabama 1975.
+91 d. A person facilitating rental transactions as
+92 described in Section 40-2-11(a)(7)c., Code of Alabama 1975.
+93 (7) PEER-TO-PEER CAR SHARING PROGRAM AGREEMENT. The
+94 terms and conditions applicable to a shared vehicle owner and
+95 a shared vehicle driver that govern the use of a shared
+96 vehicle through a peer-to-peer car sharing program. The term
+97 does not include any of the following:
+98 a. A motor vehicle rental agreement governed by Section
+99 32-15-6, Code of Alabama 1975.
+100 b. A rental agreement with a motor vehicle rental
+101 company licensed pursuant to Section 27-7-5.1, Code of Alabama
+102 1975.
+103 (8) SHARED VEHICLE. A vehicle that is available for
+104 sharing through a peer-to-peer car sharing program. The term
+105 does not include an automotive vehicle or a truck trailer,
+106 semitrailer, or house trailer that is subject to Article 4 of
+107 Chapter 12 of Title 40, Code of Alabama 1975, except as
+108 provided by Section 40-12-222(a)(2)b.1., Code of Alabama 1975.
+109 (9) SHARED VEHICLE DRIVER. An individual who has been
+110 authorized to drive a shared vehicle by the shared vehicle
+111 owner under a peer-to-peer car sharing program agreement. The
+112 term does not include a person hiring, leasing, or renting a
+Page 4
+
+term does not include a person hiring, leasing, or renting a
+SB109 INTRODUCED
+113 motor vehicle under a rental agreement with a motor vehicle
+114 rental company licensed pursuant to Section 27-7-5.1, Code of
+115 Alabama 1975, or under a rental agreement governed by Section
+116 32-15-6, Code of Alabama 1975.
+117 (10) SHARED VEHICLE OWNER. The registered owner, or a
+118 person or entity designated by the registered owner, of a
+119 vehicle made available for sharing to shared vehicle drivers
+120 through a peer-to-peer car sharing program. The term does not
+121 include any of the following:
+122 a. A lessor that is subject to Article 4 of Chapter 12
+123 of Title 40, Code of Alabama 1975, except as provided by
+124 Section 40-12-222(a)(2)b.1., Code of Alabama 1975.
+125 b. A motor vehicle rental company licensed pursuant to
+126 Section 27-7-5.1, Code of Alabama 1975.
+127 Section 3. (a) Except as provided in subsection (b), a
+128 peer-to-peer car sharing program shall assume liability of a
+129 shared vehicle owner for bodily injury or property damage to
+130 third parties during the car sharing period in an amount
+131 stated in the peer-to-peer car sharing program agreement. The
+132 amount shall not be less than the proof of financial
+133 responsibility required under Chapter 7 of Title 32, Code of
+134 Alabama 1975.
+135 (b) Notwithstanding the definition of "car sharing
+136 termination time," the assumption of liability under
+137 subsection (a) does not apply to any shared vehicle owner
+138 under either of the following circumstances:
+139 (1) When a shared vehicle owner makes an intentional or
+140 fraudulent material misrepresentation or omission to the
+Page 5
+
+fraudulent material misrepresentation or omission to the
+SB109 INTRODUCED
+141 peer-to-peer car sharing program before the car sharing period
+142 in which the loss occurred.
+143 (2) When a shared vehicle owner acts in concert with a
+144 shared vehicle driver who fails to return the shared vehicle
+145 pursuant to the terms of the peer-to-peer car sharing program
+146 agreement.
+147 (c) Notwithstanding the definition of "car sharing
+148 termination time," the assumption of liability under
+149 subsection (a) applies to bodily injury or property damage to
+150 third parties as required under Chapter 7 of Title 32, Code of
+151 Alabama 1975.
+152 (d) A peer-to-peer car sharing program shall ensure
+153 that during each car sharing period the shared vehicle owner
+154 and the shared vehicle driver are insured under a motor
+155 vehicle liability insurance policy that does all of the
+156 following:
+157 (1) Provides insurance coverage in amounts no less than
+158 the minimum amounts required for proof of financial
+159 responsibility described under Section 32-7-2, Code of Alabama
+160 1975.
+161 (2) Does either of the following:
+162 a. Recognizes that the shared vehicle insured under the
+163 policy is made available and used through a peer-to-peer car
+164 sharing program.
+165 b. Does not exclude the use of a shared vehicle by a
+166 shared vehicle driver.
+167 (e) The insurance required under subsection (d) may be
+168 purchased by any of the following:
+Page 6
+
+purchased by any of the following:
+SB109 INTRODUCED
+169 (1) A shared vehicle owner.
+170 (2) A shared vehicle driver.
+171 (3) A peer-to-peer car sharing program.
+172 (4) Any combination of a shared vehicle owner, a shared
+173 vehicle driver, or a peer-to-peer car sharing program.
+174 (f) The insurance described in subsection (e), that is
+175 satisfying the requirement of subsection (d), shall be primary
+176 during each car sharing period. If a claim occurs in another
+177 state with minimum financial responsibility limits higher than
+178 those described in Section 32-7-2, Code of Alabama 1975,
+179 during the car sharing period, the insurance maintained under
+180 subsection (e) shall satisfy the difference in minimum
+181 coverage amounts, up to the applicable policy limits.
+182 (g) The insurer, insurers, or peer-to-peer car sharing
+183 program providing coverage under subsection (d) or (e) shall
+184 assume primary liability for a claim when either of the
+185 following occurs:
+186 (1) A dispute exists as to who was in control of the
+187 shared vehicle at the time of the loss and the peer-to-peer
+188 car sharing program does not have available, did not retain,
+189 or fails to provide the information required by Section 6.
+190 (2) A dispute exists as to whether the shared vehicle
+191 was returned to the alternatively agreed upon location as
+192 required under Section 2(4)b.
+193 (h) If insurance purchased by a shared vehicle owner or
+194 shared vehicle driver pursuant to subsection (e) has lapsed or
+195 does not provide the required coverage, insurance maintained
+196 by a peer-to-peer car sharing program shall provide the
+Page 7
+
+by a peer-to-peer car sharing program shall provide the
+SB109 INTRODUCED
+197 coverage required by subsection (d) beginning with the first
+198 dollar of a claim and shall have the duty to defend the claim
+199 except under circumstances as set forth in subsection (b).
+200 (i) Coverage under an automobile insurance policy
+201 maintained by the peer-to-peer car sharing program may not be
+202 dependent on another automobile insurer first denying a claim
+203 and may not require another automobile insurance policy to
+204 first deny a claim.
+205 (j) Nothing in this section does either of the
+206 following:
+207 (1) Limits the liability of a peer-to-peer car sharing
+208 program for any act or omission of the peer-to-peer car
+209 sharing program which results in injury to any person as a
+210 result of the use of a shared vehicle through a peer-to-peer
+211 car sharing program.
+212 (2) Limits the ability of the peer-to-peer car sharing
+213 program to seek indemnification, by contract, from the shared
+214 vehicle owner or the shared vehicle driver for economic loss
+215 sustained by the peer-to-peer car sharing program resulting
+216 from a breach of the terms and conditions of the peer-to-peer
+217 car sharing program agreement.
+218 Section 4. When the owner of a vehicle registers as a
+219 shared vehicle owner on a peer-to-peer car sharing program,
+220 and before the owner makes a vehicle available for
+221 peer-to-peer car sharing on the peer-to-peer car sharing
+222 program, the peer-to-peer car sharing program shall notify the
+223 owner that, if the vehicle has a lien against the vehicle, the
+224 use of the vehicle through the peer-to-peer car sharing
+Page 8
+
+use of the vehicle through the peer-to-peer car sharing
+SB109 INTRODUCED
+225 program, including use without physical damage coverage, may
+226 violate the terms of the contract with the lienholder.
+227 Section 5. (a) An authorized insurer that writes motor
+228 vehicle liability insurance in this state may exclude any and
+229 all coverage and the duty to defend or indemnify for any claim
+230 afforded under a shared vehicle owner's motor vehicle
+231 liability insurance policy, including, but not limited to, all
+232 of the following:
+233 (1) Liability coverage for bodily injury and property
+234 damage.
+235 (2) Personal injury protection coverage.
+236 (3) Uninsured and underinsured motorist coverage.
+237 (4) Medical payments coverage.
+238 (5) Comprehensive physical damage coverage.
+239 (6) Collision physical damage coverage.
+240 (b) Nothing in Sections 1 through 14 of this act
+241 invalidates, limits, or restricts any of the following:
+242 (1) An exclusion contained in a motor vehicle liability
+243 insurance policy, including any insurance policy in use or
+244 approved for use, which excludes coverage for motor vehicles
+245 made available for rent, sharing, hire, or for any business
+246 use.
+247 (2) An insurer's ability under existing law to
+248 underwrite any insurance policy.
+249 (3) An insurer's ability under existing law to cancel
+250 and nonrenew policies.
+251 Section 6. (a) A peer-to-peer car sharing program shall
+252 collect and verify records pertaining to the use of all shared
+Page 9
+
+collect and verify records pertaining to the use of all shared
+SB109 INTRODUCED
+253 vehicles used in a peer-to-peer car sharing program,
+254 including, but not limited to, all of the following:
+255 (1) The number of times the shared vehicle is used.
+256 (2) Car sharing period pick up and drop off locations.
+257 (3) Fees paid by the shared vehicle driver.
+258 (4) Revenues received by the shared vehicle owner.
+259 (b) To facilitate a claim coverage investigation,
+260 settlement, negotiation, or litigation, the peer-to-peer car
+261 sharing program, upon request, shall provide the records
+262 collected under subsection (a) to the shared vehicle owner,
+263 the shared vehicle owner's insurer, or the shared vehicle
+264 driver's insurer.
+265 (c) The peer-to-peer car sharing program shall retain
+266 the records for a time period not less than the applicable
+267 personal injury statute of limitations.
+268 Section 7. A peer-to-peer car sharing program and a
+269 shared vehicle owner shall be exempt from vicarious liability,
+270 consistent with 49 U.S.C. § 30106, under any state or local
+271 law that imposes liability solely based on vehicle ownership.
+272 Section 8. A motor vehicle insurer that defends or
+273 indemnifies a claim against a shared vehicle that is excluded
+274 under the terms of its policy shall have the right to seek
+275 contribution from the motor vehicle insurer of the
+276 peer-to-peer car sharing program if the claim is both of the
+277 following:
+278 (1) Made against the shared vehicle owner or the shared
+279 vehicle driver for loss or injury that occurs during the car
+280 sharing period.
+Page 10
+
+sharing period.
+SB109 INTRODUCED
+281 (2) Excluded under the terms of its policy.
+282 Section 9. (a) Notwithstanding any law to the contrary,
+283 a peer-to-peer car sharing program shall have an insurable
+284 interest in a shared vehicle during the car sharing period.
+285 (b) A peer-to-peer car sharing program may own and
+286 maintain as the named insured one or more policies of motor
+287 vehicle liability insurance that provide coverage for any of
+288 the following:
+289 (1) Liabilities assumed by the peer-to-peer car sharing
+290 program under a peer-to-peer car sharing program agreement.
+291 (2) Any liability of the shared vehicle owner.
+292 (3) Damage or loss to the shared motor vehicle.
+293 (4) Any liability of the shared vehicle driver.
+294 Section 10. Each peer-to-peer car sharing program
+295 agreement made in this state shall disclose to the shared
+296 vehicle owner and the shared vehicle driver all of the
+297 following:
+298 (1) Any right of the peer-to-peer car sharing program
+299 to seek indemnification from the shared vehicle owner or the
+300 shared vehicle driver for economic loss sustained by the
+301 peer-to-peer car sharing program resulting from a breach of
+302 the terms and conditions of the peer-to-peer car sharing
+303 program agreement.
+304 (2) That a motor vehicle liability insurance policy
+305 issued to the shared vehicle owner for the shared vehicle or
+306 to the shared vehicle driver does not provide a defense or
+307 indemnification for any claim asserted by the peer-to-peer car
+308 sharing program.
+Page 11
+
+sharing program.
+SB109 INTRODUCED
+309 (3) That the peer-to-peer car sharing program's
+310 insurance coverage on the shared vehicle owner and the shared
+311 vehicle driver is in effect only during each car sharing
+312 period and that, for any use of the shared vehicle by the
+313 shared vehicle driver after the car sharing termination time,
+314 the shared vehicle driver and the shared vehicle owner may not
+315 have insurance coverage.
+316 (4) The daily rate, fees, and, if applicable, any
+317 insurance or protection package costs that are charged to the
+318 shared vehicle owner or the shared vehicle driver.
+319 (5) That the shared vehicle owner's motor vehicle
+320 liability insurance may not provide coverage for a shared
+321 vehicle, including as a commercial rental.
+322 (6) An emergency telephone number to personnel capable
+323 of fielding roadside assistance and other customer service
+324 inquiries.
+325 (7) Whether there are conditions under which a shared
+326 vehicle driver must maintain a personal automobile insurance
+327 policy with certain applicable coverage limits on a primary
+328 basis in order to book a shared motor vehicle.
+329 (8) The tire requirements for motor vehicles operated
+330 on the highways of the state under Section 32-5-210, Code of
+331 Alabama 1975.
+332 Section 11. (a) A peer-to-peer car sharing program may
+333 not enter into a peer-to-peer car sharing program agreement
+334 with an individual who will operate a shared vehicle unless
+335 the individual meets any of the following requirements:
+336 (1) Is 18 years of age or older and holds a driver
+Page 12
+
+(1) Is 18 years of age or older and holds a driver
+SB109 INTRODUCED
+337 license issued under Section 32-6-1, Code of Alabama 1975,
+338 which authorizes him or her to operate vehicles of the class
+339 of the shared vehicle.
+340 (2) Is a nonresident who meets both of the following
+341 requirements:
+342 a. Has a driver license issued by the state or country
+343 of his or her residence which authorizes him or her to drive
+344 vehicles of the class of the shared vehicle.
+345 b. Is 18 years of age or older.
+346 (3) Is 18 years of age or older and is specifically
+347 authorized by Section 32-6-2, Code of Alabama 1975, to drive
+348 vehicles of the class of the shared vehicle.
+349 (b) A peer-to-peer car sharing program shall keep a
+350 record of all of the following:
+351 (1) The name and address of the shared vehicle driver.
+352 (2) A copy of the driver license of the shared vehicle
+353 driver and each other person, if any, who will operate the
+354 shared vehicle.
+355 (3) The place of issuance of the driver license.
+356 Section 12. (a) A peer-to-peer car sharing program
+357 shall have sole responsibility for any equipment, including a
+358 Global Positioning System or other special equipment, that is
+359 placed in or on the shared vehicle to monitor or facilitate
+360 the car sharing transaction.
+361 (b) A peer-to-peer car sharing program shall indemnify
+362 and hold harmless the shared vehicle owner for any damage to
+363 or theft of such equipment during the car sharing period not
+364 caused by the shared vehicle owner.
+Page 13
+
+caused by the shared vehicle owner.
+SB109 INTRODUCED
+365 (c) A peer-to-peer car sharing program may seek
+366 indemnity from the shared vehicle driver for any loss or
+367 damage to such equipment that occurs during the car sharing
+368 period.
+369 Section 13. (a) When a vehicle owner registers as a
+370 shared vehicle owner on a peer-to-peer car sharing program,
+371 and before a shared vehicle owner makes a shared vehicle
+372 available for peer-to-peer car sharing on the peer-to-peer car
+373 sharing program, the peer-to-peer car sharing program shall do
+374 both of the following:
+375 (1) Verify that the shared vehicle does not have any
+376 safety recalls on the vehicle for which the repairs have not
+377 been made.
+378 (2) Notify the shared vehicle owner of the requirements
+379 under subsection (b).
+380 (b)(1) If a shared vehicle owner has received an actual
+381 notice of a safety recall on a shared vehicle, the shared
+382 vehicle owner may not make the vehicle available as a shared
+383 vehicle on a peer-to-peer car sharing program until the safety
+384 recall repair has been made.
+385 (2) If a shared vehicle owner receives an actual notice
+386 of a safety recall on a shared vehicle while the shared
+387 vehicle is made available on the peer-to-peer car sharing
+388 program, the shared vehicle owner shall change the status of
+389 the vehicle to unavailable as soon as practicably possible.
+390 The shared vehicle may not be listed as available until the
+391 safety recall repair has been made.
+392 (3) If a shared vehicle owner receives an actual notice
+Page 14
+
+(3) If a shared vehicle owner receives an actual notice
+SB109 INTRODUCED
+393 of a safety recall on a shared vehicle while the shared
+394 vehicle is in the possession of a shared vehicle driver and
+395 engaged in peer-to-peer car sharing during a car sharing
+396 period, the shared vehicle owner shall notify the peer-to-peer
+397 car sharing program about the safety recall as soon as
+398 practicably possible after receiving the notice of the safety
+399 recall. The shared vehicle may not be listed as available
+400 until the safety recall repair has been made.
+401 Section 14. (a) Nothing in Sections 1 through 14 of
+402 this act shall expand or restrict in any manner the respective
+403 rights, obligations, or limitations of motor vehicle
+404 manufacturers and licensed new motor vehicle dealers as set
+405 forth in Chapter 20 of Title 8, Code of Alabama 1975.
+406 (b) Nothing in Sections 1 through 14 of this act limits
+407 the right of an airport authority to regulate and impose fees
+408 on peer-to-peer car sharing programs that enable peer-to-peer
+409 car sharing at an airport.
+410 Section 15. Section 40-12-222, Code of Alabama 1975, as
+411 last amended by Act 2025-240, is amended to read as follows:
+412 "§40-12-222
+413 (a)(1) In addition to all other taxes now imposed by
+414 law, there is hereby levied and shall be collected a privilege
+415 or license tax on each person engaging or continuing within
+416 this state in the business of leasing or renting tangible
+417 personal property at the rate of four percent of the gross
+418 proceeds derived by the lessor from the lease or rental of
+419 tangible personal property.
+420 (2) Thea. Except as provided in paragraph b., the
+Page 15
+
+(2) Thea. Except as provided in paragraph b., the
+SB109 INTRODUCED
+421 privilege or license tax on each person engaging or continuing
+422 within this state in the business of leasing or renting any
+423 automotive vehicle or truck trailer, semitrailer, or house
+424 trailer shall be at the rate of one and one-half percent of
+425 the gross proceeds derived by the lessor from the lease or
+426 rental of such automotive vehicle or truck trailer,
+427 semitrailer, or house trailer.
+428 b.1. For purposes of paragraph a. only, the business of
+429 leasing or renting an automotive vehicle includes peer-to-peer
+430 car sharing as defined in Section 2 of the act amending this
+431 section. The gross proceeds collected by a peer-to-peer car
+432 sharing program as the leasing facilitator under Sections 1
+433 through 14 of the act amending this section shall be subject
+434 to the tax set forth in paragraph a. only for those
+435 transactions where the shared vehicle was not subject to the
+436 applicable sales and use taxes upon purchase in the
+437 jurisdiction in which the shared vehicle owner purchased the
+438 vehicle or if sales and use taxes were not paid at the time of
+439 initial titling and registration in this state.
+440 2. The peer-to-peer car sharing program shall require a
+441 shared vehicle owner to certify if the shared vehicle owner
+442 paid the applicable sales and use taxes upon purchase or at
+443 the time of initial titling and registration in this state.
+444 The peer-to-peer car sharing program shall retain records of a
+445 shared vehicle owner's certification under this paragraph.
+446 c. Notwithstanding paragraph b., beginning October 1,
+447 2026, any local rental tax levied pursuant to Section
+448 45-37-244.01 shall be collected and remitted by any
+Page 16
+
+45-37-244.01 shall be collected and remitted by any
+SB109 INTRODUCED
+449 peer-to-peer car sharing program.
+450 (3) The tax levied in this article shall not apply to
+451 any leasing or rental, as lessor, by the state or any
+452 municipality or county in the state, or any public corporation
+453 organized under the laws of the state, including, without
+454 limiting the generality of the foregoing, any corporation
+455 organized under the provisions of Division 1 of Article 4 of
+456 Chapter 54, Title 11Division 1 of Article 4 of Chapter 54 of
+457 Title 11.
+458 (4) The privilege or license tax on each person or firm
+459 engaging or continuing within this state in the business of
+460 the leasing and rental of linens and garments shall be at the
+461 rate of two percent of the gross proceeds derived by the
+462 lessor from the lease or rental of the linens and garments.
+463 (b) Notwithstanding subsection (a), nothing shall
+464 prohibit a lessor subject to a state or local privilege or
+465 license tax from passing the amounts on to a lessee by adding
+466 the taxes to the leasing price or otherwise; provided,
+467 however, that all amounts passed on to the lessee shall be
+468 includable in the gross proceeds derived from the lease of
+469 tangible personal property which shall be subject to the
+470 privilege or license tax owed by the lessor.
+471 (c) The state and applicable local privilege or license
+472 taxes applicable to a lease or rental transaction to which a
+473 lessor is subject shall be determined as follows:
+474 (1) Except for automotive vehicles as provided in
+475 subdivision (2) and commercial aircraft as provided in
+476 subdivision (3), the following shall apply:
+Page 17
+
+subdivision (3), the following shall apply:
+SB109 INTRODUCED
+477 a. When tangible personal property is delivered to the
+478 lessee by the lessor or his or her agent, the privilege or
+479 license tax levy shall be determined based on where the
+480 property is delivered.
+481 b. When tangible personal property is picked up at the
+482 lessor's rental location by the lessee or his or her agent,
+483 the privilege or license tax levy shall be determined based on
+484 the rental location.
+485 (2) For automotive vehicles required to be registered
+486 pursuant to Section 32-6-61, each lease payment is considered
+487 a separate lease transaction and occurs in the location as
+488 provided below and the following rules shall apply:
+489 a. The privilege or license tax levy on any
+490 nonrecurring gross proceeds due at the inception of the lease
+491 to a new motor vehicle dealer or a used motor vehicle dealer
+492 licensed pursuant to Section 40-12-391, including any
+493 capitalized cost reduction or other fee that is retained by
+494 the dealer in connection with its initiation of the lease,
+495 shall be determined based on the location of the dealer where
+496 the lease was initiated.
+497 b. The privilege or license tax levy on gross proceeds
+498 other than those described in paragraph a., including the
+499 initial lease or rental payment and all subsequent lease or
+500 rental payments, shall be determined based on the garage
+501 address of the lessee as provided to the county licensing
+502 official. The lessor is considered to be engaging or
+503 continuing within this state in the business of leasing or
+504 renting tangible personal property when its lessee has a
+Page 18
+
+renting tangible personal property when its lessee has a
+SB109 INTRODUCED
+505 garage address within this state.
+506 (3) For commercial aircraft, which are aircraft used by
+507 certificated or licensed air carriers, the privilege or
+508 license tax levy on gross proceeds, including the initial
+509 lease or rental payment and all subsequent lease or rental
+510 payments, shall be determined based on the location of the
+511 aircraft when the aircraft is first entered into revenue
+512 service."
+513 Section 16. This act shall become effective on October
+514 1, 2026.
+Page 19

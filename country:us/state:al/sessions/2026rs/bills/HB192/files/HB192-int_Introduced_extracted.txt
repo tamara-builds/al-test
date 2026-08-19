@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB192 INTRODUCED
+1 HB192
+2 I3RK36W-1
+3 By Representative Faulkner
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+I3RK36W-1 01/05/2026 CMH (L)bm 2025-3312
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an individual is justified
+6 in using physical force upon another in order to defend
+7 himself or herself or a third party from what the
+8 acting individual reasonably believes to be the use or
+9 imminent use of unlawful physical force by another.
+10 Existing law also provides specified circumstances
+11 where an individual may use deadly physical force
+12 against another.
+13 Prior to the commencement of a trial against a
+14 defendant in which the defendant claims his or her use
+15 of force is justified, the defendant must show by a
+16 preponderance of the evidence that his or her use of
+17 force was justified.
+18 This bill would provide that in such a
+19 proceeding, if the defendant concealed, altered,
+20 destroyed, or otherwise disposed of a weapon used in
+21 the commission of physical force or deadly physical
+22 force, other than voluntarily providing the weapon to
+23 law enforcement, there is a presumption that the
+24 defendant's use of force was not justified.
+25
+26
+27
+28 A BILL
+Page 1
+
+A BILL
+HB192 INTRODUCED
+29 TO BE ENTITLED
+30 AN ACT
+31
+32 Relating to criminal law; to amend Section 13A-3-23,
+33 Code of Alabama 1975, to further provide for the justification
+34 of using physical force in defense of self or an individual;
+35 to establish a presumption that the use of force in defense of
+36 self or another is not justified when a defendant engages in
+37 certain conduct.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. Section 13A-3-23, Code of Alabama 1975, is
+40 amended to read as follows:
+41 "§13A-3-23
+42 (a) A person is justified in using physical force upon
+43 another person in order to when both of the following are
+44 satisfied:
+45 (1) The person's use of force is to defend himself or
+46 herself or a third person from what he or she reasonably
+47 believes to be the use or imminent use of unlawful physical
+48 force by anotherthat other person, and he or she may use.
+49 (2) The person uses a degree of force which he or she
+50 reasonably believes to be necessary for the purpose.
+51 (b)(1) A person may use deadly physical force, and is
+52 legally presumed to be justified in using deadly physical
+53 force in self-defense or the defense of another person
+54 pursuant to this subdivision (5), if the person reasonably
+55 believes that another person is doing any of the following:
+56 (1)a. Using or about to use unlawful deadly physical
+Page 2
+
+(1)a. Using or about to use unlawful deadly physical
+HB192 INTRODUCED
+57 force.
+58 (2)b. Using or about to use physical force against an
+59 occupant of a dwelling while committing or attempting to
+60 commit a burglary of such dwelling.
+61 (3)c. Committing or about to commit a kidnapping in any
+62 degree, assault in the first or second degree, burglary in any
+63 degree, robbery in any degree, forcible rape, or forcible
+64 sodomy.
+65 (4)d. Using or about to use physical force against an
+66 owner, employee, or other person authorized to be on business
+67 property when the business is closed to the public while
+68 committing or attempting to commit a crime involving death,
+69 serious physical injury, robbery, kidnapping, rape, sodomy, or
+70 a crime of a sexual nature involving a child under the age of
+71 12 years of age.
+72 (5)e. In the process of unlawfully and forcefully
+73 entering, or has unlawfully and forcefully entered, a
+74 dwelling, residence, business property, or occupied vehicle,
+75 or federally licensed nuclear power facility, or is in the
+76 process of sabotaging or attempting to sabotage a federally
+77 licensed nuclear power facility, or is attempting to remove,
+78 or has forcefully removed, a person against his or her will
+79 from any dwelling, residence, business property, or occupied
+80 vehicle when the person has a legal right to be there, and
+81 provided that the person using the deadly physical force knows
+82 or has reason to believe that an unlawful and forcible entry
+83 or unlawful and forcible act is occurring.
+84 (2) The legal presumption that a person using deadly
+Page 3
+
+(2) The legal presumption that a person using deadly
+HB192 INTRODUCED
+85 physical force is justified to do so pursuant to this
+86 subdivision does not apply if any of the following apply:
+87 a. The person against whom the defensive force is used
+88 has the right to be in or is a lawful resident of the
+89 dwelling, residence, or vehicle, such as an owner or lessee,
+90 and there is not an injunction for protection from domestic
+91 violence or a written pretrial supervision order of no contact
+92 against that person;
+93 b. The person sought to be removed is a child or
+94 grandchild, or is otherwise in the lawful custody or under the
+95 lawful guardianship of, the person against whom the defensive
+96 force is used;
+97 c. The person who uses defensive force is engaged in an
+98 unlawful activity or is using the dwelling, residence, or
+99 occupied vehicle to further an unlawful activity; or
+100 d. The person against whom the defensive force is used
+101 is a law enforcement officer acting in the performance of his
+102 or her official duties.
+103 (b)(c) A person who is otherwise justified under
+104 subsection (a) this section in using physical force, including
+105 deadly physical force, and who is not engaged in an unlawful
+106 activity, and who is in any place where he or she has the
+107 right to be has no duty to retreat and has the right to stand
+108 his or her ground.
+109 (c)(d) Notwithstanding the provisions of subsection (a)
+110 or (b), a person is not justified in using physical force if
+111 any of the following apply:
+112 (1) With intent to cause physical injury or death to
+Page 4
+
+(1) With intent to cause physical injury or death to
+HB192 INTRODUCED
+113 another person, he or she provoked the use of unlawful
+114 physical force by such the other person.
+115 (2) He or she was the initial aggressor, except that
+116 his or her use of physical force upon another person under the
+117 circumstances is justifiable if he or she withdraws from the
+118 encounter and effectively communicates to the other person his
+119 or her intent to do so, but the latter other person
+120 nevertheless continues or threatens the use of unlawful
+121 physical force.
+122 (3) The physical force involved was the product of a
+123 combat by agreement not specifically authorized by law.
+124 (e) At any time when a defense is claimed under this
+125 section, if the defendant concealed, altered, destroyed, or
+126 otherwise disposed of the weapon used in the commission of the
+127 alleged offense, other than by voluntarily providing the
+128 unaltered weapon to law enforcement, there shall be a
+129 rebuttable presumption that the defendant's use of physical
+130 force, including deadly physical force, was not justified.
+131 (d)(f)(1) A person who uses force, including deadly
+132 physical force, as justified and permitted in this section, is
+133 immune from criminal prosecution and civil action for the use
+134 of such force, unless the force was determined to be unlawful.
+135 (2) Prior to the commencement of a trial in a case in
+136 which a defense is claimed under this section, the court
+137 having jurisdiction over the case, upon motion of the
+138 defendant, shall conduct a pretrial hearing to determine
+139 whether force, including deadly force, used by the defendant
+140 was justified or whether it was unlawful under this section.
+Page 5
+
+was justified or whether it was unlawful under this section.
+HB192 INTRODUCED
+141 During any pretrial hearing to determine immunity, the
+142 defendant must show by a preponderance of the evidence that he
+143 or she is immune from criminal prosecution.
+144 (3) If, after a pretrial hearing under subdivision (2),
+145 the court concludes that the defendant has proven by a
+146 preponderance of the evidence that force, including deadly
+147 force, was justified, the court shall enter an order finding
+148 the defendant immune from criminal prosecution and dismissing
+149 the criminal charges.
+150 (4) If the defendant does not meet his or her burden of
+151 proving immunity at the pre-trial hearing, he or she may
+152 continue to pursue the defense of self-defense or defense of
+153 another person at trial. Once the issue of self-defense or
+154 defense of another person has been raised by the defendant,
+155 the state continues to bear the burden of proving beyond a
+156 reasonable doubt all of the elements of the charged conduct.
+157 (e)(g) A law enforcement agency may use standard
+158 procedures for investigating the use of force described in
+159 subsection (a)this section, but the agency may not arrest the
+160 any person for using force unless it determines that there is
+161 probable cause that the force used was unlawful."
+162 Section 2. This act shall become effective on October
+163 1, 2026.
+Page 6

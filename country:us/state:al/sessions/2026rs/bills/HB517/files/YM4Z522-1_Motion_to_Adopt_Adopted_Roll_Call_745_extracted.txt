@@ -1,0 +1,419 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 745
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+YM4Z522-1 03/02/2026 KHF (F)KHF 2026-1161 WAYS AND MEANS
+WAYS AND MEANS EDUCATION SUBSTITUTE TO HB517
+OFFERED BY REPRESENTATIVE COLVIN
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish the Talent Readiness
+6 and Industry Needs (TRAIN) Act to authorize businesses
+7 to partner with eligible educational institutions to
+8 provide career and technical education instruction.
+9 This bill would incentivize employers to loan
+10 qualified employees to serve as instructors in career
+11 and technical education programs by creating a tax
+12 credit to offset their income, financial institution
+13 excise, and utility tax liability.
+14 This bill would establish a workforce teaching
+15 certificate and a streamlined process for qualified
+16 employees to obtain a certificate to teach a designated
+17 career and technical education program at an eligible
+18 educational institution.
+19
+20
+21
+22 A BILL
+23 TO BE ENTITLED
+24 AN ACT
+25
+26 Relating to career and technical education; to enact
+27 the Talent Readiness and Industry Needs (TRAIN) Act; to
+28 authorize businesses to partner with eligible educational
+Page 1
+
+authorize businesses to partner with eligible educational
+29 institutions to provide career and technical education
+30 instruction to students; to provide state income, financial
+31 institution excise, and utility tax credits to employers that
+32 loan qualified employees to serve as instructors in career and
+33 technical education programs at eligible educational
+34 institutions; and to establish a workforce teaching
+35 certificate and a streamlined process for qualified employees
+36 to obtain a certificate to teach a designated career and
+37 technical education program at an eligible educational
+38 institution.
+39 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+40 Section 1. This act shall be known and may be cited as
+41 the Talent Readiness and Industry Needs (TRAIN) Act.
+42 Section 2. The Legislature finds that Career and
+43 Technical Education (CTE) plays a vital role in preparing
+44 students for in-demand careers across a range of industries
+45 including manufacturing, information technology, construction,
+46 and skilled trades. Many school districts across the state
+47 face challenges in recruiting and retaining qualified CTE
+48 instructors due to certification barriers, regional shortages,
+49 and competition with private-sector wages. The involvement of
+50 current industry professionals in the classroom could provide
+51 students with direct exposure to up-to-date, real-world
+52 knowledge and practices, thereby improving educational
+53 outcomes and workforce readiness. The Legislature also finds
+54 that public-private partnerships between schools and industry
+55 are essential to closing the skills gap and ensuring that
+56 education aligns with the evolving needs of the economy. The
+Page 2
+
+education aligns with the evolving needs of the economy. The
+57 TRAIN Act would provide an opportunity for the private sector
+58 to partner with eligible educational institutions to provide
+59 CTE instruction to students and provide for industry
+60 professionals to obtain CTE certification. Therefore, it is
+61 the intent of the Legislature to establish a targeted income
+62 tax credit to incentivize employers to loan qualified
+63 employees to serve as instructors in CTE programs at eligible
+64 educational institutions in order to promote workforce
+65 development and economic growth.
+66 Section 3. For the purposes of this act, the following
+67 terms have the following meanings:
+68 (1) ALABAMA COMMUNITY COLLEGE. Any public two-year
+69 institution of higher education under the control of the Board
+70 of Trustees of the Alabama Community College System.
+71 (2) DEPARTMENT. The State Department of Education.
+72 (3) DESIGNATED CTE PROGRAM. A career and technical
+73 education program for grade 9 or higher at an eligible
+74 educational institution in a high-demand sector. The
+75 high-demand sectors eligible for this designation shall be
+76 reviewed and approved annually by the Executive Committee of
+77 the Alabama Workforce Board, which shall provide notice to the
+78 Department of Workforce and the department regarding its
+79 approval or denial by March 31 of each year to be eligible for
+80 the next academic year.
+81 (4) ELIGIBLE EDUCATIONAL INSTITUTION. An Alabama
+82 community college, local education agency, or a public high
+83 school.
+84 (5) EMPLOYER. A corporation, partnership, limited
+Page 3
+
+(5) EMPLOYER. A corporation, partnership, limited
+85 liability company, or other business entity registered to do
+86 business in this state and in good standing with the
+87 Department of Revenue.
+88 (6) PUBLIC HIGH SCHOOL. A public secondary school
+89 operated by a local education agency in this state that
+90 provides instruction in any grade from 9 through 12 that
+91 offers an approved career and technical education program as
+92 recognized by the department.
+93 (7) QUALIFIED EMPLOYEE. An individual employed by an
+94 employer who:
+95 a. Possesses a Bachelor's degree or other certification
+96 or experience or combination thereof equivalent to those
+97 accepted by the department;
+98 b. Has not less than three years of occupational
+99 experience or appropriate industry-recognized certification in
+100 a relevant field corresponding to a designated CTE program;
+101 c. Has a history of positive performance reviews from
+102 his or her employer; and
+103 d. Has successfully passed a criminal history
+104 background check and meets any other screening requirements of
+105 the eligible educational institution.
+106 A qualified employee will not be a public employee or a
+107 loaned employee for purposes of the Alabama Ethics Act.
+108 (8) SALARY. The actual wages or compensation paid by an
+109 employer to a qualified employee during a teaching assignment.
+110 (9) TEACHING ASSIGNMENT. The agreed-upon period during
+111 which a qualified employee is loaned by an employer to an
+112 eligible educational institution to serve as an instructor in
+Page 4
+
+eligible educational institution to serve as an instructor in
+113 a designated CTE program, provided that the assignment shall
+114 consist of weekly in-person attendance at the school and no
+115 less than 300 hours of direct instruction to students within
+116 an academic year or another minimum time requirement
+117 established by the department.
+118 (10) WORKFORCE TEACHING CERTIFICATE. A temporary
+119 teaching certificate issued to a qualified employee that
+120 authorizes the employee to teach a designated CTE program at
+121 an eligible educational institution and may be treated as a
+122 renewable certificate by the department.
+123 Section 4. Creation of the TRAIN Credit; Eligibility.
+124 (a) There is hereby created a tax credit that an
+125 employer may apply against any of the following:
+126 (1) To offset the income taxes levied in Chapter 18 of
+127 Title 40, Code of Alabama 1975.
+128 (2) To offset the state portion of the financial
+129 institution excise tax levied in Chapter 16 of Title 40, Code
+130 of Alabama 1975.
+131 (3) To offset state license taxes levied by Article 2,
+132 Chapter 21 of Title 40, Code of Alabama 1975.
+133 (b) The amount of the tax credit shall equal the
+134 portion of the qualified employee's salary paid by the
+135 employer for time directly attributable to the teaching
+136 assignment in the applicable tax year, subject to the
+137 limitations provided in this section.
+138 (c) Subject to the provisions of this act, an employer
+139 shall be eligible to claim a credit if it meets all of the
+140 following conditions:
+Page 5
+
+following conditions:
+141 (1) The employer enters into a memorandum of
+142 understanding (MOU) or other agreement between the eligible
+143 educational institution and the employer that outlines the
+144 conditions under which a qualified employee with a workforce
+145 teaching certificate or other teaching certificate would be
+146 authorized to participate in a teaching assignment in a
+147 designated CTE program. Each MOU or agreement between an
+148 employer and an eligible educational institution, at a
+149 minimum, shall include all of the following:
+150 a. The name of the qualified employee and a description
+151 of the designated CTE program in which instruction will occur.
+152 b. The duration of the teaching assignment, including
+153 total instructional hours and term or terms covered.
+154 c. A statement confirming that the employer will
+155 continue to pay the qualified employee's full salary and
+156 benefits during the teaching assignment. A qualified employee
+157 is not entitled to any compensation from an eligible
+158 educational institution, but the institution may elect to
+159 compensate a qualified employee in whatever manner it deems
+160 appropriate.
+161 d. A certification by the employer that the qualified
+162 employee has passed, or will pass prior to beginning the
+163 teaching assignment, all background screening requirements as
+164 required by the eligible educational institution.
+165 e. The method of verifying attendance, instructional
+166 hours, and program completion for purposes of credit
+167 certification.
+168 f. A provision authorizing the department to inspect
+Page 6
+
+f. A provision authorizing the department to inspect
+169 records and verify compliance.
+170 g. A provision acknowledging that noncompliance with
+171 any of these requirements may result in recapture of the tax
+172 credit, as provided in this act.
+173 h. A statement that the employer shall maintain
+174 workers' compensation and general liability coverage for the
+175 qualified employee during the teaching assignment.
+176 i. A statement regarding liability for actions
+177 performed by the qualified employee in furtherance of the
+178 teaching assignment.
+179 (2) The employer has received a TRAIN Act credit
+180 reservation certificate from the department for an approved
+181 agreement with an eligible educational institution.
+182 (3) The employer continues to pay the qualified
+183 employee's full salary and benefits during the teaching
+184 assignment.
+185 (4) The eligible educational institution provides the
+186 qualified employee with the classroom space, equipment, and
+187 other instructional materials required to conduct the teaching
+188 assignment unless otherwise agreed to in the MOU.
+189 (d) To the extent that a tax credit is used by an
+190 employer, the employer shall not be allowed any deduction that
+191 would have otherwise been allowed for the employer's payment
+192 of the qualified employee's salary. Credits may only be
+193 claimed by the employer and may not be assigned or transferred
+194 to any other taxpayer, provided the credit issued to a parent
+195 or holding company may be claimed by the subsidiary, provided
+196 both parent or holding company and subsidiary are filing as
+Page 7
+
+both parent or holding company and subsidiary are filing as
+197 part of an Alabama consolidated return, as defined under
+198 Section 40-18-39, Code of Alabama 1975.
+199 (e) In no event shall the credit cause an employer's
+200 tax liability to be reduced by more than 50 percent. Unused
+201 credits may be carried forward for no more than five years but
+202 shall not be transferable.
+203 (f) In the event that a teaching assignment is not
+204 completed in full, the credit shall be prorated and available
+205 to the employer only for the portion of the salary paid for
+206 services actually rendered by the qualified employee and
+207 accepted by the eligible educational institution. If an
+208 agreement is terminated by the eligible educational
+209 institution, the Department of Revenue, after consultation
+210 with the department, may disallow the credit in its entirety
+211 for that tax year.
+212 (g) The tax credits may be claimed beginning January 1,
+213 2027, for the 2027 tax year.
+214 (h) The statewide annual aggregate of tax credits
+215 allowed under this section shall not exceed ten million
+216 dollars ($10,000,000).
+217 (i) Notwithstanding any other provision of this act,
+218 the total amount of credit that may be reserved and claimed by
+219 any single employer shall not exceed two hundred fifty
+220 thousand dollars ($250,000) in the aggregate for all tax
+221 years. The department shall ensure that no credit reservation
+222 certificate is issued that would cause an employer to exceed
+223 this limitation.
+224 Section 5. Forms; Construction of Article; Rulemaking
+Page 8
+
+Section 5. Forms; Construction of Article; Rulemaking
+225 Authority.
+226 (a) All findings and applications made with any
+227 department of the state government shall be made using forms
+228 adopted by the department. The filing shall be treated as a
+229 tax return, subject to penalties imposed by the Department of
+230 Revenue.
+231 (b) Nothing in this article shall be construed to
+232 constitute a guarantee or assumption by the state of any debt
+233 of any company nor to authorize the credit of the state to be
+234 given, pledged, or loaned to any company.
+235 (c) Nothing in this article shall be construed to make
+236 available to any taxpayer any right to the benefits conferred
+237 by this article absent strict compliance with this article.
+238 (d) Nothing in this article shall be construed to limit
+239 the powers otherwise existing for the Department of Revenue to
+240 audit and assess a taxpayer claiming the credit.
+241 (e) The department is authorized to work with the
+242 Department of Revenue and the Department of Workforce to adopt
+243 rules as necessary to implement and administer this article.
+244 Section 6. Administration.
+245 (a) The Department of Revenue may adopt rules and
+246 regulations for implementation and enforcement.
+247 (b) The department shall establish a process to approve
+248 agreements, and the Department of Revenue shall allow tax
+249 credits in accordance with the following:
+250 (1) Upon receipt of an executed agreement, the
+251 department shall issue a TRAIN Act credit reservation
+252 certificate to the employer.
+Page 9
+
+certificate to the employer.
+253 (2) The certificate shall state the maximum amount of
+254 credit reserved for the employer and the corresponding
+255 teaching assignment, which may span multiple tax years.
+256 (3) Tax credits reserved by certificates issued in a
+257 prior calendar year shall count against the cap for the
+258 calendar year in which the certificate was issued.
+259 (4) The department shall track credit reservations by
+260 employer and shall deny or reduce any requested reservation
+261 that would cause the employer to exceed the per-employer
+262 limitation established in Section 4(i).
+263 (c) The department, in consultation with the Department
+264 of Workforce and the Executive Committee of the Alabama
+265 Workforce Board, shall administer the process for approving
+266 designated CTE programs that are eligible for participation
+267 under this act, pursuant to the annual sector approvals
+268 provided in Section 3(3).
+269 (d) In order to claim a tax credit, an employer must
+270 file the appropriate forms with the Department of Revenue and
+271 provide a copy of its TRAIN Act credit reservation
+272 certificate, documentation of the agreement, proof of salary
+273 payments made during the tax year for which the credit is
+274 claimed, and any other information required by the Department
+275 of Revenue.
+276 (e) The department, with information from the
+277 Department of Revenue as requested, shall submit an annual
+278 report by the third legislative day of each regular session of
+279 the Legislature to the Governor, the Speaker of the House of
+280 Representatives, the President Pro Tempore of the Senate, and
+Page 10
+
+Representatives, the President Pro Tempore of the Senate, and
+281 the Legislative Fiscal Officer summarizing:
+282 (1) The number of tax credits approved and claimed;
+283 (2) The number of employers, qualified employees, and
+284 institutions participating;
+285 (3) Geographic distribution; and
+286 (4) Program outcomes.
+287 (f) No later than July 1, 2031, the department shall
+288 submit to the Governor and the Legislature a report evaluating
+289 the effectiveness of the TRAIN Act, including data on
+290 participation, geographic distribution, and workforce
+291 outcomes, and shall include recommendations as to whether the
+292 program should be extended, modified, or allowed to expire.
+293 Section 7. The tax credits provided in this article
+294 shall not be available for employers as described in this
+295 article, for which agreements are not approved on or prior to
+296 December 31, 2031, unless the Legislature enacts legislation
+297 to extend the date. This shall only affect the availability of
+298 credits for applications not approved on or prior to December
+299 31, 2031, and shall not cause a reduction or suspension of any
+300 credits awarded on or prior to December 31, 2031.
+301 Section 8. Certification Process.
+302 (a) In order to support statewide workforce development
+303 initiatives, it is necessary to establish a streamlined
+304 process by which private sector employees may teach a
+305 qualified CTE program at an eligible educational institution.
+306 (b) The department, in consultation with the Department
+307 of Workforce, is authorized to adopt the rules and criteria
+308 for the establishment and issuance of a workforce teaching
+Page 11
+
+for the establishment and issuance of a workforce teaching
+309 certificate that would authorize a qualified employee to serve
+310 as a classroom teacher at an eligible educational institution
+311 while still employed and paid by a private sector employer.
+312 (c) The workforce teaching certificate shall authorize
+313 a qualified employee to engage in the following:
+314 (1) To accept a teaching assignment, serve as a
+315 classroom teacher, and provide direct instruction for a
+316 qualified CTE program.
+317 (2) To enter grades, maintain instructional records,
+318 and perform duties customarily exercised by full-time
+319 instructors, subject to approval by an eligible educational
+320 institution.
+321 (3) Other duties as determined by the eligible
+322 educational institution.
+323 (d) A qualified employee may not receive a workforce
+324 teaching certificate until after he or she has successfully
+325 passed a criminal history background check and obtained
+326 clearance from the department in accordance with the
+327 requirements of Section 16-22A-5, Code of Alabama 1975.
+328 (e) The department may terminate an individual's
+329 workforce teaching certificate at any time for cause. An
+330 eligible educational institution may terminate an agreement
+331 with an employer that is entered into in accordance with the
+332 requirements of this act at any time if the qualified
+333 employee:
+334 (1) Has his or her workforce teaching certificate
+335 terminated;
+336 (2) Does not comply with the requirements of the
+Page 12
+
+(2) Does not comply with the requirements of the
+337 agreement; or
+338 (3) Does not conduct the teaching assignment at the
+339 expected level of performance.
+340 (f) The department shall develop and administer a
+341 training program that must be taken and passed by a qualified
+342 employee prior to the issuance of a workforce teaching
+343 certificate and that individual beginning a teaching
+344 assignment. The training program shall be offered online. The
+345 training program should be limited in scope and duration, and
+346 the program's instructional time should not exceed what is
+347 reasonably necessary to conduct a teaching assignment. The
+348 training program could include the entry level occupational
+349 proficiency assessment that is approved by the department, if
+350 applicable, but it must provide targeted instruction in: (i)
+351 classroom management; (ii) basic instructional methods; (iii)
+352 student safety and legal compliance; and (iv) grading
+353 standards and assessment fundamentals.
+354 (g) The department is authorized to set the term of a
+355 workforce teaching certificate and the process by which a
+356 certificate may be renewed or terminated.
+357 (h) The holder of a workforce teaching certificate
+358 shall not be personally liable for acts or omissions
+359 undertaken in performance of assigned instruction or
+360 supervisory duties. This protection shall not apply to acts of
+361 willful misconduct, malicious intent, wantonness, or conduct
+362 outside the scope of authority, and shall be administered
+363 consistent with Section 16-28C-4, Code of Alabama 1975.
+364 (i) Neither the department nor an eligible educational
+Page 13
+
+(i) Neither the department nor an eligible educational
+365 institution shall be liable for any acts of the qualified
+366 employee.
+367 Section 9. This act shall become effective on October
+368 1, 2026.
+Page 14
