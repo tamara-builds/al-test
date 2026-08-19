@@ -1,0 +1,291 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB224 INTRODUCED
+1 HB224
+2 XDIAR7Z-1
+3 By Representatives McCampbell, Reynolds, Travis, Hall,
+4 Blackshear, Sorrells, Whitt, Givens, Lamb
+5 RFD: Ways and Means General Fund
+6 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+XDIAR7Z-1 01/10/2026 EBO-DHC EBO JT EBO-2025-88
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, The Department of Human
+6 Resources receives funds for the administration of the
+7 food stamp program in an amount equal to 5% of the
+8 value of food stamp benefits issued statewide. In order
+9 to comply with the provisions set forth in the One Big
+10 Beautiful Act, this bill would increase that amount of
+11 7.5%.
+12 Under existing law, the Children's Health
+13 Insurance Program (CHIP)is funded as a first charge
+14 against the use tax allocated to the General Fund. This
+15 bill would amend that provision to allow for other
+16 sources of revenue to be used to fund CHIP.
+17
+18
+19 A BILL
+20 TO BE ENTITLED
+21 AN ACT
+22
+23 To amend Sections 40-23-35 and 40-23-85, Code of
+24 Alabama 1975 to provide further distribution of sales and use
+25 tax funds.
+26 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+27 Section 1. Section 40-23-35 Code of Alabama 1975 is
+28 amended as follows:
+Page 1
+
+amended as follows:
+HB224 INTRODUCED
+29 "§40-23-35
+30 (a) Such amount of money as shall be appropriated for
+31 each fiscal year by the Legislature to the Department of
+32 Revenue with which to pay the salaries, the cost of operation
+33 and management of the department shall be deducted, as a first
+34 charge thereon, from the taxes collected under the provisions
+35 of this division; provided, that the expenditure of the sum so
+36 appropriated shall be budgeted and allotted pursuant to
+37 Article 4 of Chapter 4 of Title 41, and limited to the amount
+38 appropriated to defray the expenses of operating the
+39 department for each fiscal year. After the payment of the
+40 expenses, so much of the amount remaining as may be necessary,
+41 after first applying all sums of money received by reason of
+42 the application of the surplus in the income tax as provided
+43 by Section 40-18-58, for the replacement in the public school
+44 fund of the three-mill constitutional levy for schools and in
+45 the General Fund of the one-mill levy for soldiers' relief and
+46 the two and one-half mills for general purposes lost by
+47 exemption of homestead provided for in this division shall be
+48 first charges against the proceeds of the licenses, taxes, or
+49 receipts levied or collected under this division. The
+50 Comptroller, with the approval of the Governor, is hereby
+51 directed to draw his or her warrants payable out of the total
+52 proceeds of the licenses, taxes, or receipts levied or
+53 collected under this division as herein provided in such sum
+54 as shall be found necessary to take care of and replace the
+55 three-mill constitutional school levy, the one-mill soldiers'
+56 relief levy, and the two and one-half mill levy for general
+Page 2
+
+relief levy, and the two and one-half mill levy for general
+HB224 INTRODUCED
+57 purposes of the state ad valorem taxes lost as above set
+58 forth.
+59 (b) Of the amounts of such collections in any fiscal
+60 year remaining after the payment of the expenses of
+61 administration and replacement of the amounts in the several
+62 funds as herein provided there shall be paid into the Treasury
+63 sums to be credited as follows:
+64 (1) To the credit of the 67 counties of the state, to
+65 be divided and distributed as hereinafter provided, $378,000;
+66 (2) To the Department of Human Resources, $1,322,000;
+67 (3) Beginning June 1, 2000, to the Department of
+68 Conservation and Natural Resources for capital outlay for
+69 acquisition of land contiguous to existing state parks and
+70 land acquired for lakes and or water reservoirs, provision,
+71 construction, improvement, renovation, equipping, and
+72 maintenance of the state parks system only and not for use by
+73 the Department of Conservation and Natural Resources for
+74 personnel or administrative use, the sum equal to the increase
+75 in receipts accruing to the State of Alabama due to the cap on
+76 discounts per license holder in Section 40-23-36(b), which
+77 increase shall be equal to the difference between the discount
+78 rate or amount allowed under Section 40-23-36(b) and the
+79 maximum discount rate allowable under Section 40-23-36(a);
+80 provided, however, if at any time any bonds of the Alabama
+81 State Parks System Improvement Corporation or the Alabama
+82 Public Historical Sites and Parks Improvement Corporation are
+83 outstanding (excluding bonds that have been refunded by the
+84 establishment of an escrow trust for the payment thereof
+Page 3
+
+establishment of an escrow trust for the payment thereof
+HB224 INTRODUCED
+85 consisting solely of bonds or other obligations which as to
+86 principal and interest constitute direct obligations of, or
+87 are unconditionally guaranteed by, the United States of
+88 America) there shall first be paid into the State General Fund
+89 from such collections an amount equal to the debt service
+90 (principal, interest, and premium, if any) payable on such
+91 bonds in the then current fiscal year of the state. Provided,
+92 however, that one million dollars ($1,000,000) of such
+93 increase in receipts per fiscal year shall be credited to the
+94 Department of Human Resources beginning October 1, 1996, until
+95 September 30, 2002, and shall be expended for the foster
+96 children program.
+97 (4)a. On October 1, 2002, to the Department of
+98 Conservation and Natural Resources for capital outlay, repairs
+99 and maintenance of the state parks system only, the minimum
+100 sum of five million dollars ($5,000,000) from the increase in
+101 receipts accruing to the State of Alabama due to the cap on
+102 discounts per license holder in Section 40-23-36(b) as
+103 calculated in Section 40-23-35(b)(3). Beginning October 1,
+104 2003 through September 30, 2021, annually, to the Department
+105 of Conservation and Natural Resources for capital outlay,
+106 repairs, and maintenance of the state parks system only, the
+107 sum calculated by a fraction, the numerator of which is five
+108 million dollars ($5,000,000) and the denominator of which is
+109 equal to the increase in receipts as calculated in Section
+110 40-23-35(b)(3) for fiscal year 2002 accruing to the State of
+111 Alabama multiplied by the increase in receipts as calculated
+112 in Section 40-23-35(b)(3) for the then current fiscal year, or
+Page 4
+
+in Section 40-23-35(b)(3) for the then current fiscal year, or
+HB224 INTRODUCED
+113 the sum of five million dollars ($5,000,000), whichever is
+114 greater. Notwithstanding the previous sentence, for the fiscal
+115 years ending September 30, 2012, and September 30, 2013, only,
+116 the five million dollars ($5,000,000) shall be transferred to
+117 the State General Fund.
+118 b. Beginning October 1, 2021, annually, to the
+119 Department of Conservation and Natural Resources for capital
+120 outlay, repairs, and maintenance of the state parks system
+121 only, seven million dollars ($7,000,000). Beginning with the
+122 fiscal year that starts October 1, 2022, the State Treasurer
+123 shall annually adjust the dollar amount in this paragraph to
+124 reflect the cumulative change in the Consumer Price Index for
+125 All Urban Consumers (CPI-U), as published by the Bureau of
+126 Labor Statistics of the United States Department of Labor, or
+127 a successor index, for the annual period ending on the
+128 December 31 preceding the adjustment date and rounded to the
+129 nearest one thousand dollars ($1,000).
+130 c. Beginning October 1, 2002, to the credit of the
+131 State General Fund, the balance of the sum equal to the
+132 increase in receipts accruing to the State of Alabama due to
+133 the cap on discounts per license holder in Section
+134 40-23-36(b).
+135 (c) One-half of the amount deposited to the credit of
+136 the 67 counties as above provided, shall be divided and
+137 distributed proportionately among the 67 counties of the state
+138 according to the population of the counties as shown by the
+139 last federal census as proclaimed, published, or certified by
+140 the Director of the Bureau of the Census; and one-half of the
+Page 5
+
+the Director of the Bureau of the Census; and one-half of the
+HB224 INTRODUCED
+141 proceeds shall be divided or distributed equally among 67
+142 counties; provided, that the funds divided and distributed to
+143 the several counties of the state as hereinabove provided for
+144 shall be used exclusively for full-time health service in
+145 cooperation with the State Board of Health or the federal
+146 government, and for extension services in cooperation with the
+147 Alabama Agriculture Extension Service or the federal
+148 government, at the discretion of the county commissions of the
+149 several counties of the state.
+150 (d) The amounts provided in subsection (b) for the
+151 Department of Human Resources shall be used for general
+152 welfare purposes. For purposes of this division, "general
+153 welfare purposes" means:
+154 (1) The administration of public assistance as set out
+155 in Sections 38-2-5 and 38-4-1;
+156 (2) Services, including supplementation and
+157 supplementary services under the federal Social Security Act,
+158 to or on behalf of persons to whom such public assistance may
+159 be given under Section 38-4-1;
+160 (3) Services to and on behalf of dependent, neglected,
+161 or delinquent children; and
+162 (4) Investigative and referral services to and on
+163 behalf of needy persons.
+164 (e) In addition, there shall be paid, commencing on
+165 January 1, 1978, and on the first day of each fiscal quarter
+166 thereafter, to the Department of Human Resources for a
+167 statewide, state-administered food stamp program, as
+168 authorized by the Food Stamp Act of 1964, Public Law 88-525,
+Page 6
+
+authorized by the Food Stamp Act of 1964, Public Law 88-525,
+HB224 INTRODUCED
+169 88th Congress, and amendments thereto, an amount equal to five
+170 seven and one-half percent of the value of food stamp
+171 benefits issued statewide in excess of the amount paid by
+172 recipients (bonus or free stamps) during the immediate prior
+173 fiscal quarter, which sum so appropriated shall be paid
+174 quarterly to the Department of Human Resources Trust Fund for
+175 administration of the food stamp program in conformity with
+176 rules and regulations promulgated by the United States
+177 Department of Agriculture and in conformity with Sections
+178 38-1-1 through 38-6-9. The administrative funds shall be
+179 limited to and based on fiscal year 1976-77 administrative
+180 costs, normal inflationary increases, and mandated
+181 administration requirements of the Alabama Legislature and the
+182 United States Department of Agriculture. The Department of
+183 Human Resources will not staff any county food stamp office at
+184 a level that exceeds the average staff-to-recipient ratios
+185 that existed in Alabama during fiscal year 1976-77. This
+186 restriction will apply in coordination with those provided
+187 hereinabove and, should conflict occur, the lesser amount of
+188 expenditure shall be required. At the end of each fiscal year,
+189 an accounting shall be made of the sum so that any unexpended
+190 and unencumbered balance of funds may be determined for the
+191 purpose of paying such balance to the Education Trust Fund.
+192 (f) The amount of the proceeds of all taxes levied by
+193 this division remaining after the payment of the expenses of
+194 administration and enforcement and the replacement in the
+195 several funds of the amount lost by any homestead exemptions
+196 and the distribution as provided in subsections (b) and (d),
+Page 7
+
+and the distribution as provided in subsections (b) and (d),
+HB224 INTRODUCED
+197 shall be paid into the Education Trust Fund except as provided
+198 in subdivision (4) of Section 40-23-2 and subsection (c) of
+199 Section 40-23-61 and, beginning January 1, 2016, except those
+200 collected on consumable vapor products as defined in
+201 subdivision (15) of subsection (a) of Section 40-23-1, which
+202 shall be distributed to the State General Fund."
+203 Section 2. Section 40-23-85 Code of Alabama 1975 is
+204 amended as follows:
+205 "§40-23-85
+206 All taxes, fees, interest, or penalties imposed and all
+207 amounts of tax herein required to be paid to the state under
+208 this article must be paid to the Department of Revenue at
+209 Montgomery, Alabama, with remittance payable to the Treasurer
+210 of Alabama. Such amount of money as shall be appropriated for
+211 each fiscal year by the Legislature to the Department of
+212 Revenue with which to pay the salaries, the cost of operation
+213 and the management of the department shall be deducted, as a
+214 first charge thereon, from the taxes collected under and
+215 pursuant to Section 40-23-61; provided, that the expenditure
+216 of the sum so appropriated shall be budgeted and allotted
+217 pursuant to Article 4 of Chapter 4 of Title 41, and limited to
+218 the amount appropriated to defray the expenses of operating
+219 the department for each fiscal year. After the distributions
+220 provided herein and the distributions of use tax on
+221 automobiles to the General Fund as provided in Section
+222 40-23-61(c), the balance of the tax collected under and
+223 pursuant to Section 40-23-61 shall be distributed as follows:
+224 (1) remote use tax amounts, seventy-five percent (75%) to the
+Page 8
+
+(1) remote use tax amounts, seventy-five percent (75%) to the
+HB224 INTRODUCED
+225 General Fund and twenty-five percent (25%) to the Education
+226 Trust Fund, and (2) any remaining amounts, forty-seven percent
+227 (47%) to the Education Trust Fund and fifty-three percent
+228 (53%) to the General Fund. An amount sufficient to fund the
+229 Children's Health Insurance Program (CHIP) shall be
+230 distributed annually as a first charge against the amounts
+231 allocated to the General Fund under this section. It is the
+232 legislative intent that all amounts collected on transactions
+233 involving a seller located outside the State of Alabama when
+234 the property is shipped or transported from outside the state
+235 shall be considered use tax for the purpose of this
+236 distribution, regardless of whether the taxes may be
+237 considered sales taxes for other purposes."
+238 Section 3. This act shall become effective September 1,
+239 2026.
+Page 9

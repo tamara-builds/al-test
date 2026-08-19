@@ -1,0 +1,538 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB134 INTRODUCED
+1 SB134
+2 PS448ER-1
+3 By Senator Beasley
+4 RFD: County and Municipal Government
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+PS448ER-1 01/05/2026 VSM (L)ma 2025-2973
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a wholesaler, jobber,
+6 semijobber, registered retailer, importer, or any other
+7 person selling, receiving, or distributing tobacco
+8 products in this state must be permitted by the
+9 Department of Revenue. A permitted wholesaler or jobber
+10 may sell tobacco products that are sold, shipped, or
+11 delivered in interstate commerce to a person outside of
+12 this state without the Alabama revenue stamps affixed.
+13 This bill would provide that a wholesale dealer
+14 and jobber permitted by the Department of Revenue and
+15 at least four other states, who purchases tobacco
+16 products directly from the manufacturer or an affiliate
+17 of the manufacturer and only makes sales for resale to
+18 a wholesale dealer, must register and be issued a
+19 permit by the department as an interstate warehouser.
+20 This bill would provide penalties for noncompliance.
+21 This bill would also delete duplicative language
+22 and make nonsubstantive, technical revisions to update
+23 the existing code language to current style.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+SB134 INTRODUCED
+29
+30 Relating to interstate warehouser tobacco tax; to amend
+31 Sections 40-25-1, 40-25-4.1, 40-25-8, as last amended by Act
+32 2025-448, 2025 Regular Session, 40-25-8.1, as last amended by
+33 Act 2025-448, 2025 Regular Session, 40-25-16.1, 40-25-18, as
+34 last amended by Act 2025-448, 2025 Regular Session, and
+35 40-25-25, as last amended by Act 2025-448, 2025 Regular
+36 Session, Code of Alabama 1975; to define an interstate
+37 warehouser, to require an interstate warehouser permit issued
+38 by the Department of Revenue; to add Section 40-25-15.1 to the
+39 Code of Alabama 1975; to provide application and enforcement
+40 provisions; to provide for penalties for noncompliance; and to
+41 make nonsubstantive, technical revisions to update the
+42 existing code language to current style.
+43 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+44 Section 1. Sections 40-25-1, 40-25-4.1, 40-25-8, as
+45 last amended by Act 2025-448, 2025 Regular Session, 40-25-8.1,
+46 as last amended by Act 2025-448, 2025 Regular Session,
+47 40-25-16.1, 40-25-18, as last amended by Act 2025-448, 2025
+48 Regular Session, and 40-25-25, as last amended by Act
+49 2025-448, 2025 Regular Session, Code of Alabama 1975, are
+50 amended to read as follows:
+51 "§40-25-1
+52 For the purposes of this article, the following terms
+53 shall have the respective following meanings ascribed by this
+54 section:
+55 (1)(10) WHOLESALE DEALER AND JOBBER. Persons, firms, or
+56 corporations who that buy tobacco products direct from the
+Page 2
+
+corporations who that buy tobacco products direct from the
+SB134 INTRODUCED
+57 manufacturer or an affiliate of the manufacturer and sell at
+58 wholesale only, any one or more of the articles taxed herein
+59 under this article to licensed wholesale dealers, jobbers,
+60 semijobbers, and retail dealers for the purpose of resale
+61 only.
+62 (2)(7) RETAIL DEALER. Every person, firm, or
+63 corporation, other than a wholesale dealer or jobber, who that
+64 sells or offers for sale any one or more of the articles taxed
+65 herein under this article, irrespective regardless of quantity
+66 or amount, or the number of sales; and all persons operating
+67 under a retail dealer's license.
+68 (3)(8) SEMIJOBBER. Persons, firms, or corporations A
+69 person who buy buys tobacco products from permitted
+70 wholesalers or obtain obtains tobacco from any other source
+71 and sell sells at wholesale any one or more of the articles
+72 taxed herein under this article to licensed retail dealers for
+73 the purpose of resale only.
+74 (4)(9) STAMPS. The stamp or stamps by the use of
+75 through which the tax levied under this article is are paid
+76 and shall be designated Alabama Revenue Stamps.
+77 (5)(3) CIGARS, CHEROOTS, or STOGIES, ETC. A roll for
+78 smoking that is of any size or shape, and that is made wholly
+79 or in part of tobacco or any tobacco substitute therefor,
+80 irrespective regardless of whether the tobacco is pure, or
+81 flavored, adulterated, or mixed with any other ingredient, if
+82 the roll has with a wrapper made wholly or in part of
+83 tobacco.
+84 (6)(5) HEATED TOBACCO PRODUCT. A product other than a
+Page 3
+
+(6)(5) HEATED TOBACCO PRODUCT. A product other than a
+SB134 INTRODUCED
+85 cigarette intended to be heated, containing tobacco that
+86 produces an inhalable aerosol by heating the tobacco by means
+87 of a device without combustion of the tobacco or by heat
+88 generated from a combustion source that only or primarily
+89 heats rather than burns the tobacco.
+90 (7)(1) CIGARETTE or CIGARETTES. The same meaning as
+91 defined in Section 6-12-2 and includes including a cigarette
+92 or cigarettes intended to be heated.
+93 (8)(2) CIGARETTE OR CIGARETTES INTENDED TO BE HEATED. A
+94 cigarette containing tobacco that produces an inhalable
+95 aerosol: (i) by heating the tobacco by means of an electronic
+96 device without combustion of the tobacco; or (ii) by heat
+97 generated from a combustion source that only or primarily
+98 heats rather than burns the tobacco.
+99 (4) DEPARTMENT. The Alabama Department of Revenue.
+100 (6) INTERSTATE WAREHOUSER. A person who purchases
+101 tobacco products directly from the manufacturer or an
+102 affiliate of the manufacturer and, solely for resale, sells
+103 any one or more of the articles taxed under this article to a
+104 permitted wholesale dealer who is qualified under Section
+105 40-25-16."
+106 "§40-25-4.1
+107 (a) Notwithstanding any other laws, the only persons or
+108 businesses who may be licensed to buy and affix the tax stamps
+109 of the Alabama Department of Revenue required by law to
+110 packages of tobacco products are: (i) wholesalers and
+111 distributors who buy the tobacco products direct from the
+112 manufacturer, or an affiliate of the manufacturer,; or (ii)
+Page 4
+
+manufacturer, or an affiliate of the manufacturer,; or (ii)
+SB134 INTRODUCED
+113 wholesalers who purchase tobacco products directly from an
+114 interstate warehouser permitted by the State of Alabama.
+115 except that the The manufacturer of the product may be allowed
+116 to affix the stamps to a tobacco product for the following
+117 purposes:
+118 (1) Trademark registration.
+119 (2) Promotions of the product.
+120 (3) Test-marketing the product.
+121 (b) In order for For a manufacturer to affix tax stamps
+122 to a tobacco product for a purpose described in subsection
+123 (a), the manufacturer shall give at least four weeks' prior
+124 written notice to the Commissioner of the Department of
+125 Revenue department of such the manufacturer's intention, along
+126 with full details of the exceptional event purpose, including,
+127 but not limited to:
+128 (1) The nature of the promotion.
+129 (2) The location and length of the promotion.
+130 (3) The estimated number of tobacco products to be
+131 offered for sale during the promotion.
+132 (c) The Department of Revenue department shall notify
+133 all self-administered counties and municipalities of the
+134 manufacturer's request within seven days of receiving notice
+135 from the manufacturer by forwarding to each self-administered
+136 county and municipality a copy of the written notice,
+137 including the full details of the exceptional event purpose as
+138 set out above.
+139 (d) Any person who violates this section shall be
+140 guilty of a Class A misdemeanor and, upon conviction thereof,
+Page 5
+
+guilty of a Class A misdemeanor and, upon conviction thereof,
+SB134 INTRODUCED
+141 shall be punished as prescribed by law."
+142 "§40-25-8
+143 (a) Any cigarettes, smoking tobacco, heated tobacco
+144 products, cigars, stogies, cheroots, chewing tobacco, snuff,
+145 or other products taxable under this article found at any
+146 point within the State of Alabama, which the cigarettes,
+147 smoking tobacco, heated tobacco products, cigars, stogies,
+148 cheroots, chewing tobacco, snuff, or other products taxable
+149 under this article shall have been within the State of Alabama
+150 for a period of two hours, or longer, in possession of any
+151 retailer or semijobber not having without the stamps required
+152 by this article affixed to the package the stamps as provided
+153 in this article, or, in the case of products not requiring a
+154 stamp to be affixed, where purchase invoices do not itemize
+155 the applicable tobacco taxes, are declared to be contraband
+156 goods and may be seized by the Department of Revenue
+157 department, its agents of the department, or by any peace
+158 officer of the State of Alabama, without a warrant. and the
+159 goods Goods confiscated pursuant to this subsection shall be
+160 delivered to the Department of Revenue department for
+161 destruction.
+162 (b) Any of the goods, wares, or merchandise when
+163 offered for sale, either at wholesale or retail without the
+164 stamps having been first affixed, or, in the case of products
+165 not requiring a stamp to be affixed, where purchase invoices
+166 do not itemize the applicable tobacco taxes, shall be subject
+167 to confiscation as hereinabove provided.
+168 (c) Any untaxed cigarettes, smoking tobacco, heated
+Page 6
+
+(c) Any untaxed cigarettes, smoking tobacco, heated
+SB134 INTRODUCED
+169 tobacco products, cigars, stogies, cheroots, chewing tobacco,
+170 snuff, or other products taxable under this article found at
+171 any location within the State of Alabama, other than the
+172 primary location of the permitted wholesaler or jobber,
+173 registered semijobber, registered retailer, or tobacco
+174 products manufacturer who stores tobacco products at a bonded
+175 warehouse in this state for resale, are declared to be
+176 contraband goods, and those goods may be seized by the
+177 Department of Revenue department, or its agents of the
+178 department, or by any peace officer of the State of Alabama,
+179 without a warrant. and the goods Goods confiscated pursuant to
+180 this subsection shall be delivered to the Department of
+181 Revenue department for destruction.
+182 (d) Any vehicle, that is not a common carrier, or owned
+183 by an interstate warehouser permittee and that is used for the
+184 transportation for the purpose of sale of selling unstamped
+185 tobacco articles as hereinabove enumerated described in this
+186 section shall likewise be subject to confiscation and sale at
+187 public auction to the highest bidder after due advertisement
+188 and notice to the title owner of the vehicle. The proceeds of
+189 sale for any vehicle sold hereunder pursuant to this
+190 subsection shall be deposited into the State Treasury by the
+191 Department of Revenue department to be credited in the same
+192 manner as the tax otherwise due on the tobacco products being
+193 transported. The cost of confiscation and sale shall be paid
+194 out of the sales proceeds derived from the sale before making
+195 remittance to the State Treasurer. Should any unstamped
+196 tobaccos tobacco products be found in any vehicle that is
+Page 7
+
+tobaccos tobacco products be found in any vehicle that is
+SB134 INTRODUCED
+197 engaged in the sale, distribution, or delivery of taxable
+198 tobaccos tobacco products, the same shall be prima facie
+199 evidence that it was there the tobacco products were for
+200 sale."
+201 "§40-25-8.1
+202 (a) Each person, firm, corporation, club, or
+203 association that transports products upon the public highways,
+204 roads, or streets of this state which are required to be
+205 stamped as provided in Section 40-25-8, and which are not
+206 stamped, or on which the tax has not been paid in accordance
+207 with this chapter and Chapter 25A, upon the public highways,
+208 roads, or streets of this state is required to have an active
+209 insterstate warehouser permit, tobacco permit, or transporters
+210 permit under this chapter. Failure to obtain a permit prior to
+211 before transporting the products is a violation of this
+212 section. A violation of this section may result in the
+213 products being declared contraband goods that may be seized
+214 without warrant by any law enforcement officer in this state.
+215 The contraband goods may be disposed of or destroyed by the
+216 law enforcement officer in accordance with this chapter. In
+217 addition, a vehicle used in the transportation of confiscated
+218 products may be subject to confiscation by the law enforcement
+219 officer and sold at public auction to the highest bidder after
+220 due advertisement pursuant to Chapter 13 of Title 32.
+221 (b) The owner or, driver, or both, of a vehicle used in
+222 a violation of this section is guilty of a Class A misdemeanor
+223 unless the tobacco products being transported exceeds exceed
+224 any of the following quantities: (i) 25,000 cigars, : (ii)
+Page 8
+
+any of the following quantities: (i) 25,000 cigars, : (ii)
+SB134 INTRODUCED
+225 50,000 filtered cigars, ; (iii) 50,000 little cigars, ; (iv)
+226 50,000 cigarettes, ; (v) 50,000 heated tobacco products, ;
+227 (vi) 25,000 cigar wraps, ; or (vii) 2,500 individual
+228 containers of loose or smokeless tobacco, in which case the
+229 owner or driver is guilty of a Class C felony. Any person
+230 convicted of a second or subsequent offense for a violation of
+231 this section is guilty of a Class C felony, regardless of the
+232 amount of tobacco products involved in the violation.
+233 (c) This section shall not apply to individuals
+234 transporting tobacco for personal consumption as provided in
+235 Section 40-25-25."
+236 "§40-25-11
+237 All interstate warehousers, common carriers, contract
+238 carriers, buses, and trucks transporting tobacco products may
+239 be required, under regulations to be prescribed rules adopted
+240 by the Department of Revenue department, to transmit to the
+241 Department of Revenue a periodic statement of such
+242 consignments or deliveries of tobacco products showing date,
+243 point of origin, point of delivery and to whom delivered,
+244 recipient, and time of delivery., and all All interstate
+245 warehousers, common carriers, buses, or and trucks shall
+246 permit examination by the Department of Revenue department or
+247 its the department's agents of their records relating to
+248 shipment or receipt of tobacco products. The interstate
+249 warehouser, common carriers, buses, and trucks shall permit
+250 the examination and investigation of their records of shipment
+251 or receipts relating to tobacco products, when and wherever
+252 where it is deemed advisable and necessary by the Department
+Page 9
+
+where it is deemed advisable and necessary by the Department
+SB134 INTRODUCED
+253 of Revenue department or its the department's agents in the
+254 enforcement of this article. Inspectors, stamp deputies, and
+255 other duly authorized agents of the Department of Revenue,
+256 department shall conduct these examinations on upon proper
+257 identification from and authorization by from the Department
+258 of Revenue, shall make such examination department. Any
+259 person, firm, corporation, partnership, or association of
+260 persons who refuses to transmit to the Department of Revenue
+261 the statements hereinabove provided for, or who refuses to
+262 permit the examination of his records by submit the statements
+263 required by this section to the department, or who refuses to
+264 permit the Department of Revenue department or its duly an
+265 authorized agent of the department to examine its records,
+266 shall be guilty of a misdemeanor and upon conviction shall be
+267 punished by a fine of not less than one hundred dollars ($100)
+268 nor more than five hundred dollars ($500) for each such
+269 offense."
+270 "§40-25-16.1
+271 (a)(1) Each interstate warehouser, wholesaler, jobber,
+272 semijobber, registered retailer, importer, or any other person
+273 selling, receiving, or distributing tobacco products in this
+274 state for resale shall file a report of its activity with the
+275 Department of Revenue department between the first and the
+276 twentieth of each month. The information report shall include,
+277 but not be limited to, the customer's name, address, invoice
+278 number, invoice date, a description of the tobacco products,
+279 the itemized tax, and any other information required by the
+280 department.
+Page 10
+
+department.
+SB134 INTRODUCED
+281 (1)(2) This subsection is enacted to aid the Department
+282 of Revenue department in the enforcement of Section 40-23-260,
+283 which requires a seller of tobacco products selling or
+284 distributing to retailers in this state to report the sale of
+285 tobacco products if an exemption from the sales or use tax is
+286 claimed at the time of sale.
+287 (2)(3) Any sale of tobacco products to a purchaser
+288 using a sales tax number to purchase the products is declared
+289 to be a purchase for resale, and the seller is required to
+290 obtain a tobacco account and report the sale on the monthly
+291 tobacco sales for resale report.
+292 (3)(4) If a non-registered seller or a non-permitted
+293 interstate warehouser fails to obtain a tobacco account as
+294 required, the department may assess the following penalties:
+295 a. On the first violation, the non-registered seller
+296 shall be issued a written warning notice from the department.
+297 The notice shall advise the non-registered seller of state the
+298 penalty due if the seller continues to fail to comply for
+299 continued noncompliance with this section.
+300 b. On a second violation of this section, the
+301 non-registered seller shall be assessed a civil penalty of one
+302 hundred dollars ($100).
+303 c. On a third or subsequent violation, the
+304 non-registered seller shall be assessed a civil penalty of one
+305 hundred dollars ($100) multiplied by the total number of
+306 violations that have been imposed under this section.
+307 (b) The commissioner of the department shall establish
+308 a web site website for listing each interstate warehouser,
+Page 11
+
+a web site website for listing each interstate warehouser,
+SB134 INTRODUCED
+309 wholesaler, jobber, semijobber, retailer, importer, or
+310 distributor of tobacco products that has qualified or
+311 registered with the Department of Revenue department.
+312 Purchases of tobacco products made from an entity entities
+313 other than the above those listed as permitted or registered
+314 entities appearing on the department department's website
+315 listing shall be subject to confiscation, as provided for
+316 specified in this chapter."
+317 "§40-25-18
+318 (a) Persons failing to properly affix the required
+319 stamps to any cigars, cheroots, stogies, cigarettes, smoking
+320 tobacco, heated tobacco products, chewing tobacco, and snuff
+321 shall be required to pay, as part of the tax imposed hereunder
+322 under this article, a penalty of not less than twenty-five
+323 dollars ($25) nor more than per article on the first
+324 violation, two hundred fifty dollars ($250) per article on the
+325 second violation, and five hundred dollars ($500) per article
+326 on the third and subsequent violations. Each article or
+327 commodity not having without the proper stamps affixed thereto
+328 as herein as required shall be deemed considered a separate
+329 offense. Any cigars, cheroots, stogies, cigarettes, smoking
+330 tobacco, heated tobacco products, chewing tobacco, and snuff
+331 in the at a place of business of any person required by this
+332 article to stamp the same the products shall be prima facie
+333 evidence that they are intended for sale. The Department of
+334 Revenue, upon good cause shown, may waive or remit reduce any
+335 penalty or any part thereof of a penalty provided for in this
+336 section. Any person, firm, corporation, club, or association
+Page 12
+
+section. Any person, firm, corporation, club, or association
+SB134 INTRODUCED
+337 of persons who has been found guilty of violating this article
+338 and who, after being punished by fine, penalty, assessment, or
+339 imprisonment, is found guilty of a second or subsequent
+340 violation of this article shall have his or her license, as
+341 provided in Sections 40-12-72 and 40-12-73, revoked by the
+342 department, and no further license or permit shall be issued
+343 or granted to that person, firm, corporation, club, or
+344 association of persons for a period of one year from the date
+345 their the license or permit has been revoked. Notice of the
+346 revocation shall be mailed to the probate judge of probate and
+347 license inspector of the county in which the revocation was
+348 made.
+349 (b) In addition to the penalty levied by the department
+350 pursuant to subsection (a), the county license inspector,
+351 license commissioner, revenue commissioner, tax assessor, or
+352 tax collector of the county in which the untaxed tobacco
+353 product is located may assess a penalty against any person
+354 failing to affix the required stamps to any cigars, cheroots,
+355 stogies, cigarettes, smoking tobacco, heated tobacco products,
+356 and or snuff. The amount of the additional penalty shall be
+357 not be less than one hundred dollars ($100) nor more than five
+358 hundred dollars ($500).
+359 (c) The department and the local taxing official may
+360 assess the tax levied by this chapter pursuant to the
+361 assessment procedures set out in Chapter 2A of this title."
+362 "§40-25-25
+363 If any person, firm, or corporation who is not a
+364 regularly licensed dealer in tobacco products shall have or a
+Page 13
+
+regularly licensed dealer in tobacco products shall have or a
+SB134 INTRODUCED
+365 permitted interstate warehouser has in his or her possession
+366 within the state more than 30 packages of unstamped cigarettes
+367 or heated tobacco products or more than one box of unstamped
+368 untaxed cigars within the state, such possession it shall be
+369 presumed that the possession is to be for the purpose of
+370 evading the payment of the taxes due thereon."
+371 Section 2. Section 40-25-15.1, is added to the Code of
+372 Alabama 1975, to read as follows:
+373 §40-25-15.1
+374 (a) Before an interstate warehouser may ship tobacco
+375 products into this state, the interstate warehouser must
+376 possess a current interstate warehouser permit.
+377 (b)(1) The annual application for an interstate
+378 warehouser permit must include the following items and any
+379 other information required by the department:
+380 a. A copy of the current wholesale license or permit,
+381 or its equivalent, issued by at least four states other than
+382 Alabama.
+383 b. A current Certificate of Authority issued by the
+384 Alabama Secretary of State if the applicant is not registered
+385 in Alabama as a domestic entity.
+386 c. The name and address of each permitted wholesaler
+387 within this state to whom the applicant will be delivering
+388 tobacco products.
+389 d. A copy of any contracts between the applicant and
+390 the permitted wholesalers in Alabama regarding the potential
+391 sale of tobacco products within this state.
+392 e. A copy of the most recent audited financial
+Page 14
+
+e. A copy of the most recent audited financial
+SB134 INTRODUCED
+393 statements from a certified public accountant or a firm
+394 regularly engaged in the auditing of financial records.
+395 f. A permit fee of two thousand dollars ($2,000) for
+396 the initial application.
+397 (2) An annual permit renewal fee of five hundred
+398 dollars ($500) shall be due on October 1 of each following
+399 year with the annual renewal application. Failure to submit
+400 the required renewal application and fee by October 1 shall
+401 constitute a voluntary dismissal of the interstate wholesaler
+402 permit.
+403 (3) Permit fees may be retained and used by the
+404 Department of Revenue for the enforcement of this chapter.
+405 (c) An interstate warehouser permit is
+406 non-transferable, and the annual fees paid are non-refundable.
+407 (d) The department may refuse to issue a permit to an
+408 applicant under this section if any of the following
+409 conditions exist:
+410 (1) The application is incomplete or contains
+411 inaccurate information.
+412 (2) The applicant has been convicted of any criminal
+413 offense involving fraud or misrepresentation.
+414 (3) The applicant's wholesale license, permit, or
+415 equivalent, has been revoked by any other state.
+416 (4) The applicant or its predecessor in business
+417 previously held an interstate warehouser permit that was
+418 revoked by Alabama and was not pending reinstatement by the
+419 Alabama Tax Tribunal within the past 12 months.
+420 (5) The applicant has failed to file or pay any tax
+Page 15
+
+(5) The applicant has failed to file or pay any tax
+SB134 INTRODUCED
+421 administered by the department.
+422 (6) The application is denied for other good cause
+423 which shall be detailed in a written response to the applicant
+424 by the Department of Revenue.
+425 (e) The department may revoke the permit if the
+426 interstate warehouser has violated any provisions of this
+427 chapter or any rules of the department adopted under authority
+428 of this article.
+429 (f) An interstate warehouser with the required permit
+430 may sell cigarettes and tobacco products without applying the
+431 taxes imposed by this article or attaching the state or county
+432 revenue stamps, provided that the products are sold to a
+433 wholesale dealer who is licensed by the State of Alabama.
+434 Additionally, the interstate warehouser must keep in its
+435 possession a record of the sale, the original purchase order,
+436 a copy of the invoice, a receipt from a common carrier or
+437 contract carrier showing shipment for delivery, or, if the
+438 interstate warehouser delivers directly to the qualified
+439 wholesale dealer, a receipt showing delivery along with the
+440 record, original purchase order, and invoice copy related to
+441 the sale.
+442 (g) Any person who violates this section shall be
+443 subject to a penalty of one thousand dollars ($1,000)
+444 multiplied by the total number of violations. This penalty is
+445 in addition to any other penalties that may be imposed under
+446 this chapter.
+447 (h) Any unstamped tobacco product brought into the
+448 state other than by an interstate warehouser, a manufacturer,
+Page 16
+
+state other than by an interstate warehouser, a manufacturer,
+SB134 INTRODUCED
+449 or an affiliate of a manufacturer for wholesale or retail sale
+450 shall be deemed contraband and subject to confiscation and
+451 applicable penalties.
+452 (h) The department may adopt rules to implement and
+453 administer this section.
+454 Section 3. This act shall become effective on October
+455 1, 2026.
+Page 17

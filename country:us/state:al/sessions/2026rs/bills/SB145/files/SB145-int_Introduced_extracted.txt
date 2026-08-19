@@ -1,0 +1,365 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB145 INTRODUCED
+1 SB145
+2 ARZYTQS-1
+3 By Senator Albritton
+4 RFD: Finance and Taxation General Fund
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+ARZYTQS-1 01/14/2026 TEW (F)TEW 2026-251
+1
+2
+3
+4 SYNOPSIS:
+5 Currently, privately operated hospitals in this
+6 state provide funding for the Medicaid Agency through a
+7 provider privilege tax. This tax will end on September
+8 30, 2028.
+9 This bill would remove the sunset clause and
+10 make the hospital provider privilege tax permanent.
+11
+12
+13 A BILL
+14 TO BE ENTITLED
+15 AN ACT
+16
+17 Relating to the hospital provider privilege tax; to
+18 amend Sections 40-26B-71, 40-26B-73, 40-26B-77.1, 40-26B-79,
+19 40-26B-80, 40-26B-81, 40-26B-82, 40-26B-84, and 40-26B-88,
+20 Code of Alabama 1975, as last amended by Act 2025-371, 2025
+21 Regular Session; to make the hospital provider privilege tax
+22 permanent.
+23 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+24 Section 1. Sections 40-26B-71, 40-26B-73, 40-26B-77.1,
+25 40-26B-79, 40-26B-80, 40-26B-81, 40-26B-82, 40-26B-84, and
+26 40-26B-88, Code of Alabama 1975, as last amended by Act
+27 2025-371, 2025 Regular Session, are amended as follows:
+28 "§40-26B-71
+Page 1
+
+"§40-26B-71
+SB145 INTRODUCED
+29 (a) For state fiscal years 2026, 2027, and 2028, an
+30 assessment is imposed on eachIn order to extend the assessment
+31 that is imposed on each privately operated hospital in the
+32 amount of 6.00 percent of net patient revenue beginning with
+33 in fiscal year 2023, which shall be reviewed and hospital cost
+34 reports updated annually, subject to limitations in this
+35 article on the use of funds in the Hospital Assessment
+36 Account. The assessment is a cost of doing business as a
+37 privately operated hospital in the State of Alabama. Annually,
+38 the Medicaid Agency shall make a determination of whether
+39 changes in federal law or regulation have adversely affected
+40 hospital Medicaid reimbursement during the most recently
+41 completed fiscal year, or a reduction in payment rates has
+42 occurred. If the agency determines that adverse impact to
+43 hospital Medicaid reimbursement has occurred, or will occur,
+44 the agency shall report its findings to the Chair of the House
+45 Ways and Means General Fund Committee who shall propose an
+46 amendment to this article during any legislative session prior
+47 to the start of the upcoming fiscal year from the year the
+48 report was made, to address the adverse impact. The assessment
+49 imposed on each private hospital under this section shall be
+50 reduced pro rata, if the total disproportionate share
+51 allotment for all hospitals is reduced before or during the
+52 2028current fiscal year, as a result of any action by the
+53 Medicaid Agency or the Centers for Medicare and Medicaid
+54 Services, and only to the extent that the Hospital Assessment
+55 Account is more than necessary to fund some or all hospital
+56 payments under this article.
+Page 2
+
+payments under this article.
+SB145 INTRODUCED
+57 (b)(1) ForBeginning with state fiscal years 2026, 2027,
+58 and 2028year 2026, net patient revenue shall be determined
+59 using the data from each private hospital's fiscal year ending
+60 2023, 2024, or 2025 Medicare Cost Report contained in the
+61 Centers for Medicare and Medicaid Services' Healthcare Cost
+62 Report Information System, beginning with the fiscal year
+63 ending 2023, which shall be reviewed and the hospital cost
+64 reports updated annually subject to limitations in this
+65 article on the use of funds in the Hospital Assessment
+66 Account. The Medicare Cost Report for 2023, 2024, and 2025 for
+67 each private hospital, which shall be reviewed and updated
+68 annually, shall be used for fiscal yearsyear 2026, 2027, and
+69 2028, respectively. If the Medicare Cost Report is not
+70 available in the Centers for Medicare and Medicaid Services'
+71 Healthcare Cost Report Information System, the hospital shall
+72 submit a copy to the department to determine the hospital's
+73 net patient revenue for the most recent fiscal year.
+74 (2) If a privately operated hospital commenced
+75 operations after the due date for a 2023 Medicare Cost Report
+76 as provided in subsection (b)(1), the hospital shall submit
+77 its most recent Medicare Cost Report to the department in
+78 order to allow the department to determine the hospital's net
+79 patient revenue.
+80 (c) This article does not authorize a unit of county or
+81 local government to license for revenue or impose a tax or
+82 assessment upon hospitals or a tax or assessment measured by
+83 the income or earnings of a hospital."
+84 "§40-26B-73
+Page 3
+
+"§40-26B-73
+SB145 INTRODUCED
+85 (a)(1) There is created within the Health Care Trust
+86 Fund referenced in Article 3 of Chapter 6 of Title 22 a
+87 designated account known as the Hospital Assessment Account.
+88 (2) The hospital assessments imposed under this article
+89 shall be deposited into the Hospital Assessment Account.
+90 (b) Monies in the Hospital Assessment Account shall
+91 consist of:
+92 (1) All monies collected or received by the department
+93 from privately operated hospital assessments imposed under
+94 this article;
+95 (2) Any interest or penalties levied in conjunction
+96 with the administration of this article; and
+97 (3) Any appropriations, transfers, donations, gifts, or
+98 monies from other sources, as applicable.
+99 (c) The Hospital Assessment Account shall be separate
+100 and distinct from the State General Fund and shall be
+101 supplementary to the Health Care Trust Fund.
+102 (d) Monies in the Hospital Assessment Account shall not
+103 be used to replace other general revenues appropriated and
+104 funded by the Legislature or other revenues used to support
+105 Medicaid.
+106 (e) The Hospital Assessment Account shall be exempt
+107 from budgetary cuts, reductions, or eliminations caused by a
+108 deficiency of State General Fund revenues to the extent
+109 permissible under Section 213 of the Constitution of Alabama
+110 of 2022.
+111 (f)(1) Except as necessary to reimburse any funds
+112 borrowed to supplement funds in the Hospital Assessment
+Page 4
+
+borrowed to supplement funds in the Hospital Assessment
+SB145 INTRODUCED
+113 Account, the monies in the Hospital Assessment Account shall
+114 be used only as follows:
+115 a. To make public, private, and state inpatient and
+116 outpatient hospital payments.
+117 b. To reimburse monies collected by the department from
+118 hospitals through error or mistake or under this article.
+119 (2)a. The Hospital Assessment Account shall retain
+120 account balances remaining each fiscal year.
+121 b. On September 30, 2014, and each year thereafter, any
+122 positive balance remaining in the Hospital Assessment Account
+123 which was not used by the Medicaid Agency to obtain federal
+124 matching funds and paid out for hospital payments, shall be
+125 factored into the calculation of any new assessment rate by
+126 reducing the amount of hospital assessment funds that must be
+127 generated during the next fiscal year. The Medicaid Agency may
+128 carry over a balance of unspent assessment funds not
+129 considered in the previous sentence and not to exceed
+130 one-third of the total current year's assessment, through
+131 fiscal year 2028 to account for future variations in hospital
+132 expenses and federal match rates in the upcoming fiscal year.
+133 If there is no new assessment beginning October 1, 2028on or
+134 after October 1, 2027, the funds remaining shall be refunded
+135 to the hospital that paid the assessment or made an
+136 intergovernmental transfer in proportion to the amount
+137 remaining.
+138 (3) A privately operated hospital shall not be
+139 guaranteed that its inpatient and outpatient hospital payments
+140 will equal or exceed the amount of its hospital assessment."
+Page 5
+
+will equal or exceed the amount of its hospital assessment."
+SB145 INTRODUCED
+141 "§40-26B-77.1
+142 (a) Beginning on October 1, 2016, and ending on
+143 September 30, 2028, publicly owned and state-owned hospitals
+144 shall begin making intergovernmental transfers to the Alabama
+145 Medicaid Agency. Total IGTs for the total intergovernmental
+146 transfers shall equal the amount of state funds necessary for
+147 the agency to obtain only those federal matching funds
+148 necessary to pay publicly owned and state-owned hospitals for
+149 hospital payments.
+150 (b) These intergovernmental transfers shall be made in
+151 compliance with 42 U.S.C. § 1396b(w).
+152 (c) If a publicly or state-owned hospital commences
+153 operations after October 1, 2013, the hospital shall commence
+154 making intergovernmental transfers to the Alabama Medicaid
+155 Agency in the first full month of operation of the hospital
+156 after October 1, 2013."
+157 "§40-26B-79
+158 The agency shall pay hospitals, as a base amount for
+159 fiscal years 2026, 2027, and 2028, the greater of a hospital's
+160 current per diem as published for fiscal year 2022 or 68
+161 percent of total inpatient payments made by the agency during
+162 state fiscal year 2019, divided by the total patient days paid
+163 in state fiscal year 2019, multiplied by patient days paid
+164 during the current fiscal yearfiscal years 2026, 2027, and
+165 2028. A hospital may request to have their per diem reviewed
+166 and revised at the sole discretion of the Medicaid Agency.
+167 This payment to be paid using the agency's published check
+168 write table is in addition to any hospital access payments the
+Page 6
+
+write table is in addition to any hospital access payments the
+SB145 INTRODUCED
+169 agency may elect to pay hospitals as inpatient payments other
+170 than per diems and access payments, if the agency does not
+171 make payments pursuant to Article 9 of Chapter 6 of Title 22
+172 in fiscal year 2019, or fiscal years 2026, 2027, and 2028 and
+173 thereafter, only if the Hospital Services and Reimbursement
+174 Panel approves the change in hospital payments."
+175 "§40-26B-80
+176 If the Alabama Medicaid Agency implements OPPS, the
+177 total amount budgeted (total base rate) for OPPS shall not be
+178 less than the total outpatient UPL.
+179 The agency shall pay hospitals as a base amount for
+180 fiscal years 2026, 2027, and 2028 for outpatient services,
+181 based upon an outpatient fee schedule in existence on
+182 September 30, 2018. Medicaid may update the outpatient fee
+183 schedule with approval of the Hospital Services and
+184 Reimbursement Panel. Hospital outpatient base payments shall
+185 be in addition to any hospital access payments or other
+186 payments described in this article."
+187 "§40-26B-81
+188 (a) The agency shall consider the published inpatient
+189 and outpatient rates as defined in Sections 40-26B-79 and
+190 40-26B-80 as the minimum payment allowed.
+191 (b) The aggregate hospital access payment amount is an
+192 amount equal to the upper payment limit, less total hospital
+193 base payments determined under this article. All publicly,
+194 state-owned, and privately operated hospitals shall be
+195 eligible for inpatient and outpatient hospital access payments
+196 for fiscal years 2026, 2027, and 2028, as set forth in this
+Page 7
+
+for fiscal years 2026, 2027, and 2028, as set forth in this
+SB145 INTRODUCED
+197 article.
+198 (1) In addition to any other funds paid to hospitals
+199 for inpatient hospital services to Medicaid patients, each
+200 eligible hospital shall receive inpatient hospital access
+201 payments each state fiscal year. Publicly and state-owned
+202 hospitals shall receive total payments, including hospital
+203 base payments, that, in the aggregate, equal the upper payment
+204 limit for publicly and state-owned hospitals, until the
+205 Hospital Assessment Account is exhausted. Privately operated
+206 hospitals shall receive total payments, including hospital
+207 base payments that, in the aggregate, equal the upper payment
+208 limit for privately operated hospitals, until the Hospital
+209 Assessment Account is exhausted. Any intergovernmental
+210 transfers and hospital provider taxes shall be used only as
+211 monies paid to hospitals.
+212 (2) Inpatient hospital access payments shall be made on
+213 a quarterly basis.
+214 (3) In addition to any other funds paid to hospitals
+215 for outpatient hospital services to Medicaid patients, each
+216 eligible hospital shall receive outpatient hospital access
+217 payments each state fiscal year. Publicly and state-owned
+218 hospitals shall receive payments, including hospital base
+219 payments, that, in the aggregate, equal the upper payment
+220 limit for publicly and state-owned hospitals, until the
+221 Hospital Assessment Account is exhausted. Privately operated
+222 hospitals shall receive payments, including hospital base
+223 payments, that, in the aggregate, equal the upper payment
+224 limit for privately operated hospitals, until the Hospital
+Page 8
+
+limit for privately operated hospitals, until the Hospital
+SB145 INTRODUCED
+225 Assessment Account is exhausted.
+226 (4) Outpatient hospital access payments shall be made
+227 on a quarterly basis.
+228 (c) A hospital access payment shall not be used to
+229 offset any other payment by the Medicaid Agency for hospital
+230 inpatient or outpatient services to Medicaid beneficiaries,
+231 including, without limitation, any fee-for-service, per diem,
+232 private or public hospital inpatient adjustment, or hospital
+233 cost settlement payment.
+234 (d) The specific hospital payments for publicly,
+235 state-owned, and privately operated hospitals shall be
+236 described in the state plan amendment to be submitted to and
+237 approved by the Centers for Medicare and Medicaid Services."
+238 "§40-26B-82
+239 (a) The assessment imposed under this article shall not
+240 take effect or shall cease to be imposed and any monies
+241 remaining in the Hospital Assessment Account in the Alabama
+242 Medicaid Program Trust Fund shall be refunded to hospitals in
+243 proportion to the amounts paid by them if any of the following
+244 occur:
+245 (1) Expenditures for hospital inpatient and outpatient
+246 services paid for by the Alabama Medicaid Program for fiscal
+247 years 2026, 2027, and 2028 for the current fiscal year are
+248 less than the amount paid during fiscal year 2017 or
+249 reimbursement rates under this article for fiscal years 2026,
+250 2027, and 2028 are less than the rates approved by CMS in
+251 Sections 40-26B-79 and 40-26B-80.
+252 (2) The Alabama Medicaid Agency makes changes in rules
+Page 9
+
+(2) The Alabama Medicaid Agency makes changes in rules
+SB145 INTRODUCED
+253 that reduce hospital inpatient payment rates, outpatient
+254 payment rates, or adjustment payments, including any cost
+255 settlement protocol, which were in effect on September 30,
+256 2025during the current fiscal year.
+257 (3) The inpatient or outpatient hospital access
+258 payments required under this article are changed or the
+259 assessments imposed or certified public expenditures or
+260 intergovernmental transfers recognized under this article are
+261 not eligible for federal matching funds under Title XIX of the
+262 Social Security Act, 42 U.S.C. § 1396 et seq., or 42 U.S.C. §
+263 1397aa et seq.
+264 (4) The Alabama Medicaid Agency contracts with an
+265 alternate care provider in a Medicaid region under any terms
+266 other than the following:
+267 a. The agency may contract with an alternate care
+268 provider only if, in the judgment of the agency, care of
+269 Medicaid enrollees would be better, more efficient, and less
+270 costly than under the then existing care delivery system. The
+271 agency may contract with more than one alternate care provider
+272 in a Medicaid region.
+273 b. If the agency were to contract with an alternate
+274 care provider under the terms of this subdivision, that
+275 provider would have to pay reimbursements for hospital
+276 inpatient or outpatient care at rates at least equal to the
+277 most recent published rates pursuant to Sections 40-26B-79 and
+278 40-26B-80.
+279 c. If more than a year had elapsed since the agency
+280 directly paid reimbursements to hospitals, the minimum
+Page 10
+
+directly paid reimbursements to hospitals, the minimum
+SB145 INTRODUCED
+281 reimbursement rates paid by the alternate care provider would
+282 have to be changed to reflect any percentage increase in the
+283 national medical consumer price index minus 100 basis points.
+284 (b)(1) The assessment imposed under this article shall
+285 not take effect or shall cease to be imposed if the assessment
+286 is determined to be an impermissible tax under Title XIX of
+287 the Social Security Act, 42 U.S.C. § 1396 et seq.
+288 (2) Monies in the Hospital Assessment Account in the
+289 Alabama Medicaid Program Trust Fund derived from assessments
+290 imposed before the determination described in subdivision (1)
+291 shall be disbursed under this article to the extent federal
+292 matching is not reduced due to the impermissibility of the
+293 assessments, and any remaining monies shall be refunded to
+294 hospitals in proportion to the amounts paid by them."
+295 "§40-26B-84
+296 This article shall be of no effect if federal financial
+297 participation under Title XIX of the Social Security Act is
+298 not available to the Medicaid Agency at the approved federal
+299 medical assistance percentage, established under Section 1905
+300 of the Social Security Act, now appearing as U.S.C. § 1369d,
+301 for the state fiscal years 2026, 2027, and 2028."
+302 Section 2. Section 40-26B-88, Code of Alabama 1975,
+303 relating to the termination of the Hospital Provider Privilege
+304 Tax, is repealed.
+305 Section 3. This act shall become effective on October
+306 1, 2026.
+Page 11

@@ -1,0 +1,192 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB206 INTRODUCED
+1 HB206
+2 I3Y8AZ6-1
+3 By Representative Wadsworth
+4 RFD: Financial Services
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+I3Y8AZ6-1 12/22/2025 VSM (L)ma 2025-3763
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a trustee can only adjust
+6 trust receipts and disbursements between principal and
+7 income if the terms of the trust explicitly grant the
+8 trustee that authority.
+9 This bill would permit trustees to adjust
+10 receipts and disbursements between principal and income
+11 without requiring the trust terms to authorize the
+12 adjustments, aligning current law with the Uniform
+13 Principal and Income Act.
+14 This bill would also make nonsubstantive,
+15 technical revisions to update the existing code
+16 language to current style.
+17
+18
+19 A BILL
+20 TO BE ENTITLED
+21 AN ACT
+22
+23 Relating to trusts; to amend Section 19-3A-104, Code of
+24 Alabama 1975, to permit trustees to adjust trust receipts and
+25 disbursements between principal and income without express
+26 authority of the terms of the trust instrument; and to make
+27 nonsubstantive, technical revisions to update the existing
+28 code language to current style.
+Page 1
+
+code language to current style.
+HB206 INTRODUCED
+29 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+30 Section 1. Section 19-3A-104, Code of Alabama 1975, is
+31 amended to read as follows:
+32 "§19-3A-104
+33 (a) A trustee mayIf the terms of the trust expressly
+34 provide by specific reference to this section, then a trustee
+35 may have the power to adjust receipts and disbursements
+36 between principal and income to the extent the trustee
+37 considers necessary if (1): (i) the trustee invests and
+38 manages trust assets as a prudent investor; (2)(ii) the terms
+39 of the trust describe the amount that may or must be
+40 distributed to a beneficiary by referring to the trust's
+41 income,; and (3)(iii) the trustee determines, after applying
+42 the rules in Section 19-3A-103(a), that the trustee is unable
+43 to comply with Section 19-3A-103(b).
+44 (b) In deciding whether and to what extent to exercise
+45 the power conferred by subsection (a), a trustee shall
+46 consider all factors relevant to the trust and its
+47 beneficiaries, including, but not limited to:
+48 (1) The nature, purpose, and expected duration of the
+49 trust;
+50 (2) The intent of the settlor;
+51 (3) The identity and circumstances of the
+52 beneficiaries;
+53 (4) The needs for liquidity for the trust;
+54 (5) The regularity of income to the trust;
+55 (6) The need for preservation and appreciation of
+56 capital;
+Page 2
+
+capital;
+HB206 INTRODUCED
+57 (7) The nature of the assets held in the trust and the
+58 extent to which they consist of financial assets, interests in
+59 closely held enterprises, tangible and intangible personal
+60 property, or real property;
+61 (8) The extent to which an asset is used by a
+62 beneficiary;
+63 (9) Whether an asset was purchased by the trustee or
+64 received from the settlor;
+65 (10) The net amount allocated to income under the other
+66 sections of this chapter and the increase or decrease in the
+67 value of the principal assets, which the trustee may estimate
+68 as to assets for which market values are not readily
+69 available;
+70 (11) Whether and to what extent the terms of the trust
+71 a.: (i) give the trustee the power to invade principal or
+72 accumulate income, or b.; or (ii) prohibit the trustee from
+73 invading principal or accumulating income;
+74 (12) The extent to which the trustee has exercised a
+75 power from time to time to invade principal or accumulate
+76 income;
+77 (13) The actual and anticipated effect of economic
+78 conditions, inflation, and deflation upon principal and
+79 income; and
+80 (14) The anticipated income and transfer tax
+81 consequences of an adjustment.
+82 (c) Notwithstanding the power conferred by subsection
+83 (a), a trustee may not make an adjustment:
+84 (1) That diminishes the income interest in a trust that
+Page 3
+
+(1) That diminishes the income interest in a trust that
+HB206 INTRODUCED
+85 requires all of the income to be paid at least annually to a
+86 spouse and for which an estate tax or gift tax marital
+87 deduction would be allowed, in whole or in part, if the
+88 trustee did not have the power to make the adjustment;
+89 (2) That reduces the actuarial value of the income
+90 interest in a trust to which a person transfers property with
+91 the intent to qualify the transfer for a gift tax exclusion;
+92 (3) That changes the amount payable to a beneficiary as
+93 a fixed annuity or a fixed fraction of the value of the trust
+94 assets;
+95 (4) That changes the amount that is permanently set
+96 aside for charitable purposes under a will or the terms of a
+97 trust, unless both income and principal are so set aside;
+98 (5) If possessing or exercising the power to make an
+99 adjustment causes an individual to be treated as the owner of
+100 all or part of the trust for income tax purposes, and the
+101 individual would not be treated as the owner if the trustee
+102 did not possess the power to make an adjustment;
+103 (6) If possessing or exercising the power to make an
+104 adjustment causes all or part of the trust assets to be
+105 included for estate tax purposes in the estate of an
+106 individual who has the power to remove a trustee or appoint a
+107 trustee, or both, and the assets would not be included in the
+108 estate of the individual if the trustee did not possess the
+109 power to make an adjustment;
+110 (7) If the trustee is not a beneficiary, but the
+111 adjustment would benefit the trustee directly or indirectly;
+112 (8) If the trustee is a beneficiary of the trust; or
+Page 4
+
+(8) If the trustee is a beneficiary of the trust; or
+HB206 INTRODUCED
+113 (9) If the trust is an express unitrust under Section
+114 19-3A-105 (relating to express unitrusts) or is a unitrust by
+115 reason of a conversion under Section 19-3A-106 (relating to
+116 power to convert to unitrust).
+117 (d) If subsection subdivision (c)(5), subsection
+118 (c)(6), subsection (c)(7), or subsection (c)(8) applies to a
+119 trustee and there is more than one trustee, then the
+120 co-trustee to whom the provision does not apply may make the
+121 adjustment, unless the exercise of the power by the remaining
+122 trustee or trustees is not permitted by the terms of the
+123 trust.
+124 (e) A trustee may release the entire power conferred by
+125 subsection (a) or may release only the power to adjust from
+126 income to principal or the power to adjust from principal to
+127 income if the trustee is uncertain about whether possessing or
+128 exercising the power will cause a result described in
+129 subsection subdivisions (c)(1) through subsection (c)(7) or if
+130 the trustee determines that possessing or exercising the power
+131 will or may deprive the trust of a tax benefit or impose a tax
+132 burden not described in subsection (c). The release may be
+133 permanent or for a specified period, including a period
+134 measured by the life of an individual.
+135 (f) The trustee or any beneficiary of a trust covered
+136 by this chapter (or a trust to be created from a decedent's
+137 estate that is covered by this chapter) (1) may seek approval
+138 from a court of competent jurisdiction to be governed
+139 prospectively by this section, or (2) may at any time
+140 affirmatively elect to be governed prospectively by this
+Page 5
+
+affirmatively elect to be governed prospectively by this
+HB206 INTRODUCED
+141 section by obtaining the written consent of all of the current
+142 income beneficiaries and the presumptive remainder
+143 beneficiaries of the trust, and such written consent shall
+144 conclusively bind all persons who may have any interest in the
+145 affected trust, including all contingent remainder
+146 beneficiaries and potential appointees of the trust. Terms of
+147 a trust which limit the power of a trustee to make an
+148 adjustment between principal and income do not affect the
+149 application of this section unless it is clear from the terms
+150 of the trust that the terms are intended to deny the trustee
+151 the power of adjustment conferred by subsection (a)."
+152 Section 2. This act shall become effective on October
+153 1, 2026.
+Page 6

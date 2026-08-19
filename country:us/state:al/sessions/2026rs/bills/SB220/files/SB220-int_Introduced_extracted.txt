@@ -1,0 +1,345 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB220 INTRODUCED
+1 SB220
+2 YMREV22-1
+3 By Senator Orr
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+YMREV22-1 01/28/2026 PMG (L)cr 2026-23
+1
+2
+3
+4 SYNOPSIS:
+5 The Fair Campaign Practices Act requires the
+6 disclosure of persons that contribute $100 or more
+7 during a reporting period to a political action
+8 committee or principal campaign committee. The original
+9 source of funds to a political campaign can remain
+10 undisclosed through nonprofit 501(c)(3) and 501(c)(4)
+11 corporations that are set up to mask the identity of
+12 campaign contribution sources. This is considered dark
+13 money.
+14 This bill would prohibit a nonprofit
+15 organization from making any contributions to a
+16 principal campaign committee unless the organization
+17 registers with the Secretary of State as a political
+18 donor organization and the contributions are made from
+19 a separate, segregated fund.
+20 This bill would require a political donor
+21 organization to submit to the Secretary of State
+22 reports that disclose the identity of each contributor
+23 to a political spending fund of the organization if the
+24 total contributions to the organization's fund amount
+25 to $100 or more in a 12-month period.
+26 This bill would require a political donor
+27 organization that receives a contribution to inform the
+28 contributing source that the source's identity will be
+Page 1
+
+contributing source that the source's identity will be
+SB220 INTRODUCED
+29 disclosed if their total contributions amount to $100
+30 or more during a 12-month period.
+31 This bill would require the Secretary of State
+32 to publish the disclosure reports.
+33 This bill would require the political donor
+34 organization to keep certain records and make the
+35 records available to the Secretary of State or State
+36 Ethics Commission upon request.
+37 This bill would prohibit a nonprofit
+38 organization from making a contribution to or an
+39 expenditure on behalf of a political action committee.
+40 This bill would also authorize the Secretary of
+41 State to enforce this act in the same manner as now
+42 provided for other reporting requirements under the
+43 Fair Campaign Practices Act.
+44
+45
+46 A BILL
+47 TO BE ENTITLED
+48 AN ACT
+49
+50 Relating to campaign finance; to amend Sections
+51 17-5-14.1 and 17-5-19, Code of Alabama 1975, and add Section
+52 17-5-14.2 to the Code of Alabama 1975, to prohibit nonprofit
+53 organizations from making contributions to principal campaign
+54 committees unless registered with the Secretary of State as a
+55 political donor organization and the contributions are made
+56 from a separate, segregated fund; to require these
+Page 2
+
+from a separate, segregated fund; to require these
+SB220 INTRODUCED
+57 organizations to submit reports to the Secretary of State
+58 disclosing the identity of persons that contribute more than a
+59 certain amount to the organization; to require organizations
+60 to provide notice to persons contributing to the organization;
+61 to require these organizations to maintain certain records; to
+62 prohibit nonprofit organizations from making contributions
+63 to, or expenditures on behalf of, political action committees;
+64 and to authorize the Secretary of State to impose civil
+65 penalties for violations.
+66 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+67 Section 1. Sections 17-5-14.1 and 17-5-19, Code of
+68 Alabama 1975, are amended to read as follows:
+69 "§17-5-14.1
+70 (a) AnyExcept as provided in Section 17-5-14.2, any
+71 business or nonprofit corporation, incorporated under the laws
+72 of or doing business in this state, or any officer or agent
+73 acting on behalf of the corporation may give, pay, expend, or
+74 contribute money, services, anything of value for the purposes
+75 of establishing, administering, or soliciting voluntary
+76 contributions to a separate, segregated fund which can be
+77 utilized used for political purposes: (i) to aid or promote
+78 the nomination or election of any person, including an
+79 incumbent political officeholder or any other person who is or
+80 becomes a candidate for political office; or (ii) to aid or
+81 promote the interest or success, or defeat of any political
+82 party or political proposition. Any separate, segregated fund
+83 established hereunder for any of the above enumerated purposes
+84 shall be established and administered pursuant to the
+Page 3
+
+shall be established and administered pursuant to the
+SB220 INTRODUCED
+85 following requirements and prohibitions:
+86 (1) Any such business or nonprofit corporation, or any
+87 officer or agent acting on behalf of such business or
+88 nonprofit corporation, may solicit voluntary contributions to
+89 the fund only from the corporation's, or its affiliates',
+90 stockholders and their families and its employees and their
+91 families; or in the case of a nonprofit corporation, its
+92 members and their employees. However, the funds may accept
+93 voluntary contributions from any individuals.
+94 (2) The custodians of any separate, segregated
+95 political fund established hereunder pursuant to this section
+96 shall file with the Secretary of State such financial
+97 disclosure reports or statements now required of a candidate
+98 for public office. Filing with the Secretary of State a copy
+99 of the information required to be filed with the Federal
+100 Election Commission by such separate, segregated fund shall
+101 constitute compliance with the reporting provisions of this
+102 section.
+103 (b) It shall be unlawful:
+104 (1) For any separate, segregated political fund
+105 established pursuant to this section or for any person acting
+106 on behalf of the fund to solicit or secure any money or
+107 anything of value by physical force, job discrimination, or
+108 financial reprisals, or by threats thereof; by dues, fees, or
+109 other moneysmonies required as a condition of employment; or
+110 by moneysmonies obtained in any commercial transaction;
+111 (2) For any person soliciting contributions to the fund
+112 to fail to inform any person being solicited of the political
+Page 4
+
+to fail to inform any person being solicited of the political
+SB220 INTRODUCED
+113 purposes of the fund at the time of the solicitation;
+114 (3) For any person soliciting for a contribution to the
+115 fund to fail to inform the person being solicited, at the time
+116 of the solicitation, of his or her right to refuse to
+117 contribute without any reprisal; and
+118 (4) For any corporation regulated by the Public Service
+119 Commission to pass on to its customers any contribution made
+120 for the purpose of establishing, administering, or soliciting
+121 voluntary contributions to a separate, segregated fund to be
+122 utilized for political purposes."
+123 "§17-5-19
+124 (a) Except as otherwise provided in this section, a
+125 person who intentionally violates any provision of this
+126 chapter shall be guilty, upon conviction, of a Class A
+127 misdemeanor.
+128 (b) A person who intentionally violates any reporting
+129 requirement of Sections 17-5-4, 17-5-5, or 17-5-8, or
+130 17-5-14.2 shall be guilty, upon conviction, of a Class A
+131 misdemeanor. A person's failure to promptly file a required
+132 report upon discovering or receiving notice from any person
+133 that the report has not been filed, or the failure to promptly
+134 correct an omission, error, or other discrepancy in a filed
+135 report upon discovering or receiving notice of the
+136 discrepancy, shall create a rebuttable presumption of intent
+137 to violate the applicable reporting requirement.
+138 (c) Any person who intentionally violates Section
+139 17-5-7 shall be guilty, upon conviction, of a Class B felony.
+140 (d) The Attorney General or district attorney for the
+Page 5
+
+(d) The Attorney General or district attorney for the
+SB220 INTRODUCED
+141 appropriate jurisdiction may prosecute violations of this
+142 chapter. Venue for cases involving violations of this chapter
+143 shall be in the county in which the violation occurred or the
+144 county in which the alleged violator resides or is
+145 incorporated. If the alleged violator resides or is
+146 incorporated outside of the State of Alabama or if the
+147 violation or violations occurred outside the State of Alabama,
+148 venue shall be in Montgomery County.
+149 (e) No prosecution for violation of this chapter shall
+150 be commenced later than two years after the date of violation.
+151 Notwithstanding the foregoing, a prosecution brought pursuant
+152 to Section 17-5-7 shall be commenced within four years after
+153 the commission of the offense."
+154 Section 2. Section 17-5-14.2 is added to the Code of
+155 Alabama 1975, to read as follows:
+156 §17-5-14.2
+157 (a) For purposes of this section, the following terms
+158 have the following meanings:
+159 (1) CONTRIBUTING SOURCE. a. Any person, including any
+160 donor or member of a political donor organization, who
+161 knowingly and voluntarily does either of the following:
+162 1. Contributes to a political spending fund of a
+163 political donor organization.
+164 2. Expressly permits the use of the person's monies or
+165 other financial resources given to the political donor
+166 organization to be used for political spending.
+167 b. A nonprofit organization may not be a contributing
+168 source and may not contribute to the political spending fund
+Page 6
+
+source and may not contribute to the political spending fund
+SB220 INTRODUCED
+169 of a political donor organization.
+170 (2) IDENTITY. a. In the case of an individual, the name
+171 and mailing address of the individual; and
+172 b. In the case of any other person, the name, mailing
+173 address, federal tax status, and state of incorporation,
+174 registration, or partnership, if any.
+175 (3) NONPROFIT ORGANIZATION. Any corporation, union,
+176 association, organization, or other entity exempt from federal
+177 income taxes under 26 U.S.C. § 501(c)(3) or 501(c)(4).
+178 (4) POLITICAL DONOR ACCOUNTING RECORDS. A written
+179 record of: (i) the identity of each contributing source who
+180 contributed to the political spending fund of a political
+181 donor organization; (ii) the date of receipt of each
+182 contribution, deposit, or transfer of monies to the political
+183 spending fund by a contributing source; (iii) a record of each
+184 contributing source's approval for the use of the contributed
+185 funds for political spending; and (iv) the date and identity
+186 of each contribution made to, or expenditure made on behalf
+187 of, a principal campaign committee.
+188 (5) POLITICAL DONOR ORGANIZATION. Any nonprofit
+189 organization that uses or transfers monies for political
+190 spending.
+191 (6) POLITICAL SPENDING. Any contribution to, or
+192 expenditure on behalf of, a principal campaign committee.
+193 (7) POLITICAL SPENDING FUND. A separate, segregated
+194 fund held by a political donor organization solely used for
+195 political spending. A political spending fund shall only
+196 include financial contributions from a contributing source
+Page 7
+
+include financial contributions from a contributing source
+SB220 INTRODUCED
+197 that has approved in writing the use of the contributed funds
+198 for political spending.
+199 (b)(1) It shall be unlawful for any nonprofit
+200 organization to make a contribution to, or an expenditure on
+201 behalf of, a political action committee or a principal
+202 campaign committee.
+203 (2) Notwithstanding subdivision (1), a nonprofit
+204 organization may make a contribution to, or an expenditure on
+205 behalf of, a principal campaign committee under the following
+206 conditions:
+207 a. The nonprofit organization has registered with the
+208 Secretary of State as a political donor organization.
+209 b. The contribution or expenditure is made entirely
+210 from the political donor organization's political spending
+211 fund.
+212 (c) It shall be unlawful for a political action
+213 committee or a principal campaign committee to accept or
+214 receive a contribution from a person if the political action
+215 committee or principal campaign committee knew or reasonably
+216 should have known that the person:
+217 (1) Is a nonprofit organization; and
+218 (2) Is not registered with the Secretary of State as a
+219 political donor organization.
+220 (d) Prior to engaging in any political spending, a
+221 nonprofit organization must first register with the Secretary
+222 of State as a political donor organization in the manner
+223 prescribed by the Secretary of State through administrative
+224 rule.
+Page 8
+
+rule.
+SB220 INTRODUCED
+225 (e)(1) Each registered political donor organization
+226 shall file periodic disclosure reports with the Secretary of
+227 State on a schedule prescribed by the Secretary of State, by
+228 rule.
+229 (2) Each disclosure report shall include the identity
+230 of every contributing source that aggregately contributed or
+231 donated more than one hundred dollars ($100) to the political
+232 spending fund of the political donor organization within the
+233 previous 12 months.
+234 (f)(1) A political donor organization shall maintain
+235 political donor accounting records for a period of five years
+236 and provide verified copies of the records, upon request, to
+237 the Secretary of State or the State Ethics Commission.
+238 (2) It shall be unlawful for any political donor
+239 organization or any person acting on behalf of the
+240 organization to: (i) require contributions or donations,
+241 including dues or fees, to a political spending fund as a
+242 condition of membership or association with the nonprofit
+243 organization; or (ii) solicit, secure, or acquire any money or
+244 anything of value for the political spending fund by physical
+245 force, job discrimination, financial reprisal, or by monies
+246 obtained in any commercial transaction.
+247 (3) It shall be unlawful for any person to knowingly or
+248 intentionally use separate entities or third-party proxies to
+249 divide a person's contribution or donation to a political
+250 spending fund into smaller sums for the purpose of avoiding
+251 the reporting requirements of this act or any rule adopted
+252 pursuant to this act.
+Page 9
+
+pursuant to this act.
+SB220 INTRODUCED
+253 (g) Prior to the deposit or use of a contribution or
+254 donation to a political spending fund, a political donor
+255 organization must provide written notice to a contributing
+256 source that informs the person that the contribution or
+257 donation will be used solely for political spending. The
+258 notice under this subsection must do all of the following:
+259 (1) Inform contributing sources in writing that their
+260 monies or contributions will be used solely for political
+261 spending and that the identity of a contributing source that
+262 contributes more than one hundred dollars ($100) within a
+263 12-month period will be reported to the Secretary of State for
+264 disclosure to the public in accordance with the requirements
+265 established by the Secretary of State.
+266 (2) Inform contributing sources that any donation or
+267 contribution to the political spending fund is voluntary and,
+268 if applicable, not required for membership or association with
+269 the nonprofit organization.
+270 (3) Comply with any additional requirements established
+271 by the Secretary of State pursuant to this section and through
+272 administrative rules to ensure that the notice reasonably
+273 informs contributing sources of the political use of the
+274 contribution or donation and the potential public disclosure
+275 of the person's identity.
+276 (h)(1) The Secretary of State shall establish and
+277 maintain, by rule, a schedule for the filing, submission, and
+278 publishing of periodic disclosure reports for political donor
+279 organizations.
+280 (2) All disclosure reports submitted to the Secretary
+Page 10
+
+(2) All disclosure reports submitted to the Secretary
+SB220 INTRODUCED
+281 of State pursuant to this section shall be promptly published
+282 on its website for public access and viewing.
+283 (i) The Secretary of State may adopt additional
+284 administrative rules as necessary to administer this section.
+285 Section 3. This act shall become effective on October
+286 1, 2026.
+Page 11

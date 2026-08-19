@@ -1,0 +1,361 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB304 INTRODUCED
+1 HB304
+2 I3JDXWW-1
+3 By Representatives Brinyark, Faulkner
+4 RFD: Ways and Means General Fund
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+I3JDXWW-1 01/19/2026 GED (L)ma 2026-332
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the funds from the Advanced
+6 Technology and Data Exchange Fund may only be used for
+7 specific purposes related to the administration of
+8 justice.
+9 This bill would allow the Administrative Office
+10 of Courts to expend funds from the Advanced Technology
+11 and Data Exchange Fund for the general operation of the
+12 courts.
+13 This bill would also create the Supreme Court
+14 Advanced Technology and Data Exchange Fund, the Court
+15 of Civil Appeals Advanced Technology and Data Exchange
+16 Fund, and the Court of Criminal Appeals Advanced
+17 Technology and Data Exchange Fund and provide for the
+18 administration of those funds.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to the Advanced Technology and Data Exchange
+26 Fund; to amend Section 12-19-290, Code of Alabama 1975, to
+27 further provide for the expenditure of funds from the Advanced
+28 Technology and Data Exchange Fund; and to create the Supreme
+Page 1
+
+Technology and Data Exchange Fund; and to create the Supreme
+HB304 INTRODUCED
+29 Court Advanced Technology and Data Exchange Fund, the Court of
+30 Civil Appeals Advanced Technology and Data Exchange Fund, and
+31 the Court of Criminal Appeals Advanced Technology and Data
+32 Exchange Fund.
+33 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+34 Section 1. Section 12-19-290, Code of Alabama 1975, is
+35 amended to read as follows:
+36 "§12-19-290
+37 (a) The Administrative Office of Courts Advanced
+38 Technology and Data Exchange Fund is created in the State
+39 Treasury.
+40 (b) The fund shall consist of all monies paid into the
+41 State Treasury to the credit of the fund pursuant to Section
+42 12-19-181 or by legislative appropriations, grant, gift, or
+43 otherwise.
+44 (c) Monies contained in the Advanced Technology and
+45 Data Exchange Fund fund may be expended to provide for any
+46 activities involving the administration of justice, including,
+47 but not limited to, the following purposes:
+48 (1) Expand methods and means for collection and
+49 disbursement of court-ordered monies through the use of credit
+50 cards, electronic fund transfers, or other means and provide
+51 for electronic transfer of records and storage.
+52 (2) Enhance coordination and sharing of data with
+53 local, state, and federal agencies, members of the bar, and
+54 the public.
+55 (3) Provide equipment for electronically filing cases.
+56 (4) Improve accountability for case filings and
+Page 2
+
+(4) Improve accountability for case filings and
+HB304 INTRODUCED
+57 dispositions.
+58 (5) Train and educate employees and officials on the
+59 state and municipal levels of the Unified Judicial System
+60 regarding legal and administrative policies and procedures and
+61 effective usage of the courts' management systems.
+62 (6) Provide education materials including, but not
+63 limited to, manuals, forms, handbooks, books, brochures, and
+64 technology for legal research and case management for court
+65 officials and employees and component groups of the legal
+66 community.
+67 (7) Provide staff, services, and equipment required to
+68 maintain and expand technological improvements and conduct
+69 continuing education and training in these areas.
+70 (8) Provide for any other use by the Administrative
+71 Office of Courts, as determined by the Administrative Director
+72 of Courts, for the general operation of the courts in the
+73 state.
+74 (8)(9)a. Pay service charges, electronic transfer fees,
+75 or any other transaction costs associated with subdivisions
+76 (1) to (7)(8), inclusive.
+77 b. All such costs shall be paid out of funds
+78 appropriated to the Administrative Office of Courts Advanced
+79 Technology and Data Exchange Fund and shall not reduce amounts
+80 due to be distributed to other governmental funds or entities.
+81 (d)(1) Subject to the adoption of uniform rules by the
+82 Administrative Office of Courts, the clerks of the circuit and
+83 district courts may accept credit cards, charge cards, or
+84 debit cards issued from any bank, foreign lender, domestic
+Page 3
+
+debit cards issued from any bank, foreign lender, domestic
+HB304 INTRODUCED
+85 lender, or credit card bank as defined in Section 5-20-3 for
+86 the payment of court costs, fees, fines, forfeitures,
+87 judgments, restitution, attorney fees, any monies collected
+88 and payable to individuals, businesses or partnerships, or any
+89 person or entity or assessments of any kind. Any other
+90 provision of law to the contrary notwithstanding, the clerk of
+91 the court or agent thereof accepting payment as provided for
+92 in this subsection shall impose and collect a surcharge or
+93 convenience fee in respect of payments made by credit card,
+94 charge card, or debit card for any of the above in an amount
+95 not exceeding the sum of the following:
+96 a. theThe transaction fee or discount charged by the
+97 credit card, charge card, or debit card issuer or processor
+98 with respect to such payments; and .
+99 b. anyAny cost or fee charged with respect to the
+100 payments pursuant to agreement between the Administrative
+101 Office of Courts and a contracting entity which provides
+102 software, support, and management services in connection with
+103 the acceptance of payment by credit card, charge card, or
+104 debit card by the clerks of the circuit and district courts as
+105 provided herein.
+106 (2) The imposition and validity of any surcharges or
+107 convenience fees heretofore charged and collected by clerks of
+108 the circuit or district courts or their agents prior to June
+109 1, 2014, are hereby ratified and confirmed.
+110 (e) The Administrative Director of Courts or any
+111 municipality may contract with any company that issues credit
+112 cards to collect and seize credit cards issued by any company
+Page 4
+
+cards to collect and seize credit cards issued by any company
+HB304 INTRODUCED
+113 that are outdated or otherwise unauthorized. The state or
+114 municipality may charge the company a fee for the return of
+115 the credit cards. Any fees collected pursuant to this
+116 subsection by state courts shall be deposited into the
+117 Advanced Technology and Data Exchange Fund and the fees
+118 collected by a municipal court shall be deposited into the
+119 general fund of the municipality.
+120 (f) Procedures for implementing the provisions of Act
+121 99-427 may be promulgated adopted as Rules of Judicial
+122 Administration adopted by the Supreme Court of Alabama.
+123 (g) At the end of any fiscal year, any unexpended or
+124 unencumbered monies contributed to or deposited in the fund
+125 from any source, except appropriations from other state funds,
+126 shall remain in the fund.
+127 (h) The clerk of any court shall not be liable to any
+128 person for any action taken pursuant to this section if he or
+129 she acts in accordance with the rules adopted by the
+130 Administrative Office of Courts."
+131 Section 2. (a) The Supreme Court Advanced Technology
+132 and Data Exchange Fund is created in the State Treasury.
+133 (b) The fund shall consist of all monies paid into the
+134 State Treasury to the credit of the fund through user fees,
+135 copy fees, subscriptions, service charges, and any other
+136 sources associated with the operation of the appellate court
+137 case management system or by the legislative appropriations,
+138 grant, gift, or otherwise.
+139 (c) Monies contained in the fund may be expended by the
+140 Supreme Court of Alabama to provide for any activities
+Page 5
+
+Supreme Court of Alabama to provide for any activities
+HB304 INTRODUCED
+141 involving the administration of justice including the
+142 following purposes:
+143 (1) Expand methods and means for collection and
+144 disbursement of court-ordered monies through the use of credit
+145 cards, electronic funds transfers, or other means and provide
+146 for electronic transfer of records and storage.
+147 (2) Enhance coordination and sharing of data with
+148 local, state, and federal agencies, members of the bar, and
+149 the public.
+150 (3) Provide equipment for electronically filing cases.
+151 (4) Improve accountability for case filings and
+152 dispositions.
+153 (5) Train and educate employees and officials on the
+154 trial or appellate levels of the Unified Judicial System
+155 regarding legal and administrative policies and procedures and
+156 effective usage of the courts' management systems.
+157 (6) Provide education materials including manuals,
+158 forms, handbooks, books, brochures, and technology for legal
+159 research and case management for appellate and trial court
+160 officials and employees and component groups of the legal
+161 community.
+162 (7) Provide staff, services, and equipment required to
+163 maintain and expand technological improvements and conduct
+164 continuing education and training in these areas.
+165 (8) Provide for any other use by the Supreme Court of
+166 Alabama for the general operations that further the
+167 administration of justice.
+168 (9) Pay service charges, electronic transfer fees, or
+Page 6
+
+(9) Pay service charges, electronic transfer fees, or
+HB304 INTRODUCED
+169 any other transaction costs associated with subdivisions (1)
+170 to (8), inclusive.
+171 (d) The Administrative Office of Courts is authorized
+172 to transfer to the Supreme Court Advanced Technology and Data
+173 Exchange Fund established by subsection (a) any amounts on
+174 deposit in the Administrative Office of Courts Advanced
+175 Technology Data and Exchange Fund to the credit of the Supreme
+176 Court of Alabama.
+177 (e) At the end of any fiscal year, any unexpended or
+178 unencumbered monies contributed to or deposited in the fund
+179 from any source shall remain in the fund for the use of the
+180 Supreme Court of Alabama.
+181 (f) All monies in the fund shall be budgeted and
+182 allotted pursuant to the Budget Management Act in accordance
+183 with Article 4 of Chapter 4 and Chapter 19 of Title 41, Code
+184 of Alabama 1975, and only in the amount provided by the
+185 Legislature in the general appropriations act or other
+186 appropriations act.
+187 Section 3. (a) The Court of Civil Appeals Advanced
+188 Technology and Data Exchange Fund is created in the State
+189 Treasury.
+190 (b) The fund shall consist of all monies paid into the
+191 State Treasury to the credit of the fund through user fees,
+192 copy fees, subscriptions, service charges, and any other
+193 sources associated with the operation of the appellate court
+194 case management system or by the legislative appropriations,
+195 grant, gift, or otherwise.
+196 (c) Monies contained in the fund may be expended by the
+Page 7
+
+(c) Monies contained in the fund may be expended by the
+HB304 INTRODUCED
+197 Alabama Court of Civil Appeals to provide for any activities
+198 involving the administration of justice including the
+199 following purposes:
+200 (1) Expand methods and means for collection and
+201 disbursement of court-ordered monies through the use of credit
+202 cards, electronic funds transfers, or other means and provide
+203 for electronic transfer of records and storage.
+204 (2) Enhance coordination and sharing of data with
+205 local, state, and federal agencies, members of the bar, and
+206 the public.
+207 (3) Provide equipment for electronically filing cases.
+208 (4) Improve accountability for case filings and
+209 dispositions.
+210 (5) Train and educate employees and officials on the
+211 trial or appellate levels of the Unified Judicial System
+212 regarding legal and administrative policies and procedures and
+213 effective usage of the courts' management systems.
+214 (6) Provide education materials including manuals,
+215 forms, handbooks, books, brochures, and technology for legal
+216 research and case management for appellate and trial court
+217 officials and employees and component groups of the legal
+218 community.
+219 (7) Provide staff, services, and equipment required to
+220 maintain and expand technological improvements and conduct
+221 continuing education and training in these areas.
+222 (8) Provide for any other use by the Alabama Court of
+223 Civil Appeals for the general operations that further the
+224 administration of justice.
+Page 8
+
+administration of justice.
+HB304 INTRODUCED
+225 (9) Pay service charges, electronic transfer fees, or
+226 any other transaction costs associated with subdivisions (1)
+227 to (8), inclusive.
+228 (d) The Administrative Office of Courts is authorized
+229 to transfer to the Court of Civil Appeals Advanced Technology
+230 and Data Exchange Fund established by subsection (a) any
+231 amounts on deposit in the Administrative Office of Courts
+232 Advanced Technology Data and Exchange Fund to the credit of
+233 the Alabama Court of Civil Appeals.
+234 (e) At the end of any fiscal year, any unexpended or
+235 unencumbered monies contributed to or deposited in the fund
+236 from any source shall remain in the fund for the use of the
+237 Alabama Court of Civil Appeals.
+238 (f) All monies in the fund shall be budgeted and
+239 allotted pursuant to the Budget Management Act in accordance
+240 with Article 4 of Chapter 4 and Chapter 19 of Title 41, Code
+241 of Alabama 1975, and only in the amount provided by the
+242 Legislature in the general appropriations act or other
+243 appropriations act.
+244 Section 4. (a) The Court of Criminal Appeals Advanced
+245 Technology and Data Exchange Fund is created in the State
+246 Treasury.
+247 (b) The fund shall consist of all monies paid into the
+248 State Treasury to the credit of the fund through user fees,
+249 copy fees, subscriptions, service charges, and any other
+250 sources associated with the operation of the appellate court
+251 case management system or by the legislative appropriations,
+252 grant, gift, or otherwise.
+Page 9
+
+grant, gift, or otherwise.
+HB304 INTRODUCED
+253 (c) Monies contained in the fund may be expended by the
+254 Alabama Court of Criminal Appeals to provide for any
+255 activities involving the administration of justice including
+256 the following purposes:
+257 (1) Expand methods and means for collection and
+258 disbursement of court-ordered monies through the use of credit
+259 cards, electronic funds transfers, or other means and provide
+260 for electronic transfer of records and storage.
+261 (2) Enhance coordination and sharing of data with
+262 local, state, and federal agencies, members of the bar, and
+263 the public.
+264 (3) Provide equipment for electronically filing cases.
+265 (4) Improve accountability for case filings and
+266 dispositions.
+267 (5) Train and educate employees and officials on the
+268 trial or appellate levels of the Unified Judicial System
+269 regarding legal and administrative policies and procedures and
+270 effective usage of the courts' management systems.
+271 (6) Provide education materials including manuals,
+272 forms, handbooks, books, brochures, and technology for legal
+273 research and case management for appellate and trial court
+274 officials and employees and component groups of the legal
+275 community.
+276 (7) Provide staff, services, and equipment required to
+277 maintain and expand technological improvements and conduct
+278 continuing education and training in these areas.
+279 (8) Provide for any other use by the Alabama Court of
+280 Criminal Appeals for the general operations that further the
+Page 10
+
+Criminal Appeals for the general operations that further the
+HB304 INTRODUCED
+281 administration of justice.
+282 (9) Pay service charges, electronic transfer fees, or
+283 any other transaction costs associated with subdivisions (1)
+284 to (8), inclusive.
+285 (d) The Administrative Office of Courts is authorized
+286 to transfer to the Court of Criminal Appeals Advanced
+287 Technology and Data Exchange Fund established by subsection
+288 (a) any amounts on deposit in the Administrative Office of
+289 Courts Advanced Technology Data and Exchange Fund to the
+290 credit of the Alabama Court of Criminal Appeals.
+291 (e) At the end of any fiscal year, any unexpended or
+292 unencumbered monies contributed to or deposited in the fund
+293 from any source shall remain in the fund for the use of the
+294 Alabama Court of Criminal Appeals.
+295 (f) All monies in the fund shall be budgeted and
+296 allotted pursuant to the Budget Management Act in accordance
+297 with Article 4 of Chapter 4 and Chapter 19 of Title 41, Code
+298 of Alabama 1975, and only in the amount provided by the
+299 Legislature in the general appropriations act or other
+300 appropriations act.
+301 Section 5. This act shall become effective on June 1,
+302 2026.
+Page 11

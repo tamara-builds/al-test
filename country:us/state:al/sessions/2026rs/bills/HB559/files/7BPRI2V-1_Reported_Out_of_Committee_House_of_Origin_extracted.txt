@@ -1,0 +1,268 @@
+Title: 
+Official Title: 
+Source: versions - Reported Out of Committee House of Origin
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to fraud victim compensation; to create the
+10 Market Accountability Compensation Fund in the State Treasury;
+11 to provide that certain monies are transferred to the fund; to
+12 authorize the Alabama Securities Commission to use the fund to
+13 provide assistance to victims of investment fraud who cannot
+14 recover from the perpetrator; to authorize the transfer of
+15 certain monies to the fund; to authorize the commission to
+16 have subrogation rights to the restitution ordered for those
+17 who receive restitution assistance awards; and to provide
+18 criminal penalties for certain violations.
+19 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+20 Section 1. This act shall be known and may be cited as
+21 the Alabama Market Accountability Compensation Fund Act.
+22 Section 2. For purposes of this act, the following
+23 terms have the following meanings:
+24 (1) CLAIMANT. An individual who files an application
+25 for restitution pursuant to this act.
+26 (2) COMMISSION. The Alabama Securities Commission.
+27 (3) FINAL ORDER. A final administrative order issued by
+28 the commission, or a final court order in a civil or criminal
+Page 1
+
+the commission, or a final court order in a civil or criminal
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+29 proceeding either initiated by the commission or referred by
+30 the commission to one of the offices of a United States
+31 Attorney.
+32 (4) RESTITUTION ASSISTANCE AWARD. An award of funds by
+33 the commission pursuant to this act.
+34 (5) SECURITIES VIOLATION. A violation of Section
+35 8-6-17, Code of Alabama 1975, or any violation of federal law
+36 directly related to circumstances that would be a violation of
+37 Section 8-6-17, Code of Alabama 1975. The federal violation
+38 must be initiated or referred to an office of a United States
+39 Attorney by the commission. Regardless of whether the
+40 violation is prosecuted under state or federal law, there must
+41 be a restitution order, judgment, or administrative
+42 restitution finding.
+43 (6) VULNERABLE ADULT. An individual who is any of the
+44 following:
+45 a. Sixty-five years of age or older.
+46 b. Eighteen years of age or older and whose behavior
+47 indicates that the individual is mentally incapable of caring
+48 for himself or herself and his or her interests without
+49 serious consequences. If the individual is subject to the
+50 jurisdiction of the juvenile court, the individual shall not
+51 be considered a vulnerable adult.
+52 c. Eighteen years of age, who, due to physical or
+53 mental impairment, cannot protect himself or herself from
+54 abuse, neglect, exploitation, sexual abuse, or emotional abuse
+55 by others, and has no guardian or other person willing, able,
+56 and available to assume the supervision necessary under the
+Page 2
+
+and available to assume the supervision necessary under the
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+57 circumstances. If the individual is subject to the
+58 jurisdiction of the juvenile court, the individual shall not
+59 be considered a vulnerable adult.
+60 Section 3. (a) The Market Accountability Compensation
+61 Fund is created in the State Treasury.
+62 (b) Monies contained in the fund may only be expended
+63 to provide monetary relief to victims of investment fraud who
+64 are entitled to monetary damages or restitution and who cannot
+65 recover the funds from the perpetrator of the fraud, as
+66 provided in this act.
+67 (c)(1) The commission shall transfer an initial amount
+68 of two million five hundred thousand dollars ($2,500,000) from
+69 the Alabama Securities Commission Fund in the State Treasury
+70 to the Market Accountability Compensation Fund.
+71 (2) The commission may make transfers of additional
+72 monies from the Alabama Securities Commission Fund to the
+73 Market Accountability Compensation Fund in amounts not
+74 exceeding two million two hundred fifty thousand dollars
+75 ($2,250,000).
+76 (3) The total amount of monies in the Market
+77 Accountability Compensation Fund may not at any time exceed
+78 two million five hundred thousand dollars ($2,500,000).
+79 (d)(1) At the end of any fiscal year, any unexpended or
+80 unencumbered monies contributed to or deposited in the fund
+81 from any source, except appropriations from other state funds,
+82 shall remain in the fund.
+83 (2) Any funds recovered by the commission pursuant to
+84 this act shall be deposited into the fund.
+Page 3
+
+this act shall be deposited into the fund.
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+85 Section 4. (a) Either of the following may submit a
+86 claim for a restitution assistance award in a manner and form
+87 prescribed by the commission:
+88 (1) A named victim in a restitution award in a final
+89 order.
+90 (2) Any other person with lawful authority to act on
+91 behalf of the named victim in a restitution award in a final
+92 order.
+93 (b) The claimant must submit the application within one
+94 year after the date of the final order awarding restitution to
+95 the victim.
+96 (c) Except as provided in subsection (d), the maximum
+97 amount that may be awarded to a claimant is the lesser of
+98 twenty-five thousand dollars ($25,000) or 25 percent of the
+99 amount of unpaid restitution awarded by the court in the final
+100 order.
+101 (d) If the claimant is a vulnerable person, the maximum
+102 amount that may be awarded is the lesser of fifty thousand
+103 dollars ($50,000) or 50 percent of the amount of the unpaid
+104 restitution awarded by the court in the final order.
+105 (e)(1) Payments to separate claimants for any single
+106 final order are limited in the aggregate to two hundred fifty
+107 thousand dollars ($250,000), regardless of the number of
+108 claims or number of claimants.
+109 (2) If there are multiple claimants, the restitution
+110 assistance award may be paid in prorated amounts based upon
+111 the percentage of the total amount that each claimant was
+112 entitled to due to the final order. Regardless of whether the
+Page 4
+
+entitled to due to the final order. Regardless of whether the
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+113 amount in the restitution assistance award is prorated, the
+114 award is subject to the limits of subsections (c) and (d).
+115 (f) The commission is not required to award a claimant
+116 any funds. Subject to the limits imposed by subsections (c)
+117 and (d), the commission may make a restitution assistance
+118 award in any amount the commission determines is appropriate.
+119 Section 5. The commission may not pay a claimant a
+120 restitution assistance award if any of the following apply:
+121 (1) The claimant does not meet the requirements set out
+122 in this act or a rule issued by the commission.
+123 (2) The claim for restitution was made dishonestly or
+124 fraudulently.
+125 (3) The claimant has a conviction for a felonious
+126 offense involving fraud or theft.
+127 (4) The named victim has received the full amount of
+128 restitution owed from the individual ordered to pay
+129 restitution in the final order before the application for the
+130 restitution assistance award was filed.
+131 (5) The named victim sustained the monetary injury
+132 primarily as a result of any of the following:
+133 a. Participating or assisting in a securities
+134 violation.
+135 b. Attempting to commit or committing a securities
+136 violation.
+137 c. Profiting or attempting to profit from a securities
+138 violation.
+139 Section 6. (a) If an award of restitution in a final
+140 order is overturned after the commission has made a
+Page 5
+
+order is overturned after the commission has made a
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+141 restitution assistance award regarding the case, the
+142 commission may recover the amount paid in restitution
+143 assistance award from the claimant by issuing an
+144 administrative order or filing a civil action for return of
+145 the awarded funds.
+146 (b) A claimant convicted of any crime in connection
+147 with a claim made pursuant to this act or any felony involving
+148 fraud or theft shall forfeit any restitution assistance award
+149 paid to the claimant. The commission may file an
+150 administrative order or civil action for the return of any
+151 forfeited funds.
+152 Section 7. (a) The commission shall subrogate the
+153 rights of the claimant awarded restitution assistance to the
+154 extent of the amount that was paid in the restitution
+155 assistance award. The subrogation rights are against the
+156 individual ordered to pay restitution to the victim for the
+157 securities violation.
+158 (b) The commission may file a motion for subrogation
+159 with the court that issued the final order. The motion shall
+160 include all of the following:
+161 (1) A notification to the court regarding the
+162 restitution assistance award.
+163 (2) A statement of the amount that was awarded in the
+164 restitution assistance award.
+165 (3) The provisions of this section that authorize the
+166 commission's right of subrogation.
+167 (c) The defendant who is paying restitution to a
+168 claimant who has been awarded restitution assistance shall
+Page 6
+
+claimant who has been awarded restitution assistance shall
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+169 direct restitution payments to the commission once the
+170 claimant has been paid in full, including the amount of the
+171 restitution assistance award.
+172 (d) Any order by a court of competent jurisdiction
+173 regarding subrogation by the commission shall be treated the
+174 same as a restitution order by the court and shall not expire.
+175 Section 8. (a) A claimant must refund the commission
+176 any amount of restitution received that, when combined with
+177 the restitution assistance award, exceeds the restitution
+178 awarded in the final order.
+179 (b) The statute of limitations to file a civil action
+180 to enforce this provision shall be five years from the date of
+181 discovery by the commission that the claimant received an
+182 amount greater than the restitution order.
+183 Section 9. (a) If payment of restitution assistance
+184 awards would result in a balance below two hundred fifty
+185 thousand dollars ($250,000) in the fund, the commission may
+186 suspend payment of restitution assistance awards or prorate
+187 payment of restitution assistance awards until the commission
+188 determines that a sufficient balance has been restored to the
+189 fund.
+190 (b) A restitution assistance award made by the
+191 commission pursuant to this act shall not be subject to
+192 execution, attachment, garnishment, or any other process
+193 except for processes brought by or on behalf of the State of
+194 Alabama.
+195 Section 10. (a) A person who files a fraudulent claim
+196 or provides misleading information to the commission regarding
+Page 7
+
+or provides misleading information to the commission regarding
+7BPRI2V-1 03/11/2026 JWB (H) HSE 2026-995
+House State Government Reported Substitute for
+HB559
+197 a claim pursuant to this act shall be guilty of a Class A
+198 misdemeanor.
+199 (b)(1) The commission shall have jurisdiction to
+200 enforce this act. The commission may carry out investigations
+201 of violations of this act pursuant to Section 8-6-15, Code of
+202 Alabama 1975.
+203 (2) The commission shall provide the district attorney
+204 of the proper county any evidence of a crime committed
+205 pursuant to subsection (a). If the district attorney neglects
+206 or refuses to prosecute a violation under this act, the
+207 commission may proceed with all the rights, privileges, and
+208 powers conferred by law upon district or court attorneys,
+209 including the power to appear before grand juries and to
+210 interrogate witnesses before the grand juries.
+211 Section 11. The commission may adopt rules and issue
+212 orders to implement and administer this act.
+213 Section 12. This act shall become effective on October
+214 1, 2026.
+Page 8

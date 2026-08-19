@@ -1,0 +1,278 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB347 INTRODUCED
+1 HB347
+2 4UX98RR-1
+3 By Representatives Harrison, Butler, Bedsole, Estes,
+4 Underwood, Kiel, Lomax, Robertson, Whorton, Kirkland, Gidley,
+5 Chestnut
+6 RFD: Judiciary
+7 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+4UX98RR-1 01/22/2026 THR (L)THR 2026-284
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a developer or provider of
+6 technology is immune from prosecution for distributing
+7 or creating a private image when found to have solely
+8 provided or developed the technology used by another
+9 person in the distribution or creation of a private
+10 image.
+11 This bill would provide that a developer or
+12 provider may be held civilly liable in certain
+13 circumstances.
+14 This bill would create a private right of action
+15 for individuals depicted in illicit material that was
+16 recklessly produced or disclosed on a website or
+17 application in exchange for payment or produced by a
+18 publicly accessible nudification application.
+19 This bill would require websites and
+20 applications to create a process to request the removal
+21 of illicit material.
+22 This bill would require websites to post a
+23 notice containing the removal process and other
+24 information from this bill.
+25 This bill would authorize the Attorney General
+26 to enforce violations of the bill.
+27 This bill would also establish penalties for
+28 violations.
+Page 1
+
+violations.
+HB347 INTRODUCED
+29
+30
+31 A BILL
+32 TO BE ENTITLED
+33 AN ACT
+34
+35 Relating to consumer protection; to amend Section
+36 13A-6-240, Code of Alabama 1975, to further provide for
+37 certain affirmative defenses; to create certain private rights
+38 of action related to the production or disclosure of, or the
+39 facilitation of or payment for, illicit material; to require
+40 certain consumer recourse; and to provide for enforcement and
+41 penalties for violations.
+42 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+43 Section 1. Section 13A-6-240, Code of Alabama 1975, is
+44 amended to read as follows:
+45 "§13A-6-240
+46 (a)(1) A person commits the crime of distributing a
+47 private image if he or she knowingly posts, emails, texts,
+48 transmits, or otherwise distributes a private image when the
+49 depicted individual has not consented in writing to the
+50 transmission and the depicted individual had a reasonable
+51 expectation of privacy against transmission of the private
+52 image.
+53 (2) A person commits the crime of creating a private
+54 image if he or she knowingly creates, records, or alters a
+55 private image when the depicted individual has not consented
+56 to the creation, recording, or alteration and the depicted
+Page 2
+
+to the creation, recording, or alteration and the depicted
+HB347 INTRODUCED
+57 individual had a reasonable expectation of privacy against the
+58 creation, recording, or alteration of the private image.
+59 (b)(1) For purposes of this section, "private image"
+60 means a photograph, digital image, video, film, or other
+61 recording of an individual who is identifiable from the
+62 recording itself or from the circumstances of its transmission
+63 and who is engaged in any act of sexually explicit conduct, as
+64 defined in Section 13A-12-190.
+65 (2) The term includes both of the following:
+66 a. A recording that has been edited, altered, or
+67 otherwise manipulated from its original form.
+68 b. A recording that a reasonable person would believe
+69 actually depicts an identifiable individual, regardless of
+70 whether any portion of the recording depicts another
+71 individual or is artificially generated.
+72 (c)(1) For purposes of this section, a "reasonable
+73 expectation of privacy" includes, but is not limited to,
+74 either of the following circumstances:
+75 a. The individual depicted in the private image created
+76 it or consented to its creation believing that it would remain
+77 confidential.
+78 b. The sexual conduct depicted in the image was
+79 involuntary.
+80 (2) There is no reasonable expectation of privacy
+81 against the transmission of a private image made voluntarily
+82 in a public setting or made with prior written consent in a
+83 commercial setting.
+84 (d) It is a defense to distributing a private image if
+Page 3
+
+(d) It is a defense to distributing a private image if
+HB347 INTRODUCED
+85 the distribution of the private image was made in the public
+86 interest, including, but not limited to, the reporting of
+87 unlawful conduct; the lawful and common practices of law
+88 enforcement, legal proceedings, or medical treatment; or a
+89 bona fide attempt to prevent further distribution of the
+90 private image.
+91 (e) The crimes of distributing a private image and
+92 creating a private image shall be considered to be committed
+93 in any county in which any part of the crime took place, in
+94 the county of residence of the victim or defendant, or any
+95 county where the image is received.
+96 (f) A violation of this section is a Class A
+97 misdemeanor. A subsequent adjudication or conviction under
+98 this section is a Class C felony.
+99 (g) If the Attorney General has reason to believe a
+100 person has engaged in, or is engaging in, a violation of this
+101 section, the Attorney General may petition for an emergency
+102 injunction or other necessary relief to enjoin the violation,
+103 and may order the person to provide a copy of the written
+104 consent required by this section.
+105 (h) No Internet service provider, search engine, cloud
+106 service provider, or affiliate or subsidiary of any of the
+107 same, shall be held to have violated this section solely for
+108 providing access or connection to or from a website, other
+109 information or content on the Internet, or a facility, system,
+110 or network not under the control of the provider, including,
+111 but not limited to, the transmission, download, intermediate
+112 storage, or access software of content that is a private image
+Page 4
+
+storage, or access software of content that is a private image
+HB347 INTRODUCED
+113 or is child sexual abuse material to the extent the provider
+114 is not responsible for the creation of the content of the
+115 communication that constitutes the private image or child
+116 sexual abuse material.
+117 (i)(1) No developer or provider of technology shall be
+118 held to have violated this section solely for providing or
+119 developing technology used by another person to violate this
+120 sectiona neutral, general purpose tool that has substantial
+121 lawful uses and is not designed, marketed, or promoted for the
+122 creation of a private image.
+123 (2) Subdivision (1) shall not apply to any developer or
+124 provider of technology that, with knowledge or reckless
+125 disregard, designs, markets, advertises, promotes, configures,
+126 or operates a product or service in a manner that facilitates,
+127 enables, or encourages the creation, alteration, or generation
+128 of a private image, including by doing any of the following:
+129 a. Promoting the product or tool to generate sexually
+130 explicit, nude, or sexualized images of an identifiable
+131 individual.
+132 b. Providing prompts, tutorials, demonstrations, or
+133 examples instructing users on the process to create a private
+134 image.
+135 c. Training, fine tuning, or configuring a system
+136 primarily for the general of sexually explicit or
+137 nonconsensual sexualized imagery of an identifiable
+138 individual.
+139 d. Making a material contribution, as defined in
+140 Section 2 of the act amending this section, to the production,
+Page 5
+
+Section 2 of the act amending this section, to the production,
+HB347 INTRODUCED
+141 alteration, or dissemination of a private image.
+142 (3) A developer or provider described in subdivision
+143 (2) shall be deemed responsible for the creation or
+144 facilitation of a private image.
+145 (4) Nothing in this subsection shall be construed to
+146 limit liability where a developer or provider knowingly or
+147 recklessly profits from the production or dissemination of a
+148 private image."
+149 Section 2. (a) For the purposes of this section, the
+150 following terms have the following meanings:
+151 (1) CHILD SEXUAL ABUSE MATERIAL. As defined in Section
+152 13A-12-190, Code of Alabama 1975.
+153 (2) ILLICIT MATERIAL. Any private image or child sexual
+154 abuse material.
+155 (3) MATERIAL CONTRIBUTION. Any action that meaningfully
+156 assists, enables, accelerates, optimizes, or encourages the
+157 production of illicit material.
+158 (4) NUDIFICATION APPLICATION. A system, model, or
+159 software designed, marketed, or commonly used to remove
+160 clothing, simulate nudity, or generate sexualized imagery of
+161 an identifiable individual.
+162 (5) PRIVATE IMAGE. As defined in Section 13A-6-240,
+163 Code of Alabama 1975.
+164 (6) VIOLATOR. Any of the following:
+165 a. A person who owns an Internet website or
+166 application, including a social media platform, and recklessly
+167 facilitates the production or disclosure of illicit material
+168 in exchange for payment.
+Page 6
+
+in exchange for payment.
+HB347 INTRODUCED
+169 b. A person who owns a publicly accessible nudification
+170 application from which illicit material is produced.
+171 c. A person who recklessly processes or facilitates
+172 payment for the production or disclosure of illicit material
+173 through a website or application.
+174 (b) A violator shall be liable to an individual
+175 depicted in illicit material for damages arising from the
+176 production or disclosure of the illicit material if the
+177 violator knows or recklessly disregards that the depicted
+178 individual did not consent to the production or disclosure of
+179 the illicit material.
+180 (c) A violator shall be liable to an individual
+181 depicted in illicit material for damages arising from the
+182 production or disclosure of the illicit material if the
+183 individual depicted requests the removal of the illicit
+184 material and the violator hosting the illicit material fails
+185 to both: (i) remove the illicit material within 72 hours of
+186 receiving the request; and (ii) make reasonable efforts to
+187 identify and remove any known identical copies of the illicit
+188 material.
+189 (d) A person who owns an Internet website or
+190 application, including a social media platform, shall make
+191 both of the following available on the website or application:
+192 (1) An easily accessible system that allows an
+193 individual to submit a request for the removal of illicit
+194 material.
+195 (2) A clear and conspicuous notice, which may be
+196 provided through a clear and conspicuous link to another web
+Page 7
+
+provided through a clear and conspicuous link to another web
+HB347 INTRODUCED
+197 page or disclosure, of the removal process established under
+198 this subsection that meets both of the following criteria:
+199 a. Is written in plain language that is easily read.
+200 b. Provides information regarding the responsibilities
+201 of the person who owns the website or application under this
+202 section, including a description of how an individual can
+203 submit a request for the removal of illicit material and how
+204 to track the status of a request.
+205 (e) A violation of this section is a deceptive trade
+206 practice actionable under Chapter 19 of Title 8 of the Code of
+207 Alabama 1975. If the Attorney General has reason to believe
+208 that an entity is in violation of this act, the Attorney
+209 General may bring an action against the entity for an unfair
+210 or deceptive trade practice. In addition to other remedies
+211 available under Chapter 19 of Title 8 of the Code of Alabama
+212 1975, the Attorney General may collect a civil penalty of up
+213 to seven thousand five hundred dollars ($7,500) per violation,
+214 reasonable attorney fees, and court costs.
+215 (f) If a violation described in subsection (e) is part
+216 of a consistent pattern of knowing or reckless conduct, the
+217 Attorney General may seek punitive damages against the entity.
+218 (g) An action for a claim under this section must be
+219 brought within one year from the date the Attorney General
+220 knew or reasonably should have known of the alleged violation.
+221 (h) The existence or nonexistence of an enforcement
+222 action by the Attorney General pursuant to this section shall
+223 not bar, delay, or diminish any private right of action.
+224 Section 3. This act shall become effective on October
+Page 8
+
+Section 3. This act shall become effective on October
+HB347 INTRODUCED
+225 1, 2026.
+Page 9

@@ -1,0 +1,294 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB396 INTRODUCED
+1 HB396
+2 DGZJUNN-1
+3 By Representative Collins
+4 RFD: Education Policy
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+DGZJUNN-1 02/05/2026 KMS (L)cr 2025-3088
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the State Superintendent of
+6 Education is responsible for the development and
+7 implementation of a school grading system.
+8 This bill would revise the school grading system
+9 to update the design and revise the weights and
+10 indicators considered in assigning a grade, based in
+11 part on whether the school includes a 12th-grade class.
+12 This bill would require the Alabama Workforce
+13 Board, in consultation with the State Department of
+14 Education, to develop a system for collecting,
+15 analyzing, and reporting on student performance data
+16 associated with completion of college and career
+17 readiness indicators.
+18 This bill would also provide for the creation
+19 and membership of an Accountability Council to review
+20 and recommend revisions to the state accountability
+21 system.
+22
+23
+24
+25 A BILL
+26 TO BE ENTITLED
+27 AN ACT
+28
+Page 1
+
+HB396 INTRODUCED
+29 Relating to public K-12 education; to amend Section
+30 16-6C-2, Code of Alabama 1975, providing for the school
+31 grading system; to update the design and revise the weights
+32 and indicators considered in assigning a grade; to provide
+33 separate considerations for schools that include and don't
+34 include a 12th-grade class; to require the Alabama Workforce
+35 Board to consult with the State Department of Education in
+36 developing a system to measure student performance data
+37 associated with completion of college and career readiness
+38 indicators; and to create the Accountability Council to review
+39 and recommend revisions to the state accountability system.
+40 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+41 Section 1. Section 16-6C-2 of the Code of Alabama 1975,
+42 is amended to read as follows:
+43 "§16-6C-2
+44 (a) In addition to any other labels or designations
+45 assigned to public schools and public school districts
+46 pursuant to a federal, state, school, district, or other
+47 assessment or accountability system, the State Superintendent
+48 of Education, consistent with this chapter, shall develop a
+49 school grading system reflective of school and district
+50 performance. The grading system shall utilize the traditional
+51 A, B, C, D, or F framework.
+52 (1) Schools receiving a grade of "A" are making
+53 excellent progress.
+54 (2) Schools receiving a grade of "B" are making above
+55 average progress.
+56 (3) Schools receiving a grade of "C" are making
+Page 2
+
+(3) Schools receiving a grade of "C" are making
+HB396 INTRODUCED
+57 satisfactory progress.
+58 (4) Schools receiving a grade of "D" are making less
+59 than satisfactory progress.
+60 (5) Schools receiving a grade of "F" are failing to
+61 make adequate progress.
+62 (b) In developing this school grading system, the State
+63 Superintendent of Education shall seek input from parents,
+64 teachers, school administrators, existing State Department of
+65 Education advisory groups or task forces, and other education
+66 stakeholders on how the system can properly reflect not only
+67 the overall academic proficiency of each public school but
+68 also the academic improvements made by each public school,
+69 along with other key performance indicators that give a total
+70 profile of the school or the school system, or both.
+71 (c)(b) The State Superintendent of Education shall
+72 prescribe update the design and content of the an improved
+73 school grading system by not later than December 31, 2012
+74 2026. It is the intent of the Legislature that the system be
+75 in place by no later than the 2013-2014 school year. The
+76 system may not be utilized by the State Superintendent of
+77 Education or the State Department of Education until
+78 sufficient rules have been adopted by the State Board of
+79 Education pursuant to the Alabama Administrative Procedure
+80 Act.
+81 (d)(c) Using an easy to understand grading scale, the
+82 school grading system shall describe achievement in the state,
+83 each district, and each school. Additionally, the State
+84 Superintendent of Education shall not be precluded from also
+Page 3
+
+Superintendent of Education shall not be precluded from also
+HB396 INTRODUCED
+85 assigning grades to school feeder patterns or grades that
+86 reflect the fiscal health and fiscal efficiency of a school or
+87 school system.
+88 (e)(d) The State Superintendent of Education shall make
+89 these grades available to the general public and shall post
+90 these grades on the website of the State Department of
+91 Education as soon as the grades are available. Additionally,
+92 appropriate grade information shall be delivered to the parent
+93 or guardian of each public school student at least once
+94 annually in the same manner that student report cards are
+95 currently delivered.
+96 (f)(e)(1) Using annual criterion-based,
+97 state-authorized summative assessments and other key
+98 performance indicators that give a total profile of the school
+99 or the school system, or both, a school's grade, at a minimum,
+100 shall be based on a combination of student achievement scores,
+101 achievement gap, college and career readiness, learning gains
+102 of all students, learning gains of the lowest performing 25
+103 percent of students, and other indicators as determined by the
+104 State Superintendent of Education to impact student learning
+105 and success college and career readiness.
+106 (2)a. Each school that does not include a 12th-grade
+107 class shall use the following indicators:
+108 1. Student academic achievement using annual
+109 criterion-based, state-authorized summative assessments shall
+110 be weighted at 40 percent with 20 percent for Language Arts
+111 and 20 percent for Math.
+112 2. Student academic achievement growth using annual
+Page 4
+
+2. Student academic achievement growth using annual
+HB396 INTRODUCED
+113 criterion-based, state-authorized summative assessments, as
+114 determined by a criterion-based measure, shall be weighted at
+115 40 percent.
+116 3. Student academic achievement growth for the lowest
+117 performing 25 percent of students, as determined by using
+118 annual criterion-based, state-authorized summative
+119 assessments, shall be weighted at 20 percent with 10 percent
+120 for Language Arts and 10 percent for Math.
+121 b. Each school that includes a 12th-grade class shall
+122 use the following indicators:
+123 1. Student academic achievement using annual
+124 criterion-based, state-authorized summative assessments shall
+125 be weighted at 30 percent.
+126 2. Student academic achievement growth, as determined
+127 by a criterion-based measure, shall be weighted at 20 percent.
+128 3. Student academic achievement growth for the lowest
+129 performing 25 percent of students, as determined by using
+130 annual criterion-based, state-authorized summative
+131 assessments, shall be weighted at 10 percent with 5 percent
+132 for Language Arts and 5 percent for Math.
+133 4. Additionally, college and career readiness shall be
+134 weighted at 30 percent and graduation rate shall be rated at
+135 10 percent. College and career readiness shall include the
+136 following:
+137 (i) Benchmark on ACT;
+138 (ii) Successful completion of an international
+139 baccalaureate (IB) program with a qualifying score of four or
+140 above; dual enrollment college credit of A or B; or Advanced
+Page 5
+
+above; dual enrollment college credit of A or B; or Advanced
+HB396 INTRODUCED
+141 Placement classes with a qualifying score of three or above;
+142 (iii) Scoring gold or platinum on WorkKeys.
+143 (iv) Possessing an industry-recognized credential of
+144 value for high-demand, high-wage jobs.
+145 (v) Successful completion of an apprenticeship or a
+146 work-based learning or career technical degree.
+147 (3) The State Department of Education shall ensure
+148 proficiency on the statewide summative assessment is aligned
+149 to the National Assessment of Educational Progress (NAEP).
+150 (4) To ensure that the college and career readiness
+151 indicators accurately signal that students are prepared for
+152 high-wage, high-growth opportunities in this state, the
+153 Alabama Workforce Board, in consultation with the State
+154 Department of Education, shall develop a system for
+155 collecting, analyzing, and reporting the public school student
+156 outcomes associated with the completion of college and career
+157 readiness indicators in this section. This shall include an
+158 annual legislative report that captures the education system's
+159 return on investment, ensuring the state captures and reports
+160 on results beyond what is in the accountability formula
+161 including, but not limited to:
+162 a. Postsecondary enrollment and persistence;
+163 b. Military enlistment;
+164 c. Industry-recognized credentials;
+165 d. Median income within six years after graduation; and
+166 e. High-wage, high-demand career sectors.
+167 (5) When 60 percent of all public schools and public
+168 local education agencies earn either an A or B on the state
+Page 6
+
+local education agencies earn either an A or B on the state
+HB396 INTRODUCED
+169 A-F school grading system, the grading scale for all letter
+170 grades awarded shall be raised 10 points the following year.
+171 (2)a.(f)(1) Commencing with the 2021-2022 school year,
+172 the academic achievement of each student identified as an
+173 English language learner who has not shown proficiency on
+174 ACCESS for EL, or other state-approved English proficiency
+175 assessment, may not be considered in assigning an academic
+176 achievement grade to a school or school system for the first
+177 five years of enrollment of the student. The educational
+178 progress of each of these students shall continue to be
+179 measured in the academic growth category and the progress in
+180 English language proficiency category, and, at the end of the
+181 five-year period for the student, his or her proficiency shall
+182 again be considered in assigning an academic achievement grade
+183 to a school or school system on the state A-F school grading
+184 system.
+185 b.(2) Commencing with the 2024-2025 school year, the
+186 academic achievement of each student identified as a transfer
+187 student from a nonpublic school may not be considered in
+188 assigning an academic achievement grade to a school or school
+189 system for the first three years of enrollment of the transfer
+190 student. The educational progress of each of these transfer
+191 students shall continue to be measured in the academic growth
+192 category, and, beginning with the fourth year of enrollment of
+193 the transfer student, his or her academic achievement shall be
+194 considered in assigning an academic achievement grade to a
+195 school or school system on the state A-F school grading
+196 system.
+Page 7
+
+system.
+HB396 INTRODUCED
+197 (3)(g) The State Superintendent of Education may not
+198 amend the state Every Student Succeeds Act option for
+199 including test scores of English language learners enrolled in
+200 United States schools. The option provides as follows: For the
+201 first year of enrollment, the test scores shall be reported,
+202 but the results on both the reading/language arts and math
+203 tests shall be excluded from the federal accountability
+204 system; for the second year of enrollment, a measure of
+205 student growth on both tests shall be included in the federal
+206 accountability system; and for the third year of enrollment,
+207 proficiency on both tests shall be included in the federal
+208 accountability system. Additionally, the option requires
+209 English language learners who have successfully left the
+210 English language learner subgroup by attaining English
+211 proficiency to be included in that subgroup for accountability
+212 purposes for four years.
+213 (h) To further the intent of the Legislature to create
+214 transparency and ensure all agencies uphold the purposes of
+215 this section, the State Superintendent of Education shall
+216 oversee the creation and operation of a standing
+217 Accountability Council. The Accountability Council shall meet
+218 at least annually to review the entire accountability system
+219 and annual return on investment study, and provide
+220 recommendations for any needed revisions to the Governor, the
+221 Legislature, the State Board of Education, and the State
+222 Department of Education. The goal of the Accountability
+223 Council is to ensure that all Alabama students are succeeding
+224 and will continue to succeed in the future. The membership of
+Page 8
+
+and will continue to succeed in the future. The membership of
+HB396 INTRODUCED
+225 the Accountability Council shall consist of all of the
+226 following:
+227 (1) Three members appointed by the Governor. One
+228 at-large member, one member who is a national expert on school
+229 accountability, and one member who is from the business
+230 community.
+231 (2) One member each appointed by the following:
+232 a. The President Pro Tempore of the Senate.
+233 b. The Speaker of the House of Representatives.
+234 c. The State Superintendent of Education.
+235 d. The Alabama Education Association.
+236 e. The School Superintendents of Alabama.
+237 f. The Alabama Association of School Boards.
+238 g. The Council for Leaders in Alabama Schools.
+239 h. The A+ Education Partnership.
+240 (g)(i) The A-F school grading system shall be
+241 consistently applied so that grades of one school or system
+242 may be compared to the grades of any other school or system."
+243 Section 2. This act shall become effective on October
+244 1, 2026.
+Page 9

@@ -1,0 +1,351 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB327 INTRODUCED
+1 HB327
+2 QNWE945-1
+3 By Representative Robbins
+4 RFD: Judiciary
+5 First Read: 22-Jan-26
+Page 0
+
+First Read: 22-Jan-26
+QNWE945-1 01/22/2026 THR (L)THR 2025-2497
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would prohibit the use of an
+6 individual's voice or visual likeness in a digital
+7 replica in certain circumstances.
+8 This bill would provide exceptions.
+9 This bill would authorize the licensing of a
+10 digital replica.
+11 This bill would authorize private rights of
+12 action for violations of a digital replica license, or
+13 for producing a digital replica without consent.
+14
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to consumer protection; to establish
+22 procedures related to digital replicas; to authorize the
+23 licensing of digital replicas; and to authorize private rights
+24 of action for violations of digital replica licenses or
+25 producing a digital replica without consent.
+26 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+27 Section 1. For the purposes of this act, the following
+28 terms have the following meanings:
+Page 1
+
+terms have the following meanings:
+HB327 INTRODUCED
+29 (1) COMMERCIAL USE. The use of the name, voice, or
+30 likeness of an individual on or in any product, merchandise,
+31 or good with the intent of advertising, marketing, selling, or
+32 soliciting the purchase of any product, merchandise, good, or
+33 service.
+34 (2) DIGITAL REPLICA. A newly created,
+35 computer-generated, highly realistic electronic representation
+36 that is made for commercial use and is readily identifiable as
+37 the voice or visual likeness of an individual that meets all
+38 of the following criteria:
+39 a. Is nearly indistinguishable from the actual voice or
+40 visual likeness of the individual such that a reasonable
+41 person would believe that the electronic representation is
+42 only of that particular, actual individual.
+43 b. Is embodied in a sound recording, image, audiovisual
+44 work, visual work, or transmission in which either:
+45 1. The actual individual did not actually perform or
+46 appear; or
+47 2. The fundamental character of the performance or
+48 appearance has been materially altered.
+49 c. Does not include the electronic reproduction, use of
+50 a sample of one sound recording or audiovisual work into
+51 another, remixing, mastering, or digital remastering of a
+52 sound recording or audiovisual work authorized by the
+53 copyright holder.
+54 (3) DIGITAL REPLICATION RIGHT. The right established by
+55 this act.
+56 (4) ELIGIBLE PLAINTIFF. A person authorized to bring an
+Page 2
+
+(4) ELIGIBLE PLAINTIFF. A person authorized to bring an
+HB327 INTRODUCED
+57 action under this act.
+58 (5) INDIVIDUAL. A natural or deceased person.
+59 (6) MINOR. An individual younger than 18 years of age
+60 who: (i) has never been married; and (ii) has not had the
+61 disabilities of minority removed for general purposes.
+62 (7) ONLINE SERVICE. Any of the following:
+63 a. Any publicly accessible Internet website, online
+64 service, online application, mobile application, virtual
+65 reality environment, or cloud service provider.
+66 b. A service engaged in the transmission of digital
+67 audio transmissions.
+68 c. A social service, social network, or application
+69 store.
+70 d. A service by wire or radio which provides the
+71 capability to transmit data to and receive data from all, or
+72 substantially all, Internet endpoints, including any
+73 capabilities that are incidental to enabling the operation of
+74 the communications service of a provider of online services or
+75 network access, or the operator of facilities for the service.
+76 (8) ONLINE SERVICE PROVIDER. The owner of an online
+77 service.
+78 (9) PRODUCTION. The creation of a digital replica.
+79 (10) RIGHT HOLDER. The individual whose voice or visual
+80 likeness is simulated or otherwise copied in or as a digital
+81 replica, or, if applicable, any person other than the depicted
+82 individual that acquires, through a license, inheritance, or
+83 otherwise, the right to authorize the use of the individual's
+84 voice or visual likeness in a digital replica.
+Page 3
+
+voice or visual likeness in a digital replica.
+HB327 INTRODUCED
+85 (11) SOUND RECORDING ARTIST. An individual who creates
+86 or performs in sound recordings for economic gain or for the
+87 livelihood of the individual.
+88 Section 2. (a) A right holder has the right to
+89 authorize the use of the voice or visual likeness of the
+90 individual in a digital replica. That right is both:
+91 (1) Descendible and licensable, wholly or partly,
+92 exclusively or nonexclusively, by the right holder, subject to
+93 the terms of a contract, including a licensing agreement, or
+94 testamentary instrument conveying digital replication rights
+95 to a right holder; and
+96 (2) Not assignable during the life of the individual to
+97 whom the right applies.
+98 (b) A digital replication right does not expire on the
+99 death of the individual to whom the right applies, regardless
+100 of whether the right is used commercially by the individual
+101 during the individual's lifetime.
+102 (c) On the death of an individual to whom the right
+103 applies:
+104 (1) The individual's digital replication right is
+105 transferable and licensable, wholly or partly, by the
+106 executors, heirs, assigns, licensees, or devisees of the
+107 individual; and
+108 (2) Ownership of the right may be transferred, wholly
+109 or partly, by operation of law, will, or intestate succession.
+110 (d) A digital replication right is exclusive to both of
+111 the following:
+112 (1) The individual to whom the right applies, subject
+Page 4
+
+(1) The individual to whom the right applies, subject
+HB327 INTRODUCED
+113 to the licensing of the right during the lifetime of the
+114 individual.
+115 (2) The right holder for both of the following periods:
+116 a. For a period of 10 years after the death of the
+117 individual to whom the right applies.
+118 b. Subject to Section 6, if the right holder
+119 demonstrates active and authorized public use of the voice or
+120 visual likeness of the individual in interstate or foreign
+121 commerce during the two-year period preceding the expiration
+122 of the 10-year period described in paragraph a., for an
+123 additional five-year period, subject to renewal for additional
+124 5-year periods, only if the right holder can demonstrate
+125 authorized public use of the voice or visual likeness of the
+126 individual in interstate of foreign commerce during the
+127 two-year period preceding the expiration of each additional
+128 five-year period.
+129 (e) A digital replication right terminates on the
+130 earlier of either of the following:
+131 (1) The date on which the 10-year period or 5-year
+132 period, as applicable, described in subsection (d) expires
+133 without renewal.
+134 (2) The date that is the earlier of 50 years after the
+135 death of the individual or the date upon which the existing
+136 common law right of publicity as recognized by the courts of
+137 this state would terminate.
+138 (f) If a right holder died before October 1, 2026, the
+139 right holder's digital replication rights vest in the
+140 executors, heirs, assigns, or devisees of the right holder.
+Page 5
+
+executors, heirs, assigns, or devisees of the right holder.
+HB327 INTRODUCED
+141 Section 3. (a) Except as provided by Section 4 and
+142 subject to Section 4, a person may not intentionally publish,
+143 display, distribute, or otherwise make available to the public
+144 a digital replica without the written consent of the right
+145 holder.
+146 (b) It shall not be considered a violation of this
+147 section for a person to manufacture, import, offer to the
+148 public, provide, or otherwise distribute a product or service
+149 unless the person directed the production of the digital
+150 replica.
+151 Section 4. (a) Except as provided by subsection (b), a
+152 person may use a digital replica without the right holder's
+153 consent if, regardless of the degree of fictionalization, the
+154 digital replica meets any of the following criteria:
+155 (1) Is intentionally used in a news, public affairs, or
+156 sports broadcast or account, so long as the digital replica is
+157 the subject of, or is relevant to, the subject of the
+158 broadcast or a representation of the individual in a
+159 documentary, docudrama, or in a biographical or historical
+160 manner.
+161 (2) Is produced or used in commentary, criticism,
+162 scholarship, satire, or parody.
+163 (3) Is used in a fleeting or negligible manner.
+164 (4) Is used in an advertisement or commercial
+165 announcement for a purpose described in subdivisions (1)
+166 through (3) and the digital replica is relevant to the subject
+167 of the advertisement or announcement.
+168 (5) Is used in a manner that is otherwise protected by
+Page 6
+
+(5) Is used in a manner that is otherwise protected by
+HB327 INTRODUCED
+169 the First Amendment of the United States Constitution.
+170 (b) Subsection (a) does not apply to a digital replica
+171 used to depict sexually explicit conduct, as defined in
+172 Section 13A-12-190, Code of Alabama 1975.
+173 Section 5. (a) Except as provided in subsection (c), an
+174 individual, during the individual's lifetime, may license the
+175 individual's digital replication right. A license under this
+176 subsection is valid only if the license agreement meets both
+177 of the following criteria:
+178 (1) Is in writing and signed by the individual or an
+179 authorized representative of the individual.
+180 (2) Includes a reasonably specific description of the
+181 intended uses of the digital replica.
+182 (b) Subsection (a) shall not affect the terms and
+183 conditions of a license or contract other than those described
+184 in this act, and the expiration of the license does not affect
+185 the remainder of the license or related contract.
+186 (c) Subsection (a) does not apply if the license is
+187 governed by a collective bargaining agreement that addresses
+188 digital replicas.
+189 (d) A postmortem transfer or license of a digital
+190 replication right is valid only if the testamentary instrument
+191 transferring the right or the license agreement is in writing
+192 and signed by the right holder or an authorized representative
+193 of the right holder.
+194 (e) A digital replica that is embodied in a sound
+195 recording, image, audiovisual work, visual work, or
+196 transmission, where the use is authorized under the terms of a
+Page 7
+
+transmission, where the use is authorized under the terms of a
+HB327 INTRODUCED
+197 license agreement, may continue to be used in a manner
+198 consistent with the terms of the license after the expiration
+199 or termination of the license agreement.
+200 (f) Subject to Section 2(f) and to the terms of a
+201 contract, including a license agreement, or testamentary
+202 instrument entered into before October 1, 2026, if a right
+203 holder dies before October 1, 2026, the right holder's digital
+204 replication rights vest in the executors, heirs, assigns, or
+205 devisees of the right holder.
+206 Section 6. The renewal of a right described by Section
+207 2(d)(2) is only effective if, before the two-year period
+208 described in Section 2(d)(2)b., the right holder files a
+209 notice with the Secretary of State that contains all of the
+210 following:
+211 (1) The name of the deceased individual.
+212 (2) A statement, under penalty of perjury, that the
+213 right holder has engaged in active and authorized public use
+214 of the voice or visual likeness during the applicable two-year
+215 period.
+216 (3) The identity of and contact information for the
+217 right holder.
+218 (4) Any other information the Secretary of State deems
+219 necessary.
+220 Section 7. (a) The Secretary of State shall maintain
+221 and make available to the public a director of postmortem
+222 digital replication rights registered under Section 6.
+223 (b) A right holder may voluntarily apply to the
+224 Secretary of State for inclusion in the directory described by
+Page 8
+
+Secretary of State for inclusion in the directory described by
+HB327 INTRODUCED
+225 this section by filing a notice with the secretary that
+226 complies with the form, content, and filing procedures
+227 prescribed, by rule, by the secretary.
+228 (c) The Secretary of State may impose a filing fee on a
+229 right holder for inclusion in the directory described by this
+230 section in amounts necessary to cover the cost of
+231 administering the directory.
+232 Section 8. An action under Section 9 or 10 may only be
+233 brought by one or more of the following parties:
+234 (1) An exclusive right holder.
+235 (2) If the individual described in subdivision (1) is a
+236 minor, the parent or guardian of the individual.
+237 (3) Any other person that exclusively controls,
+238 including through a license, the right to authorize the use of
+239 the voice or visual likeness of the individual described in
+240 subdivision (1).
+241 (4) Any other person that owns or controls the right to
+242 authorize the use or visual likeness of a deceased individual
+243 described in subdivision (1).
+244 (5) In the case of a digital replica of an individual
+245 who is a sound recording artist, provided that the sound
+246 recording artist is an individual and has given a person
+247 express written authorization to commence such a civil action
+248 on the individual's behalf, any person that has entered into
+249 either of the following:
+250 a. A contract for the exclusive personal services of
+251 the sound recording artist as a sound recording artist.
+252 b. An exclusive license to distribute or transmit works
+Page 9
+
+b. An exclusive license to distribute or transmit works
+HB327 INTRODUCED
+253 that capture the audio performance of the sound recording
+254 artist, provided that the sound recording artist is an
+255 individual and has given the person express written
+256 authorization to commence such a civil action on his or her
+257 behalf.
+258 Section 9. An eligible plaintiff may bring a private
+259 cause of action against a person who violates or threatens to
+260 violate this act to obtain:
+261 (1) Injunctive relief; or
+262 (2) Other equitable relief.
+263 Section 10. (a) For the purposes of this section, the
+264 term "knowingly" means having actual knowledge of or acting
+265 with deliberate ignorance of the prohibition involved.
+266 (b) An eligible plaintiff may bring a cause of action
+267 against another person who knowingly violates Section 3.
+268 (c) For the purposes of subsection (a), a person may be
+269 presumed to have acted knowingly if the person willingly
+270 avoided having knowledge that: (i) the applicable material is
+271 a digital replica; and (ii) the digital replica was not
+272 authorized by a right holder.
+273 (d) A cause of action brought pursuant to this section
+274 must commence within three years after the date on which the
+275 person discovered, or with due diligence should have
+276 discovered, the violation.
+277 (e) In a cause of action brought under this section, a
+278 person that violates Section 3 shall be liable for: (i) the
+279 actual damages suffered by the injured party as a result of
+280 the violation; and (ii) punitive damages if the violator is
+Page 10
+
+the violation; and (ii) punitive damages if the violator is
+HB327 INTRODUCED
+281 found to have acted with malice, fraud, or knowledge.
+282 (f) An online service provider that has an objectively
+283 reasonable belief that material claimed to be an unauthorized
+284 digital replica does not qualify as a digital replica may not
+285 be liable for statutory or actual damages regardless of
+286 whether the material is ultimately determined to be an
+287 unauthorized digital replica.
+288 (g) The court shall award reasonable attorney fees to
+289 the prevailing party in any action brought pursuant to this
+290 act.
+291 Section 11. This act shall become effective on October
+292 1, 2026.
+Page 11
