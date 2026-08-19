@@ -1,0 +1,259 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB231 ENROLLED
+1 SB231
+2 ZQHGXRR-2
+3 By Senator Givhan
+4 RFD: State Governmental Affairs
+5 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+SB231 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to the Legislature; to amend Section 29-4-4,
+5 Code of Alabama 1975, to provide security for the Legislature
+6 in the new Alabama State House, legislative parking deck, and
+7 park adjacent to the new Alabama State House and at official
+8 legislative events held off-site; to create the crime of
+9 unlawful use of unmanned aircraft systems within the Capitol
+10 complex; to provide for penalties; to exempt certain persons
+11 from the crime of unlawful use of unmanned aircraft systems
+12 within the Capitol complex; and to authorize the Alabama State
+13 Law Enforcement Agency to take certain actions.
+14 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+15 Section 1. Section 29-4-4, Code of Alabama 1975, is
+16 amended to read as follows:
+17 "§29-4-4
+18 (a) Unless provided otherwise by law or applicable
+19 legislative rule or policy, security personnel employed by the
+20 House of Representatives and the Senate shall be responsible
+21 for the security of all of the following:
+22 (1) The third, fourth, fifth, sixth, seventh, and
+23 eighth floors of the Alabama State House located at 11 South
+24 Union Street, such other areas within the Alabama State House
+25 as which are occupied or used by the Legislature, and such
+26 additional areas outside the Alabama State House in accordance
+27 with Section 29-1-19.
+28 (2) The new Alabama State House, as coordinated by the
+Page 1
+
+(2) The new Alabama State House, as coordinated by the
+SB231 Enrolled
+29 Secretary of the Legislative Council, the Secretary of the
+30 Senate, and the Clerk of the House of Representatives.
+31 (3) The legislative parking deck and park located
+32 between South Union Street and the new Alabama State House.
+33 (4) During any official legislative event, as
+34 designated by the President Pro Tempore of the Senate and
+35 Speaker of the House of Representatives in coordination with
+36 the Alabama State Law Enforcement Agency, held in the State of
+37 Alabama away from the Capitol complex.
+38 (b) The security officers employed under this chapter
+39 shall have the powers of peace officers in this state and may
+40 exercise those powers only in the areas designated in
+41 subsection (a).
+42 (c) The Alabama State Law Enforcement Agency, in
+43 coordination with the Legislative Council, shall be
+44 responsible for the security of the perimeter and points of
+45 entry to the Alabama State House and new Alabama State House
+46 as prescribed by the Legislative Council.
+47 (d)(1) Every department, agency, and bureau of the
+48 State of Alabama shall assist in any manner requested by the
+49 Legislature in assuring the security of the areas of the
+50 Alabama State House designated in subsection (a).
+51 (2) Subsection (c) shall apply to any convening of the
+52 Legislature outside of the Capitol or away from the Alabama
+53 State House in accordance with Sections 48 or 48.01 of the
+54 Constitution of Alabama of 2022, or other applicable law.
+55 (e) For purposes of this section, "new Alabama State
+56 House" means the building bounded by Pelham Street, South
+Page 2
+
+House" means the building bounded by Pelham Street, South
+SB231 Enrolled
+57 Jackson Street, and Washington Avenue in Montgomery."
+58 Section 2. (a) For the purposes of this section, the
+59 following terms have the following meanings:
+60 (1) ALEA. The Alabama State Law Enforcement Agency.
+61 (2) CAPITOL AREA. Any of the following locations:
+62 a. The Downtown Capitol Area.
+63 b. The Alabama Governor's Mansion and all real property
+64 situated between Cromwell Street and Finley Avenue and between
+65 Court Street and Perry Street in Montgomery, Alabama.
+66 c. Any official residence of the Governor of Alabama.
+67 d. Any location designated by the secretary where the
+68 House of Representatives, the Senate, the Supreme Court of
+69 Alabama, the Alabama Court of Civil Appeals, or the Alabama
+70 Court of Criminal Appeals convenes, or will convene, to
+71 perform official business.
+72 (3) CONDUCTING FLIGHT OPERATIONS. Any of the following
+73 actions:
+74 a. Manipulating the flight controls of an unmanned
+75 aircraft system.
+76 b. Acting as a remote pilot in command for a person
+77 manipulating the flight controls of an unmanned aircraft
+78 system.
+79 c. Acting as a visual observer for a person
+80 manipulating the flight controls of an unmanned aircraft
+81 system.
+82 (4) DOWNTOWN CAPITOL AREA. All real property situated
+83 between Madison Avenue and High Street and between Lawrence
+84 Street and Hilliard Street in Montgomery, Alabama.
+Page 3
+
+Street and Hilliard Street in Montgomery, Alabama.
+SB231 Enrolled
+85 (5) SECRETARY. The Secretary of ALEA.
+86 (6) UNMANNED AIRCRAFT. An aircraft operated without the
+87 possibility of direct human intervention from within or on the
+88 aircraft.
+89 (7) UNMANNED AIRCRAFT SYSTEM or UAS. An unmanned
+90 aircraft and its associated elements, including communication
+91 links and the components that control the unmanned aircraft,
+92 that are required for the safe and efficient operation of the
+93 unmanned aircraft in the national airspace system.
+94 (8) USE. When used in reference to an unmanned aircraft
+95 system, any of the following actions:
+96 a. Conducting flight operations for an unmanned
+97 aircraft system.
+98 b. Launching an unmanned aircraft.
+99 c. Landing an unmanned aircraft, or otherwise allowing
+100 an unmanned aircraft to make contact with any individual or
+101 real or personal property.
+102 d. Causing an unmanned aircraft to fly.
+103 e. Causing an unmanned aircraft to drop any payload.
+104 f. Causing an unmanned aircraft system to deploy or
+105 discharge an attached weapon, firearm, explosive, destructive
+106 device, or ammunition.
+107 (9) VICINITY. The area of physical space within 500
+108 horizontal feet and 250 vertical feet of the perimeter of a
+109 Capitol area.
+110 (b)(1) No person shall intentionally use a UAS to
+111 conduct surveillance of, or photograph or otherwise record
+112 images of, a Capitol area for the purpose of committing a
+Page 4
+
+images of, a Capitol area for the purpose of committing a
+SB231 Enrolled
+113 criminal offense.
+114 (2) A violation of subdivision (1) is a Class C felony.
+115 (c)(1) No person shall intentionally or knowingly use a
+116 UAS in the vicinity of a Capitol area in a manner that
+117 interferes with the operations of a Capitol area or causes a
+118 disturbance to a Capitol area.
+119 (2) A violation of subdivision (1) is a Class C felony.
+120 (d)(1) No person shall, without written permission from
+121 the secretary, intentionally or knowingly use a UAS within 250
+122 horizontal feet and 250 vertical feet of the perimeter of any
+123 site of the construction or improvement of state property
+124 within a Capitol area.
+125 (2) A violation of subdivision (1) is a Class C
+126 misdemeanor for a first offense and is a Class B misdemeanor
+127 for a second or subsequent offense.
+128 (e)(1) On or after January 1, 2027, no person shall
+129 intentionally or knowingly use a UAS in the vicinity of a
+130 Capitol area.
+131 (2) A violation of subdivision (1) is a Class C
+132 misdemeanor for a first offense and is a Class B misdemeanor
+133 for a second or subsequent offense.
+134 (f) None of the following persons shall be subject to
+135 the prohibition in subdivision (e)(1):
+136 (1) The United States, including any agencies or
+137 departments thereof.
+138 (2) The State of Alabama, including any agencies or
+139 departments thereof.
+140 (3) An employee, agent, contractor, or other person
+Page 5
+
+(3) An employee, agent, contractor, or other person
+SB231 Enrolled
+141 acting under the direction or on behalf of the United States
+142 or the State of Alabama if the person's use of a UAS is
+143 performed within the line and scope of that relationship.
+144 (4) A person conducting emergency law enforcement or
+145 fire response operations.
+146 (5) A person who uses a UAS in accordance with written
+147 permission from the secretary, or with a permit issued by the
+148 secretary, as established in subsection (g).
+149 (g)(1) ALEA may take reasonable and necessary measures
+150 against a UAS operating in violation of this section,
+151 including all of the following measures:
+152 a. Jamming, to the extent consistent with federal law
+153 and regulations, including those of the Federal Communications
+154 Commission.
+155 b. Hacking.
+156 c. Physical capture.
+157 d. Any other reasonable mitigation measure undertaken
+158 to neutralize, intercept, disable, or disrupt a UAS.
+159 (2) ALEA may seize a UAS, any part thereof, and any
+160 property attached to the aircraft or dropped therefrom if the
+161 UAS, any part thereof, or any property attached to the
+162 aircraft or dropped therefrom was used in violation of this
+163 section.
+164 (h)(1) The secretary, by rule, may designate additional
+165 locations as a Capitol area and may establish procedures for
+166 temporarily designating a location as a Capitol area.
+167 (2) The secretary, in consultation with the Governor,
+168 the Alabama Legislative Council, and the Alabama
+Page 6
+
+the Alabama Legislative Council, and the Alabama
+SB231 Enrolled
+169 Administrative Office of Courts, may establish by rule
+170 permitting procedures for the use of a UAS in the vicinity of
+171 a Capitol area.
+172 (3) The secretary may adopt any other rules necessary
+173 to implement and enforce this section.
+174 Section 3. This act shall become effective immediately.
+Page 7
+
+Section 3. This act shall become effective immediately.
+SB231 Enrolled
+175
+176
+177
+178
+179
+180
+181 ________________________________________________
+182 President and Presiding Officer of the Senate
+183
+184
+185
+186 ________________________________________________
+187 Speaker of the House of Representatives
+188
+189
+190 SB231
+191 Senate 10-Feb-26
+192 I hereby certify that the within Act originated in and passed
+193 the Senate.
+194
+195 Patrick Harris,
+196 Secretary.
+197
+198
+199
+200
+201 House of Representatives
+202 Amended and passed: 05-Mar-26
+203
+204
+205
+206
+207 Senate concurred in House amendment 10-Mar-26
+208
+209
+210
+211
+212 By: Senator Givhan
+Page 8

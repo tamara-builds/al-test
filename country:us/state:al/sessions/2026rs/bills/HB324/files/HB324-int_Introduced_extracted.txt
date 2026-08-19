@@ -1,0 +1,271 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB324 INTRODUCED
+1 HB324
+2 ZQPIFKK-1
+3 By Representatives Moore (P), Bedsole, DuBose, Robbins, Gray,
+4 Shaw, Chestnut, Hassell
+5 RFD: Judiciary
+6 First Read: 22-Jan-26
+Page 0
+
+First Read: 22-Jan-26
+ZQPIFKK-1 01/21/2026 EGC (L)cr 2025-3381
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require artificial intelligence
+6 (AI) chatbot deployers to implement reasonable age
+7 verification systems, verify the age of each user, and
+8 ensure that AI chatbots with human-like features are
+9 not available to minors.
+10 This bill would require AI chatbot deployers to
+11 provide an alternative version of the platform without
+12 human-like features to minors if it is reasonable given
+13 the purpose of the chatbot.
+14 This bill would require AI chatbot deployers to
+15 adopt protocols for AI chatbots to detect and mitigate
+16 emergency situations where a user expresses intention
+17 to harm the user's self or others.
+18 This bill would limit the amount and type of
+19 information that AI chatbot deployers are allowed to
+20 collect and store.
+21 This bill would allow for therapeutic chatbots
+22 that meet certain requirements to be prescribed by a
+23 licensed psychiatrist for use by minors.
+24 This bill would create a private right of action
+25 for consumers who are subjected to noncompliant
+26 commercial transactions.
+27 This bill would also authorize the Attorney
+28 General to bring suit to enforce this act.
+Page 1
+
+General to bring suit to enforce this act.
+HB324 INTRODUCED
+29
+30
+31
+32 A BILL
+33 TO BE ENTITLED
+34 AN ACT
+35
+36 Relating to artificial intelligence (AI) chatbots; to
+37 require AI chatbot deployers to implement a reasonable age
+38 verification process and verify the age of all AI chatbot
+39 users; to provide prohibitions on the provision of certain AI
+40 chatbots to minors; to require AI chatbot deployers to provide
+41 alternative versions of the platform without human-like
+42 features to minors; to require AI chatbot deployers to adopt
+43 protocols for AI chatbots to detect and mitigate emergency
+44 situations; to limit the amount and type of information AI
+45 chatbot deployers are allowed to collect and store; to allow
+46 therapeutic AI chatbots meeting certain requirements to be
+47 made available to minors; to provide a private right of action
+48 for certain users; and to authorize the Attorney General to
+49 bring suit to enforce this act.
+50 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+51 Section 1. For the purposes of this act, the following
+52 terms have the following meanings:
+53 (1) AGE-VERIFIED USER. A user for whom the deployer has
+54 performed an age verification process to ascertain the user's
+55 age.
+56 (2)a. AI CHATBOT. Any generative artificial
+Page 2
+
+(2)a. AI CHATBOT. Any generative artificial
+HB324 INTRODUCED
+57 intelligence interactive computer service or software
+58 application that:
+59 1. Produces new expressive content or responses not
+60 fully predetermined by the developer or operator of the
+61 service or application; and
+62 2. Accepts open-ended, natural language or multimodal
+63 user input and produces adaptive or context-responsive output.
+64 b. The term does not include an interactive computer
+65 service or software application that:
+66 1. Limits the responses to contextualized replies; or
+67 2. Is unable to respond on a range of topics outside of
+68 a narrow specified purpose.
+69 (3) ARTIFICIAL INTELLIGENCE or AI. The term as defined
+70 in Section 17-5-16.1, Code of Alabama 1975.
+71 (4) COVERED ENTITY. Any person who owns, operates, or
+72 otherwise makes available an AI chatbot to individuals in the
+73 United States.
+74 (5) EMERGENCY SITUATION. A situation where a chatbot
+75 user indicates that the user intends to either harm the user's
+76 self or others.
+77 (6) GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEM. Any
+78 system that uses artificial intelligence to generate or
+79 substantially modify images, video, audio, multimedia, or text
+80 content.
+81 (7) HUMAN-LIKE FEATURE. a. Any expression by a
+82 generative artificial intelligence system that suggests the
+83 generative artificial intelligence system:
+84 1. Behaves in a way that suggests or conveys that it
+Page 3
+
+1. Behaves in a way that suggests or conveys that it
+HB324 INTRODUCED
+85 has humanity, sentience, emotions, or desires;
+86 2. Seeks to build or engage in an emotional
+87 relationship with the user; or
+88 3. Impersonates a real person, living or dead.
+89 b. The term includes, but is not limited to, the
+90 generative artificial intelligence system:
+91 1. Stating or suggesting that it is human or sentient;
+92 2. Stating or suggesting that it has emotions;
+93 3. Stating or suggesting that it has personal desires;
+94 4. Behaving in a way that a reasonable user would
+95 consider excessive praise designed to foster emotional
+96 attachment or otherwise gain advantage;
+97 5. Expressing or inviting emotional attachment;
+98 6. Reminding, prompting, or nudging the user to return
+99 for emotional support or companionship;
+100 7. Depicting nonverbal forms of emotional support; or
+101 8. Enabling or purporting to enable increased intimacy
+102 based on engagement or pay.
+103 c. The term does not include:
+104 1. Functional evaluations;
+105 2. Generic social formalities;
+106 3. Generic encouragement that does not create an
+107 ongoing bond; or
+108 4. Asking if a user needs further help or support in a
+109 neutral, nonemotional context.
+110 (8) MINOR. An individual under 19 years of age.
+111 (9)a. REASONABLE AGE VERIFICATION PROCESS. A process
+112 employed by a covered entity that verifies the age of each
+Page 4
+
+employed by a covered entity that verifies the age of each
+HB324 INTRODUCED
+113 user by requiring each user to:
+114 1. Provide a government-issued identification; or
+115 2. Comply with any other commercial age verification
+116 system; and
+117 3. Confirm that the user is not a minor.
+118 b. The term does not include a process that:
+119 1. Merely requires a user to insert the user's birth
+120 date; or
+121 2. Ascertains each user's age through factors such as
+122 whether the user shares an Internet Protocol address, hardware
+123 identifier, or other technical indicator with another user
+124 determined to not be a minor.
+125 (10) THERAPEUTIC CHATBOT. Any chatbot modified or
+126 designed to provide mental health support, counseling, or
+127 therapeutic intervention through the diagnosis, treatment,
+128 mitigation, or prevention of mental health conditions.
+129 (11) USER. An individual who interacts with an
+130 artificial intelligence system.
+131 Section 2. (a) Each covered entity shall require each
+132 individual accessing an AI chatbot to make a user account in
+133 order to use or otherwise interact with the AI chatbot.
+134 (b)(1) With respect to each existing user account of an
+135 AI chatbot, a covered entity shall:
+136 a. Freeze existing user accounts;
+137 b. Require that the user is age verified through a
+138 reasonable age verification process to restore the
+139 functionality of the account; and
+140 c. Classify each age-verified user as a minor or an
+Page 5
+
+c. Classify each age-verified user as a minor or an
+HB324 INTRODUCED
+141 adult based on the reasonable age verification process.
+142 (2) At the time an individual creates a new user
+143 account to use an AI chatbot, a covered entity shall:
+144 a. Require that each individual is age verified through
+145 a reasonable age verification process; and
+146 b. Classify each individual as a minor or an adult
+147 based on the reasonable age verification process.
+148 (3) A covered entity shall periodically review
+149 previously age-verified user accounts using a reasonable age
+150 verification process, subject to subsection (d).
+151 (c) Each covered entity shall:
+152 (1) Ensure that any AI chatbot operated or distributed
+153 by the platform does not make human-like features available to
+154 minors to use, interact with, purchase, or converse with; or
+155 (2) Provide an alternative version of the AI chatbot to
+156 minors without human-like features, if reasonable given the
+157 purpose of the AI chatbot.
+158 (d) For purposes of subsection (b), a covered entity
+159 may contract with a third party to implement the covered
+160 entity's reasonable age verification process. However, the use
+161 of a third party for a reasonable age verification process
+162 shall not relieve the covered entity of its obligations or
+163 from liability under this act.
+164 (e) Each covered entity shall implement and maintain
+165 reasonably effective systems to detect, promptly respond to,
+166 report, and mitigate emergency situations in a manner that
+167 prioritizes the safety and well-being of users over the
+168 covered entity's other interests.
+Page 6
+
+covered entity's other interests.
+HB324 INTRODUCED
+169 (f) Each covered entity shall collect and store only
+170 information that does not conflict with a trusted party's best
+171 interests, which must be:
+172 (1) Sufficient to fulfill a legitimate purpose of the
+173 covered entity;
+174 (2) Relevant to the legitimate purpose of the covered
+175 entity; and
+176 (3) The minimum amount of information needed for the
+177 legitimate purpose of the covered entity.
+178 Section 3. A therapeutic AI chatbot may be made
+179 available to minors if the therapeutic AI chatbot meets all of
+180 the following requirements:
+181 (1) The therapeutic AI chatbot provides a clear and
+182 conspicuous disclaimer, verbally or in writing, at the
+183 beginning of each interaction that the AI chatbot is an
+184 artificial intelligence and not a licensed professional.
+185 (2) The AI chatbot is not marketed or designated as a
+186 substitute for a human professional.
+187 (3) A licensed mental health professional assesses a
+188 user's suitability and prescribes the tool as part of a
+189 comprehensive treatment plan and monitors its use and impact.
+190 (4) The covered entity provides robust, independent,
+191 and peer-reviewed clinical trial data demonstrating the safety
+192 and efficacy of the tool for specific conditions and
+193 populations.
+194 (5) The system's functions, limitations, and data
+195 privacy policies are transparent to both the licensed mental
+196 health professional and the user.
+Page 7
+
+health professional and the user.
+HB324 INTRODUCED
+197 (6) The covered entity establishes clear lines of
+198 accountability for any harm caused by the therapeutic AI
+199 chatbot.
+200 Section 4. A minor who uses an AI chatbot that does not
+201 comply with the provisions of this act, or a parent or
+202 guardian acting on the minor's behalf, may bring a civil
+203 action on his or her own or in a class action to recover the
+204 following relief:
+205 (1) Injunctive relief.
+206 (2) Damages in an amount equal to the sum of any actual
+207 damages or statutory damages not to exceed seven hundred fifty
+208 dollars ($750) per violation, whichever is greater.
+209 Section 5. Whenever it appears to the Attorney General,
+210 either upon complaint or otherwise, that a person has engaged
+211 in or is about to engage in any of the acts or practices
+212 prohibited by this act, the Attorney General may bring an
+213 action against an operator to:
+214 (1) Enjoin the person from continuing the unlawful acts
+215 or practices;
+216 (2) Seek civil penalties of not more than two thousand
+217 five hundred dollars ($2,500) for a violation under this act
+218 or not more than seven thousand five hundred dollars ($7,500)
+219 for an intentional violation under this act; and
+220 (3) Seek any other remedies as the court may deem
+221 appropriate.
+222 Section 6. This act shall become effective on October
+223 1, 2026.
+Page 8

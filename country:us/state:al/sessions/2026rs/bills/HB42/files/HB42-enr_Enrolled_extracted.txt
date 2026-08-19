@@ -1,0 +1,202 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB42 ENROLLED
+1 HB42
+2 CXLBDWQ-2
+3 By Representative Treadaway
+4 RFD: Public Safety and Homeland Security
+5 First Read: 13-Jan-26
+6 PFD: 18-Sep-25
+Page 0
+
+PFD: 18-Sep-25
+HB42 Enrolled
+1 Enrolled, An Act,
+2
+3 Relating to unclaimed motor vehicles; to amend Section
+4 32-8-84, Code of Alabama 1975, to further provide for
+5 notification to the Department of Revenue of an unclaimed
+6 motor vehicle after the towing of the vehicle.
+7 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+8 Section 1. Section 32-8-84 of the Code of Alabama 1975,
+9 is amended to read as follows:
+10 "§32-8-84
+11 (a) The following shall be considered an unclaimed
+12 motor vehicle:
+13 (1) A motor vehicle left unattended on a public road or
+14 highway for more than 48 hours.
+15 (2) A motor vehicle, not left on private property for
+16 repairs, that has remained on private or other public property
+17 for a period of more than 48 hours without the consent of the
+18 owner or lessee of the property.
+19 (3) A motor vehicle, left on private property for
+20 repairs, that has not been reclaimed within 48 hours from the
+21 latter of either the date the repairs were completed or the
+22 agreed upon redemption date.
+23 (b)(1) AExcept as otherwise provided in subdivision
+24 (2), a person, as defined in Section 40-12-240, in possession
+25 of an unclaimed motor vehicle shall report the motor vehicle
+26 as unclaimed to the Department of Revenue within five calendar
+27 days from the date the motor vehicle first was considered
+28 unclaimed.
+Page 1
+
+unclaimed.
+HB42 Enrolled
+29 (2) A person in possession of a towed motor vehicle may
+30 report the vehicle to the Department of Revenue immediately
+31 after towing the vehicle.
+32 (3) The report shall be made in a manner as prescribed
+33 by the department on the Unclaimed/Abandoned Vehicle Portal
+34 maintained by the Department of Revenue.
+35 (c)(1) Upon receiving notice as required in subsection
+36 (b), the department shall place a 60-calendar day hold on the
+37 title record and no title shall be issued during that time
+38 period unless the title transaction occurred prior to the date
+39 the motor vehicle was deemed unclaimed or the motor vehicle
+40 was returned to the recorded owner or lienholder of record, if
+41 any.
+42 (2) If the motor vehicle was returned to the recorded
+43 owner or lienholder of record, if any, prior to the conclusion
+44 of the hold period on the title record, the person who
+45 reported the motor vehicle as unclaimed shall report the
+46 return of the motor vehicle within five calendar days in a
+47 manner as prescribed by the department.
+48 (d)(1) A person in possession of an unclaimed motor
+49 vehicle, upon reporting the motor vehicle as unclaimed to the
+50 department, shall utilize the National Motor Vehicle Title
+51 Information System (NMVTIS) to determine the current title
+52 state of record or, if no current title exists for the motor
+53 vehicle, the most recent state of registration for the motor
+54 vehicle. Thereafter, the person shall submit a records request
+55 to the state of record within five calendar days from the date
+56 the motor vehicle was reported as unclaimed to the department.
+Page 2
+
+the motor vehicle was reported as unclaimed to the department.
+HB42 Enrolled
+57 (2) The records request shall be sent to the current
+58 title state of record in order to obtain the name and address
+59 of the owner and lienholder of record, if any. If no current
+60 title exists, the records request shall be sent to the most
+61 recent state of registration in order to obtain the name and
+62 address of the owner.
+63 (3)a. In the event that no NMVTIS record exists and
+64 there is evidence that could be reasonably ascertained by the
+65 person indicating that the motor vehicle has been registered
+66 in another state, the person, within five calendar days from
+67 the date the motor vehicle was reported as unclaimed to the
+68 department, shall submit a records request to the state of
+69 registration in order to obtain the name and address of the
+70 owner. Thereafter, the person shall send notice by certified
+71 mail with either return receipt requested or electronic
+72 delivery confirmation, within five calendar days from receipt
+73 of the title record, to the owner and lienholder of record, if
+74 any, or registration record, to the owner of record, advising
+75 the owner and lienholder of record, if any, of all of the
+76 following:
+77 1. theThe location of the motor vehicle,.
+78 2. The normal business hours of the facility holding
+79 the motor vehicle,.
+80 3. anyAny accrued charges or fees,.
+81 4. theThe daily storage rate,.
+82 5. and theThe mailing address and contact telephone
+83 number of the person in possession of the motor vehicle.
+84 b. The notice required in paragraph a. shall include
+Page 3
+
+b. The notice required in paragraph a. shall include
+HB42 Enrolled
+85 the following language in no smaller than 10 point type: "If
+86 this motor vehicle is not redeemed by the recorded owner or
+87 lienholder of record within 30 calendar days from the date of
+88 this notice, the motor vehicle shall be considered abandoned
+89 as defined in Section 32-13-1, Code of Alabama 1975. The motor
+90 vehicle may then be sold pursuant to the provisions of the
+91 Alabama Abandoned Motor Vehicle Act as provided for in Title
+92 32, Chapter 13, Code of Alabama 1975."
+93 (4) A person who fails to report a motor vehicle as
+94 unclaimed or fails to notify the owner and lienholder of
+95 record, if any, in accordance with this subsection shall
+96 forfeit all claims and liens for the motor vehicle's garaging,
+97 parking, and storage prior to the time the motor vehicle is
+98 reported as unclaimed; provided, however, failure to report
+99 shall not result in the forfeiture of claims and liens for the
+100 towing and repair of a motor vehicle.
+101 (e)(1) The department shall maintain and appropriately
+102 index public records of unclaimed motor vehicles reported to
+103 it pursuant to this section. The department may provide lists
+104 of the vehicle identification numbers for such the motor
+105 vehicles without fee in a manner as the department prescribes.
+106 (2) The department shall provide notice of unclaimed
+107 motor vehicles to law enforcement.
+108 (3) Notice shall also be provided to the person
+109 individual who reported the motor vehicle as unclaimed if it
+110 the motor vehicle has been reported as stolen to law
+111 enforcement.
+112 (f)(1) The department may suspend the registration of a
+Page 4
+
+(f)(1) The department may suspend the registration of a
+HB42 Enrolled
+113 vehicle whose theft or conversion is reported to it the
+114 department pursuant to this section. Until the department
+115 learns of itsthe recovery of the motor vehicle or that the
+116 report of itsthe motor vehicle's theft or conversion was
+117 erroneous, itthe department shall not issue a certificate of
+118 title for the motor vehicle.
+119 (2) A title shall be issued by the department in the
+120 name of an insurance company on a vehicle that is reported
+121 stolen when a settlement between the insured and his or herthe
+122 insured's insurance company has occurred. The title shall be
+123 issued electronically in the name of the insurance company
+124 until the vehicle has been recovered, and, if recovered, the
+125 title may be issued in paper form."
+126 Section 2. This act shall become effective October 1,
+127 2026.
+Page 5
+
+2026.
+HB42 Enrolled
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138 ________________________________________________
+139 Speaker of the House of Representatives
+140
+141
+142
+143 ________________________________________________
+144 President and Presiding Officer of the Senate
+145
+146
+147 House of Representatives
+148
+149 I hereby certify that the within Act originated in and
+150 was passed by the House 22-Jan-26.
+151
+152 John Treadwell
+153 Clerk
+154
+155
+156
+157
+158
+159 Senate 05-Mar-26 Passed
+160
+161
+162
+Page 6

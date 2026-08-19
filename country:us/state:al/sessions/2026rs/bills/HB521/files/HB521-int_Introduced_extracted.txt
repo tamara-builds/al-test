@@ -1,0 +1,416 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB521 INTRODUCED
+1 HB521
+2 11D8X33-1
+3 By Representatives Holk-Jones, Reynolds, Brinyark, Colvin,
+4 Moore (P), Myrex, Bracy, Lamb, Shirey, Robbins, Brown, Hulsey,
+5 Lands
+6 RFD: Ways and Means General Fund
+7 First Read: 26-Feb-26
+Page 0
+
+First Read: 26-Feb-26
+11D8X33-1 02/25/2026 JWB (L)JWB 2025-3338
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the boards of registrars are
+6 charged with overseeing the registration of voters in
+7 the counties of Alabama and are subject to certain
+8 qualifications.
+9 This bill would require candidates for
+10 appointment to a board of registrars to submit to a
+11 criminal background check and report the findings to
+12 the board that appoints registrars.
+13 Under existing law, each board is allocated a
+14 certain number of days that it may meet.
+15 This bill would require that the state pay
+16 registrars when a scheduled working day is affected by
+17 a declared county, state, or federal emergency or
+18 similar order.
+19 Under existing law, a member of a board of
+20 registrars is considered an employee for purposes of
+21 Social Security.
+22 This bill would require that registrars be
+23 considered state employees for purposes of receiving
+24 natural disaster, pandemic, or other emergency relief
+25 funding.
+26 Under existing law, certain public officials are
+27 entitled to omit all required information except their
+28 name from the generally available voter registration
+Page 1
+
+name from the generally available voter registration
+HB521 INTRODUCED
+29 list.
+30 This bill would allow registrars to omit all
+31 information about themselves except their name from the
+32 generally available voter registration list.
+33
+34
+35
+36 A BILL
+37 TO BE ENTITLED
+38 AN ACT
+39
+40 Relating to boards of registrars; to amend Sections
+41 17-3-2, 17-3-5, and 17-3-8 as last amended by Act 2025-22 of
+42 the 2025 Regular Session, and Section 17-4-33, Code of Alabama
+43 1975; to require candidates for a board of registrars to
+44 submit to a criminal background check; to require that the
+45 state pays the salaries of the boards of registrars when the
+46 boards' working days are affected by county, state, or
+47 national emergencies; to require registrars to be considered
+48 as employees for purposes of receiving natural disaster,
+49 pandemic relief, or other emergency funds; and to permit
+50 members of the board of registrars to omit certain information
+51 about themselves from the voter registration list.
+52 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+53 Section 1. Sections 17-3-2, 17-3-5, and 17-3-8 as last
+54 amended by Act 2025-22 of the 2025 Regular Session, and
+55 Section 17-4-33, Code of Alabama 1975, are amended to read as
+56 follows:
+Page 2
+
+follows:
+HB521 INTRODUCED
+57 "§17-3-2
+58 (a)(1) Registration shall be conducted in each county
+59 by a board of three reputable and suitable individuals to be
+60 appointed, unless otherwise provided by law, by the Governor,
+61 Auditor, and Commissioner of Agriculture and Industries, or by
+62 a majority of them acting as a state board of appointment,
+63 unless otherwise provided by law. Candidates for appointment
+64 to the board of registrars shall submit to a criminal history
+65 background check of state and federal records through the
+66 Alabama State Law Enforcement Agency no more than 60 days
+67 prior to the consideration of his or her appointment and shall
+68 make the findings available to the state board of appointment.
+69 A candidate for appointment shall be responsible for the cost
+70 of the criminal history background check. In making
+71 appointments on or after October 1, 2025, the state board of
+72 appointment shall consider the racial, gender, urban, rural,
+73 and economic diversity of the that county where the registrar
+74 will be appointed.
+75 (2) The registrars shall:
+76 a. Be qualified electors and be residents of the
+77 county;
+78 b. Have a high school diploma or equivalent;
+79 c. Possess excellent communication skills evident by
+80 reportable experience in areas such as electronic mail, online
+81 communications, and use of multi-line telephones;
+82 d. Demonstrate intermediate level experience and
+83 proficiency in data processing and use of computer programs
+84 used in the current day-to-day workplace, including, but not
+Page 3
+
+used in the current day-to-day workplace, including, but not
+HB521 INTRODUCED
+85 limited to, web-based operating systems;
+86 e. Demonstrate the ability to download and upload
+87 reports and files and conduct spreadsheet manipulation; and
+88 f. Demonstrate the ability to operate office equipment,
+89 including printers, copiers, scanners, and cameras.
+90 (3) The Secretary of State shall prescribe guidelines
+91 to assist the state board of appointment in determining the
+92 qualifications of registrars. The registrars shall not hold an
+93 elective office during their term. One of the members shall be
+94 designated by the state board of appointment as chair of the
+95 board of registrars for each county.
+96 (b) Notwithstanding subsection (a), the Legislature may
+97 provide by local law for the appointment of additional members
+98 to the board of registrars for a county that has two
+99 courthouses.
+100 (c) This section shall not apply in any county having a
+101 population of not less than 600,000 or more inhabitants
+102 according to the 1970 or any succeedingmost current federal
+103 decennial census, and any. Any currently effective local law
+104 or general law of local application providing for the
+105 appointment of any member of the board of registrars in the
+106 county shall remain in full force and effect and shall not be
+107 repealed by operation of this chapter."
+108 "§17-3-5
+109 (a)(1) Each registrar shall receive a salary in the
+110 amount of one hundred fifteen dollars ($115) per day for each
+111 day's attendance upon business of the board, to be paid by the
+112 state and disbursed to the county commissions and disbursed by
+Page 4
+
+state and disbursed to the county commissions and disbursed by
+HB521 INTRODUCED
+113 the county commissions to each registrar on order of a quorum
+114 of the board of registrars of the county. The state
+115 Comptroller shall issue to each county commission on a monthly
+116 basis an amount sufficient to fund these payments plus the
+117 employer share of the Social Security or Federal Insurance
+118 Corporation Act tax. The county commission shall provide to
+119 the Comptroller an invoice itemized to reflect payments made.
+120 (2) If a legal holiday falls on a day the board is to
+121 be in session and the courthouse of the county is closed for
+122 the holiday, the board of registrars shall be compensated for
+123 the holiday.
+124 (3) A registrar shall receive payment of salary by the
+125 state when his or her regularly scheduled day of work
+126 coincides with closure of the office due to the existence of a
+127 declared state of emergency or similar order from a county,
+128 state, or federal governmental entity.
+129 (4) Registrars may be treated the same as state
+130 employees for the payment of relief funds originating from the
+131 state or federal government due to a natural disaster,
+132 pandemic, or other emergency.
+133 (5) Each registrar shall receive a mileage allowance
+134 equal to the amount allowed state employees or employees of
+135 the county, whichever is greater, for official travel in the
+136 course of attending the business of the board, including
+137 attending continuing education programs. Travel and other
+138 expenses shall be paid by the county commissions to the boards
+139 of registrars, and the state shall reimburse the county
+140 commissions based on a written request submitted by the county
+Page 5
+
+commissions based on a written request submitted by the county
+HB521 INTRODUCED
+141 commissions to the Comptroller.
+142 (b) The provisions of this section regarding travel
+143 mileageSubdivision (a)(5) shall not apply in any county having
+144 a population of 600,000 or more inhabitants according to the
+145 most current federal decennial census, and any currently
+146 effective local law or general law of local application
+147 regarding travel mileage for registrars in the county shall
+148 remain in full force and effect and shall not be repealed by
+149 operation of this chapter.
+150 (c) Members of the boards of registrars of this state
+151 are declared to be state employees for the purposes of Chapter
+152 28 of Title 36.
+153 (d) Members of the boards of registrars of this state
+154 shall be treated as equals with state and county employees in
+155 regard to Social Security protection and benefits.
+156 (e) All payments by a county to any member of a county
+157 board of registrars, except for mileage or reimbursement for
+158 expenses, shall be treated for Social Security purposes
+159 equally with payments by that county to county employees of
+160 the county.
+161 (f) The state office for Social Security and the state
+162 Comptroller and each county commission shall take all
+163 necessary action to ensure that members of the boards of
+164 registrars of this state are treated as state and county
+165 employees in regard to Social Security protection and benefits
+166 as provided in Chapter 28 of Title 36, including, if
+167 necessary, amending the federal-state agreement referred to in
+168 Chapter 28 of Title 36, to implement the intent of the
+Page 6
+
+Chapter 28 of Title 36, to implement the intent of the
+HB521 INTRODUCED
+169 Legislature as expressed herein.
+170 (g) No county commission may reduce the current county
+171 supplement upon the effect of this section by implementation
+172 of Act 94-693.
+173 (h)(1) A county commission may allow the chair or any
+174 member of the county board of registrars who has served at
+175 least 16 years in that position to participate in any health
+176 insurance program provided by the county upon the same terms,
+177 conditions, and employee contributions as required for county
+178 employees.
+179 (2) This subsection shall not apply to any health
+180 insurance plans administered by the State of Alabama as
+181 described in Title 36, Chapter 29 and Title 11, Chapter 91A."
+182 "§17-3-8
+183 (a)(1) Each member of the board of registrars in the
+184 Counties of Clay, Cleburne, Coosa, Dallas, Escambia, Geneva,
+185 Lowndes, Perry, Sumter, and Wilcox may meet a maximum of 120
+186 working days each fiscal year;.
+187 (2) eachEach member of the board of registrars in the
+188 Counties of Barbour, Butler, Fayette, Greene, Marengo,
+189 Pickens, Pike, Randolph, and Winston may meet a maximum of 168
+190 working days each fiscal year, except in Pike County each
+191 board of registrars may meet up to an additional 30 session
+192 days each fiscal year, at the discretion of the chair of the
+193 county commission, and such days shall be paid from the
+194 respective county funds;.
+195 (3) eachEach member of the board of registrars in the
+196 Counties of Coffee, Shelby, Talladega, and Tallapoosa may meet
+Page 7
+
+Counties of Coffee, Shelby, Talladega, and Tallapoosa may meet
+HB521 INTRODUCED
+197 a maximum of 220 working days each fiscal year, except that in
+198 Talladega County the board of registrars may meet up to an
+199 additional 30 session days each fiscal year, at the discretion
+200 of the chair of the county commission;.
+201 (4) eachEach member of the board of registrars in the
+202 Counties of Dale, Franklin, Houston, Marion, Marshall,
+203 Bullock, Macon, and Tuscaloosa may meet a maximum of 216
+204 working days each fiscal year; and.
+205 (5) eachEach member of the board of registrars in
+206 Russell County may meet a maximum of 177 working days each
+207 fiscal year.
+208 (b) In the Counties of Choctaw, Colbert, Cullman,
+209 Lauderdale, and Monroe, each member of the board of registrars
+210 may meet a maximum of 199 working days each fiscal year.
+211 (c)(1) Each member of the Board of Registrars of
+212 Autauga, Elmore, and Bibb Counties may meet a maximum of 187
+213 working days each fiscal year. Each member of the Board of
+214 Registrars of Walker County may meet a maximum of 200 days
+215 each fiscal year, and each member of the Board of Registrars
+216 of Lamar, Cherokee, Clarke, Conecuh, Crenshaw, Hale, and
+217 Washington Counties may meet a maximum of 140 days each fiscal
+218 year. Each member of the board of registrars in the following
+219 counties may meet the following maximum number of working days
+220 each fiscal year: Henry - 140 working days; Covington - 188
+221 working days; DeKalb, Jackson, and Blount - 207 working days;
+222 Chambers - 180 working days; and Lawrence - 200 working days.
+223 (2) Notwithstanding Section 17-3-5, the 60 additional
+224 working days for registrars in Lawrence County added by Act
+Page 8
+
+working days for registrars in Lawrence County added by Act
+HB521 INTRODUCED
+225 2023-456 shall be paid by the county commission and shall not
+226 be reimbursed by the state.
+227 (d) Each member of the board of registrars in the
+228 Counties of Baldwin, Calhoun, Chilton, Etowah, Limestone, Lee,
+229 Madison, Mobile, Montgomery, St. Clair, and Morgan are
+230 authorized to meet not more than five days each week for the
+231 purpose of carrying out their official duties. Jefferson
+232 County, which is now operating under the provisions of local
+233 laws, shall be exempted from this section. Provided, however,
+234 that whereWhere the term "each year" is used in the local
+235 laws, the term means each fiscal year.
+236 (e) The actual number of working days to be used as
+237 session days shall be determined by a quorum of the board of
+238 registrars according to the needs of the county.
+239 (f)(1) As many as 25 of the allotted working days may
+240 be used for special registration sessions (i.e., those
+241 sessions held away from the courthouse in the several
+242 precincts of the county or sessions held on Saturday or
+243 between the hours of 5:00 p.m. and 9:00 p.m.).
+244 (2) Notice of any special session scheduled by the
+245 board shall be given at least 10 days prior to the special
+246 session by: (i) bills posted at three or more public places in
+247 each election precinct affected, if the session involves
+248 precinct visits; and (ii) advertisement once a week for two
+249 successive weeks in a newspaper published in the county or by
+250 radio or television announcements on a local station, or both
+251 by newspaper or announcement.
+252 (g) On any day designated as a working day for a board
+Page 9
+
+(g) On any day designated as a working day for a board
+HB521 INTRODUCED
+253 of registrars, the board of registrars shall do both of the
+254 following:
+255 (1) Be open the same hours as the courthouse of the
+256 county, or alternatively, establish regular hours and make
+257 those hours available to the public.
+258 (2) Have a registrar or staff member present during
+259 those hours of operation."
+260 "§17-4-33
+261 (a) The State of Alabama shall provide, through the
+262 Secretary of State, a nondiscriminatory, single, uniform,
+263 official, centralized, interactive computerized statewide
+264 voter registration list defined, maintained, and administered
+265 by the Secretary of State, with advice from the Voter
+266 Registration Advisory Board and the President of the Alabama
+267 Probate Judges Association, which contains the name and
+268 registration information of every legally registered voter in
+269 the state. The computerized list shall comply with the
+270 following requirements:
+271 (1) It shall serve as the single system for storing and
+272 managing the official list of registered voters throughout the
+273 state.
+274 (2) It shall contain the name, address, and voting
+275 location, as well as other information deemed necessary by the
+276 Voter Registration Advisory Board or the Secretary of State,
+277 of every legally registered voter in the state.
+278 (3) A unique identifier shall be assigned to each
+279 legally registered voter in the state.
+280 (4) It shall contain the voting history of each
+Page 10
+
+(4) It shall contain the voting history of each
+HB521 INTRODUCED
+281 registered voter.
+282 (5) It shall be coordinated with the driver'sdriver
+283 license database of the Alabama State Law Enforcement Agency
+284 and the appropriate state agency to assist in the removal of
+285 deceased voters.
+286 (6) Any election official in the state, including any
+287 local election official, may obtain immediate electronic
+288 access to the information contained in the computerized list.
+289 (7) All voter registration information obtained by any
+290 registrar in the state shall be electronically entered into
+291 the computerized list on an expedited basis at the time
+292 information is provided to the registrar.
+293 (8) The Secretary of State shall provide such support
+294 as may be required so that registrars are able to enter voter
+295 registration information.
+296 (9) It shall serve as the official voter registration
+297 list for the conduct of all elections.
+298 (10) Following each state and county election, the
+299 Secretary of State shall provide one electronic copy of the
+300 computerized voter list free of charge to each political party
+301 that satisfied the ballot access requirements for that
+302 election. The electronic copy of the computerized voter list
+303 shall be provided within 30 days of the certification of the
+304 election or upon the completion of the election vote history
+305 update following the election, whichever comes first. In
+306 addition, upon written request from the chair of a political
+307 party, the Secretary of State shall furnish up to two
+308 additional electronic copies of the computerized voter file
+Page 11
+
+additional electronic copies of the computerized voter file
+HB521 INTRODUCED
+309 during each calendar year to each political party that
+310 satisfied the ballot access requirements during the last
+311 statewide election held prior to that calendar year. The
+312 electronic copies provided pursuant to this section shall
+313 contain the full, editable data as it exists in the
+314 computerized voter list maintained by the Secretary of State.
+315 (11) The list shall be maintained so that it is
+316 technologically secure.
+317 (b)(1) The Secretary of State, or judge of probate, or
+318 absentee election manager, or municipal clerk, or registrar
+319 shall include the name and omit all other information of a
+320 registered voter on any generally available list of registered
+321 voters, except for those lists provided to federal and state
+322 agencies, upon the written signed affidavit of the registered
+323 voter to the board of registrars of the county in which the
+324 individual is registered or intends to register, affirming one
+325 of the following:
+326 a. That the registered voter, or a minor who is in the
+327 legal custody of the registered voter, is or has been the
+328 victim of domestic violence as provided in Article 7,
+329 commencing with Section 13A-6-130, of Chapter 6 of Title 13A.
+330 b. That a domestic violence order is or has been issued
+331 by a judge or magistrate pursuant to the Domestic Violence
+332 Protection Order Enforcement Act, to restrain access to the
+333 registered voter or a minor who is in the legal custody of the
+334 registered voter.
+335 c. That the registered voter is a federal or state
+336 prosecutor, federal, state, probate, or municipal judge,
+Page 12
+
+prosecutor, federal, state, probate, or municipal judge,
+HB521 INTRODUCED
+337 member of a board of registrars, legislator, or law
+338 enforcement officer as defined in Chapter 21 of Title 36 or
+339 the spouse of a federal or state prosecutor, federal, state,
+340 probate, or municipal judge, member of a board of registrars,
+341 legislator, or law enforcement officer as defined in Chapter
+342 21 of Title 36.
+343 (2) The Secretary of State shall develop and provide to
+344 each county the affidavit to be completed under this
+345 subsection."
+346 Section 2. This act shall become effective on October
+347 1, 2026.
+Page 13

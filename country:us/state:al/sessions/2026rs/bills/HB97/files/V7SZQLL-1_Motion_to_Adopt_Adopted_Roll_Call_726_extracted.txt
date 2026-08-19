@@ -1,0 +1,507 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 726
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+1
+2
+3
+4 A BILL
+5 TO BE ENTITLED
+6 AN ACT
+7
+8 Relating to geographic information technology; to add
+9 Chapter 27A, commencing with Section 41-27A-1, to Title 41 of
+10 the Code of Alabama 1975, to establish the Alabama Geographic
+11 Information Executive Council, the Alabama Geographic
+12 Information Program Office, the State of Alabama Geographic
+13 Information Officer, and an advisory committee; and to provide
+14 for coordination between the Alabama Geographic Information
+15 Executive Council and Alabama Geographic Information Program
+16 Office with the 911 Board; to amend Section 11-98-4.1, Code of
+17 Alabama 1975, to further provide for the authority of the 911
+18 Board to compile and maintain geographic information system
+19 data for emergency 911 services; and to make nonsubstantive,
+20 technical revisions to update existing code language to
+21 current style.
+22 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+23 Section 1. Chapter 27A, commencing with Section
+24 41-27A-1, is added to Title 41 of the Code of Alabama 1975, to
+25 read as follows:
+26 §41-27A-1
+27 The Legislature finds all of the following:
+28 (1) The development, use, and sharing of geographic
+Page 1
+
+(1) The development, use, and sharing of geographic
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+29 information, geospatial data, and the efficient use of
+30 geographic information system (GIS) technology are yielding
+31 sustained, long-term benefits to the people of Alabama, with
+32 innumerable applications that serve economic development,
+33 enhance governmental operations, protect natural resources,
+34 and simplify human activity.
+35 (2) Because public agencies expend considerable
+36 resources collecting and managing geographic information in
+37 diverse formats and scales, it is necessary to require
+38 coordination and direction in the development and
+39 implementation of GIS to continually improve the delivery of
+40 public services, to reduce redundancy and duplication of
+41 effort, and to prevent the spread of erroneous geographic
+42 information in activities that demand urgency such as
+43 emergency response.
+44 (3) The management and coordination of GIS is currently
+45 entrusted to the Alabama Geographic Information Executive
+46 Council, the Alabama Geographic Information Program Office,
+47 and the Advisory Committee, all created by executive order.
+48 (4) The 911 Board, and by extension the local emergency
+49 communication districts, are charged by legislative act with
+50 the "efficient and effective delivery" of enhanced 911
+51 service, a duty that explicitly requires the collection and
+52 remediation of geospatial information into GIS mapping.
+53 (5) The Legislature wishes to enable formal
+54 coordination between the Alabama Geographic Information
+55 Program Office, as the operating arm of the Alabama Geographic
+56 Information Executive Council, and the 911 Board, while
+Page 2
+
+Information Executive Council, and the 911 Board, while
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+57 maintaining the boundaries of their authorized duties and
+58 functions.
+59 §41-27A-2
+60 (a) The Alabama Geographic Information Executive
+61 Council (Executive Council) is established as an independent
+62 council to develop policies regarding the use of geographic
+63 information, geographic information systems (GIS), and other
+64 related technologies, to include all of the following
+65 responsibilities:
+66 (1) Strategic planning for a sustainable state program
+67 for GIS.
+68 (2) Resolution of policy and technology issues.
+69 (3) Coordination of interagency development of a high
+70 quality, accurate framework for geospatial data.
+71 (4) Coordination, direction, and facilitation of state,
+72 county, and local government GIS efforts.
+73 (5) Development of educational outreach to coordinate
+74 geospatial training initiatives.
+75 (6) Provision of advice to the Governor, Legislature,
+76 and local governing bodies on needed direction,
+77 responsibilities, and funding regarding geospatial
+78 information.
+79 (7) Evaluation and determination of staffing
+80 requirements for GIS coordination at the state level.
+81 (8) Solicitation of input from all stakeholders at all
+82 levels of government and the private sector, including public
+83 utilities, business professionals, industry leaders, and
+84 others with a vested interest in GIS.
+Page 3
+
+others with a vested interest in GIS.
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+85 (b)(1) The membership of the Executive Council shall
+86 consist of all of the following, or their designees:
+87 a. The Commissioner of the Alabama Department of
+88 Agriculture and Industries.
+89 b. The Commissioner of the Alabama Department of
+90 Conservation and Natural Resources.
+91 c. The Commissioner of the Department of Revenue.
+92 d. The Director of the Department of Economic and
+93 Community Affairs.
+94 e. The Director of the Alabama Department of
+95 Environmental Management.
+96 f. The Executive Director of the 911 Board.
+97 g. The Director of the Alabama Criminal Justice
+98 Information Center.
+99 h. The Director of the Department of Finance.
+100 i. The Director of the Alabama Department of Workforce.
+101 j. The Director of the Department of Public Safety.
+102 k. The Director of the State Department of
+103 Transportation.
+104 l. The Director of the Alabama Emergency Management
+105 Agency.
+106 m. The Secretary of the Alabama State Law Enforcement
+107 Agency.
+108 n. The Secretary of the State Office of Information
+109 Technology.
+110 o. The State Geologist & Oil and Gas Supervisor of the
+111 Geological Survey of Alabama.
+112 p. The Director of the Association of County
+Page 4
+
+p. The Director of the Association of County
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+113 Commissions of Alabama.
+114 q. The Director of the Alabama League of
+115 Municipalities.
+116 r. Any additional member appointed by the Governor.
+117 (2) Appointments to the Executive Council shall be
+118 coordinated to assure that council membership is inclusive and
+119 reflects the racial, gender, geographic, urban, rural, and
+120 economic diversity of the state.
+121 (3) Members shall serve terms that coincide with their
+122 respective offices or appointments. No individual shall
+123 continue to serve on the Executive Council when he or she, or
+124 if applicable, the designating officer, no longer serves in
+125 the office to which he or she was elected or appointed.
+126 (4) The Governor shall designate a Chair from the
+127 membership.
+128 (5) The Executive Council shall meet at the call of the
+129 Chair and proceedings shall be subject to state law and
+130 administrative procedure.
+131 (6) The Executive Council may subdivide itself into
+132 standing committees and work groups to accomplish its
+133 responsibilities.
+134 (7) Members shall serve without compensation and be
+135 reimbursed by their respective departments or agencies or, if
+136 applicable, according to the policy of their respective
+137 organizations.
+138 §41-27A-3
+139 (a) The Alabama Geographic Information Program Office
+140 (GIS Office) is established to be the operating arm of the
+Page 5
+
+(GIS Office) is established to be the operating arm of the
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+141 Executive Council. Except as provided in Section 41-27A-5, the
+142 GIS Office shall be the sole instrumentality of the state for
+143 coordination of geographic information, GIS, and other
+144 geospatial-related technologies by all state departments and
+145 agencies or state-funded entities.
+146 (b) The GIS Office shall be a division in the Alabama
+147 State Law Enforcement Agency (ALEA), which shall provide
+148 administrative services for the GIS office.
+149 (c)(1) The GIS Office shall be managed by a director,
+150 who shall be the Geographic Information Officer (GIO), who
+151 shall be appointed by the Secretary of the Alabama State Law
+152 Enforcement Agency and employed in the classified service of
+153 the Merit System.
+154 (2) The GIO shall be assisted by a deputy, who shall be
+155 appointed by the Secretary of the Alabama State Law
+156 Enforcement Agency and employed in the classified service of
+157 the Merit System.
+158 (3) The GIO shall manage the GIS Office subject to the
+159 policies, standards, guidance, and instruction of the
+160 Executive Council.
+161 (d) The GIS Office shall identify, plan, and implement
+162 the most efficient and effective means to use and integrate
+163 geographic information as a strategic management resource, to
+164 include all of the following duties:
+165 (1) Identify duplicative geospatial acquisitions,
+166 initiatives, and operations across state government and
+167 recommend efforts to minimize duplication of such activities.
+168 (2) Maintain a master index of all geographic
+Page 6
+
+(2) Maintain a master index of all geographic
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+169 information maintained by any political subdivision of the
+170 state or other state-funded entity.
+171 (3) Maintain a central repository and data services for
+172 the storage of, or access to, any geographic information that
+173 may be lawfully used for state or for local government
+174 geospatial-related operations or for any lawful private sector
+175 activity.
+176 (4) Assist government operations with implementation of
+177 state geospatial standards as adopted by the Executive
+178 Council.
+179 (5) Through ALEA, coordinate procurements, pool funds,
+180 negotiate and enter into contracts or memoranda of
+181 understanding in furtherance of GIS Office duties.
+182 (6) Provide administrative and technical support to the
+183 Executive Council.
+184 (e)(1) The GIS Office may receive funds from the State
+185 General Fund or Education Trust Fund which are appropriated by
+186 the Legislature for the purposes provided in this chapter,
+187 subject to any law governing any expenditure of appropriations
+188 from the State General Fund or Education Trust Fund.
+189 (2) The GIS Office may receive gifts, grants, and any
+190 other funding available by law and may recoup costs for
+191 services rendered or other expenditures directly related to
+192 the duties enumerated in subsection (d).
+193 (3) The GIS Office shall provide, upon request, an
+194 accounting to ALEA of all funds expended, available,
+195 committed, or encumbered.
+196 §41-27A-4
+Page 7
+
+§41-27A-4
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+197 (a)(1) An Advisory Committee is established to ensure
+198 that state and local interests are considered by the GIS
+199 Executive Council.
+200 (2) The Advisory Committee shall have all of the
+201 following purposes:
+202 a. Foster communication and cooperation among state,
+203 local, and federal agencies, educational institutions, private
+204 industry, and others concerning GIS.
+205 b. Provide guidance and advice to the Executive Council
+206 in the fulfillment of the council's responsibilities.
+207 c. Promote discussion among stakeholders of GIS issues
+208 relevant to the state and provide advice to the GIS community.
+209 (b) The GIO shall serve as the Chair of the Advisory
+210 Committee.
+211 (c) The GIO shall select advisory committee members who
+212 shall serve at the pleasure of the GIO. The GIO shall ensure
+213 that the committee has a statewide representation of
+214 stakeholders who are familiar with water resources, air
+215 resources, agricultural resources, energy resources, cultural
+216 resources, land resources, mineral resources, environmental
+217 management, forestry, geology, health, local government,
+218 planning, public safety, criminal justice, social services,
+219 transportation, utilities, waste management, homeland
+220 security, and wildlife management.
+221 (d) The GIO may create subcommittees with defined
+222 tasks, appoint, replace, or remove members of the
+223 subcommittees, and abolish subcommittees.
+224 §41-27A-5
+Page 8
+
+§41-27A-5
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+225 (a) In aid of the role and duties of the GIS Office as
+226 the statewide coordinator and central repository for
+227 geographic information pursuant to Section 41-27A-3, the 911
+228 Board is recognized as the sole authority for the gathering,
+229 remediation, and maintenance of geographic information for the
+230 provision of emergency 911 services to the residents of
+231 Alabama, pursuant to Section 11-98-4.1.
+232 (b) The 911 Board shall regularly inform the Executive
+233 Council and the GIO on its GIS data gathering and remediation
+234 activities, GIS auditing and monitoring protocols, and
+235 operational policies to ensure the utmost coordination between
+236 the GIS Office and the 911 Board in similar or parallel tasks
+237 and responsibilities to avoid duplication and enhance
+238 uniformity in protocols, standards, data gathering,
+239 maintenance, and storage wherever possible and efficient.
+240 (c) Pursuant to its duties, the GIS Office shall
+241 recognize the unique competence of the 911 Board and the local
+242 emergency communication districts due to the critical function
+243 of emergency response for which the 911 Board and the local
+244 emergency communication districts are responsible.
+245 Section 2. Section 11-98-4.1, Code of Alabama 1975, is
+246 amended to read as follows:
+247 "§11-98-4.1
+248 (a) There is created a statewide 911 Board. The board
+249 shall be comprised of 13 members. All appointing authorities
+250 shall coordinate their appointments to assure the board
+251 membership is inclusive and reflects the racial, gender,
+252 geographic, urban, rural, and economic diversity of the state.
+Page 9
+
+geographic, urban, rural, and economic diversity of the state.
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+253 The 911 Board shall be created effective July 1, 2012, and
+254 until the effective date of the statewide 911 charge pursuant
+255 to Section 11-98-5, with cooperation of the CMRS Board, shall
+256 plan for the implementation of the statewide 911 charge and
+257 the distribution of the revenues as provided hereinin this
+258 chapter. The reasonable administrative expenses incurred by
+259 the 911 Board prior to the implementation of the statewide 911
+260 charge may be deducted from the existing CMRS Fund. Upon the
+261 effective date of the new statewide 911 charge, the 911 Board
+262 shall replace and supersede the CMRS Board formerly created
+263 pursuant to this chapter, and the CMRS Fund shall be
+264 incorporated into, and considered part of, the 911 Fund.
+265 (b) The 13 members of the 911 Board, each of whom shall
+266 serve for a term of four years, shall be appointed by the
+267 Governor as follows:
+268 (1) Seven members recommended by the Alabama
+269 Association of 911 Districts, one from each of the seven
+270 congressional districts, with each recommended district
+271 representative recommended selected by vote of the Alabama
+272 Association of 911 Districts members from that congressional
+273 district. The initial appointments shall include the three
+274 district representatives on the CMRS Board who shall serve
+275 through March 31, 2014, and a member from the first, third,
+276 fifth, and seventh congressional districts as provided
+277 hereinin this section. Following the March 31, 2014,
+278 expiration of the terms of the district representatives drawn
+279 from the CMRS Board, the Governor shall appoint a member
+280 recommended by the Association of 911 Districts from each of
+Page 10
+
+recommended by the Association of 911 Districts from each of
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+281 the second, fourth, and sixth congressional districts, it
+282 being the intent of this section that each of the seven
+283 district representatives on the board be from a different
+284 congressional district, as such districts exist on May 8,
+285 2012.
+286 (2) Two members recommended by CMRS providers licensed
+287 to do business in Alabama.
+288 (3) Two members recommended by incumbent local exchange
+289 carriers operating in Alabama, who shall not be from the same
+290 local exchange carrier.
+291 (4) Two members recommended by cable companies that
+292 provide interconnected VoIP services in Alabama, who shall not
+293 be from the same cable company.
+294 (c) For purposes of the initial board appointments,:
+295 (1)(i) five members of the board shall be appointed for a
+296 four-year term; (2)(ii) four members for a three-year term;
+297 (3)(iii) the three members of the CMRS Board who are appointed
+298 pursuant to subdivision (b)(1) to terms ending on March 31,
+299 2014; and (4)(iv) the remaining member for a two-year term.
+300 Thereafter, board members shall serve staggered terms of four
+301 years. In the event of a vacancy, the vacancy shall be filled
+302 for the balance of the unexpired term in the same manner as
+303 the original appointment. Any vacancy occurring on the 911
+304 Board, whether for an expired or unexpired term, shall be
+305 filled by appointment as soon as practicable after the vacancy
+306 occurs, whether for an expired or unexpired term.
+307 (d) For all terms expiring after June 1, 2014, the
+308 governmental entities or industry groups identified in
+Page 11
+
+governmental entities or industry groups identified in
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+309 subsection (b) shall recommend at least two different
+310 individuals for each board position for which they are charged
+311 with making a recommendation, with the Governor appointing a
+312 member from among suchthe recommended candidates. For all
+313 terms expiring after July 1, 2015, appointments made by the
+314 Governor shall be subject to confirmation by the Senate as
+315 provided in this subsection. Appointments made at times when
+316 the Senate is not in session shall be effective immediately ad
+317 interim and shall serve until the Senate acts on the
+318 appointment as provided herein. Any appointment made while the
+319 Senate is not in session shall be submitted to the Senate not
+320 later than the third legislative day following the reconvening
+321 of the Legislature. In the eventIf the Senate fails or refuses
+322 to act on the appointment, the individual whose name was
+323 submitted shall continue to serve until action is taken on the
+324 appointment by the Senate.
+325 (e) The statewide 911 Board shall have the following
+326 powers and duties:
+327 (1) To develop and publish a 911 Annual Report. In
+328 fulfilling this duty, the 911 Board shall monitor trends in
+329 voice communications service technology and in enhanced 911
+330 service technology, investigate, and incorporate Geographical
+331 Information Systems (GIS) mapping and other resources into the
+332 report, and include recommended strategies for the efficient
+333 and effective delivery of enhanced 911 service. In addition,
+334 the board shall study the rates charged for 911 services and
+335 make adjustments to the rates as provided in this chapter;
+336 recommend any statutory changes necessary to ensure the most
+Page 12
+
+recommend any statutory changes necessary to ensure the most
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+337 efficient and effective delivery of 911 services in Alabama
+338 over both the long-long-term and short-term; and provide a
+339 copy of its 911 Annual Report to members of the boards of the
+340 districts in the state through the Alabama Association of 911
+341 Districts.
+342 (2) To administer the 911 Fund and the monthly
+343 statewide 911 charge authorized by Section 11-98-5.
+344 (3) To; to accept gifts, grants, or other monies for
+345 the 911 Fund; and to distribute revenue in the 911 Fund in
+346 accordance with this chapter.
+347 (4)(3) To establish policies and procedures, adopted in
+348 accordance with the Alabama Administrative Procedure Act, to
+349 fund for the funding of advisory services, grants, and
+350 training for districts; and to provide funds in accordance
+351 with these policies and procedures to the extent funds are
+352 available.
+353 (5)(4) To make and enter into contracts and agreements
+354 necessary or incidental to the performance of its powers and
+355 duties under this chapter and to use revenue available to the
+356 911 Board under Section 11-98-5 for administrative expenses to
+357 pay its obligations under the contracts and agreements.
+358 (6) To accept gifts, grants, or other money for the 911
+359 Fund.
+360 (7)(5) To undertake its duties in a manner that is
+361 competitively and technologically neutral as to all voice
+362 communications service providers.
+363 (8)(6) To administer the deployment and operation of a
+364 statewide 911 voice and data system that utilizesuses emerging
+Page 13
+
+statewide 911 voice and data system that utilizesuses emerging
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+365 communication technologies that are capable of connecting to a
+366 911 system and delivering 911 and emergency information to
+367 districts. The board shall use its available revenue to pay
+368 obligations under the contracts and agreements for a statewide
+369 911 voice and data system.
+370 (9)(7) To the extent funds are available to cover all
+371 costs,To establish a certification program to train and
+372 certify public safety telecommunicators employed by a primary
+373 PSAP receiving 911 calls,. The board shall including
+374 establishingestablish minimum core competency topics and
+375 minimum number of training hours, decidingdecide whether a
+376 written examination is required, and establishingestablish any
+377 necessary certification requirements, to the extent funds are
+378 available to cover all costs for the training established by
+379 the board. The board may establish rules for enforcement ofto
+380 enforce this subdivision as it concerns those PSAPs that fail
+381 to participate in the certification program. Notwithstanding
+382 the foregoing, the training and certification requirements of
+383 this sectionsubdivision shall not apply to any public safety
+384 telecommunicator employed by the state or an agency or
+385 department thereof.
+386 (10)(8) To adopt rules in accordance with the
+387 Administrative Procedure Act to implement this chapter; to
+388 establish the statewide 911 charge; and, in response to
+389 technological changes, apply, collect, and remit the statewide
+390 911 charge, without duplication, to the active service
+391 connections of other originating service providers that are
+392 technically capable of accessing a 911 system, subject to the
+Page 14
+
+technically capable of accessing a 911 system, subject to the
+V7SZQLL-1 02/25/2026 JC (H) HSE 2025-2882
+House State Government Reported Substitute for
+HB97
+393 provisions applicable to voice communications service
+394 providers under this chapter.
+395 (9) Consistent with Chapter 27A of Title 41, to
+396 exercise responsibility and control over the implementation,
+397 use, and maintenance of geographic information system (GIS)
+398 data for the statewide E-911 system. The board shall ensure
+399 timely submission of accurate GIS data from communication
+400 districts and other political subdivisions; reconcile
+401 conflicting data; develop and implement protocols for
+402 real-time auditing or monitoring of GIS data accuracy and
+403 quality; ensure that all PSAPs comply with Next Generation 911
+404 (NG911) services for location, accuracy, and routing; and
+405 allocate funding and set operational policies for GIS data as
+406 necessary to serve the effective delivery of NG911 services.
+407 (11)(10) To take other necessary and proper action,
+408 including the adoption of rules in accordance with the APA, to
+409 implement this chapter."
+410 Section 3. This act shall become effective on October
+411 1, 2026.
+Page 15

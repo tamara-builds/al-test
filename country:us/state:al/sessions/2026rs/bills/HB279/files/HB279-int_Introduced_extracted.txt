@@ -1,0 +1,1293 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB279 INTRODUCED
+1 HB279
+2 4U9VU3R-1
+3 By Representative Hassell
+4 RFD: Boards, Agencies and Commissions
+5 First Read: 20-Jan-26
+Page 0
+
+First Read: 20-Jan-26
+4U9VU3R-1 01/07/2026 KMS (L)ccr 2026-71
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would adopt the Esthetics Licensure
+6 Compact.
+7
+8
+9 A BILL
+10 TO BE ENTITLED
+11 AN ACT
+12
+13 Relating to the Alabama Board of Cosmetology and
+14 Barbering; to add Article 3 to Chapter 7B of Title 34, Code of
+15 Alabama 1975, to adopt the Esthetics Licensure Compact.
+16 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+17 Section 1. Article 3, commencing with Section 34-7B-80,
+18 is added to Chapter 7B of Title 34 of the Code of Alabama
+19 1975, to read as follows:
+20 Article 3. Esthetics Licensure Compact.
+21 §34-7B-80 Purpose.
+22 (a) The purpose of this compact is to facilitate the
+23 interstate practice and regulation of esthetics with the goal
+24 of improving public access to, and the safety of, esthetics
+25 services and reducing barriers related to esthetician
+26 licensure. Through this compact, the member states seek to
+27 establish a regulatory framework that provides for a new
+28 multistate licensing program. Through this new licensing
+Page 1
+
+multistate licensing program. Through this new licensing
+HB279 INTRODUCED
+29 program, the member states seek to provide increased value and
+30 mobility to licensed estheticians in the member states, while
+31 ensuring the provision of safe, effective, and reliable
+32 services to the public.
+33 (b) This compact is designed to achieve the following
+34 objectives, and the member states hereby ratify the same
+35 intentions by subscribing hereto:
+36 (1) Provide opportunities for interstate practice by
+37 estheticians who meet uniform requirements for multistate
+38 licensure;
+39 (2) Enhance the abilities of member states to protect
+40 public health and safety, and prevent fraud and unlicensed
+41 activity within the profession;
+42 (3) Ensure and encourage cooperation between member
+43 states in the licensure and regulation of the practice of
+44 esthetics;
+45 (4) Support relocating military members and their
+46 spouses;
+47 (5) Facilitate the exchange of information between
+48 member states related to the licensure, investigation, and
+49 discipline of the practice of esthetics; and
+50 (6) Provide for the licensure and mobility of the
+51 workforce in the profession.
+52 §34-7B-81 Definitions.
+53 As used in this compact, and except as otherwise
+54 provided, the following definitions govern the terms herein:
+55 (1) ACTIVE DUTY. Any individual in full-time duty
+56 status in the active uniformed service of the United States,
+Page 2
+
+status in the active uniformed service of the United States,
+HB279 INTRODUCED
+57 including members of the National Guard and Reserve.
+58 (2) ADVERSE ACTION. Any administrative, civil,
+59 equitable, or criminal action permitted by a member state's
+60 laws which is imposed by a licensing authority or other
+61 regulatory body against an esthetician, including actions
+62 against an individual's license or authorization to practice
+63 such as revocation, suspension, probation, monitoring of the
+64 licensee, limitation of the licensee's practice, or any other
+65 encumbrance on a license affecting an individual's ability to
+66 participate in the esthetics industry, including the issuance
+67 of a cease and desist order.
+68 (3) AUTHORIZATION TO PRACTICE. A legal authorization
+69 associated with a multistate license permitting the practice
+70 of esthetics in that remote state, which shall be subject to
+71 the enforcement jurisdiction of the licensing authority in
+72 that remote state.
+73 (4) ALTERNATIVE PROGRAM. A non-disciplinary monitoring
+74 or prosecutorial diversion program approved by a member
+75 state's licensing authority.
+76 (5) BACKGROUND CHECK. The submission of information for
+77 an applicant for the purpose of obtaining that applicant's
+78 criminal history record information, as further defined in 28
+79 C.F.R. § 20.3(d), from the Federal Bureau of Investigation and
+80 the agency responsible for retaining state criminal or
+81 disciplinary history in the applicant's home state.
+82 (6) CHARTER MEMBER STATE. Member states who have
+83 enacted legislation to adopt this compact where such
+84 legislation predates the effective date of this compact as
+Page 3
+
+legislation predates the effective date of this compact as
+HB279 INTRODUCED
+85 defined in Section 34-7B-92.
+86 (7) COMMISSION. The joint government agency whose
+87 membership consists of all states that have enacted this
+88 compact, which is known as the Esthetics Licensure Compact
+89 Commission, as defined in Section 34-7B-88, and which shall
+90 operate as an instrumentality of the member states.
+91 (8) CURRENT SIGNIFICANT INVESTIGATIVE INFORMATION.
+92 Either of the following:
+93 a. Investigative information that a licensing
+94 authority, after an inquiry or investigation that complies
+95 with a member state's due process requirements, has reason to
+96 believe is not groundless and, if proved true, would indicate
+97 a violation of that state's laws regarding fraud or the
+98 practice of esthetics.
+99 b. Investigative information that indicates that a
+100 licensee has engaged in fraud or represents an immediate
+101 threat to public health and safety, regardless of whether the
+102 licensee has been notified and had an opportunity to respond.
+103 (9) DATA SYSTEM. A repository of information about
+104 licensees including, but not limited to, license status,
+105 investigative information, and adverse actions.
+106 (10) DISQUALIFYING EVENT. Any event that shall
+107 disqualify an individual from holding a multistate license
+108 under this compact and which the commission, by rule or order,
+109 may specify.
+110 (11) ENCUMBERED LICENSE. A license in which an adverse
+111 action restricts the practice of esthetics by a licensee, or
+112 where the adverse action has been reported to the commission.
+Page 4
+
+where the adverse action has been reported to the commission.
+HB279 INTRODUCED
+113 (12) ENCUMBRANCE. A revocation or suspension of, or any
+114 limitation on, the full and unrestricted practice of esthetics
+115 by a licensing authority.
+116 (13) ESTHETICIAN. An individual licensed in his or her
+117 home state to engage in the practice of esthetics as defined
+118 in this section.
+119 (14) ESTHETICS. The skin care and services for cosmetic
+120 purposes provided by an esthetician in a member state as set
+121 forth in the relevant statutes and rules of a member state.
+122 The practice of esthetics occurs in the member state where the
+123 client is located at the time of service.
+124 (15) EXECUTIVE COMMITTEE. A group of delegates elected
+125 or appointed to act on behalf of and within the powers granted
+126 to them by the commission.
+127 (16) HOME STATE. The member state that is a licensee's
+128 primary state of residence and where that licensee holds an
+129 active and unencumbered license to practice esthetics.
+130 (17) INVESTIGATIVE INFORMATION. Information, records,
+131 or documents received or generated by a licensing authority
+132 pursuant to an investigation or other inquiry.
+133 (18) JURISPRUDENCE REQUIREMENT. The assessment of an
+134 individual's knowledge of the laws and rules governing the
+135 practice of esthetics in a state.
+136 (19) LICENSEE. An individual who currently holds a
+137 license from a member state to practice as an esthetician.
+138 (20) LICENSING AUTHORITY. A state's administrative or
+139 regulatory body responsible for regulating the practice of
+140 esthetics, or which is responsible for issuing licenses to
+Page 5
+
+esthetics, or which is responsible for issuing licenses to
+HB279 INTRODUCED
+141 estheticians or otherwise overseeing the practice of esthetics
+142 in that state.
+143 (21) MEMBER STATE. Any state that has adopted this
+144 compact.
+145 (22) MULTISTATE LICENSE. A license issued and subject
+146 to the enforcement jurisdiction of the licensing authority in
+147 a licensee's home state, which authorizes the practice of
+148 esthetics in member states and includes authorizations to
+149 practice esthetics in all remote states pursuant to this
+150 compact.
+151 (23) REMOTE STATE. Any member state, other than the
+152 licensee's home state.
+153 (24) RULE. A regulation adopted by the commission under
+154 this compact, or an authorized entity, that has the force of
+155 law.
+156 (25) SINGLE-STATE LICENSE. A license issued by a member
+157 state that authorizes the practice of esthetics only within
+158 the issuing state and does not include any authorization
+159 outside of the issuing state.
+160 (26) STATE. A state, commonwealth, territory, or
+161 possession of the United States and the District of Columbia.
+162 §34-7B-82 Member state requirements.
+163 (a) To be eligible to join this compact, and to
+164 maintain eligibility as a member state, a state must do all of
+165 the following:
+166 (1) License estheticians and regulate esthetics.
+167 (2) Have a mechanism or entity in place to receive and
+168 investigate complaints about licensees practicing in that
+Page 6
+
+investigate complaints about licensees practicing in that
+HB279 INTRODUCED
+169 state.
+170 (3) Require that licensees within the state pass a
+171 competency examination prior to being licensed to provide
+172 esthetics services to the public in that state.
+173 (4) Require that licensees satisfy educational or
+174 training requirements prior to being licensed to provide
+175 esthetics services to the public in that state.
+176 (5) Implement procedures for considering one or more of
+177 the following categories of information from applicants for
+178 licensure: (i) criminal history; (ii) disciplinary history; or
+179 (iii) background check. Such procedures may include the
+180 submission of information by applicants for the purpose of
+181 obtaining an applicant's background check as defined herein.
+182 (6) Participate in the data system, including through
+183 the use of unique identifying numbers.
+184 (7) Share information related to adverse actions with
+185 the commission and other member states, both through the data
+186 system and otherwise.
+187 (8) Notify the commission and other member states, in
+188 compliance with the terms of the compact and rules of the
+189 commission, of the existence of investigative information or
+190 current significant investigative information in the state's
+191 possession regarding a licensee practicing in that state.
+192 (9) Comply with such rules as may be enacted by the
+193 commission to administer the compact.
+194 (10) Accept licensees from other member states as
+195 established herein.
+196 (b) Member states may charge a fee for granting a
+Page 7
+
+(b) Member states may charge a fee for granting a
+HB279 INTRODUCED
+197 multistate license to practice esthetics.
+198 (c) Individuals not residing in a member state shall
+199 continue to be able to apply for a member state's single-state
+200 license as provided under the laws of each member state.
+201 However, the single-state license granted to these individuals
+202 shall not be recognized as granting a multistate license to
+203 provide services in any other member state.
+204 (d) Nothing in this compact shall affect the
+205 requirements established by a member state for the issuance of
+206 a single-state license.
+207 (e) A multistate license issued to a licensee by a home
+208 state to a resident of that state shall be recognized by each
+209 member state as authorizing a licensee to practice esthetics
+210 in each member state.
+211 (f) At no point shall the commission have the power to
+212 define the educational or professional requirements for a
+213 license to practice esthetics. The member states shall retain
+214 sole jurisdiction over the provision of these requirements.
+215 §34-7B-83 Multistate license.
+216 (a) To be eligible to apply to his or her home state's
+217 licensing authority for an initial multistate license under
+218 this compact, a licensee must hold an active and unencumbered
+219 single-state license to practice esthetics in his or her home
+220 state.
+221 (b) Upon the receipt of an application for a multistate
+222 license, according to the rules of the commission, a member
+223 state's licensing authority shall ascertain whether the
+224 applicant meets the requirements for a multistate license
+Page 8
+
+applicant meets the requirements for a multistate license
+HB279 INTRODUCED
+225 under this compact.
+226 (c) If an applicant meets the requirements for a
+227 multistate license under this compact and any applicable rules
+228 of the commission, the licensing authority in receipt of the
+229 application, within a reasonable time, shall grant a
+230 multistate license to that applicant and inform all member
+231 states of the grant of the multistate license.
+232 (d) A multistate license to practice esthetics issued
+233 by a member state's licensing authority shall be recognized by
+234 each member state as authorizing the practice thereof as
+235 though that licensee held a single-state license to do so in
+236 each member state, subject to the restrictions herein.
+237 (e) A multistate license granted pursuant to this
+238 compact may be effective for a definite period of time,
+239 concurrent with the licensure renewal period in the home
+240 state.
+241 (f) To maintain a multistate license under this
+242 compact, a licensee must:
+243 (1) Agree to abide by the rules of the licensing
+244 authority, and the state scope of practice laws governing the
+245 practice of esthetics, of any member state in which the
+246 licensee provides services;
+247 (2) Pay all required fees related to the application
+248 and process, and any other fees which the commission, by rule,
+249 may require; and
+250 (3) Comply with any and all other requirements
+251 regarding multistate licenses which the commission, by rule,
+252 may provide.
+Page 9
+
+may provide.
+HB279 INTRODUCED
+253 (g) A licensee practicing in a member state is subject
+254 to all scope of practice laws governing esthetics services in
+255 that state.
+256 (h) The practice of esthetics under a multistate
+257 license granted pursuant to this compact will subject the
+258 licensee to the jurisdiction of the licensing authority, the
+259 courts, and the laws of the member state in which the
+260 esthetics services are provided.
+261 §34-7B-84 Reissuance of a multistate license by a new
+262 home state.
+263 (a) A licensee may hold a multistate license, issued by
+264 his or her home state, in only one member state at any given
+265 time.
+266 (b) If a licensee changes his or her home state by
+267 moving between two member states:
+268 (1) The licensee shall immediately apply for the
+269 reissuance of his or her multistate license in his or her new
+270 home state. The licensee shall pay all applicable fees and
+271 notify the prior home state in accordance with the rules of
+272 the commission;
+273 (2) Upon receipt of an application to reissue a
+274 multistate license, the new home state shall verify that the
+275 multistate license is active, unencumbered, and eligible for
+276 reissuance under the terms of the compact and the rules of the
+277 commission. The multistate license issued by the prior home
+278 state will be deactivated and all member states notified in
+279 accordance with the applicable rules adopted by the
+280 commission;
+Page 10
+
+commission;
+HB279 INTRODUCED
+281 (3) If required for initial licensure, the new home
+282 state may require a background check as specified in the laws
+283 of the new home state or compliance with any jurisprudence
+284 requirements of the new home state; and
+285 (4) Notwithstanding any other provision of this
+286 compact, if a licensee does not meet the requirements set
+287 forth in this compact for the reissuance of a multistate
+288 license by the new home state, then the licensee shall be
+289 subject to the new home state requirements for the issuance of
+290 a single-state license in that state.
+291 (c) If a licensee changes his or her primary state of
+292 residence by moving from a member state to a nonmember state,
+293 or from a nonmember state to a member state, then the licensee
+294 shall be subject to the state requirements for the issuance of
+295 a single-state license in the new home state.
+296 (d) Nothing in this compact shall interfere with a
+297 licensee's ability to hold a single-state license in multiple
+298 states; however, for the purposes of this compact, a licensee
+299 shall have only one home state and only one multistate
+300 license.
+301 (e) Nothing in this compact shall interfere with the
+302 requirements established by a member state for the issuance of
+303 a single-state license.
+304 §34-7B-85 Authority of the compact commission and
+305 member state licensing authorities.
+306 (a) Nothing in this compact, nor any rule of the
+307 commission, shall be construed to limit, restrict, or in any
+308 way reduce the ability of a member state to enact and enforce
+Page 11
+
+way reduce the ability of a member state to enact and enforce
+HB279 INTRODUCED
+309 laws or other rules related to the practice of esthetics in
+310 that state, where those laws or other rules are not
+311 inconsistent with the provisions of this compact.
+312 (b) Insofar as practical, a member state's licensing
+313 authority shall cooperate with the commission and with each
+314 entity exercising independent regulatory authority over the
+315 practice of esthetics according to the provisions of this
+316 compact.
+317 (c) Discipline shall be the sole responsibility of the
+318 state in which esthetics services are provided. Accordingly,
+319 each member state's licensing authority shall be responsible
+320 for receiving complaints about individuals practicing
+321 esthetics in that state and for communicating all relevant
+322 investigative information about any such adverse action to the
+323 other member states through the data system in addition to any
+324 other methods the commission, by rule, may require.
+325 §34-7B-86 Adverse actions.
+326 (a) A licensee's home state shall have exclusive power
+327 to impose an adverse action against a licensee's multistate
+328 license issued by the home state.
+329 (b) A home state may take adverse action on a
+330 multistate license based on the investigative information,
+331 current significant investigative information, or adverse
+332 action of a remote state.
+333 (c) In addition to the powers conferred by state law,
+334 each remote state's licensing authority shall have the power
+335 to:
+336 (1) Take adverse action against a licensee's
+Page 12
+
+(1) Take adverse action against a licensee's
+HB279 INTRODUCED
+337 authorization to practice esthetics through the multistate
+338 license in that member state, provided that:
+339 a. Only the licensee's home state shall have the power
+340 to take adverse action against the multistate license issued
+341 by the home state; and
+342 b. For the purpose of taking an adverse action, the
+343 home state's licensing authority shall give the same priority
+344 and effect to reported conduct received from a remote state as
+345 it would if such conduct had occurred within the home state.
+346 In so doing, the home state shall apply its own state laws to
+347 determine the appropriate action.
+348 (2) Issue cease and desist orders or impose an
+349 encumbrance on a licensee's authorization to practice within
+350 that member state;
+351 (3) Complete any pending investigations of a licensee
+352 who changes his or her primary state of residence during the
+353 course of such an investigation. The licensing authority shall
+354 also be empowered to report the results of such an
+355 investigation to the commission through the data system as
+356 described herein;
+357 (4) Issue subpoenas for both hearings and
+358 investigations that require the attendance and testimony of
+359 witnesses, as well as the production of evidence. Subpoenas
+360 issued by a licensing authority in a member state for the
+361 attendance and testimony of witnesses or the production of
+362 evidence from another member state shall be enforced in the
+363 latter state by any court of competent jurisdiction, according
+364 to the practice and procedure of that court applicable to
+Page 13
+
+to the practice and procedure of that court applicable to
+HB279 INTRODUCED
+365 subpoenas issued in proceedings before it. The issuing
+366 licensing authority shall pay any witness fees, travel
+367 expenses, mileage, and other fees required by the service
+368 statutes of the state in which the witnesses or evidence are
+369 located;
+370 (5) If otherwise permitted by state law, recover from
+371 the affected licensee the costs of investigations and
+372 disposition of cases resulting from any adverse action taken
+373 against that licensee; and
+374 (6) Take adverse action against the licensee's
+375 authorization to practice in that state based on the factual
+376 findings of another remote state.
+377 (d) A licensee's home state shall complete any pending
+378 investigation of an esthetician who changes his or her primary
+379 state of residence while the investigation is pending. The
+380 home state shall also have the authority to take appropriate
+381 action and shall promptly report the conclusions of any
+382 investigation to the data system.
+383 (e) If an adverse action is taken by the home state
+384 against a licensee's multistate license, the licensee's
+385 authorization to practice in all other member states shall be
+386 deactivated until all encumbrances have been removed from the
+387 home state license. All home state disciplinary orders that
+388 impose an adverse action against a licensee's multistate
+389 license shall include a statement that the esthetician's
+390 authorization to practice is deactivated in all member states
+391 during the pendency of the order.
+392 (f) Nothing in this compact shall override a member
+Page 14
+
+(f) Nothing in this compact shall override a member
+HB279 INTRODUCED
+393 state's authority to accept a licensee's participation in an
+394 alternative program in lieu of adverse action. A licensee's
+395 multistate license shall be suspended for the duration of the
+396 licensee's participation in any alternative program.
+397 (g) Joint investigations.
+398 (1) In addition to the authority granted to a member
+399 state by its respective scope of practice laws or other
+400 applicable state law, a member state may participate with
+401 other member states in joint investigations of licensees.
+402 (2) Member states shall share any investigative,
+403 litigation, or compliance materials in furtherance of any
+404 joint or individual investigation initiated under the compact.
+405 §34-7B-87 Active duty military and their spouses.
+406 An active duty military service member or his or her
+407 spouse shall designate a home state where the individual has a
+408 current license in good standing. The individual or spouse may
+409 retain his or her home state designation during any period of
+410 service when that individual is on active duty.
+411 §34-7B-88 Establishment and operation of the Esthetics
+412 Licensure Compact Commission.
+413 (a) The compact member states hereby create and
+414 establish a joint government agency whose membership consists
+415 of all member states that have enacted the compact known as
+416 the Esthetics Licensure Compact Commission. The commission is
+417 an instrumentality of the compact states acting jointly and
+418 not an instrumentality of any one state. The commission shall
+419 come into existence on or after the effective date of the
+420 compact as set forth in Section 34-7B-92.
+Page 15
+
+compact as set forth in Section 34-7B-92.
+HB279 INTRODUCED
+421 (b) Membership, voting, and meetings.
+422 (1) Each member state shall have and be limited to one
+423 delegate selected by that member state's licensing authority.
+424 (2) The delegate shall be an administrator of the
+425 licensing authority of the member state or their designee.
+426 (3) The commission, by rule or bylaw, shall establish a
+427 term of office for delegates and, by rule or bylaw, may
+428 establish term limits.
+429 (4) The commission may recommend removal or suspension
+430 of any delegate from office.
+431 (5) A member state's licensing authority shall fill any
+432 vacancy of its delegate occurring on the commission within 60
+433 days of the vacancy.
+434 (6) Each delegate shall be entitled to one vote on all
+435 matters that are voted on by the commission.
+436 (7) The commission shall meet at least once during each
+437 calendar year. Additional meetings may be held as set forth in
+438 the bylaws. The commission may meet by telecommunication,
+439 video conference, or other similar electronic means.
+440 (c) The commission shall have the following powers:
+441 (1) Establish the fiscal year of the commission.
+442 (2) Establish code of conduct and conflict of interest
+443 policies.
+444 (3) Adopt rules and bylaws.
+445 (4) Maintain its financial records in accordance with
+446 the bylaws.
+447 (5) Meet and take such actions as are consistent with
+448 the provisions of this compact, the commission's rules, and
+Page 16
+
+the provisions of this compact, the commission's rules, and
+HB279 INTRODUCED
+449 the bylaws.
+450 (6) Initiate and conclude legal proceedings or actions
+451 in the name of the commission, provided that the standing of
+452 any licensing authority to sue or be sued under applicable law
+453 shall not be affected.
+454 (7) Maintain and certify records and information
+455 provided to a member state as the authenticated business
+456 records of the commission and designate an agent to do so on
+457 the commission's behalf.
+458 (8) Purchase and maintain insurance and bonds.
+459 (9) Borrow, accept, or contract for services of
+460 personnel including, but not limited to, employees of a member
+461 state.
+462 (10) Conduct an annual financial review.
+463 (11) Hire employees, elect or appoint officers, fix
+464 compensation, define duties, grant such individuals
+465 appropriate authority to carry out the purposes of the
+466 compact, and establish the commission's personnel policies and
+467 programs relating to conflicts of interest, qualifications of
+468 personnel, and other related personnel matters.
+469 (12) As set forth in the commission rules, charge a fee
+470 to a licensee for the grant of a multistate license and
+471 thereafter, as may be established by commission rule, charge
+472 the licensee a multistate license renewal fee for each renewal
+473 period. Nothing herein shall be construed to prevent a home
+474 state from charging a licensee a fee for a multistate license
+475 or renewals of a multistate license or a fee for the
+476 jurisprudence requirement if the member state imposes such a
+Page 17
+
+jurisprudence requirement if the member state imposes such a
+HB279 INTRODUCED
+477 requirement for the grant of multistate license.
+478 (13) Assess and collect fees.
+479 (14) Accept any and all appropriate gifts, donations,
+480 grants of money, other sources of revenue, equipment,
+481 supplies, materials, and services and receive, utilize, and
+482 dispose of the same, provided that at all times the commission
+483 shall avoid any appearance of impropriety or conflict of
+484 interest.
+485 (15) Lease, purchase, retain, own, hold, improve, or
+486 use any property, real, personal, or mixed, or any undivided
+487 interest therein.
+488 (16) Sell, convey, mortgage, pledge, lease, exchange,
+489 abandon, or otherwise dispose of any property real, personal,
+490 or mixed.
+491 (17) Establish a budget and make expenditures.
+492 (18) Borrow money.
+493 (19) Appoint committees, including standing committees,
+494 composed of members, state regulators, state legislators or
+495 their representatives, and consumer representatives and such
+496 other interested persons as may be designated in this compact
+497 and the bylaws.
+498 (20) Provide and receive information from, and
+499 cooperate with, law enforcement agencies.
+500 (21) Elect a chair, vice chair, secretary, and
+501 treasurer and such other officers of the commission as
+502 provided in the commission's bylaws.
+503 (22) Establish and elect an executive committee,
+504 including a chair and a vice chair.
+Page 18
+
+including a chair and a vice chair.
+HB279 INTRODUCED
+505 (23) Adopt and provide to the participating states an
+506 annual report.
+507 (24) Determine whether a state's adopted language is
+508 materially different from the model compact language such that
+509 the state would not qualify for participation in the compact.
+510 (25) Perform such other functions as may be necessary
+511 or appropriate to achieve the purposes of this compact.
+512 (d) The executive committee.
+513 (1) The executive committee shall have the power to act
+514 on behalf of the commission according to the terms of this
+515 compact. The powers, duties, and responsibilities of the
+516 executive committee shall include:
+517 a. Overseeing the day-to-day activities of the
+518 administration of the compact, including compliance with the
+519 provisions of the compact, the commission's rules and bylaws,
+520 and other such duties as deemed necessary.
+521 b. Recommending to the commission changes to the rules
+522 or bylaws, changes to this compact legislation, fees charged
+523 to compact member states, fees charged to licensees, and other
+524 fees.
+525 c. Ensuring compact administration services are
+526 appropriately provided, including by contract.
+527 d. Preparing and recommending the budget;
+528 e. Maintaining financial records on behalf of the
+529 commission;
+530 f. Monitoring compact compliance of member states and
+531 providing compliance reports to the commission;
+532 g. Establishing additional committees as necessary;
+Page 19
+
+g. Establishing additional committees as necessary;
+HB279 INTRODUCED
+533 h. Exercise the powers and duties of the commission
+534 during the interim between commission meetings, except for
+535 adopting or amending rules, adopting or amending bylaws, and
+536 exercising any other powers and duties expressly reserved to
+537 the commission by rule or bylaw; and
+538 i. Other duties as provided in the rules or bylaws of
+539 the commission.
+540 (2) The executive committee shall be composed of up to
+541 seven voting members:
+542 a. The chair and vice chair of the commission and any
+543 other members of the commission who serve on the executive
+544 committee shall be voting members of the executive committee;
+545 b. Other than the chair and vice chair, secretary, and
+546 treasurer, the commission shall elect three voting members
+547 from the current membership of the commission; and
+548 c. The commission may elect ex officio, nonvoting
+549 members from a recognized national organization as approved by
+550 the commission. The commission's bylaws shall identify
+551 qualifying organizations and the manner of appointment if the
+552 number of organizations seeking to appoint an ex officio
+553 member exceeds the number of members specified in this
+554 section.
+555 (3) The commission may remove any member of the
+556 executive committee as provided in the commission's bylaws.
+557 (4) The executive committee shall meet at least
+558 annually.
+559 a. Annual executive committee meetings, as well as any
+560 executive committee meeting during which the executive
+Page 20
+
+executive committee meeting during which the executive
+HB279 INTRODUCED
+561 committee does not take or intend to take formal action on a
+562 matter for which a commission vote would otherwise be
+563 required, shall be open to the public, except that the
+564 executive committee may meet in a closed, nonpublic session of
+565 a public meeting when dealing with any of the matters covered
+566 under subdivision (f)(4).
+567 b. The executive committee shall give five business
+568 days advance notice of its public meetings, posted on its
+569 website, and any other means as provided in the commission's
+570 rules, to provide notice to persons with an interest in the
+571 public matters the executive committee intends to address at
+572 those meetings.
+573 (5) The executive committee may hold an emergency
+574 meeting when acting for the commission to:
+575 a. Meet an imminent threat to public health, safety, or
+576 welfare;
+577 b. Prevent a loss of commission or participating state
+578 funds; or
+579 c. Protect public health and safety.
+580 (e) The commission shall adopt and provide to the
+581 member states an annual report.
+582 (f) Meetings of the commission.
+583 (1) All meetings of the commission that are not closed
+584 pursuant to this subsection shall be open to the public.
+585 Notice of public meetings shall be posted on the commission's
+586 website at least 30 days prior to the public meeting.
+587 (2) Notwithstanding subdivision (1), the commission may
+588 convene an emergency public meeting by providing at least
+Page 21
+
+convene an emergency public meeting by providing at least
+HB279 INTRODUCED
+589 24-hours prior notice on the commission's website, and any
+590 other means as provided in the commission's rules, for any of
+591 the reasons the commission may dispense with notice of
+592 proposed rulemaking under Section 34-7B-90(l). The
+593 commission's legal counsel shall certify one of the reasons
+594 justifying an emergency public meeting has been met.
+595 (3) Notice of all commission meetings shall provide the
+596 time, date, and location of the meeting, and if the meeting is
+597 to be held or accessible via telecommunication, video
+598 conference, or other electronic means, the notice shall
+599 include the mechanism for access to the meeting.
+600 (4) The commission may convene in a closed, nonpublic
+601 meeting for the commission to discuss the following:
+602 a. Noncompliance of a member state with its obligations
+603 under the compact.
+604 b. The employment, compensation, discipline, or other
+605 matters, practices, or procedures related to specific
+606 employees, or other matters related to the commission's
+607 internal personnel practices and procedures.
+608 c. Current or threatened discipline of a licensee by
+609 the commission or by a member state's licensing authority.
+610 d. Current, threatened, or reasonably anticipated
+611 litigation.
+612 e. Negotiation of contracts for the purchase, lease, or
+613 sale of goods, services, or real estate.
+614 f. Accusing any person of a crime or formally censuring
+615 any person.
+616 g. Trade secrets or commercial or financial information
+Page 22
+
+g. Trade secrets or commercial or financial information
+HB279 INTRODUCED
+617 that is privileged or confidential.
+618 h. Information of a personal nature where disclosure
+619 would constitute a clearly unwarranted invasion of personal
+620 privacy.
+621 i. Investigative records compiled for law enforcement
+622 purposes.
+623 j. Information related to any investigative reports
+624 prepared by or on behalf of or for use of the commission or
+625 other committee charged with responsibility of investigation
+626 or determination of compliance issues pursuant to the compact.
+627 k. Legal advice.
+628 l. Matters specifically exempted from disclosure to the
+629 public by federal or member state law.
+630 m. Other matters as adopted by the commission, by rule.
+631 (5) If a meeting, or portion of a meeting, is closed,
+632 the presiding officer shall state that the meeting will be
+633 closed and reference each relevant exempting provision, and
+634 such reference shall be recorded in the minutes.
+635 (6) The commission shall keep minutes that fully and
+636 clearly describe all matters discussed in a meeting and shall
+637 provide a full and accurate summary of actions taken and the
+638 reasons therefore, including a description of the views
+639 expressed. All documents considered in connection with an
+640 action shall be identified in such minutes. All minutes and
+641 documents of a closed meeting shall remain under seal, subject
+642 to release only by a majority vote of the commission or order
+643 of a court of competent jurisdiction.
+644 (g) Financing of the commission.
+Page 23
+
+(g) Financing of the commission.
+HB279 INTRODUCED
+645 (1) The commission shall pay, or provide for the
+646 payment of, the reasonable expenses of its establishment,
+647 organization, and ongoing activities.
+648 (2) The commission may accept any and all appropriate
+649 sources of revenue, donations, and grants of money, equipment,
+650 supplies, materials, and services.
+651 (3) The commission may levy on, and collect an annual
+652 assessment from, each member state and impose fees on
+653 licensees of member states to whom it grants a multistate
+654 license to cover the cost of the operations and activities of
+655 the commission and its staff, which must be in a total amount
+656 sufficient to cover its annual budget as approved each year
+657 for which revenue is not provided by other sources. The
+658 aggregate annual assessment amount for member states shall be
+659 allocated based upon a formula that the commission shall adopt
+660 by rule.
+661 (4) The commission shall not incur obligations of any
+662 kind prior to securing the funds adequate to meet the same;
+663 nor shall the commission pledge the credit of any member
+664 state, except by and with the authority of the member state.
+665 (5) The commission shall keep accurate accounts of all
+666 receipts and disbursements. The receipts and disbursements of
+667 the commission shall be subject to the financial review and
+668 accounting procedures established under its bylaws. All
+669 receipts and disbursements of funds handled by the commission
+670 shall be subject to an annual financial review by a certified
+671 or licensed public accountant, and the report of the financial
+672 review shall be included in and become part of the annual
+Page 24
+
+review shall be included in and become part of the annual
+HB279 INTRODUCED
+673 report of the commission.
+674 (h) Qualified immunity, defense, and indemnification.
+675 (1) The members, officers, executive director,
+676 employees, and representatives of the commission shall be
+677 immune from suit and liability, both personally and in their
+678 official capacity, for any claim for damage to or loss of
+679 property or personal injury or other civil liability caused by
+680 or arising out of any actual or alleged act, error, or
+681 omission that occurred, or that the person against whom the
+682 claim is made had a reasonable basis for believing occurred
+683 within the scope of commission employment, duties, or
+684 responsibilities, provided that nothing in this subdivision
+685 shall be construed to protect any such person from suit or
+686 liability for any damage, loss, injury, or liability caused by
+687 the intentional or willful or wanton misconduct of that
+688 person. The procurement of insurance of any type by the
+689 commission shall not in any way compromise or limit the
+690 immunity granted hereunder.
+691 (2) The commission shall defend any member, officer,
+692 executive director, employee, and representative of the
+693 commission in any civil action seeking to impose liability
+694 arising out of any actual or alleged act, error, or omission
+695 that occurred within the scope of commission employment,
+696 duties, or responsibilities, or as determined by the
+697 commission that the person against whom the claim is made had
+698 a reasonable basis for believing occurred within the scope of
+699 commission employment, duties, or responsibilities, provided
+700 that nothing herein shall be construed to prohibit that person
+Page 25
+
+that nothing herein shall be construed to prohibit that person
+HB279 INTRODUCED
+701 from retaining their own counsel at their own expense; and
+702 provided further, that the actual or alleged act, error, or
+703 omission did not result from that person's intentional or
+704 willful or wanton misconduct.
+705 (3) The commission shall indemnify and hold harmless
+706 any member, officer, executive director, employee, and
+707 representative of the commission for the amount of any
+708 settlement or judgment obtained against that person arising
+709 out of any actual or alleged act, error, or omission that
+710 occurred within the scope of commission employment, duties, or
+711 responsibilities, or that such person had a reasonable basis
+712 for believing occurred within the scope of commission
+713 employment, duties, or responsibilities, provided that the
+714 actual or alleged act, error, or omission did not result from
+715 the intentional or willful or wanton misconduct of that
+716 person.
+717 (4) Nothing herein shall be construed as a limitation
+718 on the liability of any licensee for professional malpractice
+719 or misconduct, which shall be governed solely by any other
+720 applicable state laws.
+721 (5) Nothing in this compact shall be interpreted to
+722 waive or otherwise abrogate a member state's state action
+723 immunity or state action affirmative defense with respect to
+724 antitrust claims under the Sherman Act, Clayton Act, or any
+725 other state or federal antitrust or anticompetitive law or
+726 regulation.
+727 (6) Nothing in this compact shall be construed to be a
+728 waiver of sovereign immunity by the member states or by the
+Page 26
+
+waiver of sovereign immunity by the member states or by the
+HB279 INTRODUCED
+729 commission.
+730 §34-7B-89 Data system.
+731 (a) The commission shall provide for the development,
+732 maintenance, operation, and utilization of a coordinated
+733 database and reporting system.
+734 (b) The commission shall assign each applicant for a
+735 multistate license a unique identifier, as determined by the
+736 rules of the commission.
+737 (c) Notwithstanding any other provision of state law to
+738 the contrary, a member state shall submit a uniform data set
+739 to the data system on all individuals to whom this compact is
+740 applicable as required by the rules of the commission,
+741 including:
+742 (1) Identifying information;
+743 (2) Licensure data;
+744 (3) Adverse actions against a license and information
+745 related thereto;
+746 (4) Nonconfidential information related to alternative
+747 program participation, the beginning and ending dates of such
+748 participation, and other information related to such
+749 participation;
+750 (5) Any denial of application for licensure, and the
+751 reason for such denial, excluding the reporting of any
+752 criminal history record information where prohibited by law;
+753 (6) The existence of investigative information;
+754 (7) The existence of current significant investigative
+755 information; and
+756 (8) Other information that may facilitate the
+Page 27
+
+(8) Other information that may facilitate the
+HB279 INTRODUCED
+757 administration of this compact or the protection of the
+758 public, as determined by the rules of the commission.
+759 (d) The records and information provided to a member
+760 state pursuant to this compact or through the data system,
+761 when certified by the commission or an agent thereof, shall
+762 constitute the authenticated business records of the
+763 commission and shall be entitled to any associated hearsay
+764 exception in any relevant judicial, quasi-judicial, or
+765 administrative proceedings in a member state.
+766 (e) The existence of current significant investigative
+767 information and the existence of investigative information
+768 pertaining to a licensee in any member state shall only be
+769 available to other member states.
+770 (f) It is the responsibility of the member states to
+771 monitor the database to determine whether adverse action has
+772 been taken against such a licensee or license applicant.
+773 Adverse action information pertaining to a licensee or license
+774 applicant in any member state shall be available to any other
+775 member state.
+776 (g) Member states that contribute information to the
+777 data system may designate information that may not be shared
+778 with the public without the express permission of the
+779 contributing state.
+780 (h) Any information submitted to the data system that
+781 is subsequently expunged pursuant to federal law or the laws
+782 of the member state contributing the information shall be
+783 removed from the data system.
+784 §34-7B-90 Rulemaking.
+Page 28
+
+§34-7B-90 Rulemaking.
+HB279 INTRODUCED
+785 (a) The commission shall adopt reasonable rules to
+786 effectively and efficiently implement and administer the
+787 purposes and provisions of the compact. A rule shall be
+788 invalid and have no force or effect only if a court of
+789 competent jurisdiction holds that the rule is invalid because
+790 the commission exercised its rulemaking authority in a manner
+791 that is beyond the scope and purposes of the compact, or the
+792 powers granted hereunder, or based upon another applicable
+793 standard of review.
+794 (b) The rules of the commission shall have the force of
+795 law in each member state, provided that where the rules of the
+796 commission conflict with the laws of the member state that
+797 establish the member state's scope of practice laws governing
+798 the practice of esthetics as held by a court of competent
+799 jurisdiction, the rules of the commission shall be ineffective
+800 in that state to the extent of the conflict.
+801 (c) The commission shall exercise its rulemaking powers
+802 pursuant to the criteria set forth in this section and the
+803 rules adopted thereunder. Rules shall become binding as of the
+804 date specified by the commission for each rule.
+805 (d) If a majority of the legislatures of the member
+806 states rejects a rule or portion of a rule by enactment of a
+807 statute or resolution in the same manner used to adopt the
+808 compact within four years of the date of adoption of the rule,
+809 then such rule shall have no further force and effect in any
+810 member state or to any state applying to participate in the
+811 compact.
+812 (e) Rules shall be adopted at a regular or special
+Page 29
+
+(e) Rules shall be adopted at a regular or special
+HB279 INTRODUCED
+813 meeting of the commission.
+814 (f) Prior to adoption of a proposed rule, the
+815 commission shall hold a public hearing and allow persons to
+816 provide oral and written comments, data, facts, opinions, and
+817 arguments.
+818 (g) Prior to adoption of a proposed rule by the
+819 commission, and at least 30 days in advance of the meeting at
+820 which the commission will hold a public hearing on the
+821 proposed rule, the commission shall provide a notice of
+822 proposed rulemaking:
+823 (1) On the website of the commission or other publicly
+824 accessible platform;
+825 (2) To persons who have requested notice of the
+826 commission's notices of proposed rulemaking; and
+827 (3) In such other ways as the commission, by rule, may
+828 specify.
+829 (h) The notice of proposed rulemaking shall include:
+830 (1) The time, date, and location of the public hearing
+831 at which the commission will hear public comments on the
+832 proposed rule and, if different, the time, date, and location
+833 of the meeting where the commission will consider and vote on
+834 the proposed rule;
+835 (2) If the hearing is held via telecommunication, video
+836 conference, or other electronic means, the commission shall
+837 include the mechanism for access to the hearing in the notice
+838 of proposed rulemaking;
+839 (3) The text of the proposed rule and the reason
+840 therefor;
+Page 30
+
+therefor;
+HB279 INTRODUCED
+841 (4) A request for comments on the proposed rule from
+842 any interested person; and
+843 (5) The manner in which interested persons may submit
+844 written comments.
+845 (i) All hearings will be recorded. A copy of the
+846 recording and all written comments and documents received by
+847 the commission in response to the proposed rule shall be
+848 available to the public.
+849 (j) Nothing in this section shall be construed as
+850 requiring a separate hearing on each rule. Rules may be
+851 grouped for the convenience of the commission at hearings
+852 required by this section.
+853 (k) The commission, by majority vote of all members,
+854 shall take final action on the proposed rule based on the
+855 rulemaking record and the full text of the rule.
+856 (1) The commission may adopt changes to the proposed
+857 rule provided the changes do not enlarge the original purpose
+858 of the proposed rule.
+859 (2) The commission shall provide an explanation of the
+860 reasons for substantive changes made to the proposed rule as
+861 well as reasons for substantive changes not made that were
+862 recommended by commenters.
+863 (3) The commission shall determine a reasonable
+864 effective date for the rule. Except for an emergency as
+865 provided in subsection (l), the effective date of the rule
+866 shall be no sooner than 45 days after the commission adopted
+867 or amended the rule.
+868 (l) Upon determination that an emergency exists, the
+Page 31
+
+(l) Upon determination that an emergency exists, the
+HB279 INTRODUCED
+869 commission may consider and adopt an emergency rule with five
+870 days' notice, with opportunity to comment, provided that the
+871 usual rulemaking procedures provided in the compact and in
+872 this section shall be retroactively applied to the rule as
+873 soon as reasonably possible, in no event later than 90 days
+874 after the effective date of the rule. For the purposes of this
+875 provision, an emergency rule is one that must be adopted
+876 immediately to:
+877 a. Meet an imminent threat to public health, safety, or
+878 welfare;
+879 b. Prevent the loss of commission or member state
+880 funds;
+881 c. Meet a deadline for the adoption of a rule that is
+882 established by federal law or rule; or
+883 d. Protect public health and safety.
+884 (m) The commission or an authorized committee of the
+885 commission may direct revisions to a previously adopted rule
+886 for purposes of correcting typographical errors, errors in
+887 format, errors in consistency, or grammatical errors. Public
+888 notice of any revisions shall be posted on the website of the
+889 commission. The revision shall be subject to challenge by any
+890 person for a period of 30 days after posting. The revision may
+891 be challenged only on grounds that the revision results in a
+892 material change to a rule. A challenge shall be made in
+893 writing and delivered to the commission prior to the end of
+894 the notice period. If no challenge is made, the revision will
+895 take effect without further action. If the revision is
+896 challenged, the revision may not take effect without the
+Page 32
+
+challenged, the revision may not take effect without the
+HB279 INTRODUCED
+897 approval of the commission.
+898 (n) No member state's rulemaking requirements shall
+899 apply under this compact.
+900 §34-7B-91 Oversight, dispute resolution, and
+901 enforcement.
+902 (a) Oversight.
+903 (1) The executive and judicial branches of state
+904 government in each member state shall enforce this compact and
+905 take all actions necessary and appropriate to implement the
+906 compact.
+907 (2) Venue is proper and judicial proceedings by or
+908 against the commission shall be brought solely and exclusively
+909 in a court of competent jurisdiction where the principal
+910 office of the commission is located. The commission may waive
+911 venue and jurisdictional defenses to the extent it adopts or
+912 consents to participate in alternative dispute resolution
+913 proceedings. Nothing herein shall affect or limit the
+914 selection or propriety of venue in any action against a
+915 licensee for professional malpractice, misconduct, or any such
+916 similar matter.
+917 (3) The commission shall be entitled to receive service
+918 of process in any proceeding regarding the enforcement or
+919 interpretation of the compact and shall have standing to
+920 intervene in such a proceeding for all purposes. Failure to
+921 provide the commission service of process shall render a
+922 judgment or order void as to the commission, this compact, or
+923 adopted rules.
+924 (b) Default, technical assistance, and termination.
+Page 33
+
+(b) Default, technical assistance, and termination.
+HB279 INTRODUCED
+925 (1) If the commission determines that a member state
+926 has defaulted in the performance of its obligations or
+927 responsibilities under this compact or the adopted rules, the
+928 commission shall provide written notice to the defaulting
+929 state. The notice of default shall describe the default, the
+930 proposed means of curing the default, and any other action
+931 that the commission may take and shall offer training and
+932 specific technical assistance regarding the default.
+933 (2) The commission shall provide a copy of the notice
+934 of default to the other member states.
+935 (c) If a state in default fails to cure the default,
+936 the defaulting state may be terminated from the compact upon
+937 an affirmative vote of a majority of the delegates of the
+938 member states, and all rights, privileges, and benefits
+939 conferred on that state by this compact may be terminated on
+940 the effective date of termination. A cure of the default does
+941 not relieve the offending state of obligations or liabilities
+942 incurred during the period of default.
+943 (d) Termination of membership in the compact shall be
+944 imposed only after all other means of securing compliance have
+945 been exhausted. Notice of intent to suspend or terminate shall
+946 be given by the commission to the governor, the majority and
+947 minority leaders of the defaulting state's legislature, the
+948 defaulting state's licensing authority, and each of the member
+949 states' licensing authority.
+950 (e) A state that has been terminated is responsible for
+951 all assessments, obligations, and liabilities incurred through
+952 the effective date of termination, including obligations that
+Page 34
+
+the effective date of termination, including obligations that
+HB279 INTRODUCED
+953 extend beyond the effective date of termination.
+954 (f) Upon the termination of a state's membership from
+955 this compact, that state shall immediately provide notice to
+956 all licensees who hold a multistate license within that state
+957 of the termination. The terminated state shall continue to
+958 recognize all licenses granted pursuant to this compact for a
+959 minimum of 180 days after the date of the notice of
+960 termination.
+961 (g) The commission shall not bear any costs related to
+962 a state that is found to be in default or that has been
+963 terminated from the compact, unless agreed upon in writing
+964 between the commission and the defaulting state.
+965 (h) The defaulting state may appeal the action of the
+966 commission by petitioning the U.S. District Court for the
+967 District of Columbia or the federal district where the
+968 commission has its principal offices. The prevailing party
+969 shall be awarded all costs of such litigation, including
+970 reasonable attorney fees.
+971 (i) Dispute resolution.
+972 (1) Upon request by a member state, the commission
+973 shall attempt to resolve disputes related to the compact that
+974 arise among member states and between member and non-member
+975 states.
+976 (2) The commission shall adopt a rule providing for
+977 both mediation and binding dispute resolution for disputes as
+978 appropriate.
+979 (j) Enforcement.
+980 (1) The commission, in the reasonable exercise of its
+Page 35
+
+(1) The commission, in the reasonable exercise of its
+HB279 INTRODUCED
+981 discretion, shall enforce the provisions of this compact and
+982 the commission's rules.
+983 (2) By majority vote as provided by commission rule,
+984 the commission may initiate legal action against a member
+985 state in default in the U.S. District Court for the District
+986 of Columbia or the federal district where the commission has
+987 its principal offices to enforce compliance with the
+988 provisions of the compact and its adopted rules. The relief
+989 sought may include both injunctive relief and damages. In the
+990 event judicial enforcement is necessary, the prevailing party
+991 shall be awarded all costs of such litigation, including
+992 reasonable attorney fees. The remedies herein shall not be the
+993 exclusive remedies of the commission. The commission may
+994 pursue any other remedies available under federal or the
+995 defaulting member state's laws.
+996 (3) A member state may initiate legal action against
+997 the commission in the U.S. District Court for the District of
+998 Columbia or the federal district where the commission has its
+999 principal offices to enforce compliance with the provisions of
+1000 the compact and its adopted rules. The relief sought may
+1001 include both injunctive relief and damages. In the event
+1002 judicial enforcement is necessary, the prevailing party shall
+1003 be awarded all costs of such litigation, including reasonable
+1004 attorney fees.
+1005 (4) No individual or entity other than a member state
+1006 may enforce this compact against the commission.
+1007 §34-7B-92 Effective date, withdrawal, and amendment.
+1008 (a) The compact shall come into effect on the date on
+Page 36
+
+(a) The compact shall come into effect on the date on
+HB279 INTRODUCED
+1009 which the compact statute is enacted into law in the seventh
+1010 member state.
+1011 (1) On or after the effective date of the compact, the
+1012 commission shall convene and review the enactment of each of
+1013 the charter member states to determine if the statute enacted
+1014 by each such charter member state is materially different than
+1015 the model compact statute.
+1016 a. A charter member state whose enactment is found to
+1017 be materially different from the model compact statute shall
+1018 be entitled to the default process set forth in Section
+1019 34-7B-91.
+1020 b. If any member state is later found to be in default,
+1021 or is terminated or withdraws from the compact, the commission
+1022 shall remain in existence, and the compact shall remain in
+1023 effect even if the number of member states should be less than
+1024 seven.
+1025 (2) Member states enacting the compact after the
+1026 charter member states shall be subject to the process set
+1027 forth in Section 34-7B-88(c)(24) to determine if their
+1028 enactments are materially different from the model compact
+1029 statute and whether they qualify for participation in the
+1030 compact.
+1031 (3) All actions taken for the benefit of the commission
+1032 or in furtherance of the purposes of the administration of the
+1033 compact prior to the effective date of the compact or the
+1034 commission coming into existence shall be considered actions
+1035 of the commission unless specifically repudiated by the
+1036 commission.
+Page 37
+
+commission.
+HB279 INTRODUCED
+1037 (4) Any state that joins the compact shall be subject
+1038 to the commission's rules and bylaws as they exist on the date
+1039 on which the compact becomes law in that state. Any rule that
+1040 has been previously adopted by the commission shall have the
+1041 full force and effect of law on the day the compact becomes
+1042 law in that state.
+1043 (b) Any member state may withdraw from this compact by
+1044 enacting a statute repealing that state's enactment of the
+1045 compact.
+1046 (1) A member state's withdrawal shall not take effect
+1047 until 180 days after the enactment of the repealing statute.
+1048 (2) Withdrawal shall not affect the continuing
+1049 requirement of the withdrawing state's licensing authority to
+1050 comply with the investigative and adverse action reporting
+1051 requirements of this compact prior to the effective date of
+1052 withdrawal.
+1053 (3) Upon the enactment of a statute withdrawing from
+1054 this compact, a state shall immediately provide notice of the
+1055 withdrawal to all licensees within that state. Notwithstanding
+1056 any subsequent statutory enactment to the contrary, the
+1057 withdrawing state shall continue to recognize all licenses
+1058 granted pursuant to this compact for a minimum of 180 days
+1059 after the date of such notice of withdrawal.
+1060 (c) Nothing contained in this compact shall be
+1061 construed to invalidate or prevent any licensure agreement or
+1062 other cooperative arrangement between a member state and a
+1063 non-member state that does not conflict with the provisions of
+1064 this compact.
+Page 38
+
+this compact.
+HB279 INTRODUCED
+1065 (d) This compact may be amended by the member states.
+1066 No amendment to this compact shall become effective and
+1067 binding upon any member state until it is enacted into the
+1068 laws of all member states.
+1069 §34-7B-93 Construction and severability.
+1070 (a) This compact and the commission's rulemaking
+1071 authority shall be liberally construed to effectuate the
+1072 purposes and the implementation and administration of the
+1073 compact. Provisions of the compact expressly authorizing or
+1074 requiring the adoption of rules shall not be construed to
+1075 limit the commission's rulemaking authority solely for those
+1076 purposes.
+1077 (b) The provisions of this compact shall be severable,
+1078 and if any phrase, clause, sentence, or provision of this
+1079 compact is held by a court of competent jurisdiction to be
+1080 contrary to the constitution of any member state, a state
+1081 seeking participation in the compact, or of the United States,
+1082 or the applicability thereof to any government, agency,
+1083 person, or circumstance is held to be unconstitutional by a
+1084 court of competent jurisdiction, the validity of the remainder
+1085 of this compact, and the applicability thereof to any other
+1086 government, agency, person, or circumstance shall not be
+1087 affected thereby.
+1088 (c) Notwithstanding subsection (b), the commission may
+1089 deny a state's participation in the compact or, in accordance
+1090 with the requirements of Section 34-7B-91, terminate a member
+1091 state's participation in the compact if it determines that a
+1092 constitutional requirement of a member state is a material
+Page 39
+
+constitutional requirement of a member state is a material
+HB279 INTRODUCED
+1093 departure from the compact. Otherwise, if this compact shall
+1094 be held to be contrary to the constitution of any member
+1095 state, the compact shall remain in full force and effect as to
+1096 the remaining member states and in full force and effect as to
+1097 the member state affected as to all severable matters.
+1098 §34-7B-94 Consistent effect and conflict with other
+1099 state laws.
+1100 (a) Nothing herein shall prevent or inhibit the
+1101 enforcement of any other law of a member state that is not
+1102 inconsistent with the compact.
+1103 (b) Any laws, statutes, rules, or other legal
+1104 requirements in a member state in conflict with the compact
+1105 are superseded to the extent of the conflict.
+1106 (c) All permissible agreements between the commission
+1107 and the member states are binding in accordance with their
+1108 terms.
+1109 (d) The purpose of this compact is to facilitate
+1110 multistate licensure for estheticians. Nothing herein shall
+1111 subject a member state to any laws, rules, or policies from
+1112 any other member state beyond the intended purpose of this
+1113 compact.
+1114 (e) Nothing herein shall require any member state to
+1115 adopt additional laws, rules, or policies beyond the intended
+1116 purpose of this compact.
+1117 Section 2. This act shall become effective on October
+1118 1, 2026.
+Page 40

@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB274 INTRODUCED
+1 HB274
+2 FKRRXDD-1
+3 By Representative Simpson
+4 RFD: Public Safety and Homeland Security
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+FKRRXDD-1 01/07/2026 THR (L)THR 2025-2495
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, persons are prohibited from
+6 operating unmanned aircraft systems within a certain
+7 distance of a correctional facility, with certain
+8 specified exemptions.
+9 This bill would authorize the Department of
+10 Corrections to take reasonable and necessary measures
+11 against unmanned aircraft systems operating in
+12 violation of the prohibition against operating unmanned
+13 aircraft systems near a correctional facility.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to crimes and offenses; to add Section
+21 13A-7-94.1 to the Code of Alabama 1975; to authorize the
+22 Department of Corrections to take certain actions regarding
+23 unmanned aircraft systems.
+24 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+25 Section 1. Section 13A-7-94.1 is added to the Code of
+26 Alabama 1975, to read as follows:
+27 §13A-7-94.1
+28 (a) The Department of Corrections may take reasonable
+Page 1
+
+(a) The Department of Corrections may take reasonable
+HB274 INTRODUCED
+29 and necessary measures against an unmanned aircraft system
+30 operating in violation of this article, including, but not
+31 limited to, all of the following measures:
+32 (1) Jamming.
+33 (2) Hacking.
+34 (3) Physical capture.
+35 (4) Any other reasonable mitigation measure undertaken
+36 to neutralize, intercept, disable, or disrupt an unmanned
+37 aircraft system.
+38 (b) The Department of Corrections and its officers,
+39 employees, and agents shall be exempt from liability for any
+40 injury or loss to any person or property, including any
+41 unmanned aircraft system, weapons, or contraband, resulting
+42 from measures undertaken pursuant to this section.
+43 (c) This section shall not be construed to eliminate,
+44 alter, or otherwise modify any other immunity or defense
+45 available to the Department of Corrections or its officers,
+46 employees, or agents established by law.
+47 Section 2. This act shall become effective on June 1,
+48 2026.
+Page 2

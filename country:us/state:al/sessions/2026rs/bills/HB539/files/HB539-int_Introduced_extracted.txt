@@ -1,0 +1,186 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB539 INTRODUCED
+1 HB539
+2 5VXW53M-1
+3 By Representative Robbins
+4 RFD: State Government
+5 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+5VXW53M-1 02/24/2026 DJ (L)DJ 2026-758
+1
+2
+3
+4 SYNOPSIS:
+5 Under current law, a municipality, a county, or
+6 a public industrial authority may abate the state and
+7 local portions of certain taxes.
+8 This bill would require the recommendation of
+9 the Secretary of Commerce and approval of the Governor
+10 for a municipality, a county, or a public industrial
+11 authority to abate the state portion of these taxes.
+12 This bill would make technical corrections.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to abatements; to amend Section 40-9B-5, Code
+20 of Alabama 1975, to prohibit a municipality, a county, or a
+21 public industrial authority from abating the state portion of
+22 certain taxes unless the abatement is recommended by the
+23 Secretary of Commerce and approved by the Governor; and to
+24 make technical corrections.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 40-9B-5, Code of Alabama 1975, is
+27 amended to read as follows:
+28 "§40-9B-5
+Page 1
+
+"§40-9B-5
+HB539 INTRODUCED
+29 (a) Subject to the geographical or, jurisdictional, or
+30 other limitations specified in subsections (b), (c), and (d),
+31 the governing body of a municipality, a county, or a public
+32 industrial authority may grant abatements of allthe non-state
+33 portion of the taxes allowed to be abated under Section
+34 40-9B-4 with respect to private use industrial property.
+35 (b)(1) The abatements authorized to be granted pursuant
+36 to subsection (a) for construction related transaction taxes
+37 and for ad valorem taxes for a period not to exceed 10 years
+38 may be granted:
+39 a. By the governing body of a municipality, except as
+40 otherwise provided herein, with respect to private use
+41 industrial property located within the limits of the
+42 municipality or within the police jurisdiction of the
+43 municipality; provided, however, if a municipality has a
+44 corresponding municipal tax, the municipal governing body may
+45 only grant an abatement of a county tax if the municipality
+46 has also abated the corresponding municipal tax, or, if the
+47 municipality does not have a corresponding municipal tax, the
+48 municipal governing body may abate a county tax only if the
+49 governing body of the county, by resolution adopted by a
+50 majority of its members, has authorized the municipality to
+51 abate the eligible county tax described in the resolution.;
+52 b. By the governing body of a county, with respect to
+53 private use industrial property located in the county and not
+54 within a municipality or the police jurisdiction of a
+55 municipality, unless consented to by resolution of the
+56 governing body of the municipality.; or
+Page 2
+
+governing body of the municipality.; or
+HB539 INTRODUCED
+57 c. By the governing body of a public industrial
+58 authority, except as otherwise provided herein, with respect
+59 to private use industrial property located within the
+60 jurisdiction of the public industrial authority; provided,
+61 however, if the municipality has a corresponding municipal
+62 tax, a municipal public industrial authority may grant an
+63 abatement of a county tax only if the municipal authority has
+64 also abated the corresponding municipal tax or, if the
+65 municipality does not have a corresponding municipal tax, the
+66 municipal authority may abate a county tax only if the
+67 governing body of a county, by resolution adopted by a
+68 majority of its members, has authorized the public industrial
+69 authority of the municipality to abate any eligible county tax
+70 described in the resolution.
+71 (2) The abatements authorized to be granted pursuant to
+72 subsection (a) for ad valorem taxes for a period longer than
+73 10 years may be granted:
+74 a. By the governing body of a municipality, with
+75 respect to private use industrial property located within the
+76 limits of the municipality or within the police jurisdiction
+77 of the municipality, but only as to municipal noneducational
+78 taxes.;
+79 b. By the governing body of a county, with respect to
+80 private use industrial property located in the county, but
+81 only as to county noneducational taxes.; or
+82 c. By the Governor, with respect to private use
+83 industrial property located in the state, but only as to state
+84 taxes.
+Page 3
+
+taxes.
+HB539 INTRODUCED
+85 (3) The governing body of a county and a municipality
+86 may separately authorize one or more public industrial
+87 authorities to provide by resolution for such consent on its
+88 behalf.
+89 (3)(4) Notwithstanding the provisions of this
+90 subsection, abatements authorized to be granted pursuant to
+91 subsection (a) for data processing centers may be granted in
+92 accordance with subdivision (1) without regard to the time
+93 limitation stated in subdivision (1).
+94 (c) If a tax is abated pursuant to this chapter, any
+95 payment, contribution, or other financial or in-kind award
+96 received from a private user or related party shall be divided
+97 between the county and municipality whose taxes were abated
+98 based upon the tax proceeds which would have been paid if the
+99 taxes had not been abated, unless the party receiving such
+100 award can prove that the award was not related to the granting
+101 of any abatement. In addition, any county or municipality
+102 whose taxes are subject to abatement as provided in this
+103 chapter, by resolution adopted by affirmative vote of a
+104 majority of its members, may elect to waive the requirements
+105 of this subsection.
+106 (d) Any abatement of county taxes granted by a
+107 municipality or municipal industrial authority shall not be
+108 valid until the expiration of: (1)(i) 10 days following the
+109 date of physical delivery to the county commission; or (2)(ii)
+110 13 days following the date of mailing by certified mail to the
+111 county commission of a copy of the resolution granting such
+112 abatement. Proof of delivery by affidavit of service, in the
+Page 4
+
+abatement. Proof of delivery by affidavit of service, in the
+HB539 INTRODUCED
+113 case of physical delivery, or by certified mail receipt, in
+114 the case of mailing by certified mail, shall be furnished to
+115 the Department of Revenue at the same time as the filing of
+116 the abatement agreement under Section 40-9B-6. If the
+117 procedures herein prescribed are followed, any such abatement
+118 shall be effective as of the date granted.
+119 (e)(1) The governing body of a municipality, a county,
+120 or a public industrial authority may grant abatements of the
+121 state portion of the taxes allowed to be abated under Section
+122 40-9B-4 with respect to private use industrial property only
+123 upon recommendation of the Secretary of Commerce and approval
+124 of the Governor, as provided by this section.
+125 (2) A municipality, a county, or a public industrial
+126 authority seeking to grant an abatement of state taxes shall
+127 request the abatement in writing to the Secretary of Commerce,
+128 which shall include the taxes proposed to be abated, the
+129 duration of the abatement, and a proposed fiscal analysis of
+130 the tax loss and revenue generated.
+131 (3) The secretary shall review the information provided
+132 in subdivision (2) to:
+133 a. Determine if the project meets any criteria set by
+134 the Secretary of Commerce, including return-on-investment; and
+135 b. Confirm if the company, or any related company, has
+136 defaulted on a project agreement or similar agreement or any
+137 economic incentive agreement at any time during the last ten
+138 years.
+139 (4) After the review in subdivision (3), the secretary
+140 may recommend the abatement of the state taxes to the
+Page 5
+
+may recommend the abatement of the state taxes to the
+HB539 INTRODUCED
+141 Governor. After receipt of a recommendation, the Governor may
+142 approve or disapprove the abatement.
+143 (5) The secretary shall forward notice of approval or
+144 disapproval of the abatement to the applicable local taxing
+145 authority within 30 days of the action."
+146 Section 2. This act shall become effective on October
+147 1, 2026.
+Page 6

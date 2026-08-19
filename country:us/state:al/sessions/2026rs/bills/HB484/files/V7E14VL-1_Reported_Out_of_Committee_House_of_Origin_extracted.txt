@@ -1,0 +1,187 @@
+Title: 
+Official Title: 
+Source: versions - Reported Out of Committee House of Origin
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+V7E14VL-1 03/11/2026 JWB (H) HSE 2026-879
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB484
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to crimes and offenses; to amend Section
+10 13A-7-4.3, Code of Alabama 1975, as last amended by Act
+11 2025-64, 2025 Regular Session; to revise the crime of
+12 unauthorized entry to a critical infrastructure facility to
+13 remove reservoirs that meet the definition of public waters
+14 from the list of critical infrastructure facilities.
+15 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+16 Section 1. Section 13A-7-4.3, Code of Alabama 1975, as
+17 last amended by Act 2025-64, 2025 Regular Session, is amended
+18 to read as follows:
+19 "§13A-7-4.3
+20 (a) For the purposes of this section, the following
+21 terms have the following meanings:
+22 (1) CRITICAL INFRASTRUCTURE. A system or asset, whether
+23 physical or virtual, so vital to the United States that the
+24 incapacity or destruction of the system or asset would have a
+25 debilitating impact on security, national economic security,
+26 national public health, or national public safety.
+27 (2) CRITICAL INFRASTRUCTURE FACILITY. The term
+28 includes, but is not limited to, any of the following,
+Page 1
+
+includes, but is not limited to, any of the following,
+V7E14VL-1 03/11/2026 JWB (H) HSE 2026-879
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB484
+29 including any critical infrastructure located on or in any of
+30 the following types of facilities:
+31 a. A chemical, polymer, or rubber manufacturing
+32 facility.
+33 b. A pipeline.
+34 c. A refinery.
+35 d. An electrical power generating facility.
+36 e. The area surrounding an electrical power generating
+37 facility.
+38 f. An electrical transmission tower.
+39 g. An electrical substation or distribution substation.
+40 h. An electric utility control center.
+41 i. Electrical communication equipment.
+42 j. An electrical switching station.
+43 k. Electric power lines, power storage equipment, or
+44 other utility equipment.
+45 l. Any portion of a public water system or public
+46 wastewater treatment system, except for any reservoir located
+47 within 50 miles of the Gulf of America that meets the
+48 definition of public waters pursuant to Section 9-11-80.
+49 m. A natural gas transmission compressor station.
+50 n. A liquefied natural gas (LNG) terminal or storage
+51 facility.
+52 o. A natural gas distribution facility, including, but
+53 not limited to, a pipeline interconnection, a city gate or
+54 town border station, a metering station, aboveground piping, a
+55 regular station, or a natural gas or hydrocarbon storage or
+56 production facility.
+Page 2
+
+production facility.
+V7E14VL-1 03/11/2026 JWB (H) HSE 2026-879
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB484
+57 p. A mining operation.
+58 q. Beneficiation infrastructure or mining
+59 infrastructure.
+60 r. A transportation facility such as a port, airport,
+61 railroad operating facility, or trucking terminal.
+62 s. Communications service infrastructure or facilities,
+63 as defined under Section 37-17-1.
+64 t. A gas processing plant, including a plant used in
+65 the processing, treatment, or fractionation of natural gas or
+66 natural gas liquids.
+67 u. A steelmaking facility that uses an electric arc
+68 furnace.
+69 v. A dam that is regulated by the state or federal
+70 government.
+71 w. A crude oil or refined products storage or
+72 distribution facility, including, but not limited to, a valve
+73 site, a pipeline interconnection, a pump station, a metering
+74 station, below ground piping, above ground piping, or a truck
+75 loading or offloading facility.
+76 x. A defense contractor facility.
+77 y. A pulp and paper manufacturing facility.
+78 (3) FRAUDULENT DOCUMENTS FOR IDENTIFICATION PURPOSES. A
+79 document that is presented as being a bona fide document that
+80 provides personal identification information but which, in
+81 fact, is false, forged, altered, or counterfeit.
+82 (4) PERSON. An individual, trust, estate, corporation,
+83 partnership, limited partnership, limited liability
+84 partnership, limited liability company, or unincorporated
+Page 3
+
+partnership, limited liability company, or unincorporated
+V7E14VL-1 03/11/2026 JWB (H) HSE 2026-879
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB484
+85 nonprofit association having a separate legal existence under
+86 state law.
+87 (5) UNMANNED AIRCRAFT SYSTEM. A powered, aerial vehicle
+88 that does not carry a human operator, uses aerodynamic forces
+89 to provide vehicle lift, may fly autonomously through an
+90 onboard computer or be piloted remotely, and may be expendable
+91 or recoverable. The term does not include a satellite orbiting
+92 the Earth or a spacecraft beyond Earth's atmosphere and may
+93 not be construed to implicate the provider of a
+94 telecommunications link between an owner or operator of an
+95 unmanned aircraft system and the unmanned aircraft system.
+96 (b) A person commits the crime of unauthorized entry of
+97 a critical infrastructure facility if the person does any of
+98 the following:
+99 (1) Intentionally enters without authority into any
+100 structure or onto any premises belonging to another that
+101 constitutes in whole or in part a critical infrastructure
+102 facility that is completely enclosed by any type of physical
+103 barrier or clearly marked with a sign or signs that are posted
+104 in a conspicuous manner and indicate that unauthorized entry
+105 is forbidden.
+106 (2) Uses or attempts to use a fraudulent document for
+107 identification for the purpose of entering a critical
+108 infrastructure facility.
+109 (3) Remains on the premises of a critical
+110 infrastructure facility after having been forbidden to do so,
+111 either orally or in writing, by any owner, lessee, or
+112 custodian of the property or by any other authorized person.
+Page 4
+
+custodian of the property or by any other authorized person.
+V7E14VL-1 03/11/2026 JWB (H) HSE 2026-879
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB484
+113 (4) Intentionally enters into a restricted area of a
+114 critical infrastructure facility which is marked as a
+115 restricted or limited access area, or which is completely
+116 enclosed by any type of physical barrier, when the person is
+117 not authorized to enter the restricted or limited access area.
+118 (c) A person who commits the crime of unauthorized
+119 entry of a critical infrastructure facility is guilty of a
+120 Class A misdemeanor.
+121 (d) If a person intentionally, recklessly, or with
+122 criminal negligence injures, removes, destroys, or breaks
+123 critical infrastructure property, or otherwise interrupts or
+124 interferes with the operations of a critical infrastructure
+125 asset, the person is guilty of a Class C felony.
+126 (e) A person who commits the crime of unauthorized
+127 entry of a critical infrastructure facility while possessing
+128 or operating an unmanned aircraft system with an attached
+129 weapon, firearm, explosive, destructive device, or ammunition
+130 is guilty of a Class C felony.
+131 (f) Nothing in this section shall be construed to
+132 prevent lawful assembly and peaceful and orderly petition for
+133 the redress of grievances, including, but not limited to, any
+134 labor dispute between any employer and its employee.
+135 (g) Nothing in this section shall be construed to
+136 prohibit the state, a county, or a municipality from taking
+137 any lawful action on their respective rights-of-way.
+138 (h) Nothing in subsection (b) or (d) shall apply to any
+139 act committed by a person within the scope of his or her
+140 employment. For purposes of this subsection, the scope of a
+Page 5
+
+employment. For purposes of this subsection, the scope of a
+V7E14VL-1 03/11/2026 JWB (H) HSE 2026-879
+House Transportation, Utilities and Infrastructure
+Reported Substitute for HB484
+141 person's employment shall include the performance of actions
+142 that are necessary for the performance of a lawful work
+143 assignment."
+144 Section 2. This act shall become effective on October
+145 1, 2026.
+Page 6

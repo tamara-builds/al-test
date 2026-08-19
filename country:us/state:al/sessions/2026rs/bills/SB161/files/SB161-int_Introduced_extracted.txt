@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB161 INTRODUCED
+1 SB161
+2 I3YKQ66-1
+3 By Senators Stewart, Coleman-Madison, Smitherman, Coleman,
+4 Figures, Orr, Stutts, Jones, Hatcher, Singleton
+5 RFD: Judiciary
+6 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+I3YKQ66-1 01/13/2026 CMH (L)bm 2026-118
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an individual convicted of a
+6 capital offense who is serving a term of imprisonment
+7 or awaiting execution may request a post-conviction DNA
+8 test of specific evidence, upon petition meeting
+9 various requirements, to the circuit court. The court
+10 must order the DNA test upon a finding by the court
+11 that the specific evidence that is the subject of the
+12 DNA testing is still in existence and the evidence was
+13 not previously subject to DNA testing.
+14 Existing law also provides that an individual
+15 convicted of a capital offense must make a motion to
+16 apply for post-conviction DNA testing as provided by
+17 the Alabama Rules of Criminal Procedure or within 12
+18 months of the enactment of the original act (Act
+19 2009-768).
+20 This bill would provide that an individual
+21 convicted of a capital or noncapital offense who is
+22 serving a term of imprisonment may request a
+23 post-conviction DNA test and would delete any time
+24 limitations currently existing for motions for
+25 post-conviction DNA testing.
+26
+27
+28 A BILL
+Page 1
+
+A BILL
+SB161 INTRODUCED
+29 TO BE ENTITLED
+30 AN ACT
+31
+32 Relating to criminal procedure; to amend Section
+33 15-18-200, Code of Alabama 1975, to provide for
+34 post-conviction DNA testing of inmates convicted of noncapital
+35 offenses; and to remove any time limitations on motions for
+36 such post-conviction relief.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Section 15-18-200, Code of Alabama 1975, is
+39 amended to read as follows:
+40 "§15-18-200
+41 (a) An individual convicted of a capitalany offense who
+42 is serving a term of imprisonment or awaiting execution of a
+43 sentence of death, through written motion to the circuit court
+44 that entered the judgment of sentence, may apply for the
+45 performance of forensic deoxyribonucleic acid (DNA) testing on
+46 specific evidence as provided in this section, if that
+47 evidence was secured in relation to the investigation or
+48 prosecution that resulted in the conviction of the applicant,
+49 is still available for testing as of the date of the motion,
+50 forensic DNA testing was not performed on the case at the time
+51 of the initial trial, and the results of the forensic DNA
+52 testing, on its face, would demonstrate the convicted
+53 individual's factual innocence of the offense convicted. The
+54 filing of athe motion as provided in this subsection shall not
+55 automatically stay an execution of a death sentence.
+56 (b) Upon receipt of a motion for DNA testing, the
+Page 2
+
+(b) Upon receipt of a motion for DNA testing, the
+SB161 INTRODUCED
+57 circuit court shall notify the state and shall afford the
+58 state an opportunity to respond to the motion.
+59 (c) After notice to the state and an opportunity to
+60 respond, the circuit court may order forensic DNA testing and
+61 analysis if the court finds that all of the following apply:
+62 (1) The specific evidence which the petitioner has
+63 requested be subject to forensic DNA testing and analysis is
+64 still in existence and is in a condition that allows forensic
+65 DNA testing and analysis to be conducted which would yield
+66 accurate and reliable results.
+67 (2) The evidence was not previously subjected to
+68 nuclear forensic DNA testing or was not subjected to another
+69 forensic DNA technology, and which may resolve an issue not
+70 previously resolved by any prior forensic DNA testing and
+71 analysis. The type of forensic DNA testing requested must be
+72 generally accepted in the forensic community with the results
+73 eligible for inclusion in the National DNA Index System of the
+74 Federal Bureau of Investigation (FBI).
+75 (d)(c) Upon receipt of a motion for DNA testing or
+76 notice of a motion for DNA testing, the state and the circuit
+77 court shall take any steps reasonably necessary to ensure that
+78 any remaining biological material in the possession of either
+79 the state or the court is preserved pending the completion of
+80 proceedings under this section. In the event biological
+81 material is not available or that reliable testing is not
+82 possible due to the condition or absence of the biological
+83 material, the court shall dismiss the applicationmotion
+84 without prejudice.
+Page 3
+
+without prejudice.
+SB161 INTRODUCED
+85 (e)(d) A motion for DNA testing shall contain all of
+86 the following items:
+87 (1) A clear and specific statement of how the requested
+88 forensic DNA testing would prove the factual innocence of the
+89 petitioner of the offense for which the petitioner was
+90 convicted, under penalty of perjury.
+91 (2) A statement of the specific evidence that was
+92 secured in relation to the investigation or prosecution that
+93 resulted in the conviction of the petitioner to be tested,
+94 which shall include a statement that:
+95 a. The evidence, which potentially contains DNA, was
+96 obtained in relation to the crime and subsequent indictment,
+97 which resulted in the petitioner's conviction.
+98 b. The evidence was not subjected to DNA testing
+99 because the existence of the evidence was unknown to the
+100 petitioner or to the petitioner's trial attorney prior to
+101 trial or because the technology for the testing was not
+102 available at the time of trial.
+103 c. A description of the evidence to be tested and, if
+104 known, its present location, its origin and the date, time,
+105 and means of its original collection.
+106 d. The results of any DNA or other biological evidence
+107 testing that was conducted in relation to the investigation or
+108 prosecution that resulted in the conviction of the petitioner
+109 and entered as evidence at trial by either the prosecution or
+110 the defense, if known.
+111 e. If known, the names, addresses, and telephone
+112 numbers of all personsindividuals or entities who are known or
+Page 4
+
+numbers of all personsindividuals or entities who are known or
+SB161 INTRODUCED
+113 believed to have possession of any evidence described by
+114 paragraph a. or b., and any personsindividuals or entities who
+115 have provided any of the information contained in the
+116 petitioner's motion, indicating which personindividual or
+117 entity has which items of evidence or information.
+118 f. The names, addresses, and telephone numbers of all
+119 personsindividuals or entities who may potentially testify for
+120 the petitioner and a description of the subject matter and
+121 summary of the facts to which each personindividual or entity
+122 may testify in the event the circuit court determines an
+123 evidentiary hearing would be appropriate.
+124 (3) Prima facie evidence demonstrating that the
+125 identity of the perpetrator was at issue in the trial that
+126 resulted in the conviction of the petitioner and that DNA
+127 testing of the specified evidence would, assuming exculpatory
+128 results, would demonstrate the factual innocence of the
+129 applicantpetitioner of the offense for which the petitioner
+130 was convicted.
+131 (f)(e)(1) Except as provided in subdivision (2), the
+132 circuit court shall order the testing requested in a motion
+133 for DNA testing, under reasonable conditions designed to
+134 protect the interest of the state and the integrity of the
+135 evidence and testing process, upon a determination, after
+136 review of the record of the trial of the applicant, of all of
+137 the followingthat all of the following conditions have been
+138 satisfied:
+139 a. That theThe requirements of subsection (c)(d) have
+140 been met.
+Page 5
+
+been met.
+SB161 INTRODUCED
+141 b. That theThe evidence to be tested is in the
+142 possession of the state or the court and has been subject to a
+143 chain of custody sufficient to establish that it has not been
+144 altered in any material respect.
+145 c. That the motion is made in a timely manner pursuant
+146 to the Alabama Rules of Criminal Procedure Rule 32.2(c), or
+147 within 12 months of August 1, 2009.
+148 d. That thec. The motion is for the purpose of
+149 demonstrating the actual innocence of the applicant and not to
+150 delay the execution of sentence or administration of justice.
+151 (2) The court may not order the testing requested in a
+152 motion for DNA testing if, after review of the petition, the
+153 state's response, if required, and the record of the trial of
+154 the applicant, the court determines that there is no
+155 reasonable possibility that the testing will produce
+156 exculpatory evidence that would exonerate the applicant of the
+157 offense for which the applicant was convicted.
+158 (f) Notwithstanding any provision of law to the
+159 contrary, when considering a motion for DNA testing, the court
+160 shall not give consideration to any limitations period that
+161 may otherwise be provided for by law. To the extent that Rule
+162 32.2(c) of the Alabama Rules of Criminal Procedure is in
+163 conflict with this subsection, that rule is hereby superseded.
+164 (g)(1) Any DNA testing ordered under this section shall
+165 be conducted by the Department of Forensic Sciences or a
+166 laboratory mutually selected by the state and the petitioner,
+167 or if the state and the applicant are unable to agree on a
+168 laboratory, a laboratory selected by the court that ordered
+Page 6
+
+laboratory, a laboratory selected by the court that ordered
+SB161 INTRODUCED
+169 the testing. Any laboratory selected to conduct the testing
+170 shall be accredited by a national forensic organization and
+171 operate in compliance with the Quality Assurance Standards for
+172 Forensic DNA Testing Laboratories issued by the Director of
+173 the FBI.
+174 (2) The costs of any testing ordered under this section
+175 shall be paid by the applicantpetitioner, or in the case of an
+176 applicanta petitioner who is indigent, and if the testing is
+177 not performed by the Department of Forensic Sciences, by the
+178 State Fair Trial Tax Fund as ordered by the court. If an
+179 applicanta petitioner is deemed by the circuit court to be
+180 indigent and the circuit court orders the Department of
+181 Forensic Sciences to perform the forensic DNA testing and
+182 analysis, then the costs of testing ordered under this section
+183 shall be paid from the Alabama DNA Database Fund, as created
+184 in Section 36-18-32.
+185 (3)(h) The circuit court may appoint counsel for an
+186 indigent petitioner solely for the purpose of proceeding under
+187 this section, provided nothing in this subsection
+188 shallprovision providing for post-conviction DNA testing. This
+189 provision is not to be construed as creating the right to the
+190 appointment of counsel for an Alabama Rules of Criminal
+191 Procedure Rule 32 post-conviction appeal and is to. The
+192 representation of the appointed counsel shall be limited to
+193 the sole issue of petitioning for possible post-conviction DNA
+194 testing.
+195 (h)(i)(1) If the DNA testing conducted under this
+196 section produces inconclusive evidence or evidence that is
+Page 7
+
+section produces inconclusive evidence or evidence that is
+SB161 INTRODUCED
+197 unfavorable to the petitioner, the court shall dismiss the
+198 petition.
+199 (2) If the DNA testing conducted under this section
+200 produces conclusive evidence of the petitioner's factual
+201 innocence of the offense convicted, the petitioner, during a
+202 60-day period beginning on the date on which the petitioner is
+203 notified of the test results, may file a petition to the
+204 circuit court that ordered the testing for post-conviction
+205 relief pursuant to Rule 32.1 of the Alabama Rules of Criminal
+206 Procedure. Upon receipt of a petition, the circuit court that
+207 ordered the testing shall consider the petition pursuant to
+208 Rule 32, et seq. of the Alabama Rules of Criminal Procedure."
+209 Section 2. This act shall become effective on October
+210 1, 2026.
+Page 8

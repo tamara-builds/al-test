@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB654 INTRODUCED
+1 HB654
+2 G35DD22-1
+3 By Representative Hammett
+4 RFD: State Government
+5 First Read: 31-Mar-26
+Page 0
+
+First Read: 31-Mar-26
+G35DD22-1 03/27/2026 ZAK (L)ZAK 2026-1401
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama Administrative
+6 Procedure Act (APA) defines the term "rule" and
+7 provides that the adoption of a new rule, and the
+8 amendment of an existing rule, by an agency is subject
+9 to the procedural process established in the APA, with
+10 certain exceptions.
+11 This definition of "rule" exempts from the
+12 definition the adoption of hunting and fishing seasons
+13 and bag and creel limits by the Commissioner of the
+14 Department of Conservation and Natural Resources.
+15 This bill would remove the exemption of these
+16 seasons and limits from the definition of "rule,"
+17 thereby subjecting them to the procedural process
+18 established in the APA.
+19 This bill would also make nonsubstantive,
+20 technical revisions to update the existing code
+21 language to current style.
+22
+23
+24 A BILL
+25 TO BE ENTITLED
+26 AN ACT
+27
+28 Relating to the Alabama Administrative Procedure Act;
+Page 1
+
+Relating to the Alabama Administrative Procedure Act;
+HB654 INTRODUCED
+29 to amend Section 41-22-3, Code of Alabama 1975, to remove the
+30 exemption of hunting and fishing seasons and bag and creel
+31 limits adopted by the Commissioner of Conservation and Natural
+32 Resources from the definition of "rule" for purposes of the
+33 Alabama Administrative Procedure Act and the procedural
+34 process for adopting and amending rules established therein;
+35 and to make nonsubstantive, technical revisions to update the
+36 existing code language to current style.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Section 41-22-3, Code of Alabama 1975, is
+39 amended to read as follows:
+40 "§41-22-3
+41 The following words and phrases when used inFor
+42 purposes of this chapter shall, the following terms have the
+43 following meanings respectively ascribed to them in this
+44 section, except when the context otherwise requires:
+45 (1) AGENCY. Every board, bureau, commission,
+46 department, officer, or other administrative office or unit of
+47 the state, including the Alabama Department of Environmental
+48 Management, other than the Legislature and its agencies, the
+49 Alabama State Port Authority, the courts, the Alabama Public
+50 Service Commission, or the State Banking Department, whose
+51 administrative procedures are governed by Sections 5-2A-8 and
+52 5-2A-9. The term does not include boards of trustees of
+53 postsecondary institutions, boards of plans administered by
+54 public pension systems, counties, municipalities, or any
+55 agencies of local governmental units, unless they are
+56 expressly made subject to this chapter by general or special
+Page 2
+
+expressly made subject to this chapter by general or special
+HB654 INTRODUCED
+57 law.
+58 (2) COMMITTEE. The Joint Committee on Administrative
+59 Rule Review, comprised of the members of the Legislative
+60 Council, or any successor of the Joint Committee on
+61 Administrative Rule Review.
+62 (3) CONTESTED CASE. A proceeding, including, but not
+63 restricted to, ratemaking, price fixing, and licensing, in
+64 which the legal rights, duties, or privileges of a party are
+65 required by law to be determined by an agency after an
+66 opportunity for hearing. The term does not include
+67 intra-agency personnel actions; and does not include those
+68 hearings or proceedings in which the Alabama Board of Pardons
+69 and Paroles considers the granting or denial of pardons,
+70 paroles, restoration of civil and political rights, or
+71 remission of fines and forfeitures.
+72 (4) LICENSE. The whole or part of any agency franchise,
+73 permit, certificate, approval, registration, charter, or
+74 similar form of permission required by law, but not. The term
+75 does not include a license required solely for revenue
+76 purposes when issuance of the license is merely a ministerial
+77 act.
+78 (5) LICENSING. The agency process respecting the grant,
+79 denial, renewal, revocation, suspension, annulment,
+80 withdrawal, or amendment of a license or imposition of terms
+81 for the exercise of a license.
+82 (6) PARTY. Each person or agency named or admitted as a
+83 party or properly seeking and entitled as a matter of right,
+84 whether established by constitution, statute, or agency
+Page 3
+
+whether established by constitution, statute, or agency
+HB654 INTRODUCED
+85 regulation or otherwise, to be admitted as a party, or
+86 admitted as an intervenor under Section 41-22-14. The term
+87 includes any limited form of participation in agency
+88 proceedings authorized by agency rule for persons who are not
+89 eligible to become parties.
+90 (7) PERSON. Any individual, partnership, corporation,
+91 association, governmental subdivision, or public or private
+92 organization of any character other than an agency.
+93 (8) QUORUM. No less than a majority of the members of a
+94 multimember agency shall constitute a quorum authorized to act
+95 in the name of the agency, unless provided otherwise by
+96 statute.
+97 (9) RULE. Each agency rule, regulation, standard, or
+98 statement of general applicability that implements,
+99 interprets, or prescribes law or policy, or that describes the
+100 organization, procedure, or practice requirements of any
+101 agency and includes any form which that imposes any
+102 requirement or solicits any information not specifically
+103 required by statute or by an, existing rule, or by federal
+104 statute or by federal, rule, or regulation;, provided,
+105 however, all forms shall be filed with the secretary of the
+106 agency and with the Legislative Services Agency, Legal
+107 Division, and all forms, except intergovernmental,
+108 interagency, and intra-agency forms which that do not affect
+109 the rights of the public and emergency forms adopted pursuant
+110 to Section 41-22-5, shall be published in the Agency
+111 Administrative Code. The term includes the amendment or repeal
+112 of all existing rules, but. The term does not include any of
+Page 4
+
+of all existing rules, but. The term does not include any of
+HB654 INTRODUCED
+113 the following:
+114 a. Statements concerning only the internal management
+115 of an agency and not affecting private rights or procedures
+116 available to the public.
+117 b. Declaratory rulings issued pursuant to Section
+118 41-22-11.
+119 c. Intergovernmental, interagency, and intra-agency
+120 memoranda, directives, manuals, or other communications which
+121 that do not substantially affect the legal rights of, or
+122 procedures available to, the public or any segment thereof.
+123 d. Determinations, decisions, orders, statements of
+124 policy, and interpretations that are made in contested cases.
+125 e. An order which that is directed to a specifically
+126 named person or to a group of specifically named persons which
+127 does not constitute a general class, and the order is served
+128 on the person or persons to whom it is directed by the
+129 appropriate means applicable thereto. The fact that the named
+130 person who is being regulated serves a group of unnamed
+131 persons who will be affected does not make the order a rule.
+132 f. An order which that applies to a specifically
+133 described tract of real estate.
+134 g. Any rules or actions relating to any of the
+135 following:
+136 1. The conduct of inmates of public institutions and
+137 prisoners on parole.
+138 2. The curriculum of public educational institutions or
+139 the admission, conduct, discipline, or graduation of students
+140 of the institutions;, provided, however, that this exception
+Page 5
+
+of the institutions;, provided, however, that this exception
+HB654 INTRODUCED
+141 shall not extend to rules or actions of the State Department
+142 of Education.
+143 3. Opinions issued by the Attorney General of the State
+144 of Alabama.
+145 4. The conduct of commissioned officers, warrant
+146 officers, and enlisted persons in the military service.
+147 5. Advisory opinions issued by the Alabama Ethics
+148 Commission.
+149 6. Hunting and fishing seasons or bag or creel limits
+150 adopted by the Commissioner of the Department of Conservation
+151 and Natural Resources.
+152 h. Standards, specifications, codes, plans, manuals,
+153 and publications used in the design, construction, repair, and
+154 maintenance of highways, roads, and bridges under the
+155 jurisdiction of the Department of Transportation."
+156 Section 2. This act shall become effective on October
+157 1, 2026.
+Page 6
