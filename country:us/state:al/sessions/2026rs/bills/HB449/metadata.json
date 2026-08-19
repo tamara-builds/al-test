@@ -1,0 +1,93 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB449",
+  "title": "Alabama Lottery, established; Alabama Lottery Corporation, established to operate and regulate lottery games; revenue distribution, provided; criminal penalties for gambling offenses, increased",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gaming"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Gaming"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb449"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pending Committee Action in House of Origin (Economic Development and Tourism)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T03:01:28Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Economic Development and Tourism",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T03:01:28Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ensler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ensler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB449-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "23422117"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-19T03:01:28Z"
+  }
+}
