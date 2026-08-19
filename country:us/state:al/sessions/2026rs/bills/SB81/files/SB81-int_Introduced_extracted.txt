@@ -1,0 +1,342 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB81 INTRODUCED
+1 SB81
+2 AR8AGQS-1
+3 By Senators Stutts, Butler
+4 RFD: Banking and Insurance
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+AR8AGQS-1 12/22/2025 JC (L)JC 2025-3221
+1
+2
+3
+4 SYNOPSIS:
+5 The law does not currently regulate how insurers
+6 that cover dental care spend the premiums received from
+7 individuals and groups that contract for dental care
+8 payment or reimbursement.
+9 This bill would require dental insurers to spend
+10 a specified percentage of the premiums they receive on
+11 customer claims. Dental insurers that fail to spend at
+12 least the specified percentage of premiums on claims
+13 would be required to refund the excess premiums
+14 retained to policyholders.
+15 This bill would further require dental insurers
+16 to report certain income and expense information to the
+17 Commissioner of Insurance periodically and to make the
+18 report available to the public.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to dental insurance; to establish a dental
+26 loss ratio as a percentage of premiums collected by an
+27 insurer; to require reporting of the insurer's claims expenses
+28 and income information for compliance with the dental loss
+Page 1
+
+and income information for compliance with the dental loss
+SB81 INTRODUCED
+29 ratio; to require an insurer to give a rebate to enrollees if
+30 payments on claims are below the dental loss ratio; to provide
+31 for disclosure of insurer financial information; and to amend
+32 Sections 10A-20-6.16 and 27-21A-23, Code of Alabama 1975, to
+33 make conforming changes.
+34 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+35 Section 1. (a) For the purposes of this section, the
+36 following terms have the following meanings:
+37 (1) COMMISSIONER. The Commissioner of Insurance.
+38 (2) DENTAL BENEFIT PLAN. a. Any underwritten
+39 stand-alone individual or group plan, policy, or contract
+40 issued, delivered, or renewed in this state which is limited
+41 to paying or reimbursing the costs of dental care services.
+42 b. The term shall not include:
+43 1. Self-funded dental plans, nor any health benefit
+44 plan that includes dental care services, including, but not
+45 limited to, Medicare Advantage plans, individual or group
+46 health benefit plans offered pursuant to the federal Patient
+47 Protection and Affordable Care Act, 42 U.S.C. § 18001 et seq.,
+48 or grandfathered individual health benefit plans; and
+49 2. Any dental benefit plan or health benefit plan that
+50 includes dental care services provided pursuant to Chapter 25A
+51 of Title 16, Code of Alabama 1975, or Chapter 29 of Title 36,
+52 Code of Alabama 1975.
+53 (3) DENTAL CARE SERVICES. Any services furnished to an
+54 individual for the purpose of preventing, managing,
+55 alleviating, curing, or healing dental illness or injury as
+56 indicated by codes used for payment or reimbursement by the
+Page 2
+
+indicated by codes used for payment or reimbursement by the
+SB81 INTRODUCED
+57 insurer.
+58 (4) DENTAL LOSS RATIO. The percentage of premiums
+59 collected by an insurer from policyholders or subscribers
+60 which the insurer spends on dental care services for patients.
+61 (5) INSURER. A person as defined in Section 27-1-2,
+62 Code of Alabama 1975, which issues, delivers, or renews a
+63 dental benefit plan, including a nonprofit agricultural
+64 organization that offers health benefits to its membership
+65 under Chapter 33 of Title 2, Code of Alabama 1975.
+66 (6) REPORTING PERIOD. Three rolling consecutive
+67 calendar years.
+68 (b)(1) The minimum dental loss ratio for dental benefit
+69 plans in this state shall be 75 percent for underwritten
+70 stand-alone individual dental plans and 83 percent for
+71 underwritten stand-alone group dental plans, to be calculated
+72 pursuant to subdivisions (2) through (4).
+73 (2) The percentage for dental loss ratio purposes is a
+74 fraction of which the numerator is the aggregated claims paid
+75 for dental care services by the insurer in a reporting period,
+76 and the denominator is the amount of all premiums collected by
+77 the insurer in a reporting period.
+78 (3)a. The aggregated claims paid by the insurer for
+79 dental care services shall be calculated by:
+80 1. Adding the amount paid or reimbursed on claims for
+81 dental care services; then
+82 2. Adding the amount of reserves and liabilities for
+83 claims received during the reporting period but unpaid or not
+84 reimbursed within three months after the end of the reporting
+Page 3
+
+reimbursed within three months after the end of the reporting
+SB81 INTRODUCED
+85 period; then
+86 3. Subtracting any amount expended for dental care
+87 services that was recovered due to overpayment or utilization
+88 management.
+89 b. The amount of all premiums collected by the insurer
+90 shall be calculated by:
+91 1. Including the total amount of money received from
+92 policyholders or subscribers as a condition of receiving
+93 coverage for dental care services; then
+94 2. Subtracting payments for federal and state taxes,
+95 licensing, and regulatory fees.
+96 (4) The insurer's overhead expenses, to include all of
+97 the following components, shall be excluded from the
+98 calculations made under subdivision (3):
+99 a. Financial administration expenses, including
+100 underwriting, auditing, actuarial analyses, treasury, and
+101 investment expenses.
+102 b. Marketing, sales, and distribution expenses,
+103 including advertising; group, policyholder, or subscriber
+104 enrollment and relations, regardless of whether these
+105 activities are performed by the carrier or outsourced to a
+106 third-party vendor.
+107 c. Distribution expenses, including commissions and
+108 relations with agents, producers, brokers, and benefit
+109 consultants.
+110 d. Claims operation expenses, including adjudication,
+111 appeals, settlements, claims payment processing, and costs
+112 directly related to upgrades in health information technology
+Page 4
+
+directly related to upgrades in health information technology
+SB81 INTRODUCED
+113 which are designed primarily or solely to improve claims
+114 payment capabilities or to meet regulatory requirements for
+115 processing claims.
+116 e. Dental administration expenses, including activities
+117 related to care and disease management, utilization review,
+118 dental management, network development, secondary network
+119 savings, administrative fees, claims processing, utilization
+120 management, fraud prevention activities, and provider
+121 credentialing expenses, regardless of whether these activities
+122 are performed by the carrier or outsourced to a third-party
+123 vendor.
+124 f. Provider expenses, such as consultants for
+125 professional or administrative services, which do not
+126 represent compensation or reimbursement for covered services
+127 provided to an enrollee.
+128 g. Expenses incurred for developing and executing
+129 provider contracts, including fees associated with
+130 establishing or managing a provider network, and fees paid to
+131 vendors, costs of stop-loss coverage or reinsurance, direct
+132 sales salaries, workforce salaries and benefits, agents and
+133 broker fees and commissions, and general and administrative
+134 expenses.
+135 h. Network operational expenses, including contracting,
+136 dentist relations, and dental policy procedures.
+137 i. Charitable expenses, including any contributions to
+138 tax-exempt foundations and community benefits.
+139 j. Industry association expenses, including membership
+140 activities.
+Page 5
+
+activities.
+SB81 INTRODUCED
+141 k. Employee and personnel expenses, including payroll,
+142 recruitment, and human resources.
+143 l. Physical plant expenses, including construction,
+144 leasing, maintenance, cleaning, furniture, and equipment.
+145 m. Third-party vendor and professional contractor
+146 expenses, including related services or goods required under
+147 paragraphs a. through l.
+148 (c)(1) No later than April 30 after the end of a
+149 reporting period, an insurer shall file a report with the
+150 commissioner which shall include all of the following
+151 information for the previous reporting period:
+152 a. All dental care services and products offered by the
+153 insurer, identified by market with the number of individuals
+154 enrolled within each market segment.
+155 b. Dental loss ratio.
+156 c. The aggregated claims paid by the insurer for dental
+157 care services, including each amount required under
+158 subparagraphs (b)(3)a.1. through 3.
+159 d. The amount of premiums collected by the insurer,
+160 including each amount required under subparagraphs (b)(3)b.1.
+161 and 2.
+162 e. Overhead expenses in total, to include in that total
+163 each amount required under paragraphs (b)(4)a. through m.
+164 (2) The commissioner shall make available to the public
+165 the information submitted by the insurer pursuant to
+166 subdivision (1) by posting the information on the website of
+167 the Department of Insurance of the State of Alabama.
+168 (3)a. If the commissioner has reasonable cause to
+Page 6
+
+(3)a. If the commissioner has reasonable cause to
+SB81 INTRODUCED
+169 believe that the information submitted by the insurer pursuant
+170 to subdivision (1) is erroneous or false, the commissioner may
+171 conduct an examination of the insurer to verify the
+172 information submitted, according to the procedures provided
+173 under Article 1 of Chapter 2 of Title 27, Code of Alabama
+174 1975.
+175 b. The provisions of Article 1 of Chapter 2 of Title
+176 27, Code of Alabama 1975, including confidentiality of
+177 information, remedies, and procedures available to both the
+178 commissioner and the insurer, shall govern an examination
+179 conducted pursuant to paragraph a.
+180 (d)(1) If the report required by subsection (c), as
+181 submitted by the insurer or as adjusted by the commissioner
+182 upon an examination as provided in that subsection shows that
+183 the dental loss ratio for the reporting period is less than
+184 the percentage that applies under subdivision (b)(1) for
+185 individual or group dental plans, the insurer shall refund the
+186 excess premium collected to the covered individuals or groups
+187 as a rebate.
+188 (2) The total amount of the rebate shall equal the
+189 amount by which the dental loss ratio authorized by
+190 subdivision (b)(1) exceeds the insurer's reported dental loss
+191 ratio, multiplied by the amount of all premiums collected by
+192 the insurer as calculated under paragraph (b)(3)b.
+193 (3) Within 60 days of the calculation of the rebate,
+194 the insurer shall notify all individuals and groups that were
+195 covered under the applicable reporting period that they
+196 qualify for the refund, which may be paid directly to the
+Page 7
+
+qualify for the refund, which may be paid directly to the
+SB81 INTRODUCED
+197 individuals and groups or issued as a credit on the premium
+198 for the subsequent reporting period.
+199 (e) The commissioner shall adopt rules, forms, and
+200 schedules necessary to implement and enforce this section.
+201 Section 2. Sections 10A-20-6.16 and 27-21A-23, Code of
+202 Alabama 1975, are amended to make conforming changes to read
+203 as follows:
+204 "§10A-20-6.16
+205 (a) No statute of this state applying to insurance
+206 companies shall be applicable to any corporation organized
+207 under this article and amendments thereto or to any contract
+208 made by the corporation; except the corporation shall be
+209 subject to the following:
+210 (1) The provisions regarding annual premium tax to be
+211 paid by insurers on insurance premiums.
+212 (2) Chapter 55 of Title 27.
+213 (3) Article 2 and Article 3 of Chapter 19 of Title 27.
+214 (4) Section 27-1-17.
+215 (5) Chapter 56 of Title 27.
+216 (6) Rules adopted by the Commissioner of Insurance
+217 pursuant to Sections 27-7-43 and 27-7-44.
+218 (7) Chapter 54 of Title 27.
+219 (8) Chapter 57 of Title 27.
+220 (9) Chapter 58 of Title 27.
+221 (10) Chapter 59 of Title 27.
+222 (11) Chapter 54A of Title 27.
+223 (12) Chapter 12A of Title 27.
+224 (13) Chapter 2B of Title 27.
+Page 8
+
+(13) Chapter 2B of Title 27.
+SB81 INTRODUCED
+225 (14) Chapter 29 of Title 27.
+226 (15) Chapter 62 of Title 27.
+227 (16) Chapter 63 of Title 27.
+228 (17) Chapter 45A of Title 27.
+229 (18) Section 1 of the act amending this section.
+230 (b) The provisions in subsection (a) that require
+231 specific types of coverage to be offered or provided shall not
+232 apply when the corporation is administering a self-funded
+233 benefit plan or similar plan, fund, or program that it does
+234 not insure."
+235 "§27-21A-23
+236 (a) Except as otherwise provided in this chapter,
+237 provisions of the insurance law and provisions of health care
+238 service plan laws shall not be applicable to any health
+239 maintenance organization granted a certificate of authority
+240 under this chapter. This provision shall not apply to an
+241 insurer or health care service plan licensed and regulated
+242 pursuant to the insurance law or the health care service plan
+243 laws of this state except with respect to its health
+244 maintenance organization activities authorized and regulated
+245 pursuant to this chapter.
+246 (b) Solicitation of enrollees by a health maintenance
+247 organization granted a certificate of authority shall not be
+248 construed to violate any provision of law relating to
+249 solicitation or advertising by health professionals.
+250 (c) Any health maintenance organization authorized
+251 under this chapter shall not be deemed to be practicing
+252 medicine and shall be exempt from the provisions of Section
+Page 9
+
+medicine and shall be exempt from the provisions of Section
+SB81 INTRODUCED
+253 34-24-310, et seq., relating to the practice of medicine.
+254 (d) No person participating in the arrangements of a
+255 health maintenance organization other than the actual provider
+256 of health care services or supplies directly to enrollees and
+257 their families shall be liable for negligence, misfeasance,
+258 nonfeasance, or malpractice in connection with the furnishing
+259 of such services and supplies.
+260 (e) Nothing in this chapter shall be construed in any
+261 way to repeal or conflict with any provision of the
+262 certificate of need law.
+263 (f) Notwithstanding the provisions of subsection (a), a
+264 health maintenance organization shall be subject to all of the
+265 following:
+266 (1) Section 27-1-17.
+267 (2) Chapter 56.
+268 (3) Chapter 54.
+269 (4) Chapter 57.
+270 (5) Chapter 58.
+271 (6) Chapter 59.
+272 (7) Rules adopted by the Commissioner of Insurance
+273 pursuant to Sections 27-7-43 and 27-7-44.
+274 (8) Chapter 12A.
+275 (9) Chapter 54A.
+276 (10) Chapter 2B.
+277 (11) Chapter 29.
+278 (12) Chapter 62.
+279 (13) Chapter 63.
+280 (14) Chapter 45A
+Page 10
+
+(14) Chapter 45A
+SB81 INTRODUCED
+281 (15) Section 1 of the act amending this section."
+282 Section 3. This act shall become effective on October
+283 1, 2026.
+Page 11

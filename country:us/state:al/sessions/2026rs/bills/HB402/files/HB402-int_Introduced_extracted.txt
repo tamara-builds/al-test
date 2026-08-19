@@ -1,0 +1,1308 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB402 INTRODUCED
+1 HB402
+2 119P233-1
+3 By Representative Datcher
+4 RFD: Fiscal Responsibility
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+119P233-1 02/05/2026 VSM (L)ma 2026-747
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the acquisition of real
+6 property by a local land bank authority is subject to
+7 certain procedural, geographic, and cost restrictions
+8 Existing law also requires the Alabama Land Bank
+9 Authority to give public notice prior to the
+10 disposition of land.
+11 This bill would shorten the redemption period
+12 for certain tax-delinquent properties, allow a local
+13 government or local land bank authority to buy property
+14 at a public auction with a minimum bid and obtain deeds
+15 after one year.
+16 This bill would restrict the geographic areas
+17 where land bank authorities are permitted to acquire
+18 property, expand the acquisition and the management
+19 powers of local land bank authorities, and streamline
+20 the quiet title procedure.
+21 This bill would authorize the creation of
+22 multijurisdictional local land bank authorities through
+23 intergovernmental agreements, grant property tax
+24 exemptions for properties owned by these authorities,
+25 and eliminate the public notice of disposition
+26 requirement.
+27 This bill would expand the powers of local land
+28 bank authorities.
+Page 1
+
+bank authorities.
+HB402 INTRODUCED
+29 This bill would allow local governments to
+30 allocate part of their property tax revenues to these
+31 authorities and transfer properties to state and local
+32 governments for floodplain and stormwater management.
+33 This bill would require a percentage of ad
+34 valorem taxes collected on property conveyed by a local
+35 land bank authority to be remitted to the local
+36 authority for a five-year period after the conveyance.
+37 This bill would give the Governor the authority
+38 to create a local land bank authority by executive
+39 order during a state of emergency.
+40 This bill would also make nonsubstantive,
+41 technical revisions to update the existing code
+42 language to the current style.
+43
+44
+45 A BILL
+46 TO BE ENTITLED
+47 AN ACT
+48
+49 Relating to land bank authorities; to amend Sections
+50 24-9-4, 24-9-5, 24-9-6, 24-9-7, 24-9-8, 24-9-10, 40-1-3,
+51 40-10-1, 40-10-18, 40-10-29, 40-10-120, 40-10-184, Code of
+52 Alabama 1975, and Section 40-10-199 as last amended by Act
+53 2025-348 of the 2025 Regular Session, Code of Alabama 1975; to
+54 provide for the creation of a multijurisdictional local land
+55 bank authority; to authorize the acquisition of tax delinquent
+56 property and tax liens by local land bank authorities; to
+Page 2
+
+property and tax liens by local land bank authorities; to
+HB402 INTRODUCED
+57 provide for the exemption of local land bank authority
+58 property from taxes and fees; to eliminate the public notice
+59 requirement for disposition of land; to provide for the
+60 allocation of a portion of the ad valorem taxes on certain
+61 property conveyed to a local land bank authority; to add
+62 Sections 24-9-11 and 24-9-12 to the Code of Alabama 1975 to
+63 authorize a local land bank authority to transfer property to
+64 governmental entities for floodplain and stormwater drainage
+65 management; to authorize the Governor to create local land
+66 bank authorities in the event of a state of emergency; and to
+67 make nonsubstantive, technical revisions to update the
+68 existing code language to the current style.
+69 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+70 Section 1. Sections 24-9-4, 24-9-5, 24-9-6, 24-9-7,
+71 24-9-8, 24-9-10, 40-1-3, 40-10-1, 40-10-18, 40-10-29,
+72 40-10-120, 40-10-184 Code of Alabama 1975, and Section
+73 40-10-199 Code of Alabama 1975, as last amended by Act
+74 2025-348 of the 2025 Regular Session, are amended to read as
+75 follows:
+76 "§24-9-4
+77 When used in the chapter, the following words shall
+78 have the following meanings:
+79 (1) AGREEMENT. The intergovernmental cooperation
+80 agreement entered into between an authority and a local land
+81 bank authority by the parties pursuant to this chapter.
+82 (2) AUTHORITY. The Alabama Land Bank Authority.
+83 (3) BOARD. The Alabama Land Bank Authority Board.
+84 (4) LOCAL LAND BANK AUTHORITY. A local land bank
+Page 3
+
+(4) LOCAL LAND BANK AUTHORITY. A local land bank
+HB402 INTRODUCED
+85 authority created by a county or municipality, as provided in
+86 Section 24-9-10.
+87 (5) PROPERTY. Real property, including any improvements
+88 thereon.
+89 (6) TAX-DELINQUENT PROPERTY. Any property on which the
+90 taxes levied and assessed by any party remain in whole or in
+91 part unpaid on the date due and payable."
+92 "§24-9-5
+93 (a) There is created the The Alabama Land Bank
+94 Authority Board which is created and shall govern have the
+95 authority to administer and enforce this chapter.
+96 (b) The board shall consist of the following members:
+97 (1) Four residents of the state appointed by the
+98 Governor.
+99 (2) Two representatives from nonprofit organizations
+100 engaged in low-income housing appointed by the Governor.
+101 (3) The Presiding Officer of the Senate or his or her
+102 designee.
+103 (4) The Speaker of the House of Representatives or his
+104 or her designee.
+105 (5) The Chair of the Senate Finance and Taxation
+106 General Fund Committee or his or her designee.
+107 (6) The Chair of the House Ways and Means General Fund
+108 Committee or his or her designee.
+109 (7) The State Revenue Commissioner or his or her
+110 designee.
+111 (8) The Superintendent of the State Banking Department
+112 or his or her designee.
+Page 4
+
+or his or her designee.
+HB402 INTRODUCED
+113 (9) The Director of the Alabama Department of Economic
+114 and Community Affairs or his or her designee.
+115 (10) The Secretary of the Alabama Department of
+116 Commerce or his or her designee.
+117 (11) The State Finance Director or his or her designee.
+118 (12) The Chair of the Alabama Housing Finance Authority
+119 or his or her designee.
+120 (13) The Administrator of the Alabama Credit Union
+121 Administration or his or her designee.
+122 (c) The members of the board shall serve four year
+123 four-year terms. In appointing the initial members of the
+124 board under subdivision (b)(1) of subsection (b), the Governor
+125 shall designate two to serve four years, one to serve three
+126 years, and one to serve two years.
+127 (d) Members of the board shall receive reimbursement
+128 for expenses incurred in the performance of their duties, but
+129 no other compensation.
+130 (e) The board may employ the necessary personnel for
+131 the performance of its functions and fix their compensation.
+132 (f) The board shall elect from its membership a chair,
+133 a vice chair, and a secretary-treasurer. The board shall adopt
+134 rules to govern its proceedings. A majority of the membership
+135 of the board shall constitute a quorum for all meetings.
+136 Approval by a majority of the membership shall be necessary
+137 for any action to be taken by the authority. All meetings
+138 shall be open to the public, except as otherwise permitted by
+139 the Alabama Open Meetings Act, and a written record shall be
+140 maintained of all meetings.
+Page 5
+
+maintained of all meetings.
+HB402 INTRODUCED
+141 (g) The membership of the board shall be inclusive and
+142 reflect the racial, gender, geographic, urban/rural urban,
+143 rural, and economic diversity of the state.
+144 (h) The board, when acting in its official capacity,
+145 its members, and the authority shall be immune from civil
+146 liability against the claims of any individual or other entity
+147 of any nature whatsoever for claims of any kind arising out of
+148 from its ownership or administration of properties or related
+149 to its decisions or actions, which provided the decisions or
+150 actions were made in good faith, without malice, and
+151 predicated upon based on information which was then available
+152 to the board at the time.
+153 (i) The authority shall be a public body corporate and
+154 politic with the power to accept and issue deeds in its name,
+155 including, without limitation, the acceptance of accepting
+156 real property in accordance with this chapter, and to
+157 institute initiating quiet title actions as provided in
+158 Section 24-9-8, and shall have any other powers necessary and
+159 incidental to carry out execute the powers and the purpose
+160 purposes granted by this chapter.
+161 (j) In addition to the acquiring tax-delinquent
+162 property acquired by the authority as provided herein, the
+163 authority may also:
+164 (1)acquire Acquire, by purchase, donation, or exchange,
+165 other publicly owned property from local governments,
+166 including that which was acquired years earlier as a result of
+167 property previously obtained through foreclosure proceedings
+168 of that property, or property that has become surplus.
+Page 6
+
+of that property, or property that has become surplus.
+HB402 INTRODUCED
+169 (2) The authority may also acquire Acquire property
+170 through voluntary donations and transfers from private owners
+171 and may acquire by purchase or lease property on the open
+172 market property from a private owner to complete an assemblage
+173 of property for redevelopment owners.
+174 (k) No later than October 1, 2018, the State Revenue
+175 Commissioner or his or her designee shall convene the first
+176 meeting of the authority."
+177 "§24-9-6
+178 (a) The authority, at such times as it deems to be
+179 considers appropriate, may submit a written request to the
+180 Land Commissioner of the Alabama Department of Revenue for the
+181 to transfer of the state's interest in certain properties to
+182 the authority. Upon receipt of such the request, the Land
+183 Commissioner shall issue a tax deed conveying the state's
+184 interest in the property to the authority. The authority shall
+185 not be required to pay the amount deemed considered to have
+186 been bid to cover delinquent taxes or any other amount in
+187 order to obtain the tax deed.
+188 (b)(1) The Land Commissioner shall only transfer the
+189 following properties to the authority:
+190 (1)a. Delinquent property outside the geographic
+191 boundaries of a local land bank authority that may be
+192 transferred by the Land Commissioner to the authority shall be
+193 limited to parcels that have has been bid in for the state
+194 pursuant to Chapter 10 of Title 40 for at least three years.
+195 b. and the The state's interest in real property
+196 acquired pursuant to Chapter 29 of Title 40 for delinquent
+Page 7
+
+acquired pursuant to Chapter 29 of Title 40 for delinquent
+HB402 INTRODUCED
+197 taxes administered by the state and held for at least three
+198 years.
+199 (2) The three-year holding periods in paragraph (1)a.
+200 shall not apply to properties with one or more housing code,
+201 building code, or nuisance abatement liens.
+202 (2)(3) The Land Commissioner or his or her agents or
+203 assistants may adopt rules necessary to transfer such the
+204 properties to the authority.
+205 (c) The authority shall administer properties acquired
+206 it acquires by it as follows:
+207 (1) All property acquired by the authority shall be
+208 inventoried, and the inventory shall be maintained as a public
+209 record.
+210 (2) The authority shall have the power to manage,
+211 maintain, protect, rent, lease, repair, insure, alter, sell,
+212 trade, exchange, or otherwise dispose of any property acquired
+213 pursuant to subsection (b)(1), on terms and conditions
+214 determined in the sole discretion of the authority.
+215 (d) Nothing contained in Act 2013-249 this section
+216 shall be construed to grant any power of eminent domain to the
+217 authority or any local land bank authority."
+218 "§24-9-7
+219 (a) The authority shall adopt rules for the disposition
+220 of property in which the authority holds has a legal
+221 interest,. which The rules shall address the conditions set
+222 forth outlined in this section.
+223 (b) The authority may manage, maintain, protect, rent,
+224 repair, insure, or alter property in which the authority has a
+Page 8
+
+repair, insure, or alter property in which the authority has a
+HB402 INTRODUCED
+225 legal interest. The authority may also, convey, sell,
+226 transfer, exchange, rent, lease as lessor, or otherwise
+227 dispose of property or, property rights, or interests in
+228 property in which the authority holds a legal interest to any
+229 public or private person for a value determined by the
+230 authority, on terms and conditions, and in a manner, and for
+231 an amount of consideration the authority considers proper,
+232 fair, and valuable, including for no monetary consideration.
+233 The transfer and use of property under this section and the
+234 exercise by the authority of powers and duties under Act
+235 2013-249 this section shall be considered a necessary public
+236 purpose and for the benefit of the public.
+237 (c)(1) Before the authority may sell, lease, exchange,
+238 trade, or otherwise dispose of any property, it shall either:
+239 (1)a. Establish a purchase price and conditions for
+240 sale purposes.;
+241 (2)b. Establish a price and conditions for rent or
+242 lease purposes.; or
+243 (3)c. Establish the conditions for trade, exchange, or
+244 other disposal of the property.
+245 (2) The conditions made pursuant to this subsection
+246 established in this section may include a requirement that the
+247 transferee must provide a development plan or execute a
+248 development agreement with the authority. specifying The
+249 agreement shall specify the transferee's commitments regarding
+250 the development of the property and the time frame within
+251 which the development must occur the property development, the
+252 timeline for completion, the range of permitted uses for the
+Page 9
+
+timeline for completion, the range of permitted uses for the
+HB402 INTRODUCED
+253 property, and any restrictions on its subsequent resale or
+254 transfer.
+255 (d) The disposition of property by the authority shall
+256 not be governed by any laws or rules otherwise applicable to
+257 the disposition of property by a state or local agency.
+258 Provided, however, that, prior to the disposition of property,
+259 the authority shall give notice of its intent to dispose of
+260 any property for which notice was not previously advertised by
+261 the Commissioner of Revenue, or his or her designee, or by a
+262 local official in a manner as prescribed by the authority and
+263 shall include in the notice the date, time, and place at which
+264 persons objecting to the intended action must appear. If no
+265 objection is made within 30 days from the date of the notice,
+266 the authority may proceed with the disposition of the property
+267 as noticed without a public auction.
+268 (e) No property shall be sold, traded, exchanged, or
+269 otherwise disposed of by the authority to any entity that
+270 intends to use the property solely for investment purposes
+271 only and with no intent and has no intention to use the
+272 property other than except to transfer the property at a
+273 future date for monetary gain.
+274 (f) The authority shall not sell, trade, exchange, or
+275 otherwise dispose of any property held by the authority to any
+276 party person who had an interest in the property at the time
+277 it was tax delinquent or to any party person who transferred
+278 the party's its interest in the property to the authority by
+279 sale, trade, exchange, or otherwise, unless the person pays
+280 all the taxes, interest, municipal liens, penalties, fees, and
+Page 10
+
+all the taxes, interest, municipal liens, penalties, fees, and
+HB402 INTRODUCED
+281 any other charges due and owing owed under Chapter 10 and
+282 Chapter 29 of Title 40, including the amount to the Land
+283 Commissioner would have received had the property not been
+284 transferred to the authority.
+285 (g) Except as otherwise provided in this section, the
+286 authority shall have full discretion in determining the sale
+287 price of the property. No purchaser from the authority shall
+288 be responsible for the proper disposition of the proceeds paid
+289 to the authority for the purchase of property."
+290 "§24-9-8
+291 (a) The authority may initiate a quiet title action
+292 under this section to quiet title to real property held by the
+293 authority or interests in tax delinquent property held by the
+294 authority by taking the following actions in the following
+295 order: (i)undertaking the examination of title conducting a
+296 title examination as required in subsection (b); and
+297 thereafter (ii) filing the a petition to quiet title as
+298 provided in subsection (c); and (iii). Following the filing of
+299 the petition, the authority shall record filing a Notice of
+300 Pending Quiet Title Action with the office of the judge of
+301 probate in the county in which where the property subject to
+302 quiet title action is located pursuant to subsection (d). a
+303 notice of pending quiet title action. The notice shall include
+304 the name of the taxpayer whose interest was affected by the
+305 tax sale; the name of any other party as revealed by a search
+306 and examination of the title to the property who may claim an
+307 interest in the property; a legal description of the property;
+308 the street address of the property if available; the name,
+Page 11
+
+the street address of the property if available; the name,
+HB402 INTRODUCED
+309 address, and telephone number of the authority; a statement
+310 that the property is subject to the quiet title proceedings
+311 under Act 2013-249; a statement that any legal interests in
+312 the property may be extinguished by a circuit court order
+313 vesting title to the property in the authority; and the date,
+314 time, and place of the hearing on the petition to quiet title.
+315 Notwithstanding anything in this chapter to the contrary any
+316 other provisions in this chapter, no quiet title action and
+317 nothing in this chapter shall affect any right, title, or
+318 interest, whether recorded or unrecorded, in the subject
+319 property which was held at the time of the tax sale by that
+320 any person individual or entity engaged in the generation,
+321 transmission, or distribution of electric power, natural gas,
+322 or telecommunications had at the time of the tax sale.
+323 (b) After the notice required under subsection (a) has
+324 been recorded, Before filing a quiet title petition under this
+325 section, the authority shall obtain a title examination of the
+326 property and a title opinion the record title to the property
+327 shall be examined and an opinion of title rendered by an
+328 attorney at law, who is licensed to practice law in this
+329 state, or a certificate of title shall be prepared by a title
+330 agent or title insurer duly licensed under the Alabama Title
+331 Insurance Act as set out in Section 27-25-1, et seq., for the
+332 benefit of the authority Chapter 25 of Title 27 in order to
+333 identify all owners of parties or owners with an interest in
+334 the property.
+335 (c) Once When the authority has identified the owners
+336 or parties of interest in the property, the authority shall
+Page 12
+
+or parties of interest in the property, the authority shall
+HB402 INTRODUCED
+337 file a single petition with the clerk of the circuit court
+338 clerk for the judicial district in which the property subject
+339 to foreclosure under this section is located. The petition may
+340 list listing all property subject to foreclosure by the
+341 authority and for which the authority seeks to quiet title. No
+342 such action shall be subject to the payment of filing fees. No
+343 filing fees shall be required for the petition. The list of
+344 properties shall include a legal description of, a tax parcel
+345 identification number for, and the street address of each
+346 parcel or property. The petition shall seek a judgment in
+347 favor of the authority against each property listed and shall
+348 include a date, within 90 days, on which the authority
+349 requests request a hearing on the petition no later than 90
+350 days from the filing of the petition. The petition shall also
+351 seek an order granting the authority full title to each
+352 property without the right of redemption. request that a
+353 judgment be entered vesting absolute title in the authority,
+354 without right of redemption for each parcel of property
+355 listed, as provided in this section. At any time during the
+356 pendency of this a pending quiet title action, the authority
+357 may file a motion to release or dismiss a certain parcel or
+358 parcels of land from the petition, which and that release will
+359 not affect the remaining parcels of land subject to the
+360 petition.
+361 (d) A Notice of Pending Quiet Title Action shall
+362 include all the following:
+363 (1) The name of the taxpayer affected by the tax sale.
+364 (2) Any other parties identified through a title search
+Page 13
+
+(2) Any other parties identified through a title search
+HB402 INTRODUCED
+365 who may claim an interest in the property.
+366 (3) A legal description of the property.
+367 (4) The street address of the property, if available.
+368 (5) The name, address, and phone number of the
+369 authority.
+370 (6) A statement that the property is subject to quiet
+371 title proceedings under this section.
+372 (7) A statement that any legal interests in the
+373 property may be extinguished by a circuit court order vesting
+374 title to the property in the authority.
+375 (8) The date, time, and place of the hearing on the
+376 petition.
+377 (e) The case shall be docketed in the circuit court by
+378 the clerk, and shall be a preferred case therein for expedited
+379 processing. The circuit court in which a petition is filed
+380 under subsection (c) shall immediately set the date, time, and
+381 place for a hearing on the petition for quiet title. In no
+382 event may the clerk court schedule the hearing later than 90
+383 days after the filing of a petition by the authority under
+384 subsection (c). The court may, for good cause on a party's
+385 request, on the request of a party or as needed, extend the
+386 90-day period to allow completion of service of process on all
+387 interested persons, and to allow those persons 30 days after
+388 service of process to file an answer or other responsive
+389 pleadings to the petition, may extend the 90-day period for
+390 good cause shown.
+391 (e)(f) The authority shall serve all persons having
+392 with record title or, interest in the property, or a lien upon
+Page 14
+
+with record title or, interest in the property, or a lien upon
+HB402 INTRODUCED
+393 the property with a notice of the hearing on the petition to
+394 quiet title. Such service Service shall be attempted by
+395 personal service and by certified mail.; provided if If
+396 service is perfected by either method, the service will be
+397 sufficient to provide service of process upon all persons
+398 having record title, or interest in, or lien upon the
+399 property. If the persons entitled to service are located
+400 outside the county, they may be served by certified mail.
+401 (f)(g) The notice required under subsection (e) this
+402 section shall include:
+403 (1) The date on which the authority recorded, under
+404 subsection (a), the notice of the pending quiet title and
+405 foreclosure action. filed the Notice of Pending Quiet Title
+406 Action with the judge of probate;
+407 (2) A statement that a person with a property interest
+408 in the property may lose such the interest, if any, as a
+409 result of the quiet title and foreclosure hearing.;
+410 (3) A legal description, tax parcel identification
+411 number of the property, and the street address of the
+412 property.;
+413 (4) The date and time of the hearing on the petition
+414 for quiet title and a statement that the judgment of the court
+415 may result in title to the property vesting in the authority.;
+416 (5) An explanation of any rights of redemption and
+417 notice that the judgment of the court may extinguish any
+418 ownership interest in or right to redeem the property.; and
+419 (6) The name, address, and telephone number of the
+420 authority.
+Page 15
+
+authority.
+HB402 INTRODUCED
+421 (g) (h)(1) In the event the sheriff is unable to
+422 perfect service or certified mail attempts are returned
+423 unclaimed, the authority shall conduct a search for the person
+424 with an interest in the property conveyed to the authority.
+425 (1) The search, at a minimum, shall include the
+426 following:
+427 a. An examination of the addresses given on the face of
+428 the instrument vesting interest or the addresses given to the
+429 clerk of the probate court by the transfer declaration form.
+430 b. A search of the current telephone directory
+431 electronic telephone databases for the municipality and the
+432 county in which the property is located.
+433 c. A letter of inquiry to the person who sold the
+434 property to the owner whose interest was sold in the tax sale
+435 at the address shown in the transfer tax declaration or in the
+436 telephone directory electronic telephone databases.
+437 d. A letter of inquiry to the attorney handling the
+438 closing prior to the tax sale if such the information is
+439 provided on the deed forms.
+440 (2) A sign being no less than four feet by four feet
+441 shall be erected on the property and maintained by the
+442 authority for a minimum of 30 days, reading as follows:
+443 "THIS PROPERTY HAS BEEN CONVEYED TO THE ________ LAND
+444 BANK AUTHORITY AND IS SUBJECT TO A QUIET TITLE ACTION. PERSONS
+445 WITH INFORMATION REGARDING THE PRIOR OWNERSHIP OF OR INTEREST
+446 IN THE PROPERTY ARE REQUESTED TO CONTACT THE LAND BANK
+447 AUTHORITY AT _________."
+448 (3) Any additional parties who are identified as having
+Page 16
+
+(3) Any additional parties who are identified as having
+HB402 INTRODUCED
+449 an interest in the property shall be provided notice in
+450 accordance with this section.
+451 (h)(4) If the interested party is an individual, the
+452 authority shall examine voter registration lists, available
+453 municipal archives for records of deaths, and the probate
+454 court records of estates opened in the county in which the
+455 property is located.
+456 (i)(5) If the interested party is a business entity,
+457 the authority shall search the records of the Secretary of
+458 State for the name and address of a registered agent.
+459 (j)(i) If an interested party appears at the hearing
+460 and asserts a right to redeem the property, that party may
+461 redeem in accordance with Chapter 10 and Chapter 29 of Title
+462 40.
+463 (k)(j)(1) If the authority has made the search as
+464 required by this section and been is unable to locate those
+465 persons required to be served under subsection (e), and has
+466 located additional addresses of those persons through the
+467 search and attempted without success to serve those persons in
+468 either manner provided by subsection (e) pursuant to this
+469 section, the authority shall provide notice by publication.
+470 Prior to the hearing, a notice shall be published once each
+471 week for three successive weeks in a newspaper of general
+472 circulation in the county in which the property is located. If
+473 no paper is published in that county, publication shall be
+474 made in a newspaper of general circulation in an adjoining
+475 county. This publication shall substitute for notice under
+476 this subsection or subsection (g) section. The published
+Page 17
+
+this subsection or subsection (g) section. The published
+HB402 INTRODUCED
+477 notice shall include the information required in subsection
+478 (f)(e). Should the identity of some or all of the persons who
+479 may have an interest in the property be unknown, or should
+480 such the persons be infants or persons of unsound mind, the
+481 court shall appoint a guardian ad litem to represent and
+482 defend the interests of such the unknown, infant the infants,
+483 or incompetent the persons of unsound mind who are parties in
+484 the action.
+485 (2) A person claiming an interest in a parcel of
+486 property set forth in the quiet title action who desires to
+487 contest that the petition shall file an answer containing
+488 written objections with the clerk of the circuit court and
+489 serve those objections on the authority before the date of the
+490 hearing. The circuit court may appoint and utilize, as the
+491 court considers necessary, a special master for assistance
+492 with the resolution of any objections to the quiet title
+493 action or questions regarding the title to the property
+494 subject thereto. Within 30 days following the hearing, the
+495 circuit court shall enter judgment on a petition to quiet
+496 title. The circuit court's judgment shall specify all of the
+497 following:
+498 a. The legal description, tax parcel identification
+499 number, and, if known, the street address of the subject
+500 property.
+501 b. That fee simple title to the property by the
+502 judgment is vested absolutely in the authority, except as
+503 otherwise provided in paragraph e. this subsection, without
+504 any further rights of redemption.
+Page 18
+
+any further rights of redemption.
+HB402 INTRODUCED
+505 c. That all liens against the property, including any
+506 lien for unpaid taxes or special assessments, are
+507 extinguished.
+508 d. That, except as otherwise provided in paragraph e.
+509 this section, the authority has good and marketable fee simple
+510 title to the property.
+511 e. That all existing recorded and unrecorded interests,
+512 recorded or unrecorded, in the property are extinguished
+513 terminated, except for a recorded easement or right-of-way,
+514 restrictive covenant, prior reservation or severance of all
+515 mineral, mining, oil, and gas rights within and underlying the
+516 property, such state of facts as shown on recorded plats, or
+517 restrictions or covenants imposed under the Alabama Land
+518 Recycling and Economic Development Act, or any other
+519 environmental law in effect in the state., severed Severed
+520 oil, gas, and mineral rights and mineral leases and agreements
+521 are excepted from Act 2013-249 and any quiet title action
+522 authorized herein in this section.
+523 f. A finding that all persons entitled to notice and an
+524 opportunity to be heard have been provided received that
+525 notice and opportunity, and that the authority properly
+526 provided notice to all interested parties or that the
+527 authority complied with followed the notice procedures in
+528 subdivision (1)subsection (j)., which This compliance shall
+529 create a rebuttable presumption that all interested parties
+530 received notice and had an opportunity to be heard.
+531 (l)(k) Except as otherwise provided in paragraph
+532 (k)(2)e., fee Fee simple title to property set forth in a
+Page 19
+
+(k)(2)e., fee Fee simple title to property set forth in a
+HB402 INTRODUCED
+533 petition for quiet title filed under subsection (c) shall vest
+534 absolutely in the authority upon the effective date of the
+535 judgment by the circuit court and the authority shall have
+536 absolute title to the property. The authority's title is not
+537 subject to any recorded or unrecorded lien, except as provided
+538 in paragraph (k)(j)(2)e. and shall not be stayed except as
+539 provided in and subsection (m)(l). A judgment entered under
+540 this section is a final order with respect to the property
+541 affected by the judgment and shall not be stayed unless
+542 appealed.
+543 (m)(l) The authority or a person claiming to have an
+544 interest in property under this section may, within 42 days
+545 following the effective date of the judgment under subsection
+546 (k) (j), appeal the circuit court's judgment quieting title to
+547 the property to the court of appeals. An This appeal under
+548 this subsection is limited to the record of the proceedings in
+549 the circuit court under this section. In the event of When a
+550 timely appeal is filed, the circuit court's judgment quieting
+551 title to the property shall be stayed until the court of
+552 appeals has reversed, modified, or affirmed that judgment. If
+553 an appeal under this subsection stays the circuit court's
+554 judgment, the circuit court's judgment is stayed only as to
+555 the property that is the subject of that appeal, and the
+556 circuit court's judgment quieting title to other property that
+557 is not the subject of that appeal is not stayed.
+558 (n)(m) The authority shall record an order of judgment
+559 for each parcel of property in the office of with the judge of
+560 probate for the county in which the subject where the property
+Page 20
+
+probate for the county in which the subject where the property
+HB402 INTRODUCED
+561 is located.
+562 (o)(n) Notwithstanding the limitation of actions
+563 requirements for adverse possession under, any other
+564 provisions of Section 40-10-82, or any other law, the
+565 authority may initiate a quiet title action under this section
+566 at any time after acquiring an interest in the property which
+567 is subject to the action. A final decree of an action properly
+568 filed in compliance with this section shall extinguish all
+569 outstanding rights of redemption."
+570 "§24-9-10
+571 (a) If the number of tax delinquent properties in a
+572 municipality exceeds 100, then the governing body of a
+573 municipality may adopt a resolution declaring that it is wise,
+574 expedient, and necessary that a local land bank authority be
+575 formed by the municipality by the filing for record of a
+576 certificate of incorporation in accordance with the provisions
+577 of subsection (c) this section.
+578 (b) If the number of tax delinquent properties in a
+579 municipality county exceeds 100, then the governing body of a
+580 county may adopt a resolution declaring that it is wise,
+581 expedient, and necessary that a local land bank authority be
+582 formed by the county by the filing for record of a certificate
+583 of incorporation in accordance with the provisions of
+584 subsection (c) this section.
+585 (c) A county and a municipality located within that
+586 county may create a single land bank authority by an
+587 intergovernmental agreement if both the county and the
+588 municipality each meet the criteria of subsections (a) and
+Page 21
+
+municipality each meet the criteria of subsections (a) and
+HB402 INTRODUCED
+589 (b). The intergovernmental agreement shall comply with all
+590 provisions of subsections (d) and (e) and Chapter 102 of Title
+591 11.
+592 (d) Upon the adoption of the authorizing resolution,
+593 the municipality or county, as the case may be, shall proceed
+594 to incorporate the local land bank authority by filing for
+595 record in the office of the judge of probate of the county a
+596 certificate of incorporation which that shall comply in form
+597 and substance with the requirements of this section and which
+598 shall be in the form and executed in the manner herein
+599 provided in this section. The certificate of incorporation of
+600 the local land bank authority shall state all of the
+601 following:
+602 (1) The name of the local unit of government forming
+603 the local land bank authority.
+604 (2) The name of the local land bank authority.
+605 (3) The size of the initial governing body of the local
+606 land bank authority, which shall be composed of an odd number
+607 of members, but not less than five.
+608 (4) The qualifications, method of selection, and terms
+609 of office of the initial board members.
+610 (5) A method for the adoption of bylaws by the
+611 governing body of the local land bank authority.
+612 (6) A method for the distribution of proceeds from the
+613 activities of the local land bank authority.
+614 (7) A method for the dissolution of the local land bank
+615 authority.
+616 (8) Any other matters considered advisable by the local
+Page 22
+
+(8) Any other matters considered advisable by the local
+HB402 INTRODUCED
+617 unit of government, consistent with Act 2013-249 this chapter.
+618 (d)(e) Following incorporation, a local land bank
+619 authority may enter into an intergovernmental agreement with
+620 the authority providing for the transfer to the local land
+621 bank authority of any property held by the authority which is
+622 located within the corporate limits of the municipality or the
+623 boundary of the county which that created the land bank.
+624 (e)(f) A local land bank authority shall have all of
+625 the powers and duties of the authority as set forth in this
+626 chapter. In addition, a local land bank authority shall have
+627 the following powers:
+628 (1) To adopt, amend, and repeal bylaws for the
+629 regulation of its affairs and the conduct of its business.
+630 (2) To sue and be sued in its own name and to prosecute
+631 and defend civil actions in any court having jurisdiction of
+632 the subject matter and of the parties, including, but not
+633 limited to, actions to clear title to the property of the
+634 local land bank authority.
+635 (3) To adopt and make use of a corporate seal and to
+636 alter the same at its pleasure.
+637 (4) To acquire by purchase, lease, or otherwise and to
+638 hold, lease, and dispose of real or personal property of every
+639 kind and character, or any interests therein, in furtherance
+640 of the public purposes of the local land bank authority.
+641 (5) To acquire, accept, or retain equitable interests,
+642 security interests, or other interests in any real property,
+643 personal property, or fixtures by loan agreement, note,
+644 mortgage, trust deed, security agreement, assignment, pledge,
+Page 23
+
+mortgage, trust deed, security agreement, assignment, pledge,
+HB402 INTRODUCED
+645 conveyance, contract, lien, or other consensual transfer in
+646 order to secure credit extended by the local land bank
+647 authority.
+648 (6) To borrow from private lenders, municipalities, the
+649 state, or from federal government funds, as may be necessary,
+650 for the operation and work of the local land bank authority.
+651 (7) To issue negotiable revenue bonds and notes
+652 according to this chapter.
+653 (8) To procure insurance or guarantees from the state
+654 or federal government for the payments of any debts or parts
+655 of debts incurred by the local land bank authority, and to pay
+656 premiums in connection with the insurance or guarantees.
+657 (9) To enter into contracts and other instruments
+658 necessary, incidental, or convenient to the performance of its
+659 duties and the exercise of its powers, including, but not
+660 limited to, intergovernmental agreements under Chapter 102 of
+661 Title 11, for the joint exercise of powers under this chapter.
+662 (10) To enter into contracts and other instruments
+663 necessary, incidental, or convenient to the performance of
+664 functions by the local land bank authority on behalf of
+665 municipalities or agencies or departments of municipalities;
+666 or the departments of municipalities; or of functions on
+667 behalf of the local land bank authority.
+668 (11) To procure insurance against losses in connection
+669 with the real property, assets, or activities of the local
+670 land bank authority.
+671 (12) To invest money of the local land bank authority,
+672 at the discretion of the board of directors, in instruments,
+Page 24
+
+at the discretion of the board of directors, in instruments,
+HB402 INTRODUCED
+673 obligations, securities, or properties determined proper by
+674 the board of directors, and name and use depositories for its
+675 money.
+676 (13) To hire and compensate employees and contractors,
+677 to provide retirement and other forms of deferred
+678 compensation, to provide fringe benefits, and to otherwise
+679 contract with employees and contractors.
+680 (1)(14) Without the approval of a local unit of
+681 government in which property held by the local land bank
+682 authority is located, to control, hold, manage, maintain,
+683 operate, repair, lease as lessor, secure, prevent the waste or
+684 deterioration of, demolish, and take all other actions
+685 necessary to preserve the value of the property it holds or
+686 owns. An A local land bank authority may take or perform the
+687 following actions with respect to property held or owned by
+688 the local land bank authority:
+689 a. Grant or acquire a license, easement, or option with
+690 respect to property as the local land bank authority
+691 determines is reasonably necessary to achieve the purposes of
+692 this chapter.
+693 b. Fix, charge, and collect rents, fees, and charges
+694 for use of property under the control of the local land bank
+695 authority or for services provided by the local land bank
+696 authority.
+697 c. Pay any tax or special assessment due on property
+698 acquired or owned by the local land bank authority.
+699 d. Take any action, provide any notice, or institute
+700 any proceeding required to clear or quiet title to property
+Page 25
+
+any proceeding required to clear or quiet title to property
+HB402 INTRODUCED
+701 held by the local land bank authority in order to establish
+702 ownership by and vest title to property in the local land bank
+703 authority, including, but not limited to, a quiet title and
+704 foreclosure action pursuant to Section 24-9-8.
+705 e. Remediate environmental contamination on any
+706 property held by the local land bank authority.
+707 (2) Enter (15) To enter into an intergovernmental
+708 agreement with a municipality or county, or another local land
+709 bank authority, providing for one or more of the following:
+710 a. The conveyance to the local land bank authority of
+711 tax delinquent property held by the municipality or county for
+712 title clearance, including, but not limited to, a quiet title
+713 and foreclosure action under Section 24-9-8.
+714 b. The acquisition and title clearance of property by
+715 the local land bank authority of property to be conveyed by
+716 the local land bank authority to the municipality or county or
+717 another entity pursuant to the agreement between the local
+718 land bank authority and the municipality or county.
+719 c. The performance of operational and administrative
+720 services to be provided to another local land bank authority.
+721 (16) To acquire property at a sale conducted in
+722 accordance with Section 40-10-18 by tendering a bid equal to
+723 the minimum amount specified in the decree of sale, plus any
+724 subsequent costs and expenses. This bid shall be accepted, and
+725 a certificate of purchase issued to the local land bank
+726 authority. The tender of the minimum bid must be made in cash,
+727 with a credit for any part of the minimum bid already due and
+728 payable to the county, municipality, and school board whose
+Page 26
+
+payable to the county, municipality, and school board whose
+HB402 INTRODUCED
+729 taxes and liens are part of the minimum bid. After 90 days
+730 from the date of sale, upon return of the certificate, the
+731 judge of probate shall execute and deliver a deed for each lot
+732 or parcel of property purchased by the local land bank
+733 authority. The deed shall convey to the grantee all right,
+734 title, interest, and estate of any and all persons having an
+735 interest in the property as of the date of the sale.
+736 (17) To acquire a tax lien at an auction conducted in
+737 accordance with Section 40-10-184 by tendering a cash bid at
+738 an interest rate of 0.00 percent, which shall be accepted as
+739 the successful bid. The bid shall be tendered in cash, with a
+740 credit for any part of the minimum bid already due and payable
+741 to the county, municipality, and school board whose taxes and
+742 liens are part of the minimum bid.
+743 (18) To apply for and receive funding through grants
+744 and loans from the governmental unit or units that created the
+745 local land bank authority, other municipalities, the state,
+746 the federal government, and from other public and private
+747 sources.
+748 (19) To receive and retain payments for services
+749 rendered, rent and lease payments, consideration for
+750 disposition of real and personal property, proceeds of
+751 insurance coverage for losses incurred, income from
+752 investments, and for any other asset and activity lawfully
+753 permitted to a local land bank authority under this chapter.
+754 (f)(g) A local unit of government and any agency or
+755 department of such the local unit of government may do one or
+756 more any of the following:
+Page 27
+
+more any of the following:
+HB402 INTRODUCED
+757 (1) Anything necessary or convenient to aid a local
+758 land bank authority in fulfilling its purposes under Act
+759 2013-249 this chapter.
+760 (2) Lend, grant, transfer, appropriate, or contribute
+761 funds to a local land bank authority in furtherance of its
+762 purposes.
+763 (3) Lend, grant, transfer, or convey funds to a local
+764 land bank authority that are received from the federal
+765 government or, this state, or from any nongovernmental entity
+766 in aid of the purposes of Act 2013-249 this chapter.
+767 (h)(1) A local land bank authority created by a county
+768 may acquire real property only within the geographical
+769 boundaries of the county and only in those portions of the
+770 county outside of the geographical boundaries of the local
+771 land bank authority created by a municipality located
+772 partially or wholly within the county.
+773 (2) A local land bank authority created by a
+774 municipality may acquire real property in any of the following
+775 locations:
+776 a. Within its own geographical boundaries.
+777 b. Outside of its own geographical boundaries if the
+778 real property is not located within the boundaries of any
+779 other local land bank authority.
+780 c. Within the geographical boundaries of another local
+781 land bank authority pursuant to an intergovernmental agreement
+782 between the local land bank authorities.
+783 (g) In the event a county creates a local authority,
+784 the local authority may acquire real property that has been
+Page 28
+
+the local authority may acquire real property that has been
+HB402 INTRODUCED
+785 tax delinquent for three or more years only in those portions
+786 of the county located outside of the geographical boundaries
+787 of any other local authority created by any municipality
+788 located partially or entirely within the county. The Land Bank
+789 Authority may acquire real property that has been tax
+790 delinquent for three or more years only in those portions of
+791 the state located outside of the geographical boundaries of
+792 any local authority created by any municipality or county.
+793 (h)(i) Any local land bank authority formed by a
+794 municipality or county pursuant to this section shall continue
+795 to exist in accordance with its articles of incorporation and
+796 this section in the event that the number of tax delinquent
+797 properties in the local jurisdiction forming the local land
+798 bank authority subsequently decreases to 100 or less.
+799 (i)(j) Any local land bank authority formed by a
+800 municipality or county pursuant to this section shall permit
+801 the Alabama Department of Examiners of Public Accounts to
+802 perform an audit upon request by the department. The
+803 department shall assess the cost of the audit against the
+804 local land bank authority.
+805 (k) As public property used for public purposes, the
+806 real property of a local land bank authority, including, but
+807 not limited to, real property held by a local land bank
+808 authority pursuant to a long-term lease contract with
+809 community land trusts and its income, are exempt from all
+810 license fees, recording fees, stormwater fees, and other
+811 municipal assessments, and all other taxes imposed by the
+812 state or by any of its political subdivisions.
+Page 29
+
+state or by any of its political subdivisions.
+HB402 INTRODUCED
+813 (l) Up to 75 percent of the ad valorem taxes collected
+814 on any real property conveyed by a local land bank authority,
+815 excluding any state or school district ad valorem tax, shall
+816 be remitted to the local land bank authority. The exact
+817 percentage of the taxes to be remitted shall be specified in
+818 the local law, ordinance, resolution, or intergovernmental
+819 contract of the local land bank authority. The allocation of
+820 ad valorem tax revenues shall begin with the first taxable
+821 year after the conveyance and continue for a period of five
+822 consecutive tax years. The funds shall be remitted to the
+823 local land bank authority following the administrative
+824 procedures established by the tax commissioner or tax
+825 collecting official of the county where the local land bank
+826 authority is located. The allocation of ad valorem tax
+827 revenues shall not occur if the taxes have been previously
+828 pledged to secure a tax increment financing debt of the
+829 authorizing governmental subdivision creating the tax
+830 increment district pursuant to Chapter 99 of Title 11, unless
+831 the authorizing subdivision enters into an agreement with the
+832 local land bank authority to remit the funds."
+833 "§40-1-3
+834 From and after Beginning October 1 of each year, when
+835 property becomes assessable, the state shall have a lien upon
+836 each and on every piece or parcel of real property owned by
+837 any taxpayer for the payment of all taxes which may be
+838 assessed against him or her and upon each piece and parcel of
+839 property real or personal assessed to an owner unknown., which
+840 lien These liens shall continue remain until such the taxes
+Page 30
+
+lien These liens shall continue remain until such the taxes
+HB402 INTRODUCED
+841 are paid., and the The county shall have a like similar lien
+842 thereon for the payment of the for taxes which may be assessed
+843 by it.; and, if such If the property is within the limits of a
+844 municipal corporation, such that municipal corporation shall
+845 have a like similar lien thereon for the payment of the taxes
+846 whichthat may be assessed by it. These liens shall be superior
+847 to all other liens and shall exist in the order named, and
+848 each of such the liens may be enforced and foreclosed by sale
+849 for taxes as provided in this title, or as other liens upon
+850 property are enforced, except as otherwise provided by
+851 lawslaw. These taxes and liens shall include all liens
+852 transmitted to the tax collecting official by counties and
+853 municipal corporations in accordance with Sections 11-40-35,
+854 11-53B-16, 11-67-66, 45-37A-53, and any other state or local
+855 law authorizing the transmittal of nuisance abatement liens
+856 for weed removal and grass cutting."
+857 "§40-10-1
+858 (a) The probate court of each county may order the sale
+859 of lands therein for the payment of within its jurisdiction to
+860 pay taxes assessed on the lands, or against the owners of the
+861 lands, when the tax collector shall report reports to the
+862 court that he or she or the holder of a tax lien issued
+863 pursuant to Acts 1995, No. 95-408 Section 40-1-3 was unable to
+864 collect the taxes assessed against the land, or any mineral,
+865 timber, or water right or other special right, or easement
+866 therein rights or easements, or against the owner thereof,
+867 without a sale of the land.
+868 (b) For purposes of any enforcement proceedings under
+Page 31
+
+(b) For purposes of any enforcement proceedings under
+HB402 INTRODUCED
+869 this chapter, the taxes due shall include all liens of a
+870 municipality for housing and building code violations,
+871 enforcement actions, and nuisance abatement assessment liens
+872 that are transmitted to the tax collecting official in
+873 accordance with Title 11."
+874 "§40-10-18
+875 (a) If no person shall bid bids for any real estate
+876 property offered at such the sale an amount sufficient to pay
+877 the sum more than the minimum bid specified stated in the
+878 decree of sale, plus other subsequent and the costs and
+879 expenses subsequently accruing, and no minimum bid is tendered
+880 by a local government or a local land bank authority, the
+881 judge of probate shall bid in such real estate the real
+882 property for the state at a price not exceeding the sum
+883 specified in such decree and such subsequently accruing cost
+884 and expenses the minimum bid. In no event shall the judge of
+885 probate bid in for the state less than the entire amount of
+886 real estate property included in any assessment.
+887 (b) If no person bids more than the minimum bid
+888 specified in the decree of sale for any real property offered
+889 at the sale, plus other subsequent costs and expenses, a local
+890 government or local land bank authority where the real
+891 property is located may bid for the minimum amount.
+892 Notwithstanding subsection (a), this bid shall be accepted and
+893 a certificate of purchase issued to the entity. The minimum
+894 bid in accordance with this subsection shall be paid in cash
+895 with a credit for any amounts already due and payable to the
+896 county, municipality, and school board that make up part of
+Page 32
+
+county, municipality, and school board that make up part of
+HB402 INTRODUCED
+897 the minimum bid."
+898 "§40-10-29
+899 (a) After the expiration of three years from the date
+900 of the sale of any real estate for taxes, the judge of probate
+901 then in office must execute and deliver issue a deed to each
+902 lot or parcel of real estate sold to the purchaser, other than
+903 the state, or person to whom the certificate of purchase has
+904 been assigned, upon the return of the certificate, proof that
+905 all ad valorem taxes have been paid, and payment of a fee of
+906 five dollars ($5) to the judge of probate., a deed to each lot
+907 or parcel of real estate sold to the purchaser This deed
+908 covers each lot or parcel of real estate that has not been
+909 redeemed and remaining unredeemed, including therein and, if
+910 desired by the purchaser, it may includeany number of multiple
+911 parcels, or lots purchased by him or her at suchthe sale.; and
+912 such The deed shall convey to and vest in the grantee transfer
+913 all the right, title, interest and estate rights, titles,
+914 interests, and estates of the person whose duty it was to pay
+915 responsible for paying the taxes on such real estate and as
+916 well as the lien and claim of the state and county thereto,
+917 but it shall not convey the any right, title, or interest of
+918 any reversioner or remainderman therein.
+919 (b) After one year from the sale for the minimum bid to
+920 a local government or local land bank authority, and upon
+921 return of the certificate of purchase, the judge of probate
+922 shall execute and deliver to the purchaser a deed to the real
+923 property sold to the purchaser. The deed shall convey to and
+924 vest in the grantee all the rights, titles, interests, and
+Page 33
+
+vest in the grantee all the rights, titles, interests, and
+HB402 INTRODUCED
+925 estates of all persons having an interest in the real property
+926 as of the date of the sale."
+927 "§40-10-120
+928 (a)(1) Except as otherwise provided in this section,
+929 real property Real estate which hereafter that may be are sold
+930 for taxes and purchased by the state may be redeemed at any
+931 time before the title passes out of from the state. or, if If
+932 purchased by any other another purchaser, the property may be
+933 redeemed at any time within three years from the date of the
+934 sale by the owner, his or her heirs, or personal
+935 representatives, or by any mortgagee or purchaser of such
+936 lands, or any part thereof, any part of the real property, or
+937 by any person having an interest therein, or in any part
+938 thereof in all or part of the real property, legal or
+939 equitable, in severalty individually or as a tenant in common,
+940 including a judgment creditor or other creditor having a lien
+941 thereon lienholder., or on any part thereof; and an An infant
+942 or insane person of unsound mind entitled to redeem at any
+943 time before the expiration of three years from the sale may
+944 redeem at any time within one year after the removal of the
+945 disability; and such. The redemption may be of any part of the
+946 lands so sold property, sold, which includes the whole of the
+947 including the entire interest of the redemptioner. If the
+948 mortgage or other instrument creating a lien under which a
+949 party seeks creating the right to redeem is duly recorded at
+950 the time of before the tax sale, the party shall, in addition
+951 to the time herein specified, have the right to redeem the
+952 real estate sold, or any portion thereof covered by his or her
+Page 34
+
+real estate sold, or any portion thereof covered by his or her
+HB402 INTRODUCED
+953 mortgage or lien, at any time within one year from the date of
+954 written notice from the purchaser of his or her purchase of
+955 the lands at tax sale served upon such party the right to
+956 redeem extends additionally to one year after receiving
+957 written notice from the purchaser of the tax sale., and notice
+958 Notice served upon either the original mortgagees or
+959 lienholders or their transferee of record, or their heirs,
+960 personal representatives, or assigns shall be sufficient
+961 notice.
+962 (2) When any real property is sold for taxes and has
+963 also been sold in one or more prior sales for taxes without
+964 redemption from the prior tax sales, the three-year period for
+965 redemption shall be measured from the date of the earliest
+966 sale of the real property for taxes.
+967 (3) When any real property is sold for taxes at the
+968 minimum bid specified in the decree of sale and the real
+969 property is not lawfully occupied as a residence as of the
+970 date of the sale, the period for redemption shall be one year
+971 from the date of the sale if one or both of the following
+972 conditions apply:
+973 a. The minimum bid included amounts attributable to one
+974 or more housing and building code liens or nuisance abatement
+975 liens.
+976 b. Housing and building code liens or nuisance
+977 abatement liens had been filed of record prior to the date of
+978 the sale.
+979 (4) When any real property is sold to a local
+980 government or local land bank authority in accordance with
+Page 35
+
+government or local land bank authority in accordance with
+HB402 INTRODUCED
+981 Section 40-10-18 for the minimum bid specified in the decree
+982 of sale plus subsequent costs and expenses, the period for
+983 redemption shall be one year from the date of the sale.
+984 (b) If any real property has been sold for taxes and is
+985 subject to redemption from the sale as set forth in subsection
+986 (a) and has also been sold in one or more subsequent sales for
+987 taxes, then any party entitled to redeem such the sale for
+988 taxes may redeem such the sale if the redemptioner
+989 simultaneously redeems his or her sale and all subsequent
+990 sales. In the event of a redemption of successive sales, the
+991 redemption amount shall be ascertained by applying the
+992 provisions of Sections 40-10-121 and 40-10-122. Redemption
+993 amounts computed pursuant to Section 40-10-121 shall be paid
+994 as stated therein in that section. Redemption amounts computed
+995 pursuant to Section 40-10-122 shall be paid as stated therein
+996 in that section if the purchaser had the right to redeem
+997 pursuant to subsection (a) or was the owner of the then
+998 current tax certificate or tax title. Otherwise, those funds
+999 shall be disposed of as set forth in Section 40-10-28 and paid
+1000 to such the purchaser or his or her assignee only as set forth
+1001 in Section 40-10-28, with the time limits for such the
+1002 application computed utilizing using the sale date when the
+1003 purchaser's interest was sold for taxes."
+1004 "§40-10-184
+1005 (a) On the day and time designated for a tax lien
+1006 auction, the tax collecting official shall proceed to auction
+1007 all tax liens described in the tax lien auction list compiled
+1008 as provided in Section 40-10-183, except those for which the
+Page 36
+
+as provided in Section 40-10-183, except those for which the
+HB402 INTRODUCED
+1009 taxes, penalties, interest, fees, and costs due on the real
+1010 property have been paid. Any tax lien unsold after a tax lien
+1011 auction shall continue pursuant to Section 40-1-3 for future
+1012 auction or sale as provided in this article. Interest shall
+1013 continue to accrue on unsold tax liens at the rate imposed on
+1014 delinquent real property taxes.
+1015 (b)(1) A tax lien shall be sold at auction pursuant to
+1016 this article to the person who: (i) pays all taxes due,
+1017 including unpaid taxes for previous years, interest,
+1018 penalties, fees, and costs due on the property; (ii) pays an
+1019 administrative fee of forty-five dollars ($45), effective upon
+1020 the preparation of the tax lien auction list, plus the amount
+1021 to be paid to the holder of a tax lien certificate who has not
+1022 exercised his or her first right to purchase as provided in
+1023 Section 40-10-191; and (iii) bids the lowest interest rate on
+1024 the amount required to be paid to redeem the property from the
+1025 sale.
+1026 (2) The beginning interest rate bid shall not exceed a
+1027 rate of 12 percent. and additional Additional bids may be made
+1028 at a rate less than the immediately preceding bid.
+1029 (3) If an in-person auction ends in a tie and the
+1030 winner cannot be determined, the tax collecting official shall
+1031 draw lots to determine the winning bidder. If an online
+1032 auction ends in a tie and the winner cannot be determined, the
+1033 tie shall be resolved by a random number generator.
+1034 (c) The sale of a tax lien does not extinguish any deed
+1035 restriction, deed covenant, or easement on or appurtenant to
+1036 the parcel. A tax lien offered for auction or sale shall be
+Page 37
+
+the parcel. A tax lien offered for auction or sale shall be
+HB402 INTRODUCED
+1037 identified by a uniform parcel number and a legal
+1038 description."
+1039 "§40-10-199
+1040 (a) Tax liens that are not sold at the tax lien auction
+1041 conducted by the tax collecting official shall be separated in
+1042 the tax lien auction list as prescribed by Section 40-10-183,
+1043 and the lien shall continue pursuant to Section 40-1-3. The
+1044 Except as otherwise provided in this subsection, the tax
+1045 collecting official, at any time after the tax lien auction
+1046 date, may sell at private sale an unsold tax lien for no less
+1047 than all taxes, interest, penalties, costs, and fees, plus the
+1048 amount to be paid to the holder of a tax lien certificate who
+1049 has not exercised his or her first right to purchase as
+1050 provided in Section 40-10-191. A local land bank authority may
+1051 acquire the unsold tax lien for cash with a credit for any
+1052 part of the tax lien that is due and payable to the state,
+1053 county, municipality, and school board. The purchaser at
+1054 private sale shall be entitled to interest on the amount paid
+1055 at a rate agreed to by the tax collecting official, not to
+1056 exceed 12 percent. All private tax lien sales shall be entered
+1057 in the record of tax lien auctions and sales, as provided in
+1058 Section 40-10-188.
+1059 (b) All tax liens that remain unsold by the tax lien
+1060 auction or sale shall be included in all future tax lien
+1061 auctions or sales until sold.
+1062 (c) Any tax lien that does not sell at auction shall be
+1063 reported to the county commission when seeking approval of
+1064 errors in assessments, litigations litigation, or insolvents
+Page 38
+
+errors in assessments, litigations litigation, or insolvents
+HB402 INTRODUCED
+1065 as the tax collecting official shall be allowed credit for
+1066 taxes due to this state upon final settlement with the state
+1067 Comptroller."
+1068 Section 2. Sections 24-9-11 and 24-9-12 are added to
+1069 the Code of Alabama 1975, to read as follows:
+1070 §24-9-11
+1071 (a) A local land bank authority may convey ownership or
+1072 interest in real property to a state or local governmental
+1073 entity for purposes of floodplain management or stormwater
+1074 drainage in the event of all of the following:
+1075 (1) Floodplain management or stormwater retention or
+1076 drainage is the highest and best use of the real property.
+1077 (2) As a result of housing and building code
+1078 restrictions, floodplain elevations, and other local, state,
+1079 or federal law or public and private agreements, conditions,
+1080 and limitations, the real property is no longer suitable for
+1081 development or redevelopment.
+1082 (b)(1) A local land bank authority may convey ownership
+1083 of, or interest in, real property under this section by grant,
+1084 deed, lease, or other form of conveyance and may include
+1085 additional limitations, restrictions, and conditions to be
+1086 determined by the local land bank authority.
+1087 (2) Consideration for the conveyance may be any of the
+1088 following not otherwise prohibited by law:
+1089 a. A nominal monetary payment.
+1090 b. A contractual obligation in favor of the party to
+1091 which the real property is being conveyed.
+1092 c. An exchange of real property.
+Page 39
+
+c. An exchange of real property.
+HB402 INTRODUCED
+1093 d. Other consideration determined by the local land
+1094 bank authority and the party to whom the real property is to
+1095 be conveyed.
+1096 §24-9-12
+1097 (a) Upon declaring a state of emergency caused by a
+1098 natural disaster that causes widespread damage to, and
+1099 destruction of, real property and improvements and dislocation
+1100 of residents, the Governor may create a local land bank
+1101 authority in accordance with this section.
+1102 (1) The Governor may issue an executive order providing
+1103 for the immediate creation of a local land bank authority of a
+1104 local government located in whole or in part in a geographical
+1105 area that is subject to the declaration of the state of
+1106 emergency.
+1107 (2) The executive order shall provide for incorporation
+1108 and certification of the local land bank authority as required
+1109 under this chapter.
+1110 (b) Any local land bank authority created pursuant to
+1111 this section shall have all powers of a local land bank
+1112 authority created pursuant to Section 24-9-10.
+1113 (c) Upon the necessary and appropriate action of the
+1114 local governments having jurisdiction over the geographical
+1115 areas subject to the declaration of the state of emergency, a
+1116 local land bank authority created pursuant to this section may
+1117 be converted into a local land bank authority created pursuant
+1118 to Section 24-9-10, at which time the local land bank
+1119 authority shall be the successor in interest and at law to the
+1120 local land bank authority created pursuant to this section.
+Page 40
+
+local land bank authority created pursuant to this section.
+HB402 INTRODUCED
+1121 (d) In the event that a local land bank authority
+1122 created pursuant to this section is not converted pursuant to
+1123 subsection (c) within 12 months following the date of the
+1124 Governor's executive order, the local land bank authority
+1125 created by the executive order shall be dissolved in
+1126 accordance with the provisions of the Governor's executive
+1127 order.
+1128 Section 3. This act shall become effective on June 1,
+1129 2026.
+Page 41

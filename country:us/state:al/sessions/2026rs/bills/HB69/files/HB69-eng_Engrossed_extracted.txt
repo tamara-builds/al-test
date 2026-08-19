@@ -1,0 +1,360 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB69 ENGROSSED
+1 HB69
+2 CX3Y3JJ-2
+3 By Representative Hammett
+4 RFD: State Government
+5 First Read: 13-Jan-26
+6 PFD: 02-Dec-25
+Page 0
+
+PFD: 02-Dec-25
+HB69 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to the Alabama Department of Environmental
+10 Management and well driller licenses; to amend Sections
+11 22-24-1, 22-24-2, 22-24-3, 22-24-4, 22-24-5, 22-24-7, 22-24-8,
+12 and 22-24-11 of the Code of Alabama 1975; to further provide
+13 for the licensing of well drillers and other persons doing
+14 related activity; to increase the fees for licensure and
+15 provide a two-year licensure period; to require continuing
+16 education of licensees; and to authorize the Environmental
+17 Management Commission to adopt rules.
+18 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+19 Section 1. Sections 22-24-1, 22-24-2, 22-24-3, 22-24-4,
+20 22-24-5, 22-24-7, 22-24-8, and 22-24-11 of the Code of Alabama
+21 1975, are amended to read as follows:
+22 "§22-24-1
+23 For the purpose of this chapter, the following terms
+24 shall have the following meanings respectively ascribed to
+25 them by this section:
+26 (1) BOARD. The Alabama Department of Environmental
+27 Management. CATHODIC PROTECTION WELL. A borehole drilled for
+28 the purpose of installing equipment or a system for the
+Page 1
+
+the purpose of installing equipment or a system for the
+HB69 Engrossed
+29 electrical protection of metallic structures from corrosion.
+30 (2) DIRECTOR. The Director of the Alabama Department of
+31 Environmental Management.COMMISSION. The Environmental
+32 Management Commission.
+33 (3) DEPARTMENT. The Alabama Department of Environmental
+34 Management.
+35 (3)(4) DRILL. To drill or redrill, bore, auger, dig, or
+36 otherwise construct a water well.
+37 (4)(5) DRILLER. Any person who manages or supervises
+38 the drilling of a water well.
+39 (6) GEOTHERMAL WELL. A borehole drilled for the purpose
+40 of obtaining or exchanging geothermal energy for use with
+41 geothermal air conditioning or heat pump systems. The term
+42 does not include any offshore well.
+43 (5)(7) LOG. A record of the type of material or rock
+44 penetrated in the drilling of a water well.
+45 (8) MONITORING WELL. A borehole drilled for the purpose
+46 of locating and sampling for engineering or geological data.
+47 (6)(9) PERSON. Any individual, organization, group,
+48 association, partnership, corporation, or any combination of
+49 them other business entity operating a business to drill water
+50 wells.
+51 (10) PUMP. All machinery, parts, and fittings installed
+52 on or attached to a well.
+53 (11) RELATED ACTIVITY. Any activity reasonably related
+54 to drilling, maintaining, or repairing a well or pump,
+55 including grouting, plugging, abandoning, and decommissioning
+56 a well or borehole.
+Page 2
+
+a well or borehole.
+HB69 Engrossed
+57 (7)(12) SAMPLE. Cuttings or other fragments of rock or
+58 soil materials removed from the a well.
+59 (8)(13) WATER WELL. A hole borehole drilled for the
+60 production of water.
+61 (14) WELL. A water well, monitoring well, geothermal
+62 well, or cathodic protection well."
+63 "§22-24-2
+64 (a) It is the intent of the Legislature that this
+65 chapter applies solely to wells drilled for the production of
+66 water and water wells, monitoring wells, geothermal wells, and
+67 cathodic protection wells; pump installation, maintenance, and
+68 repair; and any related activity.
+69 (b) This chapter has no application to wells or holes
+70 drilled, augered, cored, or dug for quarry blast holes or
+71 mineral prospecting or any purpose other than water
+72 production."
+73 "§22-24-3
+74 (a) The board is authorized and directed to make,
+75 promulgate and publish such commission shall adopt rules
+76 pursuant to the Alabama Administrative Procedure Act, Chapter
+77 22 of Title 41, and Section 22-22A-8 of the Environmental
+78 Management Act and regulations as it deems reasonable and
+79 necessary to effectuate and carry out the purpose and
+80 provisions of this chapter, and a true copy of such rules and
+81 regulations shall be kept on file with the Secretary of State
+82 and copies thereof shall be made available for public
+83 distribution.
+84 (b) Prior to any rule change being proposed by the
+Page 3
+
+(b) Prior to any rule change being proposed by the
+HB69 Engrossed
+85 commission, the department shall consult with the Alabama
+86 Ground Water Association and other affected parties, as
+87 determined by the department, not less than 60 days prior to
+88 any proposed rule change being filed with the Legislative
+89 Services Agency, Legal Division.
+90 (c) The board department shall cause administer and
+91 enforce this chapter and all rules and regulations it
+92 promulgates to be enforced adopted pursuant to this chapter."
+93 "§22-24-4
+94 It shall be unlawful for any No person to operate any
+95 equipment or machinery in the drilling may drill or repair of
+96 a water well, monitoring well, geothermal well, or cathodic
+97 protection well; install, maintain, or repair a pump; or
+98 perform any related activity unless the overall operation is,
+99 at all times, performed by or under the supervision and
+100 management of a person licensed water well driller as provided
+101 for in pursuant to this chapter."
+102 "§22-24-5
+103 Every person who intends to drill water wells within
+104 the State of Alabama shall annually obtain from the board a
+105 water well driller's license and, in order to obtain said
+106 license, shall file with the board, in accordance with rules
+107 and regulations as established by the board, an application
+108 form, to be made available by the board. Any person, upon
+109 filing said application and receiving approval of the board,
+110 shall pay an annual fee of $200.00 to the board, and the
+111 payment of said fee shall entitle said person to the full and
+112 complete privileges of drilling water wells, as provided in
+Page 4
+
+complete privileges of drilling water wells, as provided in
+HB69 Engrossed
+113 this chapter, and the board shall issue a license for a period
+114 not to exceed one year. Said annual fee paid to the board
+115 shall not exempt a person from additional state or county
+116 privilege taxes.(a) A person who manages or supervises the
+117 drilling or repair of a water well, monitoring well,
+118 geothermal well, or cathodic protection well; installs,
+119 maintains, or repairs a pump; or performs any related activity
+120 shall be licensed under this chapter.
+121 (b) The department shall issue two types of licenses as
+122 follows:
+123 (1) An Unrestricted Well Driller's License. A license
+124 that authorizes a person to engage in the business of: (i)
+125 drilling and repairing water wells, monitoring wells,
+126 geothermal wells, and cathodic protection wells; (ii)
+127 installing, maintaining, and repairing pumps; and (iii) any
+128 related activity.
+129 (2) A Restricted License. A license that authorizes a
+130 person to engage in only one or more of the following
+131 activities as specified in the conditions of the license:
+132 a. Drilling of and related activity for a specific type
+133 of well.
+134 b. Installation, maintenance, and repair of pumps.
+135 (c) A license may be issued to an individual or to a
+136 business entity. A license may only be issued to a business
+137 entity if a principal employee who is individually licensed is
+138 listed on the business entity's license.
+139 (d) Commencing October 1, 2026, all licenses issued by
+140 the department shall be valid for a two-year license period.
+Page 5
+
+the department shall be valid for a two-year license period.
+HB69 Engrossed
+141 (e)(1) The department shall charge a fee to issue a
+142 license as follows:
+143 a. An unrestricted license fee shall be one thousand
+144 dollars ($1,000).
+145 b. A restricted license fee shall be five hundred
+146 dollars ($500).
+147 (2) An additional fee of five hundred dollars ($500)
+148 shall be charged for the issuance of a business license.
+149 (f) A license shall be renewed on October 1 and shall
+150 be delinquent if not paid by December 31 of each renewal
+151 period. Any renewal that is delinquent may be renewed by the
+152 payment of an additional delinquency fee of twenty dollars
+153 ($20) per month of delinquency, for up to one year.
+154 (g) An applicant for an initial individual license
+155 shall be subject to examination and shall satisfy all
+156 requirements as provided by rule of the commission. The
+157 license fee for a new licensee shall be prorated on a monthly
+158 basis for the balance of the license period.
+159 (h)(1) Commencing on the renewal of each license for
+160 the license period beginning on October 1, 2028, each
+161 individual licensee shall submit proof of completing eight
+162 hours of continuing education approved by the department
+163 according to license type to renew a license.
+164 (2) A licensee who fails to submit proof of completing
+165 the required continuing education shall be given a grace
+166 period to complete the continuing education until March 31
+167 after the commencement of the new license period."
+168 "§22-24-7
+Page 6
+
+"§22-24-7
+HB69 Engrossed
+169 (a) A license may be refused or The department may
+170 refuse to issue a license, a suspend or revoke an issued
+171 license duly issued may be suspended or revoked, or the refuse
+172 to renew a license renewal thereof refused by the board, if,
+173 after notice and hearing as provided in this section, it the
+174 department finds that the applicant for, or holder of, such a
+175 license:
+176 (1) Is unable to present evidence of his or her
+177 qualifications suitable to the board department;
+178 (2) Has intentionally made a material misstatement in
+179 the application for such a license;
+180 (3) Has willfully violated any provision of this
+181 chapter;
+182 (4) Has obtained, or attempted to obtain, such a
+183 license by fraud or misrepresentation;
+184 (5) Has been guilty of fraudulent or dishonest
+185 practices; or
+186 (6) Has demonstrated lack of competence as a driller of
+187 water wells.
+188 (b) Before any license shall be is refused, or
+189 suspended, or revoked, or the renewal thereof of a license is
+190 refused, under this section, the board department shall give
+191 notice of its intention to do so by registered or certified
+192 mail to the applicant for, or holder of, such a license and
+193 shall set a date not less than 20 days from the date of
+194 mailing such the notice when the applicant or licensee may
+195 appear to be heard and produce evidence. In the conduct of
+196 such During the hearing, the board department, or an
+Page 7
+
+such During the hearing, the board department, or an
+HB69 Engrossed
+197 authorized representative specially designated by it the
+198 department for such that purpose, shall have power to may
+199 administer oaths, to require the appearance of and examine any
+200 person under oath, to and require the production of books,
+201 records, or papers relevant to the inquiry upon its own
+202 initiative or upon the request of the applicant or licensee.
+203 Upon termination of such the conclusion of the hearing, the
+204 findings shall be reduced to writing and, upon approval by the
+205 board department, shall be filed in its office and notice of
+206 the findings and resulting decision shall be sent by
+207 registered or certified mail to the applicant or licensee
+208 concerned.
+209 (c) No licensee whose license has been revoked under
+210 this section shall be entitled to file another application for
+211 a license as a water well driller under this chapter within
+212 one year from the effective date of such the revocation or, if
+213 judicial review of such the revocation is sought, within one
+214 year from the date of final court order or judgment affirming
+215 such the revocation. Such The application, when filed, may be
+216 refused by the board department unless the applicant shows
+217 good cause why revocation of his or her license shall not be
+218 deemed a bar to the issuance of a new license."
+219 "§22-24-8
+220 It shall be unlawful and a violation of this chapter to
+221 drill a water well within the State of Alabama unless the
+222 following provisions are complied with:(a) A licensee shall do
+223 all of the following while performing an activity for which a
+224 license is required by this chapter:
+Page 8
+
+license is required by this chapter:
+HB69 Engrossed
+225 (1) The driller of the water well shall be licensed as
+226 provided in Section 22-24-5.
+227 (2)(1) The driller shall, at At all times during the
+228 drilling of a water well, keep posted in a conspicuous
+229 location, at or near the well being drilled or on his person,
+230 the appropriate license certificate as furnished on the
+231 drilling equipment a current sticker issued by the department
+232 indicating licensure by the board.
+233 (3)(2) Before the commencement of the drilling
+234 operation starting the construction of a well, the driller
+235 shall file an application of intent to drill a water well, as
+236 directed by the board department.
+237 (4)(3) The driller of the well, within Within 30 days
+238 after completion of completing the drilling of each water a
+239 well, shall deliver to the board department a well completion
+240 certification form, upon forms to be supplied by the board, a
+241 "report of well drilled.". The board department shall notify
+242 the local health authorities within seven days of the receipt
+243 thereof receiving the certification for potable and
+244 agricultural water wells only.
+245 (5)(4) The driller shall furnish Furnish a log and a
+246 set of samples to the State Geological Survey from wells
+247 specifically designated by the board department or State
+248 Geologist. The samples shall be collected during the drilling
+249 at intervals of not more than 10 feet.
+250 (b) The commission, by rule, may adopt a schedule of
+251 fees due for the filing of a well completion certification
+252 form pursuant to subdivision (a)(3). A fee may not exceed one
+Page 9
+
+form pursuant to subdivision (a)(3). A fee may not exceed one
+HB69 Engrossed
+253 thousand dollars ($1,000) and shall be in an amount according
+254 to whether the well is used for an industrial, commercial, or
+255 domestic purpose or other criteria as determined by rule of
+256 the commission. The fee for a single-family residence or
+257 duplex may not exceed two hundred fifty dollars ($250). The
+258 fees may be paid electronically. All fees shall be deposited
+259 into the Environmental Management Fund and used for the
+260 administration of this chapter and shall not revert to the
+261 State General Fund at the end of each fiscal year."
+262 "§22-24-11
+263 Any person guilty of violating any of the provisions of
+264 who violates this chapter or any rule adopted pursuant to this
+265 chapter or the rules and regulations adopted thereunder shall
+266 be guilty of a misdemeanor and may be punished by a fine of
+267 not less than $100.00 nor more than $500.00 for each
+268 violation. Each day the violation continues shall be
+269 considered a separate violation. Any and all funds derived
+270 from such fines shall be deposited with the State Treasurer in
+271 the Alabama Department of Environmental Management Fund is
+272 subject to Section 22-22A-5 of the Alabama Environmental
+273 Management Act."
+274 Section 2. All rules of the Alabama Department of
+275 Environmental Management in Division 9 of Title 335 of the
+276 Alabama Administrative Code shall continue as rules of the
+277 Environmental Management Commission until amended or repealed.
+278 Section 3. This act shall become effective on October
+279 1, 2026.
+Page 10
+
+1, 2026.
+HB69 Engrossed
+280
+281
+282 House of Representatives
+283 Read for the first time and referred ................13-Jan-26
+284 to the House of Representatives
+285 committee on State Government
+286
+287 Read for the second time and placed ................14-Jan-26
+288 on the calendar:
+289 0 amendments
+290
+291 Read for the third time and passed ................22-Jan-26
+292 as amended
+293 Yeas 93
+294 Nays 0
+295 Abstains 9
+296
+297
+298 John Treadwell
+299 Clerk
+300
+Page 11

@@ -1,0 +1,584 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB170 INTRODUCED
+1 HB170
+2 L5C9VWA-1
+3 By Representative Robbins
+4 RFD: Children and Senior Advocacy
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+L5C9VWA-1 01/09/2026 GP (L)lg 2025-2897
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require a parent or guardian to
+6 establish a trust for a minor 18 years of age or
+7 younger who is a performer or featured in social media
+8 content, if certain thresholds relating to the amount
+9 the minor is featured in the social media content and
+10 the amount the content creator and minor are
+11 compensated are met.
+12 This bill would require each content creator to
+13 regularly determine whether any minors featured in his
+14 or her content qualify for compensation or the
+15 establishment of a trust and, if so, notify the minor's
+16 parent or guardian.
+17 This bill would provide for the calculation of
+18 compensation which must be transferred to a minor's
+19 trust, the timeline for the transfer, and would require
+20 transfers to the trust to comply with the Uniform
+21 Transfers to Minors Act.
+22 This bill would allow a content creator to
+23 petition the court for an exemption to the requirements
+24 of this bill, and would allow a court to grant the
+25 exemption if complying with the bill would cause an
+26 undue hardship and the content creator presents an
+27 alternative plan that is in the best interest of the
+28 minor.
+Page 1
+
+minor.
+HB170 INTRODUCED
+29 This bill would allow the minor's parent or
+30 guardian to serve as the trustee of the trust, unless
+31 the average monthly balance of the trust exceeds
+32 $250,000, in which case the parent or guardian must
+33 petition the court for the appointment of a trustee.
+34 This bill would prohibit a minor's parent or
+35 guardian from accessing the funds of the trust, and
+36 require the beneficiary to be given access to the funds
+37 on the day he or she turns 19 years of age.
+38 This bill would require certain content creators
+39 to maintain records relating to the earnings,
+40 compensation, and trust transfers for minors featured
+41 in their social media content.
+42 This bill would create a cause of action for a
+43 minor against a content creator, trustee, or parent or
+44 guardian for failure to comply with the requirements of
+45 this bill, provided that any such claims must be
+46 brought not later than five years after the minor turns
+47 19 years of age.
+48 This bill would exempt represented minors who
+49 maintain an employment contract with the content
+50 creator from requirements relating to a trust.
+51 This bill would require social media companies
+52 to develop a procedure for individuals covered by this
+53 bill, once they reach 19 years of age, to request that
+54 content featuring them as a minor be deleted or edited
+55 by the content creator.
+56 This bill would allow such an individual to
+Page 2
+
+This bill would allow such an individual to
+HB170 INTRODUCED
+57 bring a cause of action against a content creator who
+58 refuses to delete or edit social media content that
+59 features the individual while he or she was a minor and
+60 would provide factors that a court must consider when
+61 determining whether to require the deletion or editing.
+62 This bill would also not apply to represented
+63 minors who maintain an employment contract with the
+64 content creator.
+65
+66
+67 A BILL
+68 TO BE ENTITLED
+69 AN ACT
+70
+71 Relating to consumer protection; to require a trust to
+72 be established for certain minors who are performers or
+73 featured in social media content; to provide for the
+74 calculation of compensation which must be transferred to the
+75 trust; to allow the parent or guardian of the minor to serve
+76 as trustee, with exceptions; to create a cause of action for
+77 an individual against another individual who fails to comply
+78 with trust requirements, subject to a statute of limitation;
+79 to require social media companies to develop a procedure for
+80 individuals to request the deletion or editing of social media
+81 content that features them as a minor; to create a cause of
+82 action for an individual against a content creator who refuses
+83 to delete or edit such content; to provide factors for a court
+84 to consider when determining to require the deletion or
+Page 3
+
+to consider when determining to require the deletion or
+HB170 INTRODUCED
+85 editing of such content; and to exclude certain represented
+86 minors.
+87 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+88 Section 1. For the purposes of this act, the following
+89 terms have the following meanings:
+90 (1) COMPENSATED CONTENT. Paid minutes that feature a
+91 qualifying minor's personal content.
+92 (2) CONTENT CREATOR. An individual who produces social
+93 media content. The term does not include a minor who is the
+94 sole producer of the minor's own social media content.
+95 (3) CONTENT SHARE. The percentage of minutes of the
+96 content creator's social media content that featured the
+97 personal content of an individual other than the content
+98 creator.
+99 (4) EMOTIONAL HARM OR SUBSTANTIAL EMBARRASSMENT.
+100 Psychological or emotional distress that a reasonable,
+101 similarly situated individual would feel, resulting from the
+102 individual's personal content appearing in a content creator's
+103 social media content.
+104 (5) INCOME FROM SOCIAL MEDIA. The net income a content
+105 creator receives from creating social media content after
+106 making reasonable deductions for administrative costs. The
+107 term includes any income the content creator directly or
+108 indirectly earns from social media content, including, but not
+109 limited to, advertisement revenue, compensation from creator
+110 funds, payments for brand partnerships, and money earned
+111 through a subscription or tipping platform. For the purposes
+112 of this subdivision, "administrative costs" includes
+Page 4
+
+of this subdivision, "administrative costs" includes
+HB170 INTRODUCED
+113 reasonable costs that a content creator incurs when making
+114 social media content, such as expenses directly related to the
+115 production of social media content and a social media service
+116 fee, but does not include any income a content creator pays to
+117 himself or herself.
+118 (6) MINOR. An individual who is under 19 years of age.
+119 (7) MINOR CONTENT EARNINGS. Any portion of income from
+120 social media which resulted from paid minutes featuring a
+121 qualifying minor.
+122 (8) PAID MINUTES. The total number of minutes of social
+123 media content that generates income from social media.
+124 (9) PERFORMER. a. An individual who, either directly or
+125 through a third party, does any of the following:
+126 1. Renders artistic or creative services in a motion
+127 picture, social media content, or a theatrical, radio, or
+128 television production in exchange for compensation under an
+129 employment contract.
+130 2. Agrees to sell, lease, license, transfer, exchange,
+131 or otherwise dispose of any of the following for the purpose
+132 of use in motion pictures or theatrical, radio, or television
+133 productions:
+134 (i) Literary, musical, artistic, or dramatic
+135 properties.
+136 (ii) The use of the individual's name, likeness,
+137 recording, or performance.
+138 (iii) The story of or the incidents in the life of the
+139 individual.
+140 3. Appears in social media content as a market value
+Page 5
+
+3. Appears in social media content as a market value
+HB170 INTRODUCED
+141 compensated minor.
+142 b. The term includes an individual who engages in an
+143 activity described in subparagraphs 1. or 2. as an actor or
+144 actress, a dancer, a musician, a stunt double, a writer, a
+145 director, a producer, a choreographer, a composer, a
+146 conductor, a designer, or a represented minor.
+147 (10) PERSONAL CONTENT. Social media content that
+148 features an individual's name, likeness, or photograph, or for
+149 which an individual is the subject of an oral narrative.
+150 (11) SOCIAL MEDIA COMPANY. An entity that owns or
+151 operates a social media service.
+152 (12) SOCIAL MEDIA CONTENT. Video content shared on a
+153 social media service that meets the social media service's
+154 threshold for the generation of income from social media.
+155 (13) SOCIAL MEDIA SERVICE. a. A public website or
+156 application that does all of the following:
+157 1. Displays content that is primarily generated by
+158 account holders and not by the social media company.
+159 2. Permits an individual to register as an account
+160 holder and create a profile that is made visible to the
+161 general public or a set of other users as defined by the
+162 account holder.
+163 3. Makes available to each account holder a list or
+164 lists of other account holders with whom the account holder
+165 shares a connection within the system.
+166 4. Allows account holders to post content viewable by
+167 other users.
+168 b. The term does not include email; cloud storage; or
+Page 6
+
+b. The term does not include email; cloud storage; or
+HB170 INTRODUCED
+169 document viewing, sharing, or collaboration services.
+170 Section 2. (a) On the first day of each calendar month,
+171 each content creator shall determine the content share for
+172 each individual, other than the content creator, who was
+173 featured in the content creator's social media content that
+174 was published in the immediately preceding calendar month.
+175 (b) For the purposes of implementing the requirements
+176 of this act, the content creator shall use the content share
+177 to classify minors who are featured in the content creator's
+178 social media content as follows:
+179 (1) As a market value compensated minor, if the minor
+180 meets all of the following criteria:
+181 a. In the preceding calendar year, has an average
+182 monthly content share of at least 30 percent of a content
+183 creator's content.
+184 b. Is featured in social media content where the
+185 content creator is the parent or guardian of the minor and
+186 received at least one hundred fifty thousand dollars
+187 ($150,000) of income from social media in the preceding
+188 calendar year.
+189 c. Receives compensation for appearing in a content
+190 creator's content which is substantially equivalent to the
+191 compensation that similarly situated represented minors would
+192 receive.
+193 d. Is not represented in negotiations relating to the
+194 minor's appearance in the content creator's content.
+195 e. Is not a qualified minor or a represented minor.
+196 (2) As a qualifying minor, if both of the following are
+Page 7
+
+(2) As a qualifying minor, if both of the following are
+HB170 INTRODUCED
+197 satisfied:
+198 a. A content creator determines on January 1 of each
+199 year, that in the immediately preceding calendar year, the
+200 minor:
+201 1. Had an average monthly content share of at least 30
+202 percent of the content creator's content; and
+203 2. Was featured in social media content where the
+204 content creator received income from social media of at least
+205 one hundred fifty thousand dollars ($150,000) in the calendar
+206 year.
+207 b. Is not a represented minor or market value
+208 compensated minor.
+209 (3) As a represented minor, if the minor meets all of
+210 the following criteria:
+211 a. In the preceding calendar year, has an average
+212 monthly content share of at least 30 percent of a content
+213 creator's content.
+214 b. Is featured in social media content where the
+215 content creator received income from social media of at least
+216 one hundred fifty thousand dollars ($150,000) in the preceding
+217 calendar year.
+218 c. Is represented by a parent, guardian, attorney, or
+219 other individual with fiduciary duty to the minor and who is
+220 not the content creator in negotiations relating to a minor's
+221 appearance in a content creator's social media content.
+222 d. The minor's parent, guardian, attorney, or other
+223 individual with a fiduciary duty to the minor enters into an
+224 employment agreement with the content creator.
+Page 8
+
+employment agreement with the content creator.
+HB170 INTRODUCED
+225 Section 3. (a) As used in this section, the term
+226 "employer," as it relates to a market value compensated minor,
+227 means the market value compensated minor's parent or guardian.
+228 (b) On or before January 31 of each calendar year, if
+229 in the preceding calendar year a performer who is a minor
+230 earned income of twenty thousand dollars ($20,000) or more,
+231 the performer's parent or guardian shall:
+232 (1) Establish a trust for the benefit of the performer
+233 in accordance with Chapter 5A of Title 35, Code of Alabama
+234 1975, unless such a trust is already established; and
+235 (2) Unless the performer is a market value compensated
+236 minor, notify the performer's employer of the existence of the
+237 trust and any additional information required for the employer
+238 to transfer gross earnings to the trust.
+239 (c) The performer's parent or guardian may serve as the
+240 trustee of the trust, subject to the following:
+241 (1) If the average monthly balance of the trust exceeds
+242 two hundred fifty thousand dollars ($250,000) for a
+243 consecutive period of at least six months:
+244 a. The trustee of the trust shall petition a court to
+245 appoint a trustee to replace the parent or guardian as
+246 trustee; and
+247 b. After receiving a petition under this subdivision, a
+248 court shall appoint a new trustee to replace the trustee.
+249 (2) A performer's parent or guardian may not access the
+250 funds in the trust.
+251 (3) A beneficiary of a trust established under this
+252 section may access the funds in the trust beginning the day on
+Page 9
+
+section may access the funds in the trust beginning the day on
+HB170 INTRODUCED
+253 which the beneficiary turns 19 years of age.
+254 (d)(1) The employer of a performer who is a minor shall
+255 transfer 15 percent of the performer's gross earnings into the
+256 trust as follows:
+257 a. If the performer's term of employment is 30 days or
+258 fewer, not later than 30 days after the day on which the
+259 minor's employment terminates.
+260 b. If the performer's term of employment is more than
+261 30 days, on the same date that the employer makes payments in
+262 accordance with the employer's regular pay period.
+263 (2) The performer's employer shall make the transfer
+264 described in this subsection in accordance with Chapter 5A of
+265 Title 35, Code of Alabama 1975.
+266 (3) After the performer's employer completes the
+267 transfer described in this subsection, the performer's
+268 employer has no further obligations under this section.
+269 (e)(1) Notwithstanding any other statute of limitation
+270 or repose that may be applicable to an action described in
+271 this section, an individual, for up to five years after the
+272 day on which the individual turns 19 years of age, has a right
+273 of action against all of the following:
+274 a. An employer, if the employer fails to transfer funds
+275 to the individual's trust as required under this section.
+276 b. An individual's parent or guardian, if the
+277 individual's parent or guardian fails to establish a trust as
+278 required under this section or notify the individual's
+279 employer of the existence of the trust as required under this
+280 section.
+Page 10
+
+section.
+HB170 INTRODUCED
+281 c. The trustee of the individual's trust, if the
+282 trustee failed to appoint a trust company to serve as trustee
+283 of the trust as required under this section.
+284 (2) If an individual brings a cause of action under
+285 this subsection, a court may award any of the following:
+286 a. Actual damages.
+287 b. Punitive damages.
+288 c. Reasonable costs and attorney fees.
+289 d. Any other remedy provided by law.
+290 Section 4. (a)(1) On January 1 of each year, each
+291 content creator shall determine whether any portion of the
+292 content creator's social media content during the preceding
+293 calendar year contained a qualified minor.
+294 (2) Not later than January 15 of each year, the content
+295 creator shall inform each qualifying minor's parent or
+296 guardian in writing that the minor is a qualifying minor and
+297 of the amount of compensation the content creator is required
+298 to pay to the qualifying minor in accordance with subsection
+299 (d), unless the content creator is the qualified minor's
+300 parent or guardian.
+301 (3) If the total amount of compensation described in
+302 subdivision (2) equals or exceeds twenty thousand dollars
+303 ($20,000) for the preceding calendar year, not later than
+304 February 1 of each year, the qualifying minor's parent or
+305 guardian shall do all of the following:
+306 a. Establish a trust for the benefit of the qualifying
+307 minor in accordance with Chapter 5A of Title 35, Code of
+308 Alabama 1975, unless such a trust is already established.
+Page 11
+
+Alabama 1975, unless such a trust is already established.
+HB170 INTRODUCED
+309 b. Notify the content creator of the existence of the
+310 trust.
+311 c. Provide any additional information required for the
+312 content creator to make transfers of gross earnings into the
+313 trust.
+314 (b)(1) A content creator that produces social media
+315 content featuring a qualifying minor shall maintain a monthly
+316 record of all of the following:
+317 a. The content creator's income from social media.
+318 b. The qualifying minor's name and documentation of the
+319 qualifying minor's age.
+320 c. The content creator's paid minutes.
+321 d. The content earnings of any qualifying minor
+322 featured in the content creator's social media content.
+323 e. The compensated content of any qualifying minor
+324 featured in the content creator's social media content.
+325 f. The funds transferred into a trust for the benefit
+326 of a qualifying minor, as described in subsection (d).
+327 (2) The content creator shall:
+328 a. Retain the records described in this subsection for
+329 at least two years after the day on which the content creator
+330 creates the records;
+331 b. Provide notice to the qualifying minor of the
+332 existence of the records; and
+333 c. Make the records readily available to the minor for
+334 review upon request from the qualifying minor.
+335 (c) The qualifying minor's parent or guardian may serve
+336 as the trustee of the trust, subject to the following:
+Page 12
+
+as the trustee of the trust, subject to the following:
+HB170 INTRODUCED
+337 (1) If the average monthly balance of the trust exceeds
+338 two hundred fifty thousand dollars ($250,000) for a
+339 consecutive period of at six least months:
+340 a. The trustee of the trust shall petition a court to
+341 appoint a trustee to replace the parent or guardian as
+342 trustee; and
+343 b. After receiving a petition under this subdivision, a
+344 court shall appoint a new trustee to replace the trustee.
+345 (2) The qualifying minor's parent or guardian may not
+346 access the funds in the trust.
+347 (3) A beneficiary of a trust established under this
+348 section may access the funds of the trust beginning the day on
+349 which the beneficiary turns 19 years of age.
+350 (d)(1) If a content creator's content had minor content
+351 earnings during the preceding month, the content creator shall
+352 use the formula E = (A/T) * (Q/S) * (M/2) or the formula E =
+353 (A/T) * (1/X) * (M/2) to determine how much of the earnings
+354 must be transferred to each qualifying minor. For the purposes
+355 of the formula, the following letters equal the following
+356 amounts:
+357 a. E = a qualifying minor's earnings.
+358 b. A = all paid minutes featuring any qualifying minor.
+359 c. T = total paid minutes.
+360 d. Q = paid minutes featuring the qualifying minor.
+361 e. S = the sum of paid minutes for all qualifying
+362 minors.
+363 f. M = the preceding month's income from social media.
+364 g. X = the total number of qualifying minors.
+Page 13
+
+g. X = the total number of qualifying minors.
+HB170 INTRODUCED
+365 (2) The content creator shall transfer the minor's
+366 earnings described in subdivision (1) directly to the
+367 qualifying minor, except that after the qualifying minor's
+368 parent or guardian establishes a trust as described in
+369 subsection (a), the trustee shall transfer the qualifying
+370 minor's earnings calculated to each qualifying minor's trust.
+371 (e)(1) The content creator shall make a transfer
+372 described in subsection (d) in accordance with Chapter 5A of
+373 Title 35, Code of Alabama 1975.
+374 (2) The content creator shall make the calculations and
+375 the transfers described in subsection (d) before the end of
+376 the month following the month in which the content creator
+377 received minor content earnings.
+378 (f)(1) A content creator may petition a court for an
+379 exception to subsection (d) if all of the following apply:
+380 a. The content creator shows that complying with
+381 subsection (d) causes undue hardship.
+382 b. The content creator provides an alternative plan to
+383 distribute compensation to a qualifying minor.
+384 c. The content creator commits to establishing an
+385 alternative trust that complies with the requirements of this
+386 section.
+387 (2) A court shall issue an order granting an exception
+388 to subsection (d) if the court determines both of the
+389 following:
+390 a. The content creator adequately shows that complying
+391 with subsection (d) causes undue hardship.
+392 b. The alternative plan provided by the content creator
+Page 14
+
+b. The alternative plan provided by the content creator
+HB170 INTRODUCED
+393 is in the best interest of the qualifying minor.
+394 (g)(1) Notwithstanding any other statute of limitation
+395 or repose that may be applicable to an action described in
+396 this section, an individual, for up to five years after the
+397 day on which the individual turns 19 years of age, has a right
+398 of action against each of the following:
+399 a. A content creator, if the content creator fails to
+400 transfer funds to the individual's trust during the time the
+401 individual was a qualifying minor as required under this
+402 section.
+403 b. The individual's parent or guardian, if the parent
+404 or guardian fail to establish a trust as required under this
+405 section or notify the content creator of the existence of the
+406 trust as required under this section.
+407 c. A trustee, if the trustee fails to appoint a trust
+408 company to serve as the trustee as required under this
+409 section.
+410 (2) An individual retains a right of action under this
+411 subsection only if a court did not issue an order granting an
+412 exception as described in subsection (f).
+413 (h) If an individual brings a cause of action under
+414 subsection (g), a court may award any of the following:
+415 (1) Actual damages.
+416 (2) Punitive damages.
+417 (3) Reasonable costs and attorney fees.
+418 (4) Any other remedy provided by law.
+419 (i) A minor who creates, produces, or publishes the
+420 minor's own social media content is entitled to all
+Page 15
+
+minor's own social media content is entitled to all
+HB170 INTRODUCED
+421 compensation resulting from the social media content.
+422 (j) The provisions of this section supersede any
+423 agreement related to venue, arbitration, or mediation in a
+424 contract entered into after the effective date of this act,
+425 between a qualifying minor and a content creator.
+426 Section 5. (a)(1) An individual who is at least 19
+427 years of age may make a request to a social media company that
+428 a content creator delete or edit any social media content that
+429 the content creator posted featuring the individual as a
+430 qualifying minor or a market value compensated minor. The
+431 social media company may verify the age of the individual when
+432 the individual submits the request.
+433 (2) Each social media company shall provide a readily
+434 apparent process for an individual to submit a request under
+435 subdivision (1).
+436 (3) An individual submitting a request under this
+437 subsection shall include all information reasonably requested
+438 by the social media company to identify the individual and the
+439 social media content featuring the individual as a qualifying
+440 minor or a market value compensated minor which the individual
+441 requests to delete or edit.
+442 (b)(1) A social media company shall inform the content
+443 creator of a request under subsection (a) not later than three
+444 business days after receipt of the request.
+445 (2) Not later than ten business days after the content
+446 creator receives the notice, the content creator shall either:
+447 a. Delete or edit the social media content described in
+448 the request.
+Page 16
+
+the request.
+HB170 INTRODUCED
+449 b. Notify the social media company of the content
+450 creator's decision to not delete or edit the social media
+451 content and the content creator's reason for not deleting or
+452 editing the social media content.
+453 (3) The social media company shall inform the
+454 individual making the request of the content creator's
+455 decision under this subsection not later than three business
+456 days after the social media company receives notification from
+457 the content creator.
+458 (c)(1) Subject to subdivision (4), an individual who
+459 was a qualifying minor or a market value compensated minor has
+460 a right of action under this section against a content creator
+461 if the content creator does not edit or delete social media
+462 content that features the individual after being requested to
+463 do so pursuant to subsection (a).
+464 (2) If an individual brings an action in accordance
+465 with subdivision (1), a court shall consider all of the
+466 following:
+467 a. Any emotional harm or substantial embarrassment the
+468 social media content causes the individual.
+469 b. The interests of the content creator in the social
+470 media content.
+471 c. The public interest served by the social media
+472 content.
+473 (3) If the court issues an order requiring the content
+474 creator to delete or edit the social media content that is the
+475 subject of the individual's request, the court shall award the
+476 individual as follows:
+Page 17
+
+individual as follows:
+HB170 INTRODUCED
+477 a. If the content creator's social media content
+478 featured the individual as a qualifying minor, actual damages
+479 and reasonable costs and attorney fees.
+480 b. If the content creator's social media content
+481 featured the individual as a market value compensated minor,
+482 actual damages that occurred after the day on which the
+483 individual turned 19 years of age.
+484 (4) An individual who was a market value compensated
+485 minor may bring an action under this subsection up to three
+486 years after the day on which the individual turns 19 years of
+487 age or three years after the day on which the individual knew
+488 or should have known that the social media content inflicted
+489 emotional harm or substantial embarrassment, whichever is
+490 later.
+491 (d) The provisions of this section supersede any
+492 agreement related to venue, arbitration, or mediation in a
+493 contract entered into after the effective date of this act,
+494 between an individual petitioning a court to edit or delete
+495 the social media content and a social media service.
+496 Section 6. This act shall become effective on October
+497 1, 2026.
+Page 18

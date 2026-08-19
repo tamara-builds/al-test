@@ -1,0 +1,234 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB170 ENROLLED
+1 SB170
+2 RBRKINM-2
+3 By Senators Roberts, Shelnutt
+4 RFD: Banking and Insurance
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+SB170 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to health insurance; to create the Health
+5 Savings Account State-Federal Regulatory Coordination Act; to
+6 add Article 5 to Chapter 19, Title 27, Code of Alabama 1975,
+7 to limit application of a federal cost-sharing requirement to
+8 instances where the minimum deductible under federal law has
+9 been applied to an enrollee's plan; to ensure the enrollee's
+10 health savings account continues to qualify as a
+11 high-deductible plan under federal law; and to amend Sections
+12 10A-20-6.16 and 27-21A-23, Code of Alabama 1975, relating to
+13 certain health care service corporations and health
+14 maintenance organizations, to reference the new Article 5,
+15 Chapter 9, Title 27, Code of Alabama 1975, created by the new
+16 article.
+17 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+18 Section 1. Article 5 is added to Chapter 19, Title 27
+19 of the Code of Alabama 1975, to read as follows:
+20 Article 5. The Health Savings Account State-Federal
+21 Regulatory Coordination Act.
+22 §27-19-180
+23 (a) This article shall be known and may be cited as the
+24 Health Savings Account State-Federal Regulatory Coordination
+25 Act.
+26 (b) The purpose of this article is to protect the
+27 efficacy of Health Savings Account (HSA) qualified plans via a
+28 legislative exception or safe harbor from any state benefit
+Page 1
+
+legislative exception or safe harbor from any state benefit
+SB170 Enrolled
+29 mandate or copay accumulator adjustment law due to federal
+30 law, regulations, rules, or guidance regarding high deductible
+31 health plans.
+32 (c) For purposes of this article, the following terms
+33 have the following meanings:
+34 (1) ENROLLEE. An individual who is enrolled in a health
+35 insurance plan, whether on an individual or group basis,
+36 including any covered dependent.
+37 (2) HEALTH SAVINGS ACCOUNT QUALIFIED INSURANCE PLAN or
+38 HSA. A high deductible health plan that meets the specific
+39 requirements of 26 U.S.C. § 223, as interpreted and
+40 administered by the federal Internal Revenue Service.
+41 Individuals covered by such a plan may contribute to a Health
+42 Savings Account (HSA), a trust, or a custodial account for
+43 qualified medical expenses. An individual may not contribute
+44 to an HSA unless he or she is covered by an HSA-qualified
+45 insurance plan and has no other disqualifying coverage.
+46 (3) HIGH DEDUCTIBLE HEALTH PLAN. A health insurance
+47 plan, as defined in 26 U.S.C. § 223(c)(2).
+48 (4) PREVENTIVE CARE. Those services defined as such by
+49 the U.S. Department of the Treasury and the Internal Revenue
+50 Service, including preventive services recognized under the
+51 Affordable Care Act, pursuant to regulation or guidance issued
+52 under the authority of Title 26 of the United States Code. In
+53 general, the term does not include services that provide
+54 treatment for known illnesses, diseases, or conditions.
+55 However, under IRS Notice 2019-45, the term also includes
+56 specified products and services provided to individuals with
+Page 2
+
+specified products and services provided to individuals with
+SB170 Enrolled
+57 certain defined chronic conditions including, but not limited
+58 to, diabetes, asthma, and heart disease.
+59 (5) ZERO COST-SHARING or COST-SHARING RESTRICTIONS.
+60 Prohibition outright of any deductible, copayment, or
+61 coinsurance on the part of the enrollee or certain limitations
+62 on the amount of the deductible, copayment, or coinsurance.
+63 (d) If under federal law, the application of any
+64 cost-sharing requirement of the Insurance Code would cause the
+65 enrollee's health savings account plan to no longer qualify as
+66 a high-deductible health plan under 26 U.S.C. § 223, then the
+67 cost-sharing requirement shall only apply to the enrollee's
+68 plan once the minimum deductible under 26 U.S.C. § 223 has
+69 been applied.
+70 (e) The Commissioner of Insurance may adopt rules as
+71 necessary to implement this section.
+72 Section 2. Sections 10A-20-6.16 and 27-21A-23 of the
+73 Code of Alabama 1975, are amended to read as follows:
+74 "§10A-20-6.16
+75 (a) No statute of this state applying to insurance
+76 companies shall be applicable to any corporation organized
+77 under this article and amendments thereto or to any contract
+78 made by the corporation;, except the corporation shall be
+79 subject to the following:
+80 (1) The provisions regarding annual premium tax to be
+81 paid by insurers on insurance premiums.
+82 (2) Chapter 55 of Title 27.
+83 (3) Article 2 and Article 3 of Chapter 19 of Title 27.
+84 (4) Section 27-1-17.
+Page 3
+
+(4) Section 27-1-17.
+SB170 Enrolled
+85 (5) Chapter 56 of Title 27.
+86 (6) Rules adopted by the Commissioner of Insurance
+87 pursuant to Sections 27-7-43 and 27-7-44.
+88 (7) Chapter 54 of Title 27.
+89 (8) Chapter 57 of Title 27.
+90 (9) Chapter 58 of Title 27.
+91 (10) Chapter 59 of Title 27.
+92 (11) Chapter 54A of Title 27.
+93 (12) Chapter 12A of Title 27.
+94 (13) Chapter 2B of Title 27.
+95 (14) Chapter 29 of Title 27.
+96 (15) Chapter 62 of Title 27.
+97 (16) Chapter 63 of Title 27.
+98 (17) Chapter 45A of Title 27.
+99 (18) Article 5 of Chapter 19 of Title 27.
+100 (b) The provisions in subsection (a) that require
+101 specific types of coverage to be offered or provided shall not
+102 apply when the corporation is administering a self-funded
+103 benefit plan or similar plan, fund, or program that it does
+104 not insure."
+105 "§27-21A-23
+106 (a) Except as otherwise provided in this chapter,
+107 provisions of the insurance law and provisions of health care
+108 service plan laws shall not be applicable to any health
+109 maintenance organization granted a certificate of authority
+110 under this chapter. This provisionsubsection shall not apply
+111 to an insurer or health care service plan licensed and
+112 regulated pursuant to the insurance law or the health care
+Page 4
+
+regulated pursuant to the insurance law or the health care
+SB170 Enrolled
+113 service plan laws of this state except with respect to its
+114 health maintenance organization activities authorized and
+115 regulated pursuant to this chapter.
+116 (b) Solicitation of enrollees by a health maintenance
+117 organization granted a certificate of authority shall not be
+118 construed to violate any provision of law relating to
+119 solicitation or advertising by health professionals.
+120 (c) Any health maintenance organization authorized
+121 under this chapter shall not be deemed to be practicing
+122 medicine and shall be exempt from the provisions of Section
+123 34-24-310, et seq., relating to the practice of medicine.
+124 (d) No person participating in the arrangements of a
+125 health maintenance organization other than the actual provider
+126 of health care services or supplies directly to enrollees and
+127 their families shall be liable for negligence, misfeasance,
+128 nonfeasance, or malpractice in connection with the furnishing
+129 of such services and supplies.
+130 (e) Nothing in this chapter shall be construed in any
+131 way to repeal or conflict with any provision of the
+132 certificate of need law.
+133 (f) Notwithstanding the provisions of subsection (a), a
+134 health maintenance organization shall be subject to all of the
+135 following:
+136 (1) Section 27-1-17.
+137 (2) Chapter 56.
+138 (3) Chapter 54.
+139 (4) Chapter 57.
+140 (5) Chapter 58.
+Page 5
+
+(5) Chapter 58.
+SB170 Enrolled
+141 (6) Chapter 59.
+142 (7) Rules adopted by the Commissioner of Insurance
+143 pursuant to Sections 27-7-43 and 27-7-44.
+144 (8) Chapter 12A.
+145 (9) Chapter 54A.
+146 (10) Chapter 2B.
+147 (11) Chapter 29.
+148 (12) Chapter 62.
+149 (13) Chapter 63.
+150 (14) Chapter 45A.
+151 (15) Article 5 of Chapter 19."
+152 Section 3. This act shall become effective on June 1,
+153 2026.
+Page 6
+
+2026.
+SB170 Enrolled
+154
+155
+156
+157
+158
+159
+160 ________________________________________________
+161 President and Presiding Officer of the Senate
+162
+163
+164
+165 ________________________________________________
+166 Speaker of the House of Representatives
+167
+168
+169 SB170
+170 Senate 17-Feb-26
+171 I hereby certify that the within Act originated in and passed
+172 the Senate.
+173
+174 Patrick Harris,
+175 Secretary.
+176
+177
+178
+179
+180 House of Representatives
+181 Amended and passed: 11-Mar-26
+182
+183
+184
+185
+186 Senate concurred in House amendment 11-Mar-26
+187
+188
+189
+190
+191 By: Senator Roberts
+Page 7

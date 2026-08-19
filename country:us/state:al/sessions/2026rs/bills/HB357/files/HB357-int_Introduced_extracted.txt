@@ -1,0 +1,513 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB357 INTRODUCED
+1 HB357
+2 EJL5M9C-1
+3 By Representative Hollis
+4 RFD: Boards, Agencies and Commissions
+5 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+EJL5M9C-1 01/29/2026 VSM (L)ma 2026-205
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person holding an
+6 equitable interest in real estate, defined as a right
+7 in contract or agreement to sell or transfer that real
+8 estate, may sell, assign, or offer to assign that right
+9 for a fee under certain circumstances without
+10 disclosing to the potential buyer that the person is
+11 not the deed owner. Also under existing law, it is
+12 unlawful for a person to sell real property for a fee
+13 unless licensed with the Alabama Real Estate Commission
+14 as a broker or salesperson.
+15 This bill would provide that a person who holds
+16 only an equitable interest in property is not exempt
+17 from realtor and broker licensing requirements.
+18 This bill would authorize the Alabama Real
+19 Estate Commission to initiate disciplinary action and
+20 impose penalties for a licensee's failure to disclose
+21 certain aspects of the sale or assignment of equitable
+22 interests, and failure to include a fixed closing date
+23 in an equitable interest contract.
+24 This bill would also make nonsubstantive,
+25 technical revisions to update the existing code
+26 language to current style.
+27
+28
+Page 1
+
+HB357 INTRODUCED
+29 A BILL
+30 TO BE ENTITLED
+31 AN ACT
+32
+33 Relating to the Alabama Real Estate Commission; to
+34 amend Sections 34-27-2 and 34-27-36, as last amended by
+35 2025-380, 2025 Regular Session, Code of Alabama 1975; to
+36 require the owner of an equitable interest in real estate to
+37 be licensed by the commission if the owner transfers the
+38 interest for a fee; to establish certain disclosures to be
+39 used in equitable interest transactions; to provide that a
+40 licensee's failure to provide equitable interest disclosures
+41 or failure to include a closing date in an equitable interest
+42 contract may subject the licensee to fines and penalties; and
+43 would also make nonsubstantive, technical revisions to update
+44 the existing code language to current style.
+45 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+46 Section 1. Sections 34-27-2 and 34-27-36, Code of
+47 Alabama 1975, as last amended by Act 2025-380, 2025 Regular
+48 Session, are amended to read as follows:
+49 "§34-27-2
+50 (a) For purposes of Articles 1 and 2 of this chapter,
+51 the following terms have the following meanings:
+52 (1) ASSOCIATE BROKER. Any broker other than a
+53 qualifying broker.
+54 (2) BROKER. Any person licensed as a real estate broker
+55 under Articles 1 and 2 of this chapter.
+56 (3) BUYER'S AGREEMENT. An agreement between a real
+Page 2
+
+(3) BUYER'S AGREEMENT. An agreement between a real
+HB357 INTRODUCED
+57 estate company and a person through under which the company
+58 agrees to assist the person with the purchase of real property
+59 in exchange for a fee, whether as a fiduciary or
+60 non-fiduciary.
+61 (4) COMMISSION. The Alabama Real Estate Commission,
+62 except where the context requires that it means the fee paid
+63 to a broker or salesperson.
+64 (5) COMMISSIONER. A member of the commission.
+65 (6) COMPANY. Any sole proprietorship, corporation,
+66 partnership, branch office, or lawfully constituted business
+67 organization as the Legislature may provide for from time to
+68 time, which is licensed as a company under Articles 1 and 2 of
+69 this chapter.
+70 (7) ENGAGE. Contractual relationships between a
+71 qualifying broker and an associate broker or salesperson
+72 licensed under him or her, whether the relationship is
+73 employer-employee, independent contractor, or otherwise.
+74 (8) EQUITABLE INTEREST. Any interest or right in a
+75 contract or agreement to purchase residential real estate held
+76 by a party to that contract or agreement.
+77 (9) INACTIVE LICENSE. A license which is being held by
+78 the commission office by law, order of the commission, at the
+79 request of the licensee, or which is renewable but is not
+80 currently valid because of a failure to renew.
+81 (9)(10) LICENSEE. Any broker, salesperson, or company.
+82 (10)(11) LICENSE PERIOD. That period of time beginning
+83 on October 1 of a year designated by the commission to be the
+84 first year of a license period and ending on midnight
+Page 3
+
+first year of a license period and ending on midnight
+HB357 INTRODUCED
+85 September 30 of the year designated by the commission as the
+86 final year of that license period.
+87 (11)(12) LISTING AGREEMENT. An agreement between a
+88 company and an owner wherein under which the company agrees to
+89 assist the owner in the sale of the owner's real property in
+90 exchange for a fee, whether as a fiduciary or a non-fiduciary.
+91 The term includes an agreement giving the company the right to
+92 list or market the owner's real property upon the owner's
+93 future decision to sell the property.
+94 (12)(13) PERSON. A natural person.
+95 (13)(14) PLACE OF BUSINESS.
+96 a. A licensed broker living residing in a rural area of
+97 this state who operates and operating from his or her home,
+98 provided that he or she sets up establishes and maintains an
+99 office for the conduct of the real estate business, which
+100 shall not be used for living purposes or occupancy other than
+101 the conduct of the real estate business. The office shall be
+102 used by the broker only and not as a place of business from
+103 which any additional licensee operates under his or her
+104 license. The office shall have a separate business telephone,
+105 have a separate entrance, and be properly identified as a real
+106 estate office.
+107 b. All licensees located within the city limits or
+108 police jurisdiction of a municipality shall operate from a an
+109 office with a separate office located in the city limits or
+110 police jurisdiction address. The office shall have a business
+111 telephone, meet comply with all other regulations commission
+112 rules of the Real Estate Commission, and be properly
+Page 4
+
+rules of the Real Estate Commission, and be properly
+HB357 INTRODUCED
+113 identified as a real estate office. Hardship cases may be
+114 subject to waiver of exempt from this regulation upon
+115 application and approval by the commission.
+116 c. All business records and files shall be kept at the
+117 place of business as required by in accordance with applicable
+118 law or Real Estate Commission rules.
+119 (14)(15) PRINCIPAL BROKER. As used in other states, the
+120 term has the same meaning as "qualifying broker" in this
+121 state.
+122 (15)(16) QUALIFYING BROKER. A broker under whom a sole
+123 proprietorship, corporation, partnership, branch office, or
+124 lawfully constituted business organization, as the Legislature
+125 may from time to time provide, is licensed, or a broker
+126 licensed as a company to do business as a sole proprietorship
+127 who is responsible for supervising the acts of the company or
+128 proprietorship and all associated real estate licensees
+129 licensed therewith.
+130 (16)(17) RECOVERY FUND. The Alabama Real Estate
+131 Recovery Fund.
+132 (17)(18) RESIDENTIAL. Pertaining to real property
+133 located in the state used primarily as a residence.
+134 (19) SALESPERSON. Any person licensed as a real estate
+135 salesperson under Articles 1 and 2 of this chapter.
+136 (18)(20) TEAM. Two or more licensees within the same
+137 company who work together to provide services for which a
+138 license is required and who hold themselves out to the public
+139 as a distinct group within the company.
+140 (b) The licensing requirements of Articles 1 and 2 of
+Page 5
+
+(b) The licensing requirements of Articles 1 and 2 of
+HB357 INTRODUCED
+141 this chapter shall not apply to any of the following persons
+142 and transactions:
+143 (1) Any owner in the managing of, or in or consummating
+144 a real estate transaction involving, his or her own real
+145 estate or the real estate of his or her spouse, child, or
+146 parent. This exception does not apply to a person who is
+147 merely the owner of an equitable interest in property that is
+148 the subject of the transaction.
+149 (2) An attorney-at-law performing his or her duties as
+150 an attorney-at-law.
+151 (3) Persons acting without compensation and in good
+152 faith under a duly executed power of attorney authorizing the
+153 consummation of a real estate transaction.
+154 (4) Persons or a state or federally chartered financial
+155 institution acting as a receiver, trustee, administrator,
+156 executor, or guardian; or acting under a court order or under
+157 the authority of a trust instrument or will.
+158 (5) Public officers performing their official duties.
+159 (6) Persons performing general clerical or
+160 administrative duties for a broker so long as, provided the
+161 person does not physically show listed property.
+162 (7) Persons acting as the manager for of an apartment
+163 building or complex. However, this exception shall not apply
+164 to a person acting as an on-site manager of a condominium
+165 building or complex.
+166 (8) Persons licensed as time-share sellers under
+167 Article 3 of this chapter performing who perform an act
+168 consistent with that article.
+Page 6
+
+consistent with that article.
+HB357 INTRODUCED
+169 (9) Transactions involving the sale, lease, or transfer
+170 of cemetery lots.
+171 (c) Notwithstanding subdivision (b)(1), the licensing
+172 requirements in Articles 1 and 2 of this chapter shall apply
+173 to any person selling an equitable interest in property unless
+174 the sale is to a spouse, child, or parent."
+175 "§34-27-36
+176 (a)(1) The commission or its staff, on its own
+177 initiative or on the a verified written complaint in writing
+178 of by any person, may investigate the actions and records of a
+179 licensee. The commission may issue subpoenas and compel the
+180 testimony of witnesses and the production of records and
+181 documents during an investigation. If probable cause is found,
+182 a formal complaint shall be filed, and the commission shall
+183 hold a hearing on the formal complaint.
+184 (2) In each instance in which a licensee is found in
+185 violation of any of the conduct prohibited in subsection (b),
+186 the commission may impose any of the following penalties:
+187 a. A fine of not less than one hundred dollars ($100)
+188 nor more than five thousand dollars ($5,000).
+189 b. Require the licensee to complete an approved
+190 education course or courses in addition to completing the
+191 existing continuing education requirements.
+192 c. Issue a public reprimand.
+193 d. Revoke or suspend any or all licenses held by the
+194 licensee under this chapter by the licensee. The suspension
+195 may continue until such time as the licensee has completed an
+196 approved continuing education course, has made restitution to
+Page 7
+
+approved continuing education course, has made restitution to
+HB357 INTRODUCED
+197 accounts containing funds to be held for other parties, or
+198 both. The commission may also stay the revocation or
+199 suspension of a license and require completion of an approved
+200 education course, require the making of restitution to
+201 accounts containing funds to be held for other parties, or
+202 both.
+203 (b) A licensee is prohibited from doing all of the
+204 following:
+205 (1) Procuring or attempting to procure a license for
+206 himself or herself or another by fraud, misrepresentation, or
+207 deceit, or by making a material misstatement of fact in an
+208 application for a license.
+209 (2) Engaging in misrepresentation or dishonest or
+210 fraudulent acts when selling, buying, trading, or renting real
+211 property of his or her own or of a spouse, child, or parent.
+212 (3) Making a material misrepresentation or failing to
+213 disclose to a potential purchaser or lessee any latent
+214 structural defect or any other defect known to the licensee.
+215 Latent structural defects and other defects do not refer to
+216 trivial or insignificant defects but refer to those defects
+217 that would be a significant factor to a reasonable and prudent
+218 person in making a decision to purchase or lease.
+219 (4) Making any false promises of a character likely to
+220 influence, persuade, or induce any person to enter into any
+221 contract or agreement.
+222 (5) Pursuing a continued and flagrant course of
+223 misrepresentation or the making of false promises through
+224 agents or salespersons or any medium of advertising or
+Page 8
+
+agents or salespersons or any medium of advertising or
+HB357 INTRODUCED
+225 otherwise.
+226 (6) Publishing or causing to be published any
+227 advertisement that deceives or that is likely to deceive the
+228 public, or that in any manner tends to create a misleading
+229 impression.
+230 (7) Acting for more than one party in a transaction
+231 without the knowledge and written consent of all parties for
+232 whom he or she acts.
+233 (8)a. Failing, within a reasonable time, to properly
+234 account for or remit money coming that comes into his or her
+235 possession which and belongs to others, or commingling money
+236 belonging to others with his or her own funds.
+237 b. Failing to deposit and account for at all times all
+238 funds belonging to others, or being held for others, in a
+239 separate federally insured account or accounts in at a
+240 financial institution located in Alabama.
+241 c. Failing to keep for at least three years a complete
+242 record of funds belonging to others showing to whom the money
+243 belongs, the date deposited, the date of withdrawal, and other
+244 pertinent information for at least three years.
+245 (9) Placing a sign on any property offering it for
+246 sale, lease, or rent without the consent of the owner.
+247 (10) Failing to voluntarily furnish a copy of each
+248 listing, contract, lease, and other document to each party
+249 executing the document with reasonable promptness.
+250 (11) Paying any profit, compensation, commission, or
+251 fee to, or dividing any profit, compensation, commission, or
+252 fee with, anyone other than a licensee or a multiple listing
+Page 9
+
+fee with, anyone other than a licensee or a multiple listing
+HB357 INTRODUCED
+253 service. This subdivision shall not prevent an associate
+254 broker or salesperson from owning any lawfully constituted
+255 business organization, including, but not limited to, a
+256 corporation or, limited liability company, or limited
+257 liability corporation, for the purpose of receiving payments
+258 contemplated in this subsection. The business organization
+259 shall not be required to be licensed under this chapter, and
+260 shall not engage in any other activity requiring a real estate
+261 license.
+262 (12) Paying or receiving any rebate from any person in
+263 a real estate transaction.
+264 (13) Inducing any party to a contract to breach the
+265 contract for the purpose of substituting a new contract, where
+266 the substitution is motivated by the personal gain of the
+267 licensee licensee's personal gain.
+268 (14) If the licensee is a salesperson or associate
+269 broker, accepting a commission or other valuable consideration
+270 for performing any act for which a license is required from
+271 any person or company, except his or her qualifying broker.
+272 (15) If the licensee is a qualifying broker or company,
+273 allowing a salesperson or associate broker licensed under him
+274 or her to advertise himself or herself as a real estate agent
+275 without the name or trade name of the qualifying broker or
+276 company appearing prominently on the advertising; or, if the
+277 licensee is a salesperson or associate broker, advertising
+278 himself or herself as a real estate agent without the name or
+279 trade name of the qualifying broker or company under whom the
+280 salesperson or associate broker is licensed appearing
+Page 10
+
+salesperson or associate broker is licensed appearing
+HB357 INTRODUCED
+281 prominently on the advertising. For purposes of this
+282 subdivision, "prominently" means using a font size that is
+283 equal to or larger than any other name, text, or logo, other
+284 than terms like "for sale" or "for lease," in the
+285 advertisement and situated and sized for the purpose of
+286 gaining the attention of consumers viewing the advertisement.
+287 (16) Establishing an association, by employment or
+288 otherwise, with an unlicensed person who is expected or
+289 required to act as a licensee, or aiding, abetting, or
+290 conspiring with a person to circumvent the requirements of
+291 this chapter.
+292 (17) Failing to disclose to an owner the licensee's
+293 intention to acquire, directly or indirectly, an interest in
+294 property which he or she or his or her associates have been
+295 employed to sell.
+296 (18) Violating or disregarding any provision of this
+297 chapter or any rule, regulation, or order of the commission.
+298 (19) If a broker accepts Accepting a "net listing"
+299 agreement for the sale of real property or any interest
+300 therein in real property where the licensee is not a buyer,
+301 seller, or assigning buyer in the transaction. A "net listing"
+302 agreement stipulates a net price to be received by the owner,
+303 with the any excess due to be received by the broker as his or
+304 her commission.
+305 (20) Misrepresenting or failing to disclose to any
+306 lender, guaranteeing agency, or any other interested party,
+307 the true terms of a sale of real estate.
+308 (21) Failing to inform the buyer or seller at the time
+Page 11
+
+(21) Failing to inform the buyer or seller at the time
+HB357 INTRODUCED
+309 an offer is presented that he or she will be expected to pay
+310 certain closing costs and the approximate amount of those
+311 costs.
+312 (22)a. Having entered a plea of guilty or nolo
+313 contendere to, or having been found guilty of or convicted of,
+314 a felony or a crime involving moral turpitude.
+315 b. Having a final money judgment rendered against him
+316 or her which results from an act or omission occurring in the
+317 pursuit of his or her real estate business or involves the
+318 goodwill of an existing real estate business.
+319 (23) Offering free lots or conducting lotteries for the
+320 purpose of influencing a party to purchase or lease real
+321 estate.
+322 (24) Failing to include a fixed date of expiration in a
+323 written listing agreement or failing to leave a copy of the
+324 agreement with the principal.
+325 (25) Conduct that constitutes or demonstrates dishonest
+326 dealings, bad faith, or untrustworthiness.
+327 (26) Acting negligently or incompetently in performing
+328 an act for which a person is required to hold a real estate
+329 license.
+330 (27) Failing or refusing, on demand, to produce a
+331 document, book, or record in his or her possession concerning
+332 a real estate transaction conducted by him or her for
+333 inspection by the commission or, its authorized personnel, or
+334 representative.
+335 (28) Failing within a reasonable time to provide
+336 information requested by the commission during an
+Page 12
+
+information requested by the commission during an
+HB357 INTRODUCED
+337 investigation or after a formal complaint has been filed.
+338 (29) Failing without cause to surrender to the rightful
+339 owner, on demand, a document or instrument coming that comes
+340 into his or her possession.
+341 (30) If a qualifying broker or company, failing to keep
+342 in his, her, or its files copies of all contracts, leases,
+343 listings, and other records pertinent to real estate
+344 transactions for a period of three years.
+345 (31) When selling, offering to sell, assigning, or
+346 offering to assign an equitable interest in a contract to
+347 purchase residential real estate:
+348 a. Failing to disclose in writing to a potential buyer
+349 that the holder of the equitable interest is not the deed
+350 holder of the property and is only offering to sell or assign
+351 his or her equitable interest; or
+352 b. Failing to disclose in writing to a seller both of
+353 the following:
+354 1. The intent to assign an equitable interest in the
+355 seller's real estate prior to offering to assign the interest.
+356 2. The assignment of the interest within three calendar
+357 days following the assignment.
+358 c. Failing to include a fixed closing date with no
+359 automatic extension in the contract that establishes the
+360 equitable interest.
+361 (c) If it appears that a person or business entity has
+362 engaged, or is about to engage, in an act or practice
+363 constituting a violation of Article 1 or 2 of this chapter or
+364 any rule or order of the commission, the commission, through
+Page 13
+
+any rule or order of the commission, the commission, through
+HB357 INTRODUCED
+365 the Attorney General, may institute legal actions to enjoin
+366 the act or practice and to enforce compliance with Articles 1
+367 and 2 of this chapter or any rule or order of the commission.
+368 To prevail in an action, it shall not be necessary to allege
+369 or prove either that an adequate remedy at law does not exist
+370 or that substantial or irreparable damage would result from
+371 the continued violation.
+372 (d)(1) Notwithstanding any other provisions of law, the
+373 commission may issue an order requiring any accused person or
+374 business entity to cease and desist from engaging in
+375 activities requiring a license under this chapter when the
+376 accused person or business entity is not licensed under this
+377 chapter. The order shall be entered by the executive director
+378 after a finding of probable cause by the commission staff. The
+379 order shall become final 15 days after its service upon the
+380 accused, unless the accused requests a hearing before the
+381 commission. Upon hearing the case and finding violations, the
+382 commission may do any of the following:
+383 a. make Make the cease and desist order final.
+384 b. and the commission may impose Impose a fine for each
+385 violation in an amount consistent with the range of fines
+386 applicable to licensees.
+387 c., and in addition, may impose Impose a fine in the
+388 amount of any gain or economic benefit that was derived from
+389 the violation.
+390 d., and in addition, may impose Impose a fine in the
+391 amount of the commission's costs incurred by the commission.
+392 Any fines not paid as ordered shall be enforceable in any
+Page 14
+
+Any fines not paid as ordered shall be enforceable in any
+HB357 INTRODUCED
+393 court with competent jurisdiction and proper venue.
+394 (2) Notwithstanding any other provisions of law, the
+395 commission may decline to issue an order requiring any accused
+396 person or business entity to cease and desist from engaging in
+397 activities requiring a license under this chapter when the
+398 accused person or business entity is not licensed under this
+399 chapter. In this instance, the commission shall proceed to
+400 give appropriate notice of the violations and hold a hearing.
+401 Upon hearing the case and finding violations, the commission
+402 may:
+403 a. impose Impose a fine for each violation in an amount
+404 consistent with the range of fines applicable to licensees;
+405 b., and in addition, may impose Impose a fine in the
+406 amount of any gain or economic benefit that was derived from
+407 the violation;
+408 c., and in addition, may impose Impose a fine in the
+409 amount of the commission's costs incurred. Any fine or fines
+410 not paid as ordered shall be enforceable in any court with
+411 competent jurisdiction and proper venue.
+412 (3) Any fine or fines imposed by this subsection that
+413 are not paid as ordered shall be enforceable in any court of
+414 competent jurisdiction and proper venue.
+415 (e) The commission shall notify the licensee and
+416 qualifying broker in writing regarding the complaint.
+417 (f) The commission shall notify the complainant,
+418 licensee, and qualifying broker in writing regarding of the
+419 disposition of the complaint.
+420 (g) If a licensee presents a form of payment to the
+Page 15
+
+(g) If a licensee presents a form of payment to the
+HB357 INTRODUCED
+421 commission, or to any third party on the commission's behalf,
+422 which that is declined or rejected by a financial institution
+423 or merchant service company, the licensee shall have 30 days,
+424 upon from electronic notification from by the commission, to
+425 submit full and valid payment for of the initial fee or fine
+426 and, plus an additional fee for submitting the faulty payment,
+427 not to exceed the maximum amount allowed by Section 8-8-15.
+428 Failure to submit full and valid payment within 30 days of
+429 electronic notification by the commission shall result in the
+430 licensee's license becoming inactive until the licensee
+431 submits full payment. Failure to submit full and valid payment
+432 within six months after electronic notification by the
+433 commission shall result in the licensee's license lapsing."
+434 Section 2. This act shall become effective on October
+435 1, 2026.
+Page 16
