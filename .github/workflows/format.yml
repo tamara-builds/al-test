@@ -40,7 +40,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run formatter action
-        uses: chihacknight/govbot/actions/format@main
+        uses: chihacknight/govbot/actions/format@jsonl-action-logs
         with:
           state: ${{ env.STATE_CODE }}
           scraper-repo: ${{ env.SCRAPER_REPO }}
