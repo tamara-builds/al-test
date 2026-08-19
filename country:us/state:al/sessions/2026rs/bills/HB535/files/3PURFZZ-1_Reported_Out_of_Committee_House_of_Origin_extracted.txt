@@ -1,0 +1,448 @@
+Title: 
+Official Title: 
+Source: versions - Reported Out of Committee House of Origin
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to expungement; to amend Sections 15-27-1,
+10 15-27-2, 15-27-4, and 15-27-5, Code of Alabama 1975, as last
+11 amended by Act 2025-427, 2025 Regular Session, to further
+12 provide for the right to expungement; to authorize the
+13 expungement of overturned or vacated convictions; to authorize
+14 the expungement of pardoned offenses; and to provide minimum
+15 hearing requirements for an expungement petition.
+16 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+17 Section 1. Sections 15-27-1, 15-27-2, 15-27-4, and
+18 15-27-5, Code of Alabama 1975, as last amended by Act
+19 2025-427, 2025 Regular Session, are amended to read as
+20 follows:
+21 "§15-27-1
+22 (a) A person who has been charged with a misdemeanor
+23 offense, violation, traffic violation, boating violation, or
+24 municipal ordinance violation may file a petition in the
+25 criminal division of the circuit court in the county in which
+26 the charges were filed, to expunge records relating to the
+27 charge in any of the following circumstances:
+28 (1) When the charge has been dismissed with prejudice
+Page 1
+
+(1) When the charge has been dismissed with prejudice
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+29 and more than 90 days have passed.
+30 (2) When the charge has been no billed by a grand jury
+31 and more than 90 days have passed.
+32 (3) When the person has been found not guilty of the
+33 charge and more than 90 days have passed.
+34 (4) When the charge has been nolle prossed without
+35 conditions, more than 90 days have passed, and the charge or
+36 charges have not been refiled.
+37 (5) When the indictment has been quashed and the
+38 statute of limitations for refiling the charge or charges has
+39 expired or the prosecuting agency confirms that the charge or
+40 charges will not be refiled.
+41 (6)a. When the charge was dismissed after successful
+42 completion of a drug court program, mental health court
+43 program, diversion program, veteran's court program, or any
+44 other court-approved deferred prosecution program.
+45 b. Expungement may be a court-ordered condition of a
+46 program listed in paragraph a.
+47 c. A petition for expungement may be filed one year
+48 from the date of successful completion of a program listed in
+49 paragraph a.
+50 (7) When the charge was dismissed without prejudice
+51 more than one year ago and has not been refiled, and the
+52 person has not been convicted of any other felony or
+53 misdemeanor crime, violation, boating violation, or traffic
+54 violation, excluding minor traffic violations, during the
+55 previous two years.
+56 (8) When the person proves by a preponderance of the
+Page 2
+
+(8) When the person proves by a preponderance of the
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+57 evidence that the person is a victim of human trafficking,;
+58 that the person committed the misdemeanor offense, violation,
+59 traffic violation, boating violation, or municipal ordinance
+60 violation during the period the person was being trafficked,;
+61 and that the person would not have committed the offense or
+62 violation but for being trafficked. Evidence that a person is
+63 a victim of human trafficking may include, but is not limited
+64 to, evidence that the person's trafficker was convicted of
+65 trafficking the person under Section 13A-6-152 or Section
+66 13A-6-153.
+67 (b) Subsection (a) notwithstanding, a person who has
+68 been convicted of a misdemeanor offense, violation, traffic
+69 violation, boating violation, or municipal ordinance violation
+70 or a person who has been adjudged a youthful offender and the
+71 underlying charge is a misdemeanor offense, violation, traffic
+72 violation, boating violation, or municipal ordinance violation
+73 may file a petition in the criminal division of the circuit
+74 court in the county in which the charges were filed to expunge
+75 records relating to the charge and the conviction if all of
+76 the following occur:
+77 (1) Except as provided in Section 15-27-4, all
+78 probation or parole requirements have been completed,
+79 including payment of all fines, costs, restitution, and other
+80 court-ordered amounts, and are evidenced by the applicable
+81 court or agency.
+82 (2) Three years have passed from the date of
+83 conviction.
+84 (3) If the person was convicted of any of the offenses
+Page 3
+
+(3) If the person was convicted of any of the offenses
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+85 enumerated in 49 C.F.R. § 383.51, the person was not operating
+86 a commercial motor vehicle at the time of the offense, or was
+87 not holding a commercial driver license or a commercial
+88 learner permit at the time of the offense.
+89 (4) The conviction is not a violent offense, as
+90 provided in Section 12-25-32.
+91 (5) The conviction is not a sex offense, as provided in
+92 Section 15-20A-5.
+93 (6) The conviction is not an offense involving moral
+94 turpitude, as provided in Section 17-3-30.1. This subdivision
+95 does not apply if the crime the person was convicted of was
+96 classified as a felony at the time of the conviction, but has
+97 been reclassified as a misdemeanor pursuant to Act 2015-185,
+98 and the person has not been arrested for any offense,
+99 excluding minor traffic violations, 15 years prior to the
+100 filing of the petition for expungement.
+101 (7) The conviction is not a serious traffic offense, as
+102 provided in Article 9 of Chapter 5A of Title 32.
+103 (8) The conviction is not for domestic violence in the
+104 third degree, pursuant to Section 13A-6-132.
+105 (9) The conviction is not for theft of property in the
+106 third degree, pursuant to Section 13A-8-4.1.
+107 (c) A person who has been convicted of any misdemeanor
+108 offense, violation, traffic violation, boating violation, or
+109 municipal ordinance violation, other than a violent offense,
+110 as provided in Section 12-25-32, or a sex offense, as provided
+111 in Section 15-20A-5, may file a petition in the criminal
+112 division of the circuit court in the county in which the
+Page 4
+
+division of the circuit court in the county in which the
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+113 charges were filed to expunge records relating to the charge
+114 and the conviction if the conviction has been reversed and
+115 rendered by an appellate court, or if the person has been
+116 granted a certificate of pardon with restoration of civil and
+117 political rights for the conviction from the Board of Pardons
+118 and Paroles.
+119 (c)(d)(1) Subject to Section 15-27-16, records related
+120 to offenses and convictions may be disclosed to any of the
+121 following:
+122 a. A criminal justice agency, district attorney, or
+123 prosecuting authority for criminal investigation purposes as
+124 provided in Section 15-27-7.
+125 b. A utility and its agents and affiliates.
+126 c. The Department of Human Resources for the purpose of
+127 investigation or assessment in order to protect children or
+128 vulnerable adults.
+129 d. Any entity or service providing information to
+130 banking, insurance, and other financial institutions as
+131 required for various requirements as provided in state and
+132 federal law.
+133 (2) Any criminal charges that are expunged or are
+134 pending expungement pursuant to this section shall be
+135 available for use by any attorney, officer of the court, or
+136 the court itself in any civil matters related to the criminal
+137 charges expunged or seeking to be expunged, regardless of the
+138 outcome of the petitioned expungement. At the conclusion of
+139 the pending civil matter, all references to the criminal
+140 charges expunged or to be expunged shall be redacted in the
+Page 5
+
+charges expunged or to be expunged shall be redacted in the
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+141 event the criminal charges are expunged.
+142 (d)(e) The circuit court shall have exclusive
+143 jurisdiction of a petition filed under subsections (a) and
+144 (b)this section."
+145 "§15-27-2
+146 (a) A person who has been charged with any felony
+147 offense may file a petition in the criminal division of the
+148 circuit court in the county in which the charges were filed,
+149 to expunge records relating to the charge in any of the
+150 following circumstances:
+151 (1) When the charge is has been dismissed with
+152 prejudice and more than 90 days have passed.
+153 (2) When the charge has been no billed by a grand jury
+154 and more than 90 days have passed.
+155 (3) When the person has been found not guilty of the
+156 charge and more than 90 days have passed.
+157 (4) When the charge has been nolle prossed without
+158 conditions, and more than 90 days have passed, and the charge
+159 or charges have not been refiled.
+160 (5) When the indictment has been quashed and the
+161 statute of limitations for refiling the charge or charges has
+162 expired or the prosecuting agency confirms that the charge or
+163 charges will not be refiled.
+164 (6)a. When the charge was dismissed after successful
+165 completion of a drug court program, mental health court
+166 program, diversion program, veteran's court program, or any
+167 other court-approved deferred prosecution program.
+168 b. Expungement may be a court-ordered condition of a
+Page 6
+
+b. Expungement may be a court-ordered condition of a
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+169 program listed in paragraph a.
+170 c. A petition for expungement may be filed one year
+171 from the date of the successful completion of a program listed
+172 in paragraph a.
+173 (7) When the charge was dismissed without prejudice
+174 more than five years ago and has not been refiled and the
+175 person has not been convicted of any other felony or
+176 misdemeanor crime, any violation, or any traffic violation,
+177 excluding minor traffic violations, during the previous five
+178 years.
+179 (8) When the person proves by a preponderance of the
+180 evidence that the person is a victim of human trafficking,
+181 that the person committed the felony offense during the period
+182 the person was being trafficked, and that the person would not
+183 have committed the felony offense but for being trafficked.
+184 Evidence that a person is a victim of human trafficking may
+185 include, but is not limited to, evidence that the person's
+186 trafficker was convicted of trafficking the person under
+187 Section 13A-6-152 or Section 13A-6-153.
+188 (b) Subsection (a) notwithstanding, convictions for any
+189 of the following violent offenses, as defined in Section
+190 12-25-32, may be expunged upon a showing that the person
+191 committed the felony offense during the period the person was
+192 trafficked, and that the person would not have committed the
+193 felony offense but for being trafficked:
+194 (1) Promoting prostitution in the first degree pursuant
+195 to Section 13A-12-111.
+196 (2) Domestic violence in the third degree pursuant to
+Page 7
+
+(2) Domestic violence in the third degree pursuant to
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+197 subsection (d) of Section 13A-6-132(d).
+198 (3) Production of obscene matter involving a person
+199 under the age of 17 years pursuant to Section 13A-12-197.
+200 (c) A person who has been convicted of a felony offense
+201 may file a petition in the criminal division of the circuit
+202 court in the county in which the charges were filed to expunge
+203 records relating to the charge and the conviction if all of
+204 the following occur:
+205 (1) The person has been granted a certificate of pardon
+206 with restoration of civil and political rights for the
+207 conviction from the Board of Pardons and Paroles.
+208 (2) All civil and political rights that were forfeited
+209 as a result of the conviction have been restored.
+210 (3) One hundred eighty days have passed from the date
+211 of the issuance of the certification of pardon.
+212 (4) Except as provided in subsection (b), the
+213 conviction is not a violent offense, as provided in Section
+214 12-25-32.
+215 (5) The conviction is not a sex offense, as provided in
+216 Section 15-20A-5.
+217 (6) The conviction is not an offense involving moral
+218 turpitude, as provided in Section 17-3-30.1. This subdivision
+219 does not apply if the crime the person was convicted of was
+220 classified as a felony at the time of the conviction, but has
+221 been reclassified as a misdemeanor, pursuant to Act 2015-185,
+222 and the person has not been arrested for any offense,
+223 excluding minor traffic violations, 15 years prior to the
+224 filing of the petition for expungement.
+Page 8
+
+filing of the petition for expungement.
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+225 (7) The conviction is not a serious traffic offense, as
+226 provided in Article 9 of Chapter 5A of Title 32.
+227 (8) If the person was convicted of any of the offenses
+228 enumerated in 49 C.F.R. § 383.51, the person was not holding a
+229 commercial driver license or a commercial learner's permit at
+230 the time of the offense, or was not operating a commercial
+231 motor vehicle at the time of the offense.
+232 (d) A person who has been convicted of any felony
+233 offense, other than a violent offense, as provided in Section
+234 12-25-32, or a sex offense, as provided in Section 15-20A-5,
+235 may file a petition in the criminal division of the circuit
+236 court in the county in which the charges were filed to expunge
+237 records relating to the charge and the conviction if the
+238 conviction has been reversed and rendered by an appellate
+239 court, or if the person has been granted a certificate of
+240 pardon with restoration of civil and political rights for the
+241 conviction from the Board of Pardons and Paroles.
+242 (d)(e) Subject to Section 15-27-16, records related to
+243 offenses and convictions may be disclosed to a criminal
+244 justice agency, a district attorney, or a prosecuting
+245 authority for criminal investigation purposes as provided in
+246 Section 15-27-7, to a utility and its agents and affiliates,
+247 to the Department of Human Resources for the purpose of
+248 investigation or assessment in order to protect children or
+249 vulnerable adults, or to any entity or service providing
+250 information to banking, insurance, and other financial
+251 institutions as required for various requirements as provided
+252 in state and federal law. Further, any criminal charges that
+Page 9
+
+in state and federal law. Further, any criminal charges that
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+253 are expunged or are pending expungement pursuant to Section
+254 15-27-2 shall be available for use by any attorney, officer of
+255 the court, or the court itself in any civil matters related to
+256 the criminal charges expunged or seeking to be expunged
+257 regardless of the outcome of the petitioned expungement. At
+258 the conclusion of the pending civil matter, all references to
+259 the criminal charges expunged or to be expunged shall be
+260 redacted in the event the criminal charges are expunged.
+261 (e)(f) The circuit court shall have exclusive
+262 jurisdiction of a petition filed under subsection (a), (b), or
+263 (c)."
+264 "§15-27-4
+265 (a) In addition to any cost of court or docket fee for
+266 filing the petition in circuit court, an administrative filing
+267 fee of five hundred dollars ($500) shall be paid at the time
+268 the petition is filed and is a condition precedent to any
+269 ruling of the court pursuant to this chapter. The
+270 administrative filing fee shall be distributed as follows:
+271 (1) Seventy-five dollars ($75) to the State Judicial
+272 Administrative Fund.
+273 (2) Twenty-five dollars ($25) to the Alabama Department
+274 of Forensic Sciences.
+275 (3) Fifty dollars ($50) to the district attorney's
+276 office.
+277 (4) Fifty dollars ($50) to the clerk's office of the
+278 circuit court having jurisdiction over the matter, for the use
+279 and benefit of the circuit court clerk.
+280 (5) Fifty dollars ($50) to the Public Safety Fund.
+Page 10
+
+(5) Fifty dollars ($50) to the Public Safety Fund.
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+281 (6) Fifty dollars ($50) to the general fund of the
+282 county where the arresting law enforcement agency is located
+283 if the arrest was made by the sheriff's office to be used for
+284 law enforcement purposes, or, if the arrest was made by
+285 another law enforcement agency, to the municipality or other
+286 entity or state agency funding the law enforcement activity.
+287 (7) One hundred dollars ($100) to the state State
+288 General Fund.
+289 (8) Fifty dollars ($50) to the Education Trust Fund.
+290 (9) Fifty dollars ($50) to the Fair Trial Tax Fund.
+291 (b)(1) When a petitioner is seeking the expungement of
+292 multiple charges arising from one arrest, the petitioner shall
+293 only be required to pay one filing fee pursuant to subsection
+294 (a).
+295 (2) When a petitioner is seeking the expungement of
+296 multiple charges arising from multiple arrests, the petitioner
+297 shall be required to pay a filing fee for each arrest pursuant
+298 to subsection (a).
+299 (c) Notwithstanding subsection (a), a person seeking
+300 relief under this chapter may apply for indigent status by
+301 completing an Affidavit of Substantial Hardship and Order
+302 which shall be submitted with the petition. If the court finds
+303 the petitioner is indigent, the court shall waive the filing
+304 fee provided in subsection (a).
+305 (d) If a petitioner seeks expungement of an arrest or
+306 conviction record and the court in the original case made a
+307 clear and unequivocal judicial finding on the record that the
+308 arrest had no foundation of probable cause, the court, in the
+Page 11
+
+arrest had no foundation of probable cause, the court, in the
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+309 expungement proceeding, shall waive all docket fees and court
+310 costs, except for the filling filing fee in subsection (a)."
+311 "§15-27-5
+312 (a)(1) If the prosecuting authority or victim files an
+313 objection to the granting of a petition under this chapter,
+314 the court having jurisdiction over the matter shall set a date
+315 for a hearing no sooner than 30 days from the filing of the
+316 objection. The court shall notify the prosecuting authority,
+317 the victim, and the petitioner of the hearing date.
+318 (2) If no objection to the petition is filed by the
+319 prosecuting authority or victim, the court having jurisdiction
+320 over the matter may set the matter for a hearing.
+321 (3) The court having jurisdiction over the matter may
+322 not deny a petition on the merits under this chapter without
+323 conducting the hearing.
+324 (4) If a petition is facially invalid, the court may
+325 dismiss the petition without setting a hearing.
+326 (b) In making its determination, the court shall
+327 consider all of the following factors:
+328 (1) Nature and seriousness of the offense committed.
+329 (2) Circumstances under which the offense occurred.
+330 (3) Date of the offense.
+331 (4) Age of the person when the offense was committed.
+332 (5) Whether the offense was an isolated or repeated
+333 incident.
+334 (6) Other conditions that may have contributed to the
+335 offense.
+336 (7) An available probation or parole record, report, or
+Page 12
+
+(7) An available probation or parole record, report, or
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+337 recommendation.
+338 (8) Whether the offense was dismissed or nolle prossed
+339 as part of a negotiated plea agreement and whether the
+340 petitioner pleaded guilty to another related or lesser
+341 offense.
+342 (9) Evidence of rehabilitation, including good conduct
+343 in prison or jail or in the community, counseling or
+344 psychiatric treatment received, acquisition of additional
+345 academic or vocational schooling, successful business or
+346 employment history, and the recommendation of his or her
+347 supervisors or other persons in the community.
+348 (10) Any other matter the court deems relevant, which
+349 may include, but is not limited to, a prior expungement of the
+350 petitioner's records.
+351 (c) A hearing under subsection (a) shall be conducted
+352 in a manner prescribed by the trial judge and shall include
+353 oral argument and review of relevant documentation in support
+354 of, or in objection to, the granting of the petition. The
+355 Alabama Rules of Evidence shall apply to the hearing. Leave of
+356 the court shall be obtained for the taking of witness
+357 testimony relating to any disputed fact.
+358 (d) There is no right to the expungement of any
+359 criminal record, and anyAny request for expungement of a
+360 criminal record may be denied at the sole discretion of the
+361 courtfollowing a hearing on the merits of the petition.
+362 (e) The court shall grant the petition if the court is
+363 reasonably satisfied from the evidence that the petitioner has
+364 complied with and satisfied the requirements of this chapter.
+Page 13
+
+complied with and satisfied the requirements of this chapter.
+3PURFZZ-1 03/11/2026 CMH (H) HSE 2025-3188
+House Judiciary Reported Substitute for HB535
+365 The court shall have discretion over the number of cases that
+366 may be expunged pursuant to this chapter after the first case
+367 is expunged.
+368 (f) The ruling of the court shall be subject to appeal
+369 and may not be reversed absent a showing of an abuse of
+370 discretionunless the ruling is clearly erroneous."
+371 Section 2. This act shall become effective on October
+372 1, 2026.
+Page 14

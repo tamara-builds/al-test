@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - Reported Out of Committee House of Origin
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HGNIW83-1 01/28/2026 KMS (H) HSE 2026-216
+House Insurance Reported Substitute for HB283
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to health insurance; to create the Health
+10 Savings Account State-Federal Regulatory Coordination Act; to
+11 add Article 5 to Chapter 19, Title 27, Code of Alabama 1975,
+12 to limit application of a federal cost-sharing requirement to
+13 instances where the minimum deductible under federal law has
+14 been applied to an enrollee's plan; to ensure the enrollee's
+15 health savings account continues to qualify as a
+16 high-deductible plan under federal law; and to amend Sections
+17 10A-20-6.16 and 27-21A-23, Code of Alabama 1975, relating to
+18 certain health care service corporations and health
+19 maintenance organizations, to reference the new Article 5,
+20 Chapter 9, Title 27, Code of Alabama 1975, created by the new
+21 article.
+22 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+23 Section 1. Article 5 is added to Chapter 19, Title 27
+24 of the Code of Alabama 1975, to read as follows:
+25 Article 5. The Health Savings Account State-Federal
+26 Regulatory Coordination Act.
+27 §27-19-180
+28 (a) This article shall be known and may be cited as the
+Page 1
+
+(a) This article shall be known and may be cited as the
+HGNIW83-1 01/28/2026 KMS (H) HSE 2026-216
+House Insurance Reported Substitute for HB283
+29 Health Savings Account State-Federal Regulatory Coordination
+30 Act.
+31 (b) The purpose of this article is to protect the
+32 efficacy of Health Savings Account (HSA) qualified plans via a
+33 legislative exception or safe harbor from any state benefit
+34 mandate or copay accumulator adjustment law due to federal
+35 law, regulations, rules, or guidance regarding high deductible
+36 health plans.
+37 (c) For purposes of this article, the following terms
+38 have the following meanings:
+39 (1) ENROLLEE. An individual who is enrolled in a health
+40 insurance plan, whether on an individual or group basis,
+41 including any covered dependent.
+42 (2) HEALTH SAVINGS ACCOUNT QUALIFIED INSURANCE PLAN or
+43 HSA. A high deductible health plan that meets the specific
+44 requirements of 26 U.S.C. § 223, as interpreted and
+45 administered by the federal Internal Revenue Service.
+46 Individuals covered by such a plan may contribute to a Health
+47 Savings Account (HSA), a trust, or a custodial account for
+48 qualified medical expenses. An individual may not contribute
+49 to an HSA unless he or she is covered by an HSA-qualified
+50 insurance plan and has no other disqualifying coverage.
+51 (3) HIGH DEDUCTIBLE HEALTH PLAN. A health insurance
+52 plan, as defined in 26 U.S.C. § 223(c)(2).
+53 (4) PREVENTIVE CARE. Those services defined as such by
+54 the U.S. Department of the Treasury and the Internal Revenue
+55 Service, including preventive services recognized under the
+56 Affordable Care Act, pursuant to regulation or guidance issued
+Page 2
+
+Affordable Care Act, pursuant to regulation or guidance issued
+HGNIW83-1 01/28/2026 KMS (H) HSE 2026-216
+House Insurance Reported Substitute for HB283
+57 under the authority of Title 26 of the United States Code. In
+58 general, the term does not include services that provide
+59 treatment for known illnesses, diseases, or conditions.
+60 However, under IRS Notice 2019-45, the term also includes
+61 specified products and services provided to individuals with
+62 certain defined chronic conditions including, but not limited
+63 to, diabetes, asthma, and heart disease.
+64 (5) ZERO COST-SHARING or COST-SHARING RESTRICTIONS.
+65 Prohibition outright of any deductible, copayment, or
+66 coinsurance on the part of the enrollee or certain limitations
+67 on the amount of the deductible, copayment, or coinsurance.
+68 (d) If under federal law, the application of any
+69 cost-sharing requirement of the Insurance Code would cause the
+70 enrollee's health savings account plan to no longer qualify as
+71 a high-deductible health plan under 26 U.S.C. § 223, then the
+72 cost-sharing requirement shall only apply to the enrollee's
+73 plan once the minimum deductible under 26 U.S.C. § 223 has
+74 been applied.
+75 (e) The Commissioner of Insurance may adopt rules as
+76 necessary to implement this section.
+77 Section 2. Sections 10A-20-6.16 and 27-21A-23 of the
+78 Code of Alabama 1975, are amended to read as follows:
+79 "§10A-20-6.16
+80 (a) No statute of this state applying to insurance
+81 companies shall be applicable to any corporation organized
+82 under this article and amendments thereto or to any contract
+83 made by the corporation;, except the corporation shall be
+84 subject to the following:
+Page 3
+
+subject to the following:
+HGNIW83-1 01/28/2026 KMS (H) HSE 2026-216
+House Insurance Reported Substitute for HB283
+85 (1) The provisions regarding annual premium tax to be
+86 paid by insurers on insurance premiums.
+87 (2) Chapter 55 of Title 27.
+88 (3) Article 2 and Article 3 of Chapter 19 of Title 27.
+89 (4) Section 27-1-17.
+90 (5) Chapter 56 of Title 27.
+91 (6) Rules adopted by the Commissioner of Insurance
+92 pursuant to Sections 27-7-43 and 27-7-44.
+93 (7) Chapter 54 of Title 27.
+94 (8) Chapter 57 of Title 27.
+95 (9) Chapter 58 of Title 27.
+96 (10) Chapter 59 of Title 27.
+97 (11) Chapter 54A of Title 27.
+98 (12) Chapter 12A of Title 27.
+99 (13) Chapter 2B of Title 27.
+100 (14) Chapter 29 of Title 27.
+101 (15) Chapter 62 of Title 27.
+102 (16) Chapter 63 of Title 27.
+103 (17) Chapter 45A of Title 27.
+104 (18) Article 5 of Chapter 19 of Title 27.
+105 (b) The provisions in subsection (a) that require
+106 specific types of coverage to be offered or provided shall not
+107 apply when the corporation is administering a self-funded
+108 benefit plan or similar plan, fund, or program that it does
+109 not insure."
+110 "§27-21A-23
+111 (a) Except as otherwise provided in this chapter,
+112 provisions of the insurance law and provisions of health care
+Page 4
+
+provisions of the insurance law and provisions of health care
+HGNIW83-1 01/28/2026 KMS (H) HSE 2026-216
+House Insurance Reported Substitute for HB283
+113 service plan laws shall not be applicable to any health
+114 maintenance organization granted a certificate of authority
+115 under this chapter. This provisionsubsection shall not apply
+116 to an insurer or health care service plan licensed and
+117 regulated pursuant to the insurance law or the health care
+118 service plan laws of this state except with respect to its
+119 health maintenance organization activities authorized and
+120 regulated pursuant to this chapter.
+121 (b) Solicitation of enrollees by a health maintenance
+122 organization granted a certificate of authority shall not be
+123 construed to violate any provision of law relating to
+124 solicitation or advertising by health professionals.
+125 (c) Any health maintenance organization authorized
+126 under this chapter shall not be deemed to be practicing
+127 medicine and shall be exempt from the provisions of Section
+128 34-24-310, et seq., relating to the practice of medicine.
+129 (d) No person participating in the arrangements of a
+130 health maintenance organization other than the actual provider
+131 of health care services or supplies directly to enrollees and
+132 their families shall be liable for negligence, misfeasance,
+133 nonfeasance, or malpractice in connection with the furnishing
+134 of such services and supplies.
+135 (e) Nothing in this chapter shall be construed in any
+136 way to repeal or conflict with any provision of the
+137 certificate of need law.
+138 (f) Notwithstanding the provisions of subsection (a), a
+139 health maintenance organization shall be subject to all of the
+140 following:
+Page 5
+
+following:
+HGNIW83-1 01/28/2026 KMS (H) HSE 2026-216
+House Insurance Reported Substitute for HB283
+141 (1) Section 27-1-17.
+142 (2) Chapter 56.
+143 (3) Chapter 54.
+144 (4) Chapter 57.
+145 (5) Chapter 58.
+146 (6) Chapter 59.
+147 (7) Rules adopted by the Commissioner of Insurance
+148 pursuant to Sections 27-7-43 and 27-7-44.
+149 (8) Chapter 12A.
+150 (9) Chapter 54A.
+151 (10) Chapter 2B.
+152 (11) Chapter 29.
+153 (12) Chapter 62.
+154 (13) Chapter 63.
+155 (14) Chapter 45A.
+156 (15) Article 5 of Chapter 19."
+157 Section 3. This act shall become effective on June 1,
+158 2026.
+Page 6

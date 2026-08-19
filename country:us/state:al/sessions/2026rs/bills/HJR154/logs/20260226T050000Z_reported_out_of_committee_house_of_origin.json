@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported Out of Committee House of Origin",
+    "occurred_at": "2026-02-26T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR154"
+}

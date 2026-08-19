@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Myrex 1st Amendment Offered",
+    "occurred_at": "2026-03-03T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB435"
+}

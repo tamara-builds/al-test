@@ -1,0 +1,157 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB42 INTRODUCED
+1 SB42
+2 EJRPTC9-1
+3 By Senator Kitchens
+4 RFD: County and Municipal Government
+5 First Read: 13-Jan-26
+6 PFD: 07-Jan-26
+Page 0
+
+PFD: 07-Jan-26
+EJRPTC9-1 12/16/2025 THR (L)THR 2025-3690
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, if a municipal election with
+6 more than two candidates ends with no candidate
+7 receiving a majority of all the votes cast in the
+8 election, the municipal governing body shall order a
+9 second or runoff election between the two candidates
+10 having received the most and second-most votes.
+11 This bill would provide that in any municipal
+12 election, including an election with only two
+13 candidates on the ballot, with no candidate receiving a
+14 majority of all the votes cast in the election, the
+15 municipal governing body shall order a second or runoff
+16 election between the two candidates having recived the
+17 most and second-most votes.
+18
+19
+20 A BILL
+21 TO BE ENTITLED
+22 AN ACT
+23
+24 Relating to municipal elections; to amend Section
+25 11-46-55, Code of Alabama 1975; to further provide for second
+26 or runoff elections.
+27 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+28 Section 1. Section 11-46-55, Code of Alabama 1975, is
+Page 1
+
+Section 1. Section 11-46-55, Code of Alabama 1975, is
+SB42 INTRODUCED
+29 amended to read as follows:
+30 "§11-46-55
+31 (a)(1) Commencing at 12:00 noon on the first Tuesday
+32 after the election, the municipal governing body shall proceed
+33 to open the envelopes addressed to the governing body which
+34 have been delivered by the returning officers to the municipal
+35 clerk, canvass the returns, and ascertain and determine the
+36 number of votes: (i) received by each candidate; and (ii) for
+37 and against each proposition submitted at the election. If it
+38 appears that any candidate or any proposition in the election
+39 has received a majority of the votes cast for that office or
+40 on that question, the municipal governing body shall declare
+41 the candidate elected to the office or the question carried,
+42 and a certificate of election shall be given to the
+43 individuals by the municipal governing body or a majority of
+44 them, which shall entitle the individuals so certified to the
+45 possession of their respective offices immediately upon the
+46 expiration of the terms of their predecessors as provided by
+47 law.
+48 (2) If the certification results of provisional ballots
+49 cast at the election have been received from the board of
+50 registrars prior to the first Tuesday after the election, or
+51 if no provisional votes were cast in the election, the
+52 municipal governing body, at any special or regular meeting,
+53 may canvass the results before the first Tuesday after the
+54 election.
+55 (b) If a single office is to be filled at the election
+56 and there is more than one candidate running, then the
+Page 2
+
+and there is more than one candidate running, then the
+SB42 INTRODUCED
+57 majority of the votes cast for the office in the election
+58 shall be ascertained by dividing the total votes cast for all
+59 candidates for the office by two, and any number of votes in
+60 excess of one half one-half of the total votes cast for all
+61 candidates for the office shall be a majority within the
+62 meaning of subsection (a).
+63 (c) If two or more offices constituting a group are to
+64 be filled and there are more candidates for election than
+65 there are offices, then the majority of the votes cast for the
+66 office in the election shall be ascertained by dividing the
+67 total vote votes cast for all candidates for the offices by
+68 the number of positions to be filled and then dividing the
+69 result by two. Any number of votes in excess of the number
+70 ascertained by the last division shall be the majority
+71 prescribed in subsection (a) as necessary for election. If in
+72 ascertaining the result in this way, it appears that more
+73 candidates have obtained this majority than there are
+74 positions to be filled, then those having the highest vote, if
+75 beyond the majority just defined, shall be declared elected to
+76 fill the positions.
+77 (d) If no candidate receives a majority of all the
+78 votes cast in the election for any one office or offices for
+79 the election to which there were more than two candidates,
+80 then the municipal governing body shall order a second or
+81 runoff election to be held on the fourth Tuesday following the
+82 regular election, at which election the two candidates having
+83 received the most and the second most second-most votes,
+84 respectively, shall be candidates, and the individual
+Page 3
+
+respectively, shall be candidates, and the individual
+SB42 INTRODUCED
+85 receiving the highest number of votes for that office in the
+86 runoff election shall be declared elected.
+87 (e) In the event one of the candidates for a particular
+88 office in the a runoff or second election withdraws or dies,
+89 then there need not be a second or runoff election to fill the
+90 office. If there should be a tie vote cast at any runoff or
+91 second election, then in that event the tie shall be decided
+92 by the municipal governing body no later than 12:00 noon on
+93 the first Tuesday following the second or runoff election. A
+94 vote for a particular candidate by a majority of those members
+95 eligible to vote of the governing body shall be necessary to
+96 decide the election in his or her favor. If the municipal
+97 governing body fails to break the tie, the elected candidate
+98 shall be decided by lot by the judge of probate of the county
+99 where the city or town hall is located no later than 5:00 p.m.
+100 on the first Tuesday following the second or runoff election
+101 in the presence of the candidates and other electors who
+102 choose to be present.
+103 (f) Any judge of probate who openly participated in the
+104 promotion of candidates in the election that resulted in a tie
+105 may not decide the outcome of the election and shall be
+106 disqualified to do so. The presiding circuit court judge in
+107 the county where the city or town hall is located shall
+108 replace the disqualified judge of probate and shall conduct
+109 the duties required hereinby this section.
+110 (g) Within 10 days of canvassing the results, the
+111 municipal clerk shall file a copy of each certificate of
+112 election with all of the following:
+Page 4
+
+election with all of the following:
+SB42 INTRODUCED
+113 (1) The office of the judge of probate of the county in
+114 which the city or town hall is situated. The judge of probate
+115 shall file the certificate in the same manner that he or she
+116 files the declaration of the result of elections to county
+117 offices.
+118 (2) The Secretary of State.
+119 (3) The Alabama League of Municipalities."
+120 Section 2. This act shall become effective on June 1,
+121 2026.
+Page 5

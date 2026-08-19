@@ -1,0 +1,298 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB150 INTRODUCED
+1 HB150
+2 MS5BM1H-1
+3 By Representative Wilcox
+4 RFD: Boards, Agencies and Commissions
+5 First Read: 13-Jan-26
+6 PFD: 12-Jan-26
+Page 0
+
+PFD: 12-Jan-26
+MS5BM1H-1 01/12/2026 VSM (L)ma 2025-3127
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an improvement district can
+6 petition the government that appointed it to levy an
+7 assessment and lien on property within the district to
+8 finance public infrastructure improvement projects. The
+9 assessment accrues interest at a rate that the board of
+10 directors of a district deems reasonable and may exceed
+11 the interest rate on the bonds issued to finance the
+12 improvement projects. Existing law also authorizes the
+13 board to foreclose on property under state foreclosure
+14 statutes if there is a default in payment of the
+15 assessment.
+16 This bill would remove the board's option to
+17 charge a rate higher than the interest rate on the
+18 bonds issued to finance the public infrastructure
+19 improvement projects.
+20 This bill would create an alternative
+21 enforcement mechanism for collection and enforcement of
+22 assessments, subject to approval by the county
+23 commission, and allow a district to engage the county
+24 tax assessor, the county tax collector, and the county
+25 judge of probate to assist in the collection and
+26 enforcement of assessments in the same manner as
+27 delinquent ad valorem tax liens. This bill would allow
+28 the tax collecting official to collect a fee of three
+Page 1
+
+the tax collecting official to collect a fee of three
+HB150 INTRODUCED
+29 percent of the total assessment collected.
+30 This bill would also make nonsubstantive,
+31 technical revisions to update the existing code
+32 language to current style.
+33
+34 A BILL
+35 TO BE ENTITLED
+36 AN ACT
+37
+38 Relating to Alabama Improvement Districts; to amend
+39 Section 11-99A-14, Code of Alabama 1975, to remove the board's
+40 discretion to charge a higher interest rate on the assessment
+41 than interest on the bond issued to fund the project; to add
+42 Section 11-99A-14.1, Code of Alabama 1975, to provide that
+43 improvement districts may petition the county commission to
+44 use alternate means of collection and enforcement of
+45 assessments; to provide that improvement districts may use
+46 county tax officials and judges of probate to collect and
+47 enforce assessment liens; to provide that an assessment would
+48 be collected in the same manner as delinquent ad valorem
+49 taxes; to allow the county tax collector to charge a fee for
+50 collection; and to make nonsubstantive, technical revisions to
+51 update the existing code language to current style.
+52 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+53 Section 1. Section 11-99A-14, Code of Alabama 1975, is
+54 amended to read as follows:
+55 "§11-99A-14
+56 (a) Each assessment shall constitute a lien on the
+Page 2
+
+(a) Each assessment shall constitute a lien on the
+HB150 INTRODUCED
+57 property assessed property in for the amount of the assessment
+58 with respect related to that parcel of land, as provided
+59 specified in the final assessment, forecloseable and be
+60 subject to foreclosure as provided in this chapter. The
+61 assessment shall be payable either within no later than 30
+62 days after the final assessment or over such term as may be
+63 determined by the board. If the assessment is to be paid over
+64 a term, the assessment shall accrue interest and be payable
+65 periodically, monthly, quarterly, semiannually, annually, or
+66 as otherwise provided by the board, with interest at a rate as
+67 may be considered reasonable by the board. In particular, the
+68 assessment may bear interest at the same rate or yield borne
+69 by the bonds issued to obtain funds to acquire, construct, or
+70 install the improvements, but interest may be at a higher rate
+71 in the discretion of the board. Once the full amount of a
+72 final assessment allocated with respect to for a tract is paid
+73 in full, including with all interest and, penalties, and
+74 collection costs of collection, if any, suchthe tract shall be
+75 released from the lien of the assessment.
+76 (b) The proceedings by which an assessment is levied
+77 may provide for an increased interest rate with respect to any
+78 interest accruing on any payment after the due date thereof.
+79 (c) In its proceedings, the board may specify that
+80 assessments may be prepaid at any time or circumstance. The
+81 board may specify that assessments must be prepaid upon the
+82 sale of the tract of land, or a portion thereof, being
+83 assessed when selling the tract of land or any part of it. If
+84 the obligation to pay is accelerated, the assessment shall
+Page 3
+
+the obligation to pay is accelerated, the assessment shall
+HB150 INTRODUCED
+85 include all unpaid principal of the assessment then unpaid,
+86 plus interest until the next date provided for the payment of
+87 principal principal payment date on any bonds secured by a
+88 pledge of the assessments, unless otherwise provided in the
+89 proceedings pursuant to under which the bonds are issued.
+90 (d) Unless otherwise provided in the proceedings of the
+91 board with respect to regarding the assessment, any assessment
+92 may be voluntarily prepaid by the owner of the land assessed.
+93 In that case such cases, the amount prepaid prepayment amount
+94 shall be applied first to interest until the first following
+95 date on which the next date when principal may be paid under
+96 the bond, and then to principal. However, if provided in the
+97 proceedings of the board with respect to if the board's
+98 proceedings specify otherwise regarding the assessment,
+99 prepayments, whether voluntary or mandatory, the amount
+100 prepaid may be applied only to interest accrued up to the date
+101 of the prepayment, and then to principal.
+102 (e) Alternatively, the proceedings of the board with
+103 respect to regarding the assessment may provide that
+104 prepayment shall be applied first to accrued interest, and
+105 then to the difference between: (1)(i) the interest that will
+106 accrue from the date of prepayment until the next principal
+107 payment on the bonds,; and (2)(ii) the rate of interest at
+108 which the principal paid may be invested by the board to earn
+109 interest from the date of prepayment until the principal
+110 payment date, with any remaining balance to be applied to
+111 principal.
+112 (f) The proceedings of the board with respect to The
+Page 4
+
+(f) The proceedings of the board with respect to The
+HB150 INTRODUCED
+113 board's procedures regarding the assessment may provide
+114 specify that any mandatory prepayment may be waived by the
+115 board on the terms as may be provided in a proceeding.
+116 (g) If bonds are issued with respect to the final
+117 assessment, the assessments shall either: (1)(i) total the
+118 principal amount of the bonds to be issued with respect to the
+119 assessments; or (2)(ii) total such principal amount multiplied
+120 by a coverage ratio (e.g., 1.2 to 1) providing debt service
+121 coverage for the bonds in the ratio desired by the board."
+122 Section 2. Section 11-99A-14.1 is added to the Code of
+123 Alabama 1975, to read as follows:
+124 §11-99A-14.1
+125 (a) In addition to the collection and enforcement
+126 procedures for assessments provided in this chapter,
+127 including, without limitation, Section 11-99A-21, a district
+128 may petition the county commission of a county within the
+129 district to use the procedures specified in this section for
+130 collecting and enforcing assessments made against the land.
+131 (b) The district shall file its petition with the
+132 county commission of the county where the district is located.
+133 The petition shall be accompanied by all of the following:
+134 (1) Certified copies of the proceedings from the
+135 appointing government, which may be the county commission
+136 responsible for assessments within the district, including all
+137 petitions, attachments, consent agreements, and other
+138 documentation submitted to the appointing government for the
+139 assessments, as well as evidence of the assessment validation
+140 by a court of competent jurisdiction, from which no further
+Page 5
+
+by a court of competent jurisdiction, from which no further
+HB150 INTRODUCED
+141 appeal is possible by law.
+142 (2) Certification that the landowners within the
+143 district who are, or would be, subject to the assessments,
+144 along with any other individual or entity with an enforceable
+145 interest in the lands such as mortgagees and lenders of
+146 record, have been notified in writing of the district's
+147 intention to request the county commission to use the
+148 procedures pursuant to subsection (f) for collecting and
+149 enforcing assessments within the district.
+150 (3) All certifications, documentation, information, and
+151 insurance policies required by this section.
+152 (c) A district may file a petition for enforcement
+153 pursuant to this section at any time. The district may specify
+154 in its petition a specific period in which the procedures of
+155 this section shall be effective. The district shall be solely
+156 responsible for the accuracy of the information and all
+157 supporting documentation set forth in the petition.
+158 (d) The county commission shall approve a petition
+159 submitted in accordance with this section.
+160 (e) Upon approval of a petition, the county commission
+161 shall give written notice to the district, the tax assessing
+162 official of the county, the tax collecting official of the
+163 county, and the judge of probate of the county.
+164 (f)(1) Upon the county commission approving the
+165 district's petition to use the alternative collection and
+166 enforcement procedures listed in this section, the following
+167 officials have the following duties:
+168 a. The tax assessing official shall include the current
+Page 6
+
+a. The tax assessing official shall include the current
+HB150 INTRODUCED
+169 outstanding assessments certified by the district in the book
+170 of assessments of local ad valorem taxes, which is delivered
+171 by the official to the tax collecting official of the county.
+172 b. The tax collecting official shall collect the
+173 assessments in the same manner and through the same procedures
+174 used for collecting local ad valorem taxes. Immediately upon
+175 receipt, the tax collecting official shall segregate and
+176 account for the proceeds of the assessments and deliver the
+177 proceeds to the district or, at the written direction of the
+178 district, promptly report in writing to both the district and
+179 the judge of probate the assessments that have been paid,
+180 partially paid, or collected.
+181 c. The judge of probate of the county shall timely
+182 enforce the payment of a delinquent or unpaid assessment as
+183 provided in Chapter 10 of Title 40.
+184 (2) No later than March 1 of each year, a district that
+185 has opted in to tax collection on the property tax bills shall
+186 certify in writing to the county's tax assessing and tax
+187 collecting officials, using the form and content required by
+188 those officials, the assessments that are due and payable,
+189 along with all necessary information for billing, collection,
+190 and enforcement of the assessments, as may be required by law.
+191 (3) The tax assessing official of the county and tax
+192 collecting official of the county, upon receiving the
+193 certified list of assessments from the district, shall include
+194 the amounts of the assessments in the next regular bill for ad
+195 valorem taxes levied against the lands in the district that
+196 are subject to the assessments.
+Page 7
+
+are subject to the assessments.
+HB150 INTRODUCED
+197 (4) If a tax bill that includes an assessment becomes
+198 delinquent, the remedy and procedures for collection of the
+199 delinquent assessment shall be by the same methods and
+200 procedures as a tax sale or tax lien auction used by the
+201 county in accordance with Chapter 10 of Title 40.
+202 (g) The tax collecting official shall recover the cost
+203 of collection and enforcement of payment of assessments,
+204 amounting to three percent of the total assessments collected.
+205 This fee shall be deposited into a segregated account of the
+206 tax collecting official's office for use in carrying out their
+207 official duties.
+208 (h)(1) The district shall be entirely responsible for
+209 the accuracy of the information, including, but not limited
+210 to, the assessment amounts and the land assessed, as certified
+211 to the county officials as provided in this section. The
+212 commission, the tax assessing official, the tax collecting
+213 official, and the judge of probate shall have no duty or
+214 obligation to investigate, review, or verify the initial or
+215 continuing accuracy of the information in compliance with this
+216 chapter.
+217 (2) The district shall be the proper party in any
+218 litigation arising from the operation of this section. The
+219 county, the tax assessing official of the county, the tax
+220 collecting official of the county, and the judge of probate of
+221 the county shall not be made parties to any litigation and
+222 shall not be liable for damages for any challenge to any
+223 assessment included in any ad valorem tax bill under Chapter 7
+224 of Title 40, or in a tax lien sale conducted in accordance
+Page 8
+
+of Title 40, or in a tax lien sale conducted in accordance
+HB150 INTRODUCED
+225 with this section.
+226 (3) The district for which a certified assessment is
+227 made, subject to collection in accordance with this section,
+228 shall reimburse, indemnify, and hold harmless the county, the
+229 county tax assessing official, the county tax collecting
+230 official, and the judge of probate of the county for any
+231 costs, including reasonable attorney fees, costs of defense,
+232 judgment expenses, and settlements incurred due to or related
+233 to any dispute or matter arising from the operation of this
+234 section.
+235 (i) The district and its board may, at any time prior
+236 to the county commission approving a petition to proceed under
+237 this section, exercise the rights and remedies outlined in
+238 Section 11-99A-21. Following a district obtaining approval by
+239 the county commission to proceed under this section, neither
+240 the district nor its board may have or exercise those rights
+241 and remedies under Section 11-99A-21.
+242 (j) The Alabama Department of Revenue may adopt rules
+243 to implement and administer this section with advice and input
+244 from the Alabama Association of Tax Administrators.
+245 Section 3. This act shall become effective on October
+246 1, 2026.
+Page 9

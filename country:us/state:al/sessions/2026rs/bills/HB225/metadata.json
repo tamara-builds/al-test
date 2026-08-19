@@ -1,0 +1,304 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB225",
+  "title": "Education; notice requirement for certain board of education personnel vacancies revised",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Education"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb225"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Enacted",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Delivered to Governor",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Signature Requested",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Enrolled",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Ready to Enroll",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 1033",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Third Reading in Second House",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Education Policy)",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in Second House (Education Policy)",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Education Policy",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 193",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Education Policy)",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Education Policy)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Education Policy",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Smith (I)",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Smith (I)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB225-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB225-enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Enacted",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-ZQFLMWW-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-ZQFLMWW-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-ZQFLMWW-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "22164061"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "text_extraction_latest_update": "2026-07-21T21:08:11.126312Z"
+  }
+}

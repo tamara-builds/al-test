@@ -1,0 +1,1115 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB586 ENGROSSED
+1 HB586
+2 2J582II-2
+3 By Representative Wilcox
+4 RFD: Boards, Agencies and Commissions
+5 First Read: 05-Mar-26
+Page 0
+
+First Read: 05-Mar-26
+HB586 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to consumer protection; to amend Sections
+10 8-42-1, 8-42-2, and 8-42-3, Section 34-27-2, as last amended
+11 by 2025-380, 2025 Regular Session, Sections 34-27-30 and
+12 34-27-36, as last amended by 2025-308, 2025 Regular Session,
+13 Code of Alabama 1975; to define "equitable interest" and "real
+14 estate wholesaling,"; to require certain disclosures in
+15 wholesaling transactions; to require a real estate wholesaler
+16 to be licensed with the Alabama Real Estate Commission; to
+17 provide that the Alabama Securities Commission has concurrent
+18 jurisdiction with the Alabama Real Estate Commission to
+19 regulate real estate wholesaling; to provide that failure to
+20 provide the required disclosures may subject the wholesaler to
+21 fines and penalties; to authorize the Alabama Real Estate
+22 Commission to refer real estate wholesaling matters to the
+23 Alabama Securities Commission for investigation and
+24 enforcement; Sections 8-42-1.1, 8-42-1.2, 8-42-1.3, and 8-42-4
+25 are added to the Code of Alabama 1975; to authorize the
+26 Alabama Securities Commission to enforce violations of
+27 investment-oriented real property solicitation disclosure
+28 requirements; to provide that the Alabama Securities
+Page 1
+
+requirements; to provide that the Alabama Securities
+HB586 Engrossed
+29 Commission has concurrent jurisdiction with the Alabama Real
+30 Estate Commission to regulate real estate wholesaling; to
+31 provide fines and penalties for wholesaling and unsolicited
+32 offer violations; to provide for rescission of unsolicited
+33 real estate contracts in certain circumstances; to authorize
+34 the Alabama Securities Commission to establish standard
+35 disclosure language for investment-oriented solicitations; and
+36 to also make nonsubstantive, technical revisions to update the
+37 existing code language to current style.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39
+40 Section 1. Sections 8-42-1, 8-42-2, and 8-42-3, Section
+41 34-27-2, as last amended by 2025-380, 2025 Regular Session,
+42 Sections 34-27-30, and 34-27-36, as last amended by 2025-308,
+43 2025 Regular Session, Code of Alabama 1975, are amended to
+44 read as follows:
+45 "§8-42-1
+46 The Legislature finds and declares all of the
+47 following:
+48 (1) Wholesaling real property occurs when a buyer
+49 enters into a contract for purchase and sale of a
+50 single-family residential property with the seller of the
+51 property thereby creating the buyer's equitable interest in
+52 the property, the buyer then finds a subsequent purchaser
+53 willing to pay a higher price for the property and then
+54 assigns its interest to the subsequent purchaser for a fee.
+55 Many modern real estate schemes no longer focus on the
+56 legitimate purchase and ownership of property. Instead, they
+Page 2
+
+legitimate purchase and ownership of property. Instead, they
+HB586 Engrossed
+57 aim to extract economic value from property owners through
+58 resale, assignment, optioning, and complex contract
+59 structures. These schemes are carried out at scale by large
+60 entities operating through networks of affiliates and
+61 individuals. Although presented as real estate transactions,
+62 these arrangements function in practice as financial
+63 investment products secured by real estate and should be
+64 regulated with the same transparency and oversight as other
+65 financial investments and similar frauds. These practices most
+66 often harm seniors, long-term owners, heirs, and financially
+67 vulnerable families, and undermine confidence in the real
+68 estate market.
+69 (2) Certain unfair service agreements provide a real
+70 estate company with the right to market, list, or assist in
+71 selling a residential property for up to 40 years, binding
+72 homeowners and successors in interest through a recorded
+73 memorandum and penalizing the homeowner or successor in
+74 interest for breach of the agreement.
+75 (3) The practices of wholesaling residential real
+76 estate, and recording these unfair service agreements, pose a
+77 significant risk to Alabama homeowners if left unregulated.
+78 (4) The lack of any restrictions enables predatory
+79 practices against homeowners, especially those who have lived
+80 in a home for a long period of time, leading to financial
+81 loss, equity theft and resulting in confusion for unsuspecting
+82 subsequent purchasers.
+83 (5) The Legislature concludes the following in the
+84 interest of protecting Alabama homeowners and home buyers
+Page 3
+
+interest of protecting Alabama homeowners and home buyers
+HB586 Engrossed
+85 property owners:
+86 a. Disclosure of the limited interest, marketing, and
+87 assignment of the buyer's equitable interest in the
+88 homeowner's property should be required of buyers engaging in
+89 wholesaling.
+90 b. Unfair service agreements create clouds on the
+91 titles of Alabama homes and burden Alabama homeowners with
+92 false promises, are against the public interest, and
+93 constitute unreasonable restraints on the alienation of real
+94 property.
+95 c. Investment-oriented solicitations involving real
+96 property present risks comparable to those of securities
+97 transactions and warrant disclosure-based regulation.
+98 d. Nothing in this section shall be construed to
+99 infringe on the private property rights of an individual to
+100 acquire real property for his or her own use, ownership, or
+101 benefit.
+102 e. Nothing in this section shall be construed to
+103 require an individual to be licensed in order to acquire real
+104 property for his or her own use, ownership, or benefit.
+105 f. The Legislature finds that unsolicited offers to
+106 purchase real property may present a heightened risk of
+107 unfairness, particularly when the purchase price is below the
+108 real property's most recent tax assessed value, when the
+109 seller is an individual in need of protective services and
+110 vulnerable to elder abuse and exploitation as defined in
+111 Chapter 9 of Title 38, or the seller did not receive the
+112 professional assistance of a licensed real estate agent, as
+Page 4
+
+professional assistance of a licensed real estate agent, as
+HB586 Engrossed
+113 defined in Chapter 27 of Title 34, or a licensed attorney, as
+114 defined in Chapter 3 of Title 34."
+115 "§8-42-2
+116 (a) A person may acquire an equitable interest in a
+117 single-family residential property as the buyer under a
+118 contract for the purchase and sale of the property and then
+119 may assign or offer to assign the interest for a fee if the
+120 buyer discloses in writing all of the following:
+121 (1) To any potential subsequent purchaser or assignee,
+122 the nature of the buyer's equitable interest that the seller
+123 of the equitable interest is not the deed holder of the
+124 property and is only offering to sell or assign his or her
+125 equitable interest.;
+126 (2) To the seller of the property, the buyer's intent
+127 to market or assign its equitable interest in the seller's
+128 real estate prior to commencing any marketing of the
+129 property.;
+130 (3) To the seller of the property, the The effective
+131 date of any assignment of the buyer's interest to a subsequent
+132 purchaser of the property at least three business calendar
+133 days prior to the effective date of any assignment.; and
+134 (4) A fixed closing date with no automatic extensions
+135 in the contract that established the equitable interest.
+136 (b) Written disclosure under subsection (a) shall be
+137 required for the intent to market and transfer an equitable
+138 interest in residential real property, as limited by
+139 subsection (d), whether by assignment, novation, or any other
+140 similar method of transferring an interest in real property.
+Page 5
+
+similar method of transferring an interest in real property.
+HB586 Engrossed
+141 (c)(1) A violation of this section is a Class C
+142 misdemeanor.
+143 (2) In addition to criminal penalties, a person
+144 violating this section may be liable to the person to whom
+145 disclosure is required in an amount equal to three times the
+146 fee or amount received by the buyer pursuant to the assignment
+147 subject to civil fines and penalties as determined by the
+148 commission pursuant to Section 8-42-1.3 and by the Alabama
+149 Real Estate Commission pursuant to Section 34-27-36.
+150 (3) Enforcement of this section shall be governed by
+151 Section 8-42-1.2.
+152 (d) This section shall only apply to transactions
+153 involving single-family residential property and shall not
+154 apply to any other property transactions.
+155 (e) This section shall not infringe on the right of the
+156 parties to otherwise agree by contract.
+157 (f) This section shall not apply to predevelopment
+158 activity for residential subdivisions, condominiums, or other
+159 residential predevelopment activity."
+160 "§8-42-3
+161 (a) For purposes of this section the following terms
+162 have the following meanings:
+163 (1) RECORDING. Presenting a document to a county judge
+164 of probate for official placement in the public land records.
+165 (2) RESIDENTIAL REAL ESTATE. Real property located in
+166 this state which is used primarily for a dwelling and contains
+167 one to four dwelling units.
+168 (3) SERVICE AGREEMENT. A contract under which a person
+Page 6
+
+(3) SERVICE AGREEMENT. A contract under which a person
+HB586 Engrossed
+169 agrees to provide services in connection with the purchase or
+170 sale of residential real estate.
+171 (4) SERVICE PROVIDER. An individual or entity that
+172 provides services to another party under a service agreement.
+173 (5) UNFAIR SERVICE AGREEMENT. A service agreement in
+174 which the services subject to the agreement are not performed
+175 within one year after the date upon which the agreement
+176 commences and provides any of the following:
+177 a. Purports to run with the land or to be binding on
+178 future owners of interests in the real property.
+179 b. Allows for assignment of the right to provide the
+180 service without notice and agreement of the owner of
+181 residential real estate.
+182 c. Purports to create a lien, encumbrance, or other
+183 real property security interest.
+184 (b)(a) This chapter does not apply to any of the
+185 following:
+186 (1) A home warranty or other type of similar product
+187 that covers the cost of maintenance of for a major housing
+188 home system, such as plumbing or electrical wiring, for a set
+189 period of time from the date a house is sold.
+190 (2) An insurance contract.
+191 (3) An option to purchase or right of refusal to
+192 purchase real estate.
+193 (4) A maintenance or repair agreement entered into by a
+194 homeowners' association in a common interest community.
+195 (5) Agreements to manage residential real estate.
+196 (6) A declaration of any covenants, conditions, or
+Page 7
+
+(6) A declaration of any covenants, conditions, or
+HB586 Engrossed
+197 restrictions created in the formation of a homeowners'
+198 association, a group of condominium owners, or other common
+199 interest community, or an amendment to the declaration.
+200 (7) A mortgage loan or commitment to make or receive a
+201 mortgage loan.
+202 (8) A security agreement under Alabama's Uniform
+203 Commercial Code, relating to the sale or rental of personal
+204 property or fixtures.
+205 (9) Water, sewer, electrical, telephone, cable, or
+206 other regulated utility service providers.
+207 (c)(b) This section does not impair the rights granted
+208 by a mechanic's or materialman's lien under Division 8 of
+209 Article 5 of Chapter 11 of Title 35, or by another any other
+210 judicially imposed lien.
+211 (d)(c) If a service agreement is unfair under this
+212 section chapter, it is unenforceable.
+213 (e)(d) If a person enters into an unfair service
+214 agreement with a consumer, that agreement shall be deemed a
+215 deceptive act under the Deceptive Trade Practices Act,
+216 commencing with Section 8-19-1.
+217 (f)(e)(1) No person shall record or cause to be
+218 recorded an unfair service agreement, or a notice or
+219 memorandum of an unfair service agreement, in the this state.
+220 (2) If an unfair service agreement is recorded in this
+221 state, it the agreement shall not be deemed to provide actual
+222 or constructive notice against an otherwise bona fide
+223 purchaser of the residential real property to which it the
+224 agreement pertains, or against a creditor with a security
+Page 8
+
+agreement pertains, or against a creditor with a security
+HB586 Engrossed
+225 interest in the residential real property to which it pertains
+226 that property.
+227 (3) A service provider who records or causes to be
+228 recorded an unfair service agreement, or a notice or
+229 memorandum thereof of an unfair service agreement, in this
+230 state is liable to an affected party for statutory damages in
+231 the amount of ten thousand dollars ($10,000) in statutory
+232 damages.
+233 (g)(f) If an unfair service agreement, or a notice or
+234 memorandum of an unfair service agreement, is recorded in the
+235 state, any party with an interest in the residential real
+236 property to which it the agreement pertains may take either or
+237 both of the following actions:
+238 (1) Apply to the circuit court in the county where the
+239 recording exists is located to seek a court order declaring
+240 the agreement is void and of no effect.
+241 (2) In addition to the statutory damages described in
+242 subdivision (f) (e)(3), recover actual damages, plus costs and
+243 attorney fees as may be proven against the service provider
+244 who recorded the agreement."
+245 "§34-27-2
+246 (a) For purposes of Articles 1 and 2 of this chapter,
+247 the following terms have the following meanings:
+248 (1) ASSOCIATE BROKER. Any broker other than a
+249 qualifying broker.
+250 (2) BROKER. Any person licensed as a real estate broker
+251 under Articles 1 and 2 of this chapter.
+252 (3) BUYER'S AGREEMENT. An agreement between a real
+Page 9
+
+(3) BUYER'S AGREEMENT. An agreement between a real
+HB586 Engrossed
+253 estate company and a person through under which the company
+254 agrees to assist the person with the purchase of real property
+255 in exchange for a fee, whether as a fiduciary or
+256 non-fiduciary.
+257 (4) COMMISSION. The Alabama Real Estate Commission,
+258 except where the context requires that it means the fee paid
+259 to a broker or salesperson.
+260 (5) COMMISSIONER. A member of the commission.
+261 (6) COMPANY. Any sole proprietorship, corporation,
+262 partnership, branch office, or lawfully constituted business
+263 organization as the Legislature may provide for from time to
+264 time, which is licensed as a company under Articles 1 and 2 of
+265 this chapter.
+266 (7) ENGAGE. Contractual relationships between a
+267 qualifying broker and an associate broker or salesperson
+268 licensed under him or her, whether the relationship is
+269 employer-employee, independent contractor, or otherwise.
+270 (8) EQUITABLE INTEREST. Any interest or right in a
+271 contract or agreement to purchase residential real estate held
+272 by a party to that contract or agreement.
+273 (9) INACTIVE LICENSE. A license which that is being
+274 held by the commission office by law, order of the commission,
+275 at the request of the licensee, or which is renewable but is
+276 not currently valid because of a failure to renew.
+277 (10) LICENSE PERIOD. That period of time beginning on
+278 October 1 of a year designated by the commission to be the
+279 first year of a license period and ending on midnight
+280 September 30 of the year designated by the commission as the
+Page 10
+
+September 30 of the year designated by the commission as the
+HB586 Engrossed
+281 final year of that license period.
+282 (9)(11) LICENSEE. Any broker, salesperson, or company.
+283 (11)(12) LISTING AGREEMENT. An agreement between a
+284 company and an owner wherein under which the company agrees to
+285 assist the owner in the sale of the owner's real property in
+286 exchange for a fee, whether as a fiduciary or a non-fiduciary.
+287 The term includes an agreement giving the company the right to
+288 list or market the owner's real property upon the owner's
+289 future decision to sell the property.
+290 (13) NET LISTING AGREEMENT. An agreement that
+291 stipulates a net price to be received by the owner with the
+292 excess due to be received by a licensee as commission.
+293 (12)(14) PERSON. A natural person.
+294 (13)(15) PLACE OF BUSINESS.
+295 a. A licensed broker living residing in a rural area of
+296 this state who operates and operating from his or her home,
+297 provided that he or she sets up establishes and maintains an
+298 office for the conduct of the real estate business, which
+299 shall not be used for living purposes or occupancy other than
+300 the conduct of the real estate business. The office shall be
+301 used by the broker only and not as a place of business from
+302 which any additional licensee operates under his or her
+303 license. The office shall have a separate business telephone,
+304 have a separate entrance, and be properly identified as a real
+305 estate office.
+306 b. All licensees located within the city limits or
+307 police jurisdiction of a municipality shall operate from a an
+308 office with a separate office located in the city limits or
+Page 11
+
+office with a separate office located in the city limits or
+HB586 Engrossed
+309 police jurisdiction address. The office shall have a business
+310 telephone, meet comply with all other regulations commission
+311 rules of the Real Estate Commission, and be properly
+312 identified as a real estate office. Hardship cases may be
+313 subject to waiver of exempt from this regulation upon
+314 application and approval by the commission.
+315 c. All business records and files shall be kept at the
+316 place of business as required by in accordance with applicable
+317 law or Real Estate Commission rules.
+318 (14)(16) PRINCIPAL BROKER. As used in other states, the
+319 term has the same meaning as "qualifying broker" in this
+320 state.
+321 (15)(17) QUALIFYING BROKER. A broker under whom a sole
+322 proprietorship, corporation, partnership, branch office, or
+323 lawfully constituted business organization, as the Legislature
+324 may from time to time provide, is licensed, or a broker
+325 licensed as a company to do business as a sole proprietorship
+326 who is responsible for supervising the acts of the company or
+327 proprietorship and all associated real estate licensees
+328 licensed therewith.
+329 (16)(18) REAL ESTATE WHOLESALING. The practice of
+330 assigning or marketing the assignment of an equitable interest
+331 in residential property for profit.
+332 (19) RECOVERY FUND. The Alabama Real Estate Recovery
+333 Fund.
+334 (17)(20) RESIDENTIAL. Real property located in this
+335 state which is used primarily for a dwelling and contains one
+336 to four dwelling units.
+Page 12
+
+to four dwelling units.
+HB586 Engrossed
+337 (21) SALESPERSON. Any person licensed as a real estate
+338 salesperson under Articles 1 and 2 of this chapter.
+339 (18)(22) TEAM. Two or more licensees within the same
+340 company who work together to provide services for which a
+341 license is required and who hold themselves out to the public
+342 as a distinct group within the company.
+343 (b) The licensing requirements of Articles 1 and 2 of
+344 this chapter shall not apply to any of the following persons
+345 and transactions:
+346 (1) Any owner in the managing of, or in or consummating
+347 a real estate transaction involving, his or, her, or its own
+348 real estate or the real estate of his or her spouse, child, or
+349 parent. This exception does not apply to real estate
+350 wholesaling unless the sale is to a spouse, child, or parent,
+351 or unless the property is in a predevelopment stage.
+352 (2) An attorney-at-law performing his or her duties as
+353 an attorney-at-law.
+354 (3) Persons acting without compensation and in good
+355 faith under a duly executed power of attorney authorizing the
+356 consummation of a real estate transaction.
+357 (4) Persons or a state or federally chartered financial
+358 institution acting as a receiver, trustee, administrator,
+359 executor, or guardian; or acting under a court order or under
+360 the authority of a trust instrument or will.
+361 (5) Public officers performing their official duties.
+362 (6) Persons performing general clerical or
+363 administrative duties for a broker so long as, provided the
+364 person does not physically show listed property.
+Page 13
+
+person does not physically show listed property.
+HB586 Engrossed
+365 (7) Persons acting as the manager for of an apartment
+366 building or complex. However, this exception shall not apply
+367 to a person acting as an on-site manager of a condominium
+368 building or complex.
+369 (8) Persons licensed as time-share sellers under
+370 Article 3 of this chapter performing who perform an act
+371 consistent with that article.
+372 (9) Transactions involving the sale, lease, or transfer
+373 of cemetery lots.
+374 (c) Notwithstanding subdivision (b)(1), the licensing
+375 requirements in Articles 1 and 2 of this chapter shall apply
+376 to any person or entity that engages in real estate
+377 wholesaling, unless the sale is to a spouse, child, or parent,
+378 or unless the property is in a predevelopment stage."
+379 "§34-27-30
+380 It shall be unlawful for any person, sole
+381 proprietorship, partnership, corporation, branch office, or
+382 lawfully constituted business organization, as the Legislature
+383 may from time to time provide, for a fee, commission, or other
+384 valuable consideration, or with the intention or expectation
+385 of receiving or collecting a fee, commission, or other
+386 valuable consideration from another, to do any of the
+387 following unless licensed under Articles 1 and 2 of this
+388 chapter:
+389 (1) Sell, exchange, purchase, rent, or lease real
+390 estate situated within the State of Alabama.
+391 (2) Offer to sell, exchange, purchase, rent, or lease
+392 real estate situated within the State of Alabama.
+Page 14
+
+real estate situated within the State of Alabama.
+HB586 Engrossed
+393 (3) Negotiate or attempt to negotiate the listing,
+394 sale, exchange, purchase, rental, or leasing of real estate
+395 situated within the State of Alabama.
+396 (4) List or offer or attempt or agree to list real
+397 estate for sale, rental, lease, exchange, or trade situated
+398 within the State of Alabama.
+399 (5) Auction, offer, or attempt or agree to auction,
+400 real estate situated within the State of Alabama.
+401 (6) Buy or sell or offer to buy or sell, or otherwise
+402 deal in options on real estate situated within the State of
+403 Alabama.
+404 (7) Aid, attempt, or offer to aid in locating or
+405 obtaining for purchase, rent, or lease any real estate
+406 situated within the State of Alabama.
+407 (8) Procure or assist in procuring of prospects for the
+408 purpose of effecting the sale, exchange, lease, or rental of
+409 real estate situated within the State of Alabama.
+410 (9) Procure or assist in the procuring of properties
+411 for the purpose of effecting the sale, exchange, lease, or
+412 rental of real estate situated within the State of Alabama.
+413 (10) Present himself or herself, or be presented, as
+414 being able to perform an act for which a license is required.
+415 (11) Real estate wholesaling."
+416 "§34-27-36
+417 (a)(1) The commission or its staff, on its own
+418 initiative or on the a verified written complaint in writing
+419 of by any person, may investigate the actions and records of a
+420 licensee. The commission may issue subpoenas and compel the
+Page 15
+
+licensee. The commission may issue subpoenas and compel the
+HB586 Engrossed
+421 testimony of witnesses and the production of records and
+422 documents during an investigation. If probable cause is found,
+423 a formal complaint shall be filed, and the commission shall
+424 hold a hearing on the formal complaint.
+425 (2) In each instance in which a licensee is found in
+426 violation of any of the conduct prohibited in subsection (b),
+427 the commission may impose any of the following penalties:
+428 a. A fine of not less than one hundred dollars ($100)
+429 nor more than five thousand dollars ($5,000).
+430 b. Require the licensee to complete an approved
+431 education course or courses in addition to completing the
+432 existing continuing education requirements.
+433 c. Issue a public reprimand.
+434 d. Revoke or suspend any or all licenses held by the
+435 licensee under this chapter by the licensee. The suspension
+436 may continue until such time as the licensee has completed an
+437 approved continuing education course, has made restitution to
+438 accounts containing funds to be held for other parties, or
+439 both. The commission may also stay the revocation or
+440 suspension of a license and require completion of an approved
+441 education course, require the making of restitution to
+442 accounts containing funds to be held for other parties, or
+443 both.
+444 (b) A licensee is prohibited from doing all of the
+445 following:
+446 (1) Procuring or attempting to procure a license for
+447 himself or herself or another by fraud, misrepresentation, or
+448 deceit, or by making a material misstatement of fact in an
+Page 16
+
+deceit, or by making a material misstatement of fact in an
+HB586 Engrossed
+449 application for a license.
+450 (2) Engaging in misrepresentation or dishonest or
+451 fraudulent acts when selling, buying, trading, or renting real
+452 property of his or her own or of a spouse, child, or parent.
+453 (3) Making a material misrepresentation or failing to
+454 disclose to a potential purchaser or lessee any latent
+455 structural defect or any other defect known to the licensee.
+456 Latent structural defects and other defects do not refer to
+457 trivial or insignificant defects but refer to those defects
+458 that would be a significant factor to a reasonable and prudent
+459 person in making a decision to purchase or lease.
+460 (4) Making any false promises of a character likely to
+461 influence, persuade, or induce any person to enter into any
+462 contract or agreement.
+463 (5) Pursuing a continued and flagrant course of
+464 misrepresentation or the making of false promises through
+465 agents or salespersons or any medium of advertising or
+466 otherwise.
+467 (6) Publishing or causing to be published any
+468 advertisement that deceives or that is likely to deceive the
+469 public, or that in any manner tends to create a misleading
+470 impression.
+471 (7) Acting for more than one party in a transaction
+472 without the knowledge and written consent of all parties for
+473 whom he or she acts.
+474 (8)a. Failing, within a reasonable time, to properly
+475 account for or remit money coming that comes into his or her
+476 possession which and belongs to others, or commingling money
+Page 17
+
+possession which and belongs to others, or commingling money
+HB586 Engrossed
+477 belonging to others with his or her own funds.
+478 b. Failing to deposit and account for at all times all
+479 funds belonging to others, or being held for others, in a
+480 separate federally insured account or accounts in at a
+481 financial institution located in Alabama.
+482 c. Failing to keep for at least three years a complete
+483 record of funds belonging to others showing to whom the money
+484 belongs, the date deposited, the date of withdrawal, and other
+485 pertinent information for at least three years.
+486 (9) Placing a sign on any property offering it for
+487 sale, lease, or rent without the consent of the owner.
+488 (10) Failing to voluntarily furnish a copy of each
+489 listing, contract, lease, and other document to each party
+490 executing the document with reasonable promptness.
+491 (11) Paying any profit, compensation, commission, or
+492 fee to, or dividing any profit, compensation, commission, or
+493 fee with, anyone other than a licensee or a multiple listing
+494 service. This subdivision shall not prevent an associate
+495 broker or salesperson from owning any lawfully constituted
+496 business organization, including, but not limited to, a
+497 corporation or, limited liability company, or limited
+498 liability corporation, for the purpose of receiving payments
+499 contemplated in this subsection. The business organization
+500 shall not be required to be licensed under this chapter, and
+501 shall not engage in any other activity requiring a real estate
+502 license.
+503 (12) Paying or receiving any rebate from any person in
+504 a real estate transaction.
+Page 18
+
+a real estate transaction.
+HB586 Engrossed
+505 (13) Inducing any party to a contract to breach the
+506 contract for the purpose of substituting a new contract, where
+507 the substitution is motivated by the personal gain of the
+508 licensee licensee's personal gain.
+509 (14) If the licensee is a salesperson or associate
+510 broker, accepting a commission or other valuable consideration
+511 for performing any act for which a license is required from
+512 any person or company, except his or her qualifying broker.
+513 (15) If the licensee is a qualifying broker or company,
+514 allowing a salesperson or associate broker licensed under him
+515 or her to advertise himself or herself as a real estate agent
+516 without the name or trade name of the qualifying broker or
+517 company appearing prominently on the advertising; or, if the
+518 licensee is a salesperson or associate broker, advertising
+519 himself or herself as a real estate agent without the name or
+520 trade name of the qualifying broker or company under whom the
+521 salesperson or associate broker is licensed appearing
+522 prominently on the advertising. For purposes of this
+523 subdivision, "prominently" means using a font size that is
+524 equal to or larger than any other name, text, or logo, other
+525 than terms like "for sale" or "for lease," in the
+526 advertisement and situated and sized for the purpose of
+527 gaining the attention of consumers viewing the advertisement.
+528 (16) Establishing an association, by employment or
+529 otherwise, with an unlicensed person who is expected or
+530 required to act as a licensee, or aiding, abetting, or
+531 conspiring with a person to circumvent the requirements of
+532 this chapter.
+Page 19
+
+this chapter.
+HB586 Engrossed
+533 (17) Failing to disclose to an owner the licensee's
+534 intention to acquire, directly or indirectly, an interest in
+535 property which he or she or his or her associates have been
+536 employed to sell.
+537 (18) Violating or disregarding any provision of this
+538 chapter or any rule, regulation, or order of the commission.
+539 (19) If a broker accepts Accepting a "net listing"
+540 agreement for the sale of real property or any interest
+541 therein in real property where the licensee is not a buyer,
+542 seller, or assigning buyer in the transaction. A "net listing"
+543 agreement stipulates a net price to be received by the owner
+544 with the excess due to be received by the broker as his or her
+545 commission.
+546 (20) Misrepresenting or failing to disclose to any
+547 lender, guaranteeing agency, or any other interested party,
+548 the true terms of a sale of real estate.
+549 (21) Failing to inform the buyer or seller at the time
+550 an offer is presented that he or she will be expected to pay
+551 certain closing costs and the approximate amount of those
+552 costs.
+553 (22)a. Having entered a plea of guilty or nolo
+554 contendere to, or having been found guilty of or convicted of,
+555 a felony or a crime involving moral turpitude.
+556 b. Having a final money judgment rendered against him
+557 or her which results from an act or omission occurring in the
+558 pursuit of his or her real estate business or involves the
+559 goodwill of an existing real estate business.
+560 (23) Offering free lots or conducting lotteries for the
+Page 20
+
+(23) Offering free lots or conducting lotteries for the
+HB586 Engrossed
+561 purpose of influencing a party to purchase or lease real
+562 estate.
+563 (24) Failing to include a fixed date of expiration in a
+564 written listing agreement or failing to leave a copy of the
+565 agreement with the principal.
+566 (25) Conduct that constitutes or demonstrates dishonest
+567 dealings, bad faith, or untrustworthiness.
+568 (26) Acting negligently or incompetently in performing
+569 an act for which a person is required to hold a real estate
+570 license.
+571 (27) Failing or refusing, on demand, to produce a
+572 document, book, or record in his or her the licensee's
+573 possession concerning a real estate transaction conducted by
+574 him or her for inspection by the commission or, its authorized
+575 personnel, or representative.
+576 (28) Failing within a reasonable time to provide
+577 information requested by the commission during an
+578 investigation or after a formal complaint has been filed.
+579 (29) Failing without cause to surrender to the rightful
+580 owner, on demand, a document or instrument coming that comes
+581 into his or her the licensee's or its possession.
+582 (30) If a qualifying broker or company, failing to keep
+583 in his, her, or its files copies of all contracts, leases,
+584 listings, and other records pertinent to real estate
+585 transactions for a period of three years.
+586 (31) When engaging in real estate wholesaling, failing
+587 to provide the required buyer and seller disclosures pursuant
+588 to Section 8-42-2.
+Page 21
+
+to Section 8-42-2.
+HB586 Engrossed
+589 (c) If it appears that a person or business entity has
+590 engaged, or is about to engage, in an act or practice
+591 constituting a violation of Article 1 or 2 of this chapter or
+592 any rule or order of the commission, the commission, through
+593 the Attorney General or the Alabama Securities Commission, may
+594 institute legal actions to enjoin the act or practice and to
+595 enforce compliance with Articles 1 and 2 of this chapter or
+596 any rule or order of the commission. To prevail in an action,
+597 it shall not be necessary to allege or prove either that an
+598 adequate remedy at law does not exist or that substantial or
+599 irreparable damage would result from the continued violation.
+600 (d)(1) Notwithstanding any other provisions of law, the
+601 commission may issue an order requiring any accused person or
+602 business entity to cease and desist from engaging in
+603 activities requiring a license under this chapter when the
+604 accused person or business entity is not licensed under this
+605 chapter. The order shall be entered by the executive director
+606 after a finding of probable cause by the commission staff. The
+607 order shall become final 15 days after its service upon the
+608 accused, unless the accused requests a hearing before the
+609 commission. Upon hearing the case and finding violations, the
+610 commission may do any of the following:
+611 a. make Make the cease and desist order final.
+612 b. and the commission may impose Impose a fine for each
+613 violation in an amount consistent with the range of fines
+614 applicable to licensees.
+615 c., and in addition, may impose Impose a fine in the
+616 amount of any gain or economic benefit that was derived from
+Page 22
+
+amount of any gain or economic benefit that was derived from
+HB586 Engrossed
+617 the violation.
+618 d., and in addition, may impose Impose a fine in the
+619 amount of the commission's costs incurred by the commission.
+620 Any fines not paid as ordered shall be enforceable in any
+621 court with competent jurisdiction and proper venue.
+622 (2) Notwithstanding any other provisions of law, the
+623 commission may decline to issue an order requiring any accused
+624 person or business entity to cease and desist from engaging in
+625 activities requiring a license under this chapter when the
+626 accused person or business entity is not licensed under this
+627 chapter. In this instance, the commission shall proceed to
+628 give appropriate notice of the violations and hold a hearing.
+629 Upon hearing the case and finding violations, the commission
+630 may:
+631 a. impose Impose a fine for each violation in an amount
+632 consistent with the range of fines applicable to licensees;
+633 b., and in addition, may impose Impose a fine in the
+634 amount of any gain or economic benefit that was derived from
+635 the violation;
+636 c., and in addition, may impose Impose a fine in the
+637 amount of the commission's costs incurred. Any fine or fines
+638 not paid as ordered shall be enforceable in any court with
+639 competent jurisdiction and proper venue.; or
+640 d. In matters involving real estate wholesaling, refer
+641 the matter to the Alabama Securities Commission for
+642 investigation and adjudication.
+643 (3) Any fine or fines imposed by this subsection that
+644 are not paid as ordered shall be enforceable in any court of
+Page 23
+
+are not paid as ordered shall be enforceable in any court of
+HB586 Engrossed
+645 competent jurisdiction and proper venue.
+646 (e) The commission shall notify the licensee and
+647 qualifying broker in writing regarding the complaint.
+648 (f) The commission shall notify the complainant,
+649 licensee, and qualifying broker in writing regarding of the
+650 disposition of the complaint.
+651 (g) If a licensee presents a form of payment to the
+652 commission, or to any third party on the commission's behalf,
+653 which that is declined or rejected by a financial institution
+654 or merchant service company, the licensee shall have 30 days,
+655 upon from electronic notification from by the commission, to
+656 submit full and valid payment for of the initial fee or fine
+657 and, plus an additional fee for submitting the faulty payment,
+658 not to exceed the maximum amount allowed by Section 8-8-15.
+659 Failure to submit full and valid payment within 30 days of
+660 electronic notification by the commission shall result in the
+661 licensee's license becoming inactive until the licensee
+662 submits full payment. Failure to submit full and valid payment
+663 within six months after electronic notification by the
+664 commission shall result in the licensee's license lapsing."
+665 Section 2. Sections 8-42-1.1, 8-42-1.2, 8-42-1.3, and
+666 8-42-4, are added to the Code of Alabama 1975, to read as
+667 follows:
+668 §8-42-1.1
+669 For purposes of this chapter the following terms have
+670 the following meanings:
+671 (1) CLOSING. The transfer of legal title to real
+672 property from a property owner to another person or entity
+Page 24
+
+property from a property owner to another person or entity
+HB586 Engrossed
+673 through the delivery of a deed or other instrument of
+674 conveyance for consideration.
+675 (2) COMMISSION. The Alabama Securities Commission.
+676 (3) CONTACT. Any communication delivered by mail,
+677 courier, email, text message, social media message, telephone
+678 call, voicemail, prerecorded message, or similar method.
+679 (4) EQUITABLE INTEREST. Any interest or right in a
+680 contract or agreement to purchase residential real estate held
+681 by a party to that contract or agreement.
+682 (5) INVESTMENT-ORIENTED REAL PROPERTY SOLICITATION. Any
+683 communication, offer, agreement, or transaction involving real
+684 property in which the expected economic benefit to the
+685 offeror, directly or indirectly, is derived primarily from
+686 resale, assignment, appreciation, fee extraction, or
+687 contractual arbitrage, rather than occupancy or personal use
+688 by the offeror.
+689 (6) OFFEREE. A real property owner who receives a
+690 purchase offer.
+691 (7) OFFEROR. A person or entity acting directly or
+692 indirectly on behalf of another who makes an offer to purchase
+693 real property.
+694 (8) REAL ESTATE WHOLESALING. The practice of assigning
+695 or marketing the assignment of an equitable interest in
+696 residential property for profit.
+697 (9) RECORDING. Presenting a document to a county judge
+698 of probate for official placement in the public land records.
+699 (10) RESIDENTIAL REAL ESTATE. Real property located in
+700 this state which is used primarily for a dwelling and contains
+Page 25
+
+this state which is used primarily for a dwelling and contains
+HB586 Engrossed
+701 one to four dwelling units.
+702 (11) SELLER. An offeree who signs a purchase contract.
+703 (12) SERVICE AGREEMENT. A contract under which a person
+704 agrees to provide services in connection with the purchase or
+705 sale of residential real estate.
+706 (13) SERVICE PROVIDER. An individual or entity that
+707 provides services to another party under a service agreement.
+708 (14) UNFAIR SERVICE AGREEMENT. A service agreement in
+709 which the services subject to the agreement are not performed
+710 within one year after the date upon which the agreement
+711 commences and provides any of the following:
+712 a. Purports to run with the land or to be binding on
+713 future owners of interests in the real property.
+714 b. Allows for assignment of the right to provide the
+715 service without notice and agreement of the owner of
+716 residential real estate.
+717 c. Purports to create a lien, encumbrance, or other
+718 real property security interest.
+719 (15) UNSOLICITED COMMUNICATION. Any communication sent
+720 to a real property owner when the owner has not requested or
+721 invited the contact, given prior consent to be contacted, or
+722 entered into a written agreement with the sender concerning
+723 the property.
+724 §8-42-1.2
+725 (a) The commission shall have authority under this
+726 chapter to administer, implement, and enforce all regulated
+727 conduct, individuals, and entities in this chapter, along with
+728 issuing licenses for these activities. This authority extends
+Page 26
+
+issuing licenses for these activities. This authority extends
+HB586 Engrossed
+729 to regulating investment-oriented real estate solicitations,
+730 recorded service agreements, unfair service agreements,
+731 unsolicited offers, and related practices. This exclusive
+732 authority applies regardless of any license an individual or
+733 entity may hold under any other legal provision. The Alabama
+734 Real Estate Commission shall have concurrent authority with
+735 the commission to regulate assignments or offerings of
+736 assignments of equitable interests. This authority shall not
+737 preclude the Board of Commissioners of the Alabama State Bar
+738 from pursuing professional licensing violations under Chapter
+739 3 of Title 34.
+740 (b) The commission may adopt rules necessary to carry
+741 out this chapter, including, but not limited to, rules
+742 governing:
+743 (1) Consumer complaint intake and resolution
+744 procedures;
+745 (2) Establishment of a consumer complaint hotline that
+746 allows consumers to verify the licenses of regulated entities
+747 under this chapter.
+748 (2) Disclosure forms and content;
+749 (3) Examination, reporting, and recordkeeping
+750 requirements;
+751 (4) Other than real estate wholesaling, which is
+752 licensed by the Alabama Real Estate Commission, any licensing,
+753 permitting, or registration program and fees established by
+754 rule;
+755 (5) Any renewal, suspension, or revocation program
+756 established by rule;
+Page 27
+
+established by rule;
+HB586 Engrossed
+757 (6) Penalty schedules and remedial measures;
+758 (7) Defining additional unfair, deceptive, or abusive
+759 practices; or
+760 (8) Definitions and standards necessary to preclude
+761 circumvention of this chapter.
+762 (c) The commission may:
+763 (1) Conduct investigations and examinations;
+764 (2) Require the production of documents and testimony;
+765 (3) Issue subpoenas;
+766 (4) Issue cease and desist orders;
+767 (5) Suspend, revoke, or condition any license, permit,
+768 or registration established by rule;
+769 (6) Impose administrative fines and penalties for each
+770 violation;
+771 (7) Order restitution, rescission, disgorgement, or
+772 other remedial relief;
+773 (8) Prosecute criminal violations where authorized by
+774 law; or
+775 (9) Coordinate with other agencies as authorized by
+776 law.
+777 (d) The commission may bring an action in any court of
+778 appropriate jurisdiction for:
+779 (1) Injunctive or other relief;
+780 (2) Civil penalties;
+781 (3) Restitution, rescission, or disgorgement;
+782 (4) Enforcement of administrative orders;
+783 (5) Recovery of investigative and enforcement costs; or
+784 (6) Appointment of a receiver.
+Page 28
+
+(6) Appointment of a receiver.
+HB586 Engrossed
+785 (e) Nothing in this chapter shall be construed to limit
+786 criminal prosecution under any provision of law or to require
+787 exhaustion of administrative remedies before criminal
+788 enforcement.
+789 (f) Enforcement under this chapter shall be in addition
+790 to, not in lieu of, remedies available under the Deceptive
+791 Trade Practices Act.
+792 (g) Any contractual provision attempting to waive
+793 rights, remedies, or protections under this chapter is void
+794 and unenforceable as against public policy.
+795 (h) The authority granted under this chapter applies to
+796 individual violations as well as to patterns or practices of
+797 conduct, whether arising under a single section or multiple
+798 sections of this chapter.
+799 (i) The existence or nonexistence of an enforcement
+800 action by the commission or other governmental agency pursuant
+801 to this section shall not bar or diminish any private right of
+802 action.
+803 §8-42-1.3
+804 (a) The commission may impose administrative fines and
+805 penalties per violation. The civil penalty shall not exceed
+806 one hundred thousand dollars ($100,000) per violation,
+807 provided that the aggregate civil penalty assessed in a single
+808 administrative order shall not exceed ten million dollars
+809 ($10,000,000). Each day an act, omission, or violation
+810 continues shall constitute a separate violation.
+811 (b) In determining the amount of any civil penalty, the
+812 commission shall consider all relevant factors, including:
+Page 29
+
+commission shall consider all relevant factors, including:
+HB586 Engrossed
+813 (1) The nature, gravity, and duration of the violation,
+814 including any irreparable harm or risk of harm to property
+815 owners;
+816 (2) The degree of culpability, intent, or recklessness
+817 demonstrated by the violator;
+818 (3) The facts, circumstances, and conduct in connection
+819 with the investment-oriented real estate activity at issue;
+820 (4) The economic benefit, compensation, or other
+821 financial gain obtained, directly or indirectly, as a result
+822 of the violation;
+823 (5) Any prior history of violations of this chapter,
+824 the Alabama Securities Act, or related consumer protection
+825 laws; and
+826 (6) The violator's ability to pay the assessed penalty.
+827 (c) In any action or administrative proceeding arising
+828 from an unsolicited contract, the following factors may be
+829 considered in determining whether the transaction was unfair
+830 or deceptive, without automatically creating a right of
+831 rescission:
+832 (1) The age of the victim.
+833 (2) Whether any offer to purchase is below the real
+834 property's most recent tax assessed value.
+835 (3) Whether the victim received the professional
+836 assistance of a licensed real estate agent, as defined in
+837 Chapter 27 of Title 34, or a licensed attorney, as defined in
+838 Chapter 3 of Title 34.
+839 (d) Civil penalties under this section may be assessed
+840 for any violation occurring within five years after the
+Page 30
+
+for any violation occurring within five years after the
+HB586 Engrossed
+841 discovery of the fraud.
+842 §8-42-4
+843 (a) This section shall govern every unsolicited
+844 electronic, telephonic, or video communication, or written
+845 inquiry, solicitation, or mailing by any individual or entity,
+846 whether acting as a principal, investor, intermediary, or
+847 agent, that makes an investment-oriented real property
+848 solicitation and that expresses an interest in any of the
+849 following:
+850 (1) Buying real property or an option to buy real
+851 property from the addressee.
+852 (2) Buying the real property to which the written
+853 inquiry or mailing is addressed.
+854 (3) Offering services relating to the sale of real
+855 estate.
+856 (b)(1) Any unsolicited communication or solicitation
+857 governed by this section that constitutes an
+858 investment-oriented real property solicitation by any
+859 individual or entity that expresses an interest in: (i) buying
+860 real property or an option to buy real property from the
+861 addressee; (ii) buying the real property to which such written
+862 inquiry or mailing is addressed; or (iii) offering services
+863 relating to the sale of real estate, shall include consumer
+864 protection disclosures as required by the commission.
+865 (2) The Commission shall, pursuant to its rulemaking
+866 authority and in accordance with the Alabama Administrative
+867 Procedures Act, establish standard disclosure language for
+868 consumer protection that shall be included in any
+Page 31
+
+consumer protection that shall be included in any
+HB586 Engrossed
+869 investment-oriented, unsolicited real estate offers as defined
+870 in this chapter. The disclosures shall include:
+871 a. Notice that the offer may be below fair market
+872 value;
+873 b. A statement encouraging the real property owner to
+874 seek guidance from a licensed real estate agent or attorney of
+875 the owner's choice;
+876 c. A statement that the owner has no obligation or duty
+877 to respond to the solicitation; and
+878 d. Contact information for the commission and a
+879 statement that the owner may verify the identity,
+880 registration, licensure status, and legitimacy of the offeror
+881 through the commission.
+882 (3) Enforcement of violations of this subsection shall
+883 be carried out in accordance with Section 8-42-1.2.
+884 (c) A seller may rescind a contract to sell real
+885 property entered into as a result of an unsolicited offer
+886 within seven days after the contract is executed and before
+887 closing if the seller did not receive the professional
+888 assistance of a licensed real estate agent, as defined in
+889 Chapter 27 of Title 34, or a licensed attorney, as defined in
+890 Chapter 3 of Title 34. The seller shall have the right to a
+891 seven-day rescission period starting from the date the
+892 contract is signed until the closing date. Parties may agree
+893 to extend this rescission right up to one day before closing,
+894 but the extension must be agreed upon in writing and included
+895 in the contract. A rescission must expire at least one day
+896 prior to closing, providing a minimum of eight days between
+Page 32
+
+prior to closing, providing a minimum of eight days between
+HB586 Engrossed
+897 the contract being signed and the closing.
+898 (d) A seller who uses the professional assistance of a
+899 licensed real estate agent or a licensed attorney of the
+900 seller's choosing when the contract is signed does not have a
+901 right to rescind the contract unless agreed to by the parties
+902 and written in the contract. In no instance shall a right to
+903 rescind be extended beyond the closing date. This section
+904 shall be interpreted to protect the seller and to ensure the
+905 transaction's finality at closing.
+906 (e) If the seller meets the criteria in subsection (c)
+907 and rescinds the contract within the seven-day period:
+908 (1) The seller owes no penalty, fee, or damages;
+909 (2) Any contractual penalty provision is void; and
+910 (3) Any funds received shall be returned within seven
+911 days after cancellation.
+912 (f)(1) If real property meets the criteria in
+913 subsection (c), then it may not close prior to the expiration
+914 of the seven-day cancellation period. No deed, assignment,
+915 memorandum, lien, option, encumbrance, or other instrument
+916 conveying or affecting an interest in real property may be
+917 delivered, assigned, transferred, or recorded during a
+918 seven-day cancellation period. This includes:
+919 a. Assignment of the purchase contract;
+920 b. Double closings; and
+921 c. Conveyance to a third party.
+922 (2) Any instrument executed or recorded in violation of
+923 this subsection is voidable at the election of the seller.
+924 (3) Any third party acquiring an interest during the
+Page 33
+
+(3) Any third party acquiring an interest during the
+HB586 Engrossed
+925 seven-day period takes subject to the seller's statutory right
+926 to rescission.
+927 (g) Violations of this section shall be enforced in
+928 accordance with Section 8-42-1.2.
+929 (h) This chapter does not apply to properties that are:
+930 (i) subject to an active written listing agreement with a
+931 licensed real estate broker; (ii) marketed for sale by the
+932 property owner or to an individual attempting to acquire an
+933 interest in real estate from another person with whom he or
+934 she has an existing business or personal relationship; or
+935 (iii) where the property interest being acquired is for the
+936 purchaser's personal use or benefit.
+937 Section 3. This act shall become effective on October
+938 1, 2026.
+Page 34
+
+1, 2026.
+HB586 Engrossed
+939
+940
+941 House of Representatives
+942 Read for the first time and referred ................05-Mar-26
+943 to the House of Representatives
+944 committee on Boards, Agencies and
+945 Commissions
+946
+947 Read for the second time and placed ................17-Mar-26
+948 on the calendar:
+949 1 amendment
+950
+951 Read for the third time and passed ................19-Mar-26
+952 as amended
+953 Yeas 82
+954 Nays 14
+955 Abstains 7
+956
+957
+958 John Treadwell
+959 Clerk
+960
+Page 35

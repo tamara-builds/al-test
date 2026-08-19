@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Orr motion to Adopt - Adopted Roll Call 476
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+NRSWP8T-1 02/10/2026 JC (L)lg 2025-3107 SUB SB63
+HEALTHCARE SUBSTITUTE TO SB63
+OFFERED BY SENATOR MELSON
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law does not regulate the use of
+6 artificial intelligence in the decision-making process,
+7 or utilization review, on requests for coverage of
+8 services under a health benefit plan.
+9 This bill would prohibit health insurers from
+10 depending exclusively on artificial intelligence to
+11 determine such requests and would require the decision
+12 to deny or reduce coverage to always be made by a
+13 qualified health care professional.
+14 This bill would require health insurers to
+15 disclose if artificial intelligence is used in making
+16 coverage determinations to a plan sponsor or an
+17 individual, depending on whether the health benefit
+18 plan is for a group or is purchased by an individual.
+19 This bill would further authorize the Department
+20 of Insurance of the State of Alabama to take
+21 disciplinary action against insurers for violations.
+22
+23 A BILL
+24 TO BE ENTITLED
+25 AN ACT
+26
+27 Relating to health insurance; to impose limitations on
+28 the use of artificial intelligence by insurers in making
+Page 1
+
+the use of artificial intelligence by insurers in making
+29 determinations of coverage under health benefit plans; and to
+30 authorize the Department of Insurance of the State of Alabama
+31 to investigate and impose disciplinary action for violations.
+32 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+33 Section 1. (a) For the purposes of this section, the
+34 following terms have the following meanings:
+35 (1) ARTIFICIAL INTELLIGENCE. A machine-based system
+36 that may include software or physical hardware that performs
+37 tasks, based upon data set inputs, which require human-like
+38 perception, cognition, planning, learning, communication, or
+39 physical action and which is capable of improving performance
+40 based upon learned experience without significant human
+41 oversight toward influencing real or virtual environments.
+42 (2) DEPARTMENT. The Department of Insurance of the
+43 State of Alabama.
+44 (3) ENROLLEE. An individual to whom an insurer is
+45 contractually obligated to pay for or provide medical benefits
+46 under a health benefit plan.
+47 (4) GROUP PLAN. A health benefit plan that is sponsored
+48 by an employer or other entity on behalf of group members.
+49 (5) HEALTH BENEFIT PLAN. a. Any plan, policy, or
+50 contract issued, delivered, or renewed in this state that
+51 provides medical benefits that include payment for
+52 hospitalization, physician care, treatment, surgery, therapy,
+53 drugs, equipment, and any other medical expense, regardless of
+54 whether the plan is for a group or individual.
+55 b. The term does not include accident-only, specified
+56 disease, individual hospital indemnity, credit, dental-only,
+Page 2
+
+disease, individual hospital indemnity, credit, dental-only,
+57 Medicare supplement, long-term care, disability income, or
+58 other limited benefit health insurance policies, or coverage
+59 issued as supplemental to liability insurance, workers'
+60 compensation, or automobile medical payment insurance.
+61 (6) HEALTH CARE SERVICE. Diagnosing, testing,
+62 monitoring, or treating a human disease, disorder, syndrome,
+63 illness, or injury that may include, but not be limited to,
+64 hospitalization, physician care, treatment, surgery, therapy,
+65 drugs, or medical equipment.
+66 (7) INDIVIDUAL PLAN. A health benefit plan that is
+67 purchased directly by an individual.
+68 (8) INSURER. The term includes all of the following:
+69 a. Any entity that issues, delivers, or renews a health
+70 benefit plan, including a person as defined in Section 27-1-2,
+71 a health maintenance organization established under Chapter
+72 21A of Title 27, Code of Alabama 1975, a nonprofit health care
+73 services plan established under Article 6, Chapter 20 of Title
+74 10A, Code of Alabama 1975, or a nonprofit agricultural
+75 organization that offers health care benefits pursuant to
+76 Chapter 33 of Title 2, Code of Alabama 1975.
+77 b. Any department or office internal to an entity
+78 described in paragraph a. which performs utilization review.
+79 c. Any separate entity that performs utilization review
+80 as a contractor or agent of an entity described in paragraph
+81 a.
+82 (9) PRIOR AUTHORIZATION. A written or oral
+83 determination made by an insurer that a health care service is
+84 a benefit covered under the applicable health benefit plan
+Page 3
+
+a benefit covered under the applicable health benefit plan
+85 which, under the enrollee's clinical circumstances, is
+86 medically necessary or satisfies another requirement imposed
+87 by the insurer or law and thus satisfies the requirements for
+88 payment or reimbursement.
+89 (10) UTILIZATION REVIEW. The determination of requests
+90 for prior authorization under a health benefit plan according
+91 to the rules, health care service policies, and guidelines
+92 adopted by an insurer, or requirements imposed by law, and
+93 applicable to a health benefit plan.
+94 (b)(1) An insurer that uses artificial intelligence to
+95 make determinations on requests for prior authorization under
+96 health benefit plans shall base determinations on all of the
+97 following:
+98 a. The enrollee's medical history.
+99 b. Any clinical circumstances unique to the enrollee
+100 which are presented by the requesting health care provider.
+101 c. Additional clinical information about the enrollee
+102 which may be present in the enrollee's medical record.
+103 (2) An insurer shall certify annually to the department
+104 that the artificial intelligence used to make determinations
+105 on requests for prior authorization complies with all of the
+106 following:
+107 a. Does not rely solely on a group dataset to make
+108 determinations.
+109 b. Is configured and applied in a fair manner for each
+110 subscriber group and enrollee such that resulting
+111 determinations are consistent for enrollees who present with
+112 similar clinical considerations.
+Page 4
+
+similar clinical considerations.
+113 c. Does not discriminate directly or indirectly against
+114 any subscriber group or enrollee in violation of state or
+115 federal law, including any regulation or guidance issued by
+116 the federal Department of Health and Human Services.
+117 (3) In addition to the requirements listed in
+118 subdivisions (1) and (2), a determination to deny, reduce, or
+119 defer a request for prior authorization shall always be made
+120 by a licensed physician or other health care professional who
+121 is competent to evaluate any recommendation or conclusion of
+122 artificial intelligence in the light of the specific clinical
+123 issues involved in the health care service requested which are
+124 unique to the enrollee's circumstances or as recommended by
+125 the treating health care provider.
+126 (c) An insurer shall do all of the following:
+127 (1) Make prominent written disclosure if artificial
+128 intelligence is used as a tool to contribute information in
+129 utilization review to:
+130 a. The sponsor in the case of a group plan; or
+131 b. The enrollee in the case of an individual plan.
+132 (2) Certify annually to the department that: (i) use of
+133 artificial intelligence and the outcomes that it generates are
+134 reviewed on a periodic basis to maximize accuracy and
+135 reliability; and (ii) use of artificial intelligence in
+136 utilization review complies with the requirements of
+137 subsection (b).
+138 (3) Ensure that patient data used in utilization review
+139 functions by artificial intelligence is not used beyond its
+140 intended and stated purpose consistent with the federal Health
+Page 5
+
+intended and stated purpose consistent with the federal Health
+141 Insurance Portability and Accountability Act (HIPAA), 42
+142 U.S.C. § 1320d et seq.
+143 (d)(1) When the department has reasonable grounds to
+144 believe that an insurer has or is engaged in conduct that
+145 violates subsection (b), including making determinations of
+146 prior authorization adverse to an enrollee without taking into
+147 consideration the enrollee's medical history and relevant
+148 clinical circumstances, the department may notify the insurer
+149 of the alleged violation and the insurer shall respond to the
+150 notice within 30 days.
+151 (2) If the department finds the response required in
+152 subdivision (1) to be unsatisfactory, the department may hold
+153 a hearing as provided in Article 1, Chapter 2 of Title 27,
+154 Code of Alabama 1975.
+155 (3) If, upon hearing the case, the department
+156 determines that the insurer has or is engaged in conduct that
+157 violates subsection (b), including making determinations of
+158 prior authorization adverse to an enrollee without taking into
+159 condideration the enrollee's medical history and relevant
+160 clinical circumstances, the department may do any of the
+161 following:
+162 a. Impose a plan upon the insurer to correct
+163 procedures, policies, and guidelines to bring the insurer's
+164 utilization review into compliance with this section.
+165 b. For repeat violations, impose upon the insurer the
+166 disciplinary measures provided in Section 27-3A-6(d), Code of
+167 Alabama 1975.
+168 (e) The department shall adopt rules to enforce this
+Page 6
+
+(e) The department shall adopt rules to enforce this
+169 section.
+170 Section 2. This act shall become effective on October
+171 1, 2026.
+Page 7

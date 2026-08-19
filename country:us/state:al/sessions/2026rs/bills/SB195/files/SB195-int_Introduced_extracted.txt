@@ -1,0 +1,185 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB195 INTRODUCED
+1 SB195
+2 3PWA2VE-1
+3 By Senators Smitherman, Coleman
+4 RFD: Judiciary
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+3PWA2VE-1 12/02/2025 VSM (L)ma 2025-3443
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the administration of an
+6 estate or a will contest may be removed to the circuit
+7 court in the county where the proceeding is pending
+8 unless the probate court or judge has concurrent
+9 equitable jurisdiction with the circuit court.
+10 This bill would allow removal of estate
+11 administration and will contests to the circuit court
+12 without assigning any special equity, provided the
+13 probate court and circuit court do not have concurrent
+14 jurisdiction.
+15 This bill would also make nonsubstantive,
+16 technical revisions to update the existing code
+17 language to current style.
+18
+19
+20 A BILL
+21 TO BE ENTITLED
+22 AN ACT
+23
+24 Relating to decedents' estates; to amend Section
+25 43-8-216, Code of Alabama 1975; to allow will contests and
+26 estate administration to be removed to probate court without
+27 assigning special equity; and to make nonsubstantive,
+28 technical revisions to update the existing code language to
+Page 1
+
+technical revisions to update the existing code language to
+SB195 INTRODUCED
+29 current style.
+30 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+31 Section 1. Section 43-8-216, Code of Alabama 1975, is
+32 amended to read as follows:
+33 "§43-8-216
+34 (a) Except for a proceeding pending in a probate court
+35 in a county where the probate court or judge exercises equity
+36 jurisdiction concurrent with that of the circuit court by
+37 virtue of a provision of the Constitution of Alabama of 2022,
+38 specific to such county, a local act, or a statute specific to
+39 such county, a proceeding in a probate court pertaining to a
+40 will contest or an administration of a decedent's estate may
+41 be removed by an interested person to the circuit court for
+42 the county where the proceeding in probate court is pending
+43 without assigning any special equity; provided, however: (i)
+44 no removal of a will contest under this section can occur
+45 unless Section 43-8-215 is complied with; and (ii) a removal
+46 of the administration of a decedent's estate under this
+47 section may not be made prior to the issuance of letters
+48 testamentary, letters of administration, or letters of
+49 administration with the will annexed or after the probate
+50 court has taken steps toward a final settlement.
+51 (b) To remove a proceeding from the probate court to
+52 the circuit court, the removing party shall file in the
+53 circuit court to which the proceeding is being removed, a
+54 notice of removal that contains all of the following:
+55 (1) A description of the nature of the proceedings
+56 being removed.
+Page 2
+
+being removed.
+SB195 INTRODUCED
+57 (2) If the proceeding is a will contest under this
+58 division, the name of the person who has petitioned to admit
+59 the will to probate, who will be the plaintiff in the removed
+60 proceeding, and the person contesting the validity of the
+61 will, who will be the defendant in the removed proceeding.
+62 (3) Whether jury trial is demanded.
+63 (4) The removing party's interest in the proceeding
+64 being removed.
+65 (5) The name of all interested persons to the
+66 proceeding being removed to which the removing party is
+67 delivering the notice of removal.
+68 (c) Once the removing party has filed the notice of
+69 removal with the clerk of the circuit court, the proceeding
+70 shall be removed to the circuit court. Following the removal
+71 to the circuit court, the removing party shall file a copy of
+72 the notice of removal with the clerk of the probate court and
+73 shall send a copy of the notice of removal to all interested
+74 persons listed therein. Upon receiving a copy of the notice of
+75 removal, the probate court shall take no further action unless
+76 and until the removed proceeding is remanded, except to
+77 deliver a copy of the record in the probate court to the clerk
+78 of the circuit court. The circuit court shall have
+79 jurisdiction of a removed proceeding upon filing of the notice
+80 of removal with the circuit clerk. Neither the omission nor
+81 incorrect statement of any information required to be included
+82 in the notice of removal, nor the failure of the probate court
+83 to deliver a copy of the record of proceedings in that court,
+84 shall deprive the circuit court of jurisdiction to hear and
+Page 3
+
+shall deprive the circuit court of jurisdiction to hear and
+SB195 INTRODUCED
+85 decide the removed proceeding.
+86 (d) If a necessary party to the proceedings has not
+87 received notice of the proceeding as required by law before
+88 the notice of removal is filed, notice of the proceeding must
+89 be issued by the circuit court to the necessary party as
+90 provided in the Alabama Rules of Civil Procedure or as
+91 otherwise prescribed by law.
+92 (e) The circuit court may remand the removed proceeding
+93 under this section to the probate court if the circuit court
+94 finds any of the following:
+95 (1) The removal was sought for the purpose of improper
+96 delay.
+97 (2) The removal did not comply with applicable law.
+98 (3) Judgment on all contested matters pending before
+99 the circuit court has become final and the time for an appeal
+100 has expired without an appeal being filed or, if an appeal was
+101 filed, after the final adjudication of the appeal.
+102 (4) All interested parties or their representatives
+103 have requested the removed proceeding be remanded to probate
+104 court.
+105 (f) If the circuit court finds that a lawyer an
+106 attorney or party vexatiously or for improper purposes removed
+107 a proceeding, then the court may tax the lawyer attorney or
+108 party with the costs of the proceeding. In doing so, the
+109 circuit court may assess the full amount or any portion of the
+110 costs against any offending lawyer attorney or party, or both,
+111 and among them, as the court determines just. When granting an
+112 award of costs and lawyer fees, the court shall specifically
+Page 4
+
+award of costs and lawyer fees, the court shall specifically
+SB195 INTRODUCED
+113 state the reasons for the award and shall consider the factors
+114 in Section 12-19-273, among others, in determining whether to
+115 assess lawyer attorney fees and costs and the amount to be
+116 assessed.
+117 (g) Costs of an action that may be assessed under
+118 subsection (f) include reasonable compensation for and
+119 expenses incurred by a lawyer an attorney, guardian ad litem,
+120 or party, including the cost of experts to testify in or
+121 advise regarding the proceeding. Costs taxed assessed under
+122 this subsection shall be limited to those incurred by the
+123 parties opposing an improperly removed proceeding or incurred
+124 as a result of the improperly removed proceeding.
+125 (h) Upon entry of an order taxing assessing costs under
+126 subsection (f), the clerk of the circuit court shall issue an
+127 itemized bill of all costs and expenses taxed against each
+128 person, which itemized statements of costs and expenses shall
+129 have the full force and effect of a judgment. The provisions
+130 of this subsection are cumulative.
+131 (i) Following remand by the circuit court, the clerk of
+132 the circuit court shall deliver a copy of the order of remand
+133 and the record of all proceedings in the circuit court to the
+134 clerk of the probate court to be filed with the records of the
+135 proceeding in the probate court, and the probate court shall
+136 proceed with the proceeding in accordance with the circuit
+137 court's order.
+138 (j) In any proceeding removed from a probate court, the
+139 circuit court may issue all necessary orders and process to
+140 bring before it all proper parties whether served by process
+Page 5
+
+bring before it all proper parties whether served by process
+SB195 INTRODUCED
+141 issued by the probate court or otherwise.
+142 (k) Neither remand nor anything else shall prevent the
+143 subsequent removal of a proceeding to the circuit court under
+144 this section."
+145 Section 2. This act shall become effective on October
+146 1, 2026.
+Page 6

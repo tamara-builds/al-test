@@ -1,0 +1,140 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB131",
+  "title": "Veteran license tags; certain veterans exposed to radiation added to those eligible for distinctive tag",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Taxation & Revenue"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Taxation & Revenue"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb131"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Military and Veterans' Affairs)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Military and Veterans' Affairs)",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Military and Veterans' Affairs",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ross",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ross\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB131-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-7BYPL2E-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "22163980"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "text_extraction_latest_update": "2026-07-21T19:16:22.280501Z"
+  }
+}

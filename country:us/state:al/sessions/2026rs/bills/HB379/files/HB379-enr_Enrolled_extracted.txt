@@ -1,0 +1,456 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB379 ENROLLED
+1 HB379
+2 SL9RY87-2
+3 By Representative Collins
+4 RFD: Ways and Means Education
+5 First Read: 03-Feb-26
+Page 0
+
+First Read: 03-Feb-26
+HB379 Enrolled
+1 Enrolled, An Act,
+2
+3 Relating to the Entertainment Industry Incentive Act of
+4 2009; to amend Sections 41-7A-42, 41-7A-43, 41-7A-46,
+5 41-7A-47, 41-7A-48,and 41-7A-49, Code of Alabama 1975, to
+6 provide an additional incentive program for small productions;
+7 to clarify the eligibility of compensation to loan out
+8 companies; and to extend the deadline for the Entertainment
+9 Industry Incentive Act review and evaluation.
+10 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+11 Section 1. Sections 41-7A-42, 41-7A-43, 41-7A-46,
+12 41-7A-47, 41-7A-48, and 41-7A-49, Code of Alabama 1975, are
+13 amended to read as follows:
+14 "§41-7A-42
+15 For purposes of this article, the following terms have
+16 the following meanings:
+17 (1) COMPANY. A corporation, partnership, limited
+18 liability company, or any other business entity.
+19 (2) DEPARTMENT. The Alabama Department of
+20 CommerceRevenue.
+21 (3) ENTERTAINMENT INDUSTRY. Those persons or entities
+22 engaged in the production of entertainment content as defined
+23 under paragraph (8)a.
+24 (4) EXPENDED IN ALABAMA. In the case of tangible
+25 property, property that is acquired or leased from a source
+26 within the State of Alabama; in the case of services, services
+27 performed for a qualified production project in the State of
+28 Alabama.
+Page 1
+
+Alabama.
+HB379 Enrolled
+29 (5) OFFICE. The Alabama Entertainment Office.
+30 (6) PAYROLL. All salary, wages, and other compensation,
+31 including related benefits, including specifically, but not
+32 limited to, compensation and benefits provided to resident and
+33 nonresident producers, directors, writers, actors, and other
+34 personnel involved in qualified production projects in the
+35 State of Alabama. For the purpose of the rebate for qualified
+36 production companies computed under Section 41-7A-43, other
+37 compensation includes payments to a loan-out company by a
+38 qualified production company only if:
+39 a. The qualified production company withheld and
+40 remitted Alabama withholding tax at the highest rate levied in
+41 Section 40-18-71 on all payments to the loan-out company for
+42 services performed in this state. The amount withheld is
+43 considered to have been withheld by the loan-out company on
+44 wages paid to its employees for services performed in this
+45 state; or
+46 b. The qualified production company withheld and
+47 remitted Alabama income tax at the highest rate levied in
+48 Section 40-18-5, or Section 40-18-31 in the case of a C
+49 corporation, on all payments to the loan-out company for
+50 services performed in this state. The amount withheld on
+51 payments to the loan-out company and remitted to the State of
+52 Alabama shall satisfy the loan-out company's requirement to
+53 make estimated income tax payments under Section 40-18-80.1 in
+54 the case of C corporation or Electing Pass-Through Entity, and
+55 Section 40-18-80 in the case of an individual, if the loan-out
+56 company is a Single Member LLC or independent contractor, and
+Page 2
+
+company is a Single Member LLC or independent contractor, and
+HB379 Enrolled
+57 the requirement to pay composite tax on nonresident members of
+58 a pass-through entity under Section 40-18-24.2.
+59 (7) PRODUCTION EXPENDITURES.
+60 a. The term includes preproduction, production, and
+61 postproduction expenditures incurred in the State of Alabama
+62 which are directly used in a state-certified production,
+63 including, but not limited to, the following: Set construction
+64 and operation, wardrobe, makeup, set accessories, and related
+65 services; costs associated with photography and sound
+66 synchronization, lighting, and related services and materials;
+67 editing and related services; rental of facilities and
+68 equipment; leasing of vehicles; costs of food and lodging;
+69 costs of catering; digital or tape editing, film processing,
+70 transfer of film to tape or digital format; transfer direct to
+71 DVD, cable, or satellite for distribution; sound mixing,
+72 special and visual effects including duplication, film
+73 processing digital, DVD, music composition, and satellite
+74 distribution; total aggregate payroll; music; airfare;
+75 insurance costs of bonding; or other similar production
+76 expenditures as determined by rule or regulation.
+77 b. The term includes financial contributions or
+78 educational or workforce development in partnership with
+79 related educational institutions, or local industry
+80 organizations, or both, contributed toward the furtherance of
+81 the local entertainment media industries.
+82 c. The term does not include postproduction
+83 expenditures for marketing or any amounts that are paid to
+84 persons or entities as a result of their participation in
+Page 3
+
+persons or entities as a result of their participation in
+HB379 Enrolled
+85 profits from the exploitation of a motion picture production.
+86 d. This term does not include other compensation paid
+87 to a loan-out company by a qualified production company if the
+88 qualified production company does not withhold and remit
+89 either the Alabama withholding tax at the highest rate levied
+90 in 40-18-71 or Alabama income tax at the highest rate levied
+91 in Section 40-18-5, or Section 40-18-31 in the case of a C
+92 corporation. A loan-out company shall file the applicable
+93 Alabama withholding tax and/or income tax returns for the
+94 taxable year in which such services were performed. A loan-out
+95 company's failure to file an Alabama income tax return shall
+96 not disqualify payments made to that loan-out company for the
+97 rebate computed under Section 41-7A-43.
+98 (8) QUALIFIED PRODUCTION.
+99 a. The term means entertainment content created in
+100 whole or in part within the state, including motion pictures;
+101 soundtracks for motion pictures; documentaries; long-form,
+102 specials, miniseries, series, sound recordings, music albums,
+103 videos and music videos, and interstitials television
+104 programming; interactive television; interactive games; video
+105 games; commercials; infomercials; any format of digital media,
+106 including an interactive website that is intended for national
+107 or international distribution or exhibition to the general
+108 public; and any trailer, pilot, video teaser, or demo created
+109 primarily to stimulate the sale, marketing, promotion, or
+110 exploitation of future investment in either a product or a
+111 qualified production via any means and media in any digital
+112 media format, film, or videotape, provided such program meets
+Page 4
+
+media format, film, or videotape, provided such program meets
+HB379 Enrolled
+113 all the underlying criteria of a qualified production.
+114 b. The term does not include any ongoing television
+115 program created primarily as news, weather, or financial
+116 market reports, a production featuring current events,
+117 sporting events, an awards show or other gala event, a
+118 production whose sole purpose is fundraising, a long-form
+119 production that primarily markets a product or service, a
+120 production used for corporate training or in-house corporate
+121 advertising or other similar productions; nor does the term
+122 include any production for which records are required to be
+123 maintained under 18 U.S.C. § 2257 with respect to sexually
+124 explicit content; nor does the term mean or include any form
+125 of gambling, gaming, wagering, or pari-mutuel wagering
+126 activity or enterprise.
+127 (9) QUALIFIED PRODUCTION COMPANY.
+128 a. The term means a company engaged in the business of
+129 producing a qualified production, as that term is defined.
+130 b. The term does not mean or include any company owned,
+131 affiliated, or controlled, in whole or in part, by any company
+132 or person that is in default on a loan.
+133 (10) RESIDENT OF ALABAMA. A natural person and, for the
+134 purpose of determining eligibility for the incentives provided
+135 by this article, any person domiciled in the State of Alabama
+136 and any other person who maintains a permanent place of abode
+137 within the state and spends in the aggregate more than six
+138 months of each year within the State of Alabama.
+139 (11) STATE-CERTIFIED PRODUCTION. A qualified production
+140 approved by the office, produced by a qualified production
+Page 5
+
+approved by the office, produced by a qualified production
+HB379 Enrolled
+141 company."
+142 "§41-7A-43
+143 (a) Beginning January 1, 2009, a qualified production
+144 company shall be entitled to a rebate for production
+145 expenditures, as defined in Section 41-7A-42, related to a
+146 state-certified production. The rebate shall be equal to 25
+147 percent of the state-certified production's production
+148 expenditures excluding payroll paid to residents of Alabama
+149 plus 35 percent of all payroll paid to residents of Alabama
+150 for the state-certified production, provided the total
+151 production expenditures for a project must equal or exceed at
+152 least five hundred thousand dollars ($500,000), but no rebate
+153 shall be available for production expenditures incurred after
+154 the first twenty million dollars ($20,000,000) of production
+155 expenditures expended in Alabama on a state-certified
+156 production.
+157 (b) Each year, the office may reserve up to two million
+158 dollars ($2,000,000) for small budget qualified productions. A
+159 qualified production company shall be entitled to a rebate
+160 equal to 45 percent of payroll paid to residents of Alabama
+161 for the state-certified production, provided the total
+162 production expenditures for such small budget qualified
+163 production must equal to or exceed at least one hundred
+164 thousand dollars ($100,000), but shall not be available if the
+165 total production expenditures exceed four hundred ninety-nine
+166 thousand nine hundred ninety-nine dollars ($499,999).
+167 (b)(c) A single episode in a television series or
+168 miniseries may be considered a single production project for
+Page 6
+
+miniseries may be considered a single production project for
+HB379 Enrolled
+169 purposes of this section. However, in determining the total
+170 production expenditures incurred by a qualified production
+171 company on a qualified production, the total production
+172 expenditures of a television series or miniseries, whether a
+173 single season or multiple seasons thereof, to be filmed within
+174 a period of 12 consecutive months, each individual episode of
+175 which separately and independently meets the definition of a
+176 qualified production, may be aggregated to meet the monetary
+177 requirements set forth in subsection (a) as long as each
+178 individual episode within the series pertains to the same
+179 subject as the other episodes in the series.
+180 (c)(d) A single commercial may be considered a single
+181 production project for purposes of this section. However, in
+182 determining the total production expenditures incurred by a
+183 qualified production company on a qualified production, the
+184 total production expenditures of a series of commercials to be
+185 filmed within a period of 12 consecutive months, each of which
+186 separately and independently meets the definition of a
+187 qualified production, may be aggregated to meet the monetary
+188 requirements set forth in subsection (a) as long as each
+189 individual commercial within the series pertains to the same
+190 subject as the other commercials in the series and was planned
+191 as part of a series of commercials to be filmed within a
+192 period of 12 consecutive months at the time the qualified
+193 production company applied for the incentives.
+194 (d)(e) A qualified production company shall be entitled
+195 to the rebate for production expenditures as provided in
+196 subsection (a) for a qualified project that is limited only to
+Page 7
+
+subsection (a) for a qualified project that is limited only to
+HB379 Enrolled
+197 the production of a soundtrack used in a motion picture or
+198 documentary, provided that the production expenditures for the
+199 soundtrack project must equal or exceed at least fiftythirty
+200 thousand dollars ($50,000)($30,000), but no rebate shall be
+201 available for production expenditures incurred after the first
+202 threetwo hundred thousand dollars ($300,000)($200,000) of
+203 production expenditures expended in Alabama.
+204 (e)(f) A qualified production company shall be entitled
+205 to the rebate for production expenditures as provided in
+206 subsection (a) for a qualified project that is limited only to
+207 the production of a music video, provided that the production
+208 expenditures for the music video equal or exceed fiftythirty
+209 thousand dollars ($50,000)($30,000), but no rebate shall be
+210 available for production expenditures incurred after the first
+211 two hundred thousand dollars ($200,000) of production
+212 expenditures expended in Alabama.
+213 (f)(g) A qualified production company shall be entitled
+214 to the rebate for production expenditures as provided in
+215 subsection (a) for a qualified project that is limited only to
+216 the production of a music album, provided that the production
+217 expenditures for the music album equal or exceed thirty
+218 thousand dollars ($30,000), but no rebate shall be available
+219 for production expenditures incurred after the first two
+220 hundred thousand dollars ($200,000) of production expenditures
+221 expended in Alabama.
+222 (g)(h) The rebate described in this section may be
+223 applied to offset any income tax liability applicable to a
+224 qualified production company for the tax year in which
+Page 8
+
+qualified production company for the tax year in which
+HB379 Enrolled
+225 production activity in Alabama on the state-certified
+226 production concludes.
+227 (h)(i) If the rebate available under this section
+228 exceeds a qualified production company's Alabama income tax
+229 liability for the tax year in which production activity in
+230 Alabama concludes on the state-certified production, the
+231 excess of the rebate over a qualified production company's
+232 Alabama income tax liability shall be rebated to the qualified
+233 production company.
+234 (i)(j) The departmentDepartment of Commerce and the
+235 Commissioner of the Department of Revenue shall adopt rules
+236 necessary to administer this section."
+237 "§41-7A-46
+238 (a) A qualified production company that intends to
+239 produce all or any part of a qualified production project in
+240 Alabama and desires to be exempted from the payment of state
+241 sales, use, and lodging taxes levied pursuant to Sections
+242 40-23-2, 40-23-61, and 40-26-1, respectively, shall provide an
+243 estimate of total expenditures expected to be made in Alabama
+244 in connection with the production project. The estimate of
+245 expenditures shall be filed with the office before the
+246 commencement of the project in Alabama.
+247 (b) At the time the qualified production company
+248 provides the estimate of expenditures to the departmentoffice,
+249 it also shall designate a member or representative of the
+250 company to work with the office and the department on
+251 reporting of expenditures and other information necessary to
+252 take advantage of the sales, use, and lodging tax exemptions
+Page 9
+
+take advantage of the sales, use, and lodging tax exemptions
+HB379 Enrolled
+253 afforded by this article.
+254 (c)(1) An application for the sales, use, and lodging
+255 tax exemptions provided in this article may be accepted only
+256 from those qualified production companies that report
+257 anticipated expenditures in the State of Alabama in the
+258 aggregate equal to or exceeding one hundred fifty thousand
+259 dollars ($150,000) in connection with the production of one or
+260 more qualified production projects in the State of Alabama
+261 within a consecutive 12-month period.
+262 (2) The application shall be approved by the office.
+263 (3) Once the application is approved by the office, the
+264 department shall issue sales, use, and lodging tax exemption
+265 certificates to the qualified production company as evidence
+266 of the exemptions. The exemptions are effective on the date
+267 the certificate is issued by the department.
+268 (d) A qualified production company that is approved and
+269 receives sales, use, and lodging tax exemption certificates,
+270 but fails to expend one hundred fifty thousand dollars
+271 ($150,000) within a consecutive 12-month period, is liable for
+272 the sales, use, and lodging taxes that would have been paid
+273 had the approval not been granted; except that the company
+274 must be given a 60-day period in which to pay the sales, use,
+275 and lodging taxes without incurring penalties. The sales, use,
+276 and lodging taxes are considered due as of the date the
+277 tangible personal property was purchased in or brought into
+278 Alabama for use, storage, or consumption for purposes of state
+279 sales and use taxes and due as of the date that lodgings occur
+280 for purposes of state lodging taxes.
+Page 10
+
+for purposes of state lodging taxes.
+HB379 Enrolled
+281 (e) Upon completion of a qualified production, the
+282 company shall return the sales, use, and lodging tax exemption
+283 certificates to the department and submit a report to the
+284 office of the actual expenditures made in Alabama in
+285 connection with the qualified production.
+286 (f) Notwithstanding Act 98-192, the sales and use tax
+287 exemption provided for in this article shall only apply to the
+288 state sales and use tax."
+289 "§41-7A-47
+290 The departmentDepartment of Commerce and the office may
+291 collectively promulgateadopt rules as are necessary to
+292 implement and administer this article."
+293 "§41-7A-48
+294 (a) For the fiscal year ending September 30, 2015,
+295 through the fiscal year ending September 30, 2025, the
+296 aggregate cap of incentives granted under this article shall
+297 not exceed twenty million dollars ($20,000,000) for all
+298 qualified production companies. For the fiscal year ending
+299 September 30, 2026, and all subsequent fiscal years, the
+300 aggregate cap of incentives granted under this article shall
+301 not exceed twenty-two million dollars ($22,000,000) for all
+302 qualified production expenditures.
+303 (b) For the fiscal year ending September 30, 2026, and
+304 all subsequent fiscal years, two million dollars ($2,000,000)
+305 of the amounts in subsection (a) shall be reserved for music
+306 albums. In the event applications are not received and
+307 incentives are not allocated for music albums by July 1 of
+308 each year, the funds may be used for rebates to other
+Page 11
+
+each year, the funds may be used for rebates to other
+HB379 Enrolled
+309 qualified production companies.
+310 (c) Any unspent incentives under this article in a
+311 fiscal year shall be carried over to the following fiscal
+312 year, provided that the total amount carried over in any
+313 fiscal year does not exceed three million dollars
+314 ($3,000,000).
+315 (d) In addition to any reporting required by existing
+316 law for this article, the Department of Commerce shall
+317 contract with an out-of-state entity to review and evaluate
+318 this program and report the findings to the Legislature by the
+319 1st legislative day of the 20272028 Regular Legislative
+320 Session."
+321 "§41-7A-49
+322 (a) The Entertainment Industry Incentive Act of 2009,
+323 Article 3, commencing with Section 41-7A-40, Chapters 7A, of
+324 Title 41, is repealed effective December 31, 2028, unless
+325 extended by an act of the Legislature. Prior to the repeal of
+326 the incentive, the Department of Commerce shall report to the
+327 Legislature beginning in 2023 and annually thereafter,
+328 regarding the entertainment industry incentives, in accordance
+329 with Section 40-1-50.
+330 (b) The repealing of the incentives in subsection (a)
+331 shall only affect the availability of the tax credits after
+332 December 31, 2028, and shall not cause a reduction or
+333 suspension of any credits awarded on or prior to December 31,
+334 2028.
+335 (c) On an annual basis, the department shall furnish
+336 the Department of Commerce with a list of each qualified
+Page 12
+
+the Department of Commerce with a list of each qualified
+HB379 Enrolled
+337 production company that has claimed the incentive under this
+338 act.
+339 (1) The Department of Commerce shall use the
+340 information received under subsection (c) solely for the
+341 purposes of economic development planning and program
+342 evaluation.
+343 (2) To ensure taxpayer confidentiality, all information
+344 shared under this section shall remain subject to the
+345 confidentiality provisions of Section 40-2A-10, Code of
+346 Alabama 1975. The Department of Commerce shall implement
+347 safeguards to ensure that taxpayer information is not
+348 disclosed to unauthorized persons or entities."
+349 Section 2. This act shall become effective on October
+350 1, 2026.
+Page 13
+
+1, 2026.
+HB379 Enrolled
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361 ________________________________________________
+362 Speaker of the House of Representatives
+363
+364
+365
+366 ________________________________________________
+367 President and Presiding Officer of the Senate
+368
+369
+370 House of Representatives
+371
+372 I hereby certify that the within Act originated in and
+373 was passed by the House 03-Mar-26.
+374
+375 John Treadwell
+376 Clerk
+377
+378
+379
+380
+381
+382 Senate 07-Apr-26 Passed
+383
+384
+385
+Page 14

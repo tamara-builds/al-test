@@ -1,0 +1,261 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "SB375",
+  "title": "Class 1 municipalities; mayor, compensation amended",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Counties & Municipalities"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Counties & Municipalities"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb375"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Re-referred to Committee in Second House (Jefferson County Legislation)",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Financial Services)",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in Second House (Financial Services)",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Financial Services",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Engrossed",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1022",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Barfoot motion to Adopt - Adopted Roll Call 1021",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Jefferson County Legislation 1st Amendment Offered (Jefferson County Legislation)",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-04-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Jefferson County Legislation)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Jefferson County Legislation 1st Amendment (Jefferson County Legislation)",
+      "date": "2026-03-31T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Jefferson County Legislation)",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Jefferson County Legislation",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Coleman-Madison",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Coleman-Madison\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB375-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB375-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Barfoot motion to Adopt - Adopted Roll Call 1021",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/84JAWFF-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "27487772"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "text_extraction_latest_update": "2026-07-21T19:18:23.529797Z"
+  }
+}

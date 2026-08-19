@@ -1,0 +1,472 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB121 INTRODUCED
+1 SB121
+2 V7DTWLV-1
+3 By Senator Orr
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+V7DTWLV-1 01/09/2026 VSM (L)ma 2025-3639
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law requires consent from a specified
+6 percentage of condominium unit owners to amend a
+7 condominium declaration and prohibits obtaining consent
+8 through powers of attorney. In addition a unit owners'
+9 association is limited in the legal proceedings in
+10 which they can intervene and the courts are limited in
+11 the equitable remedies they can provide.
+12 This bill would prohibit the use of consents,
+13 waivers, and powers of attorney, to obtain unit owners'
+14 authorization to alter a condominium declaration. This
+15 bill would allow a unit owners' association to
+16 intervene in arbitration and mediation, in addition to
+17 litigation, and would give courts the authority to
+18 apply equitable remedies such as reformation,
+19 injunction, and declaratory actions to disputes
+20 involving the condominium declaration.
+21 This bill would also make nonsubstantive,
+22 technical revisions to update the existing code
+23 language to current style.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+SB121 INTRODUCED
+29
+30 Relating to condominiums; to amend Sections 35-8A-104,
+31 35-8A-108, 35-8A-110, 35-8A-205, 35-8A-216, 35-8A-302,
+32 35-8A-308, 35-8A-309, 35-8A-403, 35-8A-408, and 35-8A-414,
+33 Code of Alabama 1975; to prohibit the use of consents, and
+34 waivers, in addition to powers of attorney, to obtain unit
+35 owners authorization to alter a condominium declaration; to
+36 require reports of material changes to be fully and accurately
+37 reported; to allow a unit owners' association to intervene in
+38 arbitration and mediation; to apply equitable remedies such as
+39 reformation, injunction, and declaratory actions to disputes
+40 involving the condominium declaration; and to make
+41 nonsubstantive, technical revisions to update the existing
+42 code language to current style.
+43 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+44 Section 1. Sections 35-8A-104, 35-8A-108, 35-8A-110,
+45 35-8A-205, 35-8A-216, 35-8A-302, 35-8A-308, 35-8A-309,
+46 35-8A-403, 35-8A-408, and 35-8A-414 of the Code of Alabama
+47 1975, is amended to read as follows:
+48 "§35-8A-104
+49 Except as expressly provided in this chapter, the
+50 provisions of this chapter may not be varied by agreement, and
+51 the rights conferred by this chapter may not be waived. A
+52 declarant may not act under a power of attorney, consent,
+53 waiver, or use any other device, to evade the limitations or
+54 prohibitions of this chapter or the declaration."
+55 "§35-8A-108
+56 The principles of law and equity, including the law of
+Page 2
+
+The principles of law and equity, including the law of
+SB121 INTRODUCED
+57 corporations, the law of real property, and the law relative
+58 to capacity to contract, principal and agent, eminent domain,
+59 estoppel, fraud, misrepresentation, duress, coercion, mistake,
+60 receivership, substantial performance, or other validating or
+61 invalidating cause causes of action, as well as remedies of
+62 reformation, injunction, and declaratory judgment, supplement
+63 the provisions of this chapter, except to the extent
+64 inconsistent with this chapter."
+65 "§35-8A-110
+66 (a) Notwithstanding a finding that this chapter is in
+67 derogation of modifies the common law, it should be liberally
+68 construed to effectuate its purpose of encouraging promote the
+69 development and construction of condominium property
+70 properties under the provisions of this chapter. The remedies
+71 provided by this chapter shall be liberally administered to
+72 the end that ensure the aggrieved party is put in as good a
+73 position as if the other party had fully performed. These
+74 remedies shall be available in addition, and not contrary to,
+75 the remedies otherwise available at common law.
+76 (b) Any right or obligation declared by this chapter is
+77 enforceable by through judicial proceeding proceedings."
+78 "§35-8A-205
+79 (a) The declaration for a condominium must contain:
+80 (1) The name of the condominium, which must include the
+81 word "condominium" or be followed by the words "a
+82 condominium," and the name of the association;
+83 (2) The name of every county in which any part of the
+84 condominium is situated;
+Page 3
+
+condominium is situated;
+SB121 INTRODUCED
+85 (3) A legally sufficient description of the real estate
+86 included in the condominium;
+87 (4) A statement of the maximum number of units which
+88 the declarant reserves the right to create;
+89 (5) A description of the boundaries of each unit
+90 created by the declaration, including the unit's identifying
+91 number;
+92 (6) A description of any limited common elements, other
+93 than those specified in Section 35-8A-202(2) and (4), as
+94 provided in Section 35-8A-209(b)(10);
+95 (7) A description of any common elements, (except real
+96 estate subject to development rights) which, that may be
+97 allocated subsequently as limited common elements, other than
+98 limited common elements those specified in Section
+99 35-8A-202(2) and (4), together with a statement that they may
+100 be so allocated;
+101 (8) A description of any development rights specified
+102 in Section 35-8A-103(11) and other special declarant rights
+103 specified in Section 35-8A-103(24) reserved by the declarant,
+104 together with a legally sufficient description of the real
+105 estate to which each of those rights applies, and a statement
+106 of the time limit within which each of those rights must be
+107 exercised;
+108 (9) If any development right may be exercised with
+109 respect to on different parcels of real estate at different
+110 times, a statement to that effect together with that includes:
+111 (i) either a statement fixing the boundaries of those portions
+112 and regulating describing each parcel's boundaries and the
+Page 4
+
+and regulating describing each parcel's boundaries and the
+SB121 INTRODUCED
+113 order in which those portions may be subjected to the exercise
+114 of each development right the development rights may be
+115 exercised on them, or a statement that no such assurances are
+116 made in those regards provided,; and (ii) a statement as to
+117 whether, if any development right is exercised in any portion
+118 of the real estate subject to that development right, that
+119 development right must be exercised in all or in any other
+120 portion of the remainder of that real estate exercising a
+121 development right in one part of the real estate requires
+122 exercising it in all or any other parts of the remaining
+123 property;
+124 (10) Any other conditions or limitations under which
+125 the rights described in subdivision (8) may be exercised or
+126 will lapse;
+127 (11) An allocation to each unit of the allocated
+128 interests in the manner described in Section 35-8A-207;
+129 (12) Any restrictions on: (i) the use, occupancy,
+130 leasing, or alienation of the units, provided that reasonable
+131 rules and regulations related to concerning conduct by unit
+132 owners or aesthetic considerations standards, which are
+133 adopted by the association from time to time periodically by
+134 the association need do not need to be included in the
+135 declaration,; and (ii) the amount for which a unit may be sold
+136 sale price of the unit or the amount that may be received by a
+137 unit owner on a unit owner may receive upon sale,
+138 condemnation, casualty loss to the unit or to the condominium,
+139 or on the, or termination of the condominium;
+140 (13) The recording data for recorded easements and
+Page 5
+
+(13) The recording data for recorded easements and
+SB121 INTRODUCED
+141 licenses appurtenant to or included in the condominium, or to
+142 which any portion of the condominium is or may become subject
+143 by virtue of a reservation in the declaration;
+144 (14) A statement of the number and identity of units
+145 which the declarant reserves the right to dispose of in time
+146 shares; and
+147 (15) All matters required by Sections 35-8A-206 through
+148 35-8A-209, 35-8A-215, 35-8A-216, and 35-8A-303(d).
+149 (b) The declaration may contain any other matters the
+150 declarant deems appropriate."
+151 "§35-8A-216
+152 Subject to the provisions of the declaration, a
+153 declarant only has an easement through the common elements as
+154 may be reasonably necessary for the purpose of discharging to
+155 discharge a declarant's obligations or exercising exercise
+156 special declarant rights, whether arising under this chapter
+157 or reserved in the declaration."
+158 "§35-8A-302
+159 (a) Except as provided in subsection (b), and subject
+160 to the provisions of the declaration, the association may:
+161 (1) Adopt and amend bylaws and rules and regulations;
+162 (2) Adopt and amend budgets for revenues, expenditures,
+163 and reserves and impose and collect assessments for common
+164 expenses from unit owners;
+165 (3) Hire and discharge managing agents and other
+166 employees, agents, and independent contractors;
+167 (4) Institute, defend, or intervene in litigation,
+168 arbitration, mediation, or administrative proceedings in its
+Page 6
+
+arbitration, mediation, or administrative proceedings in its
+SB121 INTRODUCED
+169 own name on behalf of itself or two or more unit owners on
+170 matters any matter affecting the condominium;
+171 (5) Make contracts and incur liabilities;
+172 (6) Regulate the use, maintenance, repair, replacement,
+173 and modification of common elements;
+174 (7) Cause additional improvements to be made as a part
+175 of the common elements;
+176 (8) Acquire, hold, encumber, and convey in its own name
+177 any right, title, or interest to in real or personal property,
+178 but interests in the common elements, other than those set
+179 forth in subdivision (9), may be conveyed or subjected to a
+180 security interest only pursuant to Section 35-8A-312;
+181 (9) Grant easements, encroachments, leases, licenses,
+182 and concessions through or over the common elements;
+183 (10) Impose and receive any payments, fees, or charges
+184 for the use, rental, or operation of the common elements,
+185 other than limited common elements described in Section
+186 35-8A-202(2) and (4), and for services provided to unit
+187 owners;
+188 (11) Impose against owners of units charges for late
+189 payment of assessments and, after notice and an opportunity to
+190 be heard, levy reasonable fines for violations of the
+191 declaration, bylaws, and rules and regulations of the
+192 association;
+193 (12) Impose reasonable charges for the preparation and
+194 recordation of amendments to the declaration, resale
+195 certificates required by Section 35-8A-409, or statements of
+196 unpaid assessments;
+Page 7
+
+unpaid assessments;
+SB121 INTRODUCED
+197 (13) Provide for the indemnification of its officers
+198 and board and maintain directors' and officers' liability
+199 insurance;
+200 (14) Assign its right to future income, including the
+201 right to receive common expense assessments, but only to the
+202 extent the declaration expressly so provides, or as required
+203 to secure a loan that is otherwise allowed or provided for in
+204 the governing documents;
+205 (15) Exercise any other powers conferred by the
+206 declaration or bylaws;
+207 (16) Exercise all other powers that may be exercised in
+208 this state by legal entities of the same type as the
+209 association; and
+210 (17) Exercise any other powers necessary and proper for
+211 the governance and operation of the association.
+212 (b) The declaration may not impose limitations on the
+213 power of the association to deal with the declarant which are
+214 more restrictive than the limitations imposed on the power of
+215 the association to deal with other persons."
+216 "§35-8A-308
+217 A There must be at least one meeting of the association
+218 must be held at least once each year. Special meetings of the
+219 association may be called by the president, a majority of the
+220 board or by unit owners having 20 percent, or any lower
+221 percentage specified in the bylaws, of the votes in the
+222 association. Not less than 10 nor more than 60 days in advance
+223 of any meeting, the secretary or other officer specified in
+224 the bylaws shall cause notice to be hand-delivered or sent
+Page 8
+
+the bylaws shall cause notice to be hand-delivered or sent
+SB121 INTRODUCED
+225 prepaid by United States mail to the mailing address of each
+226 unit or to any other mailing address designated in writing by
+227 the unit owner. The notice of any meeting must state the time
+228 and place of the meeting and the items on the agenda,
+229 including the general nature of any proposed amendment to the
+230 declaration or bylaws, any budget changes, and any proposal to
+231 remove an officer or a member of the board."
+232 "§35-8A-309
+233 (a) Unless the bylaws provide otherwise, a quorum is
+234 present throughout any meeting of the association if persons
+235 entitled to cast 20 percent of the votes which that may be
+236 cast for election of the board are present in person or by
+237 proxy at the beginning of the said meeting.
+238 (b) Unless the bylaws specify a larger percentage, a
+239 quorum is deemed present throughout any meeting of the board
+240 if persons entitled to cast 50 percent of the votes on that
+241 board are present at the beginning of the said meeting."
+242 "§35-8A-403
+243 (a) Except as provided in subsection (b), an offering
+244 statement must contain or fully and accurately disclose the
+245 following information with regard to regarding the
+246 condominium, including a or proposed condominium:
+247 (1) The name and principal address of the declarant;
+248 (2) The name and the address, legal description, or
+249 other description of the location of the condominium, and the
+250 number and types of units in the condominium;
+251 (3) A general description of the condominium, including
+252 to the extent possible, number and types of buildings,
+Page 9
+
+to the extent possible, number and types of buildings,
+SB121 INTRODUCED
+253 structures, and amenities the declarant is obligated to build,
+254 and the declarant's schedule of commencement and completion of
+255 construction of buildings, structures, and amenities the
+256 declarant is obligated to include in the condominium;
+257 (4) Copies of the declaration, as well as any recorded
+258 plats, plans, easements, covenants, conditions, restrictions,
+259 and reservations affecting the condominium; the certificate or
+260 the proposed certificate of formation and the bylaws of the
+261 association created or to be created to manage the
+262 condominium, any rules or regulations of the association, a
+263 copy of the lease for any leasehold condominium, copies of any
+264 contracts and leases to be signed by purchasers at closing,
+265 and copies of any contracts or leases that will or may be
+266 subject to cancellation by the association under Section
+267 35-8A-305;
+268 (5) A projected budget for the association for at least
+269 one year after the date or anticipated date of the first
+270 conveyance to a purchaser, and thereafter the current budget
+271 along with the current balance sheet of the association, a
+272 statement of who prepared the budget, and a statement of the
+273 budget's assumption concerning occupancy. The budget must
+274 include, without limitation:
+275 a. A statement of the amount, or a statement that there
+276 is no amount, included in the budget as a reserve for repairs
+277 and replacement;
+278 b. A statement of any other reserves included in the
+279 budget;
+280 c. The projected common expenses by category of
+Page 10
+
+c. The projected common expenses by category of
+SB121 INTRODUCED
+281 expenditures for the association; and
+282 d. The projected monthly common expense assessment for
+283 each type of unit;
+284 (6) Any services not reflected in the budget that the
+285 declarant provides, or expenses that he or she pays, and that
+286 he or she expects may become, at any subsequent time, a common
+287 expense of the association and the projected common expense
+288 assessment attributable to each of those services or expenses
+289 for the association and for each type of unit;
+290 (7) Any initial or special fee due from the purchaser
+291 at closing together with a description of the purpose and
+292 method of calculating the fee;
+293 (8) A reference to, and a brief description of, any
+294 liens, known defects, or encumbrances on or affecting the
+295 title to the condominium;
+296 (9) A description of any financing offered or arranged
+297 by the declarant and, if the contract of sale offered to the
+298 purchaser does not contain a provision conditioning
+299 purchaser's obligation to perform the contract on obtaining
+300 financing, a statement that the purchaser will forfeit any
+301 deposit he or she has paid if the purchaser requires such
+302 financing but does not qualify for such financing as is
+303 offered or arranged by the declarant;
+304 (10) The terms and significant limitations of any
+305 warranties provided by the declarant, including statutory
+306 warranties provided in this chapter and limitations on the
+307 enforcement thereof or on damages;
+308 (11) A statement that:
+Page 11
+
+(11) A statement that:
+SB121 INTRODUCED
+309 a. Within seven days after receipt of an offering
+310 statement, a purchaser, before conveyance, may cancel any
+311 contract for purchase of a unit from a declarant;
+312 b. If a declarant fails to provide an offering
+313 statement to a purchaser before conveying a unit, that
+314 purchaser may rescind the conveyance within seven days after
+315 first receiving the offering statement; and
+316 c. If a purchaser receives the offering statement more
+317 than seven days before signing a contract, he or she cannot
+318 cancel the contract;
+319 (12) A statement of any unsatisfied judgments or
+320 pending lawsuits against the association; and including the
+321 status of any pending lawsuits material related to the
+322 condominium of which that a declarant has actual knowledge is
+323 aware of;
+324 (13) A statement that any deposit made in connection
+325 with the purchase of a unit will be held in an escrow account
+326 until closing and will be returned to the purchaser if the
+327 purchaser cancels the contract pursuant to Section 35-8A-408,
+328 together with the name and address of the escrow agent;
+329 (14) Any restraints on sale or lease of any units in
+330 the condominium and any restrictions:
+331 a. On use, occupancy or alienation of the units,; and
+332 b. On the amount for which a unit may be sold or on the
+333 amount that may be received by a unit owner on sale,
+334 condemnation, casualty loss to the unit or to the condominium,
+335 or on the termination of the condominium;
+336 (15) A brief description of the insurance coverage
+Page 12
+
+(15) A brief description of the insurance coverage
+SB121 INTRODUCED
+337 provided for the benefit of unit owners;
+338 (16) Any current or expected fees or charges to be paid
+339 by unit owners for the use of the common elements and other
+340 facilities related to the condominium;
+341 (17) The extent to which financial arrangements have
+342 been provided for completion of all improvements that the
+343 declarant is obligated to build pursuant to Section 35-8A-416
+344 (Declarant's obligation to complete and restore);
+345 (18) A brief narrative description of any zoning
+346 affecting the condominium; and
+347 (19) The applicable amendment requirements as provided
+348 in the declaration or as provided by Alabama law.
+349 (b) If a condominium composed of not more than 12 units
+350 is not subject to any development rights, and no power is
+351 reserved to a declarant to make the condominium part of a
+352 larger condominium, group of condominiums, or other real
+353 estate, an offering statement may, but need not, include the
+354 information otherwise required by subdivisions (a) (9), (10),
+355 (15), (16), (17), and (18) of subsection (a).
+356 (c) A declarant shall promptly amend the offering
+357 statement to report fully and accurately disclose any material
+358 change in the information required by this section."
+359 "§35-8A-408
+360 (a) A person required to deliver the required documents
+361 or report pursuant to Section 35-8A-402(c) or 35-8A-407 shall
+362 provide a purchaser of a unit with a copy of the offering
+363 statement and all amendments thereto not later than the date
+364 of any contract of sale. Unless a purchaser is given the
+Page 13
+
+of any contract of sale. Unless a purchaser is given the
+SB121 INTRODUCED
+365 required documents more than seven days before execution of a
+366 contract for the purchase of a unit, the purchaser may cancel
+367 the contract within seven days after first receiving the
+368 required documents or report.
+369 (b) If a purchaser elects to cancel a contract or
+370 conveyance pursuant to subsection (a), he or she may do so by
+371 hand-delivering notice thereof to the offeror or by mailing
+372 notice thereof by prepaid United States mail to the offeror or
+373 to his or her agent for service of process. Cancellation is
+374 without penalty, and all payments made by the purchaser before
+375 cancellation shall be refunded promptly.
+376 (c) If a person required to deliver an offering
+377 statement or report pursuant to Section 35-8A-402(c) or
+378 35-8A-407 willfully fails to provide a purchaser to whom a
+379 unit is conveyed with the documents required by subsection
+380 (a), the purchaser, at the purchaser's option and in lieu of
+381 in addition to any rights to damages or other relief, is
+382 entitled to receive from that person an amount equal to five
+383 percent of the sales price of the unit if the purchaser
+384 provides notice of the election to that person in the same
+385 manner as described in subsection (b) within six months of the
+386 date of conveyance of the unit."
+387 "§35-8A-414
+388 If a declarant or any other person subject to this
+389 chapter fails to comply with any provision hereof of this
+390 chapter or any provision of the declaration or bylaws, any
+391 person or class of persons adversely affected by the failure
+392 to comply has a claim for actual damages or appropriate
+Page 14
+
+to comply has a claim for actual damages or appropriate
+SB121 INTRODUCED
+393 equitable relief, which may include. The court, in an
+394 appropriate case, may award reasonable attorney's attorney
+395 fees to either party."
+396 Section 2. This act shall become effective on October
+397 1, 2026.
+Page 15

@@ -1,0 +1,587 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB258 INTRODUCED
+1 HB258
+2 5V1EYMM-1
+3 By Representative Clarke
+4 RFD: State Government
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+5V1EYMM-1 01/12/2025 JC (L)lg 2025-3503
+1
+2
+3
+4 SYNOPSIS:
+5 There are no provisions in existing law
+6 governing the repair of customized wheelchairs.
+7 This bill would require wheelchair repair
+8 providers to make repairs in a timely manner. Repair
+9 providers that are also licensed home medical equipment
+10 services providers would be subject to discipline by
+11 the Board of Home Medical Equipment for repeated
+12 failure to make timely repairs.
+13 This bill would require Medicaid to cover the
+14 cost of a customized wheelchair when medically
+15 necessary. This bill would also require wheelchair
+16 repair providers that contract with Medicaid to submit
+17 annual reports to the Medicaid Agency concerning
+18 timeliness of repairs.
+19 This bill would eliminate any requirement for a
+20 new prescription or prior authorization for the repair
+21 of a customized wheelchair from Medicaid or private
+22 health insurance, depending on the age of the
+23 wheelchair.
+24 This bill would further require a manufacturer
+25 of customized wheelchairs to provide needed product
+26 information, tools, and parts directly to the consumer
+27 or a repair provider that is not affiliated with the
+28 manufacturer.
+Page 1
+
+manufacturer.
+HB258 INTRODUCED
+29 This bill would further provide that a
+30 manufacturer's failure to comply with the standards for
+31 assistance would be an unlawful trade practice, subject
+32 to enforcement by the Attorney General or an aggrieved
+33 owner under the Deceptive Trade Practices Act.
+34
+35
+36
+37
+38 A BILL
+39 TO BE ENTITLED
+40 AN ACT
+41
+42 Relating to wheelchair repair; to amend Section
+43 34-14C-6, Code of Alabama 1975, to provide the Board of Home
+44 Medical Equipment with authority to discipline licensees who
+45 fail to repair customized wheelchairs in a timely manner; to
+46 provide standards for timely repair of customized wheelchairs;
+47 to require Medicaid to cover the cost of customized
+48 wheelchairs when medically necessary; to limit the requirement
+49 of prior authorization by Medicaid or private health insurance
+50 for repair of certain customized wheelchairs; to impose a
+51 reporting requirement on Medicaid repair providers; to require
+52 manufacturers to provide the documentation, parts, or tools
+53 necessary to repair a motorized wheelchair to independent
+54 repair businesses on the same terms as provided to the
+55 manufacturer's authorized repair businesses; and to provide
+56 that a violation of this requirement is an unlawful trade
+Page 2
+
+that a violation of this requirement is an unlawful trade
+HB258 INTRODUCED
+57 practice under Chapter 19 of Title 8, Code of Alabama 1975.
+58 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+59 Section 1. (a) For the purposes of this section, the
+60 following terms have the following meanings:
+61 (1) CONSUMER. The individual who uses a a customized
+62 wheelchair in his or her residence, regardless of whether the
+63 purchase or lease of the wheelchair is funded in whole or in
+64 part by the consumer or by private or public health insurance.
+65 (2) CUSTOMIZED WHEELCHAIR. A manual or motorized
+66 wheelchair that is individually configured for the consumer
+67 with specialized equipment that requires evaluation,
+68 configuration, fitting, adjustment, programming, and long-term
+69 maintenance and repair services.
+70 (3) REPAIR PROVIDER. An authorized repair provider or
+71 an independent repair provider, both as defined in Section 5
+72 of this act, that repairs customized wheelchairs and that may
+73 or may not be a home medical services provider subject to
+74 Chapter 14C of Title 34, Code of Alabama 1975.
+75 (b)(1) A repair provider shall make timely repair of a
+76 customized wheelchair according to the requirements of this
+77 subsection.
+78 (2) Upon request, a repair provider shall make timely
+79 repair of a customized wheelchair at the consumer's residence
+80 if the consumer attests that he or she is unable to have the
+81 wheelchair delivered to the repair provider's place of
+82 business.
+83 (3) A repair provider shall maintain and advertise an
+84 electronic mail address and a phone number so that a consumer
+Page 3
+
+electronic mail address and a phone number so that a consumer
+HB258 INTRODUCED
+85 may request a repair.
+86 (4)a. A repair provider fails to make timely repair of
+87 a customized wheelchair for any of the following reasons:
+88 1. Failure to respond to a consumer who requests
+89 assessment or repair no later than the end of the first full
+90 business day after the consumer makes the request.
+91 2. If the wheelchair is delivered to the repair
+92 provider's place of business, failure to assess and identify
+93 the repairs necessary no later than the end of the first full
+94 business day after delivery.
+95 3. If the consumer is unable to have the wheelchair
+96 delivered to the repair provider's place of business, failure
+97 to assess and identify the repairs necessary no later than the
+98 end of the third full business day after submission of the
+99 request for assessment or repair by the consumer.
+100 4. If the repair may be covered by private or public
+101 health insurance, failure to submit a request for prior
+102 authorization within one business day of identifying the
+103 necessary repairs.
+104 5. Failure to order the parts required for repair no
+105 later than three business days after: (i) assessing the need
+106 for repair; and if required, (ii) receiving prior
+107 authorization from private or publicly funded health
+108 insurance.
+109 6. Failure to repair the wheelchair no later than three
+110 business days after receiving the parts ordered.
+111 b. A repair provider makes timely repair of a
+112 customized wheelchair in any of the following circumstances:
+Page 4
+
+customized wheelchair in any of the following circumstances:
+HB258 INTRODUCED
+113 1. The repair provider completes necessary repair of
+114 the wheelchair no later than 10 business days after the
+115 original request is submitted, even if the repair provided
+116 fails to comply with any requirement described in paragraph a.
+117 2. The necessary repair is completed more than 10
+118 business days after the original request is submitted because:
+119 (i) The consumer fails to make the wheelchair available
+120 for assessment or repair by missing an agreed upon appointment
+121 with the repair provider for an assessment or repair at the
+122 consumer's home or the repair provider's place of business; or
+123 (ii) Shipment of the parts necessary for repair are
+124 ordered but not received, or through no fault of the repair
+125 provider, the shipment omits necessary parts or contains the
+126 wrong parts; or
+127 (iii) Any other reason that is beyond the control of
+128 the repair provider, including a delay in receiving prior
+129 authorization from private or public health insurance.
+130 c. If a consumer is required to use a repair provider
+131 that is designated by private or publicly funded insurance,
+132 the requirements in paragraphs a. and b. shall become
+133 operative when the consumer initiates communication with the
+134 repair provider designated by the insurer.
+135 (c)(1) On and after October 1, 2026, the Board of Home
+136 Medical Equipment shall conspicuously post on its website an
+137 electronic mail address and phone number to receive complaints
+138 about a repair provider that is also a home medical services
+139 provider regarding failure to make timely repair of a
+140 customized wheelchair.
+Page 5
+
+customized wheelchair.
+HB258 INTRODUCED
+141 (2) Upon receiving a complaint pursuant to this
+142 subsection, the board may investigate a repair provider that
+143 is also a home medical services provider for cause pursuant to
+144 Section 34-14C-4, Code of Alabama 1975.
+145 Section 2. Section 34-14C-6, Code of Alabama 1975, is
+146 amended to read as follows:
+147 "§34-14C-6
+148 (a) The board may deny, suspend, or revoke a license as
+149 provided in this section.
+150 (b) A license may not be denied, suspended, or revoked
+151 except by majority vote of the board and with prior notice and
+152 opportunity for hearing in accordance with this chapter and
+153 the Alabama Administrative Procedure Act.
+154 (c) The board may institute a hearing for denial,
+155 suspension, or revocation of a license, or any person may file
+156 a written complaint with the board seeking the denial,
+157 suspension, or revocation of an application for licensure or
+158 license issued by the board or the investigation of any
+159 unlicensed person or entity providing home medical equipment
+160 services. The complaint shall be in a form prescribed by the
+161 board.
+162 (d) A copy of the charges, including notice of the time
+163 and place of hearing, shall be served by certified mail,
+164 return receipt requested, at least 21 days before the
+165 scheduled hearing date to the most recent address of the
+166 applicant or licensee on file with the board, or to the last
+167 known address of any unlicensed personindividual or entity
+168 providing home medical equipment services. If the notice and
+Page 6
+
+providing home medical equipment services. If the notice and
+HB258 INTRODUCED
+169 opportunity for hearing is refused or the return receipt has
+170 not been received by the board within 10 days before the
+171 scheduled hearing, the applicant, licensee, or unlicensed
+172 personindividual or entity may be served by mailing the
+173 charges and notice by first class mail, at least seven days
+174 before the hearing date, to the most recent address on file
+175 with the board, or to the last known address of the unlicensed
+176 personindividual or entity providing home medical equipment
+177 services.
+178 (e) The board may invoke disciplinary action as
+179 outlined in subsection (f) whenever it is established to the
+180 satisfaction of the board, after a hearing held in accordance
+181 with this chapter and the Alabama Administrative Procedure
+182 Act, that any person is guilty of any of the following acts:
+183 (1) Violation of this chapter or a rule of the board.
+184 (2) Making a material misrepresentation in furnishing
+185 information to the board.
+186 (3) Making a misrepresentation to obtain licensure or
+187 to otherwise violate this chapter.
+188 (4) Conviction of or entry of a plea of guilty or nolo
+189 contendere to any crime that is a felony under the laws of the
+190 United States, or any state or territory of the United States,
+191 or to any crime that is a misdemeanor, if an essential element
+192 of the crime is dishonesty or is directly related to providing
+193 home medical equipment services.
+194 (5) Gross negligence or gross misconduct in providing
+195 home medical equipment services.
+196 (6) Aiding, assisting, or willingly permitting another
+Page 7
+
+(6) Aiding, assisting, or willingly permitting another
+HB258 INTRODUCED
+197 person to violate any provision of this chapter or rule of the
+198 board.
+199 (7) Failing, within 30 days, to provide information in
+200 response to a written request of the board.
+201 (8) Failing to cooperate with an inspection or with an
+202 investigation conducted by the board.
+203 (9) Engaging in dishonorable, unethical, or
+204 unprofessional conduct of a character likely to deceive,
+205 defraud, or harm the public.
+206 (10) Denial, revocation, suspension, or restriction of
+207 a license in another state or jurisdiction to provide home
+208 medical equipment services for a reason other than failure to
+209 renew the license.
+210 (11) Directly or indirectly giving to or receiving from
+211 any person, partnership, corporation, or other legal entity
+212 any fee, commission, rebate, or other form of compensation for
+213 services not actually or personally rendered.
+214 (12) A finding that a licensee on probationary status
+215 has violated the terms of the probation.
+216 (13) Willfully making or filing false records, reports,
+217 or billings in the course of providing home medical equipment
+218 services including, but not limited to, false records,
+219 reports, or billings filed with state or federal agencies or
+220 departments.
+221 (14) The use of any words, abbreviations, figures, or
+222 letters with the intention of indicating practice as a home
+223 medical equipment services provider without having first
+224 obtained a license from the board.
+Page 8
+
+obtained a license from the board.
+HB258 INTRODUCED
+225 (15) Failure to comply with state or federal laws,
+226 rules, and regulations concerning home medical equipment
+227 services providers.
+228 (16) Solicitation of home medical equipment services
+229 using false or misleading advertising.
+230 (17) Failure to display a license in accordance with
+231 this chapter.
+232 (18) Failure to report a change of name, address,
+233 control, ownership, or administration to the board within 30
+234 days after the date of change.
+235 (19) Repeated failure to make timely repair of a
+236 wheelchair as described in Section 1(b) of the act amending
+237 this section.
+238 (f) When the board finds any person guilty of any of
+239 the grounds set forth in subsection (e), the board may enter
+240 an order imposing one or more of the following penalties:
+241 (l) A letter of reprimand.
+242 (2) Imposition of probation for a period of time and
+243 subject to such conditions as may be prescribed by the board.
+244 (3) Denial of an application for an initial or renewal
+245 license.
+246 (4) Suspension of a license for a period of time
+247 established by the board, with or without automatic
+248 reinstatement.
+249 (5) Revocation of a license.
+250 (6) Payment of restitution to each consumer negatively
+251 affected by the prohibited act. Proof of such restitution
+252 shall be a signed and notarized release executed by the
+Page 9
+
+shall be a signed and notarized release executed by the
+HB258 INTRODUCED
+253 consumer or the estate of the consumer.
+254 (7) Assessment of the costs of the disciplinary
+255 proceedings.
+256 (g) Failure to comply with any final order of the board
+257 is also cause for suspension or revocation of a license. The
+258 board may suspend or revoke any license whichthat has been
+259 issued based on false or fraudulent representations.
+260 (h) The board may informally resolve any alleged
+261 violation of this chapter or rule of the board by stipulation,
+262 agreed settlement, or consent order, in lieu of an
+263 administrative hearing.
+264 (i) Any entity or personindividual found to be
+265 providing home medical equipment services without a license as
+266 required by this chapter shall be subject to an administrative
+267 fine of up to one thousand dollars ($1,000) per day that
+268 services were provided without a license. Funds collected
+269 pursuant to this chapter shall be allocated to the
+270 administration of the program.
+271 (j) Any entity or personindividual found to be
+272 providing home medical equipment services without a license as
+273 required by this chapter may be administratively enjoined by
+274 the board from providing services until such time as the
+275 entity or person complies with this chapter.
+276 (k) In addition to any other disciplinary action
+277 authorized by this chapter, the board may levy and collect
+278 administrative fines for violations of this chapter or the
+279 rules or standards of the board in an amount of up to one
+280 thousand dollars ($1,000) for each violation.
+Page 10
+
+thousand dollars ($1,000) for each violation.
+HB258 INTRODUCED
+281 (l) Any personindividual or entity violating this
+282 chapter, upon conviction, shall be guilty of a Class A
+283 misdemeanor, and subject to fine or imprisonment, or both.
+284 (m) Any entity or personindividual subject to the
+285 penalties prescribed by subsections (i) and (j) may pursue an
+286 appeal through the board according to rules promulgatedadopted
+287 by the board.
+288 (n) Any hearings related to matters before the board
+289 shall be conducted in Montgomery County.
+290 (o) In addition to any other penalty or disciplinary
+291 action authorized by this chapter, the board may seek an
+292 injunction against any personindividual or entity found in
+293 violation of this chapter. In an action for an injunction, the
+294 board may demand and recover a civil penalty of fifty dollars
+295 ($50) per day for each violation, reasonable attorney fees,
+296 and court costs. No civil penalty shall be awarded to the
+297 board if an administrative fine is assessed pursuant to
+298 subsection (i).
+299 (p) Upon the revocation or suspension of a license, the
+300 licensee shall immediately surrender the license to the board,
+301 and if the licensee fails to do so, the board may seize the
+302 license.
+303 (q) Any person aggrieved by an adverse action of the
+304 board may appeal the action to the Circuit Court of Montgomery
+305 County in accordance with the Alabama Administrative Procedure
+306 Act."
+307 Section 3. (a) As used in this section, the following
+308 words have the following meanings:
+Page 11
+
+words have the following meanings:
+HB258 INTRODUCED
+309 (1) AGENCY. The Alabama Medicaid Agency.
+310 (2) COMMISSIONER. The Commissioner of the Alabama
+311 Medicaid Agency.
+312 (3) CUSTOMIZED WHEELCHAIR. As defined in Section 1 of
+313 this act for a Medicaid recipient with a disability who is
+314 unable to achieve maximum mobility with a standard wheelchair.
+315 (4) REPAIR PROVIDER. As defined in Section 1 of this
+316 act.
+317 (5) STANDARD WHEELCHAIR. A manual or motorized
+318 wheelchair that is not individually configured for a consumer.
+319 (6) TIMELY REPAIR. As described in Section 1(b) of this
+320 act.
+321 (b) A customized wheelchair shall be covered under
+322 Medicaid only if it is medically necessary and a standard
+323 wheelchair does not meet the recipient's needs as determined
+324 by the agency.
+325 (c)(1) The commissioner shall not require a new
+326 prescription or prior authorization for the repair of a
+327 customized wheelchair unless the original prescription or
+328 authorization for the customized wheelchair is more than: (i)
+329 five years old in the case of a Medicaid recipient who is
+330 under 21 years of age; or (ii) seven years old in the case of
+331 a Medicaid recipient who is 21 years of age or older.
+332 (2) The commissioner shall grant prior authorization to
+333 the replacement of a customized wheelchair only upon a
+334 determination that repair of the wheelchair would not
+335 adequately meet the needs of the recipient.
+336 (d) No later than September 30, 2027, and annually
+Page 12
+
+(d) No later than September 30, 2027, and annually
+HB258 INTRODUCED
+337 thereafter, a repair provider that contracts with the agency
+338 shall submit a report concerning timely repair to the
+339 commissioner that includes for each repair request all of the
+340 following information:
+341 (1) The number of days to initially respond to the
+342 request.
+343 (2) The number of days to conduct a repair assessment.
+344 (3) Whether the repair assessment was made at the
+345 recipient's residence, the repair facility, remotely, or
+346 another location.
+347 (4) If prior authorization to make the repair was
+348 necessary, the number of days to receive the agency
+349 determination.
+350 (5) The number of days from the repair assessment to
+351 order a replacement part.
+352 (6) The number of days from the repair assessment to
+353 complete repair of the wheelchair, including the number of
+354 days to receive any replacement part ordered.
+355 (7) Whether the repair was completed at the recipient's
+356 residence, the repair facility, or another location.
+357 (e) The commissioner shall seek any federal approval
+358 necessary, including amendment of the state Medicaid plan or
+359 application for a waiver, to implement this section.
+360 (f) The commissioner shall adopt rules to implement
+361 this section.
+362 Section 4. (a) As used in this section, the following
+363 words have the following meanings:
+364 (1) CUSTOMIZED WHEELCHAIR. As defined in Section 1 of
+Page 13
+
+(1) CUSTOMIZED WHEELCHAIR. As defined in Section 1 of
+HB258 INTRODUCED
+365 this act.
+366 (2) HEALTH BENEFIT PLAN. a. Any plan, policy, or
+367 contract issued, delivered, or renewed in this state that
+368 provides health coverage that includes payment for
+369 hospitalization, physician care, treatment, surgery, therapy,
+370 drugs, equipment, and any other medical expense, regardless of
+371 the following:
+372 1. Whether the plan, policy, or contract is provided by
+373 a health care insurer, health maintenance organization
+374 established under Chapter 21A of Title 27, Code of Alabama
+375 1975, health care services plan established under Chapter 20
+376 of Title 10A, Code of Alabama 1975, or any other entity that
+377 pays for, purchases, or reimburses for health care services.
+378 2. Whether the plan is for a group or an individual.
+379 b. The term does not include accident-only, specified
+380 disease, individual hospital indemnity, credit, dental-only,
+381 Medicare supplement, long-term care, disability income, or
+382 other limited benefit health insurance policies, or coverage
+383 issued as supplemental to liability insurance, workers'
+384 compensation, or automobile medical payment insurance.
+385 (b) Every health benefit plan issued, delivered, or
+386 renewed on and after January 1, 2026, may not require a new
+387 prescription or prior authorization for the repair or
+388 replacement of a customized wheelchair unless the original
+389 prescription is more than five years old.
+390 Section 5. (a) For the purposes of this section, the
+391 following terms have the following meanings:
+392 (1) AUTHORIZED REPAIR PROVIDER. A person to whom an
+Page 14
+
+(1) AUTHORIZED REPAIR PROVIDER. A person to whom an
+HB258 INTRODUCED
+393 original manufacturer grants a license to use a trade name,
+394 service mark, or other proprietary identifier for the purpose
+395 of maintaining or repairing motorized wheelchairs on behalf of
+396 the original manufacturer. If the original manufacturer, in
+397 addition to selling, leasing, or supplying motorized
+398 wheelchairs, also directly performs maintenance and repair,
+399 the original manufacturer is the authorized repair provider.
+400 (2) CONSUMER. An individual who owns or leases a
+401 motorized wheelchair.
+402 (3) DOCUMENTATION. Any manual, diagram, reporting
+403 output, service code description, schematic diagram, security
+404 code, password, other guidance, or information necessary to
+405 maintain or repair a motorized wheelchair.
+406 (4) INDEPENDENT REPAIR PROVIDER. A person that is
+407 unaffiliated with an original manufacturer and engages in the
+408 maintenance or repair of motorized wheelchairs.
+409 (5) MAINTENANCE OR REPAIR. Services required to
+410 preserve the reliable performance of a motorized wheelchair;
+411 prevent malfunction or degradation due to use; correct a
+412 malfunction, including the diagnosis of a problem; remedy
+413 damage; or perform any other task required to restore a
+414 wheelchair to optimal functionality, including any product
+415 updates.
+416 (6) ORIGINAL MANUFACTURER. A person that sells, leases,
+417 or supplies new motorized wheelchairs that are also
+418 manufactured by or on behalf of the person.
+419 (7) PART. Any replacement part, whether new or used,
+420 provided by an original manufacturer for the purpose of
+Page 15
+
+provided by an original manufacturer for the purpose of
+HB258 INTRODUCED
+421 maintaining or repairing a motorized wheelchair.
+422 (8) TOOLS. Any software, hardware, or other apparatus
+423 used for the maintenance or repair of a motorized wheelchair,
+424 including software or another mechanism to program a new part,
+425 calibrate functionality, or perform any other function
+426 required.
+427 (b)(1) An original manufacturer shall make available,
+428 directly or through an authorized repair provider and in
+429 compliance with the terms required in subsection (c), any
+430 documentation, parts, or tools required for the maintenance or
+431 repair of a motorized wheelchair to the consumer or an
+432 independent repair provider.
+433 (2) The duty described in subdivision (1) includes,
+434 with respect to an electronic security lock or other
+435 security-related function, the provision of any documentation,
+436 tools, or parts required to access and reset the lock or
+437 function when disabled during the maintenance or repair of a
+438 motorized wheelchair.
+439 (3) The required documentation, parts, or tools may be
+440 provided to a consumer or independent repair provider through
+441 an appropriate secure release system.
+442 (c) An original manufacturer shall fulfill the duty
+443 imposed in subsection (b) in good faith, which means in
+444 accordance with the minimum terms required in this subsection.
+445 (1) Documentation shall be provided at no charge except
+446 for the actual cost of preparing and sending a physical copy.
+447 (2) Parts shall be provided on the same terms as would
+448 apply to an authorized repair provider, including all of the
+Page 16
+
+apply to an authorized repair provider, including all of the
+HB258 INTRODUCED
+449 following:
+450 a. Costs and terms equivalent to those that apply to an
+451 authorized repair provider, including any adjustments due to
+452 discount or rebate.
+453 b. Convenient and timely means of delivery.
+454 c. Parts identical to those available to an authorized
+455 repair provider to enable maintenance or repair that is at the
+456 current level of fully restored or updated functionality,
+457 including rights of use or other incentives or preferences
+458 given to an authorized repair provider.
+459 d. No obligation or restriction that is not imposed on
+460 an authorized repair provider.
+461 e. Without obligation to enter into a standing
+462 arrangement or contract with the original equipment
+463 manufacturer.
+464 (3) Tools shall be provided subject to the following
+465 conditions:
+466 a. At no charge, except for the actual cost of
+467 preparing and sending a tool in physical form.
+468 b. No additional authorization required to use or
+469 operate the tool.
+470 c. No additional impediment to access or use the tool
+471 or to enable full functionality of digital electronic
+472 equipment.
+473 d. With sufficient instructions that a reasonable
+474 repair provider may use a tool to immediately perform
+475 maintenance or repair with little or no independent research
+476 on the Internet or other public sources.
+Page 17
+
+on the Internet or other public sources.
+HB258 INTRODUCED
+477 (d) In complying with this section, an original
+478 manufacturer shall not be required to divulge any trade secret
+479 to a consumer or independent repair provider.
+480 (e) This section shall have no effect on the terms of
+481 an arrangement or contract between an original manufacturer
+482 and an authorized repair provider which includes, but is not
+483 limited to, maintenance or repair work by an authorized repair
+484 provider pursuant to a warranty or a recall, except that any
+485 term of the arrangement or contract that waives, avoids,
+486 restricts, limits, or interferes with the original
+487 manufacturer's duty to comply with this section shall be void.
+488 (f) An original manufacturer or authorized repair
+489 provider shall not be liable for any damage to, or malfunction
+490 of, a motorized wheelchair which results from the use of
+491 documentation, parts, or tools provided pursuant to this
+492 section to a consumer or an independent repair provider.
+493 (g) A failure to comply with this section shall be an
+494 unlawful trade practice under Chapter 19, Title 8, Code of
+495 Alabama 1975, subject to enforcement by the Attorney General
+496 pursuant to Section 8-19-4, Code of Alabama 1975, or an action
+497 by a consumer or independent repair provider pursuant to
+498 Section 8-19-10, Code of Alabama 1975.
+499 Section 6. This act shall become effective on October
+500 1, 2026.
+Page 18

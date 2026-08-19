@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB286 INTRODUCED
+1 HB286
+2 FK8U8CD-1
+3 By Representative Crawford
+4 RFD: Ways and Means Education
+5 First Read: 20-Jan-26
+Page 0
+
+First Read: 20-Jan-26
+FK8U8CD-1 11/25/2025 MRF (F)MRF 2025-3485
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a utility gross receipts tax
+6 is levied on utility services, and a utility service
+7 use tax is levied on the storage, use, or other
+8 consumption of electricity, domestic water, natural
+9 gas, telegraph, and telephone services in the state.
+10 This bill would exclude the use or purchase of
+11 natural gas, electricity, telephone services, or other
+12 connectivity services for use or consumption in radio
+13 and television broadcast stations from the utility
+14 gross receipts tax and utility service use tax.
+15
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to the utility gross receipts tax and utility
+23 service use tax; to amend Sections 40-21-83 and 40-21-103,
+24 Code of Alabama 1975, to exclude the use of natural gas,
+25 electricity, telephone services, or other connectivity
+26 services in radio and television broadcast stations from the
+27 taxes.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+HB286 INTRODUCED
+29 Section 1. Sections 40-21-83 and 40-21-103, Code of
+30 Alabama 1975, are amended to read as follows:
+31 "§40-21-83
+32 There are specifically excluded from the gross receipts
+33 or gross sales of a utility, all revenues derived from any of
+34 the following:
+35 (1) The furnishing of utility services which the State
+36 of Alabama is prohibited from taxing under the Constitution or
+37 laws of the United States of America or the Constitution of
+38 the State of Alabama of 2022.
+39 (2) The furnishing of utility services which are
+40 otherwise taxed under Sections 40-23-1 to 40-23-36, inclusive.
+41 (3) Wholesale sales.
+42 (4) The furnishing of electricity, natural gas, or
+43 domestic water for use or consumption by, in, or for the
+44 direct production, generation, processing, storage, delivery,
+45 or transmission of electricity, natural gas, or domestic
+46 water.
+47 (5) The furnishing of electricity to a manufacturer or
+48 compounder for use in an electrolytic or electrothermal
+49 manufacturing or compounding process.
+50 (6) The furnishing of natural gas to a manufacturer or
+51 compounder as a chemical raw material in the manufacturing or
+52 compounding of tangible personal property, but not as fuel or
+53 energy.
+54 (7) The furnishing of natural gas to be used by a
+55 manufacturer or compounder to chemically convert raw materials
+56 prior to the use of the converted raw materials in an
+Page 2
+
+prior to the use of the converted raw materials in an
+HB286 INTRODUCED
+57 electrolytic or electrothermal manufacturing or compounding
+58 process.
+59 (8) The use or consumption of electricity by an
+60 incorporated municipality, a board, or corporation organized
+61 under the authority of any incorporated municipality in
+62 furnishing or providing street lighting or traffic-control
+63 systems; the use or consumption of telephone services by an
+64 incorporated municipality in providing fire alarm systems; and
+65 the use or consumption of domestic water by an incorporated
+66 municipality in extinguishing fires, explosions, or
+67 conflagrations.
+68 (9) The furnishing of natural gas or electricity for
+69 use or consumption as fuel or energy in and for the heating of
+70 poultry houses.
+71 (10) The furnishing of utility services through the use
+72 of a prepaid telephone calling card.
+73 (11)(a) The furnishing of natural gas, electricity, or
+74 telephone services or other connective services for use or
+75 consumption by or in radio and television broadcast stations
+76 licensed by the Federal Communications Commission.
+77 (b) For the purposes of this section, "telephone
+78 services or other connective services" means telephone
+79 services or other voice or data interconnectivity services of
+80 any type, including, but not limited to, the following:
+81 1. Transmitters, transmission lines, antennas, and
+82 monitoring and other equipment, which amplifies, modifies, and
+83 transmits or otherwise controls broadcast signals.
+84 2. Studio equipment and studio facilities for
+Page 3
+
+2. Studio equipment and studio facilities for
+HB286 INTRODUCED
+85 preparation and production of programming and other content
+86 and for distributing such programming and content.
+87 3. Computers, power supplies, generators, and any other
+88 standby power supplies, attenuators, and converters."
+89 "§40-21-103
+90 The storage, use, or other consumption of utility
+91 services in the State of Alabama is hereby specifically
+92 excluded from the tax herein levied:
+93 (1) Whenever the State of Alabama is prohibited from
+94 taxing such storage, use, or consumption under the
+95 Constitution or laws of the United States of America or the
+96 Constitution of the State of Alabama of 2022;
+97 (2) Whenever any tax relating to the sale, use,
+98 storage, or consumption of said utility services shall be
+99 levied under the provisions of Article 2 of Chapter 23 of this
+100 title, or under the provisions of Sections 40-23-1 through
+101 40-23-36 or the Alabama Transaction Tax Act of 1992 if enacted
+102 into law;
+103 (3) Whenever the purchase of said utility services
+104 shall have been at a wholesale sale;
+105 (4) Whenever electricity, natural gas, or domestic
+106 water shall have been used or consumed directly in or for the
+107 production, generation, processing, storage, delivery, or
+108 transmission of electricity, natural gas, or domestic water;
+109 (5) Whenever electricity purchased for storage, use, or
+110 other consumption is used or consumed by a manufacturer or
+111 compounder in an electrolytic or electrothermal manufacturing
+112 or compounding process;
+Page 4
+
+or compounding process;
+HB286 INTRODUCED
+113 (6) Whenever natural gas purchased for storage, use, or
+114 other consumption is used or consumed by a manufacturer or
+115 compounder as a chemical raw material in the manufacturing or
+116 compounding of tangible personal property, but not as fuel or
+117 energy;
+118 (7) Whenever natural gas purchased for storage, use, or
+119 other consumption is used by a manufacturer or compounder to
+120 chemically convert raw materials prior to the use of such
+121 converted raw materials in an electrolytic or electrothermal
+122 manufacturing or compounding process;
+123 (8) Whenever the sales price of said utility services
+124 shall be included as a part of the gross receipts or gross
+125 sales of a utility subject to the utility gross receipts tax
+126 for the purpose of calculating the utility gross receipts tax
+127 payable by said utility;
+128 (9) Whenever electricity purchased for storage, use, or
+129 other consumption is used or consumed in a process for the
+130 isotopic enrichment of uranium and when said electricity is
+131 purchased from a subsidiary corporation of the corporation
+132 engaged in the isotopic enrichment of uranium; and
+133 (10) Whenever utility services are furnished through
+134 the use of a prepaid telephone calling card; and
+135 (11) (a) Whenever natural gas, electricity, or
+136 telephone services or other connective services are purchased
+137 for use or consumption by or in radio and television broadcast
+138 stations licensed by the Federal Communications Commission.
+139 (b) For the purposes of this section, "telephone
+140 services or other connective services" means telephone
+Page 5
+
+services or other connective services" means telephone
+HB286 INTRODUCED
+141 services or other voice or data interconnectivity services of
+142 any type, including, but not limited to, the following:
+143 1. Transmitters, transmission lines, antennas, and
+144 monitoring and other equipment, which amplifies, modifies, and
+145 transmits or otherwise controls broadcast signals.
+146 2. Studio equipment and studio facilities for
+147 preparation and production of programming and other content
+148 and for distributing such programming and content.
+149 3. Computers, power supplies, generators, and any other
+150 standby power supplies, attenuators, and converters."
+151 Section 2. This act shall become effective on September
+152 1, 2026.
+Page 6

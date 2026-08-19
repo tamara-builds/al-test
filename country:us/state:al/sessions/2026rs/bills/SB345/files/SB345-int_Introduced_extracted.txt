@@ -1,0 +1,395 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB345 INTRODUCED
+1 SB345
+2 NR46GJJ-1
+3 By Senator Stutts
+4 RFD: Banking and Insurance
+5 First Read: 05-Mar-26
+Page 0
+
+First Read: 05-Mar-26
+NR46GJJ-1 02/27/2026 JC (L)lg 2026-1071
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would make a change to a pharmacy
+6 classification in the law governing the licensing and
+7 operation of pharmacy benefits managers.
+8 The current term of "independent pharmacy,"
+9 referring to a pharmacy classified by the Alabama State
+10 Board of Pharmacy as a community pharmacy, would be
+11 deleted. In its place, a new term, "unaffiliated
+12 pharmacy," would be introduced to refer to a pharmacy
+13 that is not affiliated with a pharmacy benefits
+14 manager.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to pharmacies; to amend Section 2 of Act
+22 2025-136, 2025 Regular Session, now appearing as Sections
+23 27-45A-3 and 27-45A-10, Code of Alabama 1975, and Section 3 of
+24 Act 2025-136, 2025 Regular Session, now appearing as
+25 27-45A-13, Code of Alabama 1975, to delete the definition of
+26 an "independent pharmacy" and add a definition for
+27 "unaffiliated pharmacy"; and to make conforming changes.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+SB345 INTRODUCED
+29 Section 1. Section 2 of Act 2025-136, 2025 Regular
+30 Session, now appearing as Sections 27-45A-3 and 27-45A-10,
+31 Code of Alabama 1975, and Section 3 of Act 2025-136, 2025
+32 Regular Session, now appearing as 27-45A-13, Code of Alabama
+33 1975, are amended to read as follows:
+34 "§27-45A-3
+35 For purposes of this chapter, the following words have
+36 the following meanings:
+37 (1) AFFILIATE or PBM AFFILIATE. An entity, including,
+38 but not limited to, a pharmacy, health insurer, or group
+39 purchasing organization that directly or indirectly, through
+40 one or more intermediaries, has one of the following
+41 affiliations:
+42 a. Owns, controls, or has an investment interest in a
+43 pharmacy benefits manager.
+44 b. Is owned, controlled by, or has an investment
+45 interest holder who is a pharmacy benefits manager.
+46 c. Is under common ownership or corporate control with
+47 a pharmacy benefits manager.
+48 (2) CLAIMS PROCESSING SERVICES. The administrative
+49 services performed in connection with the processing and
+50 adjudicating of claims relating to pharmacist services that
+51 include any of the following:
+52 a. Receiving payments for pharmacist services.
+53 b. Making payments to pharmacists or pharmacies for
+54 pharmacist services.
+55 c. Both paragraphs a. and b.
+56 (3) COVERED INDIVIDUAL. A member, policyholder,
+Page 2
+
+(3) COVERED INDIVIDUAL. A member, policyholder,
+SB345 INTRODUCED
+57 subscriber, enrollee, beneficiary, dependent, or other
+58 individual participating in a health benefit plan.
+59 (4) HEALTH BENEFIT PLAN. A policy, contract,
+60 certificate, or agreement entered into, offered, or issued by
+61 a health insurer to provide, deliver, arrange for, pay for, or
+62 reimburse any of the costs of physical, mental, or behavioral
+63 health care services, including pharmaceutical services.
+64 (5) HEALTH INSURER. An entity subject to the insurance
+65 laws of this state and rules of the department, or subject to
+66 the jurisdiction of the department, that contracts or offers
+67 to contract to provide, deliver, arrange for, pay for, or
+68 reimburse any of the costs of health care services, including,
+69 but not limited to, a sickness and accident insurance company,
+70 a health maintenance organization operating pursuant to
+71 Chapter 21A, a nonprofit hospital or health service
+72 corporation, a health care service plan organized pursuant to
+73 Article 6, Chapter 20 of Title 10A, or any other entity
+74 providing a plan of health insurance, health benefits, or
+75 health services, including a nonprofit agricultural
+76 organization that provides a plan for health care services to
+77 its members.
+78 (6) INDEPENDENT PHARMACY. A pharmacy as defined in
+79 Section 34-23-1 located in the state which holds an active
+80 permit from the Alabama State Board of Pharmacy and is
+81 classified by the Alabama State Board of Pharmacy as a
+82 community pharmacy.
+83 (7) IN-NETWORK or NETWORK. A network of pharmacists or
+84 pharmacies that are paid for pharmacist services pursuant to
+Page 3
+
+pharmacies that are paid for pharmacist services pursuant to
+SB345 INTRODUCED
+85 an agreement with a health benefit plan or a pharmacy benefits
+86 manager.
+87 (8)(7) MEDICAID REIMBURSEMENT RATE. The total payment
+88 amount for an outpatient drug dispensed by a pharmacy as set
+89 by rule adopted by the Alabama Medicaid Agency which is in
+90 effect on April 15, 2025.
+91 (9)(8) OTHER PRESCRIPTION DRUG OR DEVICE SERVICES.
+92 Services, other than claims processing services, provided
+93 directly or indirectly, whether in connection with or separate
+94 from claims processing services, including, but not limited
+95 to, any of the following:
+96 a. Negotiating rebates with drug companies.
+97 b. Disbursing or distributing rebates.
+98 c. Managing or participating in incentive programs or
+99 arrangements for pharmacist services.
+100 d. Negotiating or entering into contractual
+101 arrangements with pharmacists or pharmacies, or both.
+102 e. Developing formularies.
+103 f. Designing prescription benefit programs.
+104 g. Advertising or promoting services.
+105 (10)(9) PHARMACIST. As defined in Section 34-23-1.
+106 (11)(10) PHARMACIST SERVICES. Products, goods, and
+107 services, or any combination of products, goods, and services,
+108 provided as a part of the practice of pharmacy.
+109 (12)(11) PHARMACY. As defined in Section 34-23-1.
+110 (13)(12) PHARMACY BENEFITS MANAGER. a. A person,
+111 including a wholly or partially owned or controlled subsidiary
+112 of a pharmacy benefits manager, that provides claims
+Page 4
+
+of a pharmacy benefits manager, that provides claims
+SB345 INTRODUCED
+113 processing services or other prescription drug or device
+114 services, or both, to covered individuals who are employed in
+115 or are residents of this state, for health benefit plans. The
+116 term includes any person that administers a prescription
+117 discount program directly for or on behalf of a pharmacy
+118 benefits manager or health benefit plan for drugs to covered
+119 individuals which are not reimbursed by a pharmacy benefits
+120 manager or are not covered by a health benefit plan.
+121 b. Pharmacy benefits manager does not include any of
+122 the following:
+123 1. A health care facility licensed in this state.
+124 2. A health care professional licensed in this state.
+125 3. A consultant who only provides advice as to the
+126 selection or performance of a pharmacy benefits manager.
+127 (14)(13) PRESCRIPTION DRUGS. Includes, but is not
+128 limited to, certain infusion, compounded, and long-term care
+129 prescription drugs. The term does not include specialty drugs.
+130 (15)(14) REBATE. Any payments or price concessions that
+131 accrue to a pharmacy benefits manager or its health benefit
+132 plan client, directly or indirectly, including through its PBM
+133 affiliate or its subsidiary, third party, or intermediary,
+134 including an off-shore purchasing organization, from a
+135 pharmaceutical manufacturer or its affiliate, subsidiary,
+136 third party, or intermediary. The term includes, but is not
+137 limited to, payments, discounts, administration fees, credits,
+138 incentives, or penalties associated, directly or indirectly,
+139 in any way with claims administered on behalf of a health
+140 benefit plan.
+Page 5
+
+benefit plan.
+SB345 INTRODUCED
+141 (16)(15) SPECIALTY DRUGS. Prescription medications that
+142 require special handling, administration, or monitoring and
+143 are used for the treatment of patients with serious health
+144 conditions requiring complex therapies, and that are eligible
+145 for specialty tier placement by the Centers for Medicare and
+146 Medicaid Services pursuant to 42 C.F.R. § 423.560.
+147 (17)(16) SPREAD PRICING. A prescription drug pricing
+148 model used by a pharmacy benefits manager in which the
+149 pharmacy benefits manager charges a health benefit plan a
+150 contracted price for a prescription drug which is higher than
+151 the amount the pharmacy benefits manager pays the pharmacy for
+152 the prescription drug.
+153 (18)(17) STEERING. The term includes all of the
+154 following practices by a pharmacy benefits manager:
+155 a. Directing, ordering, or requiring a covered
+156 individual to use a specific pharmacy, including a PBM
+157 affiliate pharmacy, for the purpose of filling a prescription
+158 or receiving pharmacist services.
+159 b. Inducing a covered individual to use a designated
+160 pharmacy, including a PBM affiliate pharmacy, by increasing
+161 costs to the health benefit plan or charging the covered
+162 individual up to the full cost for a prescription drug if the
+163 covered individual fails to use the pharmacy designated by the
+164 pharmacy benefits manager.
+165 c. Advertising, marketing, or promoting a pharmacy,
+166 including a PBM affiliate pharmacy, over another in-network
+167 pharmacy.
+168 d. Engaging in any practice that results in excluding,
+Page 6
+
+d. Engaging in any practice that results in excluding,
+SB345 INTRODUCED
+169 restricting, or inhibiting an in-network pharmacy from
+170 providing prescription drugs to beneficiaries under a health
+171 benefit plan, which may involve, but not be limited to, the
+172 use of credentialing or accreditation standards, day supply
+173 limitations, or delivery method limitations.
+174 e. Engaging in any practice aimed at directly or
+175 indirectly influencing a pharmaceutical manufacturer to limit
+176 its distribution of a prescription drug to certain pharmacies
+177 or to restrict distribution of the drug to non-PBM affiliate
+178 pharmacies.
+179 (18) UNAFFILIATED PHARMACY. A pharmacy that is not a
+180 PBM affiliate."
+181 "§27-45A-10
+182 With respect to a pharmacist or pharmacy, a pharmacy
+183 benefits manager, directly or through an affiliate or a
+184 contracted third party, may not do any of the following:
+185 (1) Reimburse an in-network pharmacy or pharmacist in
+186 the state an amount less than the amount that the pharmacy
+187 benefits manager reimburses a similarly situated PBM affiliate
+188 for providing the same pharmacist services to covered
+189 individuals in the same health benefit plan.
+190 (2) Practice spread pricing in this state unless
+191 required under the health benefit plan. If spread pricing is
+192 practiced pursuant to the health benefit plan, the pharmacy
+193 benefits manager shall submit an annual report to the
+194 commissioner which discloses the differences between the
+195 amount the health benefit plan is charged and the amount
+196 network pharmacies are reimbursed.
+Page 7
+
+network pharmacies are reimbursed.
+SB345 INTRODUCED
+197 (3) Deny a pharmacy or pharmacist the right to
+198 participate as a network provider if the pharmacy or
+199 pharmacist meets and agrees to the terms and conditions,
+200 including reimbursements, in the pharmacy benefits manager's
+201 contract, including an independentunaffiliated pharmacy that
+202 qualifies for reimbursement at the minimum rate established in
+203 Section 27-45A-13(a)(1), notwithstanding any term to the
+204 contrary in the pharmacy benefits manager's contract.
+205 (4) Impose credentialing standards on a pharmacist or
+206 pharmacy beyond or more onerous than the licensing standards
+207 set by the Alabama State Board of Pharmacy or charge a
+208 pharmacy or pharmacist any fee in regard to, without
+209 limitation, network enrollment, network participation,
+210 credentialing or recredentialing, change of ownership,
+211 submission of claims, transmission of claims, adjudication of
+212 claims, claims processed through discount card programs, or
+213 otherwise, if not in conjunction with an audit conducted
+214 pursuant to Article 8, Chapter 23, Title 34;, provided,
+215 however, this subdivision shall not prohibit a pharmacy
+216 benefits manager from setting minimum requirements for
+217 participating in a pharmacy network.
+218 (5) Prohibit a pharmacist or pharmacy from providing a
+219 covered individual with any relevant information about a
+220 prescription drug, including the following:
+221 a. The cost and reimbursement amount of the drug.
+222 b. An alternative drug.
+223 c. Any other information considered to be necessary in
+224 the professional judgment of the pharmacist.
+Page 8
+
+the professional judgment of the pharmacist.
+SB345 INTRODUCED
+225 (6) Prohibit a pharmacist or pharmacy from offering and
+226 providing delivery services to a covered individual as an
+227 ancillary service of the pharmacy, provided all of the
+228 following requirements are met:
+229 a. The pharmacist or pharmacy can demonstrate quality,
+230 stability, and safety standards during delivery.
+231 b. The pharmacist or pharmacy does not charge any
+232 delivery or service fee to a pharmacy benefits manager or
+233 health insurer.
+234 c. The pharmacist or pharmacy alerts the covered
+235 individual that he or she will be responsible for any delivery
+236 service fee associated with the delivery service, and that the
+237 pharmacy benefits manager or health insurer will not reimburse
+238 the delivery service fee.
+239 (7) Charge or hold a pharmacist or pharmacy responsible
+240 for a fee or penalty relating to an audit conducted pursuant
+241 to Article 8, Chapter 23, Title 34, provided this prohibition
+242 does not restrict recoupments made in accordance with the
+243 Pharmacy Audit Integrity Act.
+244 (8) Charge a pharmacist or pharmacy a point-of-sale or
+245 retroactive fee or otherwise recoup funds from a pharmacy in
+246 connection with claims for which the pharmacy has already been
+247 paid, unless the recoupment is made pursuant to an audit
+248 conducted in accordance with Article 8, Chapter 23, Title 34.
+249 (9) Except for a drug reimbursed, directly or
+250 indirectly, by the Medicaid program, vary the amount a
+251 pharmacy benefits manager reimburses an entity for a drug,
+252 including each and every prescription medication that is
+Page 9
+
+including each and every prescription medication that is
+SB345 INTRODUCED
+253 eligible for specialty tier placement by the Centers for
+254 Medicare and Medicaid Services pursuant to 42 C.F.R. §
+255 423.560, regardless of any provision of law to the contrary,
+256 on the basis of whether:
+257 a. The drug is subject to an agreement under 42 U.S.C.
+258 § 256b; or
+259 b. The entity participates in the program set forth in
+260 42 U.S.C. § 256b.
+261 (10) If an entity participates, directly or indirectly,
+262 in the program set forth in 42 U.S.C. § 256b, do any of the
+263 following:
+264 a. Assess a fee, charge-back, or other adjustment on
+265 the entity.
+266 b. Restrict access to the pharmacy benefits manager's
+267 pharmacy network.
+268 c. Require the entity to enter into a contract with a
+269 specific pharmacy to participate in the pharmacy benefits
+270 manager's pharmacy network.
+271 d. Create a restriction or an additional charge on a
+272 patient who chooses to receive drugs from the entity.
+273 e. Create any additional requirements or restrictions
+274 on the entity.
+275 (11) Require a claim for a drug to include a modifier
+276 to indicate that the drug is subject to an agreement under 42
+277 U.S.C. § 256b.
+278 (12) Penalize or retaliate against a pharmacist or
+279 pharmacy for exercising rights under this chapter or Article
+280 8, Chapter 23, Title 34. For purposes of this subdivision, the
+Page 10
+
+8, Chapter 23, Title 34. For purposes of this subdivision, the
+SB345 INTRODUCED
+281 conduct prohibited includes any written or verbal
+282 communication that a reasonable individual would construe as a
+283 threat of penalty or retaliation received before or in the
+284 course of exercising rights under this chapter or Article 8,
+285 Chapter 23, Title 34.
+286 (13) Prohibit a pharmacist or pharmacy from declining
+287 to dispense a drug to a covered individual, or directing a
+288 covered individual to another pharmacy, if the reimbursement
+289 amount would be lower than the dispensing cost of the
+290 pharmacist or pharmacy.
+291 (14) Take retaliatory action against, or impose any
+292 penalty on, a pharmacist or pharmacy who declines to dispense
+293 a drug to a covered individual under subdivision (13),
+294 including cancellation or nonrenewal of a contract, or suit
+295 for breach of contract."
+296 "§27-45A-13
+297 (a) Notwithstanding any other provision of this chapter
+298 or any form of a contract to the contrary, with respect to an
+299 independentunaffiliated pharmacy, a pharmacy benefits manager,
+300 directly or through an affiliate or a contracted third party,
+301 may not do any of the following:
+302 (1) Reimburse for dispensing a prescription drug in an
+303 amount that is less than the Medicaid reimbursement rate.
+304 (2) Impose a fee or otherwise adjust or lower the
+305 reimbursement of a drug at the time the claim is adjudicated,
+306 or after the claim is adjudicated, that in any way reduces the
+307 amount of reimbursement for the drug as regulated pursuant to
+308 subdivision (1).
+Page 11
+
+subdivision (1).
+SB345 INTRODUCED
+309 (3) Increase a covered individual's cost-sharing
+310 percentage or ratio at or after the point of sale by raising
+311 the deductible, copayment, or coinsurance, or by requiring any
+312 other out-of-pocket payment as a means to recoup the
+313 dispensing cost portion of the reimbursement required pursuant
+314 to subdivision (1).
+315 (4) Reject payment of a claim for a drug that is
+316 submitted by an independentunaffiliated pharmacy when the drug
+317 is available to a covered individual at a different in-network
+318 pharmacy; provided, however, if the drug is dispensed by the
+319 different in-network pharmacy, the pharmacy benefits manager
+320 shall pay the independentunaffiliated pharmacy a surcharge
+321 equal to the reimbursement that would have been paid pursuant
+322 to subdivision (1) had the independentunaffiliated pharmacy
+323 dispensed the drug.
+324 (b) A health benefit plan that covers individuals who
+325 are public employees and that reimburses
+326 independentunaffiliated pharmacies for dispensing prescription
+327 drugs during its plan year in an aggregate amount that is
+328 higher than would otherwise be calculated using the rate set
+329 in subdivision (a)(1), upon proof of the same submitted to the
+330 commissioner, shall be exempt from this section.
+331 Section 2. This act shall become effective on June 1,
+332 2026.
+Page 12

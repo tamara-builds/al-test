@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB560 INTRODUCED
+1 HB560
+2 KH7S8A5-1
+3 By Representative Lawrence
+4 RFD: Transportation, Utilities and Infrastructure
+5 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+KH7S8A5-1 02/04/2026 CMH (L)bm 2026-699
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Department of
+6 Transportation may issue a permit to authorize an
+7 applicant to operate a vehicle whose weight, width,
+8 length, or height, or combination thereof, exceeds the
+9 statutory maximum limits.
+10 This bill would provide that if an oversized
+11 vehicle is otherwise required to be permitted due to
+12 its weight, width, length, or height, the vehicle may
+13 not be operated by an automated driving system.
+14 This bill would also provide that the statutory
+15 authorization for the operation of ADS-equipped
+16 vehicles does not impose any legal duty to upgrade any
+17 part of the state or local transportation network to
+18 accommodate such ADS-equipped vehicles.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to motor vehicles; to add Section 32-9C-12 to
+26 the Code of Alabama 1975, to provide restrictions on the use
+27 of oversized or overweight vehicles operated by automated
+28 driving systems; and to amend Section 32-9C-6, Code of Alabama
+Page 1
+
+driving systems; and to amend Section 32-9C-6, Code of Alabama
+HB560 INTRODUCED
+29 1975, to further provide for the relation of ADS-equipped
+30 vehicles to other laws and requirements.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Section 32-9C-12 is added to Chapter 9C of
+33 Title 32, Code of Alabama 1975, to read as follows:
+34 §32-9C-12
+35 Notwithstanding any provision of this chapter to the
+36 contrary, the use of ADS-equipped vehicles and automated
+37 driving systems is prohibited if the operation of the vehicle
+38 otherwise requires a permit pursuant to Article 2 of Chapter
+39 9, relating to the movement of oversized vehicles or loads.
+40 Section 2. Section 32-9C-6, Code of Alabama 1975, is
+41 amended to read as follows:
+42 "§32-9C-6
+43 (a) Except as otherwise provided in this chapter or in
+44 Chapter 9B and notwithstanding any other provision of law, the
+45 operation of ADS-equipped vehicles and automated driving
+46 systems is governed exclusively by this chapter.
+47 (b) No state or local entity may impose requirements,
+48 including performance standards, specific to the operation of
+49 ADS-equipped vehicles, automated driving systems, or automated
+50 commercial motor vehicles as defined in Section 32-9B-1,
+51 except as specifically authorized by this chapter. Nothing in
+52 this section shall be construed to repeal or in any way modify
+53 Section 32-9-29.
+54 (c) No municipality or other local or state entity may
+55 impose a tax on, or impose requirements on ADS-equipped
+56 vehicles or automated driving systems, where the tax or other
+Page 2
+
+vehicles or automated driving systems, where the tax or other
+HB560 INTRODUCED
+57 requirement relates specifically to the operation of
+58 ADS-equipped vehicles.
+59 (d) Nothing in this chapter creates a legal duty or
+60 otherwise requires the state or any county or municipality to
+61 upgrade any part of its transportation network to accommodate
+62 the operation of ADS-equipped vehicles or automated driving
+63 systems."
+64 Section 3. This act shall become effective on October
+65 1, 2026.
+Page 3

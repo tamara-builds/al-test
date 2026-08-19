@@ -1,0 +1,714 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 825
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to insurance, to amend Sections 27-31B-3,
+10 27-31B-6, 27-31B-8, 27-31B-9, and 27-31B-16, Code of Alabama
+11 1975; to impose additional requirements on captive insurers;
+12 to require notice of any subsequent material change in any of
+13 the items required to be submitted; to increase the minimum
+14 paid in capital certain captive insurers are required to
+15 maintain; to require the commissioner to take into
+16 consideration the competence of the captive manager and legal
+17 counsel of the captive insurer and to consider the company’s
+18 business plan when determining whether the company will
+19 promote the general good of the state; and to require licensed
+20 captive insurers to annually file an audited financial
+21 statement and an actuarial certification of loss reserves and
+22 loss expense reserves.
+23 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+24 Section 1. Sections 27-31B-3, 27-31B-6, 27-31B-8, and
+25 27-31B-9, Code of Alabama 1975, are amended as follows:
+26 "§27-31B-3
+27 (a) Any captive insurance company, when permitted by
+28 its articles of association, charter, or other organizational
+Page 1
+
+its articles of association, charter, or other organizational
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+29 document, may apply to the commissioner for a license to do
+30 any and all insurance defined in Sections 27-5-2, 27-5-4, and
+31 27-5-5, in subdivisions (1), (2), (4), (5), (6), (7), (8),
+32 (9), (10), (11), (12), (13), and (14) of subsection (a) of
+33 Section 27-5-6, in Sections 27-5-7, 27-5-8, 27-5-9, and
+34 27-5-10, and to grant annuity contracts as defined in Section
+35 27-5-3, subject, however, to all of the following:
+36 (1) No pure captive insurance company may insure any
+37 risks other than those of its parent and affiliated companies
+38 or controlled unaffiliated business.
+39 (2) No agency captive insurance company may insure
+40 risks other than those affiliated with the controlling
+41 insurance producer.
+42 (3) No association captive insurance company may insure
+43 any risks other than those of the member organizations of its
+44 association, and their affiliated companies.
+45 (4) No industrial insured captive insurance company may
+46 insure any risks other than those of the industrial insureds
+47 that comprise the industrial insured group, and their
+48 affiliated companies.
+49 (5) No risk retention group may insure any risks other
+50 than those of its members and owners.
+51 (6) No captive insurance company may provide personal
+52 motor vehicle coverage or any component thereof. Homeowner's
+53 insurance coverage may be written by an Alabama Coastal
+54 Captive Insurance Company as defined in Chapter 31C, but only
+55 in the gulf front, beach, and seacoast areas as designated by
+56 the Insurance Services Office, Inc.
+Page 2
+
+the Insurance Services Office, Inc.
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+57 (7) No captive insurance company may accept or cede
+58 reinsurance except as provided in Section 27-31B-13.
+59 (8) Any captive insurance company may provide excess
+60 workers' compensation insurance to its parent and affiliated
+61 companies and member organizations unless prohibited by the
+62 laws of the state having jurisdiction over the transaction.
+63 Any captive insurance company may reinsure workers'
+64 compensation.
+65 (9) Any captive insurance company which insures risks
+66 described in Sections 27-5-2 and 27-5-4 shall comply with all
+67 applicable state and federal laws.
+68 (10) Insurance may be placed on risks in alien and
+69 foreign jurisdictions if the underlying business in the
+70 jurisdiction is legal in the jurisdiction, subject to
+71 commissioner approval.
+72 (11) No protected cell captive insurance company may
+73 insure any risks other than those of its participants.
+74 (b) To conduct insurance business in this state, a
+75 captive insurance company shall comply with all of the
+76 following:
+77 (1) It must obtain from the commissioner a license
+78 authorizing it to do insurance business in this state.
+79 (2) Its board of directors or managers, or in the case
+80 of a reciprocal insurer, its subscribers' advisory committee,
+81 must hold at least one meeting each year in this state.
+82 (3) It must maintain its principal place of business in
+83 this state, or in the case of a branch captive insurance
+84 company, maintain a place of business for its branch
+Page 3
+
+company, maintain a place of business for its branch
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+85 operations in this state.
+86 (4) It must appoint a registered agent to accept
+87 service of process and to otherwise act on its behalf in this
+88 state; subject further to the following:
+89 a. If formed as a corporation or other legal entity,
+90 whenever the registered agent cannot with reasonable diligence
+91 be found at the registered office of the captive insurance
+92 company, the Secretary of State shall be an agent of the
+93 captive insurance company upon whom any process, notice, or
+94 demand may be served.
+95 b. If formed as a reciprocal insurer, whenever the
+96 registered agent cannot with reasonable diligence be found at
+97 the registered office of the captive insurance company, the
+98 commissioner shall be an agent of the captive insurance
+99 company upon whom any process, notice, or demand may be
+100 served.
+101 (5) It must make adequate arrangements with a bank
+102 chartered by the State of Alabama or a member bank of the
+103 Federal Reserve System and approved by the commissioner.
+104 (6)a. It must employ or enter into a contract with a
+105 natural person or business organization to manage the affairs
+106 of the captive insurer that meets the standards of competence
+107 and experience satisfactory to the commissioner.
+108 b. The captive insurer shall promptly notify the
+109 commissioner of any failure of the captive insurer to comply
+110 with this chapter.
+111 c. The commissioner may require a captive insurer to
+112 discharge a captive manager for failure to substantively
+Page 4
+
+discharge a captive manager for failure to substantively
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+113 fulfill the captive manager's duties under this chapter.
+114 d. The captive manager, if a natural person, or the
+115 officers and directors of the captive manager, if a business
+116 organization, shall not serve as the president of a captive
+117 insurer, except in the case where a captive insurer has
+118 contracted with its parent or its affiliated companies or a
+119 controlled unaffiliated business for captive management
+120 services.
+121 (7) It must employ or enter into a contract with a
+122 qualified and experienced independent certified public
+123 accountant that is approved by the commissioner.
+124 (8) It must employ or enter into a contract with a
+125 qualified and experienced actuary who is approved by the
+126 commissioner.
+127 (9) It must submit biographical background information,
+128 on a form prescribed by the commissioner, for each director
+129 and officer of the captive insurer and for each person who
+130 controls, directly or indirectly, 10 percent or more of the
+131 captive insurer.
+132 (10) It must submit a plan of operation that clearly
+133 indicates the method of operation of the captive insurer
+134 including all of the following items:
+135 a. The types and limits of insurance that will be
+136 provided.
+137 b. Pro forma financial statements for a period covering
+138 three years, which shall include a balance sheet, income
+139 statement, and cash flow statement.
+140 c. A description of the captive insurer's reinsurance
+Page 5
+
+c. A description of the captive insurer's reinsurance
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+141 program.
+142 d. A description of the captive insurer's underwriting
+143 policy, including who will perform those functions.
+144 e. A description of the captive insurer's claims
+145 handling procedures, including who will perform those
+146 functions.
+147 f. A description of the captive insurer's investment
+148 policy.
+149 g. A description of the captive insurer's rate making
+150 policies and procedures.
+151 (11) It must submit a feasibility study, or other
+152 analysis, prepared by a qualified actuary.
+153 (12) It must submit a statement disclosing the identity
+154 and percentage of ownership of the captive insurer for all
+155 persons who control, directly or indirectly, 10 percent or
+156 more of the captive insurer.
+157 (13) It must submit evidence of its beneficial
+158 ownership, sponsorship, or membership.
+159 (14) It must submit any other factors or information
+160 deemed relevant by the commissioner in ascertaining whether
+161 the proposed captive insurance company will be able to meet
+162 its policy obligations.
+163 (c) If there is a subsequent material change in any
+164 item or information submitted pursuant to subsection (b)
+165 including, but not limited to, the plan of operation, the
+166 captive insurer shall submit an appropriate revision for
+167 approval by the commissioner. The captive insurer may not
+168 offer any additional kinds of insurance until a revision of
+Page 6
+
+offer any additional kinds of insurance until a revision of
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+169 the description is approved by the commissioner.
+170 (c)(d)(1) Before receiving a license, a captive
+171 insurance company shall comply with one of the following:
+172 a. If formed as a corporation or other legal entity, it
+173 shall file with the commissioner a certified copy of its
+174 organizational documents and bylaws, a statement under oath of
+175 its president and secretary or other authorized official
+176 showing its financial condition, and any other statements or
+177 documents required by the commissioner.
+178 b. If formed as a reciprocal insurer, it shall comply
+179 with both of the following:
+180 1. File with the commissioner a certified copy of the
+181 power of attorney of its attorney-in-fact, a certified copy of
+182 its subscribers' agreement, a statement under oath of its
+183 attorney-in-fact showing its financial condition, and any
+184 other statements or documents required by the commissioner.
+185 2. Submit to the commissioner for approval a
+186 description of the coverages, deductibles, coverage limits,
+187 and rates, together with any additional information as the
+188 commissioner may reasonably require. In the event of any
+189 subsequent material change in any item in the description, the
+190 reciprocal captive insurance company shall submit to the
+191 commissioner for approval an appropriate revision and shall
+192 not offer any additional kinds of insurance until a revision
+193 of the description is approved by the commissioner. The
+194 reciprocal captive insurance company shall inform the
+195 commissioner of any material change in rates within 30 days of
+196 the adoption of the change.
+Page 7
+
+the adoption of the change.
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+197 (2) In addition to the information required by
+198 subdivision (1), each applicant captive insurance company
+199 shall file with the commissioner evidence of all of the
+200 following:
+201 a. The amount and liquidity of its assets relative to
+202 the risks to be assumed.
+203 b. The adequacy of the expertise, experience, and
+204 character of the person or persons who will manage it.
+205 c. The overall soundness of its plan of operation.
+206 d. The adequacy of the loss prevention programs of its
+207 parent, member organizations, industrial insureds, or other
+208 insureds as applicable.
+209 e. Any other factors deemed relevant by the
+210 commissioner in ascertaining whether the proposed captive
+211 insurance company will be able to meet its policy obligations.
+212 (3) In addition to the information required by
+213 subdivisions (1) and (2), each applicant protected cell
+214 captive insurance company shall file with the commissioner all
+215 of the following:
+216 a. A business plan demonstrating how the applicant will
+217 account for the loss and expense experience of each protected
+218 cell at a level of detail found to be sufficient by the
+219 commissioner and how it will report the experience to the
+220 commissioner.
+221 b. A statement acknowledging that all financial records
+222 of the protected cell captive insurance company, including
+223 records pertaining to any protected cells, shall be made
+224 available for inspection or examination by the commissioner or
+Page 8
+
+available for inspection or examination by the commissioner or
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+225 the commissioner's designated agent.
+226 c. All contracts or sample contracts between the
+227 protected cell captive insurance company and any participants.
+228 d. Evidence that expenses shall be allocated to each
+229 protected cell in a fair and equitable manner.
+230 (4) Information submitted pursuant to this subsection
+231 shall be and remain confidential, and may not be made public
+232 by the commissioner or by an employee or agent of the
+233 commissioner without the written consent of the company,
+234 except as provided in the following:
+235 a. The information may be discoverable by a party in a
+236 civil action or contested case to which the captive insurance
+237 company that submitted the information is a party, upon a
+238 showing by the party seeking to discover the information that:
+239 (i) the information sought is relevant to and necessary for
+240 the furtherance of the action or case,; (ii) the information
+241 sought is unavailable from other nonconfidential sources,; and
+242 (iii) a subpoena issued by a judicial or administrative
+243 officer of competent jurisdiction has been submitted to the
+244 commissioner. Notwithstanding the foregoing, this subdivision
+245 shall not apply to any industrial insured captive insurance
+246 company insuring the risks of an industrial insured group as
+247 defined in paragraph b. of subdivision (19) of Section
+248 27-31B-2(19)b. or to a captive risk retention group.
+249 b. The commissioner may disclose the information to a
+250 public officer having jurisdiction over the regulation of
+251 insurance in another state, provided that: (i) the public
+252 official shall agree agrees in writing to maintain the
+Page 9
+
+official shall agree agrees in writing to maintain the
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+253 confidentiality of the information,; and (ii) the laws of the
+254 state in which the public official serves require the
+255 information to be and to remain confidential.
+256 (d)(e) Each captive insurance company shall pay to the
+257 commissioner a nonrefundable fee as set forth in Section
+258 27-31B-4 for examining, investigating, and processing its
+259 application for license, and the commissioner is authorized to
+260 may retain legal, financial, and examination services from
+261 outside the department, the reasonable cost of which may be
+262 charged against the applicant in accordance with Section
+263 27-2-25. In addition, each captive insurance company shall pay
+264 a license fee for the year of registration and a renewal fee
+265 for each year thereafter as set forth in Section 27-31B-4.
+266 (e)(f) If the commissioner is satisfied that the
+267 documents and statements filed by a captive insurance company
+268 comply with this chapter, the commissioner may grant a license
+269 authorizing the company to do conduct insurance business in
+270 this state until April 1 thereafter, which license may be
+271 renewed.
+272 (f)(g)(1) Notwithstanding any other provision of this
+273 chapter, the commissioner may issue a provisional license to
+274 any applicant captive insurance company for a period not to
+275 exceed 60 days if the commissioner deems that the public
+276 interest will be served by the issuance of the provisional
+277 license.
+278 (2) As a condition precedent to the issuance of a
+279 provisional license under this subsection, the applicant shall
+280 have filed a complete application containing all information
+Page 10
+
+have filed a complete application containing all information
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+281 required by this section, paid all fees required for
+282 licensure, and the commissioner shall have made a preliminary
+283 finding that the expertise, experience, and character of the
+284 person or persons who will control and manage the captive
+285 insurer are acceptable.
+286 (3) The commissioner, by order, may limit the authority
+287 of any provisional licensee in any way deemed necessary to
+288 protect insureds and the public. The commissioner, by order,
+289 may revoke a provisional license if the interests of insureds
+290 or the public are endangered. If the applicant fails to
+291 complete the regular licensure application process within the
+292 60-day provisional period, the provisional license shall
+293 terminate automatically at the end of the 60-day period, and
+294 any policy issued during the provisional period shall be
+295 cancelled as of the termination date and any premium unearned
+296 shall be refunded to the policyholder within 10 days."
+297 "§27-31B-6
+298 (a) No captive insurance company shall be issued a
+299 license unless it shall possess the captive insurance company
+300 possesses and thereafter maintain maintains unimpaired paid-in
+301 capital and surplus as follows:
+302 (1) In the case of a pure captive insurance company,
+303 not less than one hundred thousand dollars ($100,000) two
+304 hundred fifty thousand dollars ($250,000) or another amount
+305 determined by the commissioner and actuarially supported by a
+306 feasibility study.
+307 (2) In the case of an agency captive insurance company,
+308 not less than five hundred thousand dollars ($500,000) or
+Page 11
+
+not less than five hundred thousand dollars ($500,000) or
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+309 another amount determined by the commissioner and actuarially
+310 supported by a feasibility study.
+311 (3) In the case of an association captive insurance
+312 company or risk retention group, not less than five hundred
+313 thousand dollars ($500,000) or another amount determined by
+314 the commissioner and actuarially supported by a feasibility
+315 study.
+316 (4) In the case of an industrial insured captive
+317 insurance company, not less than five hundred thousand dollars
+318 ($500,000).
+319 (5) In the case of a reinsurance captive insurance
+320 company, not less than ten thousand dollars ($10,000) or
+321 another amount determined by the commissioner and actuarially
+322 supported by a feasibility study one million dollars
+323 ($1,000,000).
+324 (6) In the case of a protected cell captive insurance
+325 company, not less than one hundred thousand dollars ($100,000)
+326 two hundred fifty thousand dollars ($250,000) or another
+327 amount determined by the commissioner and actuarially
+328 supported by a feasibility study.
+329 (7) In the case of a branch captive insurance company,
+330 not less than two hundred fifty thousand dollars ($250,000).
+331 (8) In the case of a risk retention group, not less
+332 than one million dollars ($1,000,000) or another amount
+333 determined by the commissioner and actuarially supported by a
+334 feasibility study.
+335 (b) Notwithstanding the requirements of subsection (a),
+336 no captive insurance company organized as a reciprocal insurer
+Page 12
+
+no captive insurance company organized as a reciprocal insurer
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+337 under this chapter shall be issued a license unless it has the
+338 captive insurance company organized as a reciprocal insurer
+339 possesses and thereafter maintains free surplus of one million
+340 dollars ($1,000,000).
+341 (c) The commissioner may prescribe additional capital
+342 and surplus based upon the type, volume, and nature of
+343 insurance business transacted.
+344 (d) Capital and surplus may be in the form of cash,
+345 cash equivalents, surplus note, securities meeting the
+346 eligibility requirements of Section 27-6-3, or, if approved by
+347 the commissioner, a clean, irrevocable, and unconditional
+348 letter of credit issued by a bank chartered by the State of
+349 Alabama or a member bank of the Federal Reserve System and
+350 approved by the commissioner. No assets of the captive insurer
+351 shall be pledged or encumbered for the payment of the letter
+352 of credit.
+353 (e) In the case of a branch captive insurance company,
+354 as security for the payment of liabilities attributable to the
+355 branch operations, the commissioner may require collateral
+356 equal to the amount of net loss reserves on branch business
+357 plus other insurance liabilities as determined by the
+358 commissioner to be maintained by the branch captive insurance
+359 company in a manner acceptable to the commissioner.
+360 (f) Any captive insurance company formed under this
+361 chapter may be capitalized with a surplus note. Any captive
+362 insurance company issuing a surplus note pursuant to this
+363 section must execute a written agreement with the creditor
+364 providing the following:
+Page 13
+
+providing the following:
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+365 a. The creditor may only be paid out of the portion of
+366 the captive insurance company's surplus that which exceeds the
+367 minimum stated in the agreement.
+368 b. The minimum surplus or floor shall exceed the sum
+369 of: (i) 10 percent of the face amount of the surplus note; and
+370 (ii) the greater of the statutory minimum capital or surplus
+371 required by statute or the approved feasibility study or such
+372 other amount approved by the commissioner.
+373 c. Payments may only be made if the payment does not
+374 affect the financial condition of the company.
+375 d. Any payment of principal or interest requires the
+376 prior approval of the commissioner."
+377 "§27-31B-8
+378 (a) A pure captive insurance company, an agency captive
+379 insurance company, a reinsurance captive insurance company, a
+380 special purpose financial captive insurance company, or a
+381 protected cell captive insurance company shall be formed as a
+382 stock or mutual insurer, or as a nonprofit or limited
+383 liability company with its capital divided into units and held
+384 by the stockholders, members, or other equivalent as allowed
+385 by law.
+386 (b) An association captive insurance company, an
+387 industrial insured captive insurance company, or a risk
+388 retention group may be formed in any of the following ways:
+389 (1) Organized as a stock insurer with its capital
+390 divided into share units and held by the stockholders,
+391 members, or other equivalent as allowed by law.
+392 (2) Organized as a mutual insurer without capital
+Page 14
+
+(2) Organized as a mutual insurer without capital
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+393 stock, the governing body of which is elected by the member
+394 organizations of its association.
+395 (3) Organized as a reciprocal insurer in accordance
+396 with Chapter 31 of this title.
+397 (4) Organized as a manager-managed limited liability
+398 company.
+399 (c) A captive insurance company incorporated or
+400 organized in this state shall have one or more incorporators
+401 or one or more organizers, at least one of which shall be a
+402 resident of this state.
+403 (d)(1) In the case of a captive insurance company
+404 formed as a corporation, before the articles of incorporation
+405 are transmitted to the Secretary of State, the incorporators
+406 shall petition the commissioner to issue a certificate setting
+407 forth the commissioner's finding that the establishment and
+408 maintenance of the proposed corporation will promote the
+409 general good of the state. In arriving at this finding the
+410 commissioner shall consider all of the following:
+411 a. The character, reputation, financial standing, and
+412 purposes of the incorporators.
+413 b. The character, reputation, financial responsibility,
+414 insurance experience, and business qualifications of the
+415 officers and directors.
+416 c. Any other aspects as the commissioner shall deem
+417 advisable.
+418 (2) The articles of incorporation, the certificate, and
+419 the organization fee shall be transmitted to the Secretary of
+420 State, who shall thereupon record both the articles of
+Page 15
+
+State, who shall thereupon record both the articles of
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+421 incorporation and the certificate.
+422 (e) In the case of a captive insurance company formed
+423 as a reciprocal insurer, the organizers shall petition the
+424 commissioner to issue a certificate setting forth the
+425 commissioner's finding that the establishment and maintenance
+426 of the proposed association will promote the general good of
+427 the state. In arriving at this finding the commissioner shall
+428 consider all of the following:
+429 (1) The character, reputation, financial standing, and
+430 purposes of the organizers.
+431 (2) The character, reputation, financial
+432 responsibility, insurance experience, and business
+433 qualifications of the attorney-in-fact.
+434 (3) The competence of any person who, pursuant to a
+435 contract with the captive insurance company, will manage the
+436 affairs of the company.
+437 (4) The competence, reputation, and experience of the
+438 company's legal counsel relating to the regulation of
+439 insurance.
+440 (5) The company's business plan.
+441 (3)(6) Any other aspects as the commissioner shall deem
+442 advisable.
+443 (f) In the case of a captive insurance company licensed
+444 as a branch captive insurance company, the alien captive
+445 insurance company shall petition the commissioner to issue a
+446 certificate setting forth the commissioner's finding that,
+447 after considering the character, reputation, financial
+448 responsibility, insurance experience, and business
+Page 16
+
+responsibility, insurance experience, and business
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+449 qualifications of the officers and directors of the alien
+450 captive insurance company, the competence of any person who,
+451 pursuant to a contract with the captive insurance company,
+452 will manage the affairs of the company, the competence,
+453 reputation, and experience of the company's legal counsel
+454 relating to the regulation of insurance, and the company's
+455 business plan, the licensing and maintenance of the branch
+456 operations will promote the general good of the state. The
+457 alien captive insurance company may register to do business in
+458 this state after the commissioner's certificate is issued.
+459 (g) The capital stock of a captive insurance company
+460 incorporated as a stock insurer may be authorized with no par
+461 value.
+462 (h) In the case of a captive insurance company, at
+463 least one of the members of the board of directors, managing
+464 members, or equivalents as allowed by law, shall be a resident
+465 of this state.
+466 (i) In the case of a captive insurance company formed
+467 as a reciprocal insurer, at least one of the members of the
+468 subscribers' advisory committee shall be a resident of this
+469 state.
+470 (j) Captive insurance companies formed as corporations
+471 under this chapter shall have the privileges and be subject to
+472 the general corporation law as well as the applicable
+473 provisions of this chapter. In the event of conflict between
+474 the general corporation law and this chapter, the latter shall
+475 control. The provisions of this title pertaining to mergers,
+476 consolidations, and conversions shall apply in determining the
+Page 17
+
+consolidations, and conversions shall apply in determining the
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+477 procedures to be followed by captive insurance companies in
+478 carrying out any of the transactions described therein, except
+479 that the commissioner may waive or modify the requirements for
+480 public notice and hearing in accordance with rules which the
+481 commissioner may adopt addressing categories of transactions.
+482 If a notice of public hearing is required, but no one requests
+483 a hearing, then the commissioner may cancel the hearing.
+484 (k)(1) Captive insurance companies formed as reciprocal
+485 insurers under this chapter shall have the privileges and be
+486 subject to Chapter 31 in addition to the applicable provisions
+487 of this chapter. In the event of a conflict between Chapter 31
+488 and this chapter, the latter shall control. To the extent a
+489 reciprocal insurer is made subject to other provisions of this
+490 title pursuant to Chapter 31, the provisions shall not be
+491 applicable to a reciprocal insurer formed under this chapter
+492 unless the provisions are expressly made applicable to captive
+493 insurance companies under this chapter.
+494 (2) In addition to subdivision (1), captive insurance
+495 companies organized as reciprocal insurers that are industrial
+496 insured groups as defined in paragraph b. of subdivision (19)
+497 of Section 27-31B-2(19)b. shall have the privileges and be
+498 subject to the provisions of Chapter 31A in addition to the
+499 applicable provisions of this chapter.
+500 (l) The articles of incorporation, organization, or
+501 equivalent allowed by law, or bylaws of a captive insurance
+502 company may authorize a quorum of a board of directors to
+503 consist of no fewer than one-third of the fixed or prescribed
+504 number of directors determined under Title 10 10A.
+Page 18
+
+number of directors determined under Title 10 10A.
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+505 (m) The subscribers' agreement or other organizing
+506 document of a captive insurance company formed as a reciprocal
+507 insurer may authorize a quorum of a subscribers' advisory
+508 committee to consist of no fewer than one-third of its
+509 members."
+510 "§27-31B-9
+511 (a) Captive insurance companies shall not be required
+512 to make any annual report except as provided in this chapter.
+513 (b) Prior to March 1 of each year, each captive
+514 insurance company shall submit to the commissioner a report of
+515 its financial condition, verified by oath of two of its
+516 executive officers. Except as provided in Section 27-31B-6,
+517 each captive insurance company shall report using statutory
+518 accounting principles, unless the commissioner approves the
+519 use of generally accepted accounting principles, with any
+520 useful or necessary modifications or adaptations thereof
+521 required or approved or accepted by the commissioner for the
+522 type of insurance and kinds of insurers to be reported upon,
+523 and as supplemented by additional information required by the
+524 commissioner. Except as otherwise provided, each association
+525 captive insurance company and each industrial insured captive
+526 insurance company insuring the risks of an industrial insured
+527 group defined in paragraph b. of subdivision (18) of Section
+528 27-31B-2(19)b. shall file its report in the form required by
+529 Section 27-3-26. Each risk retention group shall file its
+530 report in the form required by Section 27-3-26 and shall
+531 comply with all filing requirements set forth in this title as
+532 well as rules and bulletins of the Alabama Department of
+Page 19
+
+well as rules and bulletins of the Alabama Department of
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+533 Insurance applicable to casualty insurers domiciled in the
+534 state. The commissioner shall by rule propose the forms in
+535 which pure captive insurance companies and industrial insured
+536 captive insurance companies insuring the risks of an
+537 industrial insured group defined in paragraph a. of
+538 subdivision (18) of Section 27-31B-2(19)a. shall report.
+539 Subdivision (4) of subsection (c) of Section 27-31B-3(d)(4)
+540 shall apply to each report filed pursuant to this section,
+541 except the subdivision shall not apply to reports filed by
+542 industrial insured captive insurance companies insuring the
+543 risks of industrial insured groups as defined in paragraph b.
+544 of subdivision (18) of Section 27-31B-2(19)b.
+545 (c) Any pure captive insurance company or an industrial
+546 insured captive insurance company insuring the risks of
+547 industrial insured groups as defined in paragraph a. of
+548 subdivision (18) of Section 27-31B-2(19)a. may make written
+549 application for filing the required report on a fiscal
+550 year-end. If an alternative reporting date is granted, the
+551 annual report shall be due 60 days after the end of the fiscal
+552 year and, in order to provide sufficient detail to support the
+553 premium tax return, the pure captive insurance company or
+554 industrial insured captive insurance company insuring the
+555 risks of industrial insureds as defined in paragraph b. of
+556 subdivision (18) of Section 27-31B-2(17) shall file prior to
+557 March 1 of each year for each calendar year-end, pages 1, 2,
+558 3, and 5 of the "Captive Annual Statement; Pure or Industrial
+559 Insured," verified by oath of two of its executive officers.
+560 (d) Sixty days after the fiscal year-end, a branch
+Page 20
+
+(d) Sixty days after the fiscal year-end, a branch
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+561 captive insurance company shall file with the commissioner a
+562 copy of all reports and statements required to be filed under
+563 the laws of the jurisdiction in which the alien captive
+564 insurance company is formed, verified by oath of two of its
+565 executive officers. If the commissioner is satisfied that the
+566 annual report filed by the alien captive insurance company in
+567 its domiciliary jurisdiction provides adequate information
+568 concerning the financial condition of the alien captive
+569 insurance company, the commissioner may waive the requirement
+570 for completion of the captive annual statement for business
+571 written in the alien jurisdiction.
+572 (e) Annually on or before June 30, an audited statement
+573 of the captive insurer's financial condition prepared in
+574 accordance with generally accepted accounting principles in
+575 the United States for the preceding calendar year ending
+576 December 31, which shall include all of the following:
+577 a. The report of an independent certified public
+578 accountant.
+579 b. A balance sheet.
+580 c. An income statement.
+581 d. A statement of cash flows.
+582 e. A statement of changes in capital and surplus.
+583 f. Notes to financial statements.
+584 g. Communication of internal control related matters
+585 noted in an audit.
+586 h. Accountant's letter of qualifications.
+587 (f) An annual actuarial certification of loss reserves
+588 and loss expense reserves which includes an opinion of the
+Page 21
+
+and loss expense reserves which includes an opinion of the
+841PZFF-1 03/04/2026 KMS (H) HSE 2026-380
+House Insurance Reported Substitute for HB415
+589 adequacy of the loss reserves and loss expense reserves of the
+590 captive insurer, in a format acceptable to the commissioner,
+591 shall be filed with the report required in subsection (b). The
+592 person that certifies the reserves shall be approved by the
+593 commissioner and shall be a qualified actuary as defined in
+594 the National Association of Insurance Commissioners Quarterly
+595 and Annual Statement Instructions-Property/Casualty."
+596 Section 2. This act shall become effective June 1,
+597 2026.
+598
+Page 22

@@ -1,0 +1,292 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB173 INTRODUCED
+1 HB173
+2 XDIKS7Z-1
+3 By Representative Robbins
+4 RFD: Children and Senior Advocacy
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+XDIKS7Z-1 01/12/2026 OW (L)cr 2025-2667
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, online services, products,
+6 and features accessible to children are not required to
+7 protect children's safety and may use privacy-invasive
+8 design features on children.
+9 This bill would require covered platform
+10 operators to restrict access to portions of platforms
+11 that recommend, select, or prioritize for display media
+12 items based on information associated with the covered
+13 user or their device, unless it is determined that the
+14 covered user is not a minor or if parental consent is
+15 obtained.
+16 This bill would limit the hours that covered
+17 operators may send notifications to covered minors.
+18 This bill would require covered operators to use
+19 default platform settings that restrict covered minors
+20 from accessing the platform, receiving notifications,
+21 and engaging on the platform during certain time
+22 periods.
+23 This bill would require all covered operators to
+24 establish and maintain a mechanism that permits parents
+25 or legal guardians to require more stringent settings
+26 on covered platforms.
+27 This bill would require covered operators to
+28 annually disclose certain data for the previous
+Page 1
+
+annually disclose certain data for the previous
+HB173 INTRODUCED
+29 calendar year.
+30 This bill would also make a violation of its
+31 provisions a violation of the Deceptive Trade Practices
+32 Act.
+33
+34
+35 A BILL
+36 TO BE ENTITLED
+37 AN ACT
+38
+39 Relating to consumer protection; to require covered
+40 platform operators to restrict access to certain portions of
+41 platforms unless the age of the user is determined or parental
+42 consent is obtained; to limit the hours covered operators may
+43 send notifications to covered minors; to require covered
+44 operators to use default platform settings on all covered
+45 platforms that limit covered minors' access, notifications,
+46 and engagement during certain hours; to require covered
+47 operators to establish and maintain a mechanism permitting
+48 parents and legal guardians to require more stringent settings
+49 on covered platforms; to require covered operators to annually
+50 disclose certain data; and to make a violation of its
+51 provisions a violation of the Alabama Deceptive Trade
+52 Practices Act.
+53 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+54 Section 1. (a) For the purposes of this section, the
+55 following terms have the following meanings:
+56 (1) COVERED MINOR. Any covered user who is younger than
+Page 2
+
+(1) COVERED MINOR. Any covered user who is younger than
+HB173 INTRODUCED
+57 18 years of age.
+58 (2) COVERED OPERATOR. Any operator who operates or
+59 provides a covered platform. This does not include the federal
+60 government or any state or local government or state or local
+61 subdivision thereof.
+62 (3) COVERED PLATFORM. Any platform that, as a
+63 significant part of the services offered, recommends, selects,
+64 or prioritizes for display, either concurrently or
+65 sequentially, media items generated or shared on a platform by
+66 users of the platform. The term does not include any platform
+67 that primarily facilitates the sale of goods or is used by and
+68 under the direction of an educational entity, including a
+69 learning management system or a student engagement program.
+70 (4) COVERED USER. Any user of a covered platform in
+71 this state who is not acting as the covered operator, or as an
+72 agent or affiliate of the covered operator, of the covered
+73 platform.
+74 (5) MEDIA ITEM. Any text, image, or video.
+75 (6) OPERATOR. Any individual, corporation, limited
+76 liability company, partnership, limited partnership, limited
+77 liability partnership, association, joint stock company,
+78 unincorporated organization, or other legal entity that
+79 operates or provides a platform.
+80 (7) PLATFORM. Any Internet website, online service,
+81 online application, mobile application, or social media
+82 platform, or any portion thereof.
+83 (b)(1) No covered operator of a covered platform shall
+84 allow a covered user to access any portion of the covered
+Page 3
+
+allow a covered user to access any portion of the covered
+HB173 INTRODUCED
+85 platform that recommends, selects, or prioritizes for display,
+86 either concurrently or sequentially, media items generated or
+87 shared by users of the covered platform if the recommendation,
+88 selection, or prioritization is based, in whole or in part, on
+89 any information associated with the covered user or the
+90 covered user's device, unless any of the following occur:
+91 a.1. The covered operator has used commercially
+92 reasonable and technically feasible methods to determine that
+93 the covered user is not a covered minor; or
+94 2. If the covered user is a covered minor, the covered
+95 operator has obtained verifiable consent from the covered
+96 minor's parent or legal guardian to recommend, select, or
+97 prioritize media items for such covered minor in the manner
+98 prescribed by this section.
+99 b. The recommendation, selection, or prioritization is
+100 based on information that is not persistently associated with
+101 the covered user or the covered user's device and does not
+102 concern the covered user's previous interactions with media
+103 items generated or shared by other users of the covered
+104 platform.
+105 c. The recommendation, selection, or prioritization is
+106 based on privacy or accessibility settings selected by the
+107 covered user or technical information concerning the covered
+108 user's device.
+109 d. The covered user has expressly and unambiguously
+110 requested that any specific media item, media items from a
+111 specific author, creator, or poster to whom the covered user
+112 has subscribed, or media items shared by users to a specific
+Page 4
+
+has subscribed, or media items shared by users to a specific
+HB173 INTRODUCED
+113 page or group to which the covered user has subscribed be
+114 displayed, blocked, prioritized, or deprioritized.
+115 e. The recommended, selected, or prioritized media item
+116 is a direct and private communication.
+117 f. The media item is recommended, selected, or
+118 prioritized exclusively in response to a specific search
+119 inquiry made by the covered user.
+120 g. The media item is recommended, selected, or
+121 prioritized for display exclusively because the media item
+122 immediately follows any other media item in a preexisting
+123 sequence and is from the same author, creator, poster, or
+124 source.
+125 h. The recommendation, selection, or prioritization is
+126 necessary to comply with any other provision of this section.
+127 (2) A covered operator shall treat a covered user as a
+128 covered minor if the covered operator obtains actual knowledge
+129 that the covered user is a covered minor. A covered operator
+130 that has used commercially reasonable and technically feasible
+131 methods to determine a covered user's age and cannot determine
+132 whether the covered user is a covered minor shall presume that
+133 such covered user is not a covered minor for the purposes of
+134 this subsection.
+135 (3)a. Information collected for the purpose of
+136 determining a covered user's age under this subsection shall
+137 not be used for any other purpose, and such information shall
+138 be deleted immediately after an attempt is made to determine
+139 the covered user's age unless use or retention is necessary to
+140 comply with any federal law or regulation or any other law or
+Page 5
+
+comply with any federal law or regulation or any other law or
+HB173 INTRODUCED
+141 regulation of this state.
+142 b. Information collected for the purpose of obtaining
+143 verifiable consent from a covered minor's parent or legal
+144 guardian shall not be used for any other purpose, and the
+145 information shall be deleted immediately after an attempt is
+146 made to determine the covered user's age unless use or
+147 retention is necessary to comply with any federal law or
+148 regulation or any other law or regulation of this state.
+149 (4) No covered operator shall withhold or degrade, or
+150 reduce the quality or increase the price of, any product,
+151 service, or feature due to the prohibition against
+152 recommending, selecting, or prioritizing media items in the
+153 manner set forth in subdivision (b)(1), unless the
+154 withholding, degradation, reduction, or increase is necessary
+155 for the covered operator to comply with the provisions of this
+156 subsection.
+157 (5) Nothing in this subsection shall be construed to
+158 prohibit any covered operator from taking any action to
+159 restrict access to, or the availability of, any media item
+160 that the covered operator in good faith considers to be
+161 obscene, lewd, lascivious, filthy, excessively violent,
+162 harassing, or otherwise objectionable, regardless of whether
+163 such media item is protected under the Constitution of Alabama
+164 of 2022, or the Constitution of the United States.
+165 (c)(1) No covered operator shall send any notification
+166 to a covered minor concerning any recommendation, selection,
+167 or prioritization made in the manner set forth in subdivision
+168 (b)(1) unless:
+Page 6
+
+(b)(1) unless:
+HB173 INTRODUCED
+169 a. The notification is sent to the covered minor during
+170 the hours between 8:00 a.m. and 9:00 p.m. Central Standard
+171 Time; or
+172 b. The covered operator has obtained verifiable consent
+173 from the covered minor's parent or legal guardian to send
+174 notifications to the covered minor outside of the time frame
+175 set forth in paragraph a.
+176 (2) Unless otherwise required by a covered minor's
+177 verified parent or legal guardian, covered operators shall do
+178 all of the following as a default setting for the covered
+179 operator's covered platform:
+180 a. Prevent the covered minor from accessing or
+181 receiving any notification described in subdivision (c)(1)
+182 outside of the time frame set forth in paragraph (c)(1)a.
+183 b. Limit the covered minor's access to any portion of
+184 the covered operator's covered platform which recommends,
+185 selects, or prioritizes media items in the manner set forth in
+186 subdivision (b)(1) to a maximum period of one hour per day.
+187 c. Set the covered minor's covered platform account to
+188 a mode that exclusively allows users to whom the covered minor
+189 is connected to view or respond to content posted by the
+190 covered minor.
+191 (3) Covered operators shall also establish and maintain
+192 a mechanism by which a covered minor's verified parent or
+193 legal guardian may require the covered operator to do the
+194 following:
+195 a. Prevent the covered minor from accessing or
+196 receiving any notification described in subdivision (1)
+Page 7
+
+receiving any notification described in subdivision (1)
+HB173 INTRODUCED
+197 outside of a time frame specified by the parent or legal
+198 guardian.
+199 b. Limit the covered minor's access to any portion of
+200 such covered operator's covered platform that recommends,
+201 selects, or prioritizes media items in the manner set forth in
+202 subdivision (b)(1) to a maximum daily period specified by the
+203 parent or legal guardian.
+204 c. Set the covered minor's covered platform account to
+205 a mode that exclusively allows users to whom the covered minor
+206 is connected to view or respond to content posted by the
+207 covered minor.
+208 (d) Not later than March 1, 2028, and annually
+209 thereafter, each covered operator shall publicly disclose, in
+210 a form and manner specified by the Attorney General, all of
+211 the following information for the preceding calendar year:
+212 (1) The total number of covered users who used the
+213 covered operator's covered platform during the year.
+214 (2) The portion of the total number of covered users
+215 who used the covered operator's covered platform during the
+216 year for whom the covered operator obtained verifiable consent
+217 from a parent or legal guardian.
+218 (3) The portion of the total number of covered users
+219 who used the covered operator's covered platform for whom the
+220 default settings set forth in subdivision (c)(2) were enabled,
+221 and the portion of the total number of covered users for whom
+222 such default settings were not enabled.
+223 (4) The average amount of time per day that covered
+224 users used the covered operator's covered platform, broken
+Page 8
+
+users used the covered operator's covered platform, broken
+HB173 INTRODUCED
+225 down by user age and hour of day.
+226 (e) Nothing in this section shall be construed to do
+227 any of the following:
+228 (1) Require a covered operator to provide a covered
+229 minor's parent or legal guardian with access to, or control
+230 over, the covered minor's covered platform account or any data
+231 associated therewith, unless provision of such access or
+232 control is specifically required by this section.
+233 (2) Impose liability for any commercial activity or
+234 action by a covered operator subject to 15 U.S.C. § 6501 which
+235 is inconsistent with the manner in which the commercial
+236 activity or action is treated under 15 U.S.C. § 6502.
+237 (f) A violation of this section shall be deemed a
+238 violation of the Deceptive Trade Practices Act, pursuant to
+239 Chapter 19 of Title 8, Code of Alabama 1975.
+240 Section 2. This act shall become effective on October
+241 1, 2026.
+Page 9

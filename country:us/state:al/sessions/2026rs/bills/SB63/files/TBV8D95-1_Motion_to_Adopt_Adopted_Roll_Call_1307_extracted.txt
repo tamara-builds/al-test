@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 1307
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+TBV8D95-1 03/17/2026 JC (H) HSE 2025-3107
+House Insurance Reported Substitute for SB63
+1
+2
+3 BILL
+4 TO BE ENTITLED
+5 AN ACT
+6
+7 Relating to health insurance; to impose limitations on
+8 the use of artificial intelligence by health benefit plan
+9 providers in making determinations of coverage under health
+10 benefit plans; and to authorize the Department of Insurance of
+11 the State of Alabama to investigate and impose disciplinary
+12 action for violations.
+13 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+14 Section 1. (a) For the purposes of this section, the
+15 following terms have the following meanings:
+16 (1) ARTIFICIAL INTELLIGENCE. A machine-based system
+17 that may include software or physical hardware that performs
+18 tasks, based upon data set inputs, which require human-like
+19 perception, cognition, planning, learning, communication, or
+20 physical action and which is capable of improving performance
+21 based upon learned experience without significant human
+22 oversight toward influencing real or virtual environments.
+23 (2) DEPARTMENT. The Department of Insurance of the
+24 State of Alabama.
+25 (3) ENROLLEE. An individual to whom a health benefit
+26 plan provider is contractually obligated to pay for or provide
+27 medical benefits under a health benefit plan.
+28 (4) GROUP PLAN. A health benefit plan that is sponsored
+Page 1
+
+(4) GROUP PLAN. A health benefit plan that is sponsored
+TBV8D95-1 03/17/2026 JC (H) HSE 2025-3107
+House Insurance Reported Substitute for SB63
+29 by an employer or other entity on behalf of group members.
+30 (5) HEALTH BENEFIT PLAN. a. Any plan, policy, or
+31 contract issued, delivered, or renewed in this state that
+32 provides medical benefits that include payment for
+33 hospitalization, physician care, treatment, surgery, therapy,
+34 drugs, equipment, and any other medical expense, regardless of
+35 whether the plan is for a group or individual.
+36 b. The term does not include accident-only, specified
+37 disease, individual hospital indemnity, credit, dental-only,
+38 Medicare supplement, long-term care, disability income, or
+39 other limited benefit health insurance policies, or coverage
+40 issued as supplemental to liability insurance, workers'
+41 compensation, or automobile medical payment insurance.
+42 (6) HEALTH BENEFIT PLAN PROVIDER. The term includes all
+43 of the following:
+44 a. Any entity that issues, delivers, or renews a health
+45 benefit plan, including a person as defined in Section 27-1-2,
+46 Code of Alabama 1975; a health maintenance organization
+47 established under Chapter 21A of Title 27, Code of Alabama
+48 1975; a nonprofit health care services plan established under
+49 Article 6, Chapter 20 of Title 10A, Code of Alabama 1975; or a
+50 nonprofit agricultural organization that offers health care
+51 benefits pursuant to Chapter 33 of Title 2, Code of Alabama
+52 1975.
+53 b. Any department or office internal to an entity
+54 described in paragraph a. which performs utilization review.
+55 c. Any separate entity that performs utilization review
+56 as a contractor or agent of an entity described in paragraph
+Page 2
+
+as a contractor or agent of an entity described in paragraph
+TBV8D95-1 03/17/2026 JC (H) HSE 2025-3107
+House Insurance Reported Substitute for SB63
+57 a.
+58 (7) HEALTH CARE SERVICE. Diagnosing, testing,
+59 monitoring, or treating a human disease, disorder, syndrome,
+60 illness, or injury that may include, but not be limited to,
+61 hospitalization, physician care, treatment, surgery, therapy,
+62 drugs, or medical equipment.
+63 (8) INDIVIDUAL PLAN. A health benefit plan that is
+64 purchased directly by an individual.
+65 (9) PRIOR AUTHORIZATION. A written or oral
+66 determination made by a health benefit plan provider that a
+67 health care service is a benefit covered under the applicable
+68 health benefit plan which, under the enrollee's clinical
+69 circumstances, is medically necessary or satisfies another
+70 requirement imposed by the health benefit plan provider or law
+71 and thus satisfies the requirements for payment or
+72 reimbursement.
+73 (10) UTILIZATION REVIEW. The determination of requests
+74 for prior authorization under a health benefit plan according
+75 to the rules, health care service policies, and guidelines
+76 adopted by a health benefit plan provider, or requirements
+77 imposed by law, and applicable to a health benefit plan.
+78 (b)(1) A health benefit plan provider that uses
+79 artificial intelligence to make determinations of medical
+80 necessity on requests for prior authorization under health
+81 benefit plans shall base determinations on all of the
+82 following:
+83 a. The enrollee's medical history.
+84 b. Any clinical circumstances unique to the enrollee
+Page 3
+
+b. Any clinical circumstances unique to the enrollee
+TBV8D95-1 03/17/2026 JC (H) HSE 2025-3107
+House Insurance Reported Substitute for SB63
+85 which are presented by the requesting health care provider.
+86 c. Additional clinical information about the enrollee
+87 which may be present in the enrollee's medical record.
+88 (2) A health benefit plan provider shall certify
+89 annually to the department, as part of the certification
+90 required by Section 27-3A-5, Code of Alabama 1975, that the
+91 artificial intelligence used to make determinations of medical
+92 necessity on requests for prior authorization complies with
+93 all of the following:
+94 a. The artificial intelligence does not rely on a group
+95 dataset to make determinations.
+96 b. The artificial intelligence is fairly and equitably
+97 applied, including in accordance with any applicable
+98 regulations and guidance issued by the U.S. Department of
+99 Health and Human Services.
+100 c. The artificial intelligence does not discriminate,
+101 directly or indirectly, against any subscriber group or
+102 enrollee in violation of state or federal law, including any
+103 regulation or guidance issued by the U.S. Department of Health
+104 and Human Services.
+105 (3) In addition to the requirements listed in
+106 subdivisions (1) and (2), a determination to deny, delay, or
+107 modify a request for prior authorization based on medical
+108 necessity shall always be made by a licensed physician or
+109 other health care professional who is competent to evaluate
+110 any recommendation or conclusion of artificial intelligence in
+111 the light of the specific clinical issues involved in the
+112 health care service requested which are unique to the
+Page 4
+
+health care service requested which are unique to the
+TBV8D95-1 03/17/2026 JC (H) HSE 2025-3107
+House Insurance Reported Substitute for SB63
+113 enrollee's circumstances or as recommended by the treating
+114 health care provider.
+115 (c) A health benefit plan provider shall do all of the
+116 following:
+117 (1) Make prominent written disclosure regarding its use
+118 of artificial intelligence in utilization review in its
+119 policies and procedures.
+120 (2) Ensure that its use of artificial intelligence and
+121 the outcomes that it generates are reviewed on a periodic
+122 basis to maximize accuracy and reliability to ensure its use
+123 of artificial intelligence in utilization review complies with
+124 the requirements of subsection (b).
+125 (3) Ensure that patient data used in utilization review
+126 functions by artificial intelligence is not used beyond its
+127 intended and stated purpose consistent with the federal Health
+128 Insurance Portability and Accountability Act (HIPAA), 42
+129 U.S.C. § 1320d et seq.
+130 (4) The requirements under subsection (b) and this
+131 subsection shall be satisfied by an attestation by an
+132 authorized representative of the health benefit plan provider
+133 based on reasonable reliance upon internal policies,
+134 procedures, and third-party vendors.
+135 (d)(1) When the department has reasonable grounds to
+136 believe that a health benefit plan provider has or is engaged
+137 in conduct that violates subsection (b), including making
+138 determinations of prior authorization adverse to an enrollee
+139 without taking into consideration the enrollee's medical
+140 history and relevant clinical circumstances, the department
+Page 5
+
+history and relevant clinical circumstances, the department
+TBV8D95-1 03/17/2026 JC (H) HSE 2025-3107
+House Insurance Reported Substitute for SB63
+141 may notify the health benefit plan provider of the alleged
+142 violation and the health benefit plan provider shall respond
+143 to the notice within 30 days.
+144 (2) If the department finds the response required in
+145 subdivision (1) to be unsatisfactory, the department may hold
+146 a hearing as provided in Article 1, Chapter 2 of Title 27,
+147 Code of Alabama 1975.
+148 (3) If, upon hearing the case, the department
+149 determines that the health benefit plan provider has or is
+150 engaged in conduct that violates subsection (b), including
+151 making determinations of prior authorization adverse to an
+152 enrollee without taking into consideration the enrollee's
+153 medical history and relevant clinical circumstances, the
+154 department may do any of the following:
+155 a. Impose a plan upon the health benefit plan provider
+156 to correct procedures, policies, and guidelines to bring the
+157 health benefit plan provider's utilization review into
+158 compliance with this section.
+159 b. For repeat violations, impose upon the health
+160 benefit plan provider the disciplinary measures provided in
+161 Section 27-3A-6(d), Code of Alabama 1975.
+162 (e) The department shall adopt rules to enforce this
+163 section.
+164 Section 2. This act shall become effective on October
+165 1, 2026.
+Page 6

@@ -1,0 +1,782 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB68 INTRODUCED
+1 SB68
+2 ZQ9JAWK-1
+3 By Senator Weaver
+4 RFD: Finance and Taxation General Fund
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+ZQ9JAWK-1 01/13/2026 KMS (L)ccr 2026-183
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, first responders who
+6 participate in the Retirement Systems of Alabama (RSA)
+7 and are permanently and totally unable to perform the
+8 duties of a firefighter or law enforcement officer due
+9 to injuries sustained in the line of duty may be
+10 eligible for full retirement benefits based upon their
+11 Tier and number of years of creditable service in the
+12 system.
+13 This bill would provide full retirement benefits
+14 for first responders who participate in the system and
+15 are permanently and totally unable to perform the
+16 duties of a firefighter or law enforcement officer due
+17 to injuries sustained in the line of duty, regardless
+18 or their Tier and number of years of creditable service
+19 in the system.
+20 This bill would also provide for retroactive
+21 application to January 1, 2023.
+22
+23
+24 A BILL
+25 TO BE ENTITLED
+26 AN ACT
+27
+28 Relating to the Retirement Systems of Alabama; to amend
+Page 1
+
+Relating to the Retirement Systems of Alabama; to amend
+SB68 INTRODUCED
+29 Section 36-27-16, Code of Alabama 1975, to provide full
+30 retirement benefits for first responders who are permanently
+31 and totally unable to perform the duties of a firefighter or
+32 law enforcement officer due to injuries sustained in the line
+33 of duty regardless of their Tier and number of years of
+34 creditable service in the system; and to provide retroactive
+35 effect to January 1, 2023.
+36 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+37 Section 1. Section 36-27-16 of the Code of Alabama
+38 1975, is amended to read as follows:
+39 "§36-27-16
+40 (a)(1) RETIREMENT, ETC., OF EMPLOYEES GENERALLY;
+41 ELIGIBILITY FOR SERVICE RETIREMENT BENEFITS.
+42 a. Any Tier I plan member who withdraws from service
+43 upon or after attainment of age 60 and any Tier II plan member
+44 who withdraws from service upon or after attainment of age 62
+45 may retire upon written application to the Board of Control
+46 setting forth at what time, not less than 30 days nor more
+47 than 90 days subsequent to the execution and filing thereof,
+48 he or she desires to be retired; provided, that any such
+49 member who became a member on or after October 1, 1963, shall
+50 have completed 10 or more years of creditable service;
+51 provided further, that a Tier I or Tier II plan member
+52 employed as a state policeman shall be eligible to file
+53 application for service retirement upon attaining age 52 and a
+54 Tier II plan member employed as a correctional officer,
+55 firefighter, or law enforcement officer as defined in Section
+56 36-27-59 with at least 10 years of creditable service as a
+Page 2
+
+36-27-59 with at least 10 years of creditable service as a
+SB68 INTRODUCED
+57 correctional officer, firefighter, or law enforcement officer
+58 shall be eligible to file application for service retirement
+59 upon attaining age 56.
+60 b. Any Tier I plan member who has attained age 60, or
+61 age 52 in the case of a state policeman and any Tier II plan
+62 member who has attained age 62, or age 52 in the case of a
+63 state policeman, or age 56 in the case of a correctional
+64 officer, firefighter, or law enforcement officer as defined in
+65 Section 36-27-59 who has at least 10 years of creditable
+66 service as a correctional officer, firefighter, or law
+67 enforcement officer, and has previously withdrawn from service
+68 may retire upon written application to the Board of Control
+69 setting forth at what time, not less than 30 days nor more
+70 than 90 days subsequent to the execution and filing thereof,
+71 he or she desires to be retired; provided, the member shall
+72 have at the time of his or her withdrawal from service
+73 completed the age and service requirements established by the
+74 Board of Control for eligibility for deferred benefits;
+75 provided, that the minimum number of years of creditable
+76 service shall not be less than 10 years nor more than 25
+77 years.
+78 c. In addition to any law or part of law relating to
+79 service retirement under the Employees' Retirement System of
+80 Alabama, any Tier I plan member of the Employees' Retirement
+81 System or Tier II plan member employed as a state policeman
+82 who withdraws from service after completion of not less than
+83 25 years of creditable service, or any Tier II plan member who
+84 withdraws from service after completion of not less than 30
+Page 3
+
+withdraws from service after completion of not less than 30
+SB68 INTRODUCED
+85 years of creditable service, may retire without a reduction in
+86 retirement allowance upon written application to the Board of
+87 Control of the Employees' Retirement System setting forth the
+88 first day of which month, not less than 30 days or more than
+89 90 days subsequent to the execution and filing thereof, he or
+90 she desires to be retired, provided that no person whose
+91 employer participates in the Employees' Retirement System
+92 under Section 36-27-6 shall be entitled to the benefits
+93 provided in this paragraph for Tier I members unless the
+94 employer elects to come under the provisions of the paragraph.
+95 Any employer making this election must bear the cost of the
+96 benefit.
+97 (2) AMOUNT OF SERVICE RETIREMENT ALLOWANCE.
+98 a. Upon retirement from service, a Tier I plan member
+99 shall receive a service retirement allowance which shall
+100 consist of:
+101 1. An annuity which shall be the actuarial equivalent
+102 of his or her accumulated contributions at the time of his or
+103 her retirement; except, that in the case of a state policeman
+104 who has completed 20 years of creditable service as a state
+105 policeman who retires after age 56 but prior to age 60, the
+106 annuity shall be equal to the annuity that would have been
+107 payable upon service retirement at age 60 had the member
+108 continued in service to age 60 without change in compensation;
+109 2. A pension which shall be equal to the annuity
+110 allowance at age of retirement, but not to exceed an annuity
+111 allowable at age 65, computed on the basis of contributions
+112 made prior to attainment of age 65; except, that in the case
+Page 4
+
+made prior to attainment of age 65; except, that in the case
+SB68 INTRODUCED
+113 of a state policeman who has completed 20 years of creditable
+114 service as a state policeman who retires after age 56 but
+115 prior to age 60, the pension shall be equal to the annuity
+116 that he or she would have received had he or she contributed
+117 to age 60 without change in compensation; and
+118 3. An additional pension, if he or she has a prior
+119 service certificate in full force and effect, which shall be
+120 equal to the annuity which would have been provided at the age
+121 of retirement, but which shall not exceed an annuity allowable
+122 at age 65 by twice the contributions which he or she would
+123 have made during the period of prior service with which he or
+124 she is credited had the system been in operation and had he or
+125 she contributed thereunder; except, that in case of a state
+126 policeman who has completed 20 years of creditable service as
+127 a state policeman who retired after age 56 but prior to age
+128 60, an additional pension, if he or she has a prior service
+129 certificate in full force and effect, which shall be equal to
+130 the annuity which would have been provided at age 60, but
+131 which shall not exceed an annuity allowable at age 60 by twice
+132 the contributions which he or she would have made during the
+133 period of prior service with which he or she is credited had
+134 the system been in operation and had he or she contributed
+135 thereunder.
+136 b. Notwithstanding the provisions of subparagraphs 1.,
+137 2., and 3. of paragraph a. of this subdivision, a state
+138 policeman who is a Tier I plan member and who has completed 20
+139 years of service as a state policeman who retires after age 52
+140 but prior to age 56 shall receive:
+Page 5
+
+but prior to age 56 shall receive:
+SB68 INTRODUCED
+141 1. An annuity which shall be equal to the annuity that
+142 would have been payable had the member continued in service
+143 for four years without change in compensation;
+144 2. A pension which shall be equal to the annuity that
+145 he or she would have received had he or she contributed for
+146 four years without change in compensation; and
+147 3. An additional pension, if he or she has a prior
+148 service certificate in full force and effect, which shall be
+149 equal to the annuity which would have been provided at the age
+150 of retirement, but which shall not exceed an annuity allowable
+151 at the age of retirement plus four years by twice the
+152 contributions which he or she would have made during the
+153 period of prior service with which he or she is credited had
+154 the system been in operation and had he or she contributed
+155 thereunder. In lieu of a determination of the actual
+156 compensation of a member that was received during that prior
+157 service, the Board of Control may use for the purpose of this
+158 article the compensation rate which, if it had progressed with
+159 the rates of salary increase shown in the tables as prescribed
+160 in subsection (n) of Section 36-27-23, would have resulted in
+161 the same average salary of the member for the five years
+162 immediately preceding the date of establishment as the records
+163 show the member actually received.
+164 c. The annual service retirement pension payable to a
+165 Tier I plan member not employed as a state policeman retiring
+166 on or after October 1, 1975, shall not be less than an amount
+167 which, when added to his or her annuity, is equal to the
+168 greater of the following two amounts:
+Page 6
+
+greater of the following two amounts:
+SB68 INTRODUCED
+169 1. Two and one-eightieth percent of the member's
+170 average final compensation multiplied by the number of years
+171 of his or her creditable service; or
+172 2. If he or she became a member before October 1, 1965,
+173 seventy-two dollars ($72) multiplied by the number of years of
+174 his or her creditable service not in excess of 25 years.
+175 d. The annual service retirement pension payable to a
+176 Tier I plan member employed as a state policeman retiring on
+177 or after October 1, 1975, shall not be less than an amount
+178 which, when added to his or her annuity, is equal to the
+179 greater of the following two amounts:
+180 1. Two and seven-eighths percent of the member's
+181 average final compensation multiplied by the number of years
+182 of his or her creditable service. Creditable service for any
+183 state policeman under the age of 56 years who has completed 20
+184 years of creditable service as a state policeman shall include
+185 a bonus equal to four additional years. Creditable service for
+186 a state policeman 56 years or older shall include a bonus
+187 equal to the years or portion thereof remaining until the
+188 member reaches age 60; or
+189 2. If he or she became a member before October 1, 1965,
+190 eighty-six dollars forty cents ($86.40) multiplied by the
+191 number of years of his or her creditable service not in excess
+192 of 25 years; provided, however, that if the member has
+193 completed 20 years of creditable service as a state policeman
+194 and has not attained age 60 at the time of retirement, the
+195 pension shall be determined as provided in this subparagraph
+196 on the basis of the number of years of creditable service
+Page 7
+
+on the basis of the number of years of creditable service
+SB68 INTRODUCED
+197 which he or she would have had if he or she had remained in
+198 service for four years, except that, in the case of those
+199 state policemen retiring at age 56 or after, the number of
+200 years in determining the pension shall not exceed the number
+201 of years of creditable service which he or she would have had
+202 if he or she had remained in service to age 60.
+203 e. Upon retirement from service, a Tier II plan member
+204 who is not employed as a state policeman shall receive a
+205 service retirement allowance which shall consist of an annuity
+206 which shall be the actuarial equivalent of the member's
+207 accumulated contributions at the time of retirement and a
+208 pension which, when added to the member's annuity, shall be
+209 equal to one and sixty-five hundredths percent (1.65%) of the
+210 member's average final compensation multiplied by the number
+211 of years of creditable service. The service retirement
+212 allowance for a member who retires with 30 years of creditable
+213 service before reaching the age of 62 shall be reduced by two
+214 percent (2%) for each year of the difference between age 62
+215 and the age at retirement of the member. Notwithstanding the
+216 foregoing, the service retirement allowance shall not exceed
+217 eighty percent (80%) of the member's average final
+218 compensation.
+219 f. Upon retirement from service, a Tier II plan member
+220 who is employed as a state policeman shall receive a service
+221 retirement allowance which shall consist of an annuity which
+222 shall be the actuarial equivalent of the member's accumulated
+223 contributions at the time of retirement and a pension which,
+224 when added to the member's annuity, shall be equal to two and
+Page 8
+
+when added to the member's annuity, shall be equal to two and
+SB68 INTRODUCED
+225 three-eighths percent (2.375%) of the member's average final
+226 compensation multiplied by the member's number of years of
+227 creditable service. The service retirement allowance for a
+228 member who retires with 30 years of creditable service before
+229 reaching the age of 62 shall be reduced by two percent (2%)
+230 for each year of the difference between age 62 and the age at
+231 retirement of the member. Notwithstanding the foregoing, the
+232 service retirement allowance shall not exceed eighty percent
+233 (80%) of the member's average final compensation. Creditable
+234 service for any Tier II plan member who is employed as a state
+235 policeman shall include one year of hazardous duty time for
+236 every five years of service as a state policeman.
+237 g. Anything in this article to the contrary
+238 notwithstanding, in the application of the foregoing
+239 provisions of this subdivision to a member whose creditable
+240 service includes a period of service as a state policeman and
+241 a period of service in another employment classification, the
+242 benefit rates applicable to a member employed as a state
+243 policeman shall apply to all creditable service as a state
+244 policeman, and the benefit rates applicable to a member not
+245 employed as a state policeman shall apply to all creditable
+246 service, but in all other respects the pension under this
+247 subdivision shall be determined on the basis of the member's
+248 employment classification at the time of his or her withdrawal
+249 from service.
+250 h. The annual service retirement pension payable to any
+251 state employee who had attained age 60 on or before October 1,
+252 1945, who declined membership in the Employees' Retirement
+Page 9
+
+1945, who declined membership in the Employees' Retirement
+SB68 INTRODUCED
+253 System of Alabama in the manner prescribed in Section 36-27-4
+254 and who retires as a state employee after completing a minimum
+255 of 15 years' service shall be seventy-two dollars ($72)
+256 multiplied by the number of years of his or her service not in
+257 excess of 25 years.
+258 (b)(1) RETIREMENT OF DISABLED EMPLOYEES; ELIGIBILITY
+259 FOR DISABILITY RETIREMENT BENEFITS.
+260 a. Upon application of a Tier I plan member in service
+261 or of his or her employer, any member who has had 10 or more
+262 years of creditable service who becomes disabled may be
+263 retired on a disability retirement allowance by the Board of
+264 Control not less than 30 nor more than 90 days next following
+265 the date of filing of the application; provided, that the
+266 medical board, after a medical examination of the member,
+267 shall certify that the member is mentally or physically
+268 incapacitated for the further performance of duty, that the
+269 incapacity is likely to be permanent and that the member
+270 should be retired. Upon the application of a Tier II plan
+271 member in service or his or her employer, any member who has
+272 had 10 or more years of creditable service may be retired by
+273 the Board of Control on a disability retirement allowance not
+274 less than 30 nor more than 90 days next following the date of
+275 filing the application; provided, that the medical board,
+276 after a medical examination of the member, shall certify that
+277 the member is totally and permanently mentally or physically
+278 incapacitated from regular and substantial gainful employment,
+279 and that member should be retired.
+280 b. Without Provided the agency employing the member at
+Page 10
+
+b. Without Provided the agency employing the member at
+SB68 INTRODUCED
+281 the time of the injury agrees to make appropriate payments
+282 into the system and a review is conducted by a
+283 system-designated medical board as provided in Section
+284 36-27-23(l), and without regard to the number of years of
+285 creditable service or membership Tier, a member employed as a
+286 state policeman, a municipal police officer or a deputy
+287 sheriff, or a member employed as a state, municipal, or county
+288 firefighter who is not covered through his or her current
+289 employer under the United States Social Security Act,
+290 including system-affiliated fire districts, who as a result of
+291 his or her employment, in the line of duty and not as a result
+292 of his or her own misconduct, shall become permanently and
+293 totally disabled unable to perform the duties of a firefighter
+294 or law enforcement officer to the extent that he or she cannot
+295 perform his or her duties or duties of a less strenuous
+296 nature, as an employee of the State of Alabama or as an
+297 employee of an employer participating under the provisions of
+298 Section 36-27-6, shall be retired immediately be eligible for
+299 retirement on a disability retirement allowance, not less than
+300 30 nor more than 90 days next following the date of filing of
+301 the application, provided that the medical board, after a
+302 medical examination of the member shall certify that the
+303 member is mentally or physically incapacitated for the further
+304 performance of duty as a firefighter or law enforcement
+305 officer, that the incapacity is likely to be permanent, and
+306 that the member should be retired.
+307 (2) AMOUNT OF DISABILITY RETIREMENT ALLOWANCE.
+308 a. Upon retirement for disability a member shall
+Page 11
+
+a. Upon retirement for disability a member shall
+SB68 INTRODUCED
+309 receive a service retirement allowance based on age and
+310 service if he or she is a Tier I plan member and he or she has
+311 attained age 60 or if he or she is otherwise eligible to
+312 retire; otherwise, he or she shall receive a disability
+313 retirement allowance which shall consist of:
+314 1. An annuity which shall be the actuarial equivalent
+315 of his or her accumulated contributions at the time of his or
+316 her retirement;
+317 2. A pension which shall be equal to the pension that
+318 would have been payable under subparagraphs (a)(2)a.2. and
+319 (a)(2)a.3. of this section upon service retirement at age 65
+320 had the member continued in service to that age without change
+321 in compensation.
+322 b. The annual disability retirement pension payable to
+323 a Tier I plan member not employed as a state policeman,
+324 municipal police officer, or deputy sheriff, or a member
+325 employed as a state, municipal, or county firefighter,
+326 retiring on or after October 1, 1975, shall not be less than
+327 an amount which when added to his or her annuity is equal to
+328 the greatest of the following two amounts:
+329 1. Two and one-eightieth percent of the member's
+330 average final compensation multiplied by the number of years
+331 of creditable service.
+332 2. If he or she became a member before October 1, 1965,
+333 fifty-four dollars ($54) multiplied by the number of years of
+334 his or her creditable service not in excess of 25 years.
+335 c. The annual disability retirement pension payable to
+336 a Tier I plan member employed as a state policeman, municipal
+Page 12
+
+a Tier I plan member employed as a state policeman, municipal
+SB68 INTRODUCED
+337 police officer, or deputy sheriff, or a member employed as a
+338 state, municipal, or county firefighter, retiring on or after
+339 October 1, 1975, shall not be less than an amount which when
+340 added to his or her annuity is equal to the greater of the
+341 following two amounts:
+342 1. Two and seven-eighths percent of the member's
+343 average final compensation multiplied by the number of years
+344 of his or her creditable service. Creditable service for any
+345 state policeman under the age of 56 years who has completed 20
+346 years of creditable service as a state policeman shall include
+347 a bonus equal to four additional years. Creditable service for
+348 a state policeman 56 years or older shall include a bonus
+349 equal to the years or portion thereof remaining until the
+350 member reaches age 60; or
+351 2. If he or she became a member before October 1, 1965,
+352 sixty-four dollars eighty cents ($64.80) multiplied by the
+353 number of years of his or her creditable service not in excess
+354 of 25 years.
+355 d. The annual disability retirement allowance payable
+356 to a Tier II plan member not employed as a state policeman,
+357 municipal police officer, or deputy sheriff, or a member
+358 employed as a state, municipal, or county firefighter, shall
+359 be equal to one and sixty-five hundredths percent (1.65%) of
+360 the member's average final compensation multiplied by the
+361 number of years of creditable service.
+362 e. The annual disability retirement allowance payable
+363 to a Tier II plan member employed as a state policeman shall
+364 be equal to two and three-eighths percent (2.375%) of the
+Page 13
+
+be equal to two and three-eighths percent (2.375%) of the
+SB68 INTRODUCED
+365 member's average final compensation multiplied by the number
+366 of years of creditable service., municipal police officer, or
+367 a deputy sheriff, or a member employed as a state, municipal,
+368 or county firefighter, shall consist of the following:
+369 1. An annuity that is the actuarial equivalent of his
+370 or her accumulated contributions at the time of his or her
+371 retirement.
+372 2. A pension that is equal to the pension that would
+373 have been payable under subparagraphs (a)(2)a.2. and
+374 (a)(2)a.3. upon service retirement at age 65 had the member
+375 continued in service to that age without change in
+376 compensation.
+377 f. Anything in this chapter to the contrary
+378 notwithstanding in the application of the provisions of this
+379 subdivision to a member whose creditable service includes a
+380 period of service as a state policeman, municipal police
+381 officer, or deputy sheriff, or a member employed as a state,
+382 municipal, or county firefighter, and a period of service in
+383 another employment classification the benefit rates applicable
+384 to a member employed as a state policeman shall apply to all
+385 creditable service as a state policeman, and the benefit rates
+386 applicable to a member not employed as a state policeman shall
+387 apply to all other creditable service, but in all other
+388 respects the pension under this subdivision shall be
+389 determined on the basis of the member's employment
+390 classification at the time of his or her withdrawal from
+391 service.
+392 g. The provisions of this subsection, as amended by the
+Page 14
+
+g. The provisions of this subsection, as amended by the
+SB68 INTRODUCED
+393 act adding this paragraph which authorizes an annual
+394 disability retirement allowance to first responders, are
+395 retroactive to January 1, 2023. Any member who was not
+396 eligible to apply for, or who applied for and was denied,
+397 disability retirement benefits based on Tier and number of
+398 years of creditable service, may apply or reapply for
+399 disability retirement benefits commencing on July 1, 2026.
+400 (3)a. REEXAMINATION OF BENEFICIARIES RETIRED ON ACCOUNT
+401 OF DISABILITY. Once each year during the first five years
+402 following the retirement of a member on a disability
+403 retirement allowance and once every three-year period
+404 thereafter, the Board of Control may, and upon his or her
+405 application shall, require any disability beneficiary who has
+406 not yet attained age 60 if the beneficiary is a Tier I plan
+407 member or age 62 if the beneficiary is a Tier II plan member
+408 to undergo a medical examination, the examination to be made
+409 at the place of residence of the beneficiary or other place
+410 mutually agreed upon by a physician or physicians of or
+411 designated by the medical board. Should any disability
+412 beneficiary who has not yet attained age 60 if the beneficiary
+413 is a Tier I plan member or age 62 if the beneficiary is a Tier
+414 II plan member refuse to submit to the medical examination,
+415 his or her allowance may be discontinued until his or her
+416 withdrawal of the refusal, and, should his or her refusal
+417 continue for one year, all his or her rights in and to his or
+418 her pension may be revoked by the Board of Control; provided,
+419 that these requirements relative to the medical examination
+420 shall not apply in the case of a state policeman retired for
+Page 15
+
+shall not apply in the case of a state policeman retired for
+SB68 INTRODUCED
+421 disability and who has attained age 52 or in the case of a
+422 correctional officer, firefighter, or law enforcement officer
+423 as defined in Section 36-27-59 with at least 10 years of
+424 creditable service as a correctional officer, firefighter, or
+425 law enforcement officer retired for disability who has
+426 attained age 56 if he or she is a Tier II plan member. Should
+427 the medical board report and certify to the Board of Control
+428 that a disability beneficiary who is a Tier I plan member is
+429 engaged in or is able to engage in a gainful occupation paying
+430 more than the difference between his or her retirement
+431 allowance and his or her average final compensation and should
+432 the Board of Control concur in the report, then the amount of
+433 his or her pension shall be reduced to an amount which,
+434 together with his or her annuity and the amount earnable by
+435 him or her, shall equal the amount of his or her average final
+436 compensation. Should his or her earning capacity be later
+437 changed, the amount of his or her pension may be further
+438 modified; provided, that the new pension shall not exceed the
+439 amount of the pension originally granted nor an amount which,
+440 when added to the amount earnable by the beneficiary, together
+441 with this annuity exceeds the amount of his or her average
+442 final compensation.
+443 b. Should the medical board report and certify to the
+444 Board of Control that a disability beneficiary who is a Tier
+445 II plan member has the capacity to engage in regular and
+446 substantial gainful employment, the Board of Control shall
+447 discontinue the beneficiary's retirement allowance until the
+448 beneficiary is otherwise eligible for service retirement.
+Page 16
+
+beneficiary is otherwise eligible for service retirement.
+SB68 INTRODUCED
+449 (c) Disposition of contributions and allowances upon
+450 death, etc., of member.
+451 (1) Should a member cease to be an employee except by
+452 death or by retirement under the provisions of this article,
+453 the contributions standing to the credit of his or her
+454 individual account in the Annuity Savings Fund shall be paid
+455 to him or her upon demand and, in addition to the payment,
+456 there shall be paid five-tenths of the interest accumulations
+457 standing to the credit of his or her individual account if he
+458 or she shall have not less than three but less than 16 years
+459 of membership service, six-tenths of the interest
+460 accumulations if he or she shall have not less than 16 but
+461 less than 21 years of membership service, seven-tenths of the
+462 interest accumulations if he or she shall have not less than
+463 21 but less than 26 years of membership service and
+464 eight-tenths of the interest accumulations if he or she shall
+465 have not less than 26 years of membership service.
+466 (2) In case of the death of a member eligible for
+467 service retirement pursuant to subsection (a), an allowance
+468 shall be paid to the surviving spouse, if designated as the
+469 sole beneficiary, in an amount that would have been payable if
+470 the member had retired immediately prior to his or her death
+471 and had elected Option 2, as set forth in subsection (d), or
+472 to such other person who the member shall have designated, in
+473 an amount that would have been payable if the member had
+474 retired immediately prior to his or her death and had elected
+475 Option 3, as set forth in subsection (d). Alternatively, if
+476 the surviving spouse or other designee desires, he or she may
+Page 17
+
+the surviving spouse or other designee desires, he or she may
+SB68 INTRODUCED
+477 choose to receive, in lieu of the allowance provided under
+478 Option 2 or Option 3, the accumulated contributions of the
+479 member plus an amount equal to the accumulated contributions
+480 of the member not to exceed five thousand dollars ($5,000) or
+481 the accumulated contributions of the member plus the benefit
+482 provided by Section 36-27B-3 if a benefit is payable under
+483 that section;
+484 (3) In case of the death of a Tier I plan member not
+485 eligible for service retirement, after completion of 25 years
+486 of creditable service, an allowance shall be paid to the
+487 surviving spouse, if designated as the sole beneficiary, in an
+488 amount that would have been payable if the member had retired
+489 immediately prior to his or her death and had elected Option
+490 2, as set forth in subsection (d), or to such other person who
+491 the member shall have designated, in an amount that would have
+492 been payable if the member had retired for disability
+493 immediately prior to his or her death and had elected Option 3
+494 as set forth in subsection (d). Alternatively, if the
+495 surviving spouse or other designee desires, he or she may
+496 choose to receive, in lieu of the allowance provided under
+497 Option 2 or Option 3, the accumulated contributions of the
+498 member plus an amount equal to the accumulated contributions
+499 of the member not to exceed five thousand dollars ($5,000) or
+500 the accumulated contributions of the member plus the benefit
+501 provided by Section 36-27B-3 if a benefit is payable under
+502 that section. For purposes of this subsection only, hazardous
+503 duty time, as set forth in subdivision (b)(1) of Section
+504 36-27-59, may be used in calculating the requisite years of
+Page 18
+
+36-27-59, may be used in calculating the requisite years of
+SB68 INTRODUCED
+505 service for firefighters, law enforcement officers, and
+506 correctional officers even if the member has not otherwise
+507 attained 25 years of creditable service;
+508 (4) Upon the death of a member on account of whom no
+509 survivor allowance is payable under subdivisions (2) or (3) of
+510 this subsection, the accumulated contributions of the member
+511 plus an amount equal to the accumulated contributions not to
+512 exceed five thousand dollars ($5,000) or the accumulated
+513 contributions of the member plus the benefit provided by
+514 Section 36-27B-3 if a benefit is payable under that section
+515 shall be paid to his or her estate or to such person as he or
+516 she shall have nominated by written designation duly executed
+517 and filed with the Board of Control.
+518 (d) Optional allowances. With the provision that the
+519 election of an option shall be effective on the effective date
+520 of retirement, any member may elect prior to retirement to
+521 receive, in lieu of his or her retirement allowance payable
+522 throughout life, the actuarial equivalent, at that time, of
+523 his or her retirement allowance in a reduced retirement
+524 allowance payable throughout life with the provisions that:
+525 (1) OPTION 1. If he or she dies before he or she has
+526 received in annuity payments the present value of his or her
+527 annuity as it was at the time of his or her retirement, the
+528 balance shall be paid to his or her legal representatives or
+529 to the person as he or she shall nominate by written
+530 designation duly acknowledged and filed with the Board of
+531 Control;
+532 (2) OPTION 2. Upon his or her death, his or her reduced
+Page 19
+
+(2) OPTION 2. Upon his or her death, his or her reduced
+SB68 INTRODUCED
+533 retirement allowance shall be continued throughout the life of
+534 and paid to the person as he or she shall nominate by written
+535 designation duly acknowledged and filed with the Board of
+536 Control at the time of his or her retirement;
+537 (3) OPTION 3. Upon his or her death, one half of his or
+538 her reduced allowance shall be continued throughout the life
+539 of and paid to the person as he or she shall nominate by
+540 written designation duly acknowledged and filed with the Board
+541 of Control at the time of his or her retirement.
+542 (4) OPTION 4. Some other benefit or benefits shall be
+543 paid either to the member or to the person or persons as he or
+544 she shall nominate; provided, that those other benefits,
+545 together with the reduced retirement allowance, shall be
+546 certified by the actuary to be of equivalent actuarial value
+547 to his or her retirement allowance and shall be approved by
+548 the Board of Control; or
+549 (5) OPTION 5. At the time of retirement, he or she
+550 shall receive a partial lump sum distribution as a single
+551 payment not to exceed the sum of 24 months of the maximum
+552 monthly retirement allowance the member could receive. This
+553 option may be elected in addition to the election of another
+554 option under this subsection and the further reduced monthly
+555 retirement allowance shall be calculated in accordance with
+556 the selected option. This option shall not be available to a
+557 member who is receiving a disability retirement.
+558 (e) Effect of return to active service. Should any
+559 beneficiary be restored to active service, his or her
+560 retirement allowance shall be suspended until he or she again
+Page 20
+
+retirement allowance shall be suspended until he or she again
+SB68 INTRODUCED
+561 withdraws from service and he or she shall not again become a
+562 member of the retirement system nor shall he or she make
+563 contributions; except, that should the beneficiary who has
+564 been restored to active service continue in service for a
+565 period of two or more years from the date of his or her
+566 reentry into active service, he or she may request the Board
+567 of Control to allow him or her to again become a member of the
+568 retirement system. The Board of Control may grant the request
+569 for restoration to membership; provided, that the beneficiary
+570 whose retirement allowance has been suspended shall repay to
+571 the system all monies received by him or her as benefits
+572 during any periods subsequent to the date of his or her
+573 reentry into active service and shall make a contribution
+574 equal to the amount he or she would have contributed had he or
+575 she been a member during the period of his or her restoration
+576 to active service on a suspended allowance basis together with
+577 the interest that would have been credited to the
+578 contributions on account of the period of restoration up to
+579 the date the contribution is made.
+580 (f)(1) REDETERMINATION, ETC., OF CERTAIN ALLOWANCES.
+581 All retirement allowance payments due on or after October 1,
+582 1975, to members who retired prior to that date shall be
+583 redetermined as if the provisions of this section in effect on
+584 October 1, 1975, were in effect at the time the member
+585 retired. Anything in this article to the contrary
+586 notwithstanding, the annual retirement allowance of any member
+587 not employed as a state policeman who retired on or before
+588 January 1, 1956, shall not be less than seventy-nine dollars
+Page 21
+
+January 1, 1956, shall not be less than seventy-nine dollars
+SB68 INTRODUCED
+589 twenty cents ($79.20) multiplied by the number of years of his
+590 or her creditable service not in excess of 30 years in the
+591 case of service retirement of fifty-nine dollars forty cents
+592 ($59.40) multiplied by the number of years of his or her
+593 creditable service not in excess of 30 years in the case of
+594 disability retirement. Any increase provided in the retirement
+595 allowance payment under this subdivision for a member who
+596 retired under the provisions of any optional benefit elected
+597 pursuant to subsection (d) shall accrue only to the retired
+598 member, and no person designated to receive any payments after
+599 the death of a retired member under the provisions of any
+600 optional benefit shall receive any increase in payments under
+601 this subdivision. Notwithstanding, any member who retired
+602 prior to October 1, 1975, and who chose either Option 2 or
+603 Option 3 may elect to receive a reduced allowance and to
+604 stipulate that the actuarial equivalent of the increase in his
+605 or her retirement allowance, which became effective on that
+606 date, be ascribed to his or her designated beneficiary;
+607 provided, that the member shall clearly express this intention
+608 by filing a written application to the effect with the
+609 Secretary-Treasurer of the Employees' Retirement System of
+610 Alabama prior to October 1, 1976.
+611 (2) Any person who, prior to October 1, 1963, was in
+612 receipt of a benefit pursuant to Act No. 376, approved
+613 November 6, 1959, but was not a member of the system at the
+614 time of retirement shall not be entitled to receive an annual
+615 retirement allowance from the system, effective October 1,
+616 1971, as follows:
+Page 22
+
+1971, as follows:
+SB68 INTRODUCED
+617 a. If the person was retired on or before January 1,
+618 1956, an amount equal to seventy-nine dollars twenty cents
+619 ($79.20) multiplied by the number of years of his or her
+620 creditable service not in excess of 30 years.
+621 b. If the person was retired after January 1, 1956, an
+622 amount equal to seventy-two dollars ($72) multiplied by the
+623 number of years of his or her creditable service not in excess
+624 of 25 years.
+625 (3) Prior to October 31, 1975, any beneficiary may
+626 elect to leave on deposit with the system all or a specified
+627 part of any increase in his or her monthly retirement
+628 allowance payments arising in accordance with subdivisions (1)
+629 or (2) of this subsection over the monthly allowance which he
+630 or she was receiving prior to October 1, 1975. The portion of
+631 each monthly payment left in the system in accordance with the
+632 election shall be credited, together with regular interest
+633 thereon, to the individual account of the beneficiary. Upon
+634 the death of the beneficiary the total amount standing to his
+635 or her credit, including regular interest to the date of
+636 death, shall be paid in a lump sum to his or her legal
+637 representatives or to such person as he or she shall have
+638 nominated by written designation duly acknowledged and filed
+639 with the Board of Control.
+640 (g) Notwithstanding any other provisions of this
+641 section to the contrary, when a designated beneficiary for a
+642 member predeceases the member who is receiving a monthly
+643 benefit allowance provided under Option 2, 3, or 4, the member
+644 may designate a replacement beneficiary for the deceased
+Page 23
+
+may designate a replacement beneficiary for the deceased
+SB68 INTRODUCED
+645 beneficiary to become effective two years after the date of
+646 designation of the replacement beneficiary and an actuarial
+647 adjustment in the monthly benefit allowance of the member to
+648 cover any cost associated with designating a replacement
+649 beneficiary shall be reflected thereafter in the monthly
+650 benefit allowance received by the member, commencing with the
+651 first benefit allowance check received by the member following
+652 the date of designation of the replacement beneficiary.
+653 (h) Notwithstanding any provision of this section to
+654 the contrary, if a retired member who is receiving a monthly
+655 benefit allowance provided under Option 2, 3, or 4 divorces
+656 his or her designated beneficiary, the member may designate a
+657 replacement beneficiary for the beneficiary to become
+658 effective two years after the date of designation of the
+659 replacement beneficiary and an actuarial adjustment in the
+660 monthly benefit allowance of the member to cover any cost
+661 associated with designating a replacement beneficiary shall be
+662 reflected thereafter in the monthly benefit allowance received
+663 by the member, commencing with the first benefit allowance
+664 check received by the member following the date of designation
+665 of the replacement beneficiary.
+666 (i) Any future act to increase the retirement age for
+667 Tier II plan members above the age of 62 shall require a
+668 two-thirds vote of the elected membership of each house of the
+669 Legislature."
+670 Section 2. This act shall become effective on July 1,
+671 2026.
+Page 24

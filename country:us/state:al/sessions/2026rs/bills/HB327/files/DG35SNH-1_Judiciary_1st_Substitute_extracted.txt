@@ -1,0 +1,363 @@
+Title: 
+Official Title: 
+Source: versions - Judiciary 1st Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+DG35SNH-1 02/17/2026 THR (L)THR 2025-2497 SUB HB327
+JUDICIARY SUBSTITUTE TO HB327
+OFFERED BY REPRESENTATIVE ROBBINS
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would prohibit the use of an
+6 individual's voice or visual likeness in a digital
+7 replica in certain circumstances.
+8 This bill would provide exceptions.
+9 This bill would authorize the licensing of a
+10 digital replica.
+11 This bill would also authorize private rights of
+12 action for violations of a digital replica license, or
+13 for producing a digital replica without consent.
+14
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to consumer protection; to establish
+22 procedures related to digital replicas; to authorize the
+23 licensing of digital replicas; and to authorize private rights
+24 of action for violations of digital replica licenses or
+25 producing a digital replica without consent.
+26 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+27 Section 1. For the purposes of this act, the following
+28 terms have the following meanings:
+Page 1
+
+terms have the following meanings:
+29 (1) COMMERCIAL USE. The use of the name, voice, or
+30 likeness of an individual on or in any product, merchandise,
+31 or good with the intent of advertising, marketing, selling, or
+32 soliciting the purchase of any product, merchandise, good, or
+33 service.
+34 (2) DIGITAL REPLICA. A newly created,
+35 computer-generated, highly realistic electronic representation
+36 that is made for commercial use and is readily identifiable as
+37 the voice or visual likeness of an individual which meets all
+38 of the following criteria:
+39 a. Is nearly indistinguishable from the actual voice or
+40 visual likeness of the individual such that a reasonable
+41 person would believe that the electronic representation is
+42 only of that particular, actual individual.
+43 b. Is embodied in a sound recording, image, audiovisual
+44 work, including an audiovisual work that does not have any
+45 accompanying sounds, or transmission in which either:
+46 1. The actual individual described in paragraph a. did
+47 not actually perform or appear; or
+48 2. That is a version of a sound recording, image, or
+49 audiovisual work in which the actual individual described in
+50 paragraph a. did perform or appear but in which the
+51 fundamental character of the performance or appearance has
+52 been materially altered.
+53 c. Does not include the electronic reproduction, use of
+54 a sample of one sound recording or audiovisual work into
+55 another, remixing, mastering, or digital remastering of a
+56 sound recording or audiovisual work authorized by the
+Page 2
+
+sound recording or audiovisual work authorized by the
+57 copyright holder.
+58 (3) DIGITAL REPLICATION RIGHT. The right established by
+59 this act.
+60 (4) ELIGIBLE PLAINTIFF. A person authorized to bring an
+61 action under this act.
+62 (5) INDIVIDUAL. A natural or deceased person.
+63 (6) MINOR. An individual younger than 18 years of age
+64 who: (i) has never been married; and (ii) has not had the
+65 disabilities of minority removed for general purposes.
+66 (7) ONLINE SERVICE. a. Either of the following:
+67 1. Any publicly accessible Internet website, online
+68 service, online application, mobile application, virtual
+69 reality environment, or cloud service provider.
+70 2. A service engaged in the transmission of digital
+71 audio transmissions as defined in 17 U.S.C. § 114(j)(5).
+72 b. The term may include a social service, social
+73 network, or application store.
+74 c. The term does not include a service by wire or radio
+75 which provides the replica, and, if applicable, any person
+76 other than the depicted individual described in paragraph
+77 (2)a. that acquires, through a license, inheritance, or
+78 capability to transmit data to and receive data from all, or
+79 substantially all, Internet endpoints, including any
+80 capabilities that are incidental to enabling the operation of
+81 the communications service of a provider of online services or
+82 network access, or the operator of facilities for the service.
+83 (8) ONLINE SERVICE PROVIDER. The owner of an online
+84 service.
+Page 3
+
+service.
+85 (9) PRODUCTION. The creation of a digital replica.
+86 (10) RIGHT HOLDER. The individual whose voice or visual
+87 likeness is simulated or otherwise copied in or as a digital
+88 replica, or, if applicable, any person other than the depicted
+89 individual that acquires, through a license, inheritance, or
+90 otherwise, the right to authorize the use of the individual's
+91 voice or visual likeness in a digital replica.
+92 (11) SOUND RECORDING ARTIST. An individual who creates
+93 or performs in sound recordings for economic gain or for the
+94 livelihood of the individual.
+95 Section 2. (a) A right holder may authorize the use of
+96 the voice or visual likeness of the individual in a digital
+97 replica. That right is both:
+98 (1) Descendible and licensable, wholly or partly,
+99 exclusively or nonexclusively, by the right holder, subject to
+100 the terms of a contract, including a licensing agreement, or
+101 testamentary instrument conveying digital replication rights
+102 to a right holder; and
+103 (2) Not assignable during the life of the individual to
+104 whom the right applies.
+105 (b) A digital replication right does not expire on the
+106 death of the individual to whom the right applies, regardless
+107 of whether the right is used commercially by the individual
+108 during the individual's lifetime.
+109 (c) On the death of an individual to whom the right
+110 applies:
+111 (1) The individual's digital replication right is
+112 transferable and licensable, wholly or partly, by the
+Page 4
+
+transferable and licensable, wholly or partly, by the
+113 executors, heirs, assigns, licensees, or devisees of the
+114 individual; and
+115 (2) Ownership of the right may be transferred, wholly
+116 or partly, by operation of law, will, or intestate succession.
+117 (d) A digital replication right is exclusive to both of
+118 the following:
+119 (1) The individual to whom the right applies, subject
+120 to the licensing of the right during the lifetime of the
+121 individual.
+122 (2) The right holder for both of the following periods:
+123 a. For a period of 10 years after the death of the
+124 individual to whom the right applies.
+125 b. Subject to Section 6, if the right holder
+126 demonstrates active and authorized public use of the voice or
+127 visual likeness of the individual in interstate or foreign
+128 commerce during the two-year period preceding the expiration
+129 of the 10-year period described in paragraph a., for an
+130 additional five-year period, subject to renewal for additional
+131 five-year periods, only if the right holder can demonstrate
+132 authorized public use of the voice or visual likeness of the
+133 individual in interstate or foreign commerce during the
+134 two-year period preceding the expiration of each additional
+135 five-year period.
+136 (e) A digital replication right terminates on the
+137 earlier of either of the following:
+138 (1) The date on which the 10-year period or five-year
+139 period, as applicable, described in subsection (d) expires
+140 without renewal.
+Page 5
+
+without renewal.
+141 (2) The date that is the earlier of 50 years after the
+142 death of the individual or the date upon which the existing
+143 common law right of publicity as recognized by the courts of
+144 this state would terminate.
+145 (f) If a right holder dies before October 1, 2026, the
+146 right holder's digital replication rights vest in the
+147 executors, heirs, assigns, or devisees of the right holder.
+148 Section 3. (a) Except as provided by Section 4 and
+149 subject to Section 4, a person may not intentionally publish,
+150 display, distribute, or otherwise make available to the public
+151 a digital replica without the written consent of the right
+152 holder.
+153 (b) It shall not be considered a violation of this
+154 section for a person to manufacture, import, offer to the
+155 public, provide, or otherwise distribute a product or service
+156 unless the person directed the production of the digital
+157 replica.
+158 (c) This section shall not apply to a provider of
+159 broadband Internet access services, as described in 47 C.F.R.
+160 § 8.1, or its affiliate or subsidiary, or an information
+161 service, system, or access software provider that provides or
+162 enables computer access by multiple users to a computer
+163 service, including specifically a service or system that
+164 provides access to the Internet and systems operated or
+165 services offered by libraries or educational institutions as
+166 well as online service providers.
+167 Section 4. (a) Except as provided by subsection (b), a
+168 person may use a digital replica without the right holder's
+Page 6
+
+person may use a digital replica without the right holder's
+169 consent if, regardless of the degree of fictionalization, the
+170 digital replica meets any of the following criteria:
+171 (1) Is used in a news, public affairs, informational
+172 television, or sports television or radio broadcast or
+173 account, so long as the digital replica is the subject of, or
+174 is relevant to, the subject of the broadcast or account, or is
+175 a representation of the individual in a documentary,
+176 docudrama, or in a biographical or historical manner.
+177 (2) Is produced or used in commentary, criticism,
+178 scholarship, satire, or parody.
+179 (3) Is used in a fleeting or negligible manner.
+180 (4) Is used in a publication that reproduces or
+181 distributes a digital replica provided to the publication by a
+182 third party, provided the publication has no knowledge that
+183 the digital replica violates this act.
+184 (5) Is used in an advertisement or commercial
+185 announcement for a purpose described in subdivisions (1)
+186 through (4) and the digital replica is relevant to the subject
+187 of the advertisement or announcement.
+188 (6) Is used in a manner that is subject to and
+189 protected by any rights, obligations, or immunities created by
+190 the federal Communications Act of 1934, the rules and policies
+191 of the Federal Communications Commission, other federal law,
+192 or otherwise protected by the First Amendment of the United
+193 States Constitution.
+194 (b) Subsection (a) does not apply to a digital replica
+195 used to depict sexually explicit conduct, as defined in 18
+196 U.S.C. § 2256.
+Page 7
+
+U.S.C. § 2256.
+197 Section 5. (a) Except as provided in subsection (c), an
+198 individual, during the individual's lifetime, may license the
+199 individual's digital replication right. A license under this
+200 subsection is valid only if the license agreement meets both
+201 of the following criteria:
+202 (1) Is in writing and signed by the individual or an
+203 authorized representative of the individual.
+204 (2) Includes a reasonably specific description of the
+205 intended uses of the digital replica.
+206 (b) Subsection (a) shall not affect the terms and
+207 conditions of a license or contract other than those described
+208 in this act, and the expiration of the license does not affect
+209 the remainder of the license or related contract.
+210 (c) Subsection (a) does not apply if the license is
+211 governed by a collective bargaining agreement that addresses
+212 digital replicas.
+213 (d) A postmortem transfer or license of a digital
+214 replication right is valid only if the testamentary instrument
+215 transferring the right or the license agreement is in writing
+216 and signed by the right holder or an authorized representative
+217 of the right holder.
+218 (e) A digital replica that is embodied in a sound
+219 recording, image, audiovisual work, including an audiovisual
+220 work that does not have any accompanying sounds, or
+221 transmission where the use is authorized under the terms of a
+222 license agreement may continue to be used in a manner
+223 consistent with the terms of the license after the expiration
+224 or termination of the license agreement.
+Page 8
+
+or termination of the license agreement.
+225 (f) Subject to Section 2(f) and to the terms of a
+226 contract, including a license agreement, or testamentary
+227 instrument entered into before October 1, 2026, if a right
+228 holder dies before October 1, 2026, the right holder's digital
+229 replication rights vest in the executors, heirs, assigns, or
+230 devisees of the right holder.
+231 Section 6. The renewal of a right described by Section
+232 2(d)(2) is only effective if, before the two-year period
+233 described in Section 2(d)(2)b., the right holder files a
+234 notice with the Secretary of State that contains all of the
+235 following:
+236 (1) The name of the deceased individual.
+237 (2) A statement, under penalty of perjury, that the
+238 right holder has engaged in active and authorized public use
+239 of the voice or visual likeness during the applicable two-year
+240 period.
+241 (3) The identity of and contact information for the
+242 right holder.
+243 (4) Any other information the Secretary of State deems
+244 necessary.
+245 Section 7. (a) The Secretary of State shall maintain
+246 and make available to the public a directory of postmortem
+247 digital replication rights registered under Section 6.
+248 (b) A right holder may voluntarily apply to the
+249 Secretary of State for inclusion in the directory described in
+250 subsection (a) by filing a notice with the Secretary of State
+251 that complies with the form, content, and filing procedures
+252 prescribed, by rule, by the Secretary of State.
+Page 9
+
+prescribed, by rule, by the Secretary of State.
+253 (c) The Secretary of State may impose a filing fee on a
+254 right holder for inclusion in the directory described in
+255 subsection (a) in amounts necessary to cover the cost of
+256 administering the directory.
+257 Section 8. An action under Section 9 or 10 may only be
+258 brought by one or more of the following parties:
+259 (1) An exclusive right holder.
+260 (2) If the individual described in subdivision (1) is a
+261 minor, the parent or guardian of the exclusive right holder.
+262 (3) Any other person that exclusively controls,
+263 including through a license, the right to authorize the use of
+264 the voice or visual likeness of the individual described in
+265 subdivision (1).
+266 (4) Any other person that owns or controls the right to
+267 authorize the use or visual likeness of a deceased individual
+268 described in subdivision (1).
+269 (5) In the case of a digital replica of an individual
+270 who is a sound recording artist, provided that the sound
+271 recording artist has given a person express written
+272 authorization to commence such a civil action on the
+273 individual's behalf, any person that has entered into either
+274 of the following:
+275 a. A contract for the exclusive personal services of
+276 the sound recording artist as a sound recording artist.
+277 b. An exclusive license to distribute or transmit works
+278 that capture the audio performance of the sound recording
+279 artist, provided that the sound recording artist is an
+280 individual and has given the person express written
+Page 10
+
+individual and has given the person express written
+281 authorization to commence such a civil action on his or her
+282 behalf.
+283 Section 9. An eligible plaintiff may bring a private
+284 cause of action against a person who violates or threatens to
+285 violate this act to obtain:
+286 (1) Injunctive relief; or
+287 (2) Other equitable relief.
+288 Section 10. (a) For the purposes of this section, the
+289 term "knowingly" means having actual knowledge of or acting
+290 with deliberate ignorance of the prohibition involved.
+291 (b) An eligible plaintiff may bring a cause of action
+292 against another person who knowingly violates Section 3.
+293 (c) For the purposes of subsection (a), a person may be
+294 presumed to have acted knowingly if the person willingly
+295 avoided having knowledge that: (i) the applicable material is
+296 a digital replica; and (ii) the digital replica was not
+297 authorized by a right holder.
+298 (d) A cause of action brought pursuant to this section
+299 must commence within three years after the date on which the
+300 person discovered, or with due diligence should have
+301 discovered, the violation.
+302 (e) In a cause of action brought under this section, a
+303 person that violates Section 3 shall be liable for: (i) the
+304 actual damages suffered by the injured party as a result of
+305 the violation; (ii) disgorgement of any profits attributable
+306 to the unauthorized use; and (iii) punitive damages if the
+307 violator is found to have acted with wantonness, fraud, or
+308 knowledge.
+Page 11
+
+knowledge.
+309 (f) An online service provider that has acted
+310 reasonably with regard to material claimed to be an
+311 unauthorized digital replica may not be liable for statutory
+312 or actual damages regardless of whether the material is
+313 ultimately determined to be an unauthorized digital replica.
+314 Section 11. This act shall only apply to an individual
+315 who either: (i) is a resident of this state; or (ii) was a
+316 resident of this state on the date the individual died.
+317 Section 12. This act shall become effective on October
+318 1, 2026.
+Page 12

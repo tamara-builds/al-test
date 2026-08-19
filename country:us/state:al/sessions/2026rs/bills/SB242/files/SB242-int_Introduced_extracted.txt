@@ -1,0 +1,249 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB242 INTRODUCED
+1 SB242
+2 FKEB2D5-1
+3 By Senator Bell
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 03-Feb-26
+Page 0
+
+First Read: 03-Feb-26
+FKEB2D5-1 02/03/2026 GED (L)ma 2026-134
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an individual operating a
+6 commercial motor vehicle must meet certain requirements
+7 to validly operate upon the roads of the state. These
+8 requirements include the possession of a valid
+9 commercial driver license and the passage of certain
+10 testing.
+11 This bill would codify into state law federal
+12 highway safety and transportation regulations that
+13 require individuals who have obtained a commercial
+14 driver license from a foreign government to show valid
+15 proof of entry documentation to operate within the
+16 state.
+17 This bill would codify into state law federal
+18 highway safety and transportation regulations that
+19 require individuals operating commercial vehicles to
+20 have proficiency in the English language and would
+21 provide for penalties and impoundment procedures
+22 associated with a violation.
+23 This bill would create the offense of presenting
+24 a false foreign commercial driver license and provide
+25 for penalties.
+26 This bill would also create the offense of
+27 operating a commercial motor vehicle without proper
+28 documentation and provide for penalties.
+Page 1
+
+documentation and provide for penalties.
+SB242 INTRODUCED
+29
+30
+31 A BILL
+32 TO BE ENTITLED
+33 AN ACT
+34
+35 Relating to commercial driver licenses; to amend
+36 Section 32-6-49.18, Code of Alabama 1975, to require certain
+37 commercial driver license holders to possess a United States
+38 work authorization to operate a commercial motor vehicle
+39 within the state; to require an operator of a commercial motor
+40 vehicle to have proficiency in the English language; to
+41 provide for certain impoundment procedures; to create the
+42 offense of presenting a false foreign commercial driver
+43 license; to create the offense of operating a commercial motor
+44 vehicle without proper documentation; and to provide for
+45 penalties.
+46 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+47 Section 1. Section 32-6-49.18, Code of Alabama 1975, is
+48 amended to read as follows:
+49 "§32-6-49.18
+50 (a) Notwithstanding any law to the contrary, a an
+51 personindividual may drive a commercial motor vehicle in this
+52 state if the individual meets the following requirements:
+53 (1) the person The individual has:
+54 a. a A valid commercial driver license or commercial
+55 driver license instruction learner permit issued by any state
+56 or provinces or territories of Canada, territory, or
+Page 2
+
+or provinces or territories of Canada, territory, or
+SB242 INTRODUCED
+57 possession of the United States, the District of Columbia, or
+58 the Commonwealth of Puerto Rico in accordance with the minimum
+59 federal standards for the issuance of commercial motor vehicle
+60 driver licenses, ; or
+61 b. Both a commercial driver license or commercial
+62 learner permit issued by Canada, Mexico, or any other
+63 jurisdiction under a waiver or exemption recognized by the
+64 Federal Motor Carrier Safety Administration and the additional
+65 entry documents required under 8 C.F.R. § 214.2(b)(4).
+66 (2)if the The license is not suspended, revoked, or
+67 canceled; and if the personindividual is not disqualified from
+68 driving a commercial motor vehicle, or subject to an out of
+69 service order.
+70 (b) The department must Alabama State Law Enforcement
+71 Agency shall give all out of state convictions full faith and
+72 credit and treat them for sanctioning purposes under this
+73 article as if they occurred in this state."
+74 Section 2. Division 3, commencing with Section
+75 32-6-49.60, is added to Article 1A of Chapter 6 of Title 32,
+76 Code of Alabama 1975, to read as follows:
+77 Division 3
+78 §32-6-49.60
+79 This division shall be known and may cited as the
+80 Highway Safety and Fairness Act.
+81 §32-6-49.61
+82 For the purposes of this division, the following terms
+83 have the following meanings:
+84 (1) COMMERCIAL DRIVER LICENSE (CDL). A license issued
+Page 3
+
+(1) COMMERCIAL DRIVER LICENSE (CDL). A license issued
+SB242 INTRODUCED
+85 to an individual in accordance with the requirements of this
+86 article, which authorizes the individual to drive a class of
+87 commercial motor vehicle.
+88 (2) COMMERCIAL LEARNER PERMIT (CLP). A permit issued to
+89 an individual by a state or other jurisdiction of domicile, in
+90 accordance with the standards contained in 49 C.F.R. Part 383,
+91 which, when carried with a valid driver license issued by the
+92 same state or jurisdiction, authorizes the individual to
+93 operate a class of a commercial motor vehicle when accompanied
+94 by a holder of a valid CDL for purposes of behind-the-wheel
+95 training.
+96 (3) COMMERCIAL MOTOR VEHICLE. The term as defined under
+97 Section 32-6-49.3.
+98 (4) FOREIGN GOVERNMENT. Any jurisdiction other than a
+99 state, territory, province, or possession of the United
+100 States.
+101 (5) PUBLIC RECORD. a. All official books, papers,
+102 exhibits, or records of any type required by law to be created
+103 by or received and retained in a governmental office or
+104 agency, affording notice or information to the public or
+105 constituting a memorial of an act or transaction of a public
+106 office or public servant.
+107 b. A license, certificate, permit, seal, title, letter
+108 of patent, or similar document issued by a state, territory,
+109 or possession of the United States, the District of Columbia,
+110 or the Commonwealth of Puerto Rico or a foreign government
+111 engaged in a reciprocal treaty or memorandum of understanding
+112 with the United States.
+Page 4
+
+with the United States.
+SB242 INTRODUCED
+113 §32-6-49.62
+114 (a) An individual commits the offense of presenting a
+115 false foreign commercial driver license if the individual
+116 knowingly:
+117 (1) Makes, presents, or uses a public record with
+118 knowledge of the falsity of the public record and with the
+119 intent that the public record be taken as a genuine public
+120 record; and
+121 (2) Represents that a false public record made,
+122 presented, or used under subdivision (1) is a valid commercial
+123 driver license or commercial learner permit issued by a
+124 foreign government.
+125 (b) A violation of this section is a Class D felony.
+126 §32-6-49.63
+127 (a) An individual commits the offense of operating a
+128 commercial motor vehicle without proper documentation if the
+129 individual knowingly:
+130 (1) Holds a valid commercial driver license issued by a
+131 foreign government; and
+132 (2) Does not have the additional entry documents
+133 required under 8 C.F.R. § 214.2(b)(4) in his or her immediate
+134 possession while operating a commercial motor vehicle.
+135 (b)(1) Except as provided in subdivision (2), a
+136 violation of this section is a Class D felony and subject to
+137 any of the following:
+138 a. The impounding of the commercial motor vehicle.
+139 b. A one thousand dollar ($1,000) fine for the driver.
+140 c. A two thousand dollar ($2,000) fine for the
+Page 5
+
+c. A two thousand dollar ($2,000) fine for the
+SB242 INTRODUCED
+141 commercial motor carrier.
+142 (2) A violation of this section is a Class A
+143 misdemeanor if the individual establishes by a preponderance
+144 of the evidence that at the time the offense was committed,
+145 the individual had been issued the additional entry documents
+146 required under 8 C.F.R. § 214.2(b)(4).
+147 §32-6-49.64
+148 (a) An operator of a commercial motor vehicle shall be
+149 able to read and speak the English language sufficiently to
+150 meet the English language proficiency requirements under 49
+151 C.F.R. § 391.11.
+152 (b) An individual commits the offense of operating a
+153 commercial motor vehicle without sufficient English language
+154 proficiency if the individual:
+155 (1) Operates a commercial motor vehicle; and
+156 (2) Fails to demonstrate proficiency in the English
+157 language as required under subsection (a).
+158 (c)(1) For a first violation of this section, a person
+159 who violates this section is guilty of a traffic violation,
+160 which shall be punished by a fine of up to one thousand
+161 dollars ($1,000) for the operator, a fine of up to two
+162 thousand dollars ($2,000) for the commercial motor carrier,
+163 and the impoundment of the commercial motor vehicle if it is
+164 determined that the operator or the commercial motor vehicle
+165 poses a threat to public safety.
+166 (2) A second or subsequent violation of this section
+167 shall be punished by a fine of up to two thousand dollars
+168 ($2,000) for the operator, a fine of up to four thousand
+Page 6
+
+($2,000) for the operator, a fine of up to four thousand
+SB242 INTRODUCED
+169 dollars ($4,000) for the commercial motor carrier, and the
+170 impoundment of the commercial motor vehicle.
+171 (d)(1) The law enforcement officer making the
+172 impoundment shall direct an approved towing service to tow the
+173 commercial motor vehicle to the garage of the towing service,
+174 storage lot, or other place of safety and maintain custody and
+175 control of the commercial motor vehicle until the registered
+176 owner or authorized agent of the registered owner claims the
+177 commercial motor vehicle by paying all reasonable and
+178 customary towing and storage fees for the services of the
+179 towing company. The commercial motor vehicle shall then be
+180 released to the registered owner or an agent of the owner.
+181 (2) Any towing service or towing company removing the
+182 commercial motor vehicle at the direction of the law
+183 enforcement officer in accordance with this section shall have
+184 a lien on the commercial motor vehicle for all reasonable and
+185 customary fees relating to the towing and storage of the
+186 commercial motor vehicle. This lien shall be subject and
+187 subordinate to all prior security interests and other liens
+188 affecting the commercial motor vehicle whether evidenced on
+189 the certificate of title or otherwise. Notice of any sale or
+190 other proceedings relative to this lien shall be given to the
+191 holders of all prior security interest or other liens by
+192 official service of process at least 15 days prior to any sale
+193 or other proceedings.
+194 (3) Any person in possession of a commercial motor
+195 vehicle impounded pursuant to this section shall be subject to
+196 the provisions of Chapter 13 of Title 32, relating to the
+Page 7
+
+the provisions of Chapter 13 of Title 32, relating to the
+SB242 INTRODUCED
+197 impoundment and sale of abandoned vehicles; Section 32-8-84,
+198 relating to the procedures for unclaimed vehicles; and Section
+199 41-27-61, relating to the procedures for freight retrieval of
+200 impounded commercial vehicles.
+201 Section 3. This act shall become effective on October
+202 1, 2026.
+Page 8

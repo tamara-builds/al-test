@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB585",
+  "title": "Money transmissions, transaction fee imposed for certain outgoing international wire transfers, income tax credit established to offset transaction fees imposed on taxpayer,  reporting of certain suspicious cash transactions required, Securities Commission to enforce",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Businesses & Financial Institutions"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Businesses & Financial Institutions"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb585"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pending Committee Action in House of Origin (Financial Services)",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Financial Services",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Fidler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Fidler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB585-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-DGEYITH-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "25647684"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "text_extraction_latest_update": "2026-07-21T19:27:13.064491Z"
+  }
+}

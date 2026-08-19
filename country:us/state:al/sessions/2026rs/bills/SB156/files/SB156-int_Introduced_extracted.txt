@@ -1,0 +1,549 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB156 INTRODUCED
+1 SB156
+2 AR8X9SS-1
+3 By Senators Coleman, Figures, Smitherman
+4 RFD: Judiciary
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+AR8X9SS-1 01/13/2026 CMH (L)bm 2026-115
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish the Gun Violence
+6 Protective Order Act.
+7 This bill would authorize courts to issue ex
+8 parte gun violence protective orders and one-year gun
+9 violence protective orders, which may be authorized if
+10 the court finds that the respondent, as defined, poses
+11 an immediate and present danger of causing personal
+12 injury to self or others.
+13 This bill would provide that upon the issuance
+14 of an ex parte or one-year gun violence protective
+15 order, the court shall order the respondent to
+16 surrender to the local law enforcement agency all
+17 firearms and ammunition of which the respondent has
+18 custody, control, ownership, or possession.
+19 This bill would provide for the renewal or early
+20 termination of a one-year gun violence protective order
+21 under certain conditions.
+22 This bill would provide criminal penalties for a
+23 violation.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+SB156 INTRODUCED
+29
+30 Relating to firearms; to establish the Gun Violence
+31 Protective Order Act; to provide for the issuance of ex parte
+32 gun violence protective orders and one-year gun violence
+33 protective orders; to require the surrender of all firearms
+34 and ammunition of a person subject to an ex parte gun violence
+35 protective order or one-year gun violence protective order; to
+36 provide for the renewal or early termination of an order; and
+37 to provide criminal penalties for a violation.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. This act shall be known and may be cited as
+40 the Gun Violence Protective Order Act.
+41 Section 2. The Legislature finds and declares the
+42 following:
+43 (1) Over 100,000 people become victims of a gunshot
+44 wound each year and more than 30,000 of those victims lose
+45 their lives.
+46 (2) Federal law prohibits any individual subject to
+47 certain domestic violence restraining orders from purchasing
+48 or possessing firearms. Many states have similar laws. About
+49 half of the states also authorize or require a court that is
+50 issuing a domestic violence protective order to require the
+51 abuser to surrender firearms that he or she may already have
+52 in his or her possession. This act is modeled on existing
+53 domestic violence laws that have firearms surrender
+54 provisions.
+55 (3) Studies have shown that an individual who engages
+56 in certain dangerous behaviors is significantly more likely to
+Page 2
+
+in certain dangerous behaviors is significantly more likely to
+SB156 INTRODUCED
+57 commit an act of violence toward himself or herself or others
+58 in the near future. These behaviors, which might include other
+59 acts or threats of violence, self-harm, or the abuse of drugs
+60 or alcohol, serve as warning signs that the individual might
+61 soon commit an act of violence.
+62 (4) Under federal law, an individual suffering from
+63 mental illness is not prohibited from purchasing or possessing
+64 a firearm unless he or she has been involuntarily committed to
+65 a mental institution, found not guilty of a crime by reason of
+66 insanity, or undergone some other formalized court proceeding
+67 regarding his or her mental illness. Similarly, an individual
+68 who has committed a violent act toward another is not
+69 prohibited from possessing a firearm under federal law until
+70 after he or she has been convicted of a felony or domestic
+71 violence misdemeanor.
+72 (5) It is the purpose and intent of the Legislature to
+73 reduce firearm deaths and injuries by providing a formal court
+74 procedure that law enforcement officers, teachers, and family
+75 members may use to obtain a court order that prevents an
+76 individual who poses a significant danger of causing personal
+77 injury to self or others from gaining access to firearms and
+78 ammunition. The Legislature intends for these court orders to
+79 be limited to situations in which the individual poses a
+80 significant danger of causing personal injury to self or
+81 others by owning, purchasing, controlling, possessing, or
+82 receiving a firearm or ammunition.
+83 Section 3. The following terms have the following
+84 meanings:
+Page 3
+
+meanings:
+SB156 INTRODUCED
+85 (1) EX PARTE GUN VIOLENCE PROTECTIVE ORDER. An order
+86 issued by a court, pursuant to Section 5, that prohibits the
+87 respondent from owning, purchasing, controlling, possessing,
+88 or receiving firearms or ammunition until a court-scheduled
+89 hearing for a one-year gun violence protective order.
+90 (2) FAMILY MEMBER. An individual related by blood,
+91 marriage, or adoption to the respondent, current or former
+92 dating partner of the respondent, and any individual who
+93 resides or has resided with the respondent or who is acting or
+94 has acted as the respondent's legal guardian.
+95 (3) FIREARM. A weapon from which a shot is discharged
+96 by gun powder.
+97 (4) ONE-YEAR GUN VIOLENCE PROTECTIVE ORDER. An order
+98 issued by a court, pursuant to Section 6, prohibiting the
+99 respondent from owning, purchasing, controlling, possessing,
+100 or receiving guns or ammunition for a period of one year.
+101 (5) PETITIONER. A law enforcement officer, teacher, or
+102 family member of the respondent who files a petition pursuant
+103 to Section 4.
+104 (6) RESPONDENT. The individual identified in the
+105 petition filed under Section 4, Section 5, or Section 6.
+106 (7) TEACHER. A teacher, school administrator, school
+107 counselor, college professor, student teacher, safety or
+108 resource officer, or coach of the respondent.
+109 Section 4. (a) A petitioner may seek a gun violence
+110 protective order by filing a verified petition on a form
+111 approved by the Administrative Office of Courts in the court
+112 of the county where the respondent resides.
+Page 4
+
+of the county where the respondent resides.
+SB156 INTRODUCED
+113 (b) The petition shall set forth the grounds for the
+114 issuance of the order and shall describe the number, types,
+115 and locations of any firearms or ammunition presently believed
+116 by the petitioner to be possessed or controlled by the
+117 respondent. The petition shall also state whether there is an
+118 existing domestic violence protective order in effect
+119 governing the respondent and whether there is any pending
+120 lawsuit, complaint, petition, or other action between the
+121 parties under the laws of this state. The court administrator
+122 shall verify the terms of any existing order governing the
+123 parties. The court may not delay granting relief because of
+124 the existence of a pending action between the parties or the
+125 necessity of verifying the terms of an existing order. A
+126 petition for a gun violence protective order may be granted
+127 whether or not there is a pending action between the parties.
+128 (c) If the respondent is alleged to pose an immediate
+129 and present danger of causing personal injury to a family
+130 member, or a family member is alleged to have been the target
+131 of a threat or act of violence by the respondent, the
+132 petitioner shall make a good faith effort to provide notice to
+133 any and all adult family members of the respondent. The notice
+134 must state that the petitioner intends to petition the court
+135 for a gun violence protective order, and, if the petitioner is
+136 a law enforcement officer, must also include a referral to
+137 relevant domestic violence or stalking advocacy or counseling
+138 resources, if appropriate. The petitioner shall attest to
+139 having provided the notice in the verified petition. If the
+140 petitioner is unable to provide notice to any or all adult
+Page 5
+
+petitioner is unable to provide notice to any or all adult
+SB156 INTRODUCED
+141 family members of the respondent, the verified petition shall
+142 describe what good faith efforts were made.
+143 (d) All health records and other health information
+144 provided in a petition or considered as evidence in a
+145 proceeding under this act shall be protected from public
+146 disclosure to the extent the information identifies a
+147 respondent or petitioner, except that the information may be
+148 provided to law enforcement agencies as set forth in Section
+149 10. Aggregate statistical data about the numbers of gun
+150 violence protective orders issued, renewed, denied, dissolved,
+151 or terminated shall be available to the public upon request.
+152 (e) Upon receipt of the petition, the court shall set a
+153 date for a hearing within 14 calendar days, regardless of
+154 whether the court issues an ex parte gun violence protective
+155 order. If the court issues an ex parte gun violence protective
+156 order, notice of the hearing shall be served on the respondent
+157 with the ex parte order. Notice of the hearing shall be
+158 personally served on the respondent by a law enforcement
+159 officer.
+160 (f) The Administrative Office of Courts shall prescribe
+161 the form of the petitions, orders, and any other documents and
+162 shall adopt any rules of court necessary for the
+163 implementation of this act.
+164 Section 5. (a) A petitioner may request that an ex
+165 parte order be issued prior to a hearing for a one-year gun
+166 violence protective order, without notice to the respondent,
+167 by including in the petition detailed allegations based on
+168 personal knowledge that the respondent poses an immediate and
+Page 6
+
+personal knowledge that the respondent poses an immediate and
+SB156 INTRODUCED
+169 present danger of causing personal injury to self or others
+170 through his or her ownership, purchase, control, possession,
+171 or receipt of a firearm or ammunition.
+172 (b) The court shall issue or deny an ex parte gun
+173 violence protective order on the same day that the petition is
+174 submitted to the court, unless the petition is filed too late
+175 in the day to allow for its effective review, in which case
+176 the order shall be issued or denied on the next business day.
+177 (c) Before issuing an ex parte gun violence protective
+178 order, the court shall examine under oath the petitioner and
+179 any witnesses the petitioner may produce. The court may also
+180 do the following:
+181 (1) Ensure that a reasonable search has been conducted
+182 of all available records to determine whether the respondent
+183 owns any firearms or ammunition.
+184 (2) Ensure that a reasonable search has been conducted
+185 for criminal history records related to the respondent.
+186 (d) In determining whether grounds for an ex parte gun
+187 violence protective order exists, the court shall consider all
+188 relevant evidence presented by the petitioner, and may also
+189 consider other relevant evidence, including, but not limited
+190 to, evidence of the occurrence of any of the following events
+191 by the respondent:
+192 (1) Unlawful, reckless, or negligent use, display,
+193 storage, possession, or brandishing of a firearm.
+194 (2) Act or threat of violence against self or another,
+195 whether or not the violence involved a firearm.
+196 (3) Violation of a protective order issued under
+Page 7
+
+(3) Violation of a protective order issued under
+SB156 INTRODUCED
+197 Chapter 5 or Chapter 5B of Title 30 of the Code of Alabama
+198 1975, or a similar law in another state.
+199 (4) Abuse of controlled substances or alcohol or any
+200 criminal offense that involves controlled substances or
+201 alcohol.
+202 (5) The recent acquisition of firearms, ammunition, or
+203 other deadly weapons.
+204 (e) The court shall also consider the time that has
+205 elapsed since the occurrence of any event described in
+206 subsection (d).
+207 (f) If a court finds reasonable cause to believe that
+208 the respondent poses an immediate and present danger of
+209 causing personal injury to self or others by owning,
+210 purchasing, controlling, possessing, or receiving a firearm or
+211 ammunition, the court shall issue an ex parte gun violence
+212 protective order.
+213 (g) An ex parte gun violence protective order shall
+214 include all of the following:
+215 (1) A statement that the respondent may not own,
+216 purchase, control, possess, or receive, or attempt to purchase
+217 or receive, a firearm or ammunition while the order is in
+218 effect.
+219 (2) A description of the requirements for
+220 relinquishment of firearms and ammunition under Section 8.
+221 (3) A statement of the grounds asserted for the order.
+222 (4) A notice of the hearing under Section 4(e) to
+223 determine whether to issue a one-year gun violence protective
+224 order, including the address of the court and the date and
+Page 8
+
+order, including the address of the court and the date and
+SB156 INTRODUCED
+225 time for when the hearing is scheduled.
+226 (5) A statement that the court may extend the order by
+227 one year at the hearing.
+228 (6) A statement that the respondent may seek the advice
+229 of an attorney as to any matter connected with the order, and
+230 that the attorney should be consulted promptly so that the
+231 attorney may assist the individual in any matter connected
+232 with the order.
+233 (h) An ex parte gun violence protective order shall be
+234 personally served on the respondent by a law enforcement
+235 officer.
+236 (i) In accordance with Section 4(e), the court shall
+237 schedule a hearing within 14 calendar days of the issuance of
+238 an ex parte gun violence protective order to determine if a
+239 one-year gun violence protective order shall be issued. A
+240 respondent may seek an extension of time before the hearing.
+241 The court shall dissolve any ex parte gun violence protective
+242 order in effect against the respondent when the court holds
+243 the hearing.
+244 Section 6. (a) A petitioner requesting a one-year gun
+245 violence protective order shall include in the petition
+246 detailed allegations based on personal knowledge that the
+247 respondent poses a substantial danger of causing personal
+248 injury to self or others through his or her ownership,
+249 purchase, control, possession, or receipt of a firearm or
+250 ammunition.
+251 (b) Prior to a hearing for a one-year gun violence
+252 protective order, the court shall do both of the following:
+Page 9
+
+protective order, the court shall do both of the following:
+SB156 INTRODUCED
+253 (1) Ensure that a reasonable search has been conducted
+254 of all available records to determine whether the respondent
+255 owns any firearms or ammunition.
+256 (2) Ensure that a reasonable search has been conducted
+257 for criminal history records related to the respondent.
+258 (c) In determining whether to issue a one-year gun
+259 violence protective order under this section, the court shall
+260 consider all relevant evidence presented by the petitioner and
+261 may also consider other relevant evidence, including, but not
+262 limited to, evidence of events identified in Section 5(d).
+263 (d) If the court finds by a preponderance of the
+264 evidence at the hearing that the respondent poses a
+265 substantial danger of personal injury to self or others
+266 through his or her ownership, purchase, control, possession,
+267 or receipt of a firearm or ammunition, the court shall issue a
+268 one-year gun violence protective order.
+269 (e) A one-year gun violence protective order issued
+270 under this section shall include all of the following:
+271 (1) A statement that the respondent may not own,
+272 possess, control, purchase, or receive, or attempt to purchase
+273 or receive, a firearm or ammunition while the order is in
+274 effect.
+275 (2) A description of the requirements for
+276 relinquishment of firearms and ammunition under Section 8.
+277 (3) A statement of the grounds supporting the issuance
+278 of the order.
+279 (4) The date and time the order expires.
+280 (5) The address of the court that issued the order.
+Page 10
+
+(5) The address of the court that issued the order.
+SB156 INTRODUCED
+281 (6) A statement that the respondent shall have the
+282 right to request one hearing to terminate the order at any
+283 time during its effective period.
+284 (7) A statement that the respondent may seek the advice
+285 of an attorney as to any matter connected with the order.
+286 (f) If the respondent fails to appear at the hearing
+287 and the court determines that a one-year gun violence
+288 protective order shall be issued, the order shall be
+289 personally served on the respondent by a law enforcement
+290 officer.
+291 Section 7. (a) A respondent subject to a one-year gun
+292 violence protective order may submit one written request at
+293 any time during the effective period of the order for a
+294 hearing to terminate the order.
+295 (1) Upon receipt of the request for termination, the
+296 court shall set a date for a hearing. Notice of the request
+297 shall be served on the petitioner in accordance with the
+298 Alabama Rules of Civil Procedure. The hearing shall occur no
+299 sooner than 14 calendar days from the date of service of the
+300 request upon the petitioner.
+301 (2) The respondent seeking termination of the order
+302 shall have the burden of proving by a preponderance of the
+303 evidence that the respondent does not pose a substantial
+304 danger of causing personal injury to self or others through
+305 his or her ownership, purchase, control, possession, or
+306 receipt of a firearm or ammunition.
+307 (3) If the court finds that the respondent has met his
+308 or her burden, the court shall terminate the order.
+Page 11
+
+or her burden, the court shall terminate the order.
+SB156 INTRODUCED
+309 (b) A petitioner may request a renewal of a one-year
+310 gun violence protective order at any time within the three
+311 months before the expiration of the order.
+312 (1) A court, after notice and a hearing, may renew the
+313 one-year gun violence protective order if the court, by a
+314 preponderance of the evidence, finds that the respondent
+315 continues to pose a substantial danger of causing personal
+316 injury to self or another through his or her ownership,
+317 purchase, control, possession, or receipt of a firearm or
+318 ammunition.
+319 (2) In determining whether to renew a one-year gun
+320 violence protective order, the court shall consider all
+321 relevant evidence presented by the petitioner, and may also
+322 consider other relevant evidence, including, but not limited
+323 to, evidence of the events identified in Section 5(d).
+324 (3) A one-year gun violence protective order renewed
+325 under this subsection shall expire after one year, subject to
+326 termination by further order of the court at a hearing held
+327 under subsection (a) and further renewal by order of the court
+328 under this subsection.
+329 Section 8. (a) Upon issuance of an ex parte or one-year
+330 gun violence protective order, the court shall order the
+331 respondent to surrender to the local law enforcement agency
+332 all firearms and ammunition of which the respondent has
+333 custody, control, or ownership.
+334 (b) A law enforcement officer serving a gun violence
+335 protective order shall request that all firearms and
+336 ammunition belonging to or in the custody or control of the
+Page 12
+
+ammunition belonging to or in the custody or control of the
+SB156 INTRODUCED
+337 respondent be immediately surrendered and shall take
+338 possession of the firearms and ammunition that are
+339 surrendered. A law enforcement officer serving a gun violence
+340 protective order may conduct a lawful search for firearms and
+341 ammunition.
+342 (c) At the time of surrender or removal, a law
+343 enforcement officer taking possession of a firearm or
+344 ammunition pursuant to a gun violence protective order shall
+345 issue a receipt identifying all firearms and ammunition that
+346 have been surrendered or removed and provide a copy of the
+347 receipt to the respondent. Within 72 hours after serving the
+348 order, the officer who served the order shall file the
+349 original receipt with the court that issued the gun violence
+350 protective order, and shall ensure that the law enforcement
+351 agency retains a copy of the receipt.
+352 (d) If a petitioner has probable cause to believe a
+353 respondent to a gun violence protective order owns, controls,
+354 or possesses a firearm or ammunition that the respondent has
+355 failed to surrender pursuant to this section, or has received
+356 or purchased a firearm or ammunition while subject to the
+357 order, the petitioner may petition the court to issue a
+358 warrant. The petition shall describe the firearm or ammunition
+359 and where the firearm or ammunition is reasonably believed to
+360 be located. The court may issue the warrant upon a finding of
+361 probable cause.
+362 (e) A law enforcement agency may charge the respondent
+363 a fee not to exceed the reasonable and actual costs incurred
+364 by the law enforcement agency for storing a firearm or
+Page 13
+
+by the law enforcement agency for storing a firearm or
+SB156 INTRODUCED
+365 ammunition surrendered pursuant to this section for the
+366 duration of the gun violence protective order and any
+367 additional periods necessary under Section 7.
+368 Section 9. (a) As used in this section, "dispose" means
+369 to sell or transfer a firearm or ammunition to a federally
+370 licensed dealer, defined under 18 U.S.C. § 921 et seq., or to
+371 destroy the firearm or ammunition.
+372 (b) Thirty days before a one-year gun violence
+373 protective order is set to expire, a law enforcement agency
+374 holding a firearm or ammunition that has been surrendered
+375 pursuant to the order shall notify the petitioner that the
+376 order is set to expire. The notice shall advise the petitioner
+377 of the procedures for seeking a renewal of the order pursuant
+378 to Section 7.
+379 (c) If a gun violence protective order is terminated or
+380 expires and is not renewed, a law enforcement agency holding
+381 any firearm or ammunition that has been surrendered pursuant
+382 to Section 8 shall notify the respondent that he or she may
+383 request the return of the firearm or ammunition. The law
+384 enforcement agency shall return any surrendered firearms or
+385 ammunition requested by a respondent only after confirming,
+386 through a background check, that the respondent is currently
+387 eligible to own or possess firearms and ammunition.
+388 (d) A respondent who has surrendered a firearm or
+389 ammunition to a law enforcement agency pursuant to Section 8
+390 and who does not wish to have the firearm or ammunition
+391 returned or who is no longer eligible to own or possess a
+392 firearm or ammunition may sell or transfer title of the
+Page 14
+
+firearm or ammunition may sell or transfer title of the
+SB156 INTRODUCED
+393 firearm or ammunition to a licensed firearms dealer. The law
+394 enforcement agency shall transfer possession of the firearm or
+395 ammunition to a licensed firearms dealer only after the dealer
+396 has displayed written proof of transfer of the firearm or
+397 ammunition from the respondent to the dealer and the law
+398 enforcement agency has verified the transfer.
+399 (e) If an individual other than the respondent claims
+400 title to a firearm or ammunition surrendered pursuant to
+401 Section 8, and the individual is determined by the law
+402 enforcement agency to be the lawful owner of the firearm or
+403 ammunition, the gun or ammunition shall be returned to him or
+404 her.
+405 (f) A law enforcement agency holding a firearm or
+406 ammunition that was surrendered by a respondent pursuant to
+407 Section 8 may dispose of the firearm or ammunition only after
+408 six months from the date of proper notice to the respondent of
+409 the intent to dispose of the firearm or ammunition, unless the
+410 firearm or ammunition has been claimed by the lawful owner. If
+411 the firearm or ammunition remains unclaimed after six months
+412 from the date of notice, then no party shall have the right to
+413 assert ownership of the firearm or ammunition and the law
+414 enforcement agency may dispose of the firearm or ammunition.
+415 Section 10. (a) The court shall notify the Alabama
+416 State Law Enforcement Agency (ALEA) no later than one business
+417 day after issuing, renewing, dissolving, or terminating an ex
+418 parte or one-year gun violence protective order under this
+419 act.
+420 (b) The information required to be submitted to ALEA
+Page 15
+
+(b) The information required to be submitted to ALEA
+SB156 INTRODUCED
+421 pursuant to this section shall include identifying information
+422 about the respondent and the date the order was issued,
+423 renewed, dissolved, or terminated. In the case of a one-year
+424 order, the court shall include the date the order is set to
+425 expire. The court shall also indicate whether the respondent
+426 to the one-year gun violence protective order was present in
+427 court to be advised of the contents of the order or if the
+428 respondent failed to appear. The respondent's presence in
+429 court shall constitute proof of service of notice of the terms
+430 of the order.
+431 (c) Within one business day of service, a law
+432 enforcement officer who serves a gun violence protective order
+433 or the clerk of the court shall submit the proof of service
+434 and a copy of the protection order to ALEA for entry into the
+435 appropriate database.
+436 (d) The information to be submitted to ALEA under this
+437 section shall be submitted in an electronic format, in a
+438 manner prescribed by ALEA. ALEA shall maintain a searchable
+439 database of this information, available to law enforcement
+440 agencies upon request.
+441 (e) Within 30 days of submission of the information
+442 under subsection (d), ALEA shall make information about an ex
+443 parte or one-year gun violence protective order issued,
+444 renewed, or terminated pursuant to this act available to the
+445 National Instant Criminal Background Check System for the
+446 purposes of firearm purchaser background checks.
+447 Section 11. (a) A person who files a petition for a gun
+448 violence protective order, knowing the information in the
+Page 16
+
+violence protective order, knowing the information in the
+SB156 INTRODUCED
+449 petition to be materially false or with an intent to harass
+450 the respondent, is guilty of a Class C misdemeanor.
+451 (b) A person who owns, purchases, controls, possesses,
+452 or receives a firearm or ammunition with knowledge that he or
+453 she is prohibited from doing so by a gun violence protective
+454 order is guilty of a Class C misdemeanor and shall be
+455 prohibited from owning, purchasing, controlling, possessing,
+456 or receiving, or attempting to purchase or receive, a firearm
+457 or ammunition for a period of five years from the date of
+458 conviction.
+459 Section 12. This act shall not affect the ability of a
+460 law enforcement officer to remove firearms or ammunition from
+461 any individual pursuant to other lawful authority.
+462 Section 13. This act shall not be construed to impose
+463 criminal or civil liability on any individual who chooses not
+464 to seek a gun violence protective order pursuant to this act.
+465 Section 14. This act shall become effective on October
+466 1, 2026.
+Page 17

@@ -1,0 +1,362 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "SB28",
+  "title": "Retired state employees; work as law enforcement officer or assistant district attorney authorized",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State & State Officers"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "State & State Officers"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb28"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Ways and Means General Fund)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House (Ways and Means General Fund)",
+      "date": "2026-02-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in Second House (Ways and Means General Fund)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Ways and Means General Fund",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Engrossed",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 322",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Orr motion to Adopt - Adopted Roll Call 321",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Orr 1st Amendment Offered",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Carried Over",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Elliott motion to Adopt - Adopted Roll Call 24",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "County and Municipal Government 1st Amendment Offered (County and Municipal Government)",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (County and Municipal Government)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "County and Municipal Government 1st Amendment (County and Municipal Government)",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (County and Municipal Government)",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on County and Municipal Government",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Elliott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elliott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB28-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB28-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reported Out of Committee Second House",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/2J7JHKS-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Orr motion to Adopt - Adopted Roll Call 321",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/9JFATMB-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Elliott motion to Adopt - Adopted Roll Call 24",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/3P7IIEE-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-V7DWNPP-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-V7DWNPP-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-V7DWNPP-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-V7DWNPP-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "22163593"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "text_extraction_latest_update": "2026-07-21T20:46:47.445627Z"
+  }
+}

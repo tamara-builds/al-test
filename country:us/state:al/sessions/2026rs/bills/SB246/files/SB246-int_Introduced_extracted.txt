@@ -1,0 +1,622 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB246 INTRODUCED
+1 SB246
+2 CXSFYQW-1
+3 By Senator Orr
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 03-Feb-26
+Page 0
+
+First Read: 03-Feb-26
+CXSFYQW-1 02/03/2026 VSM (L)ma 2025-3181
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law does not provide specific consumer
+6 protections for victims of unsolicited
+7 investment-oriented real property solicitations. Also
+8 under existing law, the victim of an unfair service
+9 agreement can file a civil complaint and have a judge
+10 determine damages.
+11 This bill would treat investment-oriented real
+12 property solicitations as transactions similar to
+13 unfair service agreements and would authorize the
+14 Alabama Securities Commission to investigate, regulate,
+15 enforce, and impose civil fines and penalties for
+16 violations of the unfair service agreement's statutes
+17 as well as unsolicited investment-oriented real
+18 property solicitations.
+19 This bill would require unsolicited written
+20 offers to purchase real property to include certain
+21 notices to the owner, allow the owners to opt out of
+22 solicitations, allow cancellation of certain
+23 unsolicited purchase contracts, and provide that
+24 violations are a deceptive trade practice.
+25 This bill would also make nonsubstantive,
+26 technical revisions to update the existing code
+27 language to current style.
+28
+Page 1
+
+SB246 INTRODUCED
+29
+30 A BILL
+31 TO BE ENTITLED
+32 AN ACT
+33
+34 Relating to consumer protection; to amend Sections
+35 8-42-1, 8-42-2, and 8-42-3, Code of Alabama 1975; to amend
+36 legislative findings to address investment-oriented
+37 solicitations involving real property; to authorize the
+38 Alabama Securities Commission to determine fines and penalties
+39 for violations of unfair service agreements; to add Sections
+40 8-42-1.1, 8-42-1.2, 8-42-1.3, 8-42-4, and 8-42-5 to the Code
+41 of Alabama 1975; to give the Alabama Securities Commission the
+42 power to regulate investment-oriented solicitations to
+43 homeowners, investigate complaints, and impose fines and
+44 penalties on violators; and would also make nonsubstantive,
+45 technical revisions to update the existing code language to
+46 current style.
+47 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+48 Section 1. Sections 8-42-1, 8-42-2, and 8-42-3, Code of
+49 Alabama 1975, are amended to read as follows:
+50 "§8-42-1
+51 The Legislature finds and declares all of the
+52 following:
+53 (1) Wholesaling real property occurs when a buyer
+54 enters into a contract for purchase and sale of a
+55 single-family residential property with the seller, of the
+56 property thereby creating the buyer's equitable interest in
+Page 2
+
+property thereby creating the buyer's equitable interest in
+SB246 INTRODUCED
+57 the property,. the The buyer then finds a subsequent purchaser
+58 willing to pay a higher price for the property and then
+59 assigns its interest to the subsequent purchaser for a fee.
+60 (2) Certain unfair service agreements provide grant a
+61 real estate company with the right to market, list, or assist
+62 in selling a residential property for up to 40 years, binding
+63 homeowners and successors in interest through a recorded
+64 memorandum and penalizing the homeowner or successor in
+65 interest for breach of the agreement.
+66 (3) The practices of wholesaling residential real
+67 estate, and recording these unfair service agreements, pose a
+68 significant risk to Alabama homeowners if left unregulated.
+69 (4) The lack of any restrictions enables predatory
+70 practices against homeowners, especially those who have lived
+71 in a home for a long period of time, leading to financial loss
+72 and resulting in confusion for unsuspecting subsequent
+73 purchasers.
+74 (5) The Legislature concludes the following in the
+75 interest of protecting Alabama homeowners and home buyers:
+76 a. Disclosure of Buyers engaging in wholesaling should
+77 be required to disclose the limited interest, marketing, and
+78 assignment of the buyer's equitable interest in the
+79 homeowner's property should be required of buyers engaging in
+80 wholesaling.
+81 b. Unfair service agreements create clouds on the
+82 titles of Alabama homes, and burden Alabama homeowners with
+83 false promises, are against the public interest, and
+84 constitute unreasonable restraints on the alienation of real
+Page 3
+
+constitute unreasonable restraints on the alienation of real
+SB246 INTRODUCED
+85 property.
+86 c. Investment-oriented solicitations involving real
+87 property present risks comparable to those of securities
+88 transactions and warrant disclosure-based regulation.
+89 d. Nothing in this section shall be construed to
+90 infringe on the private property rights of an individual to
+91 acquire real property for his or her own use, ownership, or
+92 benefit.
+93 e. Nothing in this section shall be construed to
+94 require an individual to be licensed in order to acquire real
+95 property for his or her own use, ownership, or benefit.
+96 "§8-42-2
+97 (a) A person may acquire an equitable interest in a
+98 single-family residential property as the buyer under a
+99 contract for the purchase and sale of the property and then
+100 may assign or offer to assign the interest for a fee if the
+101 buyer discloses in writing all of the following:
+102 (1) To any potential subsequent purchaser or assignee,
+103 the The nature of the buyer's equitable interest to any
+104 potential purchaser or assignee.
+105 (2) To the seller of the property, the The buyer's
+106 intent to market its equitable interest to the seller of the
+107 property prior to commencing any marketing of the property.
+108 (3) To the seller of the property, the The effective
+109 date of any assignment of the buyer's interest to a subsequent
+110 purchaser of the property to the seller of the property at
+111 least three business days prior to the effective date of any
+112 assignment.
+Page 4
+
+assignment.
+SB246 INTRODUCED
+113 (b) Written disclosure under subsection (a) shall be
+114 required for the intent to market and transfer an equitable
+115 interest in residential real property, as limited by
+116 subsection (d), whether by assignment, novation, or any other
+117 similar method of transferring an interest in real property.
+118 (c)(1) A violation of this section is a Class C
+119 misdemeanor.
+120 (2) In addition to criminal penalties, a person
+121 violating this section may be liable to the person to whom
+122 disclosure is required in an amount equal to three times the
+123 fee or amount received by the buyer pursuant to the assignment
+124 subject to civil fines and penalties as determined by the
+125 commission pursuant to Section 8-42-1.3.
+126 (3) Enforcement of this section shall be governed by
+127 Section 8-42-1.2.
+128 (d) This section shall only apply to transactions
+129 involving single-family residential property and shall not
+130 apply to any other property transactions.
+131 (e) This section shall not infringe on the right of the
+132 parties to otherwise agree by contract.
+133 (f) This section shall not apply to predevelopment
+134 activity for residential subdivisions, condominiums, or other
+135 residential predevelopment activity.
+136 (g) This section shall not apply to an individual
+137 acquiring real property for his or her own use, ownership, or
+138 benefit unless the individual intentionally acquires the real
+139 property for the benefit of a pass-through entity subject to
+140 this chapter or as a means to circumvent the intent of this
+Page 5
+
+this chapter or as a means to circumvent the intent of this
+SB246 INTRODUCED
+141 chapter."
+142 "§8-42-3
+143 (a) For purposes of this section the following terms
+144 have the following meanings:
+145 (1) RECORDING. Presenting a document to a county judge
+146 of probate for official placement in the public land records.
+147 (2) RESIDENTIAL REAL ESTATE. Real property located in
+148 this state which is used primarily for a dwelling and contains
+149 one to four dwelling units.
+150 (3) SERVICE AGREEMENT. A contract under which a person
+151 agrees to provide services in connection with the purchase or
+152 sale of residential real estate.
+153 (4) SERVICE PROVIDER. An individual or entity that
+154 provides services to another party under a service agreement.
+155 (5) UNFAIR SERVICE AGREEMENT. A service agreement in
+156 which the services subject to the agreement are not performed
+157 within one year after the date upon which the agreement
+158 commences and provides any of the following:
+159 a. Purports to run with the land or to be binding on
+160 future owners of interests in the real property.
+161 b. Allows for assignment of the right to provide the
+162 service without notice and agreement of the owner of
+163 residential real estate.
+164 c. Purports to create a lien, encumbrance, or other
+165 real property security interest.
+166 (b)(a) This chapter does not apply to any of the
+167 following:
+168 (1) A home warranty or other type of similar product
+Page 6
+
+(1) A home warranty or other type of similar product
+SB246 INTRODUCED
+169 that covers the cost of maintenance of for a major housing
+170 home system, such as plumbing or electrical wiring, for a set
+171 period of time from the date a house is sold.
+172 (2) An insurance contract.
+173 (3) An option to purchase or right of refusal to
+174 purchase real estate.
+175 (4) A maintenance or repair agreement entered into by a
+176 homeowners' association in a common interest community.
+177 (5) Agreements to manage residential real estate.
+178 (6) A declaration of any covenants, conditions, or
+179 restrictions created in the formation of a homeowners'
+180 association, a group of condominium owners, or other common
+181 interest community, or an amendment to the declaration.
+182 (7) A mortgage loan or commitment to make or receive a
+183 mortgage loan.
+184 (8) A security agreement under Alabama's Uniform
+185 Commercial Code, relating to the sale or rental of personal
+186 property or fixtures.
+187 (9) Water, sewer, electrical, telephone, cable, or
+188 other regulated utility service providers.
+189 (c)(b) This section does not impair the rights granted
+190 by a mechanic's or materialman's lien under Division 8 of
+191 Article 5 of Chapter 11 of Title 35, or by another any other
+192 judicially imposed lien.
+193 (d)(c) If a service agreement is unfair under this
+194 section chapter, it is unenforceable.
+195 (e)(d) If a person enters into an unfair service
+196 agreement with a consumer, that agreement shall be deemed a
+Page 7
+
+agreement with a consumer, that agreement shall be deemed a
+SB246 INTRODUCED
+197 deceptive act under the Deceptive Trade Practices Act,
+198 commencing with Section 8-19-1.
+199 (f)(e)(1) No person shall record or cause to be
+200 recorded an unfair service agreement, or a notice or
+201 memorandum of an unfair service agreement, in the this state.
+202 (2) If an unfair service agreement is recorded in this
+203 state, it the agreement shall not be deemed to provide actual
+204 or constructive notice against an otherwise bona fide
+205 purchaser of the residential real property to which it the
+206 agreement pertains, or against a creditor with a security
+207 interest in the residential real property to which it pertains
+208 that property.
+209 (3) A service provider who records or causes to be
+210 recorded an unfair service agreement, or a notice or
+211 memorandum thereof of an unfair service agreement, in this
+212 state is liable to an affected party for statutory damages in
+213 the amount of ten thousand dollars ($10,000) in statutory
+214 damages.
+215 (g)(f) If an unfair service agreement, or a notice or
+216 memorandum of an unfair service agreement, is recorded in the
+217 state, any party with an interest in the residential real
+218 property to which it the agreement pertains may take either or
+219 both of the following actions:
+220 (1) Apply to the circuit court in the county where the
+221 recording exists is located to seek a court order declaring
+222 the agreement is void and of no effect.
+223 (2) In addition to the statutory damages described in
+224 subdivision (f)(e)(3), recover actual damages, plus costs and
+Page 8
+
+subdivision (f)(e)(3), recover actual damages, plus costs and
+SB246 INTRODUCED
+225 attorney fees as may be proven against the service provider
+226 who recorded the agreement."
+227 Section 2. Sections 8-42-1.1, 8-42-1.2, 8-42-1.3,
+228 8-42-4, and 8-42-5 are added to the Code of Alabama 1975, to
+229 read as follows:
+230 §8-42-1.1
+231 For purposes of this chapter, the following terms have
+232 the following meanings:
+233 (1) COMMISSION. The Alabama Securities Commission.
+234 (2) CONTACT. Any communication delivered by mail,
+235 courier, email, text message, social media message, telephone
+236 call, voicemail, prerecorded message, or similar method.
+237 (3) INVESTMENT-ORIENTED REAL PROPERTY SOLICITATION. Any
+238 communication, offer, agreement, or transaction involving real
+239 property in which the expected economic benefit to the
+240 offeror, directly or indirectly, is derived primarily from
+241 resale, assignment, appreciation, fee extraction, or
+242 contractual arbitrage, rather than occupancy or personal use
+243 by the offeror.
+244 (4) OFFEROR. Any person acting directly or indirectly
+245 on behalf of another person.
+246 (5) RECORDING. Presenting a document to a county judge
+247 of probate for official placement in the public land records.
+248 (6) RESIDENTIAL REAL ESTATE. Real property located in
+249 this state which is used primarily for a dwelling and contains
+250 one to four dwelling units.
+251 (7) SERVICE AGREEMENT. A contract under which a person
+252 agrees to provide services in connection with the purchase or
+Page 9
+
+agrees to provide services in connection with the purchase or
+SB246 INTRODUCED
+253 sale of residential real estate.
+254 (8) SERVICE PROVIDER. An individual or entity that
+255 provides services to another party under a service agreement.
+256 (9) UNFAIR SERVICE AGREEMENT. A service agreement in
+257 which the services subject to the agreement are not performed
+258 within one year after the date upon which the agreement
+259 commences and which provides any of the following:
+260 a. Purports to run with the land or to be binding on
+261 future owners of interests in the real property.
+262 b. Allows for assignment of the right to provide the
+263 service without notice to and agreement of the owner of
+264 residential real estate.
+265 c. Purports to create a lien, encumbrance, or other
+266 real property security interest.
+267 (10) UNSOLICITED. Initiated without an affirmative
+268 request by the property owner within the preceding 12 months
+269 and not made pursuant to an existing written agreement with
+270 the property owner.
+271 §8-42-1.2
+272 (a) The commission shall have authority under this
+273 chapter to administer, implement, and enforce all regulated
+274 conduct, individuals, and entities in this chapter, along with
+275 issuing licenses for these activities. This authority extends
+276 to regulating investment-oriented real estate solicitations,
+277 assignments or offerings of assignments of equitable
+278 interests, recorded service agreements, unfair service
+279 agreements, unsolicited offers, and related practices. This
+280 exclusive authority applies regardless of any license an
+Page 10
+
+exclusive authority applies regardless of any license an
+SB246 INTRODUCED
+281 individual or entity may hold under any other legal provision.
+282 (b) The commission may adopt rules necessary to carry
+283 out this chapter, including, but not limited to, rules
+284 governing:
+285 (1) Consumer complaint intake and resolution
+286 procedures;
+287 (2) Disclosure forms and content;
+288 (3) Examination, reporting, and recordkeeping
+289 requirements;
+290 (4) Any licensing, permitting, or registration program,
+291 and fees established, by rule;
+292 (5) Any renewal, suspension, or revocation program
+293 established, by rule;
+294 (6) Penalty schedules and remedial measures;
+295 (7) Defining additional unfair, deceptive, or abusive
+296 practices; and
+297 (8) Definitions and standards necessary to preclude
+298 circumvention of this chapter.
+299 (c) The commission may:
+300 (1) Conduct investigations and examinations;
+301 (2) Require the production of documents and testimony;
+302 (3) Issue subpoenas;
+303 (4) Issue cease and desist orders;
+304 (5) Suspend, revoke, or condition any license, permit,
+305 or registration established, by rule;
+306 (6) Impose administrative fines and penalties for each
+307 violation;
+308 (7) Order restitution, rescission, disgorgement, or
+Page 11
+
+(7) Order restitution, rescission, disgorgement, or
+SB246 INTRODUCED
+309 other remedial relief;
+310 (8) Prosecute criminal violations where authorized by
+311 law; and
+312 (9) Coordinate with other agencies as authorized by
+313 law.
+314 (d) The commission may bring an action in any court of
+315 appropriate jurisdiction for:
+316 (1) Injunctive or other relief;
+317 (2) Civil penalties;
+318 (3) Restitution, rescission, or disgorgement;
+319 (4) Enforcement of administrative orders;
+320 (5) Recovery of investigative and enforcement costs;
+321 and
+322 (6) Appointment of a receiver.
+323 (e) Nothing in this chapter shall be construed to limit
+324 criminal prosecution under any provision of law or to require
+325 exhaustion of administrative remedies before criminal
+326 enforcement.
+327 (f) Enforcement under this chapter shall be in addition
+328 to, not in lieu of, remedies available under the Deceptive
+329 Trade Practices Act.
+330 (g) Any contractual provision attempting to waive
+331 rights, remedies, or protections under this chapter is void
+332 and unenforceable as against public policy.
+333 (h) The authority granted under this chapter applies to
+334 individual violations as well as to patterns or practices of
+335 conduct, whether arising under a single section or multiple
+336 sections of this chapter.
+Page 12
+
+sections of this chapter.
+SB246 INTRODUCED
+337 (i) The existence or nonexistence of an enforcement
+338 action by the commission or other governmental agency pursuant
+339 to this section shall not bar, delay or diminish any private
+340 right of action.
+341 §8-42-1.3
+342 (a) The commission may impose administrative fines and
+343 penalties per violation. The civil penalty shall not exceed
+344 one million dollars ($1,000,000) per violation, provided that
+345 the aggregate civil penalty assessed in a single
+346 administrative order shall not exceed one hundred million
+347 dollars ($100,000,000). Each day an act, omission, or
+348 violation continues shall constitute a separate violation.
+349 (b) In determining the amount of any civil penalty, the
+350 commission shall consider all relevant factors, including:
+351 (1) The nature, gravity, and duration of the violation,
+352 including any irreparable harm or risk of harm to property
+353 owners;
+354 (2) The degree of culpability, intent, or recklessness
+355 demonstrated by the violator;
+356 (3) The facts, circumstances, and conduct in connection
+357 with the investment-oriented real estate activity at issue;
+358 (4) The economic benefit, compensation, or other
+359 financial gain obtained, directly or indirectly, as a result
+360 of the violation;
+361 (5) Any prior history of violations of this act, the
+362 Alabama Securities Act, or related consumer protection laws;
+363 and
+364 (6) The violator's ability to pay the assessed penalty.
+Page 13
+
+(6) The violator's ability to pay the assessed penalty.
+SB246 INTRODUCED
+365 (c) Civil penalties under this section may be assessed
+366 for any violation occurring within five years after the
+367 discovery of the fraud.
+368 (d) All civil penalties recovered under this section,
+369 except for amounts representing the reasonable costs incurred
+370 by the commission in the investigation and enforcement of
+371 violations, shall be deposited into a consumer recovery fund
+372 which shall be administered by the commission. The fund shall
+373 be budgeted and allotted in accordance with Article 4 of
+374 Chapter 4 of Title 41 and Chapter 19 of Title 41. Money in the
+375 fund shall only be used to compensate individuals for economic
+376 losses resulting from fraudulent conveyances.
+377 §8-42-4
+378 (a) This section shall govern every unsolicited
+379 electronic, telephonic, or video communication, or written
+380 inquiry, solicitation, or mailing by any individual or entity,
+381 whether acting as a principal, investor, intermediary, or
+382 agent, that makes an investment-oriented real property
+383 solicitation and that expresses an interest in any of the
+384 following:
+385 (1) Buying real property or an option to buy real
+386 property from the addressee.
+387 (2) Buying the real property to which the written
+388 inquiry or mailing is addressed.
+389 (3) Offering services relating to the sale of real
+390 estate.
+391 (b) Any unsolicited communication or solicitation
+392 governed by this section that constitutes an
+Page 14
+
+governed by this section that constitutes an
+SB246 INTRODUCED
+393 investment-oriented real property solicitation by any
+394 individual or entity that expresses an interest in: (i) buying
+395 real property or an option to buy real property from the
+396 addressee; (ii) buying the real property to which such written
+397 inquiry or mailing is addressed; or (iii) offering services
+398 relating to the sale of real estate, shall include the
+399 following:
+400 (1) At the top and at least two inches from any other
+401 text in the written inquiry or mailing, the following notice
+402 in capital letters: "THIS IS A SOLICITATION. THE SENDER IS
+403 CONTACTING YOU TO INQUIRE ABOUT YOUR INTEREST IN SELLING YOUR
+404 HOME OR OTHER REAL ESTATE. YOU ARE NOT OBLIGATED TO RESPOND."
+405 (2) If the solicitation includes a monetary offer,
+406 after the text required in subdivision (1), the following
+407 notice in capital letters: "THIS OFFER MAY OR MAY NOT BE THE
+408 FAIR MARKET VALUE OF THE PROPERTY."
+409 (3) If the solicitation includes a monetary offer less
+410 than the previous year's assessed value for ad valorem taxes
+411 set by the county tax assessor for the county where the
+412 property is located, following the text required in
+413 subdivision (2), the following notice in capital letters:
+414 "THIS OFFER IS LESS THAN THE COUNTY ASSESSED VALUE FOR THIS
+415 PROPERTY."
+416 (4) On the front of the envelope or, if there is no
+417 envelope, on the part of the written inquiry or mailing that
+418 bears the postage stamp or postage amount, the following
+419 notice in capital letters: "SOLICITATION. YOU ARE UNDER NO
+420 OBLIGATION TO OPEN OR TO RESPOND."
+Page 15
+
+OBLIGATION TO OPEN OR TO RESPOND."
+SB246 INTRODUCED
+421 (5) On the front of the envelope or, if there is no
+422 envelope, on the part of the written inquiry or mailing that
+423 bears the postage stamp or postage amount, the following
+424 notice in capital letters: "YOU ARE ENCOURAGED TO SEEK
+425 GUIDANCE FROM A LICENSED REAL ESTATE AGENT OR ATTORNEY OF YOUR
+426 CHOOSING."
+427 (6) The notices required in subdivisions (1) and (2)
+428 shall be:
+429 a. In a font that matches the majority of the text of
+430 the written inquiry or mailing;
+431 b. At least the size of the text of the written inquiry
+432 or mailing, and in any case no smaller than 16-point font; and
+433 c. Displayed in a distinctly contrasting color.
+434 (c) If an offeror makes an unsolicited offer to buy
+435 real property by sending a written agreement or purchase
+436 contract via mail or electronic means to an offeree, and the
+437 offeror does not use the assistance of a broker or brokerage
+438 service, as defined in Chapter 27 of Title 34, or a licensed
+439 attorney, as defined in Chapter 3 of Title 34, then the
+440 offeree may cancel the agreement or contract by mailing
+441 written notice of cancellation to the offeror, postmarked no
+442 later than 30 days from the date of the confirmation letter
+443 described in this section.
+444 (d) An unsolicited offer to buy real property delivered
+445 by mail or electronic means is not considered accepted by the
+446 offeree until:
+447 (1) The offeree signs the agreement or contract;
+448 (2) The offeror receives the signed agreement or
+Page 16
+
+(2) The offeror receives the signed agreement or
+SB246 INTRODUCED
+449 contract; and
+450 (3) The offeror mails or electronically transmits a
+451 confirmation letter to the offeree confirming receipt of the
+452 signed agreement or contract, explaining the offeree's right
+453 to cancel, describing how to cancel, and stating the
+454 cancellation deadline.
+455 (e) Cancellation of the agreement or contract by the
+456 offeree under this section shall not result in any penalty to
+457 the offeree. Any agreement or contract that penalizes an
+458 offeree for canceling within the prescribed 30-day period is
+459 void. The offeree shall return all payments received from the
+460 offeror no later than 30 days after cancellation.
+461 (f) A third-party buyer who purchases the real property
+462 from the offeror before the offeree's right to cancel expires
+463 takes title subject to that right. If the offeree exercises
+464 the right to cancel, the title acquired by the third-party
+465 buyer becomes void, and title reverts immediately to the
+466 offeree. Such reversion shall occur by operation of law, and
+467 any conveyance derived from the voided title is likewise void.
+468 (g) Violations of this section shall be enforced in
+469 accordance with Section 8-42-1.2.
+470 (h) This chapter does not apply to properties that are:
+471 (i) subject to an active written listing agreement with a
+472 licensed real estate broker; (ii) marketed for sale by the
+473 property owner or to an individual attempting to acquire an
+474 interest in real estate from another person with whom he or
+475 she has an existing business or personal relationship; (iii)
+476 or where the property interest being acquired is for his or
+Page 17
+
+or where the property interest being acquired is for his or
+SB246 INTRODUCED
+477 her personal use or benefit.
+478 §8-42-5
+479 (a) This section applies to any individual or entity
+480 that makes an investment-oriented real property solicitation
+481 that makes an unsolicited written, electronic, or telephonic
+482 communication to a property owner for the purpose of doing any
+483 of the following:
+484 (1) Making an offer to purchase real property;
+485 (2) Securing an option to purchase real property; or
+486 (3) Soliciting services relating to the sale of real
+487 property.
+488 (b)(1) No person or entity shall make more than three
+489 unsolicited communications to the same property owner
+490 regarding the same parcel of real property within any 12-month
+491 period.
+492 (2) Each of the following constitutes a separate
+493 unsolicited communication:
+494 a. A written mailing or delivery;
+495 b. An electronic message, including email or text
+496 message; and
+497 c. A telephonic communication, including voicemail.
+498 (3) Multiple communications made within a seven-day
+499 period shall be considered one communication for purposes of
+500 this section.
+501 (c)(1) Each unsolicited communication shall include a
+502 clear and conspicuous method by which the property owner may
+503 opt out of further communications from that person or entity.
+504 (2) Upon receipt of an opt-out request, the person or
+Page 18
+
+(2) Upon receipt of an opt-out request, the person or
+SB246 INTRODUCED
+505 entity shall cease all further unsolicited communications
+506 regarding the property and honor the opt-out for a minimum of
+507 five years.
+508 (3) Any unsolicited communication made after receipt of
+509 an opt-out request constitutes a separate violation.
+510 (d) It shall be a violation of this chapter to:
+511 (1) Use multiple affiliated entities or agents to
+512 circumvent the requirements of this section;
+513 (2) Recharacterize substantially similar offers to
+514 circumvent the 12-month limitation; or
+515 (3) Engage in harassment, coercion, or repeated
+516 communication intended to pressure a property owner.
+517 (e)(1) A person subject to this section shall maintain
+518 records sufficient to demonstrate compliance, including:
+519 a. Dates and methods of communication;
+520 b. Identity of the communicating party; and
+521 c. Opt-out requests received.
+522 (2) Records shall be retained for not less than five
+523 years and shall be subject to examination by the Alabama
+524 Securities Commission.
+525 (f) Violations of this section shall be enforced in
+526 accordance with Section 8-42-1.2.
+527 (g) Nothing in this section shall be construed to
+528 prohibit a single, good-faith, unsolicited offer that complies
+529 with this chapter or restrict communications initiated by the
+530 property owner.
+531 Section 3. This act shall become effective on October
+532 1, 2026.
+Page 19

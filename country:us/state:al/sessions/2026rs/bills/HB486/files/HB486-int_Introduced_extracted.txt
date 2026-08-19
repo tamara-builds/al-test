@@ -1,0 +1,1641 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB486 INTRODUCED
+1 HB486
+2 KHS4IUA-1
+3 By Representatives Clarke, Daniels, Drummond, Hassell,
+4 McCampbell, Sellers, Datcher, Jones, Forte, Lands, McClammy,
+5 Ensler, Gray, Morris, Rafferty, Hall, Boyd, Jackson, Chestnut,
+6 England, Travis, Hendrix, Tillman, Hollis, Moore (M),
+7 Lawrence, Bracy, Givan, Warren
+8 RFD: Judiciary
+9 First Read: 19-Feb-26
+Page 0
+
+First Read: 19-Feb-26
+KHS4IUA-1 02/13/2026 JWB (L)ma 2026-906
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, individuals convicted of a
+6 crime of moral turpitude lose their voting rights and
+7 must apply to have their rights restored upon meeting
+8 certain criteria once their sentence has ended.
+9 This bill would provide for automatic
+10 restoration of voting rights in certain circumstances.
+11 Under existing law, an elector may only vote by
+12 absentee if he or she meets certain qualifications.
+13 This bill would eliminate the qualifications
+14 that allow for absentee voting.
+15 This bill would specify the process for voting
+16 by absentee ballot.
+17 Under existing law, an elector may only vote
+18 in-person on election day or by absentee ballot.
+19 This bill would authorize electors to vote
+20 during an advance voting period before any election.
+21 This bill would require the advance voting
+22 polling places to be open for voting during certain
+23 hours and certain dates during the advance voting
+24 period.
+25 This bill would establish the Alabama Voting
+26 Rights Act and the Alabama Voting Rights Commission and
+27 would provide for the selection of its membership.
+28 This bill would require the Alabama Voting
+Page 1
+
+This bill would require the Alabama Voting
+HB486 INTRODUCED
+29 Rights Commission to review certain actions that occur
+30 within the state that could potentially discriminate
+31 against protected classes of voters.
+32 This bill would require the commission to
+33 preclear certain official actions taken in relation to
+34 elections.
+35 This bill would also require the Secretary of
+36 State to maintain a statewide database to assist in the
+37 administration of elections and to publicize certain
+38 information relating to voting.
+39
+40
+41 A BILL
+42 TO BE ENTITLED
+43 AN ACT
+44
+45 Relating to elections; to amend Sections 15-22-36.1,
+46 17-3-31, 17-3-50, 17-11-3, 17-11-4, 17-11-5, 17-11-9, and
+47 17-11-10, Code of Alabama 1975; to revise the process for
+48 reinstating voting rights of individuals who have lost those
+49 rights; to revise the absentee voting process; to authorize
+50 any elector to vote absentee; to add Section 17-9-6.1 to the
+51 Code of Alabama 1975; to authorize advance voting before
+52 election day; to require advance voting polling places to be
+53 open on certain days and at certain times; to establish the
+54 Alabama Voting Rights Act and the Alabama Voting Rights
+55 Commission; to provide for the duties and membership of the
+56 commission; and to require the Secretary of State to maintain
+Page 2
+
+commission; and to require the Secretary of State to maintain
+HB486 INTRODUCED
+57 a statewide database relating to election administration and
+58 to publicize certain election information.
+59 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+60 Section 1. Sections 15-22-36.1, 17-3-31, 17-11-3,
+61 17-3-50, 17-11-4, 17-11-5, 17-11-9, and 17-11-10, Code of
+62 Alabama 1975, are amended to read as follows:
+63 "§15-22-36.1
+64 (a)(1) Any other provision of law notwithstanding, any
+65 personan individual who has lost his or her right to vote by
+66 reason of conviction of a felony in a state, federal, or
+67 foreign court, except for an individual convicted of treason
+68 or impeachment, regardless of the date of his or her sentence,
+69 may apply to the Board of Pardons and Paroles for a
+70 Certificate of Eligibility to Register to Voteshall
+71 automatically have his or her right to vote restored if all of
+72 the following requirements are met:
+73 (1) The person has lost his or her right to vote by
+74 reason of conviction in a state or federal court in any case
+75 except those listed in subsection (g).
+76 (2) The person has no criminal felony charges pending
+77 against him or her in any state or federal court.
+78 (3) The person has paid all fines, court costs, fees,
+79 and victim restitution ordered by the sentencing court at the
+80 time of sentencing on disqualifying cases.
+81 (4) Any of the following are true:
+82 a. The personindividual has been released upon
+83 completion of his or her sentence.;
+84 b. The personindividual has been pardoned.; or
+Page 3
+
+b. The personindividual has been pardoned.; or
+HB486 INTRODUCED
+85 c. The personindividual has successfully completed
+86 probation or parole and has been released from compliance by
+87 the ordering entity.
+88 (2) Any individual who has met all conditions of his or
+89 her probation or parole except for the payment of court costs,
+90 fines, restitution, or fees, shall be deemed to have
+91 successfully completed probation or parole for the purpose of
+92 having his or her right to vote restored.
+93 (b) The Certificate of Eligibility to Register to Vote
+94 shall be granted upon a determination that all of the
+95 requirements in subsection (a) are fulfilled.
+96 (c) Upon receipt of an application under this section,
+97 investigation of the request shall be assigned forthwith to an
+98 officer of the state Board of Pardons and Paroles. The
+99 assigned officer shall verify, through court records, records
+100 of the board, and records of the Department of Corrections,
+101 that the applicant has met the qualifications set out in
+102 subsection (a). Within 30 days of the initial application for
+103 a Certificate of Eligibility to Register to Vote, the officer
+104 shall draft a report of his or her findings including a
+105 statement as to whether the applicant has successfully
+106 completed his or her sentence and has complied with all the
+107 eligibility requirements provided in subsection (a).
+108 (d) After completing the investigation set out in
+109 subsection (c), the officer shall submit his or her report of
+110 investigation to the Executive Director of the Board of
+111 Pardons and Paroles.
+112 (e) If the report created pursuant to subsection (c)
+Page 4
+
+(e) If the report created pursuant to subsection (c)
+HB486 INTRODUCED
+113 states that the applicant has met all of the eligibility
+114 criteria set forth in subsection (a), and the executive
+115 director or his or her designee attests that the report has
+116 been submitted properly and accurately, the Board of Pardons
+117 and Paroles shall issue a Certificate of Eligibility to
+118 Register to Vote to the applicant within 14 days of receipt of
+119 the report by the executive director.
+120 (f) If the report created pursuant to subsection (c)
+121 states that the applicant has not met all of the eligibility
+122 criteria set forth in subsection (a), and the executive
+123 director or his or her designee attests that the report has
+124 been submitted properly and accurately, the Board of Pardons
+125 and Paroles shall not issue a Certificate of Eligibility to
+126 Register to Vote and shall notify the applicant of the
+127 decision and reason or reasons for the decision within 14 days
+128 of receipt of the report by the executive director. The
+129 applicant, upon completion of the eligibility requirement in
+130 subsection (a) for restoration of his or her rights, may
+131 submit a new application at any time if he or she has met the
+132 certification criteria.
+133 (g)(b) A person An individual who has lost his or her
+134 right to vote by reason of conviction in a state, or federal,
+135 or foreign court for any of the following will not be eligible
+136 to apply for a Certificate of Eligibility to Register to Vote
+137 under this section: Impeachment, murder, rape in any degree,
+138 sodomy in any degree, sexual abuse in any degree, incest,
+139 sexual torture, enticing a child to enter a vehicle for
+140 immoral purposes, soliciting a child by computer, production
+Page 5
+
+immoral purposes, soliciting a child by computer, production
+HB486 INTRODUCED
+141 of obscene matter involving a minor, production of obscene
+142 matter, parents or guardians permitting children to engage in
+143 obscene matter, possession of obscene matter, possession with
+144 intent to distribute child pornography, or treason or
+145 impeachment shall not have his or her right to vote restored.
+146 (h)(c) This section shall not affect the right of any
+147 person to apply to the board for a pardon with restoration of
+148 voting rights pursuant to Section 15-22-36.
+149 (i)(d) Each state or county correctional facility,
+150 prison, or jail shall post materials to be prepared by the
+151 Secretary of State and the Board of Pardons and Paroles
+152 notifying incarcerated individuals of the requirements and
+153 procedures for having one'sright to have their voting rights
+154 restored."
+155 "§17-3-31
+156 (a) Any personindividual who is disqualified by reason
+157 of conviction of any of the offenses mentioned in Section
+158 17-3-30.1 as a felony involving moral turpitude for the
+159 purposes of Section 177 Article VIII of the Constitution of
+160 Alabama of 19012022, except treason andor impeachment, whether
+161 the conviction was had in a state or, federal, or foreign
+162 court, and who has been pardoned, may be restored to
+163 citizenship with the right to vote by the State Board of
+164 Pardons and Paroles when specifically expressed in the pardon.
+165 If otherwise qualified, such personthe individual shall be
+166 permitted to register or reregister as an elector upon
+167 submission of a copy of the pardon document to the board of
+168 registrars of the county of his or her residence.
+Page 6
+
+registrars of the county of his or her residence.
+HB486 INTRODUCED
+169 (b) In addition, any personAny individual who has been
+170 granted a Certificate of Eligibility to Register to Vote by
+171 the Board of Pardons and Paroles pursuant to Section
+172 15-22-36.1was registered to vote at any time prior to losing
+173 his or her right to vote by reason of a conviction in a state,
+174 federal, or foreign court and has met any of the criteria set
+175 forth in Section 15-22-36.1(a), shall be permitted to register
+176 or reregister as an elector upon submission of a copy of the
+177 certificate to the board of registrars of the county of his or
+178 her residenceeligible to vote."
+179 "§17-3-50
+180 The boards of registrars in the several counties of the
+181 state shall not register any personindividual as a qualified
+182 elector within 14 days prior to any election; provided, that
+183 the boards shall maintain open offices during business days in
+184 such 14-day period and on election day during the hours of
+185 votingup to and including the day of an election."
+186 "§17-11-3
+187 (a) Any qualified elector of this state may apply for
+188 and vote an absentee ballot by mail, by hand delivery, or by
+189 commercial carrier, as determined, by rule, by the Secretary
+190 of State, as provided in Sections 17-11-5 and 17-11-9, in any
+191 primary, general, special, or municipal election, if he or she
+192 makes application in writing and meets one or more of the
+193 following requirements:
+194 (1) The person expects to be out of the county or the
+195 state, or the municipality for municipal elections, on
+196 election day.
+Page 7
+
+election day.
+HB486 INTRODUCED
+197 (2) The person has any physical illness or infirmity
+198 which prevents his or her attendance at the polls, whether he
+199 or she is within or without the county on the day of the
+200 election.
+201 (3) The person expects to work a shift which has at
+202 least 10 hours which coincide with the hours the polls are
+203 open at his or her regular polling place.
+204 (4) The person is enrolled as a student at an
+205 educational institution located outside the county of his or
+206 her personal residence, attendance at which prevents his or
+207 her attendance at the polls.
+208 (5) The person is a member of, or spouse or dependent
+209 of a member of, the Armed Forces of the United States or is
+210 similarly qualified to vote absentee pursuant to the federal
+211 Uniformed and Overseas Citizens Absentee Voting Act, 52 U.S.C.
+212 §§ 20301-20311.
+213 (6) The person has been appointed as an election
+214 officer or named as a poll watcher at a polling place other
+215 than his or her regular polling place.
+216 (7) The person is a caregiver for a family member to
+217 the second degree of kinship by affinity or consanguinity and
+218 the family member is confined to his or her home.
+219 (8) The person is incarcerated in prison or jail and
+220 has not been convicted of a felony involving moral turpitude,
+221 as provided in Section 17-3-30.1on a form prescribed by the
+222 Secretary of State.
+223 (b) Applications returned by mail must be received not
+224 less than seven days prior to the election. Applications
+Page 8
+
+less than seven days prior to the election. Applications
+HB486 INTRODUCED
+225 returned by hand must be received not less than five days
+226 prior to the election.
+227 (c) An applicant for an absentee ballot who is a member
+228 of the Armed Forces of the United States, including the
+229 Alabama National Guard, the United States Naval
+230 ReservesReserve, the United States Air Force ReservesReserve,
+231 and the United States Army Reserve on active duty or active
+232 duty for training or an applicant who is the spouse of any
+233 member of the armed forces or any other applicant qualified to
+234 vote absentee pursuant to the federal Uniformed and Overseas
+235 Citizens Absentee Voting Act, 52 U.S.C. §§ 20301-20311, may
+236 make application for an absentee ballot by filling out the
+237 federal postcard application form, authorized and provided for
+238 under the provisions of The Federal Voting Assistance Act of
+239 1955, Public Law 296, Chapter 656, H.R. 4048, approved August
+240 9, 1955, 84th Congress 1st Session.
+241 (d) Any registered elector who requires emergency
+242 treatment of a licensed physician within five days of an
+243 election may apply for an emergency absentee ballot for the
+244 election and may vote by returning the absentee ballot no
+245 later than noon on the day the election is held. The attendant
+246 physician shall describe and certify the circumstances as
+247 constituting an emergency on a special form designed by the
+248 Secretary of State and provided by his or her office to local
+249 absentee election managers. The special form shall be attached
+250 to the application.
+251 (e)(1) Any registered elector whose name appears on the
+252 poll list of qualified voters may vote by an emergency
+Page 9
+
+poll list of qualified voters may vote by an emergency
+HB486 INTRODUCED
+253 absentee ballot if any of the following situations arise:
+254 a. The elector is required by his or her employer under
+255 unforeseen circumstances within five days before an election
+256 to be unavailable to vote at the polls on election day.
+257 b. The elector is a caregiver of a person who requires
+258 emergency treatment by a licensed physician within five days
+259 before an election.
+260 c. A family member to the second degree of kinship by
+261 affinity or consanguinity of an elector dies within five days
+262 before an election.
+263 (2) Under such circumstances, the elector shall apply
+264 for an emergency absentee ballot at the office of the absentee
+265 election manager no later than the close of the business day
+266 one day prior to the election. The applicant shall complete
+267 and file an application form designed by the Secretary of
+268 State for emergency absentee voters. The form shall contain an
+269 affidavit which the applicant shall sign or swear
+270 acknowledging that he or she was not aware of the situation
+271 constituting the emergency prior to five days before the
+272 election. An applicant who meets the requirements of this
+273 subsection may vote by an emergency absentee ballot. After
+274 voting the ballot, the voter shall hand the ballot to the
+275 absentee election manager.
+276 (f) If the occurrence of a state of emergency as
+277 declared in this or any other state, or by the federal
+278 government, renders substantial compliance with this article
+279 impossible or unreasonable for a group of qualified voters who
+280 respond to the emergency, the Secretary of State, pursuant to
+Page 10
+
+respond to the emergency, the Secretary of State, pursuant to
+HB486 INTRODUCED
+281 Section 41-22-5, may adopt an emergency rule to allow those
+282 qualified voters to vote by absentee ballot. Notwithstanding
+283 any other laws to the contrary, all expenses and costs
+284 incurred by the state or any county in carrying out the
+285 responsibilities and duties included in an emergency rule
+286 adopted pursuant to this subsection shall be paid by the State
+287 of Alabama from any funds made available for election expenses
+288 under state and federal law.
+289 (g)(d) Notwithstanding any other provision of otherwise
+290 applicable law, in the event more than one absentee ballot is
+291 cast in the name of the single voter, whether any multiple
+292 ballot is cast by mail or otherwise, none of the affidavit
+293 envelopes containing the multiple ballots shall be opened, and
+294 none of the multiple ballots shall be counted, except in the
+295 event of an election contest, upon the order of the election
+296 contest tribunal. Upon the conclusion of an election contest
+297 or, in the event no contest is filed, upon the expiration of
+298 time for filing a contest, the multiple ballots shall be
+299 provided to the district attorney, with photocopies provided
+300 to the state Attorney General, for the investigation,
+301 prosecution, or other action as may be appropriate under
+302 applicable law."
+303 "§17-11-4
+304 (a) The application required in Section 17-11-3 shall
+305 be in a form prescribed and designed by the Secretary of State
+306 and shall be used throughout the state. The application form
+307 shall contain and require all of the following:
+308 (1) That the applicant submit sufficient information to
+Page 11
+
+(1) That the applicant submit sufficient information to
+HB486 INTRODUCED
+309 identify the applicant.
+310 (2) The applicant's name, residence address, and such
+311 other information as necessary to verify that the applicant is
+312 a registered voter.
+313 (3) A list of all felonies of moral turpitude, as
+314 provided in Section 17-3-30.1, and a requirement that the
+315 applicant declare that he or she is not barred from voting
+316 because of a disqualifying felony conviction or, if the
+317 applicant was convicted of a disqualifying felony, that the
+318 applicant's right to vote has been restored.
+319 (4) An explanation of penalties for violations of this
+320 section.
+321 (b)(1) Any applicant may receive assistance in filling
+322 out the application as he or she desires, but each application
+323 shall be manually signed by the applicant, under penalty of
+324 perjury, and if he or she signs by mark, the application shall
+325 also include the name of the witness and the witness's
+326 signature.
+327 (2) It shall be unlawful for any person to knowingly
+328 distribute an absentee ballot application to a voter which is
+329 prefilled with the voter's name or any other information
+330 required on the application form.
+331 (c)(1) Completed applications may be submitted to the
+332 absentee election manager in any of the following ways, as
+333 further provided by rule of the Secretary of State:
+334 a. The applicant delivering the application in person.
+335 b. The applicant mailing the application by U.S. mail.
+336 c. The applicant sending the application by commercial
+Page 12
+
+c. The applicant sending the application by commercial
+HB486 INTRODUCED
+337 carrier.
+338 d. The applicant's designee delivering the application
+339 in person.
+340 e. The applicant's designee mailing the application by
+341 U.S. mail or commercial carrier.
+342 (2) The Secretary of State shall provide applications
+343 for absentee voting to military and overseas voters pursuant
+344 to Section 17-4-35(14).Except in situations governed by
+345 Section 17-11-3(f), it shall be unlawful for an individual to
+346 submit a completed absentee ballot application to the absentee
+347 election manager other than his or her own application, except
+348 that an application for a voter who requires emergency
+349 treatment by a licensed physician within five days before an
+350 election pursuant to Section 17-11-3 may be submitted to the
+351 absentee election manager by an individual designated by the
+352 applicant.
+353 (d)(1) Except in situations governed by Section
+354 17-11-3(f), it shall be unlawful for a third party to
+355 knowingly receive a payment or gift for distributing,
+356 ordering, requesting, collecting, completing, prefilling,
+357 obtaining, or delivering a voter's absentee ballot
+358 application. Any person who violates this subdivision shall be
+359 guilty of a Class C felony.
+360 (2) Except in situations governed by Section
+361 17-11-3(f), it shall be unlawful for a person to knowingly pay
+362 or provide a gift to a third party to distribute, order,
+363 request, collect, prefill, complete, obtain, or deliver a
+364 voter's absentee ballot application. Any person who violates
+Page 13
+
+voter's absentee ballot application. Any person who violates
+HB486 INTRODUCED
+365 this subdivision shall be guilty of a Class B felony.
+366 (e) Any voter who requires assistance to vote by reason
+367 of blindness, disability, or inability to read or write may be
+368 given assistance by an individual of the voter's choice, other
+369 than the voter's employer or agent of that employer or officer
+370 or agent of the voter's union.
+371 (f) Voters voting by absentee ballot through the
+372 Uniformed and Overseas Citizens Absentee Voting Act are not
+373 subject to this section. The Secretary of State shall provide
+374 applications for absentee voting to military and overseas
+375 voters in accordance with Section 17-4-35."
+376 "§17-11-5
+377 (a)(1) Upon receipt of an application for an absentee
+378 ballot as provided in Section 17-11-3, if the applicant's name
+379 appears on the list of qualified voters produced from the
+380 state voter registration list in the election to be held, or
+381 if the applicant qualifies for a provisional absentee ballot,
+382 the absentee election manager shall furnish the absentee
+383 ballot to the applicant by: (1) Forwarding(i) forwarding it by
+384 United States mail to the applicant's or voter's residence
+385 address or, upon written request of the voter, to the address
+386 where the voter regularly receives mail; or (2)(ii) by handing
+387 the absentee ballot to the applicant in person or, in the case
+388 of emergency voting when the applicant requires medical
+389 treatment, to his or her designee in person.
+390 (2) If the absentee election manager has reasonable
+391 cause to believe that the applicant has given a fraudulent
+392 address on the application for the absentee ballot, the
+Page 14
+
+address on the application for the absentee ballot, the
+HB486 INTRODUCED
+393 absentee election manager shall turn over the ballot
+394 application to the district attorney for any action which may
+395 be necessary under this article. The absentee election manager
+396 may require additional proof of an applicant's eligibility to
+397 vote absentee when there is evidence of continuous absentee
+398 voting.
+399 (3) The absentee election manager shall mail any
+400 absentee ballot requested to be mailed as provided in Section
+401 17-11-3 no later than the next business day after an
+402 application has been received unless the absentee ballots have
+403 not been delivered to the absentee election manager. If the
+404 absentee ballots have not been so delivered, the absentee
+405 election manager shall hold all requests until the ballots are
+406 delivered and shall then respond by placing ballots in the
+407 mail no later than the next business day.
+408 (b)(1) The official list of qualified voters shall be
+409 furnished to the absentee election manager by the judge of
+410 probate using a printout from the state voter registration
+411 list of registered voters for that county containing voter
+412 registration information useful in the identification of
+413 absentee voters.
+414 (2) The information provided in this report shall be
+415 established by rules adopted by the Secretary of State with
+416 the advice of the Alabama Circuit Court Clerks Association or
+417 its members and shall indicate whether the individual is
+418 obligated to produce identification in accordance with
+419 Sections 17-9-30 and 17-10-1. The Secretary of State may
+420 further provide by administrative rule for electronic access
+Page 15
+
+further provide by administrative rule for electronic access
+HB486 INTRODUCED
+421 to this list for optional use by the absentee election
+422 manager.
+423 (3) ThisThe list shall be made available beginning at
+424 least 55 days before the election. In municipal elections, the
+425 official list of qualified voters shall be furnished to the
+426 absentee election manager at least 35 days before the
+427 election. Any supplemental list of qualified electors shall
+428 also be provided to the absentee election manager as soon as
+429 the list becomes available.
+430 (4) The absentee election manager shall underscore on
+431 the list the name of each voter who has applied for an
+432 absentee ballot and shall write immediately beside his or her
+433 name the word "absentee." The Secretary of State, by rule, may
+434 provide for electronic access to the absentee election
+435 manager's county list of registered voters in lieu of the
+436 printed list and for the method of identifying applicants for
+437 absentee ballots in conjunction with the state voter
+438 registration list.
+439 (c)(1) The list of electors voting by absentee ballot
+440 shall remain confidential until the day following the
+441 election. The absentee election manager in all elections shall
+442 deliver to the board of registrars the day following the
+443 election, a copy of the list of all absentee voters, at which
+444 point the list is deemed a public record. The list shall be
+445 maintained in the office of the circuit clerk for 60 days
+446 after the election, at which time it shall be delivered to the
+447 judge of probate.
+448 (2) Before the polls open at any election on election
+Page 16
+
+(2) Before the polls open at any election on election
+HB486 INTRODUCED
+449 day, the absentee election manager shall effectuate the
+450 delivery to the election officers of each voting place a list
+451 showing the name and address of every personindividual whose
+452 name appears on the official list of qualified electors for
+453 the voting place who applied for an absentee ballot in the
+454 election. The name of the personindividual who applied for an
+455 absentee ballot shall be identified as an absentee voter on
+456 the list of qualified electors kept at the voting place, and
+457 the personindividual shall not vote again, except that in
+458 county, state, and federal elections the personindividual may
+459 vote a provisional ballot. Applications for absentee ballots
+460 are required for elections that are more than 42 days apart,
+461 except as to individuals voting pursuant to the federal
+462 Uniformed and Overseas Citizens Absentee Voting Act, 42 U.S.C.
+463 1973ff52 U.S.C. §§ 20301-20311.
+464 (2)(3) The absentee election manager shall redact any
+465 information required to be redacted pursuant to Section
+466 17-4-33 from any copy of an absentee voter list. This
+467 subdivision shall not affect poll lists used at local
+468 precincts.
+469 (d)(1) For individuals voting pursuant to the federal
+470 Uniformed and Overseas Citizens Absentee Voting Act, 42 U.S.C.
+471 1973ff52 U.S.C. §§ 20301-20311, the Secretary of State, by
+472 rule, shall prescribe use of standardized military and
+473 overseas voter registration applications and applications for
+474 absentee ballots adopted by the United States government. The
+475 Secretary of State shall also prescribe, by rule, provisions
+476 within the standard state application form for absentee voting
+Page 17
+
+within the standard state application form for absentee voting
+HB486 INTRODUCED
+477 which permit the voter to identify himself or herself as a
+478 military or overseas voter.
+479 (2) Unless otherwise indicated by the military or
+480 overseas voter, an application for an absentee ballot by such
+481 a voter shall remain valid for any election for a federal,
+482 state, or county office or for any proposed constitutional
+483 amendment or a state or county referendum held through the end
+484 of the calendar year in which the application is filed,
+485 provided that if an election cycle begins one year and
+486 continues into the subsequent year, the application shall be
+487 valid for the whole election cycle. The absentee election
+488 manager shall provide an absentee ballot to the military and
+489 overseas voters for each such subsequent election.
+490 (3) The absentee election manager, within seven days
+491 after each regularly scheduled general election for federal
+492 office, shall report the number of military and overseas
+493 ballots mailed out and the number of ballots received to the
+494 Secretary of State, who shall report this information to the
+495 Federal Election Assistance Commission within 90 days of each
+496 regularly scheduled general election for federal office."
+497 "§17-11-9
+498 (a)(1) Each prospective absentee voter who meets the
+499 requirements of this article shall be furnished with the
+500 absentee ballot herein provided for, together with twothree
+501 envelopes for returning his or her marked ballot and
+502 instructions for completing and returning the absentee ballot
+503 as well as instructions for correcting mistakes in completing
+504 ballots or obtaining a replacement ballot.
+Page 18
+
+ballots or obtaining a replacement ballot.
+HB486 INTRODUCED
+505 (2) OneThe first envelope shall be a plainsecrecy
+506 envelope in which the ballot shall be sealed by the voter
+507 after he or she has marked it.
+508 (3) The second envelope shall be an affidavit envelope.
+509 The envelope shall have the voter's affidavit printed on the
+510 back and shall be large enough to seal the plain ballot
+511 envelope inside.
+512 (4) The secondthird envelope shall also be a return
+513 mail envelope.
+514 SuchThe return mail envelope shall be addressed on the
+515 front to the absentee election manager and shall be endorsed
+516 on the left-hand upper corner thereof as follows:
+517 "Absent Voter's Ballot. State, County, Municipal,
+518 General, Primary, or Special Election (as the case may be) to
+519 be held on the ___ day of ____, 2__ From ______ (name of
+520 voter), precinct or districts _________, County of _______,
+521 Alabama."
+522 (b)(1) After marking the ballot and subscribing to the
+523 oath herein required, the voter shall: (i) seal his or her
+524 ballot in the plainsecrecy envelope,; (ii) place that plainthe
+525 secrecy envelope inside the affidavit envelope,; (iii)
+526 complete the affidavit, and have a notary public (or other
+527 officer authorized to acknowledge oaths), or two witnesses
+528 witness his or her signature to the affidavit, and forward it;
+529 (iv) place the affidavit envelope inside the return mail
+530 envelope; and (v) hand deliver the return mail envelope to the
+531 absentee election manager or send the return mail envelope by
+532 United States mail or by commercial carrier to the absentee
+Page 19
+
+United States mail or by commercial carrier to the absentee
+HB486 INTRODUCED
+533 election manager or hand it to him or her in person.
+534 (2) A voter, or the designee of a voter, who is
+535 disabled, blind, or unable to read or write may hand deliver
+536 the return mail envelope to the absentee election manager or
+537 send the return mail envelope by United States mail or by
+538 commercial carrier. For purposes of this subdivision, a
+539 "disabled voter" means an individual who is temporarily or
+540 permanently physically incapacitated and unable to vote by
+541 absentee ballot without assistance.
+542 (c)(1) Notwithstanding the other provisions of this
+543 section, the absentee election manager shall determine whether
+544 an applicant for an absentee ballot is obligated to produce
+545 identification in accordance with Sections 17-9-30 and 17-10-1
+546 or reidentify in accordance with Chapter 4. For absentee
+547 applicants required to produce identification, a thirdan
+548 additional envelope of different color and sufficient size to
+549 enclose the first and secondsecrecy and affidavit envelopes
+550 shall be provided to the applicant along with instructions for
+551 including a proper form of identification in accordance with
+552 Sections 17-9-30 and 17-10-1.
+553 (2) For absentee applicants required to reidentify
+554 because they do not appear in the voting place for which they
+555 seek to vote but do appear in another voting place within the
+556 state voter registration list, the absentee election manager
+557 shall provide to the voter a thirdan additional envelope of
+558 different color and sufficient size to enclose the first and
+559 secondsecrecy and affidavit envelopes along with a voter
+560 reidentification form, a provisional voter affirmation, and
+Page 20
+
+reidentification form, a provisional voter affirmation, and
+HB486 INTRODUCED
+561 instructions in accordance with Section 17-10-2. SuchThe
+562 ballot shall be treated as a provisional ballot and the term
+563 "Provisional" shall be marked on the second or affidavit
+564 envelope prior to transmitting the ballot to the voter.
+565 (3) Applicants for an absentee ballot who do not appear
+566 on the state voter registration list shall not be entitled to
+567 an absentee ballot."
+568 "§17-11-10
+569 (a)(1) Upon receipt of the absentee ballot, the
+570 absentee election manager shall record itsthe receipt on the
+571 absentee list as provided in Section 17-11-5, shall examine
+572 the affidavit envelope and determine if it contains a defect
+573 that would prohibit a poll worker or other election official
+574 from removing or counting the ballot under subdivision (b)(2),
+575 and shall safely keep the ballot without breaking the seal of
+576 the affidavit envelope.
+577 (2) For any absentee ballot received three or more
+578 business days preceding an election, the absentee election
+579 manager, within two business days of receipt of the absentee
+580 ballot, shall notify the elector of each defect with his or
+581 her absentee ballot, provide instructions on how to cure the
+582 defect, and notify the elector that he or she has until the
+583 last business day before the election to cure the defect.
+584 (3) The absentee election manager shall allow an
+585 elector to cure any of the following defects:
+586 a. The elector did not sign the affidavit.
+587 b. The address provided on the affidavit does not match
+588 the address on the absentee ballot application.
+Page 21
+
+the address on the absentee ballot application.
+HB486 INTRODUCED
+589 c. The order of envelopes is incorrect.
+590 d. The affidavit is not properly witnessed or
+591 notarized.
+592 (4) The Secretary of State shall adopt rules to
+593 implement this subsection.
+594 (b)(1) The absentee election manager, beginning at 7:00
+595 a.m. on the day of the election, shall deliver the sealed
+596 affidavit envelopes containing absentee ballots to the
+597 election officials provided for in Section 17-11-11. The
+598 election officials shall then call the name of each voter
+599 casting an absentee ballot with poll watchers present as may
+600 be provided under the laws of Alabama and shall examine each
+601 affidavit envelope to determine if the signature of the voter
+602 has been appropriately witnessed. If the witnessing of the
+603 signature and the information in the affidavit establish that
+604 the voter is entitled to vote by absentee ballot, then the
+605 election officials shall certify the findings, open each
+606 affidavit envelope, and deposit the plain envelope containing
+607 the absentee ballot into a sealed ballot box.
+608 (2)a. No poll worker or other election official shall
+609 open an affidavit envelope if the envelope indicates the
+610 ballot is an unverified provisional ballot or the affidavit is
+611 unsigned by the voter or unmarked, and no ballot envelope or
+612 ballot may be removed or counted.
+613 b. No poll worker or other election official shall open
+614 an affidavit envelope if the voter's affidavit signature or
+615 mark is not witnessed by the signatures of two witnesses or a
+616 notary public, or other officer, including a military
+Page 22
+
+notary public, or other officer, including a military
+HB486 INTRODUCED
+617 commissioned officer, authorized to acknowledge oaths, and no
+618 ballot envelope or ballot may be removed or counted. The
+619 provision for witnessing of the voter's affidavit signature or
+620 mark in Section 17-11-7 goes to the integrity and sanctity of
+621 the ballot and election.
+622 c. No court or other election tribunal shall allow the
+623 counting of an absentee ballot with respect to which the
+624 voter's affidavit signature or mark is not witnessed by the
+625 signatures of two witnesses 18 years of age or older or a
+626 notary public, or other officer, including a military
+627 commissioned officer, authorized to acknowledge oaths, prior
+628 to being delivered or mailed to the absentee election manager.
+629 (3) Upon closing of the polls, the absentee ballots
+630 shall be counted and otherwise handled in all respects as if
+631 the absentee voter were present and voting in person. Precinct
+632 ballot counters may be used to count absentee ballots.
+633 Absentee election officials are to be appointed and trained in
+634 the same manner as prescribed for regular election officials.
+635 The number of absentee election officials shall be determined
+636 by the number of precinct counters provided. The county
+637 commission may provide more than one precinct ballot counter
+638 based upon the recommendation of the absentee election
+639 manager. Beginning not earlier than 7:00 a.m. on election day,
+640 the absentee election officials shall perform the duties
+641 prescribed in Section 17-11-11.
+642 (4) As regardsFor municipalities with populations of
+643 less than 10,000, in the case of municipal elections held at a
+644 time different from a primary or general election, the return
+Page 23
+
+time different from a primary or general election, the return
+HB486 INTRODUCED
+645 mail envelopes containing the ballots shall be delivered to
+646 the election official of the precinct of the respective
+647 voters, unless the city or town having a population of less
+648 than 10,000 inhabitants has established, by permanent
+649 ordinance adopted six months prior to the municipal election,
+650 a procedure for the appointment of absentee election officials
+651 pursuant to subsection (c) of Section 11-46-27(c).
+652 (c)(1) Absentee ballots cast in a second primary
+653 election for federal, state, or county office by individuals
+654 voting pursuant to the federal Uniformed and Overseas Citizens
+655 Absentee Voting Act, 52 U.S.C. §§ 20301-20311, and received
+656 after noon on the day of the second primary election, shall be
+657 opened and counted at the same time as the verified
+658 provisional ballots. At noon seven days after the second
+659 primary election, the absentee election manager shall deliver
+660 the sealed affidavit envelopes containing absentee ballots to
+661 the officials provided for in subsection (f) of Section
+662 17-10-2(f). The officials shall call the name of each voter
+663 casting an absentee ballot in the presence of watchers
+664 designated by any interested candidates and shall examine each
+665 affidavit envelope to determine if the signature of the voter
+666 has been appropriately witnessed. If the witnessing of the
+667 signature and the information in the affidavit establish that
+668 the voter is entitled to vote by absentee ballot, then the
+669 election officials shall certify the findings, open each
+670 affidavit envelope, and deposit the plain envelope containing
+671 the absentee ballot into a sealed ballot box.
+672 (2) No election official shall open an affidavit
+Page 24
+
+(2) No election official shall open an affidavit
+HB486 INTRODUCED
+673 envelope if the affidavit printed thereon is unsigned by the
+674 voter or unmarked, and no ballot envelope or ballot therein
+675 may be removed or counted. No election official shall open an
+676 affidavit envelope if the voter's affidavit signature or mark
+677 is not witnessed by the signatures of two witnesses or a
+678 notary public, or other officer, including a military
+679 commissioned officer, authorized to acknowledge oaths, and no
+680 ballot envelope or ballot therein may be removed or counted.
+681 The provision for witnessing of the voter's affidavit
+682 signature or mark in Section 17-11-7 goes to the integrity and
+683 sanctity of the ballot and election. No court or other
+684 election tribunal shall allow the counting of an absentee
+685 ballot with respect to which the voter's affidavit signature
+686 or mark is not witnessed by the signatures of two witnesses 18
+687 years of age or older or a notary public, or other officer,
+688 including a military commissioned officer, authorized to
+689 acknowledge oaths, prior to being delivered or mailed to the
+690 absentee election manager.
+691 (3) The absentee ballots described in this subsection
+692 shall be opened, counted, and tabulated. The results of the
+693 absentee ballots counted and tabulated on election day shall
+694 be amended to include the results of the absentee ballots
+695 described in this subsection.
+696 (4) In all other respects, unless otherwise
+697 specifically provided by law, the absentee ballots described
+698 in this subsection shall be treated as other absentee
+699 ballots."
+700 Section 2. Section 17-9-6.1 is added to the Code of
+Page 25
+
+Section 2. Section 17-9-6.1 is added to the Code of
+HB486 INTRODUCED
+701 Alabama 1975, to read as follows:
+702 §17-9-6.1
+703 (a)(1) Before each election in this state, there shall
+704 be an advance voting period that commences, for each primary
+705 or general election, on the fourth Monday before the primary
+706 or general election.
+707 (2) If there is a second primary election pursuant to
+708 Section 17-13-18, the advance voting period shall commence no
+709 later than the second Monday before the second primary.
+710 (3) The advance voting period shall continue until the
+711 Friday immediately preceding the primary, second primary, or
+712 general election.
+713 (b)(1) The judge of probate of each county shall
+714 designate at least one polling place to be open in the county
+715 for advance voting. Registered voters in the county may vote
+716 at any open advance voting polling place in the county of
+717 their residence.
+718 (2) The judge of probate shall provide the location of
+719 all advance voting polling places to the Secretary of State at
+720 least 14 days before the beginning of the advance voting
+721 period for each primary and general election.
+722 (3) If an advance voting period is necessary due to a
+723 second primary, the judge of probate shall provide the
+724 location to the Secretary of State at least seven days before
+725 the advance voting period begins for the second primary.
+726 (c)(1) Precinct election officials shall open each
+727 advance voting polling place from 9:00 a.m. to 5:00 p.m. on
+728 weekdays during the advance voting period. The advance voting
+Page 26
+
+weekdays during the advance voting period. The advance voting
+HB486 INTRODUCED
+729 polling place shall also be open for advance voting from 9:00
+730 a.m. to 5:00 p.m. on the second and third Saturdays preceding
+731 a primary, second primary, or general election.
+732 (2) The judge of probate may order an advance voting
+733 polling place open on the second or third Sundays preceding a
+734 primary, second primary, or general election. The advance
+735 voting polling place shall operate during hours established by
+736 order of the judge of probate which must be between the hours
+737 of 7:00 a.m. and 7:00 p.m.
+738 (3) Notwithstanding subdivision (1), if an official
+739 state holiday, pursuant to Section 1-3-8, occurs on the second
+740 Thursday, Friday, Saturday, Sunday, or Monday preceding a
+741 primary, second primary, or general election, advance voting
+742 may not occur on the second Saturday.
+743 (4) The judge of probate may establish extended hours
+744 for the days that advance voting is authorized to any time
+745 between 7:00 a.m. and 7:00 p.m., provided that each polling
+746 location is open from at least 9:00 a.m. to 5:00 p.m.
+747 (5)a. The judge of probate shall provide to the
+748 Secretary of State all dates and times that the advance voting
+749 polling place in his or her county will be open at least 14
+750 days before the beginning of the advance voting period for a
+751 primary or general election.
+752 b. If an advance voting period is necessary due to a
+753 second primary, the judge of probate shall provide the dates
+754 and times to the Secretary of State at least seven days before
+755 the advance voting period begins for the second primary
+756 election.
+Page 27
+
+election.
+HB486 INTRODUCED
+757 (6) Voting during the advance voting period may only
+758 occur on the dates and times authorized under this section.
+759 (d)(1) The judge of probate shall provide reasonable,
+760 conspicuous notice to the registered electors in his or her
+761 county of the availability of advance voting. This notice
+762 shall include the times, dates, and locations at which
+763 electors may participate in advance voting. The Secretary of
+764 State shall establish, by rule, the methods that judges of
+765 probate may use to provide notice to electors.
+766 (2) In addition to the notice required in subdivision
+767 (1), the judge of probate shall publish the dates, times, and
+768 locations at which electors may participate in advance voting
+769 on the homepage of the county commission's website, and the
+770 homepage of the county's publicly accessible website
+771 associated with elections or registration for elections, if
+772 one exists.
+773 (3) If the county has no applicable websites pursuant
+774 to subdivision (2), the judge of probate shall publish the
+775 dates, times, and locations at which electors may participate
+776 in advance voting in a newspaper of general circulation in the
+777 county and by posting the information in a conspicuous manner
+778 and location in the county.
+779 (4) The notice and publication of the dates, times, and
+780 locations required under this subsection is required at least
+781 14 days before the beginning of the advance period for a
+782 primary and general election and at least seven days before
+783 the beginning of the advance voting period for a second
+784 primary election.
+Page 28
+
+primary election.
+HB486 INTRODUCED
+785 (e)(1) The judge of probate may establish additional
+786 advance voting polling places to be opened after the advance
+787 voting period has begun. The judge of probate shall provide
+788 the notice and publication required under subsection (d)
+789 within one day after the new advance voting polling place has
+790 been established.
+791 (2) The judge of probate shall not remove any advance
+792 voting location after notice and publication is provided to
+793 electors in the county unless there is an emergency or
+794 unavoidable event that renders the location unavailable for
+795 use. If an event renders a location unavailable, and that
+796 advance voting polling place was the only one in the county,
+797 the judge of probate shall designate a new advance voting
+798 polling place. The judge of probate shall provide additional
+799 notice and publication pursuant to subsection (d) to
+800 communicate the new location to electors in the county within
+801 one day after the new advance voting polling place has been
+802 established.
+803 (f) This section shall apply to all elections in the
+804 state. The Secretary of State shall adopt rules to implement
+805 and administer this section.
+806 Section 3. (a) This section and Sections 4 through 8
+807 shall be known and may be cited as the Alabama Voting Rights
+808 Act.
+809 (b) For purposes of Sections 4 through 8, the following
+810 words have the following meanings:
+811 (1) ALTERNATIVE METHOD OF ELECTION. A method of
+812 electing candidates to the legislative body of a municipality
+Page 29
+
+electing candidates to the legislative body of a municipality
+HB486 INTRODUCED
+813 other than an at-large method of election or a district-based
+814 method of election, which includes, but is not limited to,
+815 proportional ranked-choice voting and cumulative voting.
+816 (2) AT-LARGE METHOD OF ELECTION. A method of electing
+817 candidates to the legislative body of a municipality in which
+818 candidates are voted upon by all electors of the municipality.
+819 This does not include any alternative method of election.
+820 (3) COMMISSION. The Alabama Voting Rights Act
+821 Commission established under Section 5.
+822 (4) DISTRICT-BASED METHOD OF ELECTION. A method of
+823 electing candidates to the legislative body of a municipality
+824 in which, for municipalities divided into districts, a
+825 candidate for a district is required to reside in the district
+826 and candidates representing or seeking to represent the
+827 district are voted upon by the electors residing in the
+828 district.
+829 (5) GOVERNMENT ENFORCEMENT ACTION. Any denial of
+830 administrative or judicial preclearance by the state or
+831 federal government, pending litigation filed by a state or
+832 federal entity, final judgment or adjudication, consent
+833 decree, or other similar formal action.
+834 (6) LEGISLATIVE BODY. The city council, board of
+835 education, county commission, district committee, association
+836 committee, or other similar body of a municipality.
+837 (7) LOCAL GOVERNMENT. Any political subdivision within
+838 the State of Alabama that administers elections or in which
+839 elections are conducted and includes a county, municipality,
+840 or school district.
+Page 30
+
+or school district.
+HB486 INTRODUCED
+841 (8) ORGANIZATION. Any entity or group of persons with a
+842 commonly aligned purpose other than an individual.
+843 (9) PROTECTED CLASS. A class of individuals who are
+844 members of a race, color, or language minority group, or a
+845 class or two or more of those minority groups.
+846 (10) RACIALLY POLARIZED VOTING. Voting where there is a
+847 divergence in the candidate preferences, political
+848 preferences, or electoral choices of members in a protected
+849 class from the candidate preferences, political preferences,
+850 or electoral choices of members of another class or set of
+851 classes.
+852 (11) VOTING. Any action necessary to cast a ballot and
+853 make the ballot effective in any general or primary election,
+854 including, but not limited to, admission as an elector,
+855 application for an absentee ballot, and any other action
+856 required by law as a prerequisite to casting a ballot and
+857 having that ballot counted, canvassed, or certified properly
+858 and included in the appropriate totals of votes cast with
+859 respect to candidates for election or nomination and to
+860 amendment questions.
+861 (12) VOTING RIGHTS ACT. The Voting Rights Act of 1965,
+862 52 U.S.C. §10101 et seq., as amended.
+863 Section 4. (a) No local government, state agency, or
+864 state official may implement a regulation, standard, practice,
+865 procedure, or policy regarding the administration of elections
+866 or take or fail to take any action that results or is intended
+867 to result in a disparity among members of a protected class in
+868 electoral participation, access to voting participation,
+Page 31
+
+electoral participation, access to voting participation,
+HB486 INTRODUCED
+869 access to voting opportunities, or ability to participate in
+870 the political process, or an impairment of the opportunity or
+871 ability of members of a protected class within a local
+872 government to participate in the political process and elect
+873 candidates of their choice or otherwise influence the outcome
+874 of elections.
+875 (b) There is a rebuttable presumption that a local
+876 government violates subdivision (a) if the local government
+877 does any of the following:
+878 (1) Closes, moves, consolidates, or fails to provide
+879 polling places or reassigns voters to precincts or precincts
+880 to polling places in a manner that impairs the right to vote
+881 of members of a protected class or results in a disparity in
+882 geographic access between members of a protected class and
+883 other members of the electorate.
+884 (2) Changes dates or hours of an election in a manner
+885 that impairs the right to vote of members of a protected
+886 class, including, but not limited to, making the change
+887 without proper notice as required by law.
+888 (3) Fails to provide voting or election materials in
+889 languages other than English as required by law.
+890 (4) Calls a special election to fill a vacancy on a
+891 date that would reasonably result in a disparity in levels of
+892 participation between protected class voters and other voters,
+893 and there exists an alternate date in a reasonable timeframe
+894 in which the disparity would be materially less significant.
+895 (c)(1) No local government may employ a method of
+896 election for any office that has the effect of, or is
+Page 32
+
+election for any office that has the effect of, or is
+HB486 INTRODUCED
+897 motivated in part by, the intent to impair the opportunity or
+898 ability of members of a protected class to participate in the
+899 political process and elect candidates of their choice or
+900 otherwise influence the outcome of elections as a result of
+901 diluting the vote of members of a protected class.
+902 (2) A local government violates this subsection if it
+903 employs a method of election that results in racially
+904 polarized voting which impairs the equal opportunity or
+905 ability of members of a protected class to nominate or elect
+906 candidates of their choice.
+907 (d) Any individual aggrieved by a violation of this
+908 section, any organization whose membership includes
+909 individuals aggrieved by a violation of this section, any
+910 organization whose mission would be frustrated by a violation
+911 of this section, any entity that would expend resources in
+912 order to fulfill its mission as a result of a violation of
+913 this section, the commission, or the Attorney General may file
+914 an action alleging a violation of this section to enforce
+915 compliance with this section in a court of competent
+916 jurisdiction. The claim may be filed pursuant to the Alabama
+917 Rules of Civil Procedure. Members of two or more protected
+918 classes that are politically cohesive in a local government
+919 may jointly file an action.
+920 (e)(1) Prior to filing suit under subsection (d), the
+921 aggrieved party shall send a notice letter to the local
+922 government alleged to be in violation to allow the local
+923 government the opportunity to correct the violation.
+924 (2) The local government shall have seven calendar days
+Page 33
+
+(2) The local government shall have seven calendar days
+HB486 INTRODUCED
+925 in which to respond detailing what actions it will take to
+926 address the violations or to deny the allegations in whole or
+927 in part.
+928 (3) If the perceived violation occurs within 14 days
+929 after the voter registration deadline for the relevant
+930 election, the aggrieved party is granted leave from the notice
+931 requirement.
+932 (f)(1) In any action to enforce Sections 3 through 8 of
+933 this act, the court may award reasonable attorney fees and
+934 litigation costs including, but not limited to, expert witness
+935 fees and expenses, if all of the following are applicable to
+936 the party to which fees and costs are awarded:
+937 a. The party filed the action to enforce Sections 3
+938 through 8 of this act.
+939 b. The party is not a state or municipal entity or
+940 agency.
+941 c. The party prevailed in the action.
+942 (2) If a party against whom an action was brought under
+943 this section prevails in the action, the court may not award
+944 reasonable attorney fees and litigation costs unless the court
+945 finds the action to be frivolous, unreasonable, or without
+946 foundation.
+947 (3) For purposes of this subsection, a party shall have
+948 prevailed in an action when, as a result of litigation, the
+949 party against whom the action was filed has resulted in a
+950 substantial portion or all of the relief sought in the action.
+951 Section 5. (a) There is established the Alabama Voting
+952 Rights Act Commission.
+Page 34
+
+Rights Act Commission.
+HB486 INTRODUCED
+953 (b) The commission shall be responsible for
+954 administering the Alabama Voting Rights Act.
+955 (c) The commission shall consist of five commissioners,
+956 each of whom shall serve staggered five-year terms.
+957 Commissioners shall be compensated for their time spent on
+958 commission business at an hourly rate based on the rate
+959 equivalent to an assistant attorney general.
+960 (1) A nominating committee shall be formed to identify
+961 qualified candidates to serve as members of the commission.
+962 The nominating committee shall be comprised of nominating
+963 organizations. Organizations may apply with the Secretary of
+964 State to be certified as a nominating organization for
+965 five-year terms, at which point a nominating organization may
+966 be recertified. The Secretary of State must certify any
+967 organization that applies to be a nominating organization if
+968 the organization:
+969 a. Demonstrates commitment to the purpose of the
+970 commission by securing the voting rights of members of a
+971 protected class, including, but not limited to, reference to
+972 members of a protected class in its mission statement,
+973 involvement in numerous voting rights cases brought within the
+974 state on behalf of members of protected classes, or
+975 involvement in advocacy in support of members of protected
+976 classes or the commission;
+977 b. Has registered as a nonprofit corporation with the
+978 Secretary of State; and
+979 c. Demonstrates continuous operation as a nonprofit
+980 organization under 26 U.S.C. § 501(c)(3) or as a nonprofit
+Page 35
+
+organization under 26 U.S.C. § 501(c)(3) or as a nonprofit
+HB486 INTRODUCED
+981 corporation registered with the Secretary of State for at
+982 least 10 years.
+983 (2) If the Secretary of State fails to timely certify
+984 an organization that satisfies these qualifications following
+985 the organization's application to be certified as a nominating
+986 organization, the organization may file an action against the
+987 Secretary of State for a declaratory judgment certifying the
+988 organization as a nominating organization.
+989 (3) A nominating organization may be removed for cause
+990 by a majority vote of all of the nominating organizations.
+991 (4) If there are fewer than 16 nominating organizations
+992 certified by the Secretary of State, the nominating committee
+993 shall consist of all of the nominating organizations. If there
+994 are 16 or more nominating organizations certified by the
+995 Secretary of State, the nominating committee shall consist of
+996 16 nominating organizations to be randomly selected from all
+997 nominating organizations on an annual basis.
+998 (5) The nominating committee shall select its own chair
+999 to preside over meetings and voting.
+1000 (6) Commissioners shall be selected as follows:
+1001 a. The nominating committee shall solicit applications
+1002 to serve as a commissioner from across the state. A
+1003 commissioner must meet all of the following criteria:
+1004 1. Be an Alabama resident.
+1005 2. Be a member of The Alabama State Bar with at least
+1006 five years of legal experience.
+1007 3. Have demonstrated experience representing or
+1008 advocating on behalf of members of protected classes.
+Page 36
+
+advocating on behalf of members of protected classes.
+HB486 INTRODUCED
+1009 4. Have not served in elected office within the
+1010 previous five years.
+1011 5. Is not currently serving in any government office or
+1012 holding any political party office.
+1013 b. The nominating committee shall maintain a qualified
+1014 candidate pool consisting of 30 qualified candidates to serve
+1015 on the commission. Individuals shall only be added to the
+1016 qualified candidate pool upon a three-fifths vote of the
+1017 nominating committee. The size of the qualified candidate pool
+1018 may be increased or decreased from 30 qualified individuals by
+1019 a three-fifths vote of the nominating committee.
+1020 c. All commissioners shall be randomly selected from
+1021 the qualified candidate pool. Upon the initial formation of
+1022 the commission, five commissioners shall be randomly selected
+1023 from the qualified candidate pool and randomly assigned to
+1024 initial term lengths of five years, four years, three years,
+1025 two years, and one year. At least 60 days before the
+1026 conclusion of each commissioner's term, a new commissioner
+1027 shall be randomly selected from the qualified candidate pool
+1028 to serve a five-year term upon the conclusion of the current
+1029 commissioner's term. Within 30 days after a vacancy occurs on
+1030 the commission, a new commissioner shall be randomly selected
+1031 from the qualified candidate pool to complete the vacant
+1032 unexpired term.
+1033 (d) In any action or investigation to enforce the
+1034 Alabama Voting Rights Act, the commission may subpoena
+1035 witnesses, administer oaths, examine individuals under oath,
+1036 determine material facts, and compel production of records,
+Page 37
+
+determine material facts, and compel production of records,
+HB486 INTRODUCED
+1037 books, papers, contracts, and other documents in accordance
+1038 with the Alabama rules of civil procedure.
+1039 (e) The commission may hire staff and make expenditures
+1040 as necessary to carry out its responsibilities.
+1041 (f) The commission may adopt rules to administer
+1042 Sections 3 through 8.
+1043 Section 6. (a) The Secretary of State shall establish,
+1044 in the Office of the Secretary of State, a statewide database
+1045 of information necessary to assist the state and any
+1046 municipality in: (i) evaluating whether and to what extent
+1047 current laws and practices related to election administration
+1048 are consistent with the Alabama Voting Rights Act; (ii)
+1049 implementing best practices in election administration to
+1050 further the purposes of Sections 3 through 8; and (iii)
+1051 investigating any potential infringement upon the right to
+1052 vote.
+1053 (b) No later than January 1, 2027, the Secretary of
+1054 State shall designate an employee of the Office of the
+1055 Secretary of State to serve as manager of the statewide
+1056 database. The designated employee shall possess an advanced
+1057 degree from an accredited college or university, or equivalent
+1058 experience, and have expertise in demography, statistical
+1059 analysis, and electoral systems. The designated employee shall
+1060 be responsible for the operation of the statewide database and
+1061 shall manage staff as necessary to implement and maintain the
+1062 statewide database.
+1063 (c) The statewide database shall maintain, in an
+1064 electronic format, for a period covering at least the 12
+Page 38
+
+electronic format, for a period covering at least the 12
+HB486 INTRODUCED
+1065 previous years, all of the following data and records:
+1066 (1) Estimates of total population, voting age
+1067 population, and citizen voting age population by race, color,
+1068 and language minority group, broken down annually to the
+1069 voting district level for each municipality, based on
+1070 information from the United States Census Bureau, including
+1071 from the American Community Survey or information of
+1072 comparable quality collected by a similar governmental agency,
+1073 and accounting for population adjustments, as applicable.
+1074 (2) Election results at the district level for each
+1075 statewide election and each election in each municipality.
+1076 (3) Regularly updated registry lists, geocoded
+1077 locations for each elector, and elector history files for each
+1078 election in each municipality.
+1079 (4) Contemporaneous maps and descriptions of boundaries
+1080 and other similar items which shall be provided as shapefiles
+1081 or in a comparable electronic format if an electronic format
+1082 is available.
+1083 (5) Geocoded locations of polling places and absentee
+1084 ballot drop-off locations for each election in each
+1085 municipality and a list or description of the voting districts
+1086 or geographic areas served by each location.
+1087 (6) Any other information the Secretary of State deems
+1088 advisable to maintain the database in furtherance of the
+1089 purposes of Sections 3 through 8.
+1090 (d) Except for any data, information, or estimates that
+1091 identify individual electors, the data, information, or
+1092 estimates maintained in the statewide database shall be
+Page 39
+
+estimates maintained in the statewide database shall be
+HB486 INTRODUCED
+1093 published on the website of the Office of the Secretary of
+1094 State and made publicly available in electronic format at no
+1095 cost.
+1096 (e) Any estimates prepared pursuant to this section,
+1097 including estimates of eligible electors, shall be prepared
+1098 using the most advanced, peer-reviewed, and validated
+1099 methodologies available to the state.
+1100 (f) Upon the certification of election results and the
+1101 completion of the elector history file after each election,
+1102 the officials responsible for administering elections in each
+1103 municipality shall transmit to the Secretary of State, in
+1104 electronic format, copies of all of the following:
+1105 (1) Election results at the voting district level.
+1106 (2) Updated registry lists.
+1107 (3) Elector history files.
+1108 (4) Maps, descriptions of boundaries, and similar
+1109 items.
+1110 (5) Lists of polling place and absentee ballot drop-off
+1111 locations.
+1112 (6) Lists or descriptions of the voting districts or
+1113 geographic areas served by the locations.
+1114 (g) At least annually or upon the request by the
+1115 Secretary of State, the Alabama Criminal Justice Information
+1116 Services Division within the Alabama State Law Enforcement
+1117 Agency, or any other state entity identified by the Secretary
+1118 of State as possessing data, statistics, or other information
+1119 that the Office of the Secretary of the State requires to
+1120 carry out its duties and responsibilities under Title 17 shall
+Page 40
+
+carry out its duties and responsibilities under Title 17 shall
+HB486 INTRODUCED
+1121 provide to the Secretary of State the data, statistics, or
+1122 information.
+1123 (h) The Office of the Secretary of State may provide
+1124 nonpartisan technical assistance to municipalities,
+1125 researchers, and members of the public seeking to use the
+1126 resources of the statewide database.
+1127 (i) In each action filed pursuant to Section 4 of this
+1128 act, there shall be a rebuttable presumption that the data,
+1129 estimates, or other information maintained in the statewide
+1130 database is valid.
+1131 Section 7. (a) The enactment or implementation of a
+1132 covered policy by a covered jurisdiction shall be subject to
+1133 preclearance by the commission or the Fifteenth Judicial
+1134 Circuit.
+1135 (b) A covered policy, as determined by the commission,
+1136 shall include any new or modified qualification for admission
+1137 as an elector, prerequisite to voting, or ordinance,
+1138 regulation, standard, practice, procedure, or policy
+1139 concerning any of the following:
+1140 (1) Districting or redistricting.
+1141 (2) Method of election.
+1142 (3) Form of government.
+1143 (4) Annexation, incorporation, dissolution,
+1144 consolidation, or division of a municipality.
+1145 (5) An elector's voter registration status.
+1146 (6) Hours of operation for any polling location.
+1147 (7) Assignment of voting districts to any polling
+1148 location.
+Page 41
+
+location.
+HB486 INTRODUCED
+1149 (8) Assistance offered to members of a protected class.
+1150 (9) Any additional subject matter the commission may
+1151 identify for inclusion in this subsection, pursuant to a rule
+1152 adopted by the commission in accordance with the Alabama
+1153 Administrative Procedure Act, if the commission determines
+1154 that any qualification for admission as an elector,
+1155 prerequisite to voting or ordinance, regulation, standard,
+1156 practice, procedure, or policy concerning the subject matter
+1157 may have the effect of diminishing the right to vote of any
+1158 member of a protected class or have the effect of violating
+1159 the Alabama Voting Rights Act. A decision by the commission to
+1160 identify or to not identify any additional subject matter for
+1161 inclusion in this section shall be final and shall not be
+1162 subject to review in any court or forum, except as provided in
+1163 the Constitution of Alabama of 2022.
+1164 (c) A covered jurisdiction shall include a local
+1165 government that meets any of the following criteria:
+1166 (1) Within the 25 preceding years, has been subject to
+1167 any court order, court-approved consent decree, government
+1168 enforcement action, or settlement in which the local
+1169 government conceded liability for violating the Alabama Voting
+1170 Rights Act, the Voting Rights Act of 1965, any state or
+1171 federal civil rights law, the Fourteenth or Fifteenth
+1172 Amendment to the United States Constitution concerning a
+1173 violation of the right to vote, or a pattern, practice, or
+1174 policy of discrimination against any member of a protected
+1175 class.
+1176 (2) Within the three preceding years, has failed to
+Page 42
+
+(2) Within the three preceding years, has failed to
+HB486 INTRODUCED
+1177 comply with obligations to provide data or information to the
+1178 statewide database pursuant to Section 6.
+1179 (3) Within the 25 preceding years, was found to have
+1180 enacted or implemented a covered policy without obtaining
+1181 preclearance for the covered policy pursuant to this section.
+1182 (4) Within the preceding 10 years has at least 1,000
+1183 eligible electors of any protected class, or a population of
+1184 members of a protected class that is at least 10 percent of
+1185 the eligible elector population of the local government and
+1186 either: (i) the percentage of electors of any protected class
+1187 in a local government that participated in any general
+1188 election for any local government office is at least 10
+1189 percentage points lower than the percentage of all electors in
+1190 the local government that participated in the election; (ii)
+1191 the percentage of eligible electors of the protected class who
+1192 were registered to vote was at least 10 percentage points
+1193 lower than the percentage of all eligible electors in the
+1194 local government who were registered to vote; (iii) the
+1195 dissimilarity index of the protected class based upon the
+1196 United States Census data, calculated using census tracts, is
+1197 in excess of 50 with respect to the race, color, or language
+1198 minority group that comprises a plurality within the local
+1199 government; (iv) the poverty rate among members of the
+1200 protected class exceeds the poverty rate among the population
+1201 of the local government as a whole by at least 10 percentage
+1202 points; (v) the arrest rate among members of the protected
+1203 class exceeds the arrest rate of the population of the local
+1204 government by at least 10 percentage points; or (vi) the
+Page 43
+
+government by at least 10 percentage points; or (vi) the
+HB486 INTRODUCED
+1205 graduation rate of the protected class is lower than the
+1206 graduation rate of the school district student population by
+1207 at least 10 percentage points.
+1208 (d)(1) At least annually, the commission shall
+1209 determine which governmental entities are covered
+1210 jurisdictions pursuant to subsection (c) and provide a list of
+1211 the local governments to the Secretary of State who shall
+1212 publish the list on the Secretary of State's website.
+1213 (2) A determination of the commission as to coverage
+1214 under subdivision (1) shall be effective upon the publication
+1215 and may be appealed in accordance with the Alabama
+1216 Administrative Procedure Act.
+1217 (e)(1) If a covered jurisdiction seeks preclearance
+1218 from the commission for the adoption or implementation of any
+1219 covered policy, the covered jurisdiction shall submit the
+1220 covered policy in writing to the commission.
+1221 (2) If the commission receives a request for
+1222 preclearance of a covered policy from a covered jurisdiction,
+1223 not later than 10 calendar days after receipt of the request
+1224 for preclearance of a covered policy, the commission shall
+1225 publish the covered policy on the commission's website.
+1226 (3) Members of the public shall have an opportunity to
+1227 comment on any covered policy published on the commission's
+1228 website within the time period set forth in subdivision (9).
+1229 The Secretary of State shall allow members of the public to
+1230 sign up to receive notifications of submitted covered policies
+1231 for preclearance and deadlines for submission of public
+1232 comments.
+Page 44
+
+comments.
+HB486 INTRODUCED
+1233 (4) The commission shall review the submission for
+1234 preclearance and any public comments and provide a report and
+1235 determination as to whether preclearance of the covered policy
+1236 should be granted or denied within the time period set forth
+1237 in subdivision (10). The time period for public comment shall
+1238 run concurrently with the time period for review of the
+1239 submission for preclearance.
+1240 (5) The covered jurisdiction shall bear the burden of
+1241 proof in any determination as to preclearance of a covered
+1242 policy. The commission may request additional information from
+1243 a covered jurisdiction at any time during the commission's
+1244 review for the purpose of developing the Secretary of State's
+1245 report and determination. Failure of the covered jurisdiction
+1246 to timely comply with reasonable requests for additional
+1247 information may constitute grounds for the denial of
+1248 preclearance. The commission shall publish on the website of
+1249 the office of the commission each report and determination
+1250 upon completion of the report.
+1251 (6) In its determination, the commission shall state in
+1252 writing whether the Secretary of State is approving or
+1253 rejecting the covered policy, provided the commission may
+1254 designate preclearance as preliminary and subsequently approve
+1255 or deny final preclearance not later than 90 days after
+1256 receipt of submission of the covered policy.
+1257 (7) The commission shall deny preclearance to a
+1258 submitted covered policy only if the covered policy is more
+1259 likely than not to violate the provisions of the Alabama
+1260 Voting Rights Act or diminish the opportunity or ability of
+Page 45
+
+Voting Rights Act or diminish the opportunity or ability of
+HB486 INTRODUCED
+1261 members of a protected class to participate in the political
+1262 process and elect candidates of their choice or otherwise
+1263 influence the outcome of elections. If the commission denies
+1264 preclearance to a covered policy under this subdivision, the
+1265 commission shall interpose objections explaining the
+1266 commission's basis for the denial, and the covered policy
+1267 shall not be enacted or implemented.
+1268 (8) If the commission grants preclearance to a
+1269 submitted covered policy, the covered jurisdiction may
+1270 immediately enact or implement the covered policy. A
+1271 determination by the commission to grant preclearance shall
+1272 not be considered by a court in any subsequent action
+1273 challenging the covered policy.
+1274 (9) The commission shall allow 10 business days for
+1275 public comment on any submitted covered policy, except that
+1276 the commission shall allow 20 business days for public comment
+1277 on any submitted covered policy concerning the implementation
+1278 of a district-based or alternative method of election, a
+1279 districting or redistricting plan, or a change to a
+1280 municipality's form of government.
+1281 (10) The commission shall review and determine to grant
+1282 or deny preclearance to a submitted covered policy not later
+1283 than 30 calendar days after receipt of the submitted covered
+1284 policy, except that the commission shall review and determine
+1285 to grant or deny preclearance to a submitted covered policy
+1286 concerning the implementation of a district-based or
+1287 alternative method of election, a districting or redistricting
+1288 plan, or a change to a municipality's form of government not
+Page 46
+
+plan, or a change to a municipality's form of government not
+HB486 INTRODUCED
+1289 later than 90 days after receipt of the submitted covered
+1290 policy.
+1291 (11) If the commission fails to grant or deny
+1292 preclearance to a submitted covered policy within the time
+1293 period specified in subdivision (10), the covered policy shall
+1294 be deemed precleared and the covered jurisdiction may enact or
+1295 implement the covered policy.
+1296 (f) The commission may adopt rules in accordance with
+1297 the Alabama Administrative Procedure Act to establish an
+1298 expedited emergency preclearance process under which the
+1299 commission may address covered policies that are submitted
+1300 during or immediately preceding an election as a result of any
+1301 attack, disaster, emergency, or other exigent circumstance.
+1302 Any preclearance granted pursuant to the rules adopted under
+1303 this subsection shall be designated "preliminary" and the
+1304 commission may subsequently approve or deny final preclearance
+1305 not later than 90 days after receipt of submission of the
+1306 covered policy.
+1307 (g) Any denial of preclearance by the commission may be
+1308 appealed in accordance with the Alabama Administrative
+1309 Procedure Act.
+1310 (h)(1) If a covered jurisdiction seeks preclearance
+1311 from the Fifteenth Judicial Circuit for the adoption or
+1312 implementation of any covered policy, in lieu of seeking
+1313 preclearance from the commission pursuant to subsection (e),
+1314 the covered jurisdiction shall submit the covered policy to
+1315 the court and may obtain preclearance in accordance with this
+1316 subsection, provided the covered jurisdiction shall also
+Page 47
+
+subsection, provided the covered jurisdiction shall also
+HB486 INTRODUCED
+1317 contemporaneously transmit to the commission a copy of the
+1318 submission. Failure to provide a copy of the submission to the
+1319 commission shall result in automatic denial of the
+1320 preclearance.
+1321 (2) Notwithstanding the transmission of a copy of any
+1322 submission to the commission, the court shall exercise
+1323 exclusive jurisdiction over the submission. The covered
+1324 jurisdiction shall bear the burden of proof in the court's
+1325 determination as to preclearance.
+1326 (3) The court shall grant or deny preclearance no later
+1327 than 90 days after the receipt of the submission of a covered
+1328 policy.
+1329 (4) The court shall deny preclearance to a submitted
+1330 covered policy only if the court determines that: (i) the
+1331 covered policy is more likely than not to diminish the
+1332 opportunity or ability of members of a protected class to
+1333 participate in the political process and elect candidates of
+1334 their choice or otherwise influence the outcome of elections;
+1335 or (ii) the covered policy is more likely than not to violate
+1336 the Alabama Voting Rights Act.
+1337 (5) If the court grants preclearance of the covered
+1338 policy, the covered jurisdiction may immediately enact or
+1339 implement the covered policy. A determination by the court to
+1340 grant preclearance to a covered policy shall not be admissible
+1341 in, or otherwise considered by, a court in any subsequent
+1342 action challenging the covered policy.
+1343 (6) If the court denies preclearance of a covered
+1344 policy, or fails to make a determination within 90 days after
+Page 48
+
+policy, or fails to make a determination within 90 days after
+HB486 INTRODUCED
+1345 receipt of submission of the covered policy, the covered
+1346 policy shall not be enacted or implemented.
+1347 (7) Any denial of preclearance under this subsection
+1348 may be appealed in accordance with the Alabama Rules of
+1349 Appellate Procedure. Any action brought pursuant to this
+1350 subsection shall be expedited with respect to assignment for
+1351 trial or appeal, including expedited pretrial and other
+1352 proceedings.
+1353 (i) If any covered jurisdiction enacts or implements
+1354 any covered policy without obtaining preclearance for the
+1355 covered policy in accordance with this section, the commission
+1356 or any party described in Section 4(d) may file an action in
+1357 the Fifteenth Judicial Circuit to enjoin the enactment or
+1358 implementation and seek sanctions against the covered
+1359 jurisdiction for violations of this section.
+1360 (j)(1) The commission may adopt rules, in accordance
+1361 with the Alabama Administrative Procedure Act to effectuate
+1362 the purposes of this section.
+1363 (2) Any estimates prepared for the purpose of
+1364 identifying covered jurisdictions under this section,
+1365 including estimates of eligible electors, shall be prepared
+1366 using the most advanced, peer-reviewed, and validated
+1367 methodologies.
+1368 Section 8. (a) The Secretary of State shall publicize
+1369 his or her work with local registrars, probate offices, and
+1370 election administrators to provide semi-annual voter outreach
+1371 efforts to educate Alabama residents on matters, including,
+1372 but not limited to, upcoming election dates, voter
+Page 49
+
+but not limited to, upcoming election dates, voter
+HB486 INTRODUCED
+1373 registration requirements, available methods of voting, voting
+1374 locations, and proposed redistricting changes.
+1375 (b) The Voter Education Fund is created within the
+1376 State Treasury, to be administered by the commission. All
+1377 receipts collected by the commission pursuant to this act
+1378 shall be deposited into this fund and used to the credit of
+1379 the commission and to carry out this act.
+1380 (c) The commission may expend monies from the fund for
+1381 any of the following purposes:
+1382 (1) Developing and distributing educational materials
+1383 on voting rights and the voting process, including information
+1384 on voter registration, absentee voting, and polling place
+1385 accessibility.
+1386 (2) Conducting public education campaigns to inform
+1387 voters about changes to voting laws, procedures, or polling
+1388 locations, and to counteract false or misleading information
+1389 about voting.
+1390 (3) Providing training and resources to local election
+1391 officials, poll workers, and volunteers on how to ensure fair
+1392 and equitable access to the ballot for all eligible voters.
+1393 (4) Establishing and maintaining voter hotlines, online
+1394 portals, or other mechanisms for voters to report incidents of
+1395 voter intimidation, suppression, or discrimination, and for
+1396 election officials to respond to those reports.
+1397 (5) Supporting voter outreach efforts targeted at
+1398 historically underrepresented communities, including, but not
+1399 limited to, members of protected classes, low-income
+1400 individuals, youth, and people with disabilities.
+Page 50
+
+individuals, youth, and people with disabilities.
+HB486 INTRODUCED
+1401 (6) Providing grants to community-based organizations,
+1402 civic groups, and civil rights organizations to conduct voter
+1403 education and mobilization activities, including voter
+1404 registration drives, candidate forums, and get-out-the-vote
+1405 campaigns, or to engage in nonpartisan advocacy, litigation,
+1406 or other legal actions to protect voting rights, challenge
+1407 discriminatory voting practices, or seek redress for victims
+1408 of voter suppression or intimidation.
+1409 (7) Partnering with schools and universities to develop
+1410 and implement nonpartisan curricula on civic engagement,
+1411 voting, and the importance of participating in the democratic
+1412 process.
+1413 (8) Funding research and evaluation projects to assess
+1414 the impact of voter education and outreach efforts on voter
+1415 participation and civic engagement and to identify best
+1416 practices for improving access to the ballot.
+1417 Section 9. This act shall become effective on October
+1418 1, 2026.
+Page 51

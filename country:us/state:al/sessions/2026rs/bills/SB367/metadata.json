@@ -1,0 +1,146 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "SB367",
+  "title": "Rural Health Transformation Program, appropriations for the fiscal year ending September 30, 2027",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Appropriations; Economic Development"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb367"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Currently Indefinitely Postponed",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Healthcare)",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Healthcare)",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Healthcare",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Albritton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Albritton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 614",
+      "legislative_session": "2026rs",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB367-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-YMC51N6-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "26503759"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "text_extraction_latest_update": "2026-07-21T20:33:56.706203Z"
+  }
+}

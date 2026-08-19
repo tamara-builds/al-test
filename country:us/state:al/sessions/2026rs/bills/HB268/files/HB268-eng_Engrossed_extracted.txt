@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB268 ENGROSSED
+1 HB268
+2 U9H59GG-2
+3 By Representative Ingram
+4 RFD: County and Municipal Government
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+HB268 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to 911 service; to add Section 11-98-4.3 to
+10 the Code of Alabama 1975, to authorize the 911 Board to
+11 institute a system to measure the emergency response
+12 performance of local communication districts; to require, upon
+13 request by the Attorney General, the 911 Board to audit local
+14 communication districts and to submit a report on audit
+15 findings to the Attorney General to be made public; and to
+16 provide for a remediation plan by which to improve the
+17 district's emergency response performance.
+18 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+19 Section 1. Section 11-98-4.3 is added to the Code of
+20 Alabama 1975, to read as follows:
+21 §11-98-4.3
+22 (a) For the purposes of this section, the term
+23 "readiness" refers to the capability of a district, including
+24 a public safety answering point, to expedite the answering,
+25 receiving, and transferring of 911 calls and texts to
+26 efficiently dispatch the appropriate emergency service
+27 provider as soon as possible to a correct location where
+28 property or life may be in jeopardy.
+Page 1
+
+property or life may be in jeopardy.
+HB268 Engrossed
+29 (b) The 911 Board shall establish a system that is
+30 based upon best practices as adopted by nationally recognized
+31 associations such as the National Emergency Number Association
+32 and the Association of Public Safety Communications Officials
+33 to measure the readiness of district public safety services
+34 through the collection of data related to a district's
+35 answering, receiving, transferring, and dispatching functions
+36 relating to 911 calls, including voice, text messages, photos,
+37 and videos.
+38 (c) The 911 Board may collect data including, but not
+39 limited to, all of the following for each district in the
+40 state:
+41 (1) 911 call volume.
+42 (2) Time to answer 911 calls.
+43 (3) Time to process emergency calls in accordance with
+44 Section 11-98-11.
+45 (4) Number of answered emergency calls versus
+46 unanswered emergency calls.
+47 (5) Number of dropped calls.
+48 (6) Number of calls reporting a crime.
+49 (d) Compliance by the 911 Board with this section may
+50 be funded as an advisory service pursuant to Section
+51 11-98-5.2(b)(7)b. or from any outside source of funding
+52 received by the 911 Board.
+53 (e)(1) The Attorney General, based upon a complaint
+54 received concerning the performance of a local communication
+55 district, may refer the matter to the 911 Board, which shall
+56 conduct a performance audit to review and evaluate the
+Page 2
+
+conduct a performance audit to review and evaluate the
+HB268 Engrossed
+57 readiness of the district.
+58 (2) A performance audit of a district by the 911 Board
+59 may include any of the following:
+60 a. Interviewing any individual who may have knowledge
+61 concerning district performance, including members of the
+62 district board of commissioners, the director of the PSAP,
+63 public safety telecommunicators, heads of local emergency
+64 service providers, first responders, and residents who have
+65 submitted a complaint.
+66 b. On-site inspection of a PSAP, PSAP equipment or
+67 technical functionality, and monitoring PSAP operations in
+68 real time.
+69 (3)a. Upon completion of a performance audit or no
+70 later than 60 days from commencement of the audit, the 911
+71 Board shall approve and submit a formal written report to the
+72 Attorney General which contains: (i) an evaluation of the
+73 district's readiness; and (ii) findings of specific
+74 operational deficiencies confirmed or disclosed by the audit.
+75 b. If operational deficiencies are confirmed, the audit
+76 report required under paragraph a. shall include a remediation
+77 plan which prescribes measures to bring the district to an
+78 acceptable level of readiness, including, but not limited to,
+79 any of the following:
+80 1. Training requirements for public safety
+81 telecommunicators.
+82 2. Hiring additional public safety telecommunicators.
+83 3. Upgrade of technology, including replacement or
+84 acquisition of PSAP communications hardware or software.
+Page 3
+
+acquisition of PSAP communications hardware or software.
+HB268 Engrossed
+85 4. Amendment of PSAP operating protocols, scripts, and
+86 recordkeeping.
+87 c. The audit report shall be made public and may be
+88 posted on the website of the Attorney General or the 911
+89 Board.
+90 (4) Pursuant to the performance audit, the 911 Board is
+91 authorized to supervise the implementation of a remediation
+92 plan in the district.
+93 (f) The 911 Board shall adopt rules in accordance with
+94 the Alabama Administrative Procedure Act which are necessary
+95 to implement the system described in this section.
+96 Section 2. This act shall become effective on October
+97 1, 2026.
+Page 4
+
+1, 2026.
+HB268 Engrossed
+98
+99
+100 House of Representatives
+101 Read for the first time and referred ................15-Jan-26
+102 to the House of Representatives
+103 committee on County and Municipal
+104 Government
+105
+106 Read for the second time and placed ................29-Jan-26
+107 on the calendar:
+108 0 amendments
+109
+110 Read for the third time and passed ................12-Feb-26
+111 as amended
+112 Yeas 100
+113 Nays 0
+114 Abstains 3
+115
+116
+117 John Treadwell
+118 Clerk
+119
+Page 5

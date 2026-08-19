@@ -1,0 +1,586 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB118 INTRODUCED
+1 SB118
+2 YMV1F2N-1
+3 By Senator Bell
+4 RFD: Veterans, Military Affairs and Public Safety
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+YMV1F2N-1 12/18/2025 GED (L)ma 2025-3730
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would mandate certain agencies to
+6 collect biometric identifiers and provide for their
+7 dissemination.
+8 This bill would authorize the use of certain
+9 approved biometric identification devices by law
+10 enforcement officers to identify individuals.
+11 This bill would establish and provide for the
+12 operation of the Alabama Background Check Service.
+13 This bill would provide for approved uses and
+14 types of background checks for noncriminal justice
+15 purposes.
+16 This bill would authorize the Alabama State Law
+17 Enforcement Agency (ALEA) to establish and collect fees
+18 for background checks for noncriminal justice purposes.
+19 This bill would establish the Alabama Rap Back
+20 Program.
+21 This bill would provide penalties for the misuse
+22 of a background check report.
+23 This bill would make various changes to update
+24 terminology and would make nonsubstantive, technical
+25 revisions to update the existing code language to
+26 current style.
+27 This bill would also repeal provisions of law
+28 prohibiting the unauthorized release of criminal
+Page 1
+
+prohibiting the unauthorized release of criminal
+SB118 INTRODUCED
+29 history information.
+30
+31
+32 A BILL
+33 TO BE ENTITLED
+34 AN ACT
+35
+36 Relating to the Alabama Justice Information Commission;
+37 to amend Sections 41-9-590, 41-9-594, 41-9-625, and 41-9-650,
+38 Code of Alabama 1975, to mandate the collection and
+39 dissemination of biometric identifiers by certain entities; to
+40 authorize the use of certain approved biometric identification
+41 devices by law enforcement officers to identify individuals;
+42 to establish and provide for the operation of the Alabama
+43 Background Check Service; to add Sections 41-9-650.1,
+44 41-9-650.2, 41-9-650.3, 41-9-650.4, and 41-9-650.5 to the Code
+45 of Alabama 1975, to authorize the Alabama State Law
+46 Enforcement Agency (ALEA) to perform authorized background
+47 checks for noncriminal justice purposes; to provide for
+48 approved types and uses of background checks for noncriminal
+49 justice purposes; to authorize the Secretary of ALEA to
+50 establish and collect fees for background checks for
+51 noncriminal justice purposes; to establish the Alabama Rap
+52 Back Program; to provide penalties for the misuse of a
+53 background check report; to make conforming changes to update
+54 terminology; to make nonsubstantive, technical revisions to
+55 update the existing code language to current style; and to
+56 repeal Article 4 of Chapter 2 of Title 32, Code of Alabama
+Page 2
+
+repeal Article 4 of Chapter 2 of Title 32, Code of Alabama
+SB118 INTRODUCED
+57 1975, regarding the dissemination of criminal history
+58 information.
+59 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+60 Section 1. Sections 41-9-590, 41-9-594, 41-9-625, and
+61 41-9-650, Code of Alabama 1975, are amended to read as
+62 follows:
+63 "§41-9-590
+64 When used in this article, the following terms shall
+65 have the following meanings, respectively, unless the context
+66 clearly indicates a different meaning:
+67 (1) AJIC or COMMISSION. The Alabama Justice Information
+68 Commission.
+69 (2) ALEA. The Alabama State Law Enforcement Agency.
+70 (3) ALEA CJIS. The Criminal Justice Information
+71 Services Division of ALEA.
+72 (4) BACKGROUND CHECK. A report produced by one or more
+73 information systems within ALEA that identifies a specific
+74 individual's criminal history record within the state criminal
+75 history repository. The report may also include criminal
+76 history record information from the national criminal history
+77 repository maintained by the FBI or other public
+78 safety-related information maintained or accessed through the
+79 authority of ALEA.
+80 (5) CRIMINAL HISTORY RECORD INFORMATION. Information
+81 collected by criminal justice agencies on individuals
+82 consisting of identifiable descriptions, including
+83 fingerprints and other biometric information, and notations of
+84 arrests, detentions, indictments, or other formal charges, and
+Page 3
+
+arrests, detentions, indictments, or other formal charges, and
+SB118 INTRODUCED
+85 any disposition arising therefrom, including acquittal,
+86 sentencing, correctional induction, supervision, or release.
+87 The term does not include identification information such as
+88 fingerprint records if the information does not indicate the
+89 individual's involvement with the criminal justice system.
+90 (3)(6) CRIMINAL JUSTICE AGENCIES. Federal, state,
+91 local, and tribal public agencies that perform substantial
+92 activities or planning for activities relating to the
+93 identification, apprehension, prosecution, adjudication, or
+94 rehabilitation of civil, traffic, and criminal offenders.
+95 (4)(7) CRIMINAL JUSTICE INFORMATION. Data necessary for
+96 criminal justice Information based upon data under the
+97 authority of ALEA or AJIC necessary for criminal justice and
+98 public safety agencies to perform their duties and enforce
+99 existing law missions. This term includes, but is not limited
+100 to, biometrics, business, biometric, identity history, person,
+101 organization, and property, when accompanied by any personally
+102 identifiable information, bond conditions and provisions, an
+103 individual's identity history data, biographic information,
+104 case/incident case or incident history reportsdata, and any
+105 other data deemed criminal justice information by the FBI CJIS
+106 Security Policy. The term also includes ALEA-provided or FBI
+107 CJIS-provided data necessary to make hiring decisions. In
+108 addition, the term may refer to the ALEA CJIS-provided or FBI
+109 CJIS-provided data necessary for civil agencies to perform
+110 their missions, including, but not limited to, data used to
+111 make hiring decisions.
+112 (5)(8) CRIMINAL JUSTICE INFORMATION SERVICES DIVISION
+Page 4
+
+(5)(8) CRIMINAL JUSTICE INFORMATION SERVICES DIVISION
+SB118 INTRODUCED
+113 or FBI CJIS. The division of the Federal Bureau of
+114 Investigation that equips law enforcement, national security,
+115 and intelligence community partners with needed criminal
+116 justice information The Criminal Justice Information Services
+117 Division of the FBI that is responsible for the collection,
+118 warehousing, and timely dissemination of relevant criminal
+119 justice information to the FBI and to qualified law
+120 enforcement, criminal justice, civilian, academic, employment,
+121 and licensing agencies.
+122 (9) FBI. The Federal Bureau of Investigation.
+123 (10) IDENTITY HISTORY DATA. Textual data that
+124 corresponds with an individual's biometric data, providing a
+125 history of criminal and civil events for the identified
+126 individual.
+127 (6)(11) INFORMATION SYSTEM. A system of people, data,
+128 and processes, whether manual or automated, established for
+129 the purpose of managing information.
+130 (7)(12) NLETS. Network provider The national
+131 organization that provides for the exchange of criminal
+132 justice and public safety information among multiple between
+133 state, federal, and international criminal justice and public
+134 safety agencies.
+135 (8)(13) NLETS SYSTEM AGENCY or NSA. The state agency
+136 responsible for the administration of the NLETS network
+137 information provided by NLETS to criminal justice and public
+138 safety agencies within this state and who provides a
+139 representative from the state for the governance of NLETS.
+140 (14) NONCRIMINAL JUSTICE PURPOSE. The uses of criminal
+Page 5
+
+(14) NONCRIMINAL JUSTICE PURPOSE. The uses of criminal
+SB118 INTRODUCED
+141 history records for purposes authorized by federal or state
+142 law other than purposes relating to the administration of
+143 criminal justice, including employment suitability, licensing
+144 determinations, immigration and naturalization matters, and
+145 national security clearances.
+146 (9)(15) OFFENSE. Any act that is a felony, misdemeanor,
+147 state violation, municipal ordinance violation, or violation,
+148 or an act of delinquency.
+149 (16) RAP BACK. A system that enables authorized
+150 entities to receive ongoing status notifications of any
+151 criminal history reported by ALEA or the FBI on individuals
+152 whose fingerprints are registered in the ALEA CJIS biometric
+153 identity repository or the FBI CJIS national fingerprint file.
+154 (10)(17) SECRETARY. The Secretary of the Alabama State
+155 Law Enforcement Agency.
+156 (11) SBI. The State Bureau of Investigation.
+157 (12)(18) USER AGENCY. Any agency or entity that
+158 subscribes to, accesses, or views any ALEA information system
+159 or service provided under the authority of this article."
+160 "§41-9-594
+161 (a) The commission shall establish its own adopt rules
+162 and policies for the performance of the responsibilities
+163 charged to it in under this article. Unless otherwise stated,
+164 the rules of the commission are subject to the Administrative
+165 Procedure Act, Chapter 22 of Title 41. ALEA may establish
+166 procedures to implement the rules and policies of the
+167 commission or as otherwise stated in state law.
+168 (b) The commission shall establish adopt rules and
+Page 6
+
+(b) The commission shall establish adopt rules and
+SB118 INTRODUCED
+169 policies that will restrict the information obtained under
+170 authority of this article to the items germane to the
+171 implementation of this article and restrict the use of
+172 information only to authorized persons and agencies.
+173 (c) The chair of the commission shall appoint a Privacy
+174 and Security Committee from the membership of the commission
+175 who are elected officials, or their designees, consisting of a
+176 chair and three members, to study the privacy and security
+177 implications of sharing criminal justice information and to
+178 formulate rule or policy recommendations for consideration by
+179 the commission concerning the collection, storage,
+180 dissemination, or usage of criminal justice information.
+181 (d) The commission may adopt rules and policies
+182 regarding the collection, storage, and dissemination of
+183 criminal justice information that conform to the policies of
+184 the FBI CJIS. The commission may adopt rules and policies that
+185 permit ALEA to perform background checks for noncriminal
+186 justice purposes and may provide for the procedure for
+187 obtaining the records including, but not limited to, charging
+188 a fee not to exceed twenty-five dollars ($25) for securing
+189 records through ALEA. All fees shall be deposited into the
+190 State Treasury to the credit of the Public Safety Fund and
+191 shall be used to cover the expenses for improving criminal
+192 history records and the state repository at ALEA.
+193 (e) Any rule or policy of the commission to the
+194 contrary notwithstanding, the police department of any college
+195 or university in this state which offers medical, nursing, and
+196 health care education, or which operates a hospital may
+Page 7
+
+health care education, or which operates a hospital may
+SB118 INTRODUCED
+197 request from ALEA a criminal background check on any person
+198 who applies for employment with the college or university, and
+199 ALEA may charge a background search fee of up to twenty-five
+200 dollars ($25) from each applicant for each search conducted on
+201 the applicant. All fee proceeds from the background check fee
+202 shall be deposited in the State Treasury to the credit of the
+203 Public Safety Fund and shall be used to cover expenses for
+204 improving criminal history records and the state repository at
+205 ALEA.
+206 (e) The commission may direct ALEA CJIS to establish
+207 procedures, manuals, documents, forms or requirements; perform
+208 tasks to facilitate federal and state law; and perform tasks
+209 to facilitate rules or policies established by the commission.
+210 These directives and ALEA CJIS's subsequent response are not
+211 subject to APA approval, but must be approved by the
+212 commission.
+213 (f) The Unless otherwise provided by law, the
+214 commission may establish a fee schedule for any services
+215 rendered by ALEA under the authority of this article. All fees
+216 shall be deposited into the State Treasury to the credit of
+217 the Public Safety Fund and shall be used to support, develop,
+218 maintain, and promote operations as authorized in this
+219 article."
+220 "§41-9-625
+221 (a) All persons in this state in charge of law
+222 enforcement and correctional agencies shall obtain biometric
+223 identifiers, which may include fingerprints, photographs, palm
+224 prints, retina scans, or other identifiers specified by the
+Page 8
+
+prints, retina scans, or other identifiers specified by the
+SB118 INTRODUCED
+225 FBI, according to the biometric identification system at ALEA
+226 and the rules established by the commission of all persons
+227 arrested or taken into custody as fugitives from justice, and
+228 of all unidentified human corpses in their jurisdictions. All
+229 biometric identifiers collected according to this section
+230 shall be provided to ALEA according to the rules of the
+231 commission.
+232 (b) If any person arrested or taken into custody is
+233 subsequently released without charge or cleared of the offense
+234 through criminal justice proceedings, the disposition shall be
+235 reported by all state, county, and municipal criminal justice
+236 agencies to ALEA within 30 days of such action, and all of the
+237 information shall be eliminated and removed.
+238 (a) When an individual is arrested for an offense, the
+239 arresting agency shall obtain biometric identifiers, which may
+240 include fingerprints, photographs, palm prints, iris scans, or
+241 other identifiers specified by rule of AJIC, and provide this
+242 information to ALEA according to the procedures established by
+243 ALEA CJIS for inclusion in the state biometric identification
+244 repository.
+245 (b) When an individual is detained or taken into
+246 custody as a fugitive from justice, the agency with custody
+247 over the individual may obtain biometric identifiers, which
+248 may include fingerprints, photographs, palm prints, iris
+249 scans, or other identifiers specified by AJIC rule and provide
+250 the information according to the procedures established by
+251 ALEA CJIS. If the individual is subsequently released without
+252 charge, released to the jurisdiction of the underlying arrest,
+Page 9
+
+charge, released to the jurisdiction of the underlying arrest,
+SB118 INTRODUCED
+253 or otherwise cleared of the charged offense through criminal
+254 justice proceedings, the involved agency shall notify ALEA
+255 CJIS of the disposition within 30 days. Upon receiving
+256 notification, ALEA shall remove all information regarding the
+257 detainment or custodial event from all ALEA CJIS information
+258 systems.
+259 (c) All agencies that recover an unidentified human
+260 corpse shall obtain biometric identifiers and provide this
+261 information and other recovery event-related information to
+262 ALEA according to the rules established by the commission and
+263 procedures established by ALEA CJIS for inclusion in the state
+264 biometric identification repository.
+265 (d)A law enforcement officer may use a biometric
+266 identification device with access to the state and federal
+267 biometric identification repositories to identify an
+268 individual to the extent allowed by state law in situations
+269 that provide the officer authority to request or otherwise
+270 take action to identify an individual. The device must meet
+271 FBI or AJIC standards to compare the captured identifier to
+272 the state or federal biometric identification repositories.
+273 The commission shall establish rules for the use of these
+274 devices and the resulting information returned from the use."
+275 "§41-9-650
+276 In addition to any other requirements, any agency,
+277 board, or commission in this state that issues a permit or
+278 license, by rule, may require a criminal background check
+279 through ALEA as part of its licensing or permitting
+280 requirements. Any agency, board, or commission adopting a rule
+Page 10
+
+requirements. Any agency, board, or commission adopting a rule
+SB118 INTRODUCED
+281 requiring a background check shall be subject to rules and
+282 procedures of the commission for the use of the background
+283 check.
+284 (a) ALEA shall establish and operate a service, to be
+285 called the Alabama Background Check Service, that allows
+286 authorized persons and entities to obtain background checks on
+287 individuals for noncriminal justice purposes.
+288 (b)(1) AJIC shall adopt rules for the operation and use
+289 of the Alabama Background Check Service.
+290 (2) ALEA CJIS shall establish procedures that are
+291 consistent with the commission's rules.
+292 (c) ALEA may contract with one or more vendors or other
+293 third-party entities to facilitate any or all functions of the
+294 service on behalf of ALEA."
+295 Section 2. Sections 41-9-650.1, 41-9-650.2, 41-9-650.3,
+296 41-9-650.4, and 41-9-650.5 are added to the Code of Alabama
+297 1975, to read as follows:
+298 §41-9-650.1
+299 (a) For the noncriminal justice purposes specified
+300 herein, ALEA may provide a background check to any of the
+301 following persons or entities:
+302 (1) Any public or private employer to screen a
+303 prospective employee or contractor or for other employment
+304 purposes.
+305 (2) Any government agency, board, or commission with
+306 legal authority to issue a license, permit, or certification
+307 to screen an applicant for the issuance or renewal of the
+308 license, permit, or certification.
+Page 11
+
+license, permit, or certification.
+SB118 INTRODUCED
+309 (3) Any nonprofit or volunteer organization to screen a
+310 prospective or current volunteer of the organization.
+311 (4) Any housing authority or lessor of rental property
+312 to screen a prospective or current resident.
+313 (5) Any educational entity to screen student
+314 applicants, prospective or current volunteers involved with
+315 entity-related activities, or other individuals directly
+316 related to the operations or events of the entity and subject
+317 to the entity's authority.
+318 (6) Any agency or organization established by federal
+319 or state law for an official purpose of the agency or
+320 organization.
+321 (7) Any person or entity authorized by the rules of the
+322 commission to obtain a background check for noncriminal
+323 justice purposes.
+324 (b) Except as otherwise provided by law, an individual
+325 who is the subject of a background check for noncriminal
+326 justice purposes shall provide express permission for the
+327 release of information to the authorized person or entity
+328 requesting the check prior to ALEA's dissemination of
+329 background check information. The subject's express permission
+330 shall be maintained, physically or digitally, by the
+331 requesting person or entity for a period of three years or for
+332 the term of the subject's association with the requester,
+333 whichever is longer.
+334 (c) A background check may not be provided on any
+335 individual under 18 years of age without parental consent.
+336 (d) Any person or entity that is authorized by state
+Page 12
+
+(d) Any person or entity that is authorized by state
+SB118 INTRODUCED
+337 law to perform a background check or allowed by law to adopt
+338 rules requiring a background check is subject to the AJIC
+339 rules and ALEA procedures described in Section 41-9-650.
+340 (e) The commission may require a person or entity to
+341 develop background check guidelines for the commission's
+342 review and approval prior to allowing the release of
+343 background check information to that person or entity.
+344 (f) Background check information may only be
+345 disseminated for the specific purposes listed in this section.
+346 No person or entity that has received background check
+347 information from ALEA shall subsequently disseminate the
+348 background check information to any other person or entity.
+349 (g) Any recipient of a background check record may be
+350 subject to an audit by ALEA CJIS.
+351 §41-9-650.2
+352 (a) The Alabama Background Check Service may be
+353 provided through a biometric-based or a name-based search for
+354 a background check record.
+355 (b) A name-based search shall be initiated by
+356 submitting an individual's name to ALEA through an Internet
+357 web portal or other commission-approved mechanism, which shall
+358 allow for the electronic transfer of records and shall only
+359 return state information results.
+360 (c) The response to a biometric-based search shall only
+361 be provided upon the receipt of biometric information by ALEA
+362 or a commission-approved third-party entity acting on behalf
+363 of ALEA that meets all FBI standards for biometric
+364 identification collection. This search shall provide state
+Page 13
+
+identification collection. This search shall provide state
+SB118 INTRODUCED
+365 information results, as well as other state and federal
+366 information as allowed by law.
+367 (d) An applicant for a license, permit, or
+368 certification shall provide the issuing government agency,
+369 board, or commission with his or her name, date of birth,
+370 Social Security number, and express permission for the release
+371 of information on a form sworn by the applicant. This
+372 information shall be digitally provided to ALEA. If a
+373 biometric-based check is requested, the applicant shall submit
+374 fingerprints or other biometrics in accordance with AJIC rules
+375 and ALEA CJIS procedures. If a national record check is
+376 required, ALEA shall forward or process the applicant's prints
+377 or other biometrics to the FBI for a national criminal
+378 background check in a manner consistent with federal law.
+379 §41-9-650.3
+380 (a) The secretary may establish reasonable record fees
+381 for the provision of a background check report, not to exceed
+382 thirty dollars ($30). The record fee may be waived at the
+383 discretion of the secretary.
+384 (b) Additional costs may be assessed to a person or
+385 entity requesting a background check for any of the following:
+386 (1) The cost for a national criminal background check,
+387 as determined by the FBI.
+388 (2) Financial transaction fees.
+389 (3) A reasonable one-time account registration fee.
+390 (c) ALEA may enter into an agreement with one or more
+391 vendors or other third-party entities to perform background
+392 check services for ALEA on the basis of fee sharing or by
+Page 14
+
+check services for ALEA on the basis of fee sharing or by
+SB118 INTRODUCED
+393 adding an additional convenience fee for third-party services.
+394 (d) Requests for background checks made by the Alabama
+395 Peace Officers' Standards and Training Commission or by any
+396 criminal justice agency are exempt from fees established
+397 pursuant to this section if the request is made for criminal
+398 justice purposes or for the purpose of making an employment
+399 suitability decision.
+400 (e) All monies received for background checks shall be
+401 deposited in the State Treasury to the credit of the Public
+402 Safety Fund. The monies shall be used for the purposes of ALEA
+403 CJIS and for other ALEA expenses as determined by the
+404 secretary.
+405 §41-9-650.4
+406 (a) As part of the Alabama Background Check Service,
+407 ALEA may establish the Alabama Rap Back Program. If
+408 established, ALEA shall participate in the FBI's Next
+409 Generation Identification (NGI) Rap Back Service. The purpose
+410 of the rap back service is to allow ALEA to notify
+411 participating entities when an enrolled individual is the
+412 subject of a rap back notification event, including, but not
+413 limited to, being arrested for or convicted of an offense.
+414 (b) As used in this section, the following words have
+415 the following meanings:
+416 (1) INDIVIDUAL. Any individual who has undergone a
+417 fingerprint-based background check in order to care for
+418 children, the disabled, or the elderly, or to be licensed,
+419 certified, or to perform volunteer service, or for any other
+420 FBI or federally authorized purpose with a participating
+Page 15
+
+FBI or federally authorized purpose with a participating
+SB118 INTRODUCED
+421 entity and who has been enrolled by that participating entity
+422 in the Alabama Rap Back Program.
+423 (2) PARTICIPATING ENTITY. An entity with statutory
+424 authority to require an individual to undergo a
+425 fingerprint-based background check as a condition to care for
+426 children, the disabled, or the elderly, or to be licensed,
+427 certified, or to perform volunteer service, or for any other
+428 FBI or federally authorized purpose and has elected to enroll
+429 those individuals in the Alabama Rap Back Program.
+430 (c) ALEA may submit fingerprints and accompanying
+431 records to the FBI to be retained in and advised through the
+432 FBI's NGI Rap Back Service when an enrolled individual is
+433 arrested for or convicted of a criminal offense. Fingerprints
+434 submitted to the FBI may be used for future searches,
+435 including latent searches.
+436 (d) ALEA shall ensure that notification is made to the
+437 participating entity that enrolls an individual in the Alabama
+438 Rap Back Program when an FBI Rap Back report notification is
+439 received. The information contained in the notification shall
+440 be used by the participating entity for purposes of
+441 determining the eligibility of the continued service of the
+442 individual and shall not be further disseminated.
+443 (e) No liability shall be imposed upon any law
+444 enforcement official who disseminates information, or does not
+445 disseminate information, in a good faith attempt to comply
+446 with the requirements of this section. Nothing in this
+447 subsection shall be construed to grant immunity for gross
+448 negligence or willful misconduct.
+Page 16
+
+negligence or willful misconduct.
+SB118 INTRODUCED
+449 (f) ALEA shall adopt rules governing the operation and
+450 maintenance of the Alabama Rap Back Program and the removal
+451 and destruction of records on individuals who are deceased or
+452 who are no longer individuals as defined in this section. Such
+453 rules shall provide that a participating entity shall
+454 disenroll any individual who is deceased or is no longer an
+455 individual as defined in this section within five business
+456 days of death or such event that no longer requires the
+457 individual to be enrolled in the Alabama Rap Back Program to
+458 ensure the prompt removal and destruction of records from the
+459 Alabama Rap Back Program.
+460 (g) ALEA may assess an annual fee not to exceed twelve
+461 dollars ($12) per individual enrolled in the Alabama Rap Back
+462 Program. The fee shall be paid by the participating entity
+463 enrolling an individual in the Alabama Rap Back Program. When
+464 more than one participating entity enrolls the same individual
+465 in the Alabama Rap Back Program, both participating entities
+466 shall be responsible for paying the full cost for maintenance
+467 and notification. Any fees collected shall be deposited in the
+468 State Treasury to the credit of the Public Safety Fund. Such
+469 monies shall be used for the purposes of ALEA CJIS and for
+470 other ALEA expenses as determined by the secretary.
+471 (h) No participating entity authorized to submit
+472 fingerprints shall be considered negligent per se in a civil
+473 action solely because the entity elected not to enroll an
+474 individual in the Alabama Rap Back Program pursuant to this
+475 section.
+476 (i) ALEA may establish an in-state rap back service for
+Page 17
+
+(i) ALEA may establish an in-state rap back service for
+SB118 INTRODUCED
+477 any person or entity that does not qualify to receive
+478 information from the FBI Rap Back Service but that has
+479 authority to require a state-only background check.
+480 §41-9-650.5
+481 (a) An individual commits the crime of misuse of a
+482 background check report if he or she does any of the
+483 following:
+484 (1) Knowingly receives, disseminates, or otherwise uses
+485 a background check contrary to the purposes allowed by this
+486 article or otherwise allowed in law.
+487 (2) Performs a background check on an individual
+488 without first receiving a release, when required, from the
+489 subject of the report.
+490 (3) Willfully uses information submitted to the Alabama
+491 Rap Back Program for purposes not authorized in this article
+492 with the intent to harass or intimidate another individual.
+493 (b) Misuse of a background check report is a Class B
+494 misdemeanor.
+495 Section 3. Article 4 of Chapter 2 of Title 32, Code of
+496 Alabama 1975, relating to the release of criminal history
+497 information, is repealed.
+498 Section 4. This act shall become effective on October
+499 1, 2026.
+Page 18

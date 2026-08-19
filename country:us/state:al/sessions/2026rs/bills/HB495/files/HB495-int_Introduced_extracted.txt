@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB495 INTRODUCED
+1 HB495
+2 SLED488-1
+3 By Representative Kiel
+4 RFD: Education Policy
+5 First Read: 24-Feb-26
+Page 0
+
+First Read: 24-Feb-26
+SLED488-1 02/24/2026 KMS (L)cr 2026-1018
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, public K-12 schools are
+6 annually assigned a grade based on school and district
+7 performance.
+8 This bill would exclude the academic performance
+9 of students who transfer from a failing school from
+10 consideration when assigning a grade to a school or
+11 school district for the first three years of enrollment
+12 of the transferring student.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to public K-12 education and the school report
+20 card; to amend Section 16-6C-2, Code of Alabama 1975, to
+21 exclude the academic achievement of any student who transfers
+22 from a failing school from being considered in assigning the
+23 annual grade to a school or school district for the first
+24 three years of enrollment of the transferring student.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 16-6C-2 of the Code of Alabama 1975,
+27 is amended to read as follows:
+28 "§16-6C-2
+Page 1
+
+"§16-6C-2
+HB495 INTRODUCED
+29 (a) In addition to any other labels or designations
+30 assigned to public schools and public school districts
+31 pursuant to a federal, state, school, district, or other
+32 assessment or accountability system, the State Superintendent
+33 of Education, consistent with this chapter, shall develop a
+34 school grading system reflective of school and district
+35 performance. The grading system shall utilize the traditional
+36 A, B, C, D, or F framework.
+37 (1) Schools receiving a grade of "A" are making
+38 excellent progress.
+39 (2) Schools receiving a grade of "B" are making above
+40 average progress.
+41 (3) Schools receiving a grade of "C" are making
+42 satisfactory progress.
+43 (4) Schools receiving a grade of "D" are making less
+44 than satisfactory progress.
+45 (5) Schools receiving a grade of "F" are failing to
+46 make adequate progress.
+47 (b) In developing this school grading system, the State
+48 Superintendent of Education shall seek input from parents,
+49 teachers, school administrators, existing State Department of
+50 Education advisory groups or task forces, and other education
+51 stakeholders on how the system can properly reflect not only
+52 the overall academic proficiency of each public school but
+53 also the academic improvements made by each public school,
+54 along with other key performance indicators that give a total
+55 profile of the school or the school system, or both.
+56 (c) The State Superintendent of Education shall
+Page 2
+
+(c) The State Superintendent of Education shall
+HB495 INTRODUCED
+57 prescribe the design and content of the school grading system
+58 by not later than December 31, 2012. It is the intent of the
+59 Legislature that the system be in place by no later than the
+60 2013-2014 school year. The system may not be utilized by the
+61 State Superintendent of Education or the State Department of
+62 Education until sufficient rules have been adopted by the
+63 State Board of Education pursuant to the Alabama
+64 Administrative Procedure Act.
+65 (d) Using an easy to understand grading scale, the
+66 school grading system shall describe achievement in the state,
+67 each district, and each school. Additionally, the State
+68 Superintendent of Education shall not be precluded from also
+69 assigning grades to school feeder patterns or grades that
+70 reflect the fiscal health and fiscal efficiency of a school or
+71 school system.
+72 (e) The State Superintendent of Education shall make
+73 these grades available to the general public and shall post
+74 these grades on the website of the State Department of
+75 Education as soon as the grades are available. Additionally,
+76 appropriate grade information shall be delivered to the parent
+77 or guardian of each public school student at least once
+78 annually in the same manner that student report cards are
+79 currently delivered.
+80 (f)(1) Using state-authorized assessments and other key
+81 performance indicators that give a total profile of the school
+82 or the school system, or both, a school's grade, at a minimum,
+83 shall be based on a combination of student achievement scores,
+84 achievement gap, college and career readiness, learning gains,
+Page 3
+
+achievement gap, college and career readiness, learning gains,
+HB495 INTRODUCED
+85 and other indicators as determined by the State Superintendent
+86 of Education to impact student learning and success.
+87 (2)a. Commencing with the 2021-2022 school year, the
+88 academic achievement of each student identified as an English
+89 language learner who has not shown proficiency on ACCESS for
+90 EL, or other state-approved English proficiency assessment,
+91 may not be considered in assigning an academic achievement
+92 grade to a school or school system for the first five years of
+93 enrollment of the student. The educational progress of each of
+94 these students shall continue to be measured in the academic
+95 growth category and the progress in English language
+96 proficiency category, and, at the end of the five-year period
+97 for the student, his or her proficiency shall again be
+98 considered in assigning an academic achievement grade to a
+99 school or school system on the state A-F school grading
+100 system.
+101 b. Commencing with the 2024-2025 school year, the
+102 academic achievement of each student identified as a transfer
+103 student from a nonpublic school may not be considered in
+104 assigning an academic achievement grade to a school or school
+105 system for the first three years of enrollment of the transfer
+106 student. The educational progress of each of these transfer
+107 students shall continue to be measured in the academic growth
+108 category, and, beginning with the fourth year of enrollment of
+109 the transfer student, his or her academic achievement shall be
+110 considered in assigning an academic achievement grade to a
+111 school or school system on the state A-F school grading
+112 system.
+Page 4
+
+system.
+HB495 INTRODUCED
+113 c. Commencing with the 2026-2027 school year, the
+114 academic achievement of each student identified as a transfer
+115 student from a failing school may not be considered in
+116 assigning an academic achievement grade to a school or school
+117 system for the first three years following enrollment of the
+118 transfer student. The educational progress of each transfer
+119 student shall continue to be measured in the academic growth
+120 category, and, beginning with the fourth year of enrollment of
+121 the transfer student, his or her academic achievement shall be
+122 considered in assigning an academic achievement grade to a
+123 school or school system on the state A-F school grading
+124 system.
+125 (3) The State Superintendent of Education may not amend
+126 the state Every Student Succeeds Act option for including test
+127 scores of English language learners enrolled in United States
+128 schools. The option provides as follows: For the first year of
+129 enrollment, the test scores shall be reported, but the results
+130 on both the reading/language arts and math tests shall be
+131 excluded from the federal accountability system; for the
+132 second year of enrollment, a measure of student growth on both
+133 tests shall be included in the federal accountability system;
+134 and for the third year of enrollment, proficiency on both
+135 tests shall be included in the federal accountability system.
+136 Additionally, the option requires English language learners
+137 who have successfully left the English language learner
+138 subgroup by attaining English proficiency to be included in
+139 that subgroup for accountability purposes for four years.
+140 (g) The state A-F school grading system shall be
+Page 5
+
+(g) The state A-F school grading system shall be
+HB495 INTRODUCED
+141 consistently applied so that grades of one school or system
+142 may be compared to the grades of any other school or system."
+143 Section 2. This act shall become effective on June 1,
+144 2026.
+Page 6

@@ -1,0 +1,136 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB95 INTRODUCED
+1 HB95
+2 TBXDS59-1
+3 By Representative Lovvorn
+4 RFD: Ways and Means General Fund
+5 First Read: 13-Jan-26
+6 PFD: 17-Dec-25
+Page 0
+
+PFD: 17-Dec-25
+TBXDS59-1 12/15/2025 JWB (L)lg 2025-3555
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require the judge of probate of
+6 each county to conduct a post-election audit after
+7 every county and statewide general election to
+8 determine the accuracy of the originally reported
+9 results of the election.
+10
+11
+12 A BILL
+13 TO BE ENTITLED
+14 AN ACT
+15
+16 Relating to elections; to require the judge of probate
+17 of each county to conduct a post-election audit after every
+18 county and statewide general election to determine the
+19 accuracy of the originally reported results of the election.
+20 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+21 Section 1.(a) This section shall be known and may be
+22 cited as the Alabama Post-Election Audit Act.
+23 (b)(1) Notwithstanding any other law to the contrary,
+24 the judge of probate of each county shall order a
+25 post-election audit, after every countywide and statewide
+26 general election, of all ballots in one precinct of a
+27 countywide or statewide race randomly selected by the
+28 canvassing board of each county as further provided in
+Page 1
+
+canvassing board of each county as further provided in
+HB95 INTRODUCED
+29 subdivision (2), which appeared on the ballot and which is not
+30 subject to a recount. Nothing in this section shall prohibit
+31 the judge of probate from ordering the audit of additional
+32 precincts and races. The order shall include the name of the
+33 precincts and the races to be audited. The order shall
+34 authorize the sheriff or other county authority to provide
+35 access to the ballot containers along with any other necessary
+36 election materials, including electronic data.
+37 (2) The canvassing board of each county , at noon on
+38 the second Friday after any county and statewide general
+39 election, shall randomly select at least one precinct,
+40 excluding absentee and provisional ballots, and at least one
+41 statewide or countywide race to be audited by the judge of
+42 probate.
+43 (3) The judge of probate, at noon on the second Friday
+44 after any county and statewide general election, shall select
+45 the date, time, and place of meeting to conduct the
+46 post-election audit and shall appoint an inspector and the
+47 appropriate number of other poll workers required to complete
+48 the audit in the same manner as for any other election. The
+49 notification and publication of these appointments shall be in
+50 the same manner as provided in Section 17-8-2, Code of Alabama
+51 1975. Compensation for poll workers shall be the same as
+52 provided in Section 17-8-12, Code of Alabama 1975.
+53 (4) To begin the audit process, the voted ballot
+54 containers subject to the audit shall be delivered, unopened
+55 and still sealed in the original containers, to the inspectors
+56 in charge of the audit by the custodian of the ballot
+Page 2
+
+in charge of the audit by the custodian of the ballot
+HB95 INTRODUCED
+57 containers along with any other necessary election materials,
+58 including electronic data.
+59 (5) The post-election audit shall be conducted and
+60 completed by the time election returns required to be sent to
+61 the Secretary of State must be certified.
+62 (6) At the conclusion of the audit, the ballots shall
+63 be returned to their original containers and sealed. All other
+64 documents and materials related to the audit, including, but
+65 not limited to, inspector and poll worker oaths, poll watcher
+66 oaths, seals and testing materials for any tabulator used in
+67 the audit, and copies of orders of the probate court related
+68 to the audit shall be placed in a separate container labeled
+69 "Record of Audit." The inspector and other poll workers shall
+70 sign the containers and return them to the appropriate
+71 authority for storage with other records related to the
+72 audited election. The judge of probate shall report the
+73 findings to the Secretary of State, who shall make all results
+74 from the post-election audit public by posting the results on
+75 the official website of the Secretary of State.
+76 (7) The post-election audit report shall include all of
+77 the following:
+78 a. A description of any problems or discrepancies
+79 encountered.
+80 b. A description of the likely cause of any problems or
+81 discrepancies encountered.
+82 c. Recommendations for corrective or remedial actions.
+83 (8) The Secretary of State shall report all findings of
+84 the post-election audit to the Governor and the Legislature
+Page 3
+
+the post-election audit to the Governor and the Legislature
+HB95 INTRODUCED
+85 within 30 days of receipt of the audits.
+86 (9) Poll watchers shall attend and observe the
+87 post-election audit in the same manner as for any other
+88 election, and appointments shall be made in the same manner as
+89 any general election. The judge of probate shall give notice
+90 to the public of the date, time, and location of the audit by
+91 publication in a newspaper of general circulation in the
+92 county or on the county's official website. Accredited members
+93 of the media shall be permitted to be present and observe the
+94 audit being performed.
+95 (10) The judge of probate may conduct the post-election
+96 audit by manual tally or by use of ballot counters, provided
+97 that at least 30 randomly selected ballots are individually,
+98 manually examined and compared to the ballot counter result
+99 for each selected ballot.
+100 (c) All expenses incurred by any county as a result of
+101 the audit shall be reimbursed in full by the Comptroller.
+102 (d) The Secretary of State may adopt rules and
+103 prescribe forms to implement this section.
+104 Section 2. This act shall become effective immediately.
+Page 4

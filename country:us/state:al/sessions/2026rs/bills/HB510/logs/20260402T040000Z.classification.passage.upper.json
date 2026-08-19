@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 1073",
+    "occurred_at": "2026-04-02T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB510"
+}

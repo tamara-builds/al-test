@@ -1,0 +1,309 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB196 INTRODUCED
+1 SB196
+2 4U9VC3I-1
+3 By Senator Livingston
+4 RFD: County and Municipal Government
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+4U9VC3I-1 01/20/2026 CMH (L)bm 2026-66
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, contracts for public works
+6 in excess of $100,000 are subject to the public works
+7 law and must be competitively bid pursuant to the
+8 requirements of that law.
+9 This bill would exempt contracts for the
+10 purchase of playground equipment from the public works
+11 law and would provide that such contracts must be bid
+12 pursuant to the applicable competitive bidding law.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to competitive bidding; to amend Section
+20 39-2-2, Code of Alabama 1975, as last amended by Act 2025-383;
+21 to exempt from the public works law the purchase and
+22 installation of playground equipment on public property.
+23 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+24 Section 1. Section 39-2-2, Code of Alabama 1975, as
+25 last amended by Act 2025-383, is amended to read as follows:
+26 "§39-2-2
+27 (a)(1) Before entering into any contract for a public
+28 works involving an amount in excess of one hundred thousand
+Page 1
+
+works involving an amount in excess of one hundred thousand
+SB196 INTRODUCED
+29 dollars ($100,000), the awarding authority shall advertise for
+30 sealed bids, except as provided in subsection (k).
+31 (2)a. If the awarding authority is the state, a county,
+32 or an instrumentality thereof, it shall advertise for sealed
+33 bids at least once each week for three consecutive weeks in a
+34 newspaper of general circulation in the county or counties in
+35 which the improvement, or some part thereof, is to be made.
+36 b.1. If the awarding authority is a municipality, or an
+37 instrumentality thereof, it shall advertise for sealed bids at
+38 least once in a newspaper of general circulation published in
+39 the municipality where the awarding authority is located.
+40 2. If no newspaper is published in the municipality,
+41 the awarding authority shall advertise by posting notice
+42 thereof on a bulletin board maintained outside the purchasing
+43 office and in any other manner and for the length of time as
+44 may be determined. In addition to bulletin board notice, the
+45 awarding authority shall also send the notice by U.S. mail or
+46 electronic mail to the Department of Finance for publication
+47 of the advertisement on the centralized website maintained by
+48 the department as further described in subsection (c).
+49 (3) The advertisements shall briefly describe the
+50 improvement, state that plans and specifications for the
+51 improvement are on file for examination in a designated office
+52 of the awarding authority, state the procedure for obtaining
+53 plans and specifications, state the time and place in which
+54 bids shall be received and opened, and identify whether
+55 prequalification is required and where all written
+56 prequalification information is available for review.
+Page 2
+
+prequalification information is available for review.
+SB196 INTRODUCED
+57 (4) All bids shall be opened publicly at the advertised
+58 time and place.
+59 (5) No public work involving a sum in excess of one
+60 hundred thousand dollars ($100,000) shall be split into parts
+61 involving sums of one hundred thousand dollars ($100,000) or
+62 less for the purpose of evading the requirements of this
+63 section.
+64 (b)(1) An awarding authority may let contracts for
+65 public works involving one hundred thousand dollars ($100,000)
+66 or less with or without advertising or sealed bids.
+67 (2) Notwithstanding the advertising requirements of
+68 subdivision (a)(2), an awarding authority may enter into a
+69 contract for public works if: (i) the awarding authority
+70 submitted the advertisement for sealed bids for the contract
+71 in accordance with subdivision (a)(2); and (ii) the
+72 advertisement was published for at least three weeks, or if
+73 the awarding authority is a municipality or instrumentality
+74 thereof for at least seven consecutive calendar days, on a
+75 centralized website maintained by the Department of Finance as
+76 further described in subsection (c).
+77 (3) If the awarding authority under subdivision (2) is
+78 the Department of Transportation, the Department of Finance
+79 may alternatively satisfy the requirements of subdivision
+80 (2)(ii) by publishing the advertisement on its publicly
+81 accessible website for at least three weeks.
+82 (4) If the awarding authority under subdivision (2) is
+83 a county or instrumentality thereof, the county or
+84 instrumentality may alternatively satisfy the requirements of
+Page 3
+
+instrumentality may alternatively satisfy the requirements of
+SB196 INTRODUCED
+85 subdivision (2)(ii) by publishing the advertisement in
+86 accordance with the procedures submitted by the Association of
+87 County Engineers of Alabama and approved by the Department of
+88 Examiners of Public Accounts as authorized by general law.
+89 (c) The Department of Finance shall establish and
+90 maintain a centralized website or digital platform to provide
+91 publicly accessible notice of advertisements for sealed bids
+92 pursuant to this section. The department may further provide
+93 for the administration and operations related thereto by the
+94 adoption of administrative rules, including, but not limited
+95 to, the assessment of fees to awarding authorities for the
+96 posting of advertisements to cover the implementation and
+97 maintenance cost of the website or digital platform.
+98 (d) All contracts for public works entered into in
+99 violation of this title shall be void and violative of public
+100 policy. Anyone who willfully violates this chapter concerning
+101 public works shall be guilty of a Class C felony.
+102 (e)(1) Excluded from the operation of this title shall
+103 be contracts with persons who shall perform only
+104 architectural, engineering, construction management, program
+105 management, or project management services in support of the
+106 public works and who shall not engage in actual construction,
+107 repair, renovation, or maintenance of the public works with
+108 their own forces, by contract, subcontract, purchase order,
+109 lease, or otherwise.
+110 (2)a. Excluded from operation of the bidding
+111 requirements in this title are contracts for the purchase of
+112 any heating or air conditioning units or systems by any
+Page 4
+
+any heating or air conditioning units or systems by any
+SB196 INTRODUCED
+113 awarding authority subject to Chapter 13B of Title 16, Article
+114 3, commencing with Section 41-16-50 of Chapter 16 of Title 41,
+115 or Article 5, commencing with Section 41-4-110 of Chapter 4 of
+116 Title 41, provided the contract is entered into with an
+117 Alabama vendor who has been granted approved vendor status for
+118 the sale of heating or air conditioning units or systems as a
+119 part of a purchasing cooperative, and each of the following
+120 occur:
+121 1. The heating or air conditioning unit or system being
+122 purchased is available as a result of a competitive bid
+123 process conducted by a governmental entity which has been
+124 approved by the Department of Examiners of Public Accounts.
+125 2. The purchase of the heating or air conditioning unit
+126 or system is not available on the state purchasing program at
+127 the time or the purchase under the purchasing cooperative is
+128 available at a price that is equal to or less than that
+129 available through the state purchasing program.
+130 3. The entity entering into the contract for the
+131 purchase of the heating or air conditioning unit or system has
+132 been notified by the Department of Examiners of Public
+133 Accounts that the competitive bid process utilized by the
+134 cooperative program offering the goods complies with this
+135 subdivision.
+136 4. Upon request, the vendor has provided the purchasing
+137 entity with a report of sales made under this subdivision
+138 during the previous 12-month period, to include a general
+139 description of the heating or air conditioning units and
+140 systems sold, the number of units sold per entity, and the
+Page 5
+
+systems sold, the number of units sold per entity, and the
+SB196 INTRODUCED
+141 purchase price of the units.
+142 b. The exemption from the requirement to use sealed
+143 bids for the purchase of heating or air conditioning units or
+144 systems authorized by this section shall not serve to exempt
+145 any public works project from the remaining provisions of this
+146 chapter, including, but not limited to, design, installation,
+147 and review requirements, compliance with all applicable codes,
+148 laws, specifications, and standards, and the compensation of
+149 engineers, architects, or others as mandated by state law or
+150 rule.
+151 (3)a. Excluded from the operation of this title are
+152 contracts for the purchase, design, and installation of
+153 playground equipment. Such contracts shall be procured as
+154 otherwise required for the procurement of goods and services,
+155 including, but not limited to, Chapter 13B of Title 16;
+156 Article 3 of Chapter 16 of Title 41; and Article 5 of Chapter
+157 4 of Title 41.
+158 b. For purposes of this subdivision, "playground
+159 equipment" means any structure or apparatus intended for
+160 children's recreational use and play in a public area,
+161 including a public park, public school, or other public
+162 property. The term includes slides, swings, climbing
+163 equipment, seesaws, and splash pads. The term also includes
+164 purchases ancillary to the use of a playground, including
+165 safety surfacing, fencing, signage, and shade structures.
+166 (f)(1) In case of an emergency for which a delay in
+167 remedying would cause immediate harm to a person or public
+168 property, contracts may be let to the extent necessary to meet
+Page 6
+
+property, contracts may be let to the extent necessary to meet
+SB196 INTRODUCED
+169 the emergency without public advertisement or bidding.
+170 (2) In case of an emergency affecting public health,
+171 safety, or convenience, as declared in writing by the awarding
+172 authority, setting forth the nature of the danger to the
+173 public health, safety, or convenience which would result from
+174 delay, contracts may be let to the extent necessary to meet
+175 the emergency without public advertisement.
+176 (3) Any action taken under subdivision (1) or (2), and
+177 the reasons for the action taken, shall immediately be made
+178 public by the awarding authority and published in writing.
+179 (g) No awarding authority may specify in the plans and
+180 specifications for the improvement the use of materials,
+181 products, systems, or services by a sole source unless all of
+182 the following requirements are met:
+183 (1) Except for contracts involving the construction,
+184 reconstruction, renovation, or replacement of public roads,
+185 bridges, and water and sewer facilities, the awarding
+186 authority can document to the satisfaction of the Division of
+187 Real Property Management of the Department of Finance, or in
+188 the case of an educational institution or state educational
+189 institution as provided pursuant to Sections 41-4-353 and
+190 41-4-400, to the satisfaction of its governing board, that the
+191 sole source product, material, system, or service is of an
+192 indispensable nature for the improvement, that there are no
+193 other viable alternatives, and that only this particular
+194 product, material, system, or service fulfills the function
+195 for which it is needed.
+196 (2) The sole source specification has been recommended
+Page 7
+
+(2) The sole source specification has been recommended
+SB196 INTRODUCED
+197 by the architect or engineer of record as an indispensable
+198 item for which there is no other viable alternative.
+199 (3) All information substantiating the use of a sole
+200 source specification, including the recommendation of the
+201 architect or engineer of record, shall be documented and made
+202 available for examination in the office of the awarding
+203 authority at the time of advertisement for sealed bids.
+204 (h) If a proposed public works project is acknowledged
+205 in writing by the Alabama Homeland Security Department as: (i)
+206 having a direct impact on the security or safety of persons or
+207 facilities; and (ii) requiring confidential handling for the
+208 protection of such persons or facilities, contracts may be let
+209 without public advertisement but with the taking of informal
+210 bids otherwise consistent with the requirements of this title
+211 and the requirements of maintaining confidentiality. Records
+212 of bidding and award shall not be disclosed to the public and
+213 shall remain confidential.
+214 (i) If a pre-bid meeting is held, the pre-bid meeting
+215 shall be held at least seven days prior to the bid opening
+216 except when the project has been declared an emergency in
+217 accordance with subsection (f).
+218 (j) The awarding authority may not offer a contract for
+219 bidding unless confirmation of any applicable grant has been
+220 received and any required matching funds have been secured by
+221 or are available to the awarding authority.
+222 (k) Notwithstanding subsection (a), the Department of
+223 Transportation may enter into contracts for road construction
+224 or road maintenance projects that do not involve more than two
+Page 8
+
+or road maintenance projects that do not involve more than two
+SB196 INTRODUCED
+225 hundred fifty thousand dollars ($250,000) without advertising
+226 for sealed bids, provided the project is listed on the
+227 publicly accessible website of the department for at least
+228 seven calendar days before entering into the contract. The
+229 total cost of all projects not subject to advertising and
+230 sealed bids pursuant to this subsection may not exceed one
+231 million dollars ($1,000,000) in the aggregate per year.
+232 (l) For the purposes of this chapter, sealed bids may
+233 also be solicited and submitted through electronic means
+234 including, but not limited to, electrical, digital, magnetic,
+235 optical, electromagnetic, or any other similar technology,
+236 provided that the awarding authority adopts rules and policies
+237 to ensure that all electronic submissions are transmitted
+238 securely and bids remainedremain sealed until bid opening.
+239 (m)(1) Notwithstanding any other provision of law, any
+240 entity subject to this chapter that is an awarding authority
+241 of a contract for public works, by resolution or board action,
+242 may purchase materials or equipment pursuant to Section
+243 41-16-51(a)(14), (16), (17), (18), or (19), even when those
+244 materials or equipment are otherwise part of the contract for
+245 public works subject to the requirements of this title.
+246 (2) Except for those materials or equipment described
+247 in subdivision (1), the remaining portion of the public works
+248 project shall be subject to the requirements of this title,
+249 even if the remaining portion would involve an amount less
+250 than one hundred thousand dollars ($100,000) as a result of
+251 the exclusion of the purchase of the materials or equipment as
+252 described in subdivision (1)."
+Page 9
+
+described in subdivision (1)."
+SB196 INTRODUCED
+253 Section 2. This act shall become effective on June 1,
+254 2026.
+Page 10

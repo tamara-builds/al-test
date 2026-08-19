@@ -1,0 +1,110 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB239 INTRODUCED
+1 SB239
+2 L5IKCAA-1
+3 By Senators Smitherman, Stewart, Figures
+4 RFD: Judiciary
+5 First Read: 03-Feb-26
+Page 0
+
+First Read: 03-Feb-26
+L5IKCAA-1 01/21/2026 GP (L)lg 2026-372
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a court exercising temporary
+6 jurisdiction pursuant to the Uniform Child Custody
+7 Jurisdiction Enforcement Act (UCCJEA) is required to
+8 explicitly provide that a child custody determination
+9 made under temporary emergency jurisdiction becomes a
+10 final determination.
+11 This bill would remove that provision and
+12 provide that, if no child custody proceeding has been
+13 commenced in a state having jurisdiction within six
+14 months after a child custody determination is made
+15 pursuant to the UCCJEA under temporary emergency
+16 jurisdiction, that child custody determination
+17 automatically becomes final.
+18
+19
+20 A BILL
+21 TO BE ENTITLED
+22 AN ACT
+23
+24 Relating to child custody; to amend Section 30-3B-204,
+25 Code of Alabama 1975; to authorize certain temporary emergency
+26 child custody determinations made pursuant to the Uniform
+27 Child Custody Jurisdiction Enforcement Act to become final.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+SB239 INTRODUCED
+29 Section 1. Section 30-3B-204, Code of Alabama 1975, is
+30 amended to read as follows:
+31 "§30-3B-204
+32 (a) A court of this state has temporary emergency
+33 jurisdiction if the child is present in this state and the
+34 child has been abandoned or it is necessary in an emergency to
+35 protect the child because the child, or a sibling or parent of
+36 the child, is subjected to or threatened with mistreatment or
+37 abuse.
+38 (b) If there is no previous child custody determination
+39 that is entitled to be enforced under this chapter and a child
+40 custody proceeding has not been commenced in a court of a
+41 state having jurisdiction under Sections 30-3B-201 through
+42 30-3B-203, a child custody determination made under this
+43 section remains in effect until an order is obtained from a
+44 court of a state having jurisdiction under Sections 30-3B-201
+45 through 30-3B-203. If, six months after the date of the entry
+46 of a child custody determination under this section, a child
+47 custody proceeding has not been commenced in a court of a
+48 state having jurisdiction under Sections 30-3B-201 through
+49 30-3B-203, that child custody determination shall become a
+50 final determination. If a child custody proceeding has not
+51 been or is not commenced in a court of a state having
+52 jurisdiction under Sections 30-3B-201 through 30-3B-203, a
+53 child custody determination made under this section becomes a
+54 final determination, if it so provides and this state becomes
+55 the home state of the child.
+56 (c) If there is a previous child custody determination
+Page 2
+
+(c) If there is a previous child custody determination
+SB239 INTRODUCED
+57 that is entitled to be enforced under this chapter, or a child
+58 custody proceeding has been commenced in a court of a state
+59 having jurisdiction under Sections 30-3B-201 through
+60 30-3B-203, any order issued by a court of this state under
+61 this section must specify in the order a period that the court
+62 considers adequate to allow the person seeking an order to
+63 obtain an order from the state having jurisdiction under
+64 Sections 30-3B-201 through 30-3B-203. The order issued in this
+65 state remains in effect until an order is obtained from the
+66 other state within the period specified or the period expires.
+67 (d) A court of this state which has been asked to make
+68 a child custody determination under this section, upon being
+69 informed that a child custody proceeding has been commenced
+70 in, or a child custody determination has been made by, a court
+71 of a state having jurisdiction under Sections 30-3B-201
+72 through 30-3B-203, shall immediately communicate with the
+73 other court. A court of this state which is exercising
+74 jurisdiction pursuant to Sections 30-3B-201 through 30-3B-203,
+75 upon being informed that a child custody proceeding has been
+76 commenced in, or a child custody determination has been made
+77 by, a court of another state under a statute similar to this
+78 section shall immediately communicate with the court of that
+79 state to resolve the emergency, protect the safety of the
+80 parties and the child, and determine a period for the duration
+81 of the temporary order."
+82 Section 2. This act shall become effective on October
+83 1, 2026.
+Page 3

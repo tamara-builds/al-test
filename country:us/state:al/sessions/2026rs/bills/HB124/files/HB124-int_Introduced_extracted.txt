@@ -1,0 +1,555 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB124 INTRODUCED
+1 HB124
+2 TBSCH91-1
+3 By Representative Collins
+4 RFD: Education Policy
+5 First Read: 13-Jan-26
+6 PFD: 07-Jan-26
+Page 0
+
+PFD: 07-Jan-26
+TBSCH91-1 10/23/2025 KMS (L)cr 2025-2615
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama Commission on
+6 Higher Education administers the Alabama Math and
+7 Science Teacher Education Program (AMSTEP), which
+8 provides a loan repayment award to eligible public K-12
+9 math, science, and computer science teachers and an
+10 additional loan repayment award to the eligible
+11 applicants who are employed in underserved locations in
+12 the state.
+13 This bill would change the name of the program
+14 to the Loan Assistance in Support of Educators in
+15 Alabama (LASEA) Program and would expand program
+16 eligibility to address additional educator shortages by
+17 extending eligibility for loan assistance to educators
+18 with certification in acute educator shortage programs
+19 and providing additional loan assistance if those
+20 educators are employed by public K-12 schools or school
+21 systems recognized as acute educator shortage
+22 locations.
+23 This bill would specify that the Alabama
+24 Commission on Higher Education, in consultation with
+25 the State Department of Education, would determine
+26 which programs, schools, and school systems have acute
+27 educator shortages.
+28 This bill would also require the commission, in
+Page 1
+
+This bill would also require the commission, in
+HB124 INTRODUCED
+29 consultation with the Alabama Commission on the
+30 Evaluation of Services, to develop an accountability
+31 and evaluation plan for the program and would provide
+32 further for the eligibility of certain applicants who
+33 have been continuously employed with a qualifying
+34 school.
+35
+36
+37 A BILL
+38 TO BE ENTITLED
+39 AN ACT
+40
+41 Relating to the Alabama Math and Science Teacher
+42 Education Program (AMSTEP); to change the name of the program
+43 to the Loan Assistance in Support of Educators in Alabama
+44 (LASEA) Program; to amend Sections 16-5-50, 16-5-51, 16-5-52,
+45 16-5-53, 16-5-54, 16-5-54.1, 16-5-55, and 16-5-56, Code of
+46 Alabama 1975; to allow educators who complete a program
+47 identified as having a shortage of certified educators and who
+48 obtain certification in those identified programs to qualify
+49 for the loan assistance program; to offer a supplemental
+50 payment from the loan assistance program to eligible
+51 applicants who are also employed in public K-12 schools or
+52 school systems with a shortage of certified educators as
+53 determined by the Alabama Commission on Higher Education in
+54 consultation with the State Department of Education; to add
+55 Sections 16-5-53.1 and 16-5-53.2 to the Code of Alabama 1975,
+56 to require the commission, in consultation with the Alabama
+Page 2
+
+to require the commission, in consultation with the Alabama
+HB124 INTRODUCED
+57 Commission on the Evaluation of Services, to develop an
+58 accountability and evaluation plan for the program and to
+59 provide further for the eligibility of certain applicants who
+60 have been continuously employed with a qualifying school; and
+61 to repeal Section 16-5-54.2, Code of Alabama 1975, which
+62 provides for the reimbursement of individuals who have
+63 completed certain alternative certification programs.
+64 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+65 Section 1. Sections 16-5-50, 16-5-51, 16-5-52, 16-5-53,
+66 16-5-54, 16-5-54.1, 16-5-55, and 16-5-56 of the Code of
+67 Alabama 1975, are amended to read as follows:
+68 "§16-5-50
+69 The Alabama Math and Science Teacher Education Program
+70 is created pursuant to this article is renamed the Loan
+71 Assistance in Support of Educators in Alabama (LASEA)
+72 Program."
+73 "§16-5-51
+74 The purpose of the Alabama Math and Science Teacher
+75 Education Program Loan Assistance in Support of Educators in
+76 Alabama Program is twofold as follows:
+77 (1) To encourage individuals to enroll in and complete
+78 educator programs leading to identified as having acute
+79 educator shortages and obtain Alabama certification in
+80 mathematics, science, or computer science those programs.
+81 (2) To improve the educational system in Alabama by
+82 encouraging those who complete the program and obtain
+83 certification in acute educator shortage programs to accept
+84 math, science, or computer science teaching educator positions
+Page 3
+
+math, science, or computer science teaching educator positions
+HB124 INTRODUCED
+85 in Alabama public K-12 schools, preferably in public or school
+86 systems, including charter schools, where the shortage of
+87 math, science, or computer science teachers, or any
+88 combination of the three, is most acute, or in a school that
+89 has been designated as a failing school, or any other term
+90 adopted to identify an underperforming school, by the State
+91 Board of Education or the Legislature that have been
+92 identified as acute educator shortage locations."
+93 "§16-5-52
+94 For the purposes of this article, the following terms
+95 shall have the following meanings:
+96 (1) ACUTE EDUCATOR SHORTAGE. A shortage of certified
+97 educators in identified educator programs as determined by the
+98 Alabama Commission on Higher Education in consultation with
+99 the State Department of Education and the Alabama Commission
+100 on the Evaluation of Services.
+101 (2) ACUTE EDUCATOR SHORTAGE LOCATION. A public K-12
+102 school or school system that has been identified as having an
+103 acute educator shortage.
+104 (1)(3) APPROVED INSTITUTION. A state-supported
+105 institution of higher education or a private nonprofit
+106 institution of higher education that satisfies all of the
+107 following:
+108 a. Is accredited by the Southern Association of
+109 Colleges and Schools Commission on Colleges.
+110 b. Is approved by the State Board of Education to
+111 prepare teachers of middle level or secondary math, science,
+112 or computer science educators in programs identified as having
+Page 4
+
+or computer science educators in programs identified as having
+HB124 INTRODUCED
+113 an acute educator shortage.
+114 c. Is eligible to receive Title IV federal student aid
+115 program funds.
+116 d. Maintains its primary headquarters in Alabama.
+117 (4) BASE SUPPORT. Loan assistance in support of
+118 educators who are certified in a program identified as having
+119 an acute educator shortage pursuant to Section 16-5-54.
+120 (2)(5) CHARTER SCHOOL. A form of public K-12 school. A
+121 teacher established pursuant to Chapter 6F. An educator
+122 employed by a charter school accredited by the Southern
+123 Association of Colleges and Schools Commission on Colleges is
+124 eligible to participate in the program. A teacher for the base
+125 support provided in this article. An educator employed by a
+126 charter school is not eligible for the acute shortage area
+127 supplement supplemental support provided in this article.
+128 (3)(6) COMMISSION. The Alabama Commission on Higher
+129 Education.
+130 (7) EDUCATOR. A full-time employee of a public K-12
+131 school or school system whose function is to work with
+132 students in support of their efforts to learn and obtain an
+133 education.
+134 (4)(8) ELIGIBLE APPLICANT. A person An individual who
+135 satisfies the criteria set out in this article and is eligible
+136 under rules adopted by the commission.
+137 (5)(9) PROGRAM. The Alabama Math and Science Teacher
+138 Education Program Loan Assistance in Support of Educators in
+139 Alabama Program created by this article and administered by
+140 the commission that provides loan repayments assistance to a
+Page 5
+
+the commission that provides loan repayments assistance to a
+HB124 INTRODUCED
+141 teacher an educator with a valid Alabama professional educator
+142 certificate who is endorsed in math, science, or computer
+143 science who teaches math, science, or computer science courses
+144 for which the teacher is properly certified for three-fourths
+145 of the full-time teaching load in the Alabama public school
+146 system a program identified as having an acute educator
+147 shortage.
+148 (6) SCIENCE. Biology, chemistry, physics, and general
+149 science.
+150 (10) SUPPLEMENTAL SUPPORT. Loan assistance in support
+151 of educators who qualify for base support pursuant to Section
+152 16-5-54 and are employed in an acute educator shortage
+153 location.
+154 (7)(11) YEAR. A school year that shall be divided into
+155 The fall and spring semesters. The term does not mean
+156 calendar, fiscal, or scholastic year of an academic year of a
+157 public K-12 school or school system."
+158 "§16-5-53
+159 (a) The Alabama Math and Science Teacher Education
+160 Program program shall be administered by the commission, which
+161 may adopt any rules necessary for the administration of the
+162 program.
+163 (b) A percentage of any annual appropriations received
+164 by the program, not to exceed 10 percent, may be expended for
+165 its operation and maintenance. Any funds appropriated to the
+166 program shall be non-reverting at the end of each fiscal year.
+167 (c) The determination of acute educator shortages and
+168 acute educator shortage locations shall be made at least once
+Page 6
+
+acute educator shortage locations shall be made at least once
+HB124 INTRODUCED
+169 every academic year."
+170 "§16-5-54
+171 (a) The program shall provide two levels of payment for
+172 loan assistance: (i) base support in the amount of seven
+173 thousand five hundred dollars ($7,500) per year worked or
+174 three thousand seven hundred fifty dollars ($3,750) per
+175 semester, for a maximum of four consecutive years, and (ii)
+176 supplemental support in the amount of three thousand dollars
+177 ($3,000) per year worked or one thousand five hundred dollars
+178 ($1,500) per semester worked, for a maximum of four
+179 consecutive years. Depending on eligibility, an eligible
+180 applicant may receive the base support or both the base
+181 support and supplemental support.
+182 (b) To be eligible for the base program of three
+183 thousand seven hundred fifty dollars ($3,750) per semester for
+184 math and science teachers and one thousand five hundred
+185 dollars ($1,500) per semester for computer science teachers,
+186 an support an eligible applicant shall satisfy all of the
+187 following:
+188 (1) Is a citizen or a lawful permanent resident of the
+189 United States.
+190 (2) Is a resident of Alabama. The commission shall
+191 accept any one of the following as proof of residency:
+192 a. A current valid Alabama driver license.
+193 b. A current valid Alabama vehicle registration.
+194 c. A current valid Alabama voter registration card.
+195 (1) Be(3) Is a graduate of a State Board of Education
+196 an approved program in math, science, or computer science, at
+Page 7
+
+an approved program in math, science, or computer science, at
+HB124 INTRODUCED
+197 the baccalaureate or master's level after the 2018 spring
+198 semester term from an approved Alabama institution and hold an
+199 initial middle level or secondary professional educator
+200 certificate endorsed in math, science, or computer science
+201 that was has been issued an Alabama educator certificate based
+202 upon completion of the approved program in math, science, or
+203 computer science. A teacher identified as having an acute
+204 educator shortage. An educator who only earns a passing score
+205 on the Praxis test in math, science, or computer science to
+206 add a certificate endorsement for math, science, or computer
+207 science, an approved program and who has not completed an
+208 entire the approved program, does not satisfy this
+209 requirement.
+210 (2) Holds a valid Alabama professional educator
+211 certificate endorsed in middle level or secondary math,
+212 science, or computer science, or any combination of the three.
+213 (3) Teaches
+214 (4) Is employed by a public K-12 school or school
+215 system.
+216 (5) Maintains a schedule in which at least
+217 three-fourths of the full-time teaching load is comprised of
+218 math, science, or computer science in an Alabama public school
+219 system workload addresses an acute educator shortage.
+220 (4) Is a citizen or a lawful permanent resident of the
+221 United States.
+222 (5) Is a resident of Alabama and provides documentation
+223 proving a permanent connection to the State of Alabama. The
+224 commission shall accept any one of the following as proof of
+Page 8
+
+commission shall accept any one of the following as proof of
+HB124 INTRODUCED
+225 residency:
+226 a. A current valid Alabama driver license.
+227 b. A current valid Alabama vehicle registration.
+228 c. A current valid Alabama voter registration card.
+229 (6) Has outstanding federal student loans, subsidized
+230 or unsubsidized.
+231 (7) Satisfies additional continuing eligibility
+232 criteria established by the commission.
+233 (b) In order to receive an additional supplement
+234 pursuant to this article, in addition to the criteria listed
+235 in subsection (a), a recipient shall also teach math, science,
+236 or computer science, or any combination of the three, in a
+237 public school system within the state with an acute teacher
+238 shortage in math, science, or computer science, or any
+239 combination of the three, for which the teacher is properly
+240 certified, as identified by the commission in consultation
+241 with the Alabama State Department of Education or in a school
+242 that has been designated as a failing school, or any other
+243 term adopted to identify an underperforming school, by the
+244 Alabama State Board of Education or the Legislature.(c) To be
+245 eligible for the supplemental support an eligible applicant
+246 must meet the criteria listed in subsection (b) and also be
+247 employed in an acute educator shortage location."
+248 "§16-5-54.1
+249 (a) Beginning in the fall semester of 2021, the
+250 benefits outlined in subsection (a) of Section 16-5-54(a) and
+251 the criteria outlined in Section 16-5-54(b) and (c) shall also
+252 apply to the following eligible individuals, pending
+Page 9
+
+apply to the following eligible individuals, pending
+HB124 INTRODUCED
+253 authorization to teach who are authorized to be educators in
+254 Alabama and subsequent employment are subsequently employed in
+255 an Alabama public K-12 school: or school system, who graduated
+256 from a regionally accredited college or university in another
+257 state at the baccalaureate or master's level after the 2021
+258 spring semester term, and who may or may not reside within
+259 Alabama, exempting Section 16-5-54(b)(2).
+260 (1) An individual who graduated from a regionally
+261 accredited college or university in Alabama or in another
+262 state who is certified to teach math, science, or computer
+263 science in another state, and who may or may not reside within
+264 Alabama.
+265 (2) An individual who resides in another state and is a
+266 graduate of a State Board of Education approved program in
+267 math, science, or computer science, at the baccalaureate or
+268 master's level after the 2021 spring semester term from an
+269 approved Alabama institution and who holds an initial
+270 middle-level or secondary professional educator certificate
+271 endorsed in math, science, or computer science that was issued
+272 based upon completion of the approved program in math,
+273 science, or computer science. A teacher who only earns a
+274 passing score on the Praxis test in math, science, or computer
+275 science to add a certificate endorsement for math, science, or
+276 computer science and who has not completed an entire approved
+277 program, does not satisfy this requirement.
+278 (b) The individuals listed in subsection (a) shall also
+279 satisfy all of the following criteria:
+280 (1) Hold a valid Alabama professional educator
+Page 10
+
+(1) Hold a valid Alabama professional educator
+HB124 INTRODUCED
+281 certificate endorsed in middle-level or secondary math,
+282 science, or computer science, or any combination of the three.
+283 (2) Teach a schedule in which at least three-fourths of
+284 the full-time teaching load is comprised of math, science, or
+285 computer science courses for which the teacher is properly
+286 certified in an Alabama public school system.
+287 (3) Be citizens or lawful permanent residents of the
+288 United States.
+289 (4) Have outstanding federal student loans, subsidized
+290 or unsubsidized.
+291 (5) Satisfy additional continuing eligibility criteria
+292 established by the commission.
+293 (c) In order to receive an additional supplement
+294 pursuant to this article, in addition to the criteria listed
+295 in subsections (a) and (b), a recipient shall also teach math,
+296 science, or computer science courses, or any combination of
+297 the three, for which he or she is properly certified, in a
+298 school system within the state with an acute teacher shortage
+299 in math, science, or computer science, or any combination of
+300 the three, as identified by the commission in consultation
+301 with the State Department of Education or in a school that has
+302 been designated as a failing school, or any other term
+303 subsequently adopted to identify underperforming schools, by
+304 the State Board of Education or the Legislature."
+305 "§16-5-55
+306 (a) The program shall be used to provide a loan
+307 repayment for federal student loans in the following amounts:
+308 (1)a. Prior to the 2022 fall semester, five thousand
+Page 11
+
+(1)a. Prior to the 2022 fall semester, five thousand
+HB124 INTRODUCED
+309 dollars ($5,000) per year, or two thousand five hundred
+310 dollars ($2,500) per semester worked, for a maximum of four
+311 consecutive years for a teacher with a valid Alabama
+312 professional educator certificate endorsed in middle level or
+313 secondary math or science who graduated from a teacher
+314 education program at an approved institution after the 2018
+315 spring semester term and is teaching in an Alabama public
+316 school.
+317 b. Three thousand dollars ($3,000) per year, or one
+318 thousand five hundred dollars ($1,500) per semester worked,
+319 for a maximum of four consecutive years for a teacher with a
+320 valid Alabama professional educator certificate endorsed in
+321 computer science who graduated from a teacher education
+322 program at an approved institution after the 2021 spring
+323 semester term and is teaching in an Alabama public school.
+324 c. Beginning after the 2022 spring semester, seven
+325 thousand five hundred dollars ($7,500) per year, or three
+326 thousand seven hundred fifty dollars ($3,750) per semester
+327 worked, for a maximum of four consecutive years for a teacher
+328 with a valid Alabama professional educator certificate
+329 endorsed in middle level or secondary math or science who
+330 graduated from a teacher education program at an approved
+331 institution after the 2018 spring semester term and is
+332 teaching in an Alabama public school. Payments made under this
+333 paragraph may only be made to eligible teachers who fulfilled
+334 the per semester requirements for the 2022 fall semester and
+335 forward.
+336 (2)a. An additional two thousand five hundred dollars
+Page 12
+
+(2)a. An additional two thousand five hundred dollars
+HB124 INTRODUCED
+337 ($2,500) per year, or one thousand two hundred fifty dollars
+338 ($1,250) per semester worked, for a maximum of four
+339 consecutive years for a teacher who satisfies all criteria
+340 listed in Sections 16-5-54, 16-5-54.1, and 16-5-54.2, and who
+341 also is teaching math or science in a public school in a
+342 school system within the state with an acute teacher shortage
+343 in math or science, or both, as identified by the commission
+344 in consultation with the Alabama State Department of Education
+345 or in a school that has been designated as a failing school,
+346 or any other term adopted to identify an underperforming
+347 school by the Alabama State Board of Education or the
+348 Legislature.
+349 b. An additional one thousand dollars ($1,000) per
+350 year, or five hundred dollars ($500) per semester worked, for
+351 a maximum of four consecutive years for a teacher who
+352 satisfies all criteria listed in Sections 16-5-54, 16-5-54.1,
+353 and 16-5-54.2, and who also is teaching computer science in a
+354 public school in a school system within the state with an
+355 acute teacher shortage in computer science as identified by
+356 the commission in consultation with the Alabama State
+357 Department of Education or in a school that has been
+358 designated as a failing school, or any other term adopted to
+359 identify an underperforming school, by the Alabama State Board
+360 of Education or the Legislature.
+361 (b) Loan repayment award recipients shall reapply for
+362 the program annually.
+363 (a) Program funds shall be awarded and distributed by
+364 the commission in the following manner:
+Page 13
+
+the commission in the following manner:
+HB124 INTRODUCED
+365 (c)(1) Loan repayment assistance awards shall be
+366 distributed directly to the recipient teacher eligible
+367 applicants in two disbursements during the applicable year:
+368 One disbursement shall be made after January 1 and the second
+369 disbursement shall be made after June 1. Each recipient
+370 eligible applicant shall provide documentation from the
+371 employing public K-12 school or school system as proof that he
+372 or she has taught for a of employment for the requested
+373 semester. If the award amount is larger than exceeds the
+374 outstanding loan balance, the award amount shall be reduced to
+375 the amount of match the loan balance.
+376 (d) The requirements of this article are contingent
+377 upon available funding for the program.
+378 (e)(2) The commission shall determine the necessary
+379 procedures for awarding loan repayments assistance if the
+380 number of total awards made to eligible applicants and
+381 recipients exceeds available funding.
+382 (f)(3) The recipient eligible applicant shall notify
+383 the commission in writing of any change in status within 30
+384 days after the change. Failure to notify the commission of a
+385 change in status shall affect future eligibility. All of the
+386 following constitute a change in status:
+387 (1)a. A change in name.
+388 (2)b. A change in residence.
+389 (3)c. A change in employment status.
+390 (g)(4) To receive a loan repayment check assistance
+391 pursuant to this article, a teacher an eligible applicant
+392 shall register online with the state Comptroller.
+Page 14
+
+shall register online with the state Comptroller.
+HB124 INTRODUCED
+393 (b) The requirements of this article are contingent
+394 upon available funding for the program.
+395 (h)(c) A loan repayment check assistance award is
+396 considered income by the Internal Revenue Service, and
+397 recipients eligible applicants shall be made aware of that
+398 fact.
+399 (i) Any funds appropriated to the program shall be
+400 nonreverting.
+401 (j) Additional funds shall be made available to
+402 teachers who also teach math, science, or computer science in
+403 school systems of the state where the shortages of math,
+404 science, or computer science teachers, or any combination of
+405 the three, are most severe. The commission, in consultation
+406 with the Alabama State Department of Education, shall
+407 determine which school systems in the state have the greatest
+408 shortage areas.
+409 (k) A recipient who receives a loan repayment award and
+410 continues to satisfy employment criteria shall continue to
+411 receive an award for the four-year limit regardless of whether
+412 the employing school system retains its acute shortage
+413 designation or the employing school is removed from the
+414 failing school list. If a recipient leaves an acute shortage
+415 system or a failing school and accepts employment in a school
+416 system or school that does not hold an acute shortage system
+417 or failing school designation, the recipient shall no longer
+418 qualify to receive supplemental funds.
+419 (d) An eligible applicant who receives the base support
+420 and continues to satisfy employment criteria shall continue to
+Page 15
+
+and continues to satisfy employment criteria shall continue to
+HB124 INTRODUCED
+421 receive an award for the four-year limit.
+422 (e) An eligible applicant who receives the supplemental
+423 support and continues to satisfy employment criteria shall
+424 continue to receive an award for the four-year limit."
+425 "§16-5-56
+426 Any person individual or institution aggrieved by not
+427 satisfied with the actions of the commission in its
+428 administration of the program, by may submit a written
+429 petition filed with to the commission within 30 days after
+430 notice of the action complained of, may request a rehearing by
+431 the commission. If not satisfied with the response of the
+432 commission to the written petition, the individual or
+433 institution may request a rehearing within 20 days after the
+434 response of the commission is made. The commission shall
+435 schedule the requested rehearing not less than 20, nor more
+436 than 30, within 20 days after receipt of the petition
+437 rehearing request. The aggrieved party individual or
+438 institution may present written and oral evidence supporting
+439 its the petition and may be represented by counsel. The
+440 decision of the commission following the rehearing shall be is
+441 final."
+442 Section 2. Sections 16-5-53.1 and16-5-53.2 are added to
+443 the Code of Alabama 1975, to read as follows:
+444 §16-5-53.1
+445 (a) The commission shall develop an accountability and
+446 evaluation plan for the program that does all of the
+447 following:
+448 (1) Identifies the goals, objectives, and expected
+Page 16
+
+(1) Identifies the goals, objectives, and expected
+HB124 INTRODUCED
+449 outputs and outcomes of the program.
+450 (2) Describes the specific activities of the program
+451 and how those activities will achieve expected outcomes.
+452 (3) Defines what the expected metrics of success shall
+453 be and provides a monitoring plan to regularly assess
+454 performance.
+455 (4) Provides an evaluation plan to assess the impact of
+456 expected outcomes.
+457 (b) The commission shall consult with the Alabama
+458 Commission on the Evaluation of Services on the development of
+459 the accountability and evaluation plan.
+460 §16-5-53.2
+461 Any eligible applicant who met the requirements of the
+462 program and received a loan repayment prior to August 1, 2026,
+463 shall remain eligible for loan repayments pursuant to the
+464 requirements of the program as long as they remain
+465 continuously employed with a qualifying school.
+466 Section 3. Section 16-5-54.2, Code of Alabama 1975,
+467 relating to documentation required from educators who received
+468 their certifications pursuant to an alternative certification
+469 program to receive loan repayments under AMSTEP, is repealed.
+470 Section 4. This act shall become effective on August 1,
+471 2026.
+Page 17

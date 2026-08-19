@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB70 INTRODUCED
+1 HB70
+2 9J2TWBB-1
+3 By Representative England
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+6 PFD: 02-Dec-25
+Page 0
+
+PFD: 02-Dec-25
+9J2TWBB-1 11/10/2025 CMH (L)CMH 2025-3208
+1
+2
+3
+4 SYNOPSIS:
+5 Prior to the enactment of Act 2017-131,
+6 effective April 11, 2017, following a defendant's
+7 conviction for a capital offense, the duty of the jury
+8 was to review the aggravating and mitigating
+9 circumstances associated with the defendant's offense
+10 and return to the court an advisory verdict. The
+11 sentencing court was required to review the advisory
+12 verdict and give it consideration, but the advisory
+13 verdict was not binding on the court.
+14 Upon the enactment of Act 2017-131, when a jury
+15 returns a verdict at sentencing, the trial court must
+16 sentence the defendant in accordance with the jury's
+17 verdict and may not overrule the jury's verdict.
+18 This bill would provide a procedure for a
+19 defendant in a capital murder case, who was sentenced
+20 pursuant to a judicial override, to be resentenced
+21 pursuant to existing law.
+22
+23
+24
+25 A BILL
+26 TO BE ENTITLED
+27 AN ACT
+28
+Page 1
+
+HB70 INTRODUCED
+29 Relating to sentencing; to add Section 13A-5-46.1 to
+30 the Code of Alabama 1975, to provide for resentencing for
+31 certain defendants sentenced for capital murder; to repeal
+32 Section 13A-5-47.1, Code of Alabama 1975, relating to
+33 resentencing for certain defendants.
+34 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+35 Section 1. Section 13A-5-46.1 is added to the Code of
+36 Alabama 1975, to read as follows:
+37 (a) A defendant convicted of a capital offense who was
+38 sentenced pursuant to this article prior to June 1, 2026, on
+39 petition to the sentencing court, shall be resentenced
+40 pursuant to Section 13A-5-46, if the court finds all of the
+41 following:
+42 (1) The defendant was sentenced pursuant to the
+43 provisions of this article prior to June 1, 2026, under the
+44 law in effect on April 10, 2017.
+45 (2) The jury returned an advisory verdict recommending
+46 to the trial court that the imposed penalty be life
+47 imprisonment without parole.
+48 (3) The sentencing court overruled the jury's advisory
+49 verdict and imposed a sentence of death.
+50 (b) The petition shall be on a form and in a manner
+51 established by the Administrative Office of Courts. Petitions
+52 shall be considered authorized motions for modifications of
+53 sentence, shall be assigned a unique identifier by the
+54 Administrative Office of Courts, and shall not require payment
+55 of a filing fee.
+56 (c) The petition for resentencing shall be heard by the
+Page 2
+
+(c) The petition for resentencing shall be heard by the
+HB70 INTRODUCED
+57 original sentencing judge or his or her successor, the
+58 presiding judge of the circuit, or a retired judge as assigned
+59 by the Chief Justice of the Alabama Supreme Court. If the
+60 court determines the defendant is eligible for resentencing
+61 pursuant subsection (a), the court shall order the defendant
+62 to be resentenced. The court shall dismiss the petition if the
+63 court determines the defendant to be ineligible.
+64 (d) The court shall serve a copy of the petition for
+65 resentencing on the district attorney in the county of the
+66 conviction. The district attorney shall have an opportunity to
+67 be heard on any motion filed pursuant to this section.
+68 (e) Upon determining the defendant is eligible for
+69 resentencing pursuant to subsection (a), the court shall
+70 notify the Victim Notification Unit of the Board of Pardons
+71 and Paroles, which shall provide notifications to any
+72 interested party registered for notice for the inmate through
+73 the statewide automated victim notification system established
+74 pursuant to Section 15-22-36.2.
+75 (f) The Administrative Office of Courts shall adopt
+76 rules to implement and administer this section.
+77 Section 2. Section 13A-5-47.1, Code of Alabama 1975,
+78 relating to the application of sentencing of certain
+79 defendants convicted of capital murder, is repealed.
+80 Section 3. This act shall become effective on October
+81 1, 2026.
+Page 3

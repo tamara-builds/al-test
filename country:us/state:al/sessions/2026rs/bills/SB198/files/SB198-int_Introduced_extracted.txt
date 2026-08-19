@@ -1,0 +1,235 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB198 INTRODUCED
+1 SB198
+2 L5F33YY-1
+3 By Senator Kelley
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 21-Jan-26
+Page 0
+
+First Read: 21-Jan-26
+L5F33YY-1 01/20/2026 ZAK (L)ma 2025-3578
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person and facility must
+6 be licensed by the Alabama State Board of Prosthetists
+7 and Orthotists to provide prosthetic, orthotic, or
+8 pedorthic care in the state.
+9 This bill would abolish the board and the
+10 requirement to be licensed by the board to provide
+11 prosthetic, orthotic, or pedorthic care.
+12 This bill would require all persons and
+13 facilities providing prosthetic, orthotic, or pedorthic
+14 care to be certified by a national certifying entity.
+15 This bill would provide criminal penalties for
+16 violations
+17 This bill would require a person to receive a
+18 minimum amount of continuing education for
+19 certification by a national certifying entity from the
+20 Alabama Prosthetics and Orthotics Association.
+21 This bill would authorize the Alabama
+22 Prosthetics and Orthotics Association to levy fees on
+23 certified persons to be deposited into the Alabama
+24 Prosthetics and Orthotics Certification Fund.
+25 This bill would also establish the Alabama
+26 Prosthetics and Orthotics Certification Fund in the
+27 State Treasury.
+28
+Page 1
+
+SB198 INTRODUCED
+29
+30 A BILL
+31 TO BE ENTITLED
+32 AN ACT
+33
+34 Relating to prosthetists and orthotists; to require
+35 certification by a national certifying entity to provide
+36 prosthetic, orthotic, or pedorthic care; to provide criminal
+37 penalties for violations; to require a minimum amount of
+38 continuing education for a certifying entity be received from
+39 the Alabama Prosthetics and Orthotics Association; to
+40 authorize the association to levy fees for deposit into the
+41 Alabama Prosthetics and Orthotics Certification Fund in the
+42 State Treasury; and to repeal Chapter 25A of Title 34, Code of
+43 Alabama 1975, establishing to the Alabama State Board of
+44 Prosthetists and Orthotists.
+45 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+46 Section 1. (a) For purposes of this section, the
+47 following terms have the following meanings:
+48 (1) FACILTY. A facility where prosthetic, orthotic, or
+49 pedorthic care is provided.
+50 (2) NATIONAL CERTIFYING ENTITY. Any national
+51 credentialing organization for ensuring the safe and effective
+52 provision of orthotic, prosthetic, or pedorthic services that
+53 is approved by the Secretary of State, including the American
+54 Board for Certification in Orthotics, Prosthetics and
+55 Pedorthics and the Board of Certification/Accreditation.
+56 (3) ORTHOSIS. A custom-fabricated, definitive brace or
+Page 2
+
+(3) ORTHOSIS. A custom-fabricated, definitive brace or
+SB198 INTRODUCED
+57 support that is designed for long-term use. Except for the
+58 treatment of scoliosis, the term does not include
+59 prefabricated or direct-formed orthotic devices or
+60 commercially available knee orthoses used following injury or
+61 surgery, upper extremity adaptive equipment, finger splints,
+62 leather wrist gauntlets, face masks used following burns,
+63 wheelchair seating that is an integral part of the wheelchair
+64 and not worn by the patient independent of the wheelchair,
+65 fabric or elastic supports, corsets, arch supports, also known
+66 as non-custom or prefabricated orthotics, low-temperature
+67 formed plastic splints, trusses, elastic hose, canes,
+68 crutches, cervical collars, dental appliances, and other
+69 similar devices such as those commonly carried in stock by a
+70 pharmacy, hospital, rehabilitation facility, department store,
+71 corset shop, or surgical supply facility.
+72 (4) ORTHOTICS. The science and practice of evaluating,
+73 measuring, designing, fabricating, assembling, fitting,
+74 adjusting, or servicing, as well as providing the initial
+75 training necessary to accomplish the fitting of, an orthosis
+76 for the support, correction, or alleviation of neuromuscular
+77 or musculoskeletal dysfunction, disease, injury, or deformity.
+78 The term includes all of the following:
+79 a. Evaluations, consultation, and continuing care, with
+80 basic observational gait and posture analysis.
+81 b. Assessing the need for and measuring, designing,
+82 manufacturing, and fitting orthoses to maximize function and
+83 provide the support and alignment necessary to prevent or
+84 correct deformity or to improve the safety and efficiency of
+Page 3
+
+correct deformity or to improve the safety and efficiency of
+SB198 INTRODUCED
+85 mobility or locomotion, or both.
+86 c. Periodic evaluation and consultation to assess an
+87 orthosis's effect on the patient's tissue and assure proper
+88 fit and function of the orthosis.
+89 (5) ORTHOTIST. An individual certified by a national
+90 certifying entity to practice orthotics.
+91 (6) PEDORTHIC DEVICE. Custom therapeutic shoes that:
+92 a. Address a medical condition of the foot below the
+93 ankle;
+94 b. Are prescribed by an authorized health care
+95 practitioner, including diabetic shoes, for the treatment of
+96 partial or complete amputation of the foot, foot ulceration,
+97 pre-ulcerative callous, or foot deformity, shoe modifications
+98 made for therapeutic purposes, partial foot prostheses, and
+99 foot orthoses and orthoses for use from the knee and below;
+100 and
+101 c. Are used for the treatment or alleviation, or both,
+102 of a condition that has its origin in the foot.
+103 (7) PEDORTHICS. The design, manufacture, modification,
+104 or fit of custom shoes, orthoses, and pedorthic devices to
+105 prevent or alleviate foot problems caused by disease,
+106 congenital defect, overuse, or injury.
+107 (8) PEDORTHIST. An individual certified by a national
+108 certifying entity to practice pedorthics.
+109 (9) PROSTHESIS. A definitive artificial limb that is
+110 alignable or articulated or, in lower extremity applications,
+111 capable of bearing weight. The term includes an artificial
+112 medical device that is not surgically implanted and that is
+Page 4
+
+medical device that is not surgically implanted and that is
+SB198 INTRODUCED
+113 used to replace a missing limb, appendage, or other external
+114 human body part and that includes an artificial limb, hand, or
+115 foot. The term does not include artificial eyes, ears, dental
+116 appliances, ostomy products, devices such as artificial
+117 breasts or eyelashes, wigs, or other devices that do not have
+118 a significant impact on the musculoskeletal functions of the
+119 body.
+120 (10) PROSTHETICS. The science and practice of
+121 evaluating, measuring, designing, fabricating, assembling,
+122 fitting, aligning, adjusting, or servicing, as well as
+123 providing the initial education necessary to accomplish the
+124 wearing and use of a prosthesis, through the replacement of
+125 external parts of a human body lost due to amputation or
+126 congenital deformities or absences. The term includes all of
+127 the following:
+128 a. The generation of an image, form, or mold that
+129 replicates the patient's body or body segment and that
+130 requires rectification of dimensions, contours, and volumes
+131 for use in the design and fabrication of a socket to accept a
+132 residual limb to create an artificial appendage that is
+133 designed either to support body weight or to improve or
+134 restore function or cosmesis.
+135 b. Observational gait analysis and clinical assessment
+136 of the requirements necessary to refine and mechanically fix
+137 the relative position of various parts of the prosthesis to
+138 maximize the function, stability, and safety of the patient.
+139 c. Evaluating, consulting, and providing continuing
+140 patient care in order to assess the effect of the prosthetic
+Page 5
+
+patient care in order to assess the effect of the prosthetic
+SB198 INTRODUCED
+141 device on the patient's tissues and to assure proper fit and
+142 function of the prosthetic device.
+143 (11) PROSTHETIST. An individual who is certified by a
+144 national certifying entity to practice prosthetics.
+145 (b) Beginning October 1, 2026, a prosthetist,
+146 orthotist, pedorthist, fitter, assistant, or facility may not
+147 provide prosthetic, orthotic, or pedorthic care, or otherwise
+148 practice or operate, without a current and valid certification
+149 from a national certifying entity.
+150 (c) An individual required to be certified pursuant to
+151 subsection (b) shall complete not less than half of any
+152 continuing education required to maintain a current and valid
+153 certification from a national certifying entity through
+154 courses and clinical programs offered by the Alabama
+155 Prosthetics and Orthotics Association.
+156 (d)(1) All persons required to be certified pursuant to
+157 subsection (b) shall submit proof of valid certification to
+158 the Alabama Prosthetics and Orthotics Association. The
+159 association shall keep a record of all certified persons and
+160 verify and record all certified individual's completed
+161 continuing education.
+162 (2) The association may assess an annual fee on
+163 certified persons not to exceed two hundred fifty dollars
+164 ($250).
+165 (3)a. The association shall maintain a dedicated
+166 administrative division that is separate from its normal
+167 operations for the administration of its duties pursuant to
+168 this section. The association shall deposit all funds
+Page 6
+
+this section. The association shall deposit all funds
+SB198 INTRODUCED
+169 collected pursuant to this section in the Alabama Prosthetics
+170 and Orthotics Certification Fund that is established in the
+171 State Treasury. The fund shall be administered by the Alabama
+172 Prosthetics and Orthotics Association to defray costs incurred
+173 in carrying out this section.
+174 b. Receipts deposited into the fund shall be disbursed
+175 only by warrants of the Comptroller drawn upon the State
+176 Treasury on itemized vouchers approved by the director of the
+177 department. No funds shall be withdrawn or expended except as
+178 budgeted and allocated according to Article 4 of Chapter 4 and
+179 Chapter 19 of Title 41, Code of Alabama 1975, and only in
+180 amounts as stipulated in the general appropriations act, other
+181 appropriations acts, or this section. At the end of each
+182 fiscal year, any unencumbered balance shall not revert to the
+183 State General Fund under Section 41-4-93, Code of Alabama
+184 1975.
+185 (e)(1) A violation of subsection (b) is a Class B
+186 misdemeanor.
+187 (2) The Attorney General may bring an action in circuit
+188 court to enjoin a violation of this section.
+189 Section 2. Chapter 25A of Title 34, Code of Alabama
+190 1975, establishing to the Alabama State Board of Prosthetists
+191 and Orthotists, is repealed.
+192 Section 3. This act shall become effective on October
+193 1, 2026.
+Page 7

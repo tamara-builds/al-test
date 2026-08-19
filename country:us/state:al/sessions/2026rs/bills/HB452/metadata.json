@@ -1,0 +1,275 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB452",
+  "title": "Income taxes, state income tax credit for qualified rehabilitation expenses of certified historic properties extended, annual credit amount increased",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Taxation & Revenue"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Taxation & Revenue"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb452"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pending Committee Action in Second House (Finance and Taxation Education)",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Finance and Taxation Education",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Engrossed",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 757",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 756",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Pringle 1st Amendment Offered",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Motion to Adopt - Adopted Roll Call 755",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Ways and Means Education  Engrossed Substitute Offered (Ways and Means Education)",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Ways and Means Education)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin (Ways and Means Education)",
+      "date": "2026-02-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Ways and Means Education)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Ways and Means Education",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pringle",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pringle\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB452-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB452-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 756",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/W1XMR9E-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Motion to Adopt - Adopted Roll Call 755",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/JP1TEYF-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-5V7KBM3-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-5V7KBM3-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "23423115"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "text_extraction_latest_update": "2026-07-21T20:33:51.550298Z"
+  }
+}

@@ -1,0 +1,739 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB370 ENGROSSED
+1 SB370
+2 QN6CF55-2
+3 By Senators Livingston, Butler, Kitchens, Orr
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 17-Mar-26
+Page 0
+
+First Read: 17-Mar-26
+SB370 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to economic development; to amend Section
+10 11-99-2, Section 11-99-4, as last amended by Act 2026-104 of
+11 the 2026 Regular Session, and Sections 11-99-5, and 11-99-6,
+12 Code of Alabama 1975, to allow a Major 21st Century
+13 Manufacturing Zone to be located within a tax increment
+14 district without regard to the size of the tax increment
+15 district; to allow ad valorem tax revenues collected within
+16 the tax increment district to be used to reimburse costs
+17 incurred by a public entity to acquire land within the Major
+18 21st Century Manufacturing Zone prior to the creation of the
+19 tax increment district; and to make nonsubstantive, technical
+20 revisions to update existing code language to current style.
+21 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+22 Section 1. Section 11-99-2, Section 11-99-4, as last
+23 amended by Act 2026-106 of the 2026 Regular Session, and
+24 Sections 11-99-5, and 11-99-6, Code of Alabama 1975, are
+25 hereby amended to read as follows:
+26 "§11-99-2
+27 As used in this chapter, the following terms have the
+28 following meanings:
+Page 1
+
+following meanings:
+SB370 Engrossed
+29 (1) BLIGHTED OR ECONOMICALLY DISTRESSED AREA. Any of
+30 the following:
+31 a. Any area in which the structures, buildings, or
+32 improvements, by reason of dilapidation, deterioration, age,
+33 or obsolescence; inadequate provision for ventilation, light,
+34 air, sanitation, or open spaces; high density of population
+35 and overcrowding; or the existence of conditions that endanger
+36 life or property by fire and other causes; or any combination
+37 of such factors, are conducive to ill health, transmission of
+38 disease, infant mortality, juvenile delinquency, or crime and
+39 are detrimental to the public health, safety, morals, or
+40 welfare.
+41 b. Any area that by reason of the presence of a
+42 substantial number of substandard, slum, deteriorated, or
+43 deteriorating structures; predominance of defective or
+44 inadequate street layout; faulty lot layout in relation to
+45 size, adequacy, accessibility, or usefulness; unsanitary or
+46 unsafe conditions; deterioration of site or other
+47 improvements; diversity of ownership; tax or special
+48 assessment delinquencies exceeding the fair value of the land;
+49 defective or unusual conditions of title; or the existence of
+50 conditions that endanger life or property by fire and other
+51 causes; or any combination of the foregoing, substantially
+52 impairs or arrests the sound economic growth of an area,
+53 hinders the provision of housing accommodations, or
+54 constitutes an economic or social liability and is a detriment
+55 to the public health, safety, morals, or welfare in its
+56 present condition and use.
+Page 2
+
+present condition and use.
+SB370 Engrossed
+57 c. Any area that is predominantly open and which
+58 because of obsolete platting, diversity of ownership,
+59 deterioration of structures or of site improvements, or
+60 otherwise, substantially impairs or arrests the sound economic
+61 growth of an area.
+62 d. Any area that the local governing body: (i)
+63 Determines is in need of redevelopment, rehabilitation, or
+64 revitalization to provide for the economic growth and
+65 development of the area,; or (ii) certifies is in need of
+66 redevelopment or rehabilitation as a result of flood, fire,
+67 hurricane, tornado, earthquake, storm, or other catastrophe
+68 which the Governor of the state has certified the need for
+69 disaster assistance under federal law.
+70 e. Any area containing excessive vacant land on which
+71 structures were previously located; on which are located
+72 abandoned or vacant buildings or old buildings; where
+73 excessive vacancies exist in existing buildings; which
+74 contains substandard structures; or with respect to which
+75 there exist delinquencies in payment of real property taxes.
+76 (2) DEFERRED TAX RECIPIENT. Each taxing authority that
+77 receives ad valorem taxes with respect to property located in
+78 a proposed tax increment district.
+79 (3) ENHANCED USE LEASE AREA. Any area of a military
+80 installation which contains underutilized real or personal
+81 property, or both, that is leased by a secretary of a military
+82 department to a lessee pursuant to the authority provided in
+83 Title 10 U.S.C. § 2667.
+84 (4) LOCAL FINANCE OFFICER. The legally authorized
+Page 3
+
+(4) LOCAL FINANCE OFFICER. The legally authorized
+SB370 Engrossed
+85 officer or agent responsible for receipt and disbursement of
+86 the revenues of a taxing authority.
+87 (5) LOCAL GOVERNING BODY. The governing body of a
+88 county or municipality which proposes to create or has created
+89 a tax increment district.
+90 (6) MAJOR 21ST CENTURY MANUFACTURING ZONE. Any area
+91 aggregating not less than 250 contiguous acres of real
+92 property determined by a local governing body to meet all of
+93 the following criteria:
+94 a. Is located, in whole or part, within its boundaries
+95 or corporate limits.
+96 b. Is suitable for the site of an automotive,
+97 automotive-industry related, aviation, aviation-industry
+98 related, ship building-industry related, medical,
+99 pharmaceutical, semiconductor, computer, electronics, energy
+100 conservation, cyber technology, or biomedical industry
+101 manufacturing facility or facilities.
+102 c. Is an area within which not less than one hundred
+103 million dollars ($100,000,000) of capital expenditure in
+104 connection with the establishment, expansion, construction,
+105 equipping, development, rehabilitation, or redevelopment of
+106 the facility or facilities is anticipated to be made based
+107 upon representations and information provided by the
+108 anticipated user or users of the facility or facilities and
+109 other information as the local governing body shall have
+110 available to it and deems appropriate.
+111 (7) MUNICIPALITY. Any incorporated municipality in this
+112 state.
+Page 4
+
+state.
+SB370 Engrossed
+113 (8) PROJECT. Undertakings and activities of a public
+114 entity in a tax increment district for any one or more of the
+115 following:
+116 a. As determined by the local governing body, the
+117 elimination and prevention of the development or spread of
+118 blight in, or the redevelopment or revitalization of, a
+119 blighted or economically distressed area, including, but not
+120 limited to, property acquisition, property clearance,
+121 development, preservation, redevelopment, rehabilitation,
+122 renovation, or conservation, or a combination or part thereof,
+123 in accordance with a project plan.
+124 b. The utilization of underutilized real or personal
+125 property, or both, in an enhanced use lease area, including,
+126 but not limited to, property acquisition, property clearance,
+127 development, redevelopment, rehabilitation, or conservation,
+128 or a combination or part thereof, in accordance with a project
+129 plan.
+130 c. The utilization of underutilized real property in an
+131 area determined by a local governing body to be a Major 21st
+132 Century Manufacturing Zone, including, but not limited to,
+133 property acquisition; property clearance; development,
+134 including, without limitation, public infrastructure
+135 improvements and any other improvements for the construction
+136 and equipping of automotive, automotive-industry related,
+137 aviation, aviation-industry related, ship building-industry
+138 related, medical, pharmaceutical, semiconductor, computer,
+139 electronics, energy conservation, cyber technology, or
+140 biomedical industry manufacturing facilities; or the
+Page 5
+
+biomedical industry manufacturing facilities; or the
+SB370 Engrossed
+141 redevelopment, rehabilitation, or conservation, or a
+142 combination or part thereof, in accordance with a project
+143 plan.
+144 (9) PROJECT COSTS. Any expenditures made or estimated
+145 to be made or monetary obligations incurred or estimated to be
+146 incurred by a public entity, which in the case of expenditures
+147 for or within a Major 21st Century Manufacturing Zone may be
+148 incurred directly by the public entity or by a private entity
+149 with funds granted by, or otherwise made available from, a
+150 public entity, which are listed in a project plan as costs of
+151 public works or improvements or, in the case of improvements
+152 within a Major 21st Century Manufacturing Zone, public works
+153 or improvements or private improvements, within a tax
+154 increment district, plus any costs incidental thereto,
+155 diminished by any special assessments, received or reasonably
+156 expected to be received by the public entity in connection
+157 with the implementation of the project plan. Project costs
+158 include, but are not limited to, all of the following:
+159 a. Capital costs, including the costs of the
+160 acquisition, installation, or construction of public works or
+161 improvements, new buildings, facilities or improvements,
+162 structures, and fixtures, the preservation and renovation of
+163 properties of historic significance and facades of properties,
+164 the demolition, alteration, remodeling, repair, or
+165 reconstruction of existing buildings, structures, facilities,
+166 and fixtures, the improvement, maintenance, repair,
+167 renovation, and replacement of property pursuant to a project
+168 plan, the acquisition of equipment, the acquisition, clearing,
+Page 6
+
+plan, the acquisition of equipment, the acquisition, clearing,
+SB370 Engrossed
+169 and grading of land, environmental remediation of real
+170 property, and the acquisition of interests in land.
+171 b. Financing costs, including all interest paid to
+172 holders of tax increment obligations during the period of
+173 implementation of the project plan, the costs of any form of
+174 credit enhancement, printing and trustee costs, and any
+175 premium paid in excess of the principal amount thereof because
+176 of the redemption of the obligations prior to maturity.
+177 c. Real property assembly costs, meaning any deficit
+178 resulting from the sale or lease as lessor by the public
+179 entity of real or personal property within a tax increment
+180 district for consideration which is less than its cost to the
+181 public entity.
+182 d. Professional service costs, including those costs
+183 incurred for architectural, planning, engineering, fiscal,
+184 underwriting, legal advice and services, and consulting and
+185 management services.
+186 e. Imputed administrative costs, including reasonable
+187 charges for the time spent by officers and employees of the
+188 public entity in connection with the implementation of a
+189 project plan.
+190 f. Relocation costs, including those relocation
+191 payments made following condemnation under Chapter 1A of Title
+192 18.
+193 g. Organizational costs, including the costs of
+194 conducting environmental impact and other studies and the
+195 costs of informing the public with respect to the creation of
+196 tax increment districts and the implementation of project
+Page 7
+
+tax increment districts and the implementation of project
+SB370 Engrossed
+197 plans.
+198 h. The amount of any contributions made in connection
+199 with the implementation of the project plan that are within
+200 limits prescribed by law.
+201 i. Payments made, at the discretion of the local
+202 governing body, which are to be necessary or convenient to the
+203 creation of tax increment districts or the implementation and
+204 management of project plans.
+205 j. For purposes of any tax increment district in which
+206 not less than 50 percent, by area, of the real property within
+207 the tax increment district is an enhanced use lease area, all
+208 costs described in this subdivision which are expended by a
+209 public entity or a developer within three years immediately
+210 preceding the date of the creation of the tax increment
+211 district.
+212 k. For purposes of any tax increment district which
+213 includes an area that a local governing body has determined to
+214 be a Major 21st Century Manufacturing Zone, the costs incurred
+215 by a public entity to acquire land or interests in land
+216 forming all or part of such Major 21st Century Manufacturing
+217 Zone prior to the date of creation of the tax increment
+218 district; provided, prior to incurring such costs the local
+219 governing body of such public entity has recited its intent to
+220 reimburse such costs from ad valorem taxes collected within a
+221 future tax increment district.
+222 (10) PROJECT PLAN. The properly approved plan by the
+223 public entity creating a tax increment district for the
+224 development, redevelopment, or revitalization of a tax
+Page 8
+
+development, redevelopment, or revitalization of a tax
+SB370 Engrossed
+225 increment district, including all properly approved amendments
+226 thereto.
+227 (11) PUBLIC ENTITY. Any municipality or county in the
+228 state.
+229 (12) TAX INCREMENT. That amount obtained by multiplying
+230 the total revenue derived from ad valorem taxes levied by all
+231 local taxing authorities on all taxable property within a tax
+232 increment district in any tax year by a fraction having a
+233 numerator equal to that tax year's market value of all taxable
+234 property in the district minus the tax increment base and a
+235 denominator equal to that tax year's equalized value of all
+236 taxable property in the district. In any tax year, a tax
+237 increment is positive if the tax increment base is less than
+238 the aggregate value of taxable property as equalized by the
+239 Department of Revenue; it is negative if the base exceeds that
+240 value.
+241 (13) TAX INCREMENT BASE. The aggregate value, as
+242 equalized by the Department of Revenue, of all taxable
+243 property located within a tax increment district on the date
+244 the district is created, determined as provided in Section
+245 11-99-5.
+246 (14) TAX INCREMENT DISTRICT. A contiguous geographic
+247 area within the boundaries of a public entity defined and
+248 created by resolution of the local governing body.
+249 (15) TAX INCREMENT FUND. A fund into which all tax
+250 increments not retained by a taxing authority as provided by
+251 Section 11-99-10(a) are paid, and from which money is
+252 disbursed to satisfy claims of holders of tax increment
+Page 9
+
+disbursed to satisfy claims of holders of tax increment
+SB370 Engrossed
+253 obligations issued for the tax increment district.
+254 (16) TAX INCREMENT OBLIGATIONS. Bonds, warrants, notes,
+255 or other evidences of indebtedness issued by a public entity
+256 to fund all or any project costs.
+257 (17) TAXABLE PROPERTY. All real and personal property
+258 located in a tax increment district which is subject to ad
+259 valorem taxation on the date of adoption of the resolution
+260 creating the tax increment district.
+261 (18) TAXING AUTHORITY.
+262 a. For tax increment districts in which not less than
+263 50 percent, by area, of the real property within the tax
+264 increment district is a blighted or economically distressed
+265 area, the term means any municipality, county, or other taxing
+266 authority that has the power to levy taxes on property within
+267 the tax increment districts.
+268 b. For tax increment districts in which not less than
+269 50 percent, by area, of the real property within the tax
+270 increment district is an enhanced use lease area, the term
+271 means the state or any municipality, county, or other taxing
+272 authority that has the power to levy taxes on property within
+273 the tax increment district.
+274 c. For tax increment districts in which not less than
+275 50 percent, by area, of the real property within the tax
+276 increment district is which include an area that a local
+277 governing body has determined to be a Major 21st Century
+278 Manufacturing Zone, the term means the state or any
+279 municipality, county, or other taxing authority that has the
+280 power to levy taxes on property within the tax increment
+Page 10
+
+power to levy taxes on property within the tax increment
+SB370 Engrossed
+281 district."
+282 "§11-99-4
+283 (a) In order to exercise its powers under this chapter,
+284 a public entity shall take the following steps:
+285 (1) The local governing body shall hold a public
+286 hearing at which all interested parties are afforded a
+287 reasonable opportunity to express their views on: (i) the
+288 concept of tax increment financing; (ii) the proposed creation
+289 of a tax increment district and its proposed boundaries; and
+290 (iii) its benefits to the public entity. Notice of the hearing
+291 shall be published in a newspaper of general circulation in
+292 either the county or in the city, as the case may be, in which
+293 the proposed tax increment district is to be located with
+294 notice to be published at least twice in the 15-day period
+295 immediately preceding the date of the hearing. Prior to
+296 publication, a copy of the notice shall be sent by first class
+297 mail to the chief executive officer of each deferred tax
+298 recipient.
+299 (2)a. In addition to the notice required by subdivision
+300 (1), and either before or after the public hearing, the local
+301 governing body shall make a written submission to the
+302 governing body of each deferred tax recipient. The submission
+303 shall include a description of the proposed boundaries of the
+304 tax increment district, the tentative plans for the
+305 development, redevelopment, or revitalization of the tax
+306 increment district, and an estimate of the general impact of
+307 the proposed project plan on property values and tax revenues.
+308 b. Not later than the 15th day after the date on which
+Page 11
+
+b. Not later than the 15th day after the date on which
+SB370 Engrossed
+309 the notice required by subdivision (1) is mailed, each
+310 deferred tax recipient shall designate a representative
+311 empowered to meet with the local governing body to discuss the
+312 project plan and the tax increment financing and shall notify
+313 the local governing body of its designation. Failure of any
+314 deferred tax recipient to designate a representative within
+315 the 15-day period, or to notify the local governing body of
+316 its designation, shall not prevent the local governing body
+317 from proceeding hereunder. If a deferred tax recipient who has
+318 failed to so designate a representative thereafter designates
+319 a representative and notifies the local governing body of the
+320 designation, the representative shall be entitled to notice of
+321 any meetings held thereafter pursuant to this section, and
+322 shall be entitled to attend the meetings, but shall have no
+323 right to have matters discussed again which have already been
+324 discussed.
+325 c. The local governing body shall call a meeting, or
+326 meetings, of the representatives of the deferred tax
+327 recipients to be held at any time after 20 days from the
+328 mailing notice referred to in subdivision (1). Each
+329 representative shall be notified of each meeting at least
+330 three days before the meeting is to be held, but notice may be
+331 waived. At the meetings, the local governing body and the
+332 representatives of the deferred tax recipients may discuss the
+333 boundaries of the tax increment district, development within
+334 the tax increment district, the exclusion of particular
+335 parcels of property from the district, and tax collection for
+336 the district. On the motion of the local governing body any
+Page 12
+
+the district. On the motion of the local governing body any
+SB370 Engrossed
+337 other matter relevant to the proposed tax increment district
+338 may be discussed.
+339 (3) The local governing body shall adopt a resolution,
+340 which need not be published, which does all of the following:
+341 a. Describes the boundaries of the tax increment
+342 district with sufficient definiteness to identify with
+343 ordinary and reasonable certainty the territory included. The
+344 description shall include only those whole units of property,
+345 other than publicly owned property such as streets, easements,
+346 and rights-of-way, assessed for general property tax purposes.
+347 If the public entity is a county, the description shall
+348 include only those areas that lie outside the corporate limits
+349 of any municipality, unless the governing body of a
+350 municipality has consented to the inclusion of land within its
+351 corporate limits within a tax increment district formed by a
+352 county.
+353 b. Creates the tax increment district as of a given
+354 date after the date of adoption of the resolution. The date of
+355 creation of the tax increment district may be a date
+356 subsequent to the date of expiration of the period of duration
+357 of an existing tax increment district of the public entity.
+358 c. Fixes the period for the duration of the tax
+359 increment district.
+360 1. The duration may be for a period not to exceed 30
+361 years from the date of creation of the tax increment district
+362 in the case of a tax increment district in which not less than
+363 50 percent, by area, of the real property within the tax
+364 increment district is a blighted or economically distressed
+Page 13
+
+increment district is a blighted or economically distressed
+SB370 Engrossed
+365 area.
+366 2. The duration may be for a period not to exceed 35
+367 years from the date of creation of the tax increment district
+368 in the case of a district in which not less than 50 percent,
+369 by area, of the real property within the tax increment
+370 district is an enhanced use lease area or which includes an
+371 area that a local governing body has determined to be a Major
+372 21st Century Manufacturing Zone, unless an amendment is made
+373 to the project plan under subdivision (7).
+374 d. Assigns a name to the tax increment district for
+375 identification purposes, such as "tax increment district
+376 number one."
+377 e. Contains findings, which shall not be subject to
+378 judicial review except after a showing of fraud, corruption,
+379 or undue influence, that:
+380 1. (A) Not less than 50 percent, by area, of the real
+381 property within the tax increment district is: (i) In need of
+382 rehabilitation, redevelopment, revitalization, or conservation
+383 work;, or (ii) an enhanced use lease area; or (iii)(B) the tax
+384 increment district includes an area that a local governing
+385 body has determined to be a Major 21st Century Manufacturing
+386 Zone; and
+387 2. The aggregate value of equalized taxable property in
+388 the tax increment district plus all existing tax increment
+389 districts created by the public entity does not exceed 10
+390 percent of the total value of equalized taxable property
+391 within the public entity or 50 percent if the public entity is
+392 a Class 2 or Class 3 municipality. Provided, however, that
+Page 14
+
+a Class 2 or Class 3 municipality. Provided, however, that
+SB370 Engrossed
+393 equalized taxable property located within the boundaries of a
+394 military reservation, jurisdiction over which has been ceded
+395 to the United States pursuant to Section 42-3-1, shall be
+396 excluded from aggregated value.
+397 (4)a. The local governmental body shall prepare and
+398 adopt a project plan for each tax increment district. The plan
+399 shall include all of the following:
+400 1. A statement listing the proposed projects,
+401 including, without limitation and if applicable, the kind,
+402 number, and location of all proposed public works or
+403 improvements or, in the case of a Major 21st Century
+404 Manufacturing Zone, public works or improvements or private
+405 improvements, within the district.
+406 2. A detailed list of estimated project costs.
+407 3. A description of the methods of financing all
+408 estimated project costs and the time when related costs or
+409 monetary obligations are to be incurred.
+410 4. A map showing existing uses and condition of real
+411 property in the district.
+412 5. A map or description showing proposed improvements
+413 and uses therein.
+414 6. Proposed changes of zoning, master map plan,
+415 building code, and other ordinances or resolutions affecting
+416 the district.
+417 7. A list of estimated nonproject costs.
+418 8. A proposed plan for the relocation of any families,
+419 individuals, and businesses to be temporarily or permanently
+420 displaced from housing or commercial facilities in the
+Page 15
+
+displaced from housing or commercial facilities in the
+SB370 Engrossed
+421 district by implementation of the plan.
+422 b. For purposes of this chapter, any work or
+423 improvement for a military installation and located within an
+424 enhanced use lease area shall be deemed to be for public uses
+425 and purposes.
+426 (5) The local governing body shall certify all of the
+427 following before approving the project plant:
+428 a. That a feasible method exists for the relocation and
+429 compensation of any individuals, families, and businesses that
+430 will be displaced by the project in decent, safe, and sanitary
+431 accommodations within their means and without undue hardship
+432 to such individuals, families, and businesses.
+433 b. That the project plan conforms to the applicable
+434 master plan of the local entity, if there is one.
+435 c. That the project plan will afford maximum
+436 opportunity, consistent with the sound needs of the public
+437 entity as a whole, for the rehabilitation, redevelopment, or
+438 revitalization of the tax increment district by private
+439 enterprise.
+440 (6) A copy of the project plan shall be mailed to the
+441 governing body of each deferred tax recipient, before approval
+442 of the project plan.
+443 (7) The local governing body may at any time adopt an
+444 amendment to a project plan by complying with the procedures
+445 for the original adoption of a project plan.
+446 (8) The public entity that created the tax increment
+447 district, and each deferred tax recipient with respect to the
+448 tax increment district, notwithstanding any provision in this
+Page 16
+
+tax increment district, notwithstanding any provision in this
+SB370 Engrossed
+449 chapter to the contrary, by written mutual agreement duly
+450 authorized, executed, and delivered thereby, may establish an
+451 advisory board for the tax increment district composed of the
+452 mayor or the chair of the county commission of the public
+453 entity, as appropriate, a member of the governing body of the
+454 public entity that represents the largest area in the tax
+455 increment district, and other members as the respective
+456 governing body, or its designee, of each deferred tax
+457 recipient may appoint; provided a majority of the members of
+458 an advisory board must be members of the governing body of the
+459 public entity.
+460 (b) Judicial review of a decision of a public entity
+461 related to a tax increment district shall be as provided by
+462 law."
+463 "§11-99-5
+464 (a) The tax increment base shall be determined as
+465 provided in this section.
+466 (b) Upon application in writing by the local finance
+467 officer, the tax assessor, or the officer of the county
+468 performing the duties of a tax assessor, for each county in
+469 which any part of the district is located shall determine,
+470 according to his or her best judgment from all sources
+471 available to him or her, the full aggregate value of the
+472 taxable property in the district located in that county as of
+473 the date of creation of the tax increment district. The
+474 aggregate valuation from all such tax assessors or other such
+475 public officials, upon certification to the local finance
+476 officer, shall constitute the tax increment base of the
+Page 17
+
+officer, shall constitute the tax increment base of the
+SB370 Engrossed
+477 district;, provided, however, if a public entity creates a
+478 district that is to succeed and continue the programs and
+479 project plans for redevelopment and revitalization of property
+480 in an existing tax increment district upon its expiration, the
+481 public entity and each deferred tax recipient with respect to
+482 the successor tax increment district, notwithstanding any
+483 provision in this chapter to the contrary, by written mutual
+484 agreement duly authorized, executed, and delivered thereby,
+485 may agree that the aggregate value of all taxable property
+486 included in both the expiring district and the successor
+487 district shall be the aggregate value of the taxable property
+488 as originally determined for the tax increment base of the
+489 expiring district as of the date of creation of the expiring
+490 district and without redetermination of the value of the
+491 taxable property as of the date of creation of the successor
+492 district or some other date.
+493 (c) If the public entity that created a tax increment
+494 district in which not less than 50 percent, by area, of the
+495 real property within the tax increment district is a blighted
+496 or economically distressed area adopts an amendment to the
+497 original project plan for the tax increment district that
+498 includes additional project costs for which tax increments may
+499 be received by the public entity, the tax increment base for
+500 the district shall not be redetermined.
+501 (d) If the public entity that created a tax increment
+502 district in which not less than 50 percent, by area, of the
+503 real property within the tax increment district is an enhanced
+504 use lease area or which includes an area that a local
+Page 18
+
+use lease area or which includes an area that a local
+SB370 Engrossed
+505 governing body has determined to be a Major 21st Century
+506 Manufacturing Zone adopts an amendment to the original project
+507 plan for the tax increment district that includes additional
+508 project costs for which tax increments may be received by the
+509 public entity or an expansion of the tax increment district,
+510 the tax increment base for the district shall not be
+511 redetermined.
+512 (e) There shall be a rebuttable presumption that any
+513 property within a tax increment district, acquired or leased
+514 as lessee by the public entity or any agency or
+515 instrumentality thereof within one year immediately preceding
+516 the date of the creation of the district, was so acquired or
+517 leased in contemplation of the creation of the district. The
+518 presumption may be rebutted by the public entity with proof
+519 that the property was so leased or acquired primarily for a
+520 purpose other than to reduce the tax increment base. If the
+521 presumption is not rebutted, in determining the tax increment
+522 base of the district, but for no other purpose, the taxable
+523 status of the property shall be determined as though the lease
+524 or acquisition had not occurred.
+525 (f) The local tax assessor or person performing his or
+526 her duties shall identify upon the tax records prepared by him
+527 or her under Chapter 7 of Title 40 those parcels of property
+528 which are within each existing tax increment district,
+529 specifying the name of each district. A similar notation shall
+530 also appear on the tax records made by the local finance
+531 officer.
+532 (g) The Department of Revenue shall annually give
+Page 19
+
+(g) The Department of Revenue shall annually give
+SB370 Engrossed
+533 notice to the designated finance officer of all taxing
+534 authorities levying taxes on property within each district as
+535 to both the assessed and equalized value of the property and
+536 the assessed and equalized value of the tax increment base.
+537 The notice shall state that the taxes collected in excess of
+538 the base will be paid to the public entity."
+539 "§11-99-6
+540 (a) Positive tax increments of a tax increment district
+541 shall be allocated and paid over to the public entity that
+542 created the district for each year commencing on the October 1
+543 following the date when the district is created until the
+544 earlier of:
+545 (1) That time, after: (i) The period of duration of the
+546 tax increment district, as established pursuant to this
+547 chapter, has expired,; and (ii) the completion of all projects
+548 and public improvements specified in, or purposes of, the
+549 project plan or amendments thereto, when the public entity has
+550 received aggregate tax increments from the district in an
+551 amount equal to the aggregate of all expenditures previously
+552 made or monetary obligations previously incurred for project
+553 costs for the district; or
+554 (2) Thirty-five years after the last expenditure
+555 identified in the project plan is made. No expenditure may be
+556 provided for in the project plan to be made more than five
+557 years after the district is created, except as may be provided
+558 in an amendment to the project plan, and except in Class 3
+559 municipalities where the expenditures may be made not more
+560 than 10 years thereafter if so provided and in tax increment
+Page 20
+
+than 10 years thereafter if so provided and in tax increment
+SB370 Engrossed
+561 districts in which not less than 50 percent, by area, of the
+562 real property within the tax increment district is an enhanced
+563 use lease area where the expenditures may be made not more
+564 than 15 years thereafter if so provided, unless an amendment
+565 is adopted by the local governing body under subdivision (7)
+566 of Section 11-99-4(7).
+567 (b) Notwithstanding any other provision of law, every
+568 officer charged by law to collect and pay over or retain local
+569 general property taxes in the case of a tax increment district
+570 in which not less than 50 percent, by area, of the real
+571 property within the tax increment district is a blighted or
+572 economically distressed area, or state and local general
+573 property taxes in the case of a tax increment district in
+574 which not less than 50 percent, by area, of the real property
+575 within the tax increment district is an enhanced use lease
+576 area or which includes an area that a local governing body has
+577 determined to be a Major 21st Century Manufacturing Zone,
+578 shall first, on the next settlement date provided by law, pay
+579 over to the local finance officer out of all the taxes that
+580 have been collected, that portion that represents a tax
+581 increment allocable to a tax increment district, identifying
+582 the amount for each district.
+583 (c) All tax increments received for a tax increment
+584 district, upon receipt by the local finance officer, shall be
+585 deposited into the tax increment fund for that district. The
+586 local finance officer may deposit additional monies into the
+587 fund pursuant to an appropriation by the local governing body.
+588 Monies shall be paid out of the fund only for direct payment
+Page 21
+
+Monies shall be paid out of the fund only for direct payment
+SB370 Engrossed
+589 of, or to reimburse the public entity for payments theretofore
+590 made by it for principal of or interest on tax increment
+591 obligations for that district if the obligations are general
+592 obligations of the public entity, or to satisfy claims of
+593 holders of tax increment obligations issued for that district,
+594 or for direct payment of, or to reimburse the public entity
+595 for payments theretofore made by the public entity that are
+596 used to pay project costs. Subject to any agreement with
+597 security holders, monies in the fund may be temporarily
+598 invested in the same manner as other surplus funds of the
+599 public entity. After the principal of and interest on all tax
+600 increment obligations of the district have been paid or
+601 provided for, subject to any agreement with security holders,
+602 if there remains in the fund any monies, they shall be paid
+603 over to the chief finance officer of the state, each county,
+604 each municipality, each school district, and to the general
+605 fund of the public entity in amounts as are due to each
+606 respectively, having due regard for what portion of these
+607 monies, if any, represents tax increments not allocated to the
+608 public entity and what portion thereof, if any, represents
+609 voluntary deposits of the public entity into the fund."
+610 Section 2. This act shall become effective immediately.
+Page 22
+
+Section 2. This act shall become effective immediately.
+SB370 Engrossed
+611
+612
+613 Senate
+614 Read for the first time and referred ................17-Mar-26
+615 to the Senate committee on Fiscal
+616 Responsibility and Economic
+617 Development
+618
+619 Read for the second time and placed ................19-Mar-26
+620 on the calendar:
+621 0 amendments
+622
+623 Read for the third time and passed ................31-Mar-26
+624 as amended
+625 Yeas 30
+626 Nays 0
+627 Abstains 0
+628
+629
+630 Patrick Harris,
+631 Secretary.
+632
+Page 23

@@ -1,0 +1,772 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB453 INTRODUCED
+1 HB453
+2 NRX4B8J-1
+3 By Representatives Fidler, Givens, Drummond, Hollis, Tillman,
+4 Chestnut, McClammy, Clarke, Collins, DuBose, Boyd, Shaver,
+5 Moore (M), Hulsey, Myrex, Paschal, Wilcox, Lamb, Morris,
+6 Givan, Nelson, Treadaway, Pettus, Gray, Sellers, Easterbrook,
+7 Gidley, Harrison, Travis, Fincher, Ensler, Jackson, Rigsby,
+8 Lomax, Datcher, Robertson, Hurst, Brown, Bracy, Lawrence,
+9 Brinyark, Estes, Oliver, Smith, Standridge, Ingram, Wood (R),
+10 Bolton, Mooney, Warren, Yarbrough, Starnes, Reynolds
+11 RFD: Insurance
+12 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+NRX4B8J-1 02/04/2026 JC (L)lg 2025-2724
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require that breast
+6 reconstruction be provided under all health insurance
+7 plans in the State of Alabama, including those covering
+8 public employees and the Medicaid program.
+9 This bill would permit an insured individual to
+10 choose the type of breast reconstruction desired and a
+11 particular surgeon to perform the reconstruction, who
+12 may be outside of the health insurance benefit plan
+13 network.
+14 For private health insurance, this bill would
+15 also set terms for cost-sharing obligations for
+16 enrollees and insurer payments to out-of-network
+17 providers.
+18 This bill would provide that an insured
+19 individual or a health care professional may bring a
+20 civil action if the insurer fails to comply with this
+21 act, with enforcement powers given to the Attorney
+22 General and the Commissioner of the Department of
+23 Insurance.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+HB453 INTRODUCED
+29
+30 Relating to health insurance; to add Chapter 50A,
+31 commencing with Section 27-50A-1, to Title 27, Code of Alabama
+32 1975, to require health benefit plans to cover breast
+33 reconstruction; to define the scope of breast reconstruction
+34 benefits and provide requirements for payments to health care
+35 providers; to amend Section 10A-20-6.16, Code of Alabama 1975,
+36 to make conforming changes; to amend Section 27-21A-23, Code
+37 of Alabama 1975, to make conforming changes; to amend Section
+38 16-25A-6, Code of Alabama 1975, to make conforming changes; to
+39 add Section 16-25A-6.1 to the Code of Alabama 1975, to require
+40 the Public Education Employees' Health Insurance Plan to cover
+41 breast reconstruction; to add Section 22-6-11.1 to the Code of
+42 Alabama 1975, to require Medicaid coverage for breast
+43 reconstruction; to add Section 36-29-4.1 to the Code of
+44 Alabama 1975, to require the State Employees' Health Insurance
+45 Plan to cover breast reconstruction; and to amend Section
+46 36-29-5, Code of Alabama 1975, to make conforming changes.
+47 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+48 Section 1. Chapter 50A, commencing with Section
+49 27-50A-1, is added to Title 27 of the Code of Alabama 1975, to
+50 read as follows:
+51 §27-50A-1
+52 The Legislature finds:
+53 (1) Breast cancer affects thousands of Alabama women
+54 annually and access to comprehensive reconstruction surgery is
+55 essential to physical and psychological recovery.
+56 (2) No woman residing in the State of Alabama should be
+Page 2
+
+(2) No woman residing in the State of Alabama should be
+HB453 INTRODUCED
+57 denied access to appropriate breast reconstruction surgery due
+58 to network limitations or excessive administrative
+59 requirements.
+60 (3) The State of Alabama has a compelling public health
+61 interest in fostering as broad an access as possible to breast
+62 reconstruction services and by this act seeks to ensure
+63 flexibility and patient choice in accessing breast
+64 reconstruction care that is both appropriate for the
+65 individual and comprehensive.
+66 §27-50A-2
+67 For the purposes of this chapter, the following terms
+68 have the following meanings:
+69 (1) BREAST RECONSTRUCTION. The medical repair of
+70 physical defects caused by the removal or treatment of breast
+71 tissue as a result of trauma, disease, lumpectomy, mastectomy,
+72 or prophylaxis against future disease, which has as its
+73 purpose the reconstruction of a new breast mound or a flat
+74 chest wall and the establishment of symmetry between two
+75 breasts, and which includes:
+76 a. Augmentation or reduction;
+77 b. All stages of preparatory, primary, and revision
+78 surgery to reconstruct a breast mound or to create a new
+79 breast mound;
+80 c. All necessary procedures for a non-diseased,
+81 contralateral breast to create symmetry between two breasts;
+82 d. Chest wall reconstruction, including, but not
+83 limited to, a flat closure that uses adjacent tissue transfer
+84 or complex repair to eliminate all redundancies of skin and
+Page 3
+
+or complex repair to eliminate all redundancies of skin and
+HB453 INTRODUCED
+85 soft tissue;
+86 e. Custom-fabricated breast prostheses, including, but
+87 not limited to, replacement of the breast prostheses;
+88 f. Hybrid procedures that involve both autologous
+89 breast reconstruction and biologic or synthetic products or
+90 devices; and
+91 g. Mechanical, medical, or surgical prophylaxis to
+92 prevent the physical complications of a mastectomy, breast
+93 conserving surgery, chest wall reconstruction, radiation, or
+94 lymph node surgery.
+95 h. Mechanical, medical, and surgical treatment of
+96 physical complications of a mastectomy, breast conserving
+97 surgery, chest wall reconstruction, radiation, or lymph node
+98 surgery.
+99 (2) COMMISSIONER. The Commissioner of the Department of
+100 Insurance of the State of Alabama.
+101 (3) CORE-BASED STATISTICAL AREA. A metropolitan or
+102 micropolitan statistical area as defined by the U.S. Office of
+103 Management and Budget.
+104 (4) COST-SHARING. An enrollee's payment obligation for
+105 a covered health care service, including a deductible,
+106 copayment, or coinsurance.
+107 (5) ENROLLEE. A patient who is covered under a health
+108 benefit plan.
+109 (6) HEALTH BENEFIT PLAN. Any individual or group plan,
+110 employee welfare benefit plan, policy, or contract for health
+111 care services issued, delivered, issued for delivery, or
+112 renewed in this state by a health care insurer, health
+Page 4
+
+renewed in this state by a health care insurer, health
+HB453 INTRODUCED
+113 maintenance organization, accident and sickness insurer,
+114 fraternal benefit society, nonprofit hospital service
+115 corporation, nonprofit medical service corporation, health
+116 care service plan, or any other person, firm, corporation,
+117 joint venture, or other similar business entity that pays for
+118 insureds or beneficiaries in this state. The term includes,
+119 but is not limited to, entities created pursuant to Article 6
+120 of Chapter 20 of Title 10A. A health benefit plan located or
+121 domiciled outside of the State of Alabama is deemed to be
+122 subject to this chapter if it receives, processes,
+123 adjudicates, pays, or denies claims for health care services
+124 submitted by or on behalf of patients, insureds, or
+125 beneficiaries who reside in Alabama. The term shall not
+126 include accident-only, specified disease, hospital indemnity,
+127 Medicare supplement, long-term care, disability income, or
+128 other limited benefit health insurance policies.
+129 (7) HEALTH CARE PROFESSIONAL. A physician, physician
+130 assistant, or certified registered nurse practitioner licensed
+131 pursuant to Title 34, including, but not limited to, a
+132 physician who performs plastic and reconstructive surgery or
+133 who is a referring or consulting physician providing oncology
+134 treatment or breast surgery, or an employee acting under the
+135 direction of the same.
+136 (8) HEALTH CARE SERVICES. The term includes, but is not
+137 limited to, all of the following:
+138 a. Health care professional services, including, but
+139 not limited to, consultation, diagnosis, treatment,
+140 anesthesia, surgery, and therapy.
+Page 5
+
+anesthesia, surgery, and therapy.
+HB453 INTRODUCED
+141 b. Prescription drugs.
+142 c. Facilities, including a hospital or ambulatory
+143 surgical treatment center.
+144 d. Prostheses and devices for breast reconstruction,
+145 including tissue expanders, customized implants, and nerve
+146 graft products, mesh, or repair products.
+147 (9) INSURER. The term includes all of the following:
+148 a. Any entity that issues, delivers, or renews a health
+149 benefit plan.
+150 b. Any department or office of the entity described in
+151 paragraph a., or any individual employed by the entity, which
+152 performs utilization review or makes determinations of prior
+153 authorization or coverage.
+154 c. Any separate entity or individual that is a
+155 contractor or agent of the entity described in paragraph a.
+156 which performs utilization review or makes determinations of
+157 prior authorization or coverage.
+158 (10) MODALITY, TYPE, AND TECHNIQUE. A method of breast
+159 reconstruction surgery that employs a modality such as an
+160 implant, natural tissue, or fat, or some combination of the
+161 foregoing, and includes any of the following types and
+162 techniques:
+163 a. Immediate implant-based, tissue-based, or combined
+164 reconstruction.
+165 b. Delayed implant-based, tissue-based, or combined
+166 reconstruction.
+167 c. Myocutaneous flap tissue-based reconstruction.
+168 d. Microvascular free flap tissue-based reconstruction.
+Page 6
+
+d. Microvascular free flap tissue-based reconstruction.
+HB453 INTRODUCED
+169 e. Structural fat grafting tissue-based breast
+170 reconstruction.
+171 f. Combined implant-based and tissue-based breast
+172 reconstruction.
+173 g. Any type of breast reconstruction that is developed
+174 subsequent to the effective date of this act that is
+175 recognized within Level I or Level II of the Healthcare Common
+176 Procedure Coding System (HCPCS) codes.
+177 h. All techniques and procedural variations,
+178 iterations, or approaches associated with a type of breast
+179 reconstruction, as noted within the short descriptor or
+180 description for the Level I Healthcare Common Procedure Coding
+181 System code covering the type of breast reconstruction.
+182 (11) NETWORK PROVIDER. A health care professional or
+183 facility that participates in the provider network of a
+184 health benefit plan to receive a contractually-established
+185 amount as payment in full for providing health care services.
+186 (12) OUT-OF-NETWORK PROVIDER. A health care
+187 professional or facility located anywhere in the United States
+188 which does not receive a contractually-established amount from
+189 an insurer or health benefit plan as payment in full for
+190 providing health care services.
+191 (13) PREVAILING MEDICAL STANDARD. The standards of care
+192 for breast reconstruction established by national specialty
+193 organizations, including the American Society of Plastic
+194 Surgeons, the American Society for Reconstructive
+195 Microsurgery, the American Society of Breast Surgeons, the
+196 National Comprehensive Cancer Network, and other
+Page 7
+
+National Comprehensive Cancer Network, and other
+HB453 INTRODUCED
+197 nationally-recognized medical specialty organizations, the
+198 members of which routinely perform breast reconstruction
+199 surgery.
+200 §27-50A-3
+201 (a) On and after January 1, 2027, a health benefit plan
+202 shall pay or reimburse for breast reconstruction, including
+203 all component health care services, subject to the
+204 requirements of this chapter.
+205 (b) Coverage for breast reconstruction shall include
+206 any modality, type, and technique chosen by an enrollee in
+207 consultation with her health care professional based on
+208 personal factors such as the enrollee's anatomy, health
+209 status, preference, lifestyle, and reconstruction goals.
+210 (c) Coverage shall include health care services for the
+211 breast reconstruction which are rendered by either a network
+212 or out-of-network provider as selected by an enrollee,
+213 provided that any surgeon shall be board certified or eligible
+214 for board certification in plastic and reconstructive surgery.
+215 (d) The modality, type, and technique of breast
+216 reconstruction chosen by an enrollee in consultation with her
+217 surgeon who meets the requirement of subsection (c) shall be
+218 presumed by the insurer to meet both: (i) prevailing medical
+219 standards; and (ii) the requirement of medical necessity for
+220 purposes of a request for prior authorization.
+221 (e) Coverage for breast reconstruction shall extend to
+222 all health care services that are necessary to achieve the
+223 breast reconstruction outcome determined appropriate by the
+224 the enrollee and her health care professional, including the
+Page 8
+
+the enrollee and her health care professional, including the
+HB453 INTRODUCED
+225 initial and all subsequent surgeries required by the modality,
+226 type, and technique and not limited with respect to any
+227 revision surgery, symmetry procedure, nipple reconstruction,
+228 lymphovenous bypass, tattooing, nerve grafting, scar revision,
+229 fat grafting, or treatment for a complication.
+230 §27-50A-4
+231 (a) An insurer shall respond to a request for prior
+232 authorization for breast reconstruction no later than three
+233 business days after the date and time of the submission of the
+234 request.
+235 (b)(1) An insurer may deny a request for prior
+236 authorization of a specific modality, type, and technique of
+237 breast reconstruction chosen by an enrollee in consultation
+238 with her health care professional if the conditions in this
+239 subsection are met.
+240 (2) Any determination of denial shall be made upon
+241 review of the request and all relevant clinical information by
+242 a health care professional who: (i) is board certified or
+243 eligible for board certification in plastic surgery and
+244 reconstructive surgery; and (ii) has specific training in the
+245 modality, type, and technique at issue.
+246 (3) The reviewing health care professional shall rebut
+247 the presumption of medical necessity recognized under Section
+248 27-50A-3(d) by providing to the enrollee and her health care
+249 professional articulable reasons in writing that support a
+250 conclusion that: (i) the modality, type, and technique
+251 proposed fails to comport with prevailing medical standards;
+252 or (ii) clinical considerations unique to the enrollee make
+Page 9
+
+or (ii) clinical considerations unique to the enrollee make
+HB453 INTRODUCED
+253 the enrollee a poor candidate for the modality, type, and
+254 technique requested.
+255 (4) An enrollee or health care professional whose
+256 request for prior authorization is denied may appeal the
+257 denial in the internal appeal process afforded by the insurer,
+258 provided the appeal is determined by a health care
+259 professional who did not perform the initial review but who
+260 otherwise meets the requirements of subdivision (2).
+261 (5) A health care professional acting on behalf of an
+262 insurer, who meets the requirements of subdivision (2), while
+263 a denial of prior authorization is under consideration, or
+264 pursuant to an appeal of a denial of prior authorization under
+265 subdivision (4), shall provide a direct telephone number to
+266 the enrollee's health care professional, and may request or
+267 shall consider additional clinical information concerning the
+268 enrollee for purposes of review.
+269 (c) An insurer may not deny a request for prior
+270 authorization of the modality, type, and technique of breast
+271 reconstruction chosen by the enrollee in consultation with her
+272 health care professional on any of the following grounds:
+273 (1) A different modality, type, and technique of breast
+274 reconstruction is also appropriate for the enrollee, in
+275 absence of articulable reasons required under subdivision
+276 (b)(3).
+277 (2) The health care services required in providing
+278 coverage, including the plastic surgeon or facility, are
+279 out-of-network, unless the individual or facility proposed to
+280 render the health care service is outside of the United States
+Page 10
+
+render the health care service is outside of the United States
+HB453 INTRODUCED
+281 or does not hold the necessary professional or other license
+282 under the law of the state where the individual or facility is
+283 located.
+284 (3) The modality, type, and technique of breast
+285 reconstruction requested by the enrollee or her health care
+286 professional is more expensive than the modality, type, and
+287 technique or the related health care services proposed by the
+288 insurer.
+289 §27-50A-5
+290 (a) An enrollee's cost-sharing obligations for breast
+291 reconstruction shall not exceed the health benefit plan's
+292 rates that apply to network providers for comparable coverages
+293 under the plan, and an enrollee who receives health care
+294 services for breast reconstruction from health care
+295 professionals, facilities, or other services that are
+296 out-of-network shall pay in-network cost-sharing rates.
+297 (b) Other coverages provided under the health benefit
+298 plan may not be limited or reduced as a result of including in
+299 the plan the coverage described in this chapter.
+300 (c) If an enrollee receives coverage for breast
+301 reconstruction, the enrollee's contractual right to other
+302 coverages or benefits available under the health benefit plan
+303 may not in any way be reduced or limited, nor may receiving
+304 coverage for breast reconstruction render an enrollee
+305 ineligible to renew coverage under the plan.
+306 (d) The requirements of this chapter apply regardless
+307 of whether the health benefit plan otherwise provides coverage
+308 for out-of-network services or contains any provision that
+Page 11
+
+for out-of-network services or contains any provision that
+HB453 INTRODUCED
+309 purports to limit or exclude out-of-network coverage.
+310 §27-50A-6
+311 (a)(1) A health benefit plan may not impose a
+312 requirement that an enrollee receive breast reconstruction
+313 health care services from a network provider as a condition
+314 for coverage.
+315 (2) An insurer shall approve the choice of an enrollee
+316 to receive health care services from a health care
+317 professional who is an out-of-network provider, unless the
+318 individual proposed to render the service does not hold the
+319 necessary professional license under the law of the state
+320 where the entity or individual is located.
+321 (3) The requirement of subdivision (2) applies to an
+322 out-of-network hospital or facility in which surgery is to be
+323 performed if the hospital or facility complies with the
+324 applicable licensure or certification requirements under
+325 federal law and the law of the state where the hospital or
+326 facility is located.
+327 (b) With respect to a surgeon who is an out-of-network
+328 provider chosen by an enrollee, an insurer may not do any of
+329 the following:
+330 (1) Undertake any communication or action, or impose
+331 any provision, that has the effect of discouraging the
+332 enrollee from choosing the surgeon, including any incentive,
+333 disincentive, or penalty related to the enrollee's health
+334 benefit plan coverage.
+335 (2) Require the enrollee to first consult with or
+336 consider a surgeon who is a network provider.
+Page 12
+
+consider a surgeon who is a network provider.
+HB453 INTRODUCED
+337 (3) Undertake any communication or action, or impose
+338 any provision, that has the effect of steering the enrollee to
+339 choose a surgeon who is a network provider, including any
+340 incentive, disincentive, or penalty related to the enrollee's
+341 health benefit plan coverage.
+342 (4) Impose additional administrative, licensure,
+343 certification, or qualification requirements, including
+344 documentation, in excess of what is required for
+345 out-of-network providers for other coverages under the health
+346 benefit plan.
+347 (c) An insurer may not use any indirect means to
+348 prevent, disincentivize, or discourage an enrollee from
+349 receiving a health care service from an out-of-network
+350 provider, including influencing, inducing, or pressuring a
+351 hospital or other facility to require a surgeon to be a
+352 network provider of the insurer as a condition for obtaining
+353 or maintaining medical staff privileges to perform breast
+354 reconstruction.
+355 §27-50A-7
+356 An insurer may not withdraw an approval of prior
+357 authorization for breast reconstruction communicated to a
+358 health care professional or enrollee, nor may an insurer
+359 refuse or fail to reimburse a health care professional for a
+360 health care service after it has communicated the approval of
+361 prior authorization, unless an enrollee or health care
+362 provider made a misrepresentation by statement or omission to
+363 the insurer which was material to the approval of prior
+364 authorization.
+Page 13
+
+authorization.
+HB453 INTRODUCED
+365 §27-50A-8
+366 (a) If a health care service included in breast
+367 reconstruction is rendered by an out-of-network provider, this
+368 section shall govern the rate of reimbursement.
+369 (b) If an enrollee selects an out-of-network provider,
+370 the insurer shall initiate single case agreement negotiations
+371 with the provider according to all of the following
+372 conditions:
+373 (1) The insurer shall initiate negotiations with the
+374 provider within five business days of receiving notice of the
+375 enrollee's selection.
+376 (2) The insurer and the provider shall have 10 business
+377 days from initiation of negotiations to agree on reimbursement
+378 terms.
+379 (3) If the insurer and provider reach agreement, the
+380 agreed terms shall govern reimbursement for the health care
+381 services covered by the single case agreement.
+382 (4) If the insurer fails to initiate negotiations
+383 within the time required, fails to negotiate in good faith, or
+384 the insurer and provider do not reach agreement within 10
+385 business days, the payment provisions of subsection (c) shall
+386 govern the rate of reimbursement.
+387 (5) An insurer's failure to respond to a provider's
+388 communication within two business days during the negotiating
+389 period shall be deemed a failure to negotiate in good faith.
+390 (c) If the conditions provided in subsection (b) are
+391 not met, the health benefit plan shall reimburse the provider
+392 an amount that is the lesser of:
+Page 14
+
+an amount that is the lesser of:
+HB453 INTRODUCED
+393 (1) The provider's billed charges; or
+394 (2) The 80th percentile of all charges for the same
+395 provider service in the same core-based statistical area in
+396 which the provider service is performed, as reported in a
+397 database that is maintained by a nonprofit organization that
+398 is unaffiliated or not otherwise financially supported by any
+399 insurer.
+400 (d) If the health benefit plan fails to reimburse an
+401 out-of-network provider as required under subsection (a), in
+402 addition to making the required payment, the health benefit
+403 plan shall pay the out-of-network provider an amount that is
+404 treble the difference between:
+405 (1) The initial reimbursement, or in the case of denial
+406 of payment, zero dollars ($0); and
+407 (2) The reimbursement rate required under subsection
+408 (c) less any cost-sharing amount to be paid by the insured.
+409 (e) The payment required under subsection (d) shall be
+410 subject to interest at a rate to be specified by rule adopted
+411 by the department.
+412 §27-50A-9
+413 If an enrollee who has received prior authorization for
+414 breast reconstruction subsequently enrolls in a different
+415 health benefit plan offered by the same insurer, or in a
+416 health benefit plan offered by a different insurer, any health
+417 care service necessary to achieve the breast reconstruction
+418 outcome determined appropriate by the enrollee and her health
+419 care professional, including any health care service for
+420 revision or to treat a complication, shall be covered.
+Page 15
+
+revision or to treat a complication, shall be covered.
+HB453 INTRODUCED
+421 §27-50A-10
+422 (a) An enrollee or health care professional who is
+423 injured as a result of an insurer's failure to comply with
+424 this chapter may bring a civil action against the insurer in
+425 the Circuit Court of Montgomery County or in the circuit court
+426 of the county where the enrollee resides.
+427 (b) In an action brought under this section, the court
+428 may award to the plaintiff any of the following:
+429 (1) Injunctive relief.
+430 (2) Compensatory damages.
+431 (3) Treble damages upon a finding that failure of an
+432 insurer to comply with this chapter was knowing or in reckless
+433 disregard of the provisions of this chapter.
+434 (4) Reasonable costs and attorney fees.
+435 (c) An action brought under this section may be
+436 predicated upon any common law or statutory cause of action,
+437 including breach of contract or any applicable tort, including
+438 fraud or bad faith, or a deceptive trade practice under
+439 Chapter 19 of Title 8.
+440 §27-50A-11
+441 The commissioner and the Attorney General have
+442 concurrent jurisdiction to enforce this chapter, to include
+443 any of the following measures:
+444 (1) The commissioner may investigate complaints or
+445 conduct compliance audits pursuant to Article 1 of Chapter 2.
+446 (2) The Attorney General may investigate complaints
+447 pursuant to Section 8-19-9 and cooperate with the department
+448 in conducting investigations.
+Page 16
+
+in conducting investigations.
+HB453 INTRODUCED
+449 (3) The commissioner or the Attorney General may bring
+450 a civil action against an insurer in the Circuit Court of
+451 Montgomery County for injunctive relief to enforce compliance
+452 with this chapter, or in a representative capacity on behalf
+453 of aggrieved enrollees to include recovery of compensatory
+454 damages.
+455 (4) The commissioner or the Attorney General may
+456 intervene as a plaintiff in any private action brought under
+457 Section 27-50A-10 if the issues raised are broad or
+458 significant enough in application to be in the public
+459 interest.
+460 §27-50A-12
+461 (a) An insurer shall provide a written notice to an
+462 enrollee which contains a summary of the enrollee's rights
+463 under this chapter when any of the following occurs:
+464 (1) Upon initial enrollment in a health benefit plan.
+465 (2) Upon annual renewal of a health benefit plan.
+466 (3) Within five business days of the insurer receiving
+467 notice that an enrollee has been diagnosed with breast cancer
+468 or has undergone a mastectomy or lumpectomy.
+469 (b)(1) The notice required under subsection (a) shall
+470 include, at a minimum, a plain-language summary of the
+471 enrollee's right: (i) to choose any qualified plastic surgeon
+472 for breast reconstruction; (ii) to receive coverage for health
+473 care services from out-of-network providers at in-network
+474 cost-sharing rates; and (iii) to appeal any denial of
+475 coverage.
+476 (2) The commissioner shall develop a model notice for
+Page 17
+
+(2) The commissioner shall develop a model notice for
+HB453 INTRODUCED
+477 use by an insurer to comply with this section.
+478 §27-50A-13
+479 The commissioner shall adopt rules to implement and
+480 administer this chapter.
+481 Section 2. Sections 10A-20-6.16 and 27-21A-23, Code of
+482 Alabama 1975, are amended to read as follows:
+483 "§10A-20-6.16
+484 (a) No statute of this state applying to insurance
+485 companies shall be applicable to any corporation organized
+486 under this article and amendments thereto or to any contract
+487 made by the corporation; except the corporation shall be
+488 subject to the following:
+489 (1) The provisions regarding annual premium tax to be
+490 paid by insurers on insurance premiums.
+491 (2) Chapter 55 of Title 27.
+492 (3) Article 2 and Article 3 of Chapter 19 of Title 27.
+493 (4) Section 27-1-17.
+494 (5) Chapter 56 of Title 27.
+495 (6) Rules adopted by the Commissioner of Insurance
+496 pursuant to Sections 27-7-43 and 27-7-44.
+497 (7) Chapter 54 of Title 27.
+498 (8) Chapter 57 of Title 27.
+499 (9) Chapter 58 of Title 27.
+500 (10) Chapter 59 of Title 27.
+501 (11) Chapter 54A of Title 27.
+502 (12) Chapter 12A of Title 27.
+503 (13) Chapter 2B of Title 27.
+504 (14) Chapter 29 of Title 27.
+Page 18
+
+(14) Chapter 29 of Title 27.
+HB453 INTRODUCED
+505 (15) Chapter 62 of Title 27.
+506 (16) Chapter 63 of Title 27.
+507 (17) Chapter 45A of Title 27.
+508 (18) Chapter 50A of Title 27.
+509 (b) The provisions in subsection (a) that require
+510 specific types of coverage to be offered or provided shall not
+511 apply when the corporation is administering a self-funded
+512 benefit plan or similar plan, fund, or program that it does
+513 not insure."
+514 "§27-21A-23
+515 (a) Except as otherwise provided in this chapter,
+516 provisions of the insurance law and provisions of health care
+517 service plan laws shall not be applicable to any health
+518 maintenance organization granted a certificate of authority
+519 under this chapter. This provision shall not apply to an
+520 insurer or health care service plan licensed and regulated
+521 pursuant to the insurance law or the health care service plan
+522 laws of this state except with respect to its health
+523 maintenance organization activities authorized and regulated
+524 pursuant to this chapter.
+525 (b) Solicitation of enrollees by a health maintenance
+526 organization granted a certificate of authority shall not be
+527 construed to violate any provision of law relating to
+528 solicitation or advertising by health professionals.
+529 (c) Any health maintenance organization authorized
+530 under this chapter shall not be deemed to be practicing
+531 medicine and shall be exempt from the provisions of Section
+532 34-24-310, et seq., relating to the practice of medicine.
+Page 19
+
+34-24-310, et seq., relating to the practice of medicine.
+HB453 INTRODUCED
+533 (d) No person participating in the arrangements of a
+534 health maintenance organization other than the actual provider
+535 of health care services or supplies directly to enrollees and
+536 their families shall be liable for negligence, misfeasance,
+537 nonfeasance, or malpractice in connection with the furnishing
+538 of such services and supplies.
+539 (e) Nothing in this chapter shall be construed in any
+540 way to repeal or conflict with any provision of the
+541 certificate of need law.
+542 (f) Notwithstanding the provisions of subsection (a), a
+543 health maintenance organization shall be subject to all of the
+544 following:
+545 (1) Section 27-1-17.
+546 (2) Chapter 56.
+547 (3) Chapter 54.
+548 (4) Chapter 57.
+549 (5) Chapter 58.
+550 (6) Chapter 59.
+551 (7) Rules adopted by the Commissioner of Insurance
+552 pursuant to Sections 27-7-43 and 27-7-44.
+553 (8) Chapter 12A.
+554 (9) Chapter 54A.
+555 (10) Chapter 2B.
+556 (11) Chapter 29.
+557 (12) Chapter 62.
+558 (13) Chapter 63.
+559 (14) Chapter 45A.
+560 (15) Chapter 50A."
+Page 20
+
+(15) Chapter 50A."
+HB453 INTRODUCED
+561 Section 3. Sections 16-25A-6 and 36-29-5, Code of
+562 Alabama 1975, are amended to read as follows:
+563 "§16-25A-6
+564 Such health insuranceThe Public Education Employees'
+565 Health Insurance Plan shall not include coverage for any of
+566 the following:
+567 (1) Expenses incurred by or on account of an individual
+568 prior to the effective date of the plan as to him;.
+569 (2) Hearing aids and examinations for the prescription
+570 or fitting thereof;-.
+571 (3) Cosmetic surgery or treatment, except to the extent
+572 necessary for correction of damage caused by accidental injury
+573 or for breast reconstruction as required pursuant to Section
+574 16-25A-6.1 while covered by the plan, or as a direct result of
+575 disease covered by the plan;.
+576 (4) Services received in a hospital owned or operated
+577 by the United States government for which no charge is made;.
+578 (5) Services received for injury or sickness due to war
+579 or any act of war, whether declared or undeclared, which war
+580 or act of war shall have occurred after the effective date of
+581 this plan;.
+582 (6) Expenses for which the individual is not required
+583 to make payment;.
+584 (7) Expenses to the extent of benefits provided under
+585 any employer group plan other than this plan in which the
+586 state participates in the cost thereof;.
+587 (8) Such other expenses as may be excluded by
+588 regulationsrule of the board; and.
+Page 21
+
+regulationsrule of the board; and.
+HB453 INTRODUCED
+589 (9) Coordination of benefit of basic hospital/medical
+590 coverage provided herein and any supplemental hospital
+591 indemnity, cancer or dental coverage provided herein under the
+592 provisions of this article or as may privately be purchased by
+593 any employee."
+594 "§36-29-5
+595 (a) Such health insuranceThe State Employees' Health
+596 Insurance Plan shall not include coverage for any of the
+597 following:
+598 (1) Expenses incurred by or on account of an individual
+599 prior to the effective date of the plan.
+600 (2) Cosmetic surgery or treatment, except to the extent
+601 necessary for correction of damages caused by accidental
+602 injury or for breast reconstruction as required pursuant to
+603 Section 36-29-4.1while covered by the plan, or as a direct
+604 result of disease covered by the plan.
+605 (3) Services received in a hospital owned or operated
+606 by the United States government for which no charge is made.
+607 (4) Services received for injury or sickness due to war
+608 or any act of war, whether declared or undeclared, which war
+609 or act of war shall have occurred after the effective date of
+610 this plan.
+611 (5) Expenses for which the individual is not required
+612 to make payment.
+613 (6) Expenses to the extent of benefits provided under
+614 any employer group plan other than the plan in which the state
+615 participates in the cost thereof.
+616 (7) Such other expenses as may be excluded by
+Page 22
+
+(7) Such other expenses as may be excluded by
+HB453 INTRODUCED
+617 regulationsrule of the board.
+618 (b) This section shall not mandate the coverage of
+619 hearing assistance devices except that the State Employees'
+620 Health Insurance Board may determine by a majority vote of the
+621 board to cover such expenses in part or in whole on or after
+622 April 11, 2000."
+623 Section 4. Sections 16-25A-6.1, 22-6-11.1, and
+624 36-29-4.1 are added to the Code of Alabama 1975, to read as
+625 follows:
+626 §16-25A-6.1
+627 (a) On and after January 1, 2027, the Public Education
+628 Employees' Health Insurance Plan shall provide coverage for
+629 breast reconstruction subject to the same terms and conditions
+630 as those provided in Chapter 50A of Title 27.
+631 (b) If there is a conflict between this chapter and
+632 Chapter 50A of Title 27, this chapter shall be given effect.
+633 §22-6-11.1
+634 (a) The Alabama Medicaid Agency shall provide coverage
+635 for breast reconstruction as defined in Section 27-50A-2 to
+636 any woman who is accepted for participation in a Medicaid
+637 program for delivery of medical services which exists on the
+638 effective date of this act.
+639 (b) Breast reconstruction benefits shall commence on
+640 and after January 1, 2027, and to the degree consistent with
+641 this chapter, Medicaid rules, and policies, including those
+642 governing Medicaid-approved providers, shall be according to
+643 the same coverage provided in Chapter 50A of Title 27.
+644 (c) The Alabama Medicaid Agency may adopt rules to
+Page 23
+
+(c) The Alabama Medicaid Agency may adopt rules to
+HB453 INTRODUCED
+645 implement this section.
+646 §36-29-4.1
+647 (a) On and after January 1, 2027, the State Employees'
+648 Health Insurance Plan shall provide coverage for breast
+649 reconstruction subject to the same terms and conditions as
+650 those provided in Chapter 50A of Title 27.
+651 (b) If there is a conflict between this chapter and
+652 Chapter 50A of Title 27, this chapter shall be given effect.
+653 Section 5. This act shall become effective on October
+654 1, 2026.
+Page 24

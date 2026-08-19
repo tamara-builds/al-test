@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 294
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+XD5WW77-1 01/28/2026 THR (H) HSE 2025-2495
+House Public Safety and Homeland Security Reported
+Substitute for HB274
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to crimes and offenses; to add Section
+10 13A-7-94.1 to the Code of Alabama 1975; to authorize the
+11 Department of Corrections to take certain actions regarding
+12 unmanned aircraft systems.
+13 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+14 Section 1. Section 13A-7-94.1 is added to the Code of
+15 Alabama 1975, to read as follows:
+16 §13A-7-94.1
+17 (a) The Department of Corrections may take reasonable
+18 and necessary measures against an unmanned aircraft system
+19 operating in violation of this article, including, but not
+20 limited to, all of the following measures:
+21 (1) Jamming, to the extent consistent with federal law
+22 and regulations, including those of the Federal Communications
+23 Commission.
+24 (2) Hacking.
+25 (3) Physical capture.
+26 (4) Any other reasonable mitigation measure undertaken
+27 to neutralize, intercept, disable, or disrupt an unmanned
+28 aircraft system.
+Page 1
+
+aircraft system.
+XD5WW77-1 01/28/2026 THR (H) HSE 2025-2495
+House Public Safety and Homeland Security Reported
+Substitute for HB274
+29 (b) This section shall not be construed to eliminate,
+30 alter, or otherwise modify any other immunity or defense
+31 available to the Department of Corrections or its officers,
+32 employees, or agents established by law.
+33 Section 2. This act shall become effective on June 1,
+34 2026.
+Page 2

@@ -1,0 +1,1077 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB265 ENGROSSED
+1 SB265
+2 QNGMY41-2
+3 By Senators Jones, Waggoner, Kitchens, Kelley, Smitherman,
+4 Singleton, Chesteen, Bell, Albritton, Melson, Butler, Allen,
+5 Stewart, Figures, Coleman-Madison, Williams, Gudger
+6 RFD: Fiscal Responsibility and Economic Development
+7 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+SB265 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to tax abatements and economic development; to
+10 amend Sections 40-9B-3, 40-9B-4, and 40-9B-4.1, Code of
+11 Alabama 1975, relating to tax abatements for data processing
+12 centers; and to amend Section 40-23-35, Code of Alabama 1975,
+13 relating to the distribution of sales taxes; to limit the
+14 maximum exemption period for abatements available to data
+15 processing centers to 20 years beginning January 1, 2027; to
+16 provide for the collection of the state noneducational ad
+17 valorem taxes and sales and use tax levied pursuant to Chapter
+18 23 of this title on purchases of building materials, building
+19 fixtures, structural components, real property improvements,
+20 power infrastructure for transformation, distribution, or
+21 management of electricity, backup power generation systems,
+22 and battery systems made by certain large data processing
+23 centers beginning January 1, 2027; to extend the sunset date
+24 applicable to abatements for data processing centers; and to
+25 make nonsubstantive, technical revisions to update existing
+26 code language to current style.
+27 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+28 Section 1. Sections 40-9B-3, 40-9B-4, and 40-9B-4.1,
+Page 1
+
+Section 1. Sections 40-9B-3, 40-9B-4, and 40-9B-4.1,
+SB265 Engrossed
+29 Code of Alabama 1975, are amended to read as follows:
+30 "§40-9B-3
+31 (a) For purposes of this chapter, the following words
+32 and phrases mean:
+33 (1) ABATE, ABATEMENT. A reduction or elimination of a
+34 taxpayer's liability for tax or payments required to be made
+35 in lieu thereof. An abatement of transaction taxes imposed
+36 under Chapter 23 of this title, or payments required to be
+37 made in lieu thereof, shall relieve the seller from the
+38 obligation to collect and pay over the transaction tax as if
+39 the sale were to a person exempt, to the extent of the
+40 abatement, from the transaction tax.
+41 (2) ALTERNATIVE ENERGY RESOURCES. The definition given
+42 in Section 40-18-1.
+43 (3) CONSTRUCTION RELATED TRANSACTION TAXES. The
+44 transaction taxes imposed by Chapter 23 of this title, or
+45 payments required to be made in lieu thereof, on tangible
+46 personal property and taxable services incorporated into an
+47 industrial development property, the cost of which may be
+48 added to capital account with respect to the property,
+49 determined without regard to any rule which permits
+50 expenditures properly chargeable to capital account to be
+51 treated as current expenses.
+52 (4) DATA PROCESSING CENTER. An establishment at which
+53 not less than 20 new jobs are located, the average annual
+54 total compensation, including benefits, of such new jobs to be
+55 not less than forty thousand dollars ($40,000) and such
+56 establishment is engaged in the provision of complete
+Page 2
+
+establishment is engaged in the provision of complete
+SB265 Engrossed
+57 processing and specialized reports from data, the provision of
+58 automated data processing and data entry services, the
+59 provision of an infrastructure for hosting or data processing
+60 services, the provision of specialized hosting activities, the
+61 provision of application service provisioning, the provision
+62 of general time-share mainframe facilities, the provision or
+63 operation of computer equipment or enabling software for the
+64 processing, storage, backup, retrieval, communication, or
+65 distribution of data, or some combination of the foregoing,
+66 without regard to whether any other activities are conducted
+67 at the establishment.
+68 (5) EDUCATION TAXES. Ad valorem taxes, or payments
+69 required to be made in lieu thereof, that must, pursuant to
+70 the Constitution of Alabama of 1901, as amended, legislative
+71 act, or the resolution or other action of the governing board
+72 authorizing the tax, be used for educational purposes or for
+73 capital improvements for education and local construction
+74 related transaction taxes levied for educational purposes or
+75 for capital improvements for education.
+76 (6) HEADQUARTERS FACILITY. Any trade or business
+77 described in NACIS Code 551114, at which not less than 50 new
+78 jobs are located.
+79 (7) HYDROPOWER PRODUCTION. The definition given in
+80 Section 40-18-1.
+81 (8) INDUCEMENT. Refers to an agreement, or an
+82 "inducement agreement," entered into between a private user
+83 and a public authority or county or municipal government
+84 and/or a resolution or other official action, an "inducement
+Page 3
+
+and/or a resolution or other official action, an "inducement
+SB265 Engrossed
+85 resolution," "inducement letter," or "official action" adopted
+86 by a public authority or county or municipal government, in
+87 each case expressing, among other things, the present intent
+88 of such public authority or county or municipal government to
+89 issue bonds in connection with the private use property
+90 therein described. Notwithstanding any provision in this
+91 chapter to the contrary, neither an inducement nor a request
+92 for inducement shall be required to apply for, grant, or
+93 receive any abatement of taxes allowed to be abated under this
+94 chapter.
+95 (9) INDUSTRIAL DEVELOPMENT PROPERTY. Real and/or
+96 personal property acquired in connection with establishing or
+97 expanding an industrial or research enterprise in Alabama.
+98 (10) INDUSTRIAL OR RESEARCH ENTERPRISE.
+99 a. Any trade or business predominately consisting of
+100 any one or more of the following:
+101 1. Described by NAICS Code 1133, 115111, 2121, 22111,
+102 221330, 31 (other than 311811), 32, 33, 423, 424, 482, 4862,
+103 48691, 48699, 48819, 4882, 4883 (other than 48833), 493, 511,
+104 5121 (other than 51213), 51221, 517, 518 (without regard to
+105 the premise that data processing and related services be
+106 performed in conjunction with a third party), 51913, 52232,
+107 54133 (if predominantly in furtherance of another activity
+108 described in this article), 54134 (if predominantly in
+109 furtherance of another activity described in this article),
+110 54138, 5415, 541614, 5417, 55 (if not for the production of
+111 electricity), 561422 (other than establishments that originate
+112 telephone calls), 562213, 56291, 56292, 611512, 927, or 92811.
+Page 4
+
+telephone calls), 562213, 56291, 56292, 611512, 927, or 92811.
+SB265 Engrossed
+113 2. A target of the state's economic development efforts
+114 pursuant to either of the following:
+115 (i) The Accelerate Alabama Strategic Economic
+116 Development Plan adopted in January 2012 by the Alabama
+117 Economic Development Alliance, created by Executive Order
+118 Number 21 of the Governor on July 18, 2011, or any amended
+119 version or successor document thereto; or
+120 (ii) A type listed in a regulation adopted by the
+121 Department of Commerce, other than a regulation submitted as
+122 an emergency rule.
+123 Notwithstanding the foregoing, the activities described
+124 in this definition shall not predominantly concern farming
+125 activities involving trees, animals or crops, nor the retail
+126 sale of tangible personal property or services. This provision
+127 shall not be deemed to exclude customer service centers or
+128 call centers otherwise allowed or provided for herein.
+129 b. With respect to abatements granted in accordance
+130 with Section 40-9B-9, and only with respect to such
+131 abatements, "industrial or research enterprise" means any
+132 trade or business described in NAICS Code 493, 488310, or
+133 488320, when such trade or business is conducted on premises
+134 in which the Alabama State Port Authority has an ownership,
+135 leasehold, or other possessory interest and such premises are
+136 used as part of the operations of the Alabama State Port
+137 Authority.
+138 c. "Industrial or research enterprise" includes the
+139 above-described trades and business and any others as may
+140 hereafter be reclassified in any subsequent publication of the
+Page 5
+
+hereafter be reclassified in any subsequent publication of the
+SB265 Engrossed
+141 NAICS or similar industry classification system developed in
+142 conjunction with the United States Department of Commerce or
+143 Office of Management and Budget.
+144 d. "Industrial or research enterprise" also includes
+145 any underground natural gas storage facility which is located
+146 in the Gulf Opportunity Zone, as that phrase is defined in the
+147 Gulf Opportunity Zone Act of 2005, developed from existing
+148 geologic reservoirs, including, without limitation, salt
+149 domes, and placed in service on or before December 31, 2013.
+150 e. "Industrial or research enterprise" also includes
+151 any plant, property, or facility that meets both of the
+152 following:
+153 1. It produces electricity from:
+154 (i) Alternative energy resources and has capital costs
+155 of at least one hundred million dollars ($100,000,000); or
+156 (ii) Hydropower production and has capital costs of at
+157 least five million dollars ($5,000,000).
+158 2. All or a portion of the plant, property, or facility
+159 is owned by one or more of the following:
+160 (i) A utility described in Section 37-4-1(7)a.,
+161 (ii) An entity organized under the provisions of
+162 Chapter 6 of Title 37,
+163 (iii) An authority both organized and existing pursuant
+164 to the provisions of Chapter 50A of Title 11 and subject to
+165 the payments required to be made in lieu of ad valorem, sales,
+166 use, license, and severance taxes imposed by Section 11-50A-7,
+167 or
+168 (iv) An entity in which one or more of the foregoing
+Page 6
+
+(iv) An entity in which one or more of the foregoing
+SB265 Engrossed
+169 owns an interest.
+170 f. "Industrial or research enterprise" also includes
+171 any headquarters facility.
+172 g. "Industrial or research enterprise" also includes
+173 any data processing center.
+174 h. "Industrial or research enterprise" also includes
+175 any research and development facility.
+176 i. "Industrial or research enterprise" also includes
+177 any renewable energy facility.
+178 j. "Industrial or research enterprise" also includes
+179 any tourism destination attraction.
+180 (11) MAJOR ADDITION. Any addition to an existing
+181 industrial development property that equals the lesser of: 30
+182 percent of the original cost of the industrial development
+183 property or two million dollars ($2,000,000). For purposes of
+184 this subsection, the original cost of existing industrial
+185 development property shall be the amount of industrial
+186 development property with respect to which an abatement was
+187 granted under this chapter when the property was constructed,
+188 or if the existing industrial development property was
+189 constructed before January 1, 1993, the maximum amount that
+190 would have been allowed if the provisions of this chapter had
+191 applied at the time it was constructed. Only property that
+192 constitutes industrial development property shall be taken
+193 into account in making the determination in the previous
+194 sentence. Major addition shall include any addition costing at
+195 least two million dollars ($2,000,000) which constitutes an
+196 industrial or research enterprise, regardless of whether added
+Page 7
+
+industrial or research enterprise, regardless of whether added
+SB265 Engrossed
+197 to an existing industrial development property.
+198 (12) MAXIMUM EXEMPTION PERIOD. Except as provided in
+199 Section 40-9B-11, a period equal to the shorter of:
+200 a. Either of the following:
+201 1. Twenty years from and after: (i) The date of initial
+202 issuance by a county, city, or public authority of bonds to
+203 finance any costs of a private use property,; or (ii) If no
+204 such bonds are ever issued, the later of: A. The date on which
+205 title to the property was acquired by or vested in the county,
+206 city, or public authority,; or B. The date on which the
+207 property is or becomes owned, for federal income tax purposes,
+208 by a private user; or.
+209 2. Exclusively with respect to one or more private
+210 users of a data processing center, the following:
+211 (i) A period of 10 years from and after the date on
+212 which private use property is or becomes owned, for federal
+213 income tax purposes, by such private user or users (including
+214 the lessor and any lessee with respect to co-location
+215 centers), if the aggregate capital investment in the data
+216 processing center by such private user or users does not
+217 exceed two hundred million dollars ($200,000,000) within 10
+218 years from the date on which a private user commences the
+219 acquisition, construction, and equipping of the data
+220 processing center,.
+221 (ii) AFor any abatement granted prior to January 1,
+222 2027, a period of 20 years from and after the date on which
+223 private use property is or becomes owned, for federal income
+224 tax purposes, by such private user or users (including the
+Page 8
+
+tax purposes, by such private user or users (including the
+SB265 Engrossed
+225 lessor and any lessee with respect to co-location centers), if
+226 the aggregate capital investment in the data processing center
+227 by such private user or users exceeds two hundred million
+228 dollars ($200,000,000) but is not greater than four hundred
+229 million dollars ($400,000,000) within 10 years from the date
+230 on which a private user commences the acquisition,
+231 construction, and equipping of the data processing center. For
+232 any abatement granted on or after January 1, 2027, a period of
+233 20 years from and after the date on which the private use
+234 property is or becomes owned, for federal income tax purposes,
+235 by such private user or users, including the lessor or any
+236 lessee with respect to co-location centers, if the aggregate
+237 capital investment in the data processing center by such
+238 private user or users exceeds two hundred million dollars
+239 ($200,000,000) within 10 years from the date on which a
+240 private user commences the acquisition, construction, and
+241 equipping of the data processing center, or.
+242 (iii) AFor any abatement granted until January 1, 2027,
+243 a period of 30 years from and after the date on which private
+244 use property is or becomes owned, for federal income tax
+245 purposes, by such private user or users, (including the lessor
+246 and any lessee with respect to co-location centers), if the
+247 aggregate capital investment in the data processing center by
+248 such private user or users exceeds two hundred million dollars
+249 ($200,000,000) within 10 years from the date on which a
+250 private user commences the physical work of constructing and
+251 equipping the data processing center and exceeds four hundred
+252 million dollars ($400,000,000) within 20 years from the date
+Page 9
+
+million dollars ($400,000,000) within 20 years from the date
+SB265 Engrossed
+253 on which a private user commences the acquisition,
+254 construction, and equipping of the data processing center.
+255 This item (iii) shall not apply to any abatement granted after
+256 January 1, 2027.
+257 For purposes of this subparagraph 2., a private user's
+258 aggregate capital investment in a data processing center shall
+259 include all real and personal property comprising a data
+260 processing center, the costs of which may be capitalized for
+261 federal income tax purposes. In no event shall abatements of
+262 construction related transaction taxes or noneducational ad
+263 valorem taxes granted for a data processing center apply
+264 beyond the expiration of the applicable maximum exemption
+265 period; or
+266 b. The period ending on the date on which the property
+267 has ceased, for 6 consecutive months, to be used in the active
+268 conduct of an industrial or research enterprise.
+269 (13) MORTGAGE AND RECORDING TAXES. The taxes imposed by
+270 Chapter 22 of this title.
+271 (14) NAICS CODE. Any sector, subsector, industry group,
+272 industry or national industry of the 2012 North American
+273 Industry Classification System, or any similar classification
+274 system developed in conjunction with the United States
+275 Department of Commerce or Office of Management and Budget.
+276 (15) NONEDUCATIONAL AD VALOREM TAXES. Ad valorem taxes,
+277 or payments required to be made in lieu thereof, imposed by
+278 the state, counties, municipalities, and other taxing
+279 jurisdictions of Alabama that are not required to be used for
+280 educational purposes or for capital improvements for
+Page 10
+
+educational purposes or for capital improvements for
+SB265 Engrossed
+281 education.
+282 (16) PERSON. Includes any individual, partnership,
+283 trust, estate, or corporation.
+284 (17) PRIVATE USER. Any individual, partnership, or
+285 corporation organized for profit that is or will be treated as
+286 the owner of private use property for federal income tax
+287 purposes, any entity organized under Chapter 6 of Title 37,
+288 and any authority both organized and existing pursuant to
+289 Chapter 50A of Title 11 and subject to the payments required
+290 to be made in lieu of ad valorem, sales, use, license, and
+291 severance taxes imposed by Section 11-50A-7.
+292 (18) PRIVATE USE INDUSTRIAL PROPERTY. Private use
+293 property that also constitutes industrial development
+294 property.
+295 (19) PRIVATE USE PROPERTY. Any real and/or personal
+296 property which is or will be treated as owned by a private
+297 user for federal income tax purposes even though title may be
+298 held by a public authority or municipal or county government;
+299 any real and/or personal property which is owned by any entity
+300 organized under Chapter 6 of Title 37; and any real and/or
+301 personal property which is owned by any authority both
+302 organized and existing pursuant to Chapter 50A of Title 11,
+303 and subject to the payments required to be made in lieu of ad
+304 valorem, sales, use, license, and severance taxes imposed by
+305 Section 11-50A-7.
+306 (20) PUBLIC AUTHORITY. A corporation created for public
+307 purposes pursuant to a provision of the Constitution of
+308 Alabama of 1901, or a general or local law that authorized it
+Page 11
+
+Alabama of 1901, or a general or local law that authorized it
+SB265 Engrossed
+309 to issue bonds, the interest on which is exempt from the
+310 Alabama income tax, as in effect on May 21, 1992.
+311 (21) PUBLIC INDUSTRIAL AUTHORITY. A public authority
+312 authorized to issue bonds to acquire, construct, equip, or
+313 finance industrial development property.
+314 (22) RENEWABLE ENERGY FACILITY. Any plant, property, or
+315 facility that either:
+316 a. Produces electricity or natural gas, in whole or in
+317 part, from biofuels as such term is defined in Section
+318 2-2-90(c)(2) or from renewable energy resources as such term
+319 is defined in Section 40-18-1(30) with the exception that
+320 hydropower production shall be excluded from such definition;
+321 or
+322 b. Produces biofuel as such term is defined in Section
+323 2-2-90(c)(2).
+324 (23) RESEARCH AND DEVELOPMENT FACILITY. An
+325 establishment engaged in conducting original investigations
+326 undertaken on a systematic basis to gain new knowledge or
+327 applying research findings or other scientific knowledge to
+328 create new or significantly improved products or processes, or
+329 both.
+330 (24) STATEMENT OF INTENT. A written statement of intent
+331 to claim an abatement provided in this chapter, or to petition
+332 for local tax abatement, relating to an industrial or research
+333 enterprise described in paragraph e. of subdivision (10) of
+334 this subsection that is filed with the Department of Revenue
+335 at any time prior to the date on which the industrial or
+336 research enterprise described in paragraph e. of subdivision
+Page 12
+
+research enterprise described in paragraph e. of subdivision
+SB265 Engrossed
+337 (10) of this subsection is placed in service in accordance
+338 with such procedures and on such form or forms as may be
+339 prescribed by the Department of Revenue. Such statement of
+340 intent shall contain a description of the industrial or
+341 research enterprise described in paragraph e. of subdivision
+342 (10) of this subsection; the date on which the acquisition,
+343 construction, installation, or equipping of the industrial or
+344 research enterprise described in paragraph e. of subdivision
+345 (10) of this subsection was commenced or is expected to
+346 commence; the actual or, if not known, the estimated capital
+347 costs of the industrial or research enterprise described in
+348 paragraph e. of subdivision (10) of this subsection; the
+349 number of new employees to be employed at the industrial or
+350 research enterprise described in paragraph e. of subdivision
+351 (10) of this subsection; and any other information required by
+352 the Department of Revenue.
+353 (25) TOURISM DESTINATION ATTRACTION. A commercial
+354 enterprise which is open to the public not less than 120 days
+355 during a calendar year and is designed to attract visitors
+356 from inside or outside of the State of Alabama, typically for
+357 its inherent cultural value, historical significance, natural
+358 or man-made beauty, or entertainment or amusement
+359 opportunities. The term shall include, but not be limited to,
+360 a cultural or historical site; a botanical garden; a museum; a
+361 wildlife park or aquarium open to the public that cares for
+362 and displays a collection of animals or fish; an amusement
+363 park; a convention hotel and conference center; a water park;
+364 or a spectator venue or arena.
+Page 13
+
+or a spectator venue or arena.
+SB265 Engrossed
+365 A tourism destination attraction shall not include a
+366 facility primarily devoted to the retail sale of goods; a
+367 shopping center; a restaurant; a movie theater; a bowling
+368 alley; a fitness center; a miniature golf course; or a
+369 nightclub. Provided, however, that the capital costs of the
+370 construction of a tourism destination attraction may include
+371 the capital costs associated with the construction of any
+372 retail establishment, restaurant or other portion of the
+373 tourism destination attraction. The term also does not include
+374 any gaming facility or establishment that the Secretary of the
+375 Department of Commerce deems to be serving the local
+376 community.
+377 (b) The abatements of ad valorem taxes, and payments in
+378 lieu thereof, allowed by amendments to this section by Act
+379 2008-275 shall become effective for projects for which
+380 statements of intent are filed after December 31, 2011. No ad
+381 valorem taxes, or payments in lieu thereof, shall be abated
+382 for periods prior to January 1, 2012. The other abatements
+383 allowed by amendments made to this section by Act 2008-275
+384 shall become effective after December 31, 2011.
+385 For a qualifying industrial or research enterprise
+386 described in Section 40-9B-3(a)(10)j., the approval of the
+387 abatement of a specified ad valorem tax or construction
+388 related tax levied or imposed by a county or municipality, or
+389 payments required to be made in lieu thereof, shall take
+390 effect only upon adoption of a resolution by the governing
+391 body of that county or municipality approving such abatement
+392 or abatements."
+Page 14
+
+or abatements."
+SB265 Engrossed
+393 "§40-9B-4
+394 (a) Noneducational ad valorem taxes, construction
+395 related transaction taxes, except those local construction
+396 related transaction taxes levied for educational purposes or
+397 for capital improvements for education, and mortgage and
+398 recording taxes, or payments required to be made in lieu
+399 thereof, and in the case of a qualifying industrial or
+400 research enterprise described in Section 40-9B-3(a)(10)e.
+401 which is owned by an entity organized under Chapter 6 of Title
+402 37, or by an authority both organized and existing pursuant to
+403 Chapter 50A of Title 11, and subject to the payments required
+404 to be made in lieu of ad valorem, sales, use, license, and
+405 severance taxes imposed by Section 11-50A-7, in addition to
+406 the foregoing, all other ad valorem taxes, or payments
+407 required to be made in lieu thereof, imposed by the state,
+408 counties, municipalities, and other taxing jurisdictions of
+409 Alabama, may be abated with respect to private use industrial
+410 property and security documents and other recordable documents
+411 associated therewith as provided in this chapter.
+412 (b)(1) No abatement of noneducational ad valorem taxes,
+413 other ad valorem taxes, or payments required to be made in
+414 lieu of the foregoing, may exceed the maximum exemption
+415 period. No further abatement with respect to the same private
+416 use industrial property may be granted unless there is a major
+417 addition to the property, in which event abatement may be
+418 granted only with respect to the noneducational ad valorem
+419 taxes, and in the case of a qualifying industrial or research
+420 enterprise described in Section 40-9B-3(a)(10)e. which is
+Page 15
+
+enterprise described in Section 40-9B-3(a)(10)e. which is
+SB265 Engrossed
+421 owned by an entity organized under Chapter 6 of Title 37, or
+422 by an authority both organized and existing pursuant to
+423 Chapter 50A of Title 11, and subject to the payments required
+424 to be made in lieu of ad valorem, sales, use, license, and
+425 severance taxes imposed by Section 11-50A-7, in addition to
+426 the noneducational ad valorem taxes, with respect to all other
+427 ad valorem taxes, or payments required to be made in lieu
+428 thereof, imposed by the state, counties, municipalities, and
+429 other taxing jurisdictions of Alabama, on the major addition
+430 by complying with the procedures set forth in this chapter.
+431 Notwithstanding the immediately preceding sentence, with
+432 respect to a data processing center, an abatement of
+433 noneducational ad valorem taxes, other ad valorem taxes, or
+434 payments required to be made in lieu thereof, shall apply to
+435 all real and personal property comprising a data processing
+436 center, the costs of which may be capitalized for federal
+437 income tax purposes, acquired at any time during the
+438 applicable maximum exemption period, including, but not
+439 limited to, computers, software licensed for use at the
+440 qualifying data processing center, equipment supporting
+441 computing, networking, or data storage; cooling systems,
+442 cooling towers, and other temperature infrastructure; power
+443 infrastructure for transformation, distribution, or management
+444 of electricity used for the maintenance and operation of a
+445 data processing center, including, but not limited to,
+446 exterior dedicated business-owned substations, backup power
+447 generation systems, battery systems, and related
+448 infrastructure; and any other equipment necessary for the
+Page 16
+
+infrastructure; and any other equipment necessary for the
+SB265 Engrossed
+449 maintenance and operation of a data processing center.
+450 (2) Effective for an abatement granted: (i) on or
+451 after January 1, 2027; and (ii) to a data processing center
+452 with a total peak demand of 100 megawatts or greater, no
+453 abatement of state noneducational ad valorem taxes shall
+454 extend beyond the date the private use industrial property is
+455 placed in service.
+456 (c)(1) An abatement of construction related transaction
+457 taxes, or payments required to be made in lieu thereof, shall
+458 apply only to tangible personal property and taxable services
+459 incorporated into a private use industrial property, the cost
+460 of which may be added to capital account with respect to the
+461 property, determined without regard to any rule which permits
+462 expenditures properly chargeable to capital account to be
+463 treated as current expenses. No abatement of construction
+464 related transaction taxes, or payments required to be made in
+465 lieu thereof, shall extend beyond the date the private use
+466 industrial property is placed in service; provided, however,
+467 that an abatement of construction related transaction taxes,
+468 or payments required to be made in lieu thereof, for a data
+469 processing center shall apply to all taxable services and
+470 acquisitions of real and personal property comprising the data
+471 processing center, the costs of which may be capitalized for
+472 federal income tax purposes, occurring at any time during the
+473 applicable maximum exemption period, including, but not
+474 limited to, computers, software licensed for use at the
+475 qualifying data processing center, equipment supporting
+476 computing, networking, or data storage; cooling systems,
+Page 17
+
+computing, networking, or data storage; cooling systems,
+SB265 Engrossed
+477 cooling towers, and other temperature infrastructure; power
+478 infrastructure for transformation, distribution, or management
+479 of electricity used for the maintenance and operation of a
+480 data processing center, including, but not limited to,
+481 exterior dedicated business-owned substations, backup power
+482 generation systems, battery systems, and related
+483 infrastructure; and any other equipment necessary for the
+484 maintenance and operation of a data processing center. No
+485 further abatement may be granted for construction related
+486 transaction taxes, or payments required to be made in lieu
+487 thereof, with respect to the private use industrial property
+488 unless incurred in connection with a major addition, in which
+489 event only construction related transaction taxes, or payments
+490 required to be made in lieu thereof, that may be added to
+491 capital account with respect to the major addition, determined
+492 without regard to any rule which permits expenditures properly
+493 chargeable to capital account to be treated as current
+494 expenses, may be abated by complying with the procedures set
+495 forth in Act 92-599 as amended, and as amended by Act
+496 2008-275. Except in the case of a qualifying industrial or
+497 research enterprise described in Section 40-9B-3(a)(10)e.
+498 which is owned by an entity organized under Chapter 6 of Title
+499 37, or by an authority both organized and existing pursuant to
+500 Chapter 50A of Title 11, and subject to the payments required
+501 to be made in lieu of ad valorem, sales, use, license, and
+502 severance taxes imposed by Section 11-50A-7, no local
+503 construction related transaction taxes levied for educational
+504 purposes or capital improvements for education, or payments
+Page 18
+
+purposes or capital improvements for education, or payments
+SB265 Engrossed
+505 required to be made in lieu thereof, may be abated.
+506 (2) a. Effective for an abatement granted: (i) on or
+507 after January 1, 2027; and (ii) to a data processing center
+508 with a total peak demand of 100 megawatts or greater,
+509 construction related transaction taxes levied pursuant to
+510 Chapter 23 of this title, or payments required to be made in
+511 lieu thereof, on computers, servers, software licensed for use
+512 at the data processing center, equipment supporting computing,
+513 networking, or data storage, cooling systems, cooling towers,
+514 and other temperature infrastructure, and any other equipment
+515 necessary for the maintenance and operation of a data
+516 processing center, shall be eligible for abatement throughout
+517 the applicable maximum exemption period as provided in (c)
+518 (1).
+519 b. Except for those provided in (2) a., effective for
+520 an abatement granted: (i) on or after January 1, 2027; and
+521 (ii) to a data processing center with a total peak demand of
+522 100 megawatts or greater, no abatement of state construction
+523 related transaction taxes levied pursuant to Chapter 23 of
+524 this title, or payments required to be made in lieu thereof,
+525 shall extend beyond the date the private use industrial
+526 property is placed in service.
+527 (3) Notwithstanding subdivision (c)(2), the Governor
+528 may abate the state construction related transaction taxes for
+529 the maximum exemption period for a data processing center with
+530 a total peak demand of 100 megawatts or greater, if the data
+531 processing center is located in a "targeted county" as defined
+532 in Section 40-18-376.1.
+Page 19
+
+in Section 40-18-376.1.
+SB265 Engrossed
+533 (d) Mortgage and recording taxes with respect to
+534 mortgages, deeds, and documents relating to issuing or
+535 securing obligations and conveying title into or out of the
+536 public authority or county or municipal government with
+537 respect to a private use industrial property may be abated by
+538 complying with the procedures set forth in this chapter.
+539 (e) An abatement under this section may be granted only
+540 with respect to private use industrial property that has not
+541 previously been placed in service by the private user who is
+542 applying for the abatement or by a person who is a related
+543 party, as defined in 26 U.S.C. §267, with respect to such
+544 private user.
+545 (f)(1) For a qualifying industrial or research
+546 enterprise described in Section 40-9B-3(a)(10)e., which is
+547 owned by a utility described in Section 37-4-1(7)a., and which
+548 is a coal gasification or liquefaction project or an advanced
+549 fossil-based generation project, as such terms are defined in
+550 Section 40-18-1, or which utilizes hydropower production, an
+551 abatement under this section shall be in an amount equal to
+552 100 percent of the state noneducational ad valorem taxes owed
+553 for plant, property, and facilities for the maximum exemption
+554 period, and in an amount equal to 50 percent of the state
+555 construction related transaction taxes. The abatement shall
+556 not be subject to the procedures in Section 40-9B-5 or
+557 40-9B-6.
+558 (2) For a qualifying industrial or research enterprise
+559 described in Section 40-9B-3(a)(10)e., which is owned by a
+560 utility described in Section 37-4-1(7)a., and which is a
+Page 20
+
+utility described in Section 37-4-1(7)a., and which is a
+SB265 Engrossed
+561 project using an alternative energy resource the abatements
+562 for which are not provided in subdivision (1), an abatement
+563 under this section shall be in an amount equal to 100 percent
+564 of the state noneducational ad valorem taxes owed for plant,
+565 property, and facilities for the maximum exemption period, and
+566 in an amount equal to 50 percent of the state construction
+567 related transaction taxes. The abatement shall not be subject
+568 to the procedures in Section 40-9B-5 or 40-9B-6.
+569 (3) For a qualifying industrial or research enterprise
+570 described in Section 40-9B-3(a)(10)e., which is owned by an
+571 entity organized under Chapter 6 of Title 37, an abatement
+572 under this section shall be in an amount equal to 100 percent
+573 of the ad valorem taxes owed for plant, property, and
+574 facilities for the maximum exemption period, and in an amount
+575 equal to 100 percent of the construction related transaction
+576 taxes. An abatement of ad valorem taxes levied or imposed by
+577 counties or municipalities may be granted as provided in
+578 subsection (h). An abatement of the construction related
+579 transaction taxes imposed by the governing body of a county
+580 pursuant to authority conferred under Article 1 of Chapter 12
+581 of Title 40, or any general, special, or local act of the
+582 Legislature, and such transaction taxes imposed by the
+583 governing body of a municipality pursuant to authority
+584 conferred under Article 3 of Chapter 51 of Title 11, or any
+585 general, special, or local act of the Legislature, and all
+586 transaction taxes imposed by any other local taxing
+587 jurisdiction of Alabama may be granted as provided in
+588 subsection (h). The abatement shall not be subject to the
+Page 21
+
+subsection (h). The abatement shall not be subject to the
+SB265 Engrossed
+589 procedures in Section 40-9B-5 or 40-9B-6.
+590 (4) For a qualifying industrial or research enterprise
+591 described in Section 40-9B-3(a)(10)e., which is owned by an
+592 authority both organized and existing pursuant to Chapter 50A
+593 of Title 11, and subject to the payments required to be made
+594 in lieu of ad valorem, sales, use, license, and severance
+595 taxes imposed by Section 11-50A-7, an abatement under this
+596 section against the payments required to be made in lieu of
+597 taxes imposed by Section 11-50A-7, shall be allowed in an
+598 amount equal to 100 percent of the payments required to be
+599 made in lieu of ad valorem taxes owed for plant, property, and
+600 facilities for the maximum exemption period, and in an amount
+601 equal to 100 percent of the payments required to be made in
+602 lieu of the construction related transaction taxes, including,
+603 without limitation, payments required to be made in lieu of
+604 all transaction taxes imposed by the governing body of a
+605 county pursuant to authority conferred under Article 1 of
+606 Chapter 12 of this title, or any general, special, or local
+607 act of the Legislature, all transaction taxes imposed by the
+608 governing body of a municipality pursuant to authority
+609 conferred under Article 3 of Chapter 51 of Title 11, or any
+610 general, special, or local act of the Legislature, and
+611 payments required to be made in lieu of all transaction taxes
+612 imposed by any other taxing jurisdiction of Alabama. The
+613 abatement of such payments required to be made in lieu of
+614 local taxes may be granted as provided in subsection (h). The
+615 abatement shall not be subject to the procedures in Section
+616 40-9B-5 or 40-9B-6.
+Page 22
+
+40-9B-5 or 40-9B-6.
+SB265 Engrossed
+617 (5) For a qualifying industrial or research enterprise
+618 described in Section 40-9B-3(a)(10)e., which is owned by a
+619 utility described in Section 37-4-1(7)a., the abatement for
+620 state noneducational ad valorem taxes provided in subdivision
+621 (1) or (2) of this subsection, shall be equal to 100 percent
+622 of the state noneducational ad valorem taxes owed for plant,
+623 property, and facilities for the maximum exemption period if
+624 the industrial or research enterprise is located in either of
+625 the following:
+626 a. Any area designated or created as an enterprise zone
+627 by law or that is governed by the Alabama Enterprise Zone Act.
+628 b. 1. Any Alabama county which is considered to be less
+629 developed. A county is considered to be less developed if it
+630 has been found to be less developed by the Alabama Department
+631 of Labor using the most current data available from the United
+632 States Departments of Labor or Commerce, the United States
+633 Bureau of the Census, or any other federal or state agency,
+634 and which finding shall be made not later than January 1 of
+635 each year thereafter.
+636 2. A county shall be found to be less developed if it
+637 is ranked as the forty-fifth through sixty-seventh county,
+638 inclusive, using the following factors:
+639 (i) Percent change in population over the most recent
+640 five-year period.
+641 (ii) Personal per capita income in the last calendar
+642 year for which data are available.
+643 (iii) The average percent employed over the last 12
+644 months for which data are available.
+Page 23
+
+months for which data are available.
+SB265 Engrossed
+645 3. The factors used in ranking counties shall be
+646 weighted in the following manner:
+647 (i) Percent change in population (25 percent).
+648 (ii) Personal per capita income (25 percent).
+649 (iii) Average percent employed (50 percent).
+650 (6) a. To the extent that a plant, property, or
+651 facility described in Section 40-9B-3(a)(10)e., is owned in
+652 whole or in part by one or more private users listed
+653 hereinafter in subparagraphparagraph c., including, but not
+654 limited to, ownership as tenants in common, joint tenants, or
+655 owners of an undivided interest, then each private user shall
+656 be entitled to the abatement allowed under this section with a
+657 percentage limitation equal to the ownership interest
+658 percentage of the private user multiplied by the percentage
+659 limitation found in this subsection applicable to the private
+660 user for the tax, or payment in lieu of tax, in question.
+661 b. To the extent that a plant, property, or facility
+662 described in Section 40-9B-3(a)(10)e. is owned by a private
+663 user which is itself owned in whole or in part by one or more
+664 of the entities listed hereinafter in subparagraphparagraph
+665 c., then the private user shall be entitled to the abatement
+666 allowed under this section with a percentage limitation equal
+667 to the sum, for all owners, of the ownership interest
+668 percentage of each owner multiplied by the percentage
+669 limitation found in this subsection applicable to the owner
+670 for the tax, or payment in lieu of tax, in question.
+671 c. The entities listed in this subparagraphparagraph c.
+672 are:
+Page 24
+
+are:
+SB265 Engrossed
+673 1. A utility described in Section 37-4-1(7)a.;
+674 2. An entity organized under Chapter 6 of Title 37.;
+675 and
+676 3. An authority both organized and existing pursuant to
+677 Chapter 50A of Title 11 and subject to the payments required
+678 to be made in lieu of ad valorem, sales, use, license, and
+679 severance taxes imposed by Section 11-50A-7.
+680 (7) No abatement for mortgage and recording taxes,
+681 local noneducational ad valorem taxes, or local noneducational
+682 construction related transaction taxes shall be granted to a
+683 qualifying industrial or research enterprise described in
+684 Section 40-9B-3(a)(10)e., owned by a utility described in
+685 Section 37-4-1(7)a., except upon the approval of the abatement
+686 by the governing body of the county or municipality as
+687 provided in subsection (b) of Section 40-9B-5(b).
+688 (g) The abatements of ad valorem taxes and payments in
+689 lieu thereof allowed by amendments to this section by Act
+690 2008-275 shall become effective for projects for which
+691 statements of intent are filed after December 31, 2011. No ad
+692 valorem taxes, or payments in lieu thereof, shall be abated
+693 for periods prior to January 1, 2012. The other abatements
+694 allowed by amendments made to this section by Act 2008-275
+695 shall become effective after December 31, 2011.
+696 (h) For a qualifying industrial or research enterprise
+697 described in Section 40-9B-3(a)(10)e., the approval of the
+698 abatement of a specific ad valorem tax or construction related
+699 tax levied or imposed by a county or municipality, or payments
+700 required to be made in lieu thereof, shall take effect only
+Page 25
+
+required to be made in lieu thereof, shall take effect only
+SB265 Engrossed
+701 upon adoption of a resolution by the governing body of that
+702 county or municipality approving such abatement or
+703 abatements."
+704 "§40-9B-4.1
+705 In no event shall any incentive provided in Act
+706 2012-210 be available to any company filing an application
+707 after July 31, 20282032. Any project granted an incentive
+708 prior to July 31, 20282032, shall be entitled to the incentive
+709 pursuant to the project agreement regardless of whether Act
+710 2012-210 is reauthorized."
+711 "§40-23-35
+712 (a) Such amount of money as shall be appropriated for
+713 each fiscal year by the Legislature to the Department of
+714 Revenue with which to pay the salaries, the cost of operation
+715 and management of the department shall be deducted, as a first
+716 charge thereon, from the taxes collected under the provisions
+717 of this division; provided, that the expenditure of the sum so
+718 appropriated shall be budgeted and allotted pursuant to
+719 Article 4 of Chapter 4 of Title 41, and limited to the amount
+720 appropriated to defray the expenses of operating the
+721 department for each fiscal year. After the payment of the
+722 expenses, so much of the amount remaining as may be necessary,
+723 after first applying all sums of money received by reason of
+724 the application of the surplus in the income tax as provided
+725 by Section 40-18-58, for the replacement in the public school
+726 fund of the three-mill constitutional levy for schools and in
+727 the General Fund of the one-mill levy for soldiers' relief and
+728 the two and one-half mills for general purposes lost by
+Page 26
+
+the two and one-half mills for general purposes lost by
+SB265 Engrossed
+729 exemption of homestead provided for in this division shall be
+730 first charges against the proceeds of the licenses, taxes, or
+731 receipts levied or collected under this division. The
+732 Comptroller, with the approval of the Governor, is hereby
+733 directed to draw his or her warrants payable out of the total
+734 proceeds of the licenses, taxes, or receipts levied or
+735 collected under this division as herein provided in such sum
+736 as shall be found necessary to take care of and replace the
+737 three-mill constitutional school levy, the one-mill soldiers'
+738 relief levy, and the two and one-half mill levy for general
+739 purposes of the state ad valorem taxes lost as above set
+740 forth.
+741 (b) Of the amounts of such collections in any fiscal
+742 year remaining after the payment of the expenses of
+743 administration and replacement of the amounts in the several
+744 funds as herein provided there shall be paid into the Treasury
+745 sums to be credited as follows:
+746 (1) To the credit of the 67 counties of the state, to
+747 be divided and distributed as hereinafter provided, three
+748 hundred seventy-eight thousand dollars ($378,000);
+749 (2) To the Department of Human Resources, one million
+750 three hundred twenty-two thousand dollars ($1,322,000); and
+751 (3) Beginning June 1, 2000, to the Department of
+752 Conservation and Natural Resources for capital outlay for
+753 acquisition of land contiguous to existing state parks and
+754 land acquired for lakes and or water reservoirs, provision,
+755 construction, improvement, renovation, equipping, and
+756 maintenance of the state parks system only and not for use by
+Page 27
+
+maintenance of the state parks system only and not for use by
+SB265 Engrossed
+757 the Department of Conservation and Natural Resources for
+758 personnel or administrative use, the sum equal to the increase
+759 in receipts accruing to the State of Alabama due to the cap on
+760 discounts per license holder in Section 40-23-36(b), which
+761 increase shall be equal to the difference between the discount
+762 rate or amount allowed under Section 40-23-36(b) and the
+763 maximum discount rate allowable under Section 40-23-36(a);
+764 provided, however, if at any time any bonds of the Alabama
+765 State Parks System Improvement Corporation, or the Alabama
+766 Public Historical Sites and Parks Improvement Corporation, are
+767 outstanding (excluding bonds that have been refunded by the
+768 establishment of an escrow trust for the payment thereof
+769 consisting solely of bonds or other obligations which as to
+770 principal and interest constitute direct obligations of, or
+771 are unconditionally guaranteed by, the United States of
+772 America) there shall first be paid into the State General Fund
+773 from such collections an amount equal to the debt service
+774 (principal, interest, and premium, if any) payable on such
+775 bonds in the then current fiscal year of the state. Provided,
+776 however, that one million dollars ($1,000,000) of such
+777 increase in receipts per fiscal year shall be credited to the
+778 Department of Human Resources beginning October 1, 1996, until
+779 September 30, 2002, and shall be expended for the foster
+780 children program.
+781 (4)a. On October 1, 2002, to the Department of
+782 Conservation and Natural Resources for capital outlay, repairs
+783 and maintenance of the state parks system only, the minimum
+784 sum of five million dollars ($5,000,000) from the increase in
+Page 28
+
+sum of five million dollars ($5,000,000) from the increase in
+SB265 Engrossed
+785 receipts accruing to the State of Alabama due to the cap on
+786 discounts per license holder in Section 40-23-36(b) as
+787 calculated in Section 40-23-35(b)(3). Beginning October 1,
+788 2003, through September 30, 2021, annually, to the Department
+789 of Conservation and Natural Resources for capital outlay,
+790 repairs, and maintenance of the state parks system only, the
+791 sum calculated by a fraction, the numerator of which is five
+792 million dollars ($5,000,000) and the denominator of which is
+793 equal to the increase in receipts as calculated in Section
+794 40-23-35(b)(3) for fiscal year 2002 accruing to the State of
+795 Alabama multiplied by the increase in receipts as calculated
+796 in Section 40-23-35(b)(3) for the then current fiscal year, or
+797 the sum of five million dollars ($5,000,000), whichever is
+798 greater. Notwithstanding the previous sentence, for the fiscal
+799 years ending September 30, 2012, and September 30, 2013, only,
+800 the five million dollars ($5,000,000) shall be transferred to
+801 the State General Fund.
+802 b. Beginning October 1, 2021, annually, to the
+803 Department of Conservation and Natural Resources for capital
+804 outlay, repairs, and maintenance of the state parks system
+805 only, seven million dollars ($7,000,000). Beginning with the
+806 fiscal year that starts October 1, 2022, the State Treasurer
+807 shall annually adjust the dollar amount in this paragraph to
+808 reflect the cumulative change in the Consumer Price Index for
+809 All Urban Consumers (CPI-U), as published by the Bureau of
+810 Labor Statistics of the United States Department of Labor, or
+811 a successor index, for the annual period ending on the
+812 December 31 preceding the adjustment date and rounded to the
+Page 29
+
+December 31 preceding the adjustment date and rounded to the
+SB265 Engrossed
+813 nearest one thousand dollars ($1,000).
+814 c. Beginning October 1, 2002, to the credit of the
+815 State General Fund, the balance of the sum equal to the
+816 increase in receipts accruing to the State of Alabama due to
+817 the cap on discounts per license holder in Section
+818 40-23-36(b).
+819 (c) One-half of the amount deposited to the credit of
+820 the 67 counties as above provided, shall be divided and
+821 distributed proportionately among the 67 counties of the state
+822 according to the population of the counties as shown by the
+823 last federal census as proclaimed, published, or certified by
+824 the Director of the Bureau of the Census; and one-half of the
+825 proceeds shall be divided or distributed equally among 67
+826 counties; provided, that the funds divided and distributed to
+827 the several counties of the state as hereinabove provided for
+828 shall be used exclusively for full-time health service in
+829 cooperation with the State Board of Health or the federal
+830 government, and for extension services in cooperation with the
+831 Alabama Agriculture Extension Service or the federal
+832 government, at the discretion of the county commissions of the
+833 several counties of the state.
+834 (d) The amounts provided in subsection (b) for the
+835 Department of Human Resources shall be used for general
+836 welfare purposes. For purposes of this division, "general
+837 welfare purposes" means:
+838 (1) The administration of public assistance as set out
+839 in Sections 38-2-5 and 38-4-1;
+840 (2) Services, including supplementation and
+Page 30
+
+(2) Services, including supplementation and
+SB265 Engrossed
+841 supplementary services under the federal Social Security Act,
+842 to or on behalf of persons to whom such public assistance may
+843 be given under Section 38-4-1;
+844 (3) Services to and on behalf of dependent, neglected,
+845 or delinquent children; and
+846 (4) Investigative and referral services to and on
+847 behalf of needy persons.
+848 (e) In addition, there shall be paid, commencing on
+849 January 1, 1978, and on the first day of each fiscal quarter
+850 thereafter, to the Department of Human Resources for a
+851 statewide, state-administered food stamp program, as
+852 authorized by the Food Stamp Act of 1964, Public Law 88-525,
+853 88th Congress, and amendments thereto, an amount equal to five
+854 percent of the value of food stamp benefits issued statewide
+855 in excess of the amount paid by recipients (bonus or free
+856 stamps) during the immediate prior fiscal quarter, which sum
+857 so appropriated shall be paid quarterly to the Department of
+858 Human Resources Trust Fund for administration of the food
+859 stamp program in conformity with rules and regulations
+860 promulgatedadopted by the United States Department of
+861 Agriculture and in conformity with Sections 38-1-1 through
+862 38-6-9. The administrative funds shall be limited to and based
+863 on fiscal year 1976-77 administrative costs, normal
+864 inflationary increases, and mandated administration
+865 requirements of the Alabama Legislature and the United States
+866 Department of Agriculture. The Department of Human Resources
+867 will not staff any county food stamp office at a level that
+868 exceeds the average staff-to-recipient ratios that existed in
+Page 31
+
+exceeds the average staff-to-recipient ratios that existed in
+SB265 Engrossed
+869 Alabama during fiscal year 1976-77. This restriction will
+870 apply in coordination with those provided hereinabove and,
+871 should conflict occur, the lesser amount of expenditure shall
+872 be required. At the end of each fiscal year, an accounting
+873 shall be made of the sum so that any unexpended and
+874 unencumbered balance of funds may be determined for the
+875 purpose of paying such balance to the Education Trust Fund.
+876 (f) The amount of the proceeds of all taxes levied by
+877 this division remaining after the payment of the expenses of
+878 administration and enforcement and the replacement in the
+879 several funds of the amount lost by any homestead exemptions
+880 and the distribution as provided in subsections (b) and (d),
+881 shall be paid into the Education Trust Fund except as provided
+882 in subdivision (4) of Section 40-23-2(4) and subsection (c) of
+883 Section 40-23-61(c) and, beginning January 1, 2016, except
+884 those collected on consumable vapor products as defined in
+885 subdivision (15) of subsection (a) of Section 40-23-1(a)(15),
+886 and, beginning January 1, 2027, those collected on
+887 construction related transaction taxes on building materials,
+888 building fixtures, structural components, real property
+889 improvements, power infrastructure for transformation,
+890 distribution, or management of electricity, backup power
+891 generation systems, and battery systems for data processing
+892 centers under Section 40-9B-4(c)(2), which shall be
+893 distributed to the State General Fund."
+894 Section 2. Nothing in this act amending Sections
+895 40-9B-3, 40-9B-4, and 40-9B-4.1 Code of Alabama 1975, shall
+896 apply to any incentive that is part of a project executed
+Page 32
+
+apply to any incentive that is part of a project executed
+SB265 Engrossed
+897 before the effective date of this act or expanded after the
+898 effective date of this act for a 10-year period after the
+899 effective date of this act, if the project is located in a
+900 Class 3 municipality.
+901 Section 3. This act shall become effective on June 1,
+902 2026.
+Page 33
+
+2026.
+SB265 Engrossed
+903
+904
+905 Senate
+906 Read for the first time and referred ................05-Feb-26
+907 to the Senate committee on Fiscal
+908 Responsibility and Economic
+909 Development
+910
+911 Read for the second time and placed ................12-Feb-26
+912 on the calendar:
+913 1 amendment
+914
+915 Read for the third time and passed ................12-Mar-26
+916 as amended
+917 Yeas 30
+918 Nays 0
+919 Abstains 0
+920
+921
+922 Patrick Harris,
+923 Secretary.
+924
+Page 34

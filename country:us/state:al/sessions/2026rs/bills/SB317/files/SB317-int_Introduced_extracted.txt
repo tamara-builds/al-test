@@ -1,0 +1,387 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB317 INTRODUCED
+1 SB317
+2 I3SJ866-1
+3 By Senators Orr, Albritton
+4 RFD: Finance and Taxation Education
+5 First Read: 19-Feb-26
+Page 0
+
+First Read: 19-Feb-26
+I3SJ866-1 02/18/2026 KHF (F)KHF 2026-685
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would recreate the Alabama Commission
+6 on the Evaluation of Services as a legislative
+7 department and substantially revise provisions
+8 governing the operation of the commission.
+9 This bill would provide for the appointment of
+10 the director of the commission and revise and clarify
+11 certain duties of the commission.
+12 This bill would also establish the Legislative
+13 Committee on the Evaluation of Services to supervise
+14 and control the commission.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Regarding the Alabama Commission on the Evaluation of
+22 Services; to add Chapter 2B to Title 29, Code of Alabama 1975,
+23 to recreate the commission as a legislative department; to
+24 substantially revise the provisions governing the operation of
+25 the commission; to provide for the appointment of a director;
+26 to revise and clarify duties of the commission; to create the
+27 Legislative Committee on the Evaluation of Services; to repeal
+28 Chapter 2A, Title 29, Code of Alabama 1975, the existing law
+Page 1
+
+Chapter 2A, Title 29, Code of Alabama 1975, the existing law
+SB317 INTRODUCED
+29 governing the commission; and to provide an effective date.
+30 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+31 Section 1. Chapter 2B is added to Title 29, Code of
+32 Alabama 1975, to read as follows:
+33 Chapter 2B. Alabama Commission on the Evaluation of
+34 Services.
+35 §29-2B-1
+36 There is created the Alabama Commission on the
+37 Evaluation of Services, which shall be a legislative
+38 department, for the purpose of advising the Legislature
+39 regarding the evaluation of services funded by the state.
+40 §29-2B-2
+41 (a) The affairs of the commission shall be administered
+42 by the director, whose actions shall be supervised and
+43 controlled by the Legislative Committee on the Evaluation of
+44 Services. The director shall be selected and appointed by the
+45 committee and shall receive compensation and benefits in an
+46 amount established by the committee, payable in the same
+47 manner as is provided for other state employees.
+48 (b) A vacancy in the office of director arising from
+49 any cause shall be filled by the committee. The committee may
+50 appoint a highly qualified person as its director to a
+51 nonmerit, conditional appointment. The director, with the
+52 consent and approval of the committee, shall select and
+53 supervise professional and clerical staff upon a full-time or
+54 part-time basis as necessary to assist the committee and the
+55 director in performing the duties assigned by this chapter.
+56 The director, without regard to the state Merit System Act,
+Page 2
+
+The director, without regard to the state Merit System Act,
+SB317 INTRODUCED
+57 may hire employees as necessary to effectuate the purposes of
+58 this chapter. The number of employees, their compensation, and
+59 other expenditures of the committee shall be within the limits
+60 and in compliance with the appropriation made therefor by the
+61 Legislature and within budgets that shall be approved from
+62 time to time by the commission.
+63 §29-2B-3
+64 (a) There is hereby established the Alabama Commission
+65 on the Evaluation of Services Fund in the State Treasury for
+66 the deposit of all funds received by the commission.
+67 (b) The commission may receive state appropriations and
+68 apply for and receive grant funds from other sources
+69 including, but not limited to, foundations, governmental
+70 entities, federal grants, and businesses. No public monies
+71 shall be expended by the director for any purpose unless the
+72 monies have been appropriated by the Legislature to the
+73 commission. Any monies appropriated shall be budgeted and
+74 allotted pursuant to the Budget Management Act in accordance
+75 with Article 4 of Chapter 4 of Title 41, and only in the
+76 amounts provided by the Legislature in the general
+77 appropriations act or other appropriation acts.
+78 §29-2B-4
+79 (a) Any department, agency, institution, and
+80 establishment of the executive branch of government and
+81 regulatory agency or regulatory commission of the state,
+82 excluding entities that do not receive a direct appropriation
+83 from the State General Fund or the Education Trust Fund, shall
+84 furnish to the commission any available material, subject to
+Page 3
+
+furnish to the commission any available material, subject to
+SB317 INTRODUCED
+85 the restrictions and limitations of federal law or regulations
+86 limiting the sharing of personally identifying information,
+87 which the commission determines to be necessary in the
+88 performance of the duties and functions of the commission.
+89 (b) Any collection of data by a department, agency,
+90 institution, establishment, or regulatory agency or regulatory
+91 commission of the state, excluding entities that do not
+92 receive a direct appropriation from the State General Fund or
+93 the Education Trust Fund, shall be furnished to the
+94 commission, if available, upon request by the director or an
+95 employee of the commission.
+96 (c) The commission may take application for and award
+97 grant funds to any department, agency, institution,
+98 establishment, or regulatory agency or regulatory commission
+99 to further the purposes, policies, recommendations, and
+100 objectives of the commission subject to the availability of
+101 funding.
+102 §29-2B-5
+103 For purposes of this chapter, the following terms have
+104 the following meanings:
+105 (1) AGENCY. Any department, board, commission, office,
+106 institution, or other unit of state government that receives
+107 appropriations from the state.
+108 (2) CAUSAL IMPACT EVALUATION. A rigorous evaluation
+109 that uses experimental or quasi-experimental methods to
+110 determine whether a program caused observed outcomes,
+111 isolating the program's effects from other factors.
+112 (3) EVALUATION PLAN. A written document that describes
+Page 4
+
+(3) EVALUATION PLAN. A written document that describes
+SB317 INTRODUCED
+113 how an agency will assess a program's implementation, outputs,
+114 and outcomes, including the data sources, indicators, and
+115 methods to be used.
+116 (4) LOGIC MODEL. A visual or narrative representation
+117 that shows the logical relationships between a program's
+118 resources, activities, outputs, and intended outcomes.
+119 (5) MAJOR EXPANSION. An increase in a program's
+120 appropriation of 25 percent or more compared to the prior
+121 fiscal year, or an expansion that significantly changes the
+122 program's target population, service delivery method, or
+123 geographic scope.
+124 (6) NEW PROGRAM. A program that receives an
+125 appropriation for the first time and that is not a
+126 continuation or modification of an existing program under a
+127 different name or organizational structure.
+128 (7) PRELIMINARY STUDY. An evaluation or examination of
+129 a proposed or existing policy or program conducted before or
+130 during legislative consideration, designed to inform
+131 legislative decisions about program design, feasibility, or
+132 resource requirements.
+133 (8) PRIORITY EVALUATION QUESTION. A significant
+134 question about a program's implementation, effectiveness, or
+135 outcomes that an agency or the commission identifies as
+136 warranting systematic evaluation.
+137 §29-2B-6
+138 The Alabama Commission on the Evaluation of Services
+139 shall develop and publish on its website the evaluation
+140 standards used in the performance of evaluations of services.
+Page 5
+
+standards used in the performance of evaluations of services.
+SB317 INTRODUCED
+141 §29-2B-7
+142 (a) Each year, within 30 days of the conclusion of the
+143 regular session of the Legislature, or any special session
+144 where an appropriations act is enacted, the Legislative
+145 Services Agency shall identify each new program or major
+146 expansion of an existing program for which an agency received
+147 an appropriation and notify the agency and the Alabama
+148 Commission on the Evaluation of Services of the programs
+149 subject to the provisions of this chapter.
+150 (b) Each agency shall prepare an evaluation plan for
+151 each new program and each major expansion of an existing
+152 program that is enacted in an appropriations act, as follows:
+153 (1) The evaluation plan shall, at a minimum, describe
+154 the program's objectives, target population, key activities,
+155 expected inputs, outputs, intended outcomes, and benchmarks
+156 for intended outcomes. These variables shall be incorporated
+157 into a logic model in the plan.
+158 (2) The evaluation plan shall identify the indicators
+159 the agency will use to track inputs, outputs, and key
+160 outcomes; and for each, describe the data sources and explain
+161 how the measures will be calculated for each indicator.
+162 (3) The evaluation plan shall classify the planned
+163 level of evaluation (for example, monitoring, outcome
+164 evaluation, or causal impact evaluation) consistent with the
+165 typology in the standards issued under Section 29-2B-6.
+166 (4) For programs meeting criteria established in
+167 guidance under Section 29-2B-6, the evaluation plan shall
+168 include a proposal for a causal impact evaluation or a
+Page 6
+
+include a proposal for a causal impact evaluation or a
+SB317 INTRODUCED
+169 justification for why such an evaluation is not feasible or
+170 appropriate.
+171 (5) Evaluation plans shall be submitted to the Alabama
+172 Commission on the Evaluation of Services for approval and
+173 publication on its website, per the standards and guidance
+174 issued under Section 29-2B-6, before data is analyzed.
+175 §29-2B-8
+176 (a) For each program subject to this chapter, the
+177 agency shall prepare and submit evaluation reports to the
+178 Alabama Commission on the Evaluation of Services on a schedule
+179 specified in the standards issued under Section 29-2B-6, which
+180 shall include at a minimum:
+181 (1) A description of the program as implemented,
+182 including any material deviations from the original evaluation
+183 plan;
+184 (2) Results on the agreed-upon input, output, and
+185 outcome indicators, including baseline values and trends over
+186 time;
+187 (3) For programs with a causal impact evaluation, a
+188 summary of the evaluation design, key findings, and
+189 limitations; and
+190 (4) The agency's interpretation of the findings and
+191 planned actions in response (for example, continuation,
+192 expansion, modification, or termination).
+193 (b) The Alabama Commission on the Evaluation of
+194 Services shall publish submitted evaluation reports on its
+195 website.
+196 §29-2B-9
+Page 7
+
+§29-2B-9
+SB317 INTRODUCED
+197 The Legislature, by language in an appropriations act
+198 or other act, may require an evaluation of a specific program
+199 or line item. Such a provision may:
+200 (1) Specify that no more than a stated percentage of
+201 funds may be expended until the agency has submitted an
+202 evaluation plan meeting the standards of this chapter;
+203 (2) Require that an evaluation report be submitted by a
+204 certain date and that continuation, renewal, or expansion of
+205 funding in a subsequent fiscal year shall consider the
+206 findings; or
+207 (3) Identify any additional or different indicators or
+208 evaluation questions that are particularly important for the
+209 program in question.
+210 §29-2B-10
+211 (a) The Legislature, by request of the Joint
+212 Legislative Committee on Finances and Budget or by language in
+213 an appropriations act or other act, may direct the Alabama
+214 Commission on the Evaluation of Services to conduct a
+215 preliminary study of proposed or existing policies or
+216 programs.
+217 (b) Any action directing a preliminary study shall
+218 specify:
+219 (1) The policy or program to be examined; and
+220 (2) The questions or issues the study should address.
+221 (c) The Alabama Commission on the Evaluation of
+222 Services shall coordinate with the respective agencies or
+223 entities impacted by the study to:
+224 (1) Confirm the scope and objectives of the study;
+Page 8
+
+(1) Confirm the scope and objectives of the study;
+SB317 INTRODUCED
+225 (2) Establish a timeline for completion based on study
+226 complexity and available resources;
+227 (3) Identify necessary resources, including estimated
+228 costs and staffing needs; and
+229 (4) Determine the content and format of the final
+230 report.
+231 (d) If the Alabama Commission on the Evaluation of
+232 Services determines that completing a preliminary study as
+233 specified would require resources or time periods that exceed
+234 available capacity of the commission or agency, the commission
+235 may propose to the Legislature modifications to the study
+236 scope, timeline, or resource allocation.
+237 (e) Preliminary studies may examine:
+238 (1) The feasibility of proposed programs or policies;
+239 (2) Estimated costs and potential fiscal impacts;
+240 (3) Experiences with similar programs in other
+241 jurisdictions;
+242 (4) Available data and evidence related to the policy
+243 area;
+244 (5) Evaluation design options if the policy or program
+245 is enacted; or
+246 (6) Expected implementation challenges and resource
+247 requirements.
+248 (f) Each preliminary study report shall include:
+249 (1) A description of the policy or program examined;
+250 (2) The study methodology and data sources used;
+251 (3) Key findings addressing the questions specified in
+252 the directing act;
+Page 9
+
+the directing act;
+SB317 INTRODUCED
+253 (4) Limitations of the analysis; and
+254 (5) Implications for policy design or implementation,
+255 if applicable.
+256 (g) Upon completion, the Alabama Commission on the
+257 Evaluation of Services shall publish the preliminary study
+258 report on the agency's website and submit the report to the
+259 Senate Finance and Taxation Committees, the House Ways and
+260 Means Committees, the Legislative Committee on the Evaluation
+261 of Services, and the Legislative Fiscal Officer.
+262 §29-2B-11
+263 The commission shall adopt rules necessary to implement
+264 this chapter pursuant to the Alabama Administrative Procedure
+265 Act, Chapter 22 of Title 41.
+266 §29-2B-12
+267 (a) There is hereby created a continuing legislative
+268 committee to be known as the Legislative Committee on the
+269 Evaluation of Services to exercise general supervision and
+270 control over the actions of the Alabama Commission on the
+271 Evaluation of Services.
+272 (b) The committee shall be led by the Chair of the
+273 Senate Finance and Taxation General Fund Committee, the Chair
+274 of the House Ways and Means General Fund Committee, the Chair
+275 of the Senate Finance and Taxation Education Committee, and
+276 the Chair of the House Ways and Means Education Committee who
+277 shall alternate as the chair of the committee each year.
+278 (c) The Alabama Legislative Committee on the Evaluation
+279 of Services shall have 12 members. The membership of the
+280 committee shall include the following:
+Page 10
+
+committee shall include the following:
+SB317 INTRODUCED
+281 (1) The Chair and Vice-chair of the Senate Finance and
+282 Taxation Education Committee.
+283 (2) The Chair and Vice-chair of the Senate Finance and
+284 Taxation General Fund Committee.
+285 (3) The Chair and Vice-chair of the House Ways and
+286 Means Education Committee.
+287 (4) The Chair and Vice-chair of the House Ways and
+288 Means General Fund Committee.
+289 (5) One member of the Senate, appointed by the
+290 President Pro Tempore of the Senate.
+291 (6) One member of the House of Representatives,
+292 appointed by the Speaker of the House of Representatives.
+293 (7) One member of the Senate, appointed by the Minority
+294 Leader of the Senate.
+295 (8) One member of the House of Representatives,
+296 appointed by the Minority Leader of the House of
+297 Representatives.
+298 (d) The committee shall meet at the call of the chair
+299 or any two members, provided that the committee shall meet at
+300 least once every six months. A majority of the members of the
+301 committee shall constitute a quorum for the transaction of
+302 business at meetings. Members of the committee shall be
+303 entitled to their regular legislative compensation, per diem,
+304 and travel expenses each day they attend a meeting of the
+305 commission in accordance with Section 49 of the Constitution
+306 of Alabama of 2022. These payments shall be paid out of any
+307 funds appropriated for the use of the Legislature by means of
+308 warrants drawn by the Comptroller on the State Treasury.
+Page 11
+
+warrants drawn by the Comptroller on the State Treasury.
+SB317 INTRODUCED
+309 (e) Members of the committee may participate in a
+310 meeting of the committee by means of telephone conference,
+311 video conference, or similar communications equipment by means
+312 of which all persons participating in the meeting may hear
+313 each other at the same time. Participation by such means shall
+314 constitute presence in person at a meeting for all purposes.
+315 Section 2. (a) Chapter 2A of Title 29, Code of Alabama
+316 1975, related to the Alabama Commission on the Evaluation of
+317 Services, is repealed.
+318 (b) Any reference in any law to the Alabama Commission
+319 on the Evaluation of Services under Chapter 2A of Title 29,
+320 Code of Alabama 1975, shall be deemed a reference to the
+321 Alabama Commission on the Evaluation of Services created by
+322 Section 1.
+323 Section 3. This act shall become effective on January
+324 1, 2027.
+Page 12

@@ -1,0 +1,130 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB270 ENROLLED
+1 SB270
+2 YMZ7MN2-2
+3 By Senator Bell
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+SB270 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to utilities; to add Section 37-4-22.1 to the
+5 Code of Alabama 1975; to provide specific considerations for
+6 the Public Service Commission's review and approval of retail
+7 electric service contracts between a utility and a large load
+8 data center customer, including determining that such
+9 contracts provide for the recovery of incremental costs and
+10 promote other positive benefits.
+11 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+12 Section 1. Section 37-4-22.1 is added to the Code of
+13 Alabama 1975, to read as follows:
+14 §37-4-22.1
+15 (a) For purposes of this section, the following terms
+16 have the following meanings:
+17 (1) INCREMENTAL COSTS OF RETAIL ELECTRIC SERVICE. The
+18 additional costs associated with the generation, transmission,
+19 distribution, sale, or furnishing of electricity to a large
+20 load data center customer, including fuel costs and taxes,
+21 which the utility would not incur but for the large load data
+22 center customer contract.
+23 (2) LARGE LOAD DATA CENTER CUSTOMER. A customer of the
+24 utility which has executed a contract for retail electric
+25 service with the utility which requires the utility to serve
+26 an expected total peak demand of 150 megawatts or greater at
+27 one or more contiguous parcels of land, meets the definition
+28 of a data processing center under Section 40-9B-3, and
+Page 1
+
+of a data processing center under Section 40-9B-3, and
+SB270 Enrolled
+29 operates solely for the purpose of data processing.
+30 (3) TERMS AND CONDITIONS. The provisions in a contract
+31 for service between a customer and utility which address
+32 matters such as minimum term for contract length, upfront
+33 payments, security and collateral, and minimum payment.
+34 (b) Consistent with the commission's authority under
+35 Title 37 generally and Section 37-4-22 specifically, a
+36 contract for retail electric service between a utility and a
+37 person that qualifies as a large load data center customer is
+38 consistent with the public interest where the commission
+39 determines that the contract pricing and contract terms and
+40 conditions over the contract term are expected to:
+41 (1) Provide for the recovery of the incremental costs
+42 of retail electric service to the large load data center
+43 customer's premises from the large load data center customer;
+44 and
+45 (2) Promote positive benefits to other retail electric
+46 customers of the utility.
+47 (c) The determination of whether a contract between a
+48 large load data center customer and a utility promotes
+49 positive benefits under subdivision (b)(2) includes
+50 considerations such as:
+51 (1) Whether the pricing and terms and conditions of the
+52 contract could lower costs for other customers of the utility;
+53 (2) Whether the large load data center customer is
+54 expected to increase the efficiency of the utility's power
+55 system; and
+56 (3) Whether the large load data center customer
+Page 2
+
+(3) Whether the large load data center customer
+SB270 Enrolled
+57 promotes or contributes to economic growth in the community
+58 where the premises of the large load data center customer is
+59 located.
+60 Section 2. This act shall become effective on October
+61 1, 2026.
+Page 3
+
+1, 2026.
+SB270 Enrolled
+62
+63
+64
+65
+66
+67
+68 ________________________________________________
+69 President and Presiding Officer of the Senate
+70
+71
+72
+73 ________________________________________________
+74 Speaker of the House of Representatives
+75
+76
+77 SB270
+78 Senate 12-Mar-26
+79 I hereby certify that the within Act originated in and passed
+80 the Senate.
+81
+82 Patrick Harris,
+83 Secretary.
+84
+85
+86
+87
+88 House of Representatives
+89 Amended and passed: 08-Apr-26
+90
+91
+92
+93
+94 Senate concurred in House amendment 08-Apr-26
+95
+96
+97
+98
+99 By: Senator Bell
+Page 4

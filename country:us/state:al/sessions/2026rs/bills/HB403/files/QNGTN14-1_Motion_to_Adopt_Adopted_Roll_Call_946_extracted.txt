@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Motion to Adopt - Adopted Roll Call 946
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+QNGTN14-1 03/12/2026 JWB (L)JWB 2026-729 SUB HB403
+RAFFERTY SUBSTITUTE TO HB403
+OFFERED BY REPRESENTATIVE RAFFERTY
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Public Service
+6 Commission reviews retail electric service contracts
+7 between utilities and large load customers. The
+8 commission approves these contracts if the commission
+9 finds that the contracts are in the public interest.
+10 This bill would provide that when the commission
+11 is making the determination whether a contract between
+12 a utility and a large load customer is in the public
+13 interest, the commission must take into account certain
+14 considerations, including whether the contract will
+15 provide for the recovery from the large load customer
+16 of incremental costs that are attributable to the large
+17 load customer and that the contract will promote
+18 positive benefits for other residential, commercial,
+19 and industrial utility customers.
+20
+21
+22 A BILL
+23 TO BE ENTITLED
+24 AN ACT
+25
+26 Relating to utilities; to add Section 37-4-22.1 to the
+27 Code of Alabama 1975; to provide specific considerations for
+28 the Public Service Commission's review and approval of retail
+Page 1
+
+the Public Service Commission's review and approval of retail
+29 electric service contracts between a utility and a large load
+30 customer, including determining that such contracts provide
+31 for the recovery of incremental costs and promote other
+32 positive benefits.
+33 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+34 Section 1. Section 37-4-22.1 is added to the Code of
+35 Alabama 1975, to read as follows:
+36 §37-4-22.1
+37 (a) For purposes of this section, the following terms
+38 have the following meanings:
+39 (1) INCREMENTAL COSTS OF RETAIL ELECTRIC SERVICE. The
+40 additional costs associated with the generation, transmission,
+41 distribution, sale, or furnishing of electricity to a large
+42 load data center customer, including fuel costs and taxes,
+43 which the utility would not incur but for the large load data
+44 center customer contract.
+45 (2) LARGE LOAD CUSTOMER. A customer of the utility
+46 which has executed a contract for retail electric service with
+47 the utility which requires the utility to serve an expected
+48 total peak demand of 100 megawatts or greater at one or more
+49 contiguous parcels of land.
+50 (3) TERMS AND CONDITIONS. The provisions in a contract
+51 for service between a customer and utility which address
+52 matters such as minimum term for contract length, upfront
+53 payments, security and collateral, and minimum payment.
+54 (b) For purposes of Section 37-4-22(b), a contract for
+55 retail electric service between a utility and a person that
+56 qualifies as a large load customer is consistent with the
+Page 2
+
+qualifies as a large load customer is consistent with the
+57 public interest where the commission determines that the
+58 contract pricing and contract terms and conditions over the
+59 contract term are expected to:
+60 (1) Provide for the recovery of the incremental costs
+61 of retail electric service to the large load customer's
+62 premises from the large load customer; and
+63 (2) Promote positive benefits to other retail electric
+64 customers of the utility.
+65 (c) The determination of whether a contract between a
+66 large load customer and a utility promotes positive benefits
+67 under subdivision (b)(2) includes considerations such as:
+68 (1) Whether the pricing and terms and conditions of the
+69 contract could lower costs for other residential, commercial,
+70 and industrial customers of the utility; and
+71 (2) Whether the large load customer is expected to
+72 increase the efficiency of the utility's power system.
+73 Section 2. This act shall become effective on October
+74 1, 2026.
+Page 3

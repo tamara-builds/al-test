@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Melson 2nd Amendment Offered",
+    "occurred_at": "2026-02-19T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB288"
+}

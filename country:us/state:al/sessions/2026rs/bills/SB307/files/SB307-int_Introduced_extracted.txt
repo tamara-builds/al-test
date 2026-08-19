@@ -1,0 +1,410 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB307 INTRODUCED
+1 SB307
+2 NR1X6T8-1
+3 By Senators Coleman, Coleman-Madison, Smitherman (N & P)
+4 RFD: Jefferson County Legislation
+5 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+NR1X6T8-1 02/05/2026 VSM (L)VSM 2026-414
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would authorize a Class 1 municipality
+6 to create nonprofit community land trusts to provide
+7 affordable housing to low-income and moderate-income
+8 families through long-term ground leases between the
+9 community land trusts and qualifying lessees.
+10 This bill would require a community land trust
+11 to be membership-based with open meetings and a board
+12 of directors appointed by the mayor and confirmed by
+13 the city council. This bill would authorize a community
+14 land trust to acquire and lease real property, make
+15 improvements to residential real property, and enter
+16 into 99-year ground leases with qualified low-income
+17 and moderate-income lessees.
+18 This bill would also establish an option for the
+19 community land trust and the municipality to purchase
+20 certain properties or improvements to the real
+21 properties, to allow property tax exemptions for
+22 certain property owned by the trust, and to establish
+23 qualifications for potential lessees.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+SB307 INTRODUCED
+29
+30 Relating to counties and municipalities; to authorize
+31 Class 1 municipalities to establish and regulate a nonprofit
+32 community land trust for the purpose of creating affordable
+33 housing alternatives; to allow municipalities to appoint a
+34 community land trust board of directors; to allow a community
+35 land trust to acquire and lease real property to low-income
+36 and moderate-income families; and to allow property tax
+37 exemptions for certain trust property.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. This chapter shall be known and may be cited
+40 as the Alabama Community Land Trust Act of 2026.
+41 Section 2. This chapter applies only to Class 1
+42 municipalities.
+43 Section 3. When used in this chapter, the following
+44 words have the following meanings:
+45 (1) AFFORDABLE. For dwelling units available for lease,
+46 the insurance, utilities, and other fees constitute no more
+47 than 30 percent of the annual household income for low-income
+48 or moderate-income families as defined in this section.
+49 (2) BOARD OF DIRECTORS. The governing body of a
+50 community land trust elected and formed in accordance with the
+51 bylaws of such organization.
+52 (3) CLASS 1 MUNICIPALITY. A Class 1 municipality as
+53 defined in Section 11-40-12, Code of Alabama 1975.
+54 (4) COMMUNITY LAND TRUST. An entity that:
+55 a. Provides affordable housing to low-income and
+56 moderate-income families through ground leases; and
+Page 2
+
+moderate-income families through ground leases; and
+SB307 INTRODUCED
+57 b. Is organized by a Class 1 municipality.
+58 (5) FAMILY. A household consisting of one or more
+59 individuals.
+60 (6) GROUND LEASE. A lease between a community land
+61 trust and a tenant of real property owned by a community land
+62 trust that is designed to ensure that the property remains
+63 affordable to low-income and moderate-income families.
+64 (7) LIMITED EQUITY PRICE. A price for the sale of any
+65 improvement located on community land trust-owned land that is
+66 determined by means of a resale-restricted formula.
+67 (8) LOW-INCOME FAMILY. A family household with an
+68 aggregate income at or below 80 percent of the metro
+69 statistical area median income adjusted for family size, as
+70 determined by the Department of Housing and Urban Development
+71 (HUD).
+72 (9) MODERATE-INCOME FAMILY. A family household with an
+73 aggregate income at or below 120 percent of metro statistical
+74 area income adjusted for family size, as determined by HUD.
+75 (10) ORGANIZING MUNICIPALITY. The Class 1 municipality
+76 creating the community land trust pursuant to this chapter.
+77 (11) PREEMPTIVE PURCHASE OPTION. The right of a
+78 community land trust or the organizing municipality to
+79 purchase the improvements constructed on the community land
+80 trust-owned real property pursuant to a ground lease prior to
+81 any other party.
+82 (12) PROCEED-SHARING PROVISIONS. The resale formula
+83 provisions in the ground lease that establishes the maximum
+84 resale price and determines the allocation of sale proceeds
+Page 3
+
+resale price and determines the allocation of sale proceeds
+SB307 INTRODUCED
+85 between the seller and the preservation of affordability for
+86 future buyers.
+87 (13) QUALIFYING LESSEE. An individual or family that
+88 meets the criteria of low-income family or moderate-income
+89 family, as defined in this section, on the effective date of
+90 the lease.
+91 (14) REAL PROPERTY. Both land and improvements,
+92 including a leasehold interest in real property.
+93 (15) RESALE-RESTRICTED FORMULA. A formula designed to
+94 maintain durable affordability of community land trust-owned
+95 real property.
+96 (16) SPECIFIED INTEREST. The leasehold interest in the
+97 real property and associated structural improvements as
+98 distinct from the fee simple interest in the land retained by
+99 the community land trust.
+100 Section 4. The governing body of a Class 1 municipality
+101 within the State of Alabama is hereby authorized to create, by
+102 ordinance, one or more community land trusts to operate within
+103 its jurisdiction.
+104 Section 5. (a) The purpose of a community land trust is
+105 to:
+106 (1) Provide affordable housing for low-income and
+107 moderate-income families;
+108 (2) Keep housing affordable for future residents; and
+109 (3) Capture the value of public investment for
+110 long-term community benefit.
+111 (b) The bylaws of a community land trust shall provide
+112 that:
+Page 4
+
+that:
+SB307 INTRODUCED
+113 (1) The organization is membership-based;
+114 (2) Corporate membership is open to the general public;
+115 (3) Membership meetings are open to the general public,
+116 including nonmembers;
+117 (4) The board of directors shall consist of seven
+118 directors serving four-year terms.
+119 a. Four directors shall be appointed by the governing
+120 body of the organizing municipality and shall have expertise
+121 and experience in careers or activities involving real estate,
+122 property management, finance, real estate law, transit
+123 planning, residential contracting, banking, architecture, or
+124 city planning.
+125 b. Three directors shall be appointed by the mayor of
+126 the organizing municipality. One director shall be a
+127 professional in the finance or banking industry with
+128 experience in affordable and low-income housing, lending,
+129 finance, or tax credits for residential and commercial
+130 properties. One director shall be a registered architect,
+131 landscape architect, or city planner with experience in long
+132 range planning and neighborhood/community master planning. One
+133 director shall be a specialist in housing-related activities
+134 with experience in developing affordable housing for
+135 low-income and moderate-income families or a member of a
+136 nonprofit entity or organization involved in affordable
+137 housing for residents of the organizing municipality.
+138 c. The board of directors shall reflect the diversity
+139 of the community served by the community land trust to the
+140 extent practicable.
+Page 5
+
+extent practicable.
+SB307 INTRODUCED
+141 (5)a. The board of directors shall have the authority
+142 to establish, through resolutions or bylaws, provisions for
+143 director compensation, including salary, per diem, and travel
+144 expenses.
+145 b. The board of directors shall have the authority to
+146 employ staff through resolutions adopted by the board.
+147 Employees of the community land trust shall not be subject to
+148 the Merit System Act.
+149 c. A majority of the directors then in office shall
+150 constitute a quorum for the transaction of business.
+151 d. Directors may participate in meetings by
+152 teleconference or other electronic means, and such
+153 participation shall constitute presence at the meeting.
+154 e. Directors shall be immune from civil liability for
+155 acts or omissions made in good faith within the scope of their
+156 official duties, except for acts or omissions involving
+157 willful misconduct, gross negligence, or fraud.
+158 (c) Upon dissolution, the assets of the community land
+159 trust shall be transferred in accordance with Section 12 of
+160 this act.
+161 Section 6. (a) A community land trust may have any or
+162 all of the powers permitted to a nonprofit corporation under
+163 Chapter 3 of Title 10A, Code of Alabama 1975.
+164 (b) A community land trust may also:
+165 (1) Acquire real property for residential purposes;
+166 (2) Lease residential property;
+167 (3) Acquire an interest in property for construction of
+168 improvements to residential real property;
+Page 6
+
+improvements to residential real property;
+SB307 INTRODUCED
+169 (4) Make improvements to real property for residential
+170 purposes;
+171 (5) Enter into ground leases with qualified lessees as
+172 defined in this act and any other agreements or real property
+173 transactions supported by criteria established in the ground
+174 lease for the transfer of an interest in residential real
+175 property;
+176 (6) Engage in other activities related to the sale,
+177 leasing, management, maintenance, and preservation of
+178 properties under the control of the community land trust.
+179 (7) Accept funding from the organizing municipality and
+180 any other source authorized under Chapter 3, Title 10A, Code
+181 of Alabama 1975.
+182 Section 7. (a) A community land trust may lease housing
+183 units only to qualifying lessees.
+184 (b) Notwithstanding subsection (a), for multi-unit
+185 dwellings, housing units located on one or more tracts of land
+186 owned by the community land trust that constitute a contiguous
+187 geographic area or are located within the same platted
+188 subdivision:
+189 (1) At least 80 percent of the community land trust's
+190 leased dwelling units shall be leased to low-income families;
+191 and
+192 (2) Up to 20 percent of the community land trust's
+193 leased dwelling units may be leased to moderate-income
+194 families.
+195 (c) A community land trust shall determine qualifying
+196 lessee status at the time of lease. The lease may be
+Page 7
+
+lessee status at the time of lease. The lease may be
+SB307 INTRODUCED
+197 automatically renewed without redetermining the lessee's
+198 qualifying status.
+199 Section 8. (a) Each ground lease shall grant the
+200 community land trust and organizing municipality the right to
+201 purchase all improvements to the real property.
+202 (b)(1) The community land trust shall have 120 days to
+203 exercise its purchase option from the date notice of the event
+204 that triggers the purchase option is received.
+205 (2) If the community land trust fails to exercise its
+206 option within those 120 days or declines the option, the
+207 organizing municipality shall have an additional 120 days to
+208 exercise the purchase option from the date notice is received
+209 that the community land trust has not executed or declined its
+210 purchase option.
+211 (c)(1) The community land trust may assign its purchase
+212 option to a qualifying owner regardless of any other criteria
+213 established in the ground lease for the transfer of an
+214 interest in residential real property. Any sale pursuant to
+215 the assignment must be completed no more than 60 days from the
+216 assignment or the purchase option shall be considered to have
+217 not been excercised if more than 120 days have passed from the
+218 notice.
+219 (2) The organizing municipality may assign its purchase
+220 option to a qualifying owner regardless of any additional
+221 criteria established in the ground lease for the transfer of
+222 an interest in residential real property. Any sale pursuant to
+223 the assignment must be completed within 60 days of the
+224 assignment or the purchase option shall be considered to have
+Page 8
+
+assignment or the purchase option shall be considered to have
+SB307 INTRODUCED
+225 not been exercised if more than 120 days have passed from the
+226 notice.
+227 (d)(1) The failure of a community land trust to
+228 exercise the preemptive purchase option does not prohibit the
+229 community land trust from exercising any other right
+230 established in the ground lease, including the right to share
+231 in the proceeds of the first sale to a purchaser following the
+232 failure of the community land trust to exercise its right to
+233 repurchase.
+234 (2) If the community land trust and organizing
+235 municipality both fail to exercise or decline their purchase
+236 option within the prescribed time period, the homeowner shall
+237 be permitted to sell the improvements to any seller at a fair
+238 market value.
+239 (3) Only the first arm's-length, third-party
+240 transaction of the specified interest in real property after
+241 the community land trust and organizing municipality fails to
+242 exercise or declines their purchase option is subject to the
+243 proceed-sharing provisions of the ground lease.
+244 (4) A second or subsequent purchaser who acquires the
+245 specified interest in the real property in an arm's-length,
+246 third-party transaction for a fair market value receives title
+247 free of any rights established in the ground lease or deed of
+248 conveyance that would otherwise have been enforceable by the
+249 community land trust.
+250 (5) Notwithstanding subdivision (4), if a community
+251 land trust home is subject to a ground lease at the time a
+252 subsequent purchaser who acquires the specified interest in
+Page 9
+
+subsequent purchaser who acquires the specified interest in
+SB307 INTRODUCED
+253 the real property in an arm's-length, third-party transaction
+254 for a fair market value after the community land trust and
+255 organizing municipality have not exercised their preemptive
+256 purchase options, the purchaser shall pay the monthly ground
+257 lease fee in effect at the time of sale for the remaining term
+258 of the lease unless otherwise agreed to by the subsequent
+259 purchaser and the community land trust or their successors in
+260 interest.
+261 (6) The community land trust, or its successor in
+262 interest, shall not have the right to eject the subsequent
+263 purchaser for any reason other than failure to pay the monthly
+264 ground lease fee amount.
+265 Section 9. (a) A ground lease shall have a maximum term
+266 of 99 years and may be renewed under conditions set forth in
+267 the ground lease.
+268 (b) A ground lease shall include, but is not limited
+269 to, the following provisions:
+270 (1) The term and, if applicable, renewability of the
+271 ground lease.
+272 (2) The resale-restricted formula.
+273 (3) A community land trust's preemptive purchase option
+274 right.
+275 (4) An organizing municipality's preemptive purchase
+276 option right.
+277 (5) Any term that, if violated, is grounds for
+278 cancellation of the ground lease.
+279 (6) Occupancy requirements.
+280 (7) Amount of the ground lease fee and the conditions
+Page 10
+
+(7) Amount of the ground lease fee and the conditions
+SB307 INTRODUCED
+281 under which it may be increased.
+282 (8) The party responsible for payment of applicable
+283 property taxes.
+284 (c) A community land trust shall record any ground
+285 lease in its entirety.
+286 Section 10. (a) For real property acquired for
+287 residential purposes, owned by a community land trust, not
+288 subject to a ground lease, the real property shall be exempted
+289 from all property taxes for a period not to exceed three years
+290 if the community land trust intends to transfer or lease the
+291 home in accordance with Section 5, and is either:
+292 (1) Conducting construction on the real property,
+293 including, but not limited to, construction of a new
+294 residential property, rehabilitation of an existing property,
+295 and related tasks; or
+296 (2) Attempting to transfer or lease the home in
+297 accordance with Section 5.
+298 (b) For real property subject to a ground lease that is
+299 designed to preserve affordability for no more than 99 years,
+300 the real property shall be assessed and taxed in accordance
+301 with this section, provided:
+302 (1) At the time the ground lease is made, the buyer is
+303 a qualifying owner; and
+304 (2) The dwelling unit is owner-occupied.
+305 (c)(1) In determining the initial property tax
+306 assessment valuation, community land trust real property shall
+307 be assessed at the sale price.
+308 (2) In subsequent reassessments, the community land
+Page 11
+
+(2) In subsequent reassessments, the community land
+SB307 INTRODUCED
+309 trust real property shall be assessed at the lesser of:
+310 a. The limited equity price as determined by the
+311 resale-restricted formula; or
+312 b. The fair market value using an income method of
+313 valuation.
+314 (d) Leased community land trust residential property
+315 shall be assessed utilizing an income method of valuation. The
+316 assessor must base the assessment of the property upon the
+317 actual income generated by the property and may not take into
+318 consideration in reaching a decision the amount of any federal
+319 or state income tax credits received during development or
+320 sale.
+321 Section 11. (a) A nonprofit organization that loses its
+322 nonprofit status may no longer operate as a community land
+323 trust.
+324 (b) After losing its nonprofit status, the organization
+325 must transfer, within 120 days and without financial
+326 compensation other than incidental associated costs, its
+327 interest in any ground leases, in order of priority, to
+328 either:
+329 (1) The organizing municipality; or
+330 (2) A municipal entity or a nonprofit affordable
+331 housing organization designated by the organizing municipality
+332 that shares the purposes of the community land trust and has
+333 received a determination under 26 U.S.C. §501(c)(3).
+334 (c) If the entity or organization that gives up or
+335 loses its nonprofit status fails to begin the transfer of its
+336 interest in any ground leases or deeds of conveyance within
+Page 12
+
+interest in any ground leases or deeds of conveyance within
+SB307 INTRODUCED
+337 120 days as provided in subsection (b), all interests shall be
+338 transferred to the organizing municipality effective
+339 immediately.
+340 Section 12. The provisions of this act shall control
+341 where inconsistent with the provisions of another law.
+342 Section 13. This act shall become effective on October
+343 1, 2026.
+Page 13

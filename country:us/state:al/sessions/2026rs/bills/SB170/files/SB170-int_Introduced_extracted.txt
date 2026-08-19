@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB170 INTRODUCED
+1 SB170
+2 V7DBYLL-1
+3 By Senators Roberts, Shelnutt
+4 RFD: Banking and Insurance
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+V7DBYLL-1 01/13/2026 KMS (L)cr 2025-3734
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would create the Health Savings
+6 Account State-Federal Regulatory Coordination Act to
+7 protect the efficacy of Health Savings Account
+8 qualified plans from any state benefit mandate or
+9 federal copay accumulator adjustment law, regulation,
+10 or guidance relating to high deductible health plans.
+11 This bill would also authorize the Commissioner
+12 of Insurance to adopt rules as necessary to implement
+13 this act.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to health insurance; to create the Health
+21 Savings Account State-Federal Regulatory Coordination Act; to
+22 add Article 5 to Chapter 19, Title 27, Code of Alabama 1975,
+23 to limit application of a federal cost-sharing requirement to
+24 instances where the minimum deductible under federal law has
+25 been applied to an enrollee's plan; to ensure the enrollee's
+26 health savings account continues to qualify as a
+27 high-deductible plan under federal law; and to amend Sections
+28 10A-20-6.16 and 27-21A-23, Code of Alabama 1975, relating to
+Page 1
+
+10A-20-6.16 and 27-21A-23, Code of Alabama 1975, relating to
+SB170 INTRODUCED
+29 certain health care service corporations and health
+30 maintenance organizations, to reference the new Article 5,
+31 Chapter 9, Title 27, Code of Alabama 1975, created by the new
+32 article.
+33 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+34 Section 1. Article 5 is added to Chapter 19, Title 27
+35 of the Code of Alabama 1975, to read as follows:
+36 Article 5. The Health Savings Account State-Federal
+37 Regulatory Coordination Act.
+38 §27-19-180
+39 (a) This article shall be known and may be cited as the
+40 Health Savings Account State-Federal Regulatory Coordination
+41 Act.
+42 (b) The purpose of this article is to protect the
+43 efficacy of Health Savings Account (HSA) qualified plans via a
+44 legislative exception or safe harbor from any state benefit
+45 mandate or copay accumulator adjustment law due to federal
+46 law, regulations, rules, or guidance regarding high deductible
+47 health plans.
+48 (c) For purposes of this article, the following terms
+49 have the following meanings:
+50 (1) ENROLLEE. An individual who is enrolled in a health
+51 insurance plan, whether on an individual or group basis,
+52 including any covered dependent.
+53 (2) HEALTH SAVINGS ACCOUNT QUALIFIED INSURANCE PLAN or
+54 HSA. A high deductible health plan that meets the specific
+55 requirements of 26 U.S.C. § 223, as interpreted and
+56 administered by the federal Internal Revenue Service.
+Page 2
+
+administered by the federal Internal Revenue Service.
+SB170 INTRODUCED
+57 Individuals covered by such a plan may contribute to a Health
+58 Savings Account (HSA), a trust, or a custodial account for
+59 qualified medical expenses. An individual may not contribute
+60 to an HSA unless he or she is covered by an HSA-qualified
+61 insurance plan and has no other disqualifying coverage. An
+62 eligible individual may deduct contributions from income
+63 taxes, and employers and employees may contribute on a pre-tax
+64 basis through payroll deduction. HSA owners may use deposited
+65 funds tax-free for qualified medical expenses incurred by
+66 themselves and eligible dependents.
+67 (3) HIGH DEDUCTIBLE HEALTH PLAN. A health insurance
+68 plan, as defined in 26 U.S.C. § 223(c)(2).
+69 (4) PREVENTIVE CARE. Those services defined as such by
+70 the U.S. Department of the Treasury and the Internal Revenue
+71 Service, including preventive services recognized under the
+72 Affordable Care Act, pursuant to regulation or guidance issued
+73 under the authority of Title 26 of the United States Code. In
+74 general, the term does not include services that provide
+75 treatment for known illnesses, diseases, or conditions.
+76 However, under IRS Notice 2019-45, the term also includes
+77 specified products and services provided to individuals with
+78 certain defined chronic conditions including, but not limited
+79 to, diabetes, asthma, and heart disease.
+80 (5) ZERO COST-SHARING or COST-SHARING RESTRICTIONS.
+81 Prohibition outright of any deductible, copayment, or
+82 coinsurance on the part of the enrollee or certain limitations
+83 on the amount of the deductible, copayment, or coinsurance.
+84 (d) If under federal law, the application of any
+Page 3
+
+(d) If under federal law, the application of any
+SB170 INTRODUCED
+85 cost-sharing requirement of the Insurance Code would cause the
+86 enrollee's health savings account plan to no longer qualify as
+87 a high-deductible health plan under 26 U.S.C. § 223, then the
+88 cost-sharing requirement shall only apply to the enrollee's
+89 plan once the minimum deductible under 26 U.S.C. § 223 has
+90 been applied.
+91 (e) The Commissioner of Insurance may adopt rules as
+92 necessary to implement this section.
+93 Section 2. Sections 10A-20-6.16 and 27-21A-23 of the
+94 Code of Alabama 1975, are amended to read as follows:
+95 "§10A-20-6.16
+96 (a) No statute of this state applying to insurance
+97 companies shall be applicable to any corporation organized
+98 under this article and amendments thereto or to any contract
+99 made by the corporation;, except the corporation shall be
+100 subject to the following:
+101 (1) The provisions regarding annual premium tax to be
+102 paid by insurers on insurance premiums.
+103 (2) Chapter 55 of Title 27.
+104 (3) Article 2 and Article 3 of Chapter 19 of Title 27.
+105 (4) Section 27-1-17.
+106 (5) Chapter 56 of Title 27.
+107 (6) Rules adopted by the Commissioner of Insurance
+108 pursuant to Sections 27-7-43 and 27-7-44.
+109 (7) Chapter 54 of Title 27.
+110 (8) Chapter 57 of Title 27.
+111 (9) Chapter 58 of Title 27.
+112 (10) Chapter 59 of Title 27.
+Page 4
+
+(10) Chapter 59 of Title 27.
+SB170 INTRODUCED
+113 (11) Chapter 54A of Title 27.
+114 (12) Chapter 12A of Title 27.
+115 (13) Chapter 2B of Title 27.
+116 (14) Chapter 29 of Title 27.
+117 (15) Chapter 62 of Title 27.
+118 (16) Chapter 63 of Title 27.
+119 (17) Chapter 45A of Title 27.
+120 (18) Article 5 of Chapter 19 of Title 27.
+121 (b) The provisions in subsection (a) that require
+122 specific types of coverage to be offered or provided shall not
+123 apply when the corporation is administering a self-funded
+124 benefit plan or similar plan, fund, or program that it does
+125 not insure."
+126 "§27-21A-23
+127 (a) Except as otherwise provided in this chapter,
+128 provisions of the insurance law and provisions of health care
+129 service plan laws shall not be applicable to any health
+130 maintenance organization granted a certificate of authority
+131 under this chapter. This provisionsubsection shall not apply
+132 to an insurer or health care service plan licensed and
+133 regulated pursuant to the insurance law or the health care
+134 service plan laws of this state except with respect to its
+135 health maintenance organization activities authorized and
+136 regulated pursuant to this chapter.
+137 (b) Solicitation of enrollees by a health maintenance
+138 organization granted a certificate of authority shall not be
+139 construed to violate any provision of law relating to
+140 solicitation or advertising by health professionals.
+Page 5
+
+solicitation or advertising by health professionals.
+SB170 INTRODUCED
+141 (c) Any health maintenance organization authorized
+142 under this chapter shall not be deemed to be practicing
+143 medicine and shall be exempt from the provisions of Section
+144 34-24-310, et seq., relating to the practice of medicine.
+145 (d) No person participating in the arrangements of a
+146 health maintenance organization other than the actual provider
+147 of health care services or supplies directly to enrollees and
+148 their families shall be liable for negligence, misfeasance,
+149 nonfeasance, or malpractice in connection with the furnishing
+150 of such services and supplies.
+151 (e) Nothing in this chapter shall be construed in any
+152 way to repeal or conflict with any provision of the
+153 certificate of need law.
+154 (f) Notwithstanding the provisions of subsection (a), a
+155 health maintenance organization shall be subject to all of the
+156 following:
+157 (1) Section 27-1-17.
+158 (2) Chapter 56.
+159 (3) Chapter 54.
+160 (4) Chapter 57.
+161 (5) Chapter 58.
+162 (6) Chapter 59.
+163 (7) Rules adopted by the Commissioner of Insurance
+164 pursuant to Sections 27-7-43 and 27-7-44.
+165 (8) Chapter 12A.
+166 (9) Chapter 54A.
+167 (10) Chapter 2B.
+168 (11) Chapter 29.
+Page 6
+
+(11) Chapter 29.
+SB170 INTRODUCED
+169 (12) Chapter 62.
+170 (13) Chapter 63.
+171 (14) Chapter 45A.
+172 (15) Article 5 of Chapter 19."
+173 Section 3. This act shall become effective on June 1,
+174 2026.
+Page 7

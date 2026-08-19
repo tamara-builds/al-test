@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read for the first time and referred to the House Committee on Judiciary",
+    "occurred_at": "2026-02-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB427"
+}

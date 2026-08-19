@@ -1,0 +1,1858 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB389 INTRODUCED
+1 HB389
+2 EJR7V22-1
+3 By Representative Robertson
+4 RFD: Judiciary
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+EJR7V22-1 01/28/2026 CMH (L)bm 2025-3796
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the crime of domestic
+6 violence is committed when a person commits a crime
+7 against a victim who has a recognized relationship with
+8 the defendant, including the parent, child, or spouse
+9 of the defendant.
+10 This bill would further provide for the meaning
+11 of "victim" for purposes of the crime of domestic
+12 violence by including any child of a present household
+13 member who also lives in or visits the household of the
+14 defendant.
+15 This bill would establish a temporary holding
+16 period for persons arrested for committing domestic
+17 violence.
+18 This bill would establish minimum bonding
+19 requirements that must be included if a domestic
+20 violence defendant is released on bond.
+21 Under existing law, the crimes of domestic
+22 violence in the first and second degrees have mandatory
+23 minimum penalties that are required to be imposed under
+24 certain conditions.
+25 This bill would provide conditions for the
+26 imposition of mandatory minimum penalties for domestic
+27 violence in the third degree and domestic violence by
+28 strangulation.
+Page 1
+
+strangulation.
+HB389 INTRODUCED
+29 Under existing law, when two or more opposing
+30 individuals complain of domestic violence against each
+31 other, the law enforcement officer is required to
+32 attempt to evaluate each complaint and determine who
+33 was the predominant aggressor. If it is determined that
+34 one individual was the predominant physical aggressor,
+35 the officer may arrest that individual.
+36 This bill would add additional factors to assist
+37 the officer in making the determination of which party
+38 was the predominant physical aggressor.
+39 Under existing law, law enforcement officers are
+40 required to distribute a general summary of the
+41 Protection From Abuse Act to domestic violence victims.
+42 This bill would substantially revise the
+43 required notice and provide mandatory language to be
+44 used.
+45 This bill would prohibit a law enforcement
+46 officer, a prosecuting attorney, or a court official
+47 from requiring a victim of a sexual offense or domestic
+48 violence to undergo a polygraph examination as a
+49 condition of proceeding with the investigation of the
+50 offense and would deem any refusal to undertake such an
+51 examination as inadmissible in court.
+52 Under existing law, each law enforcement agency
+53 is required to document and report records of domestic
+54 violence incidents.
+55 This bill would specify that domestic violence
+56 incidents that are investigated but do not result in an
+Page 2
+
+incidents that are investigated but do not result in an
+HB389 INTRODUCED
+57 arrest must be reported and would require the Alabama
+58 State Law Enforcement Agency to input the reports into
+59 the Law Enforcement Tactical System.
+60 This bill would also revise the crime of
+61 electronic stalking to include placing an electronic
+62 monitoring device on an individual directly,
+63 indirectly, or by means of a third party.
+64
+65
+66
+67 A BILL
+68 TO BE ENTITLED
+69 AN ACT
+70
+71 Relating to domestic violence crimes; to provide
+72 definitions for purposes of the domestic violence law; to
+73 amend Sections 13A-6-130, 13A-6-131, 13A-6-132, 13A-6-135,
+74 13A-6-136, 13A-6-137, 13A-6-138, 13A-6-139, 13A-6-139.2,
+75 13A-6-141, 13A-6-142, and 13A-6-143, Code of Alabama 1975, to
+76 further provide for the crimes of domestic violence in various
+77 degrees to include the minor children of a party who has a
+78 dating relationship with the defendant; to establish a
+79 temporary holding period and bond requirements for violations;
+80 to establish mandatory minimum periods of incarceration for
+81 certain violations; to include additional factors for
+82 determining predominant domestic violence aggressor; to
+83 establish mandatory language to be used in the notice
+84 distributed to domestic violence victims; to prohibit the
+Page 3
+
+distributed to domestic violence victims; to prohibit the
+HB389 INTRODUCED
+85 required use of a polygraph device for victims of sexual
+86 offenses or domestic violence; to require the reporting of
+87 domestic violence incidents that do not result in an arrest;
+88 to amend Sections 15-10-3 and 15-13-190, Code of Alabama 1975,
+89 to establish a temporary holding period and bond requirements
+90 for arrests made for violations of a protection from abuse
+91 order; to amend Section 12-25-32, Code of Alabama 1975, to
+92 include within the meaning of "violent offense" the crime of
+93 domestic violence in the third degree when committed following
+94 a previous conviction for domestic violence; to amend Section
+95 13A-11-72, as last amended by Act 2025-273, 2025 Regular
+96 Session, Code of Alabama 1975, to further provide definitions;
+97 to amend Section 30-5-2, Code of Alabama 1975, to further
+98 provide definitions; and to amend Sections 13A-6-92, 13A-6-95,
+99 and 13A-6-96, Code of Alabama 1975, to further provide for the
+100 crime of electronic stalking by prohibiting the placement of
+101 an electronic monitoring device indirectly or through a third
+102 party.
+103 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+104 Section 1. For purposes of Article 7 of Chapter 6 of
+105 Title 13A, Code of Alabama 1975, the following terms shall
+106 have the following meanings:
+107 (1) ASPHYXIA. Any restriction, however slight, of
+108 oxygen or blood flow to the body.
+109 (2) CHILD. The term as defined under Section 26-14-1,
+110 Code of Alabama 1975.
+111 (3) CHILD IN COMMON. A child born or unborn of the
+112 parties who share: (i) physical or legal custody; or (ii)
+Page 4
+
+parties who share: (i) physical or legal custody; or (ii)
+HB389 INTRODUCED
+113 parentage, regardless of any past or present relationship.
+114 (4) DATING RELATIONSHIP. A substantive romantic or
+115 intimate social relationship characterized by the expectation
+116 of affection or sexual involvement between the parties over
+117 time during the course of the relationship.
+118 (5) DOMESTIC VIOLENCE VICTIM or VICTIM. An individual
+119 who is related to the domestic violence defendant in any of
+120 the following ways:
+121 a. A current or former spouse.
+122 b. A parent or step-parent.
+123 c. A child or step-child.
+124 d. A grandparent or step-grandparent.
+125 e. A grandchild or step-grandchild.
+126 f. A person with whom the defendant has a child in
+127 common.
+128 g. A present household member.
+129 h. A child of a present household member who also lives
+130 or visits the household of the defendant.
+131 i. A person who has or had a dating relationship with
+132 the defendant.
+133 j. A ward of a guardian if the guardian is any of the
+134 individuals described in this subdivision.
+135 (6) GUARDIAN. A person who is the legal guardian or
+136 assumed guardian by kinship or friendship of a ward. The term
+137 includes a person who has significant care, custody, or
+138 control over another individual physically, legally, or
+139 financially, and who lives with the individual.
+140 (7) HOUSEHOLD MEMBER. An individual who is temporarily
+Page 5
+
+(7) HOUSEHOLD MEMBER. An individual who is temporarily
+HB389 INTRODUCED
+141 or permanently living with the defendant and who is
+142 romantically or intimately involved with the defendant. The
+143 term does not include co-residents, roommates, or other
+144 non-romantic or non-intimate relationships.
+145 (8) IN THE PRESENCE OF A CHILD. When an act occurs and
+146 a child is present and in a position to see or hear the act;
+147 provided, the term does not require the child to have in fact
+148 visually or audibly witnessed the act.
+149 (9) PHYSICAL HARM. Any injury, illness, or other
+150 physiological impairment, including restraint, that results in
+151 any measure of harm regardless of its gravity or duration.
+152 (10) STRANGULATION. Knowingly, willfully,
+153 intentionally, or recklessly causing or attempting to cause
+154 asphyxia by closure or compression of the blood vessels or air
+155 passages of the neck as a result of external pressure.
+156 (11) SUBSTANTIALLY SIMILAR CONVICTION. Any similar
+157 offense for which an Alabama offender has been convicted under
+158 current or prior Alabama law or the law of any other state,
+159 the District of Columbia, the United States, or any of the
+160 territories of the United States.
+161 (12) SUFFOCATION. Knowingly, willfully, intentionally,
+162 or recklessly causing or attempting to cause physical harm by
+163 intentionally causing asphyxia by depriving a person of air or
+164 by preventing a person from breathing through the inhalation
+165 of toxic gases or by blocking or obstructing the airway of a
+166 person by any means other than by strangulation.
+167 (13) WARD. A person who is under the substantial care
+168 and physical, legal, or financial control of a guardian.
+Page 6
+
+and physical, legal, or financial control of a guardian.
+HB389 INTRODUCED
+169 Section 2. Sections 13A-6-130, 13A-6-131, 13A-6-132,
+170 13A-6-135, 13A-6-136, 13A-6-137, 13A-6-138, 13A-6-139,
+171 13A-6-139.2, 13A-6-141, 13A-6-142, and 13A-6-143, Code of
+172 Alabama 1975, are amended to read as follows:
+173 "§13A-6-130
+174 (a)(1) A person commits the crime of domestic violence
+175 in the first degree if the person commits the crime of assault
+176 in the first degree pursuant to Section 13A-6-20; aggravated
+177 stalking pursuant to Section 13A-6-91; or burglary in the
+178 first degree pursuant to Section 13A-7-5 and the victim is a
+179 current or former spouse, parent, step-parent, child,
+180 step-child, grandparent, step-grandparent, grandchild,
+181 step-grandchild, any person with whom the defendant has a
+182 child in common, a present household member, or a person who
+183 has or had a dating relationship with the defendant domestic
+184 violence victim.
+185 (2) For the purposes of this section, a household
+186 member excludes non-romantic or non-intimate co-residents, and
+187 a dating relationship means a current or former relationship
+188 of a romantic or intimate nature characterized by the
+189 expectation of affectionate or sexual involvement by either
+190 party.
+191 (b) Domestic violence in the first degree is a Class A
+192 felony, except that the defendant shall serve a minimum term
+193 of imprisonment of one year without consideration of
+194 probation, parole, good time credits, or any other reduction
+195 in time for any second or subsequent conviction under this
+196 subsection.
+Page 7
+
+subsection.
+HB389 INTRODUCED
+197 (c) The minimum term of imprisonment imposed under
+198 subsection (b) shall be double without consideration of
+199 probation, parole, good time credits, or any reduction in time
+200 if either of the following occurs:
+201 (1) A defendant willfully violates a protection order
+202 issued by a court of competent jurisdiction and in the process
+203 of violating the order commits domestic violence in the first
+204 degree.
+205 (2) The offense was committed in the presence of a
+206 child under the age of 14 years at the time of the offense,
+207 who is the victim's child or step-child, the defendant's child
+208 or step-child, or who is a child residing in or visiting the
+209 household of the victim or defendant. For purposes of this
+210 subsection, "in the presence of a child" means that the child
+211 was in a position to see or hear the act.
+212 (d) The court shall make a written finding of fact, to
+213 be made part of the record upon conviction or adjudication, of
+214 whether or not the act was committed in the presence of a
+215 child. If a defendant has a trial by jury and the jury finds
+216 the defendant guilty, the jury shall also render a special
+217 verdict as to whether or not the defendant committed the act
+218 in the presence of a child.
+219 (e)(1) A person arrested under this section shall be
+220 subject to a temporary holding period pursuant to the terms of
+221 this subsection.
+222 (2) Any bond, appearance bond, secured appearance bond,
+223 or personal recognizance order shall not be enforced or
+224 executed, and the defendant shall not be released on bail or
+Page 8
+
+executed, and the defendant shall not be released on bail or
+HB389 INTRODUCED
+225 otherwise, until the passage of 24 hours has occurred from the
+226 time of arrest.
+227 (3) Upon the expiration of the temporary holding
+228 period, the requirements of Section 15-10-3 or Section
+229 15-13-190 shall apply, as applicable.
+230 (4) The purpose of this section is to provide the
+231 alleged victim with time to seek safety from the defendant and
+232 to provide the court time to issue a protection from abuse
+233 order, as provided under Section 13A-6-140 et seq., with
+234 particularized conditions of release to protect the safety of
+235 the alleged victim and the community.
+236 (f) If the court grants bond, the conditions of the
+237 bond shall do all of the following:
+238 (1) Enjoin the defendant from committing or threatening
+239 to commit acts of domestic violence against the alleged
+240 victim.
+241 (2) Restrain and enjoin the defendant from contacting
+242 the victim. For purposes of this subdivision, "contacting"
+243 includes, but is not limited to, communicating with the victim
+244 verbally or in any written form, either in person, by
+245 telephone, electronically, or by any other manner, either
+246 directly or indirectly through a third person.
+247 (3) Prohibit the defendant from possessing a firearm or
+248 other weapon specified by the court, except when the weapon is
+249 necessary for employment as a law enforcement officer or
+250 military personnel.
+251 (4) Issue any other order or modification of orders to
+252 protect the safety of the alleged victim or to ensure the
+Page 9
+
+protect the safety of the alleged victim or to ensure the
+HB389 INTRODUCED
+253 appearance of the defendant in court."
+254 "§13A-6-131
+255 (a)(1) A person commits the crime of domestic violence
+256 in the second degree if the person commits the crime of
+257 assault in the second degree pursuant to Section 13A-6-21; the
+258 crime of intimidating a witness pursuant to Section
+259 13A-10-123; the crime of stalking in the first degree pursuant
+260 to Section 13A-6-90; the crime of burglary in the second or
+261 third degree pursuant to Sections 13A-7-6 and 13A-7-7; or the
+262 crime of criminal mischief in the first degree pursuant to
+263 Section 13A-7-21 and the victim is a current or former spouse,
+264 parent, step-parent, child, step-child, grandparent,
+265 step-grandparent, grandchild, step-grandchild, any person with
+266 whom the defendant has a child in common, a present household
+267 member, or a person who has or had a dating relationship with
+268 the defendant domestic violence victim.
+269 (2) For the purposes of this section, a household
+270 member excludes non-romantic or non-intimate co-residents, and
+271 a dating relationship means a current or former relationship
+272 of a romantic or intimate nature characterized by the
+273 expectation of affectionate or sexual involvement by either
+274 party.
+275 (b) Domestic violence in the second degree is a Class B
+276 felony, except the defendant shall serve a minimum term of
+277 imprisonment of six months without consideration of probation,
+278 parole, good time credits, or any reduction in time for any
+279 second or subsequent conviction under this subsection.
+280 (c) The minimum term of imprisonment imposed under
+Page 10
+
+(c) The minimum term of imprisonment imposed under
+HB389 INTRODUCED
+281 subsection (b) shall be double without consideration of
+282 probation, parole, good time credits, or any reduction in time
+283 if either of the following applies:
+284 (1) A defendant willfully violates a protection order
+285 issued by a court of competent jurisdiction and in the process
+286 of violating the order commits domestic violence in the second
+287 degree.
+288 (2) The offense was committed in the presence of a
+289 child under the age of 14 years at the time of the offense,
+290 who is the victim's child or step-child, the defendant's child
+291 or step-child, or who is a child residing in or visiting the
+292 household of the victim or defendant. For purposes of this
+293 subsection, "in the presence of a child" means that the child
+294 was in a position to see or hear the act.
+295 (d) The court shall make a written finding of fact, to
+296 be made part of the record upon conviction or adjudication, of
+297 whether or not the act was committed in the presence of a
+298 child. If a defendant has a trial by jury and the jury finds
+299 the defendant guilty, the jury shall also render a special
+300 verdict as to whether or not the defendant committed the act
+301 in the presence of a child.
+302 (e)(1) A person arrested under this section shall be
+303 subject to a temporary holding period pursuant to the terms of
+304 this subsection.
+305 (2) Any bond, appearance bond, secured appearance bond,
+306 or personal recognizance order shall not be enforced or
+307 executed, and the defendant shall not be released on bail or
+308 otherwise, until the passage of 24 hours has occurred from the
+Page 11
+
+otherwise, until the passage of 24 hours has occurred from the
+HB389 INTRODUCED
+309 time of arrest.
+310 (3) Upon the expiration of the temporary holding
+311 period, the requirements of Section 15-10-3 or Section
+312 15-13-190 shall apply, as applicable.
+313 (4) The purpose of this section is to provide the
+314 alleged victim with time to seek safety from the defendant and
+315 to provide the court time to issue a protection from abuse
+316 order, as provided under Section 13A-6-140 et seq., with
+317 particularized conditions of release to protect the safety of
+318 the alleged victim and the community.
+319 (f) If the court grants bond, the conditions of the
+320 bond shall do all of the following:
+321 (1) Enjoin the defendant from committing or threatening
+322 to commit acts of domestic violence against the alleged
+323 victim.
+324 (2) Restrain and enjoin the defendant from contacting
+325 the victim. For purposes of this subdivision, "contacting"
+326 includes, but is not limited to, communicating with the victim
+327 verbally or in any written form, either in person, by
+328 telephone, electronically, or by any other manner, either
+329 directly or indirectly through a third person.
+330 (3) Prohibit the defendant from possessing a firearm or
+331 other weapon specified by the court, except when the weapon is
+332 necessary for employment as a law enforcement officer or
+333 military personnel.
+334 (4) Issue any other order or modification of orders to
+335 protect the safety of the alleged victim or to ensure the
+336 appearance of the defendant in court."
+Page 12
+
+appearance of the defendant in court."
+HB389 INTRODUCED
+337 "§13A-6-132
+338 (a)(1) A person commits domestic violence in the third
+339 degree if the person commits the crime of assault in the third
+340 degree pursuant to Section 13A-6-22; the crime of menacing
+341 pursuant to Section 13A-6-23; the crime of reckless
+342 endangerment pursuant to Section 13A-6-24; the crime of
+343 criminal coercion pursuant to Section 13A-6-25; the crime of
+344 harassment pursuant to subsection (a) of Section 13A-11-8(a);
+345 the crime of criminal surveillance pursuant to Section
+346 13A-11-32; the crime of harassing communications pursuant to
+347 subsection (b) of Section 13A-11-8(b); the crime of criminal
+348 trespass in the third degree pursuant to Section 13A-7-4; the
+349 crime of criminal mischief in the second or third degree
+350 pursuant to Sections 13A-7-22 and 13A-7-23; or the crime of
+351 arson in the third degree pursuant to Section 13A-7-43; and
+352 the victim is a current or former spouse, parent, step-parent,
+353 child, step-child, grandparent, step-grandparent, grandchild,
+354 step-grandchild, any person with whom the defendant has a
+355 child in common, a present household member, or a person who
+356 has or had a dating relationship with the defendant domestic
+357 violence victim.
+358 (2) For the purpose of this section, a household member
+359 excludes non-romantic or non-intimate co-residents, and a
+360 dating relationship means a current or former relationship of
+361 a romantic or intimate nature characterized by the expectation
+362 of affectionate or sexual involvement by either party.
+363 (b) Domestic violence in the third degree shall be
+364 punished as follows:
+Page 13
+
+punished as follows:
+HB389 INTRODUCED
+365 (1) A first conviction is a Class A misdemeanor. The
+366 minimum term of imprisonment imposed under subsection (a)
+367 shall be 30 days without consideration of reduction in time if
+368 a defendant willfully violates a protection order issued by a
+369 court of competent jurisdiction and in the process of
+370 violating the order commits domestic violence in the third
+371 degree.
+372 (c)(2) A second conviction under subsection (a) is a
+373 Class A misdemeanor, except in addition to any other minimum
+374 term of imprisonment under this section, the defendant shall
+375 serve a minimum term of imprisonment of 10 days in a city or
+376 county jail or detention facility without consideration for
+377 any reduction in time.
+378 (d)(3) A third or subsequent conviction under
+379 subsection (a) is a Class C felony.
+380 (e)(4) If the defendant has a previous conviction for
+381 domestic violence in the first degree pursuant to Section
+382 13A-6-130, domestic violence in the second degree pursuant to
+383 Section 13A-6-131, domestic violence by strangulation or
+384 suffocation pursuant to Section 13A-6-138, or a domestic
+385 violence conviction or other substantially similar conviction
+386 from another state or jurisdiction, a conviction under
+387 subsection (a) is a Class C felony.
+388 (f)(c) For purposes of determining second, third, or
+389 subsequent number of convictions, convictions in municipal
+390 court shall be included.
+391 (d) The minimum term of imprisonment imposed under
+392 subsection (b) shall be 30 days without consideration of
+Page 14
+
+subsection (b) shall be 30 days without consideration of
+HB389 INTRODUCED
+393 reduction in time if either of the following apply:
+394 (1) The defendant willfully violates a protection order
+395 issued by a court of competent jurisdiction and in the process
+396 of violating the order commits domestic violence in the third
+397 degree.
+398 (2) The defendant commits domestic violence in the
+399 third degree in the presence of a child and the underlying
+400 crime is any of the following:
+401 a. Assault in the third degree pursuant to Section
+402 13A-6-22.
+403 b. Menacing pursuant to Section 13A-6-23.
+404 c. Arson in the third degree pursuant to Section
+405 13A-7-43.
+406 (e)(1) The court shall make written findings of fact,
+407 to be made part of the record upon conviction or adjudication,
+408 as to whether the act was committed in the presence of a child
+409 or, if convicted under subdivision (d)(2), stating the
+410 underlying crime.
+411 (2) If a defendant has a trial by jury and the jury
+412 finds the defendant guilty, the jury shall also render a
+413 special verdict as to whether the defendant committed the act
+414 in the presence of a child.
+415 (f)(1) A person arrested under this section shall be
+416 subject to a temporary holding period pursuant to the terms of
+417 this subsection.
+418 (2) Any bond, appearance bond, secured appearance bond,
+419 or personal recognizance order shall not be enforced or
+420 executed, and the defendant shall not be released on bail or
+Page 15
+
+executed, and the defendant shall not be released on bail or
+HB389 INTRODUCED
+421 otherwise, until the passage of 24 hours has occurred from the
+422 time of arrest.
+423 (3) Upon the expiration of the temporary holding
+424 period, the requirements of Section 15-10-3 or Section
+425 15-13-190 shall apply, as applicable.
+426 (4) The purpose of this section is to provide the
+427 alleged victim with time to seek safety from the defendant and
+428 to provide the court time to issue a protection from abuse
+429 order, as provided under Section 13A-6-140 et seq., with
+430 particularized conditions of release to protect the safety of
+431 the alleged victim and the community.
+432 (g) If the court grants bond, the conditions of the
+433 bond shall do all of the following:
+434 (1) Enjoin the defendant from committing or threatening
+435 to commit acts of domestic violence against the alleged
+436 victim.
+437 (2) Restrain and enjoin the defendant from contacting
+438 the victim. For purposes of this subdivision, "contacting"
+439 includes, but is not limited to, communicating with the victim
+440 verbally or in any written form, either in person, by
+441 telephone, electronically, or by any other manner, either
+442 directly or indirectly through a third person.
+443 (3) Prohibit the defendant from possessing a firearm or
+444 other weapon specified by the court, except when the weapon is
+445 necessary for employment as a law enforcement officer or
+446 military personnel.
+447 (4) Issue any other order or modification of orders to
+448 protect the safety of the alleged victim or to ensure the
+Page 16
+
+protect the safety of the alleged victim or to ensure the
+HB389 INTRODUCED
+449 appearance of the defendant in court."
+450 "§13A-6-133
+451 (a) For the purposes of an arrest without a warrant
+452 pursuant to Section 15-10-3, the crimes of domestic violence
+453 in the first, second, and third degrees,; violation of a
+454 domestic violence protection order; interference with a
+455 domestic violence emergency call; and domestic violence by
+456 strangulation or suffocation shall be an offense involving
+457 domestic violence.
+458 (b) A warrantless arrest for an offense involving
+459 domestic violence made pursuant to subdivision (8) of
+460 subsection (a) of Section 15-10-3(a)(8), shall include a
+461 charge of a crime of domestic violence under this article."
+462 "§13A-6-134
+463 (a) If a law enforcement officer receives complaints of
+464 domestic violence from two or more opposing
+465 personsindividuals, or if both partiesindividuals have
+466 injuries, the officer shall evaluate each complaint separately
+467 to determine who was the predominant aggressor. It is the
+468 purpose and intent of this section to avoid, whenever
+469 possible, the arrest of both individuals.
+470 (b) If the officer determines that one person
+471 individual was the predominant physical aggressor, that
+472 personindividual may be arrested.; however, a person However,
+473 an individual who acts in a reasonable manner to protect
+474 himself or herself or another family or household member from
+475 domestic violence may not be arrested for a violation of
+476 Section 13A-6-130, 13A-6-131, 13A-6-132, or 13A-6-138.
+Page 17
+
+Section 13A-6-130, 13A-6-131, 13A-6-132, or 13A-6-138.
+HB389 INTRODUCED
+477 (c) In determining whether a personan individual is the
+478 predominant aggressor, the officer shall consider all of the
+479 following:
+480 (1) Prior complaints of domestic violence.
+481 (2) The relative severity of the injuries inflicted on
+482 each personindividual, including whether the injuries are
+483 offensive versus defensive in nature.
+484 (3) The likelihood of future injury to each
+485 personindividual.
+486 (4) Whether the personindividual had reasonable cause
+487 to believe he or she was in imminent danger of becoming a
+488 victim of any act of domestic violence.
+489 (5) Whether one of the personsindividuals acted in
+490 self-defense.
+491 (6) History of violating court orders.
+492 (7) The duration and severity of the alleged incident,
+493 including whether a weapon was used and whether the incident
+494 involved physical harm, sexual assault, or strangulation.
+495 (8) History of abuse during pregnancy, animal abuse, or
+496 forcible entry into a dwelling.
+497 (9) Present or past homicidal or self-harm ideations.
+498 (b)(d) A law enforcement officer shall not threaten,
+499 suggest, or otherwise indicate the possible arrest of all
+500 partiesindividuals to discourage the request for intervention
+501 by law enforcement by any partyan individual or base the
+502 decision to arrest or not to arrest on either of the
+503 following:
+504 (1) The specific consent or request of the victim.
+Page 18
+
+(1) The specific consent or request of the victim.
+HB389 INTRODUCED
+505 (2) The officer's perception of the willingness of a
+506 victim of or witness to the domestic violence to testify or
+507 otherwise participate in a judicial proceeding.
+508 (3) The type or nature of the relationship of the
+509 individuals involved in the incident.
+510 (4) The absence of visible indications of injury or
+511 physical harm or emotional trauma.
+512 (c)(e)(1) In addition to victim information services
+513 required pursuant to Section 15-23-62, a law enforcement
+514 officer, at the time of initial investigation, shall give a
+515 victim of domestic violence notice of the legal rights and
+516 remedies available on a standard form developed and
+517 distributed by the Alabama State Law Enforcement Agency
+518 pursuant to subdivision (2).
+519 (2) The agency shall develop a "Legal Rights and
+520 Remedies Notice to Victims" that includes a general summary of
+521 the provisions of the Protection From Abuse Act using the
+522 following language a layperson may understand and the
+523 statewide domestic violence hotline number, and shall
+524 distribute the notice to all law enforcement agencies
+525 throughout the state.:
+526 "Section I
+527 You, as a victim of a crime, may apply for financial
+528 benefits under the Alabama Crime Victims Compensation
+529 Commission. You may also be eligible for restitution. This
+530 assistance lessens the financial burden on innocent victims of
+531 violent crime who have suffered a financial loss due to
+532 injuries or other qualifying events.
+Page 19
+
+injuries or other qualifying events.
+HB389 INTRODUCED
+533 For more information contact the Alabama Crime Victims
+534 Compensation Commission.
+535 Section II
+536 A Protection from Abuse ("PFA") proceeding under
+537 Section 30-5-1 et seq., Code of Alabama 1975, is available to
+538 certain victims of domestic violence. This is a civil
+539 proceeding, not a criminal proceeding. A victim, on his or her
+540 own, through an attorney, or through a personal
+541 representative, may request an order from a judge which will
+542 assist in providing protection from abuse by providing
+543 specific relief. Relief may include child custody, financial
+544 support from the abuser, housing and transportation
+545 provisions, and an order of no contact from the abuser. Relief
+546 is within the discretion of the judge. By law, there are no
+547 costs or fees for seeking and/or receiving a PFA order. More
+548 information on Protection From Abuse Orders is available at
+549 any Alabama county courthouse.
+550 Section III
+551 As a victim of a crime, you have legal rights under
+552 Alabama's constitution when authorized. Some of those rights
+553 include a right:
+554 To be informed about your case.
+555 To be present and heard when authorized at all crucial
+556 stages of criminal proceedings.
+557 To refuse a request by the defendant or defendant's
+558 attorney for communication or interview.
+559 To remain away from the defendant during court
+560 sessions.
+Page 20
+
+sessions.
+HB389 INTRODUCED
+561 To be notified of an arrest within 60 days. If you have
+562 not been notified, you may call the law enforcement agency for
+563 the status of the case.
+564 The responding officer's name, agency, contact
+565 information, and incident report identification number.
+566 Section IV
+567 The criminal process can be confusing. You are
+568 encouraged to ask questions and discuss any concerns with the
+569 prosecutor assigned to your case. The criminal process in
+570 Alabama generally follows these steps for felonies:
+571 investigation, arrest, first appearance by defendant,
+572 preliminary hearing, grand jury, and plea or trial. If the
+573 case is handled by the municipality, contact the municipal
+574 clerk of court for more information.
+575 During these stages, there are numerous appearances and
+576 hearings. It is very important that you appear in court when
+577 summoned because without your assistance it is difficult to
+578 prosecute the offender. Contact your victim services officer
+579 or prosecutor for all questions. *Only licensed attorneys may
+580 give legal advice.
+581 Section V
+582 As a victim, you may experience any or all of the
+583 following:
+584 Shock, Disbelief, Numbness, Change in appetite, Change
+585 in sleep patterns, Guilt, Shame, Anxiety, Depression,
+586 Intrusive thoughts, Anger, and Fatigue. Seeking or receiving
+587 assistance is encouraged.
+588 Create a safety plan and ensure it is not available to
+Page 21
+
+Create a safety plan and ensure it is not available to
+HB389 INTRODUCED
+589 the abuser.
+590 (1) Develop a code to alert a trusted person to call
+591 law enforcement.
+592 (2) Have a bag packed with a change of clothes,
+593 important papers, spare keys, cell phone, and cash.
+594 (3) In an emergency, dial 9-1-1.
+595 (4) Seek out resources for assistance."
+596 (d)(f) A law enforcement officer is not liable in any
+597 civil action filed by any party for an arrest based on
+598 probable cause, enforcement of a court order, or service of
+599 process arising from an alleged incident of domestic violence,
+600 pursuant to Sections 36-1-12 and 6-5-338, as applicable."
+601 "§13A-6-135
+602 For the purposes of Chapter 5 of Title 30, the crimes
+603 of domestic violence in the first, second, and third degrees;
+604 violation of a protection order; interference with a domestic
+605 violence emergency call; and domestic violence by suffocation
+606 and strangulation shall be included as acts, attempts, or
+607 threats of abuse as defined pursuant to Section 30-5-2."
+608 "§13A-6-136
+609 For the purposes of Article 6, Chapter 3 of Title 30,
+610 the definition of "domestic or family abuse" includes an
+611 incident of domestic violence in the first, second, or third
+612 degrees; violation of a protection order; interference with a
+613 domestic violence emergency call; and domestic violence by
+614 suffocation and strangulation pursuant to this article."
+615 "§13A-6-137
+616 (a) A person commits the crime of interference with a
+Page 22
+
+(a) A person commits the crime of interference with a
+HB389 INTRODUCED
+617 domestic violence emergency call if he or she intentionally
+618 hinders, obstructs, disconnects, or in any way prevents the
+619 domestic violence victim from calling for assistance.
+620 (b) Interference with a domestic violence emergency
+621 call is a Class B misdemeanor."
+622 "§13A-6-138
+623 (a) For the purposes of this section, the following
+624 terms have the following meanings:
+625 (1) STRANGULATION. Intentionally causing asphyxia by
+626 closure or compression of the blood vessels or air passages of
+627 the neck as a result of external pressure on the neck.
+628 (2) SUFFOCATION. Intentionally causing asphyxia by
+629 depriving a person of air or by preventing a person from
+630 breathing through the inhalation of toxic gases or by blocking
+631 or obstructing the airway of a person, by any means other than
+632 by strangulation.
+633 (b)(a) A person commits the crime of domestic violence
+634 by strangulation or suffocation if he or she commits an
+635 assault with intent to cause physical harm or commits the
+636 crime of menacing pursuant to Section 13A-6-23, by
+637 strangulation or suffocation or attempted strangulation or
+638 suffocation and the victim is a current or former spouse,
+639 parent, step-parent, child, step-child, grandparent,
+640 step-grandparent, grandchild, step-grandchild, any person with
+641 whom the defendant has a child in common, a present household
+642 member, or a person who has or had a dating relationship with
+643 the defendant. For the purpose of this section, a household
+644 member excludes non-romantic or non-intimate co-residents, and
+Page 23
+
+member excludes non-romantic or non-intimate co-residents, and
+HB389 INTRODUCED
+645 a dating relationship means a current or former relationship
+646 of a romantic or intimate nature characterized by the
+647 expectation of affectionate or sexual involvement by either
+648 party domestic violence victim.
+649 (c)(b)(1) Domestic violence by strangulation or
+650 suffocation is a Class B felony punishable as provided by law.
+651 (2) On a second or subsequent offense, the defendant
+652 shall serve a minimum term of imprisonment of six months
+653 without consideration of probation, parole, good time credits,
+654 or any reduction in time.
+655 (c) The minimum term of imprisonment under subsection
+656 (b) shall be doubled without consideration of probation,
+657 parole, good time credits, or any reduction in time if either
+658 of the following applies:
+659 (1) The defendant willfully violates a protection order
+660 issued by a court of competent jurisdiction and in the process
+661 of violating the order commits domestic violence in any
+662 degree.
+663 (2) The offense was committed in the presence of a
+664 child.
+665 (d)(1) The court shall make a written finding of fact,
+666 to be made part of the record upon conviction or adjudication,
+667 of whether the act was committed in the presence of a child.
+668 (2) If a defendant has a trial by jury and the jury
+669 finds the defendant guilty, the jury shall also render a
+670 special verdict as to whether the defendant committed the act
+671 in the presence of a child.
+672 (e)(1) A person arrested under this section shall be
+Page 24
+
+(e)(1) A person arrested under this section shall be
+HB389 INTRODUCED
+673 subject to a temporary holding period pursuant to the terms of
+674 this subsection.
+675 (2) Any bond, appearance bond, secured appearance bond,
+676 or personal recognizance order shall not be enforced or
+677 executed, and the defendant shall not be released on bail or
+678 otherwise, until the passage of 24 hours has occurred from the
+679 time of arrest.
+680 (3) Upon the expiration of the temporary holding
+681 period, the requirements of Section 15-10-3 or Section
+682 15-13-190 shall apply, as applicable.
+683 (4) The purpose of this section is to provide the
+684 alleged victim with time to seek safety from the defendant and
+685 to provide the court time to issue a protection from abuse
+686 order, as provided under Section 13A-6-140 et seq., with
+687 particularized conditions of release to protect the safety of
+688 the alleged victim and the community.
+689 (f) If the court grants bond, the conditions of the
+690 bond shall do all of the following:
+691 (1) Enjoin the defendant from committing or threatening
+692 to commit acts of domestic violence against the alleged
+693 victim.
+694 (2) Restrain and enjoin the defendant from contacting
+695 the victim. For purposes of this subdivision, "contacting"
+696 includes, but is not limited to, communicating with the victim
+697 verbally or in any written form, either in person, by
+698 telephone, electronically, or by any other manner, either
+699 directly or indirectly through a third person.
+700 (3) Prohibit the defendant from possessing a firearm or
+Page 25
+
+(3) Prohibit the defendant from possessing a firearm or
+HB389 INTRODUCED
+701 other weapon specified by the court, except when the weapon is
+702 necessary for employment as a law enforcement officer or
+703 military personnel.
+704 (4) Issue any other order or modification of orders to
+705 protect the safety of the alleged victim or to ensure the
+706 appearance of the defendant in court."
+707 "§13A-6-139
+708 (a) Notwithstanding any other provision of law, no
+709 court costs shall be assessed against any victim of domestic
+710 violence, stalking, or sexual assault in connection with the
+711 prosecution or warrant recall of a domestic violence,
+712 stalking, or sexual assault offense.
+713 (b) A law enforcement officer, prosecuting attorney,
+714 court official, or any other government official shall not ask
+715 or require an adult, minor, or child victim of an alleged
+716 domestic violence, stalking or sexual offense to submit to a
+717 polygraph examination or other truth-telling device as a
+718 condition of proceeding with the investigation of the offense.
+719 (c) Any request of or refusal by a victim to submit to
+720 a polygraph examination or any other truth-telling device is
+721 inadmissible in any criminal or civil action related to
+722 domestic violence, stalking, or sexual assault of the victim.
+723 (d) The refusal of a victim to submit to a polygraph
+724 examination or other truth-telling device does not prevent the
+725 investigation, charging, or prosecution of the offense."
+726 "§13A-6-139.2
+727 (a) Each agency in the state that is involved with the
+728 enforcement, monitoring, or prosecution of crimes of domestic
+Page 26
+
+enforcement, monitoring, or prosecution of crimes of domestic
+HB389 INTRODUCED
+729 violence shall collect and maintain records of each domestic
+730 violence incident, including incidents that do not result in
+731 an arrest, for access by investigators preparing for bond
+732 hearings and prosecutions for acts of domestic violence.
+733 (b) Each agency shall transmit the records to the
+734 Alabama State Law Enforcement Agency for timely input into the
+735 Law Enforcement Tactical System to allow for access to history
+736 of domestic violence for safety reasons and charging
+737 decisions."
+738 "§13A-6-141
+739 As used in this article, the following terms shall have
+740 the following meanings, respectively, unless the context
+741 clearly indicates otherwise:
+742 (1) DOMESTIC VIOLENCE PROTECTION ORDER. A domestic
+743 violence protection order is anyAny protection from abuse
+744 order issued pursuant to the Protection from Abuse Act,
+745 Sections 30-5-1 to 30-5-11, inclusiveChapter 5 of Title 30.
+746 The term includes all of the following:
+747 a. A restraining order, injunctive order, or order of
+748 release from custody which has been issued in a circuit,
+749 district, municipal, or juvenile court in a domestic relations
+750 or family violence case;.
+751 b. An order issued by municipal, district, or circuit
+752 court which places conditions on the pre-trial release on
+753 defendants in criminal cases, including provisions of bail
+754 pursuant to Section 15-13-190;.
+755 c. An order issued by another state or territory which
+756 may be enforced under Sections 30-5B-1 through 30-5B-10.
+Page 27
+
+may be enforced under Sections 30-5B-1 through 30-5B-10.
+HB389 INTRODUCED
+757 Restraining or protection orders not issued pursuant to the
+758 Protection From Abuse Act, Sections 30-5-1 to 30-5-11,
+759 inclusive, must specify that a history of violence or abuse
+760 exists for the provisions of this chapter to apply.
+761 d. Any other restraining or protection order, including
+762 an order not issued pursuant to the Protection From Abuse Act,
+763 Chapter 5 of Title 30, that specifies that a history of
+764 violence or abuse exists.
+765 (2) VIOLATION. The knowing commission of any act
+766 prohibited by a domestic violence protection order or any
+767 willful failure to abide by its terms."
+768 "§13A-6-142
+769 (a) A person commits the crime of violation of a
+770 domestic violence protection order if the person who is
+771 subject to an order of protection knowingly commits any act
+772 prohibited by a domestic violence protection order or
+773 willfully fails to abide by any term of a domestic violence
+774 protection order.
+775 (b) A violation of a domestic violence protection order
+776 is a Class A misdemeanor which shall be punishable as provided
+777 by law. A second conviction for violation of a domestic
+778 violence protection order, in addition to any other penalty or
+779 fine, shall be punishable by a minimum of 30 days imprisonment
+780 which may not be suspended. A third or subsequent conviction
+781 is a Class C felony.
+782 (c) In addition to any other fine or penalty provided
+783 by law, the court shall order the defendant to pay an
+784 additional fine of fifty dollars ($50) for a violation of a
+Page 28
+
+additional fine of fifty dollars ($50) for a violation of a
+HB389 INTRODUCED
+785 domestic violence protection order to be distributed to the
+786 Domestic Violence Trust Fund, established by Section 30-6-11."
+787 "§13A-6-143
+788 (a) A law enforcement officer may arrest any person who
+789 is subject to a domestic violence protection order for the
+790 violation of this article if the officer has probable cause to
+791 believe that the person has violated any provision of a valid
+792 domestic violence protection order, whether temporary or
+793 permanent.
+794 (b) The presentation of a domestic violence protection
+795 order constitutes probable cause for an officer to believe
+796 that a valid order exists.
+797 (c) For purposes of this article, the domestic violence
+798 protection order may be inscribed on a tangible copy or may be
+799 stored in an electronic or other medium if it is retrievable
+800 in a detectable form.
+801 (d) Presentation of a certified copy or registered
+802 order of the domestic violence protection order is not
+803 required for enforcement or to allow a law enforcement officer
+804 to effect a warrantless arrest.
+805 (e) If a domestic violence protection order is not
+806 presented to or otherwise confirmed by a law enforcement
+807 officer, the officer may consider other information in
+808 determining whether there is probable cause to believe that a
+809 valid domestic violence protection order exists.
+810 (f) The law enforcement officer may arrest the
+811 defendant person without a warrant although he or she the law
+812 enforcement officer did not personally see the violation.
+Page 29
+
+enforcement officer did not personally see the violation.
+HB389 INTRODUCED
+813 (g) Knowledge by the law enforcement officer of the
+814 existence or contents of, or both, or presentation to the
+815 officer by the complainant of, a domestic violence protection
+816 order shall constitute prima facie evidence of the validity of
+817 the order.
+818 (h) If a law enforcement officer of this state
+819 determines that an otherwise valid domestic violence
+820 protection order cannot be enforced because the defendant
+821 person has not been notified or served with the domestic
+822 violence protection order, the law enforcement officer shall
+823 inform the defendant person of the order and allow the person
+824 a reasonable opportunity to comply with the order's provisions
+825 before enforcing the order.
+826 (i) In the eventIf the law enforcement officer provides
+827 notice of the domestic violence protection order to the
+828 defendantperson, the officer shall document this fact and any
+829 attendant circumstances in the a written report."
+830 Section 3. Sections 15-10-3 and 15-13-190, Code of
+831 Alabama 1975, are amended to read as follows:
+832 "§15-10-3
+833 (a) An officer may arrest a person without a warrant,
+834 on any day and at any time in any of the following instances:
+835 (1) If a public offense has been committed or a breach
+836 of the peace threatened in the presence of the officer.
+837 (2) When a felony has been committed, though not in the
+838 presence of the officer, by the person arrested.
+839 (3) When a felony has been committed and the officer
+840 has probable cause to believe that the person arrested
+Page 30
+
+has probable cause to believe that the person arrested
+HB389 INTRODUCED
+841 committed the felony.
+842 (4) When the officer has probable cause to believe that
+843 the person arrested has committed a felony, although it may
+844 afterwards appear that a felony had not in fact been
+845 committed.
+846 (5) When a charge has been made, upon probable cause,
+847 that the person arrested has committed a felony.
+848 (6) When the officer has actual knowledge that a
+849 warrant for the person's arrest for the commission of a felony
+850 or misdemeanor has been issued, provided the warrant was
+851 issued in accordance with this chapter. However, upon request
+852 the officer shall show the warrant to the arrested person as
+853 soon as possible. If the officer does not have the warrant in
+854 his or her possession at the time of arrest the officer shall
+855 inform the defendant of the offense charged and of the fact
+856 that a warrant has been issued.
+857 (7) When the officer has probable cause to believe that
+858 a felony or misdemeanor has been committed by the person
+859 arrested in violation of a protection order, including a
+860 domestic violence protection order or an elder abuse
+861 protection order, issued by a court of competent jurisdiction.
+862 (8) When an offense involves a crime of domestic
+863 violence, including domestic violence in the first degree,
+864 pursuant to Section 13A-6-130, domestic violence in the second
+865 degree, pursuant to Section 13A-6-131, domestic violence in
+866 the third degree, pursuant to Section 13A-6-132, interference
+867 with a domestic violence emergency call, in violation of
+868 Section 13A-6-137, or domestic violence by strangulation or
+Page 31
+
+Section 13A-6-137, or domestic violence by strangulation or
+HB389 INTRODUCED
+869 suffocation, pursuant to Section 13A-6-138, violation of a
+870 domestic violence protection order pursuant to Section
+871 13A-6-142, or elder abuse as defined in Section 38-9F-3, and
+872 the arrest is based on probable cause.
+873 (b) When a law enforcement officer investigates an
+874 allegation of domestic violence or elder abuse, whether or not
+875 an arrest is made, the officer shall make a written report of
+876 the alleged incident, including a statement of the complaint,
+877 and the disposition of the case.
+878 (c) If the defendant is arrested under this section for
+879 committing an act of domestic violence, including domestic
+880 violence in the first degree, pursuant to Section 13A-6-130,
+881 domestic violence in the second degree, pursuant to Section
+882 13A-6-131, domestic violence in the third degree, pursuant to
+883 Section 13A-6-132, interference with a domestic violence
+884 emergency call, in violation of Section 13A-6-137, or domestic
+885 violence by strangulation or suffocation, pursuant to Section
+886 13A-6-138, in violation of a domestic violence protection
+887 order, or an act of elder abuse in violation of an elder abuse
+888 protection order, the defendant shall be held in custody until
+889 brought before the court within 48 hours for the purpose of
+890 enforcing the protection order and for consideration of bail
+891 in accordance with Section 15-13-190 and the applicable rules
+892 of criminal procedure, pending a hearing. If the defendant is
+893 not brought before the court within 48 hours, the defendant
+894 shall be subject to bail according to the Alabama Rules of
+895 Criminal Procedure.
+896 (d)(1) A person arrested under this section shall be
+Page 32
+
+(d)(1) A person arrested under this section shall be
+HB389 INTRODUCED
+897 subject to a temporary holding period pursuant to the terms of
+898 this subsection.
+899 (2) Any bond, appearance bond, secured appearance bond,
+900 or personal recognizance order shall not be enforced or
+901 executed, and the defendant shall not be released on bail or
+902 otherwise, until the passage of 24 hours has occurred from the
+903 time of arrest.
+904 (3) Upon the expiration of the temporary holding
+905 period, the requirements of Section 15-10-3 or Section
+906 15-13-190 shall apply, as applicable.
+907 (4) The purpose of this section is to provide the
+908 alleged victim with time to seek safety from the defendant and
+909 to provide the court time to issue a protection from abuse
+910 order, as provided under Section 13A-6-140 et seq., with
+911 particularized conditions of release to protect the safety of
+912 the alleged victim and the community.
+913 (e) If the court grants bond, the conditions of the
+914 bond shall do all of the following:
+915 (1) Enjoin the defendant from committing or threatening
+916 to commit acts of domestic violence against the alleged
+917 victim.
+918 (2) Restrain and enjoin the defendant from contacting
+919 the victim. For purposes of this subdivision, "contacting"
+920 includes, but is not limited to, communicating with the victim
+921 verbally or in any written form, either in person, by
+922 telephone, electronically, or by any other manner, either
+923 directly or indirectly through a third person.
+924 (3) Prohibit the defendant from possessing a firearm or
+Page 33
+
+(3) Prohibit the defendant from possessing a firearm or
+HB389 INTRODUCED
+925 other weapon specified by the court, except when the weapon is
+926 necessary for employment as a law enforcement officer or
+927 military personnel.
+928 (4) Issue any other order or modification of orders to
+929 protect the safety of the alleged victim or to ensure the
+930 appearance of the defendant in court."
+931 "§15-13-190
+932 (a) A person arrested for domestic violence in the
+933 first degree, pursuant to Section 13A-6-130, domestic violence
+934 in the second degree, pursuant to Section 13A-6-131, domestic
+935 violence in the third degree, pursuant to Section 13A-6-132,
+936 interference with a domestic violence emergency call, in
+937 violation of Section 13A-6-137, or domestic violence by
+938 strangulation or suffocation, pursuant to Section 13A-6-138,
+939 or a violation of a domestic violence protection order, may
+940 not be admitted to bail until after an appearance before a
+941 judge or magistrate within 24 hours of the arrest, and if the
+942 person is not taken before a judge or magistrate within 24
+943 hours of the arrest, he or she shall be afforded an
+944 opportunity to make bail in accordance with the Alabama Rules
+945 of Criminal Procedure.
+946 (b) The judge or magistrate may shall impose conditions
+947 of release or bail on the person to protect the alleged victim
+948 of domestic violence or the person protected by a protection
+949 order, and to ensure the appearance of the person at a
+950 subsequent court proceeding. The conditions may include, but
+951 need not be limited to, the following:
+952 (1) Enjoining the person from threatening to commit or
+Page 34
+
+(1) Enjoining the person from threatening to commit or
+HB389 INTRODUCED
+953 committing acts of domestic violence against the alleged
+954 victim.
+955 (2) a. Restraining and enjoining the defendant from
+956 contacting the victim.
+957 b. For the purposes of this subsection, "contacting"
+958 includes, but is not limited to, communicating with the victim
+959 verbally or in any written form, either in person,
+960 telephonicallyby telephone, electronically, or in any other
+961 manner, either directly or indirectly through a third person.
+962 (3) Prohibiting the person from possessing a firearm or
+963 other weapon specified by the court, except when such weapon
+964 is necessary for employment as a peacelaw enforcement officer
+965 or military personnel.
+966 (4) Issuing any other order or modification of orders
+967 required in this section to protect the safety of the alleged
+968 victim or to ensure the appearance of the person in court.
+969 (c) If conditions of release are imposed, the judge or
+970 magistrate shall issue a written order for conditional
+971 release, immediately distribute a copy of the order to the law
+972 enforcement agency having custody of the arrested or charged
+973 person, place information pertaining to the order in the
+974 domestic violence protection order registry and Law
+975 Enforcement Tactical System, and provide the law enforcement
+976 agency with any available information concerning the location
+977 of the alleged victim in a manner that protects the safety of
+978 the victim. Law A law enforcement officer shall provide a copy
+979 of the written order to the victim within 24 hours of receipt,
+980 provided that the victim provides the investigating law
+Page 35
+
+provided that the victim provides the investigating law
+HB389 INTRODUCED
+981 enforcement agency with current and accurate contact
+982 information.
+983 (d) In cases in which the defendant has been placed on
+984 conditional release or bail pursuant to this section or is in
+985 violation of probation from another case and is arrested on a
+986 probation violation warrant, a violation of written condition
+987 of release pursuant to this section, or a violation of a prior
+988 protection order, the court shall consider revocation of
+989 probation, conditional release, or bail. Should the court
+990 order continuecontinued probation, conditional release, or
+991 bail, the court shall order additional conditions imposed on
+992 the defendant to provide protection to the victim of domestic
+993 violence or the person protected by a protection order.
+994 Additional conditions shall be included in a written order.
+995 (e) A person who willfully violates a condition of
+996 pretrial release provided in this section, when the original
+997 arrest was for an act of domestic violence, shall be subject
+998 to the penalties provided in Section 13A-6-142, and shall
+999 receive an enhanced penalty and additional sentence of
+1000 imprisonment in accordance with Section 13A-6-142.
+1001 (f)(1) A person arrested under this section shall be
+1002 subject to a temporary holding period pursuant to the terms of
+1003 this subsection.
+1004 (2) Any bond, appearance bond, secured appearance bond,
+1005 or personal recognizance order shall not be enforced or
+1006 executed, and the defendant shall not be released on bail or
+1007 otherwise, until the passage of 24 hours has occurred from the
+1008 time of arrest.
+Page 36
+
+time of arrest.
+HB389 INTRODUCED
+1009 (3) Upon the expiration of the temporary holding
+1010 period, the requirements of Section 15-10-3 or this section
+1011 shall apply, as applicable.
+1012 (4) The purpose of this section is to provide the
+1013 alleged victim with time to seek safety from the defendant and
+1014 to provide the court time to issue a protection from abuse
+1015 order, as provided under Section 13A-6-140 et seq., with
+1016 particularized conditions of release to protect the safety of
+1017 the alleged victim and the community.
+1018 (g) If the court grants bond, the conditions of the
+1019 bond shall do all of the following:
+1020 (1) Enjoin the defendant from committing or threatening
+1021 to commit acts of domestic violence against the alleged
+1022 victim.
+1023 (2) Restrain and enjoin the defendant from contacting
+1024 the victim. For purposes of this subdivision, "contacting"
+1025 includes, but is not limited to, communicating with the victim
+1026 verbally or in any written form, either in person, by
+1027 telephone, electronically, or by any other manner, either
+1028 directly or indirectly through a third person.
+1029 (3) Prohibit the defendant from possessing a firearm or
+1030 other weapon specified by the court, except when the weapon is
+1031 necessary for employment as a law enforcement officer or
+1032 military personnel.
+1033 (4) Issue any other order or modification of orders to
+1034 protect the safety of the alleged victim or to ensure the
+1035 appearance of the defendant in court."
+1036 Section 4. Section 12-25-32, Code of Alabama 1975, is
+Page 37
+
+Section 4. Section 12-25-32, Code of Alabama 1975, is
+HB389 INTRODUCED
+1037 amended to read as follows:
+1038 "§12-25-32
+1039 For the purposes of this article, the following terms
+1040 have the following meanings:
+1041 (1) COMMISSION. The Alabama Sentencing Commission,
+1042 established as a state agency under the Supreme Court of
+1043 Alabama by this chapter.
+1044 (2) CONTINUUM OF PUNISHMENTS. An array of punishment
+1045 options, from probation to incarceration, graduated in
+1046 restrictiveness according to the degree of supervision of the
+1047 offender, including, but not limited to, all of the following:
+1048 a. Active Incarceration. A sentence, other than an
+1049 intermediate punishment or unsupervised probation, that
+1050 requires an offender to serve a sentence of imprisonment. The
+1051 term includes time served in a work release program operated
+1052 as a custody option by the Alabama Department of Corrections
+1053 or in the Supervised Intensive Restitution program of the
+1054 Department of Corrections pursuant to Article 7, commencing
+1055 with Section 15-18-110, of Chapter 18 of Title 15.
+1056 b. Intermediate Punishment. A sentence that may include
+1057 assignment to any community based punishment program or may
+1058 include probation with conditions or probation in conjunction
+1059 with a period of confinement. Intermediate punishments
+1060 include, but are not limited to, all of the following options:
+1061 1. A split sentence pursuant to Section 15-18-8.
+1062 2. Assignment to a community punishment and corrections
+1063 program pursuant to the Alabama Community Punishment and
+1064 Corrections Act or local acts.
+Page 38
+
+Corrections Act or local acts.
+HB389 INTRODUCED
+1065 3. Assignment to a community based manual labor work
+1066 program pursuant to Sections 14-5-30 to 14-5-37,
+1067 inclusiveArticle 2 of Chapter 5 of Title 14.
+1068 4. Intensive probation supervision pursuant to Section
+1069 15-22-56.
+1070 5. Cognitive and behavioral training.
+1071 6. Community service work.
+1072 7. County probation.
+1073 8. Day fines or means-based fines.
+1074 9. Day reporting.
+1075 10. Drug or alcohol testing.
+1076 11. Drug court programs.
+1077 12. Educational programs.
+1078 13. Electronic monitoring.
+1079 14. Home confinement or house arrest.
+1080 15. Ignition interlock.
+1081 16. Intermittent confinement.
+1082 17. Jail and prison diversion programs.
+1083 18. Job readiness and work.
+1084 19. Literacy and basic learning.
+1085 20. Pretrial diversion programs.
+1086 21. Residential drug treatment.
+1087 22. Residential community based punishment programs in
+1088 which the offender is required to spend at least eight hours
+1089 per day, or overnight, within a facility and is required to
+1090 participate in activities such as counseling, treatment,
+1091 social skills training, or employment training, conducted at
+1092 the residential facility or at another specified location.
+Page 39
+
+the residential facility or at another specified location.
+HB389 INTRODUCED
+1093 23. Restorative justice as established in Section
+1094 12-17-226.6.
+1095 (i) Victim impact panels.
+1096 (ii) Voluntary victim offender conferencing.
+1097 (iii) Voluntary victim offender mediation.
+1098 24. Self-help groups.
+1099 25. Sobrietor or breath alcohol remote monitoring.
+1100 26. Substance abuse education and treatment.
+1101 27. Treatment alternatives to street crime (TASC).
+1102 28. Voice recognition, curfew restriction, or
+1103 employment monitoring.
+1104 29. Work release, other than those work release
+1105 programs operated by the Alabama Department of Corrections, as
+1106 a custody option.
+1107 c. Unsupervised Probation. A sentence in a criminal
+1108 case that includes a period of probation but does not include
+1109 supervision, active incarceration, or an intermediate
+1110 punishment.
+1111 d. Post-release Supervision. A mandatory period of
+1112 supervision following sentences of active incarceration as
+1113 defined in paragraph a. that may include one or more
+1114 intermediate punishment options.
+1115 (3) COURT. Unless otherwise stated, a district or
+1116 circuit court exercising jurisdiction to sentence felony
+1117 offenders.
+1118 (4) EVIDENCE-BASED PRACTICES. Policies, procedures,
+1119 programs, and practices proven by widely accepted and
+1120 published research to reliably produce reductions in
+Page 40
+
+published research to reliably produce reductions in
+HB389 INTRODUCED
+1121 recidivism.
+1122 (5) FELONY OFFENSE. A noncapital felony offense.
+1123 (6) INITIAL VOLUNTARY STANDARDS. The voluntary
+1124 sentencing standards effective on October 1, 2006. These
+1125 standards were based on statewide historic sentences imposed
+1126 with normative adjustments designed to reflect current
+1127 sentencing policies.
+1128 (7) NONVIOLENT OFFENSE. All offenses which are not
+1129 violent offenses.
+1130 (8) NONVIOLENT OFFENDER. Any offender who does not
+1131 qualify as a violent offender pursuant to subdivision (14).
+1132 (9) OFFENDER. A person convicted of a noncapital felony
+1133 offense.
+1134 (10) RELEASE AUTHORITY. Any public official, agency, or
+1135 other entity authorized by law to release a sentenced offender
+1136 from incarceration or other conditions of a sentence.
+1137 (11) VALIDATED RISK AND NEEDS ASSESSMENT. An actuarial
+1138 tool that has been validated and established by administrative
+1139 rule in Alabama to determine the likelihood of an offender
+1140 engaging in future criminal behavior. The Board of Pardons and
+1141 Paroles and the Department of Corrections shall adopt
+1142 compatible tools to conduct a validated risk and needs
+1143 assessment upon offenders within the jurisdiction of the
+1144 state. A validated risk and needs assessment shall include,
+1145 but not be limited to, an offender's prior criminal history,
+1146 the nature and severity of the present offense, and potential
+1147 for future violence.
+1148 (12) TRUTH-IN-SENTENCING STANDARDS. Truth in sentencing
+Page 41
+
+(12) TRUTH-IN-SENTENCING STANDARDS. Truth in sentencing
+HB389 INTRODUCED
+1149 is scheduled to become effective October 1, 2020.
+1150 (13) UNDER SUPERVISION. All offenders underUnder the
+1151 supervision of any criminal justice agency or program
+1152 including, but not limited to, any of the following entities:
+1153 a. The Alabama Department of Corrections.
+1154 b. State or county probation offices.
+1155 c. Community corrections programs pursuant to Alabama
+1156 Community Corrections Act.
+1157 d. Jails.
+1158 e. State or local law enforcement agencies.
+1159 f. Any court.
+1160 (14) VIOLENT OFFENDER. A violent offender is anAn
+1161 offender who has been convicted of a violent offense, or who
+1162 is determined by the trial court judge or a release authority
+1163 to have demonstrated a propensity for violence, aggression, or
+1164 weapons related behavior based on the criminal history or
+1165 behavior of the offender while under supervision of any
+1166 criminal justice system agency or entity.
+1167 (15) VIOLENT OFFENSE.
+1168 a. For the purposes of this article, a violent offense
+1169 includes each of the following offenses, or any substantially
+1170 similar offense to those listed in this subdivision created
+1171 after June 20, 2003:
+1172 1. Capital murder pursuant to Sections 13A-6-2 and
+1173 13A-5-40.
+1174 2. Murder pursuant to Section 13A-6-2.
+1175 3. Manslaughter pursuant to Section 13A-6-3.
+1176 4. Criminally negligent homicide pursuant to Section
+Page 42
+
+4. Criminally negligent homicide pursuant to Section
+HB389 INTRODUCED
+1177 13A-6-4.
+1178 5. Assault I pursuant to Section 13A-6-20.
+1179 6. Assault II pursuant to Section 13A-6-21.
+1180 7. Compelling street gang membership pursuant to
+1181 Section 13A-6-26.
+1182 8. Kidnapping I pursuant to Section 13A-6-43.
+1183 9. Kidnapping II pursuant to Section 13A-6-44.
+1184 10. Rape I pursuant to Section 13A-6-61.
+1185 11. Rape II pursuant to Section 13A-6-62.
+1186 12. Sodomy I pursuant to Section 13A-6-63.
+1187 13. Sodomy II pursuant to Section 13A-6-64.
+1188 14. Sexual torture pursuant to Section 13A-6-65.l.
+1189 15. Sexual abuse I pursuant to Section 13A-6-66.
+1190 16. Enticing a child to enter a vehicle for immoral
+1191 purposes pursuant to Section 13A-6-69.
+1192 17. Stalking pursuant to Section 13A-6-90.
+1193 18. Aggravated stalking pursuant to Section 13A-6-91.
+1194 19. Soliciting a child by computer pursuant to Section
+1195 13A-6-110.
+1196 20. Domestic violence I pursuant to Section 13A-6-130.
+1197 21. Domestic violence II pursuant to Section 13A-6-131.
+1198 22. Burglary I pursuant to Section 13A-7-5.
+1199 23. Burglary II pursuant to Section 13A-7-6.
+1200 24. Burglary III pursuant to subdivision (1) or
+1201 subdivision (2) of subsection (a) of Section 13A-7-7.
+1202 25. Arson I pursuant to Section 13A-7-41.
+1203 26. Criminal possession of explosives pursuant to
+1204 Section 13A-7-44.
+Page 43
+
+Section 13A-7-44.
+HB389 INTRODUCED
+1205 27. Extortion I pursuant to Section 13A-8-14.
+1206 28. Robbery I pursuant to Section 13A-8-41.
+1207 29. Robbery II pursuant to Section 13A-8-42.
+1208 30. Robbery III pursuant to Section 13A-8-43.
+1209 31. Pharmacy robbery pursuant to Section 13A-8-51.
+1210 32. Terrorist threats pursuant to Section 13A-10-15.
+1211 33. Escape I pursuant to Section 13A-10-31.
+1212 34. Promoting prison contraband I pursuant to Section
+1213 13A-10-36, involving a deadly weapon or dangerous instrument.
+1214 35. Intimidating a witness pursuant to Section
+1215 13A-10-123.
+1216 36. Intimidating a juror pursuant to Section
+1217 13A-10-127.
+1218 37. Treason pursuant to Section 13A-11-2.
+1219 38. Discharging a weapon into an occupied building,
+1220 dwelling, automobile, etc., pursuant to Section 13A-11-61.
+1221 39. Promoting prostitution I pursuant to Section
+1222 13A-12-111.
+1223 40. Production of obscene matter involving a minor
+1224 pursuant to Section 13A-12-197.
+1225 41. Trafficking pursuant to Section 13A-12-231.
+1226 42. Child abuse pursuant to Section 26-15-3.
+1227 43. Elder abuse pursuant to Section 38-9-7.
+1228 44. Terrorism pursuant to Section 13A-10-152.
+1229 45. Hindering prosecution for terrorism pursuant to
+1230 Section 13A-10-154.
+1231 46. Domestic violence III pursuant to subsection (d) of
+1232 Section 13A-6-132(b)(3) or (4).
+Page 44
+
+Section 13A-6-132(b)(3) or (4).
+HB389 INTRODUCED
+1233 47. Domestic violence by strangulation or suffocation
+1234 pursuant to Section 13A-6-138.
+1235 48. Human trafficking I pursuant to Section 13A-6-152.
+1236 49. Human trafficking II pursuant to Section 13A-6-153.
+1237 50. Hindering prosecution in the first degree pursuant
+1238 to Section 13A-10-43.
+1239 51. Any substantially similar offense for which an
+1240 Alabama offender has been convicted under prior Alabama law or
+1241 the law of any other state, the District of Columbia, the
+1242 United States, or any of the territories of the United States.
+1243 b. The basis for defining these offenses as violent is
+1244 that each offense meets at least one of the following
+1245 criteria:
+1246 1. Has as an element, the use, attempted use, or
+1247 threatened use of a deadly weapon or dangerous instrument or
+1248 physical force against the person of another.
+1249 2. Involves a substantial risk of physical injury
+1250 against the person of another.
+1251 3. Is a nonconsensual sex offense.
+1252 4. Is particularly reprehensible.
+1253 c. Any attempt, conspiracy, or solicitation to commit a
+1254 violent offense shall be considered a violent offense for the
+1255 purposes of this article.
+1256 d. Any criminal offense which meets the criteria
+1257 provided in paragraph b. enacted after 2003."
+1258 Section 5. Section 13A-11-72, as last amended by Act
+1259 2025-273, 2025 Regular Session, Code of Alabama 1975, is
+1260 amended to read as follows:
+Page 45
+
+amended to read as follows:
+HB389 INTRODUCED
+1261 "§13A-11-72
+1262 (a)(1) A person may not own a firearm or have a firearm
+1263 in his or her possession or under his or her control if any of
+1264 the following apply:
+1265 a. The person has been convicted in this state or
+1266 elsewhere of any kind of felony offense within the previous
+1267 five years.
+1268 b. The person has been convicted in this state or
+1269 elsewhere of three or more felony offenses of any kind at any
+1270 time;, provided the felony offense convictions used to support
+1271 a charge under this paragraph each arose from a different
+1272 indictment or complaint or otherwise arose on a different date
+1273 of charge.
+1274 c. The person has been convicted in this state or
+1275 elsewhere of committing or attempting to commit a crime of
+1276 violence as defined in Section 13A-11-70,; misdemeanor offense
+1277 of domestic violence as defined in subsection (h),; or a
+1278 violent offense as defined in Section 12-25-32.
+1279 d. The person is subject to a valid protection order
+1280 for domestic abuse.
+1281 e. The person is of unsound mind.
+1282 (2) A violation of this subsection is a Class C felony.
+1283 (3) It shall be an affirmative defense to a prosecution
+1284 under this subsection that the defendant has received a pardon
+1285 pursuant to Section 15-22-36 which expressly restores the
+1286 defendant's right to possess a firearm as to each conviction
+1287 supporting the prosecution.
+1288 (b)(1) No person who is a minor, except under the
+Page 46
+
+(b)(1) No person who is a minor, except under the
+HB389 INTRODUCED
+1289 circumstances provided in this section, an habitual drunkard,
+1290 or who has a drug addiction shall own a pistol or have one in
+1291 his or her possession or under his or her control.
+1292 (2) A violation of this subsection is a Class A
+1293 misdemeanor.
+1294 (c)(1) No person who is an alien and is illegally or
+1295 unlawfully in the United States or has been admitted to the
+1296 United States under a nonimmigrant visa as defined in 8 U.S.C.
+1297 § 1101(a)(26), provided no exception to this subsection as
+1298 listed in 18 U.S.C. § 922(y)(2) applies, shall own a pistol or
+1299 other firearm or have one in his or her possession or under
+1300 his or her control.
+1301 (2) A violation of this subsection is a Class C felony.
+1302 (d)(1) Subject to the exceptions provided by Section
+1303 13A-11-74, no person shall knowingly with intent to do bodily
+1304 harm carry or possess a deadly weapon on the premises of a
+1305 school.
+1306 (2) A violation of this subsection is a Class C felony.
+1307 (e) School security personnel and school resource
+1308 officers qualified under Section 16-1-44.1(a), employed by a
+1309 local board of education, and authorized by the employing
+1310 local board of education to carry a deadly weapon while on
+1311 duty are exempt from subsection (d). Law enforcement officers
+1312 are exempt from this section, and persons with permits issued
+1313 pursuant to Section 13A-11-75, are exempt from subsection (d).
+1314 (f) A person shall not be in violation of Section
+1315 13A-11-57 or 13A-11-76 and a minor shall not be in violation
+1316 of this section if the minor has permission to possess a
+Page 47
+
+of this section if the minor has permission to possess a
+HB389 INTRODUCED
+1317 pistol from a parent or legal guardian who is not prohibited
+1318 from possessing a firearm under state or federal law, and any
+1319 of the following are satisfied:
+1320 (1) The minor is attending a hunter education course or
+1321 a firearms safety course under the supervision of an adult who
+1322 is not prohibited from possessing a firearm under state or
+1323 federal law.
+1324 (2) The minor is engaging in practice in the use of a
+1325 firearm or target shooting at an established range under the
+1326 supervision of an adult who is not prohibited from possessing
+1327 a firearm under state or federal law.
+1328 (3) The minor is engaging in an organized competition
+1329 involving the use of a firearm or participating in or
+1330 practicing for a performance by an organized group under 26
+1331 U.S.C. § 501(c)(3) which uses firearms as part of the
+1332 performance.
+1333 (4) The minor is hunting or fishing pursuant to a valid
+1334 license, if required, and the person has the license in his or
+1335 her possession; has written permission of the owner or legal
+1336 possessor of the land on which the activities are being
+1337 conducted; and the pistol, when loaded, is carried only in a
+1338 manner discernible by ordinary observation.
+1339 (5) The minor is on real property under the control of
+1340 the minor's parent, legal guardian, or grandparent.
+1341 (6) The minor is a member of the armed services or
+1342 National Guard and the minor is acting in the line of duty.
+1343 (7) The minor is traveling by motor vehicle to any of
+1344 the locations or activities listed in subdivisions (1) through
+Page 48
+
+the locations or activities listed in subdivisions (1) through
+HB389 INTRODUCED
+1345 (6), has written permission to possess the pistol or firearm
+1346 by his or her parent or legal guardian, and the pistol or
+1347 firearm is unloaded, locked in a compartment or container that
+1348 is in or affixed securely to the motor vehicle, and is out of
+1349 reach of the driver and any passenger in the motor vehicle.
+1350 (g) This section does not apply to a minor who uses a
+1351 pistol or other firearm while acting in self-defense of
+1352 himself, herself, or other persons against an intruder into
+1353 the residence of the minor or a residence in which the minor
+1354 is an invited guest.
+1355 (h) For the purposes of this section, the following
+1356 terms have the following meanings:
+1357 (1) CONVICTED. a. Means a person was represented by
+1358 counsel in the case, or knowingly and intelligently waived the
+1359 right to counsel in the case if required by law, and either
+1360 the case was tried before a judge, tried by a jury, or the
+1361 person knowingly and intelligently waived the right to have
+1362 the case tried, by guilty plea or otherwise.
+1363 b. A person is not considered to have been convicted
+1364 for the purposes of this section if the person is not
+1365 considered to have been convicted in the jurisdiction in which
+1366 the proceedings were held or the conviction has been expunged,
+1367 set aside, or is of an offense for which the person has been
+1368 pardoned or has had his or her civil rights restored, unless
+1369 the pardon, expungement, or restoration of civil rights
+1370 expressly provides that the person may not ship, transport,
+1371 possess, or receive firearms.
+1372 (2) DEADLY WEAPON. A firearm or anything manifestly
+Page 49
+
+(2) DEADLY WEAPON. A firearm or anything manifestly
+HB389 INTRODUCED
+1373 designed, made, or adapted for the purposes of inflicting
+1374 death or serious physical injury, and the term includes, but
+1375 is not limited to, a bazooka, hand grenade, missile, or
+1376 explosive or incendiary device; a pistol, rifle, or shotgun;
+1377 or a switch-blade knife, gravity knife, stiletto, sword, or
+1378 dagger; or any club, baton, billy, black-jack, bludgeon, or
+1379 metal knuckles.
+1380 (3) MISDEMEANOR OFFENSE OF DOMESTIC VIOLENCE. A
+1381 misdemeanor offense that has, as its elements, the use or
+1382 attempted use of physical force or the threatened use of a
+1383 dangerous instrument or deadly weapon, and the victim is a
+1384 current or former spouse, parent, step-parent, child,
+1385 step-child, grandparent, step-grandparent, grandchild,
+1386 step-grandchild, any person with whom the defendant has a
+1387 child in common, a present or former household member, or a
+1388 person who has or had a dating relationship with the defendant
+1389 domestic violence victim, as defined under Section 1 of the
+1390 act amending this section.
+1391 (4) QUALIFIED INDIVIDUAL. A victim as defined in
+1392 Section 30-5-2 or an individual who cohabitates or has
+1393 cohabited with the person.
+1394 (5) SCHOOL. A school composed of grades K-12 and shall
+1395 include a school bus used for grades K-12.
+1396 (6) SCHOOL RESOURCE OFFICER. An A law enforcement
+1397 officer certified by the Alabama Peace Officers' Standards and
+1398 Training Commission and Commissioner-certified law
+1399 enforcement officer employed by a law enforcement agency who
+1400 is specifically selected and specially trained for the school
+Page 50
+
+is specifically selected and specially trained for the school
+HB389 INTRODUCED
+1401 setting.
+1402 (7) UNSOUND MIND. Includes any person who is subject to
+1403 any of the findings listed below, and who has not had his or
+1404 her rights to possess a firearm reinstated by operation of law
+1405 or legal process:
+1406 a. Found by a court, board, commission, or other lawful
+1407 authority that, as a result of marked subnormal intelligence,
+1408 mental illness, incompetency, condition, or disease, is a
+1409 danger to himself, herself, or others or lacks the mental
+1410 capacity to contract or manage his or her own affairs.
+1411 b. Found to be insane, not guilty by reason of mental
+1412 disease or defect, found mentally incompetent to stand trial,
+1413 or found not guilty by a reason of lack of mental
+1414 responsibility by a court in a criminal case, to include
+1415 state, federal, and military courts.
+1416 c. Involuntarily committed for a final commitment for
+1417 inpatient treatment to the Department of Mental Health or a
+1418 Veterans' Administration hospital by a court after a hearing.
+1419 (8) VALID PROTECTION ORDER. An order issued after a
+1420 hearing of which the person received actual notice, and at
+1421 which the person had an opportunity to participate, that does
+1422 either of the following:
+1423 a. Restrains the person from harassing, stalking, or
+1424 threatening a qualified individual or child of the qualified
+1425 individual or person or engaging in other conduct that would
+1426 place a qualified individual in reasonable fear of bodily
+1427 injury to the individual or child and that includes a finding
+1428 that the person represents a credible threat to the physical
+Page 51
+
+that the person represents a credible threat to the physical
+HB389 INTRODUCED
+1429 safety of the qualified individual or child.
+1430 b. By its terms, explicitly prohibits the use,
+1431 attempted use, or threatened use of physical force against the
+1432 qualified individual or child that would reasonably be
+1433 expected to cause bodily injury."
+1434 Section 6. Section 30-5-2, Code of Alabama 1975, is
+1435 amended to read as follows:
+1436 "§30-5-2
+1437 In this chapter, the following words shall have the
+1438 following meanings unless the context clearly indicates
+1439 otherwise:
+1440 (1) ABUSE. An act committed against a victim, which is
+1441 any of the following:
+1442 a. Arson. Arson as defined under Sections 13A-7-40
+1443 tothrough 13A-7-43, inclusive.
+1444 b. Assault. Assault as defined under Sections 13A-6-20
+1445 tothrough 13A-6-22, inclusive.
+1446 c. Attempt. Attempt as defined under Section 13A-4-2.
+1447 d. Child Abuse. Torture or willful abuse of a child,
+1448 aggravated child abuse, or chemical endangerment of a child as
+1449 provided in Chapter 15, commencing with Section 26-15-1, of
+1450 Title 26, known as the Alabama Child Abuse Act.
+1451 e. Criminal Coercion. Criminal coercion as defined
+1452 under Section 13A-6-25.
+1453 f. Criminal Trespass. Criminal trespass as defined
+1454 under Sections 13A-7-2 tothrough 13A-7-4.1, inclusive.
+1455 g. Harassment. Harassment as defined under Section
+1456 13A-11-8.
+Page 52
+
+13A-11-8.
+HB389 INTRODUCED
+1457 h. Kidnapping. Kidnapping as defined under Sections
+1458 13A-6-43 and 13A-6-44.
+1459 i. Menacing. Menacing as defined under Section
+1460 13A-6-23.
+1461 j. Other Conduct. Any other conduct directed toward a
+1462 plaintiff covered by this chapter that could be punished as a
+1463 criminal act under the laws of this state.
+1464 k. Reckless Endangerment. Reckless endangerment as
+1465 defined under Section 13A-6-24.
+1466 l. Sexual Abuse. Any sexual offenses included in
+1467 Article 4, commencing with Section 13A-6-60, of Chapter 6 of
+1468 Title 13A.
+1469 m. Stalking. Stalking as defined under Sections
+1470 13A-6-90 tothrough 13A-6-94, inclusive.
+1471 n. Theft. Theft as defined under Sections 13A-8-1
+1472 tothrough 13A-8-5, inclusive.
+1473 o. Unlawful Imprisonment. Unlawful imprisonment as
+1474 defined under Sections 13A-6-41 and 13A-6-42.
+1475 (2) CHILD. The term as defined under Section 26-14-1.
+1476 (3) CHILD IN COMMON. A child born or unborn of the
+1477 parties who share: (i) physical or legal custody; or (ii)
+1478 parentage, regardless of any past or present relationship.
+1479 (2)(4) COURT. A circuit court judge, a district court
+1480 judge appointed as a special circuit court judge pursuant to
+1481 law or a district court judge designated by a written standing
+1482 order from the presiding circuit court judge to handle
+1483 protection from abuse cases.
+1484 (3)(5) DATING RELATIONSHIP. A relationship or former
+Page 53
+
+(3)(5) DATING RELATIONSHIP. A relationship or former
+HB389 INTRODUCED
+1485 relationship of a romantic or intimate nature characterized by
+1486 the expectation of affectionate or sexual involvement by
+1487 either party.
+1488 a. A dating relationship includes the period of
+1489 engagement to be married.
+1490 b. A dating relationship does not include a casual or
+1491 business relationship or a relationship that ended more than
+1492 12 months prior to the filing of the petition for a protection
+1493 order.
+1494 (6) DOMESTIC VIOLENCE VICTIM or VICTIM. As defined in
+1495 Section 1 of the act amending this section.
+1496 (7) GUARDIAN. The term as defined in Section 1 of the
+1497 act amending this section.
+1498 (8) HOUSEHOLD MEMBER. The term as defined in Section 1
+1499 of the act amending this section.
+1500 (4)(9) PLAINTIFF. An individual who has standing to
+1501 file a petition under Section 30-5-5.
+1502 (5)(10) PROTECTION ORDER. Any order of protection from
+1503 abuse issued under this chapter for the purpose of preventing
+1504 acts of abuse as defined in this chapter.
+1505 (6)(11) THREAT. Any word or action, expressed or
+1506 implied, made to cause the plaintiff to fear for his or her
+1507 safety or for the safety of another person.
+1508 (12) WARD. A person who is under the substantial care
+1509 and physical, legal, or financial control of a guardian.
+1510 (7) VICTIM. An individual who is related in any of the
+1511 following ways to the person who commits an act of abuse:
+1512 a. Has a current or former marriage, including common
+Page 54
+
+a. Has a current or former marriage, including common
+HB389 INTRODUCED
+1513 law marriage, with the defendant.
+1514 b. Has a child in common with the defendant regardless
+1515 of whether the victim and defendant have ever been married and
+1516 regardless of whether they are currently residing or have in
+1517 the past resided together in the same household.
+1518 c. Has or had a dating relationship with the defendant.
+1519 A dating relationship does not include a casual or business
+1520 relationship or a relationship that ended more than 12 months
+1521 prior to the filing of the petition for a protection order.
+1522 d. Is a current or former household member. For
+1523 purposes of this chapter, a "household member" excludes
+1524 non-romantic or non-intimate co-residents.
+1525 e. A relative of a current or former household member
+1526 as defined in paragraph d. who also lived with the defendant.
+1527 f. An individual who is a parent, stepparent, child, or
+1528 stepchild.
+1529 g. An individual who is a grandparent,
+1530 step-grandparent, grandchild, or step-grandchild."
+1531 Section 7. Sections 13A-6-92, 13A-6-95, and 13A-6-96,
+1532 Code of Alabama 1975, are amended to read as follows:
+1533 "§13A-6-92
+1534 As used in this article, the following terms have the
+1535 following meanings:
+1536 (1) COURSE OF CONDUCT. A pattern of conduct composed of
+1537 a series of acts over a period of time which evidences a
+1538 continuity of purpose.
+1539 (2) CREDIBLE THREAT. A threat, expressed or implied,
+1540 made with the intent and the apparent ability to carry out the
+Page 55
+
+made with the intent and the apparent ability to carry out the
+HB389 INTRODUCED
+1541 threat so as to cause the person who is the target of the
+1542 threat to fear for his or her safety or the safety of a family
+1543 member and to cause reasonable mental anxiety, anguish, or
+1544 fear.
+1545 (3) ELECTRONIC TRACKING DEVICE. An electronic or
+1546 mechanical device that permits the tracking of the movement of
+1547 a person or object or the monitoring information of a person
+1548 or object.
+1549 (4) HARASSES. Engages in an intentional course of
+1550 conduct directed at a specified person which alarms or annoys
+1551 that person, or interferes with the freedom of movement of
+1552 that person, and which serves no legitimate purpose. The
+1553 course of conduct must be such as would cause a reasonable
+1554 person to suffer substantial emotional distress, and must
+1555 actually cause substantial emotional distress.
+1556 Constitutionally protected conduct is not included within the
+1557 definition of this term.
+1558 (5) OWNER. An individual, other than the defendant, who
+1559 has possession of or any other interest in the property
+1560 involved and without whose consent the defendant has no
+1561 authority to exert control over the property."
+1562 "§13A-6-95
+1563 (a) A person who, without the consent of the owner or
+1564 except as otherwise authorized by law, places, whether
+1565 directly, indirectly, or through a third party by any action,
+1566 method, device, or means, any electronic tracking device on
+1567 the property of another person with the intent to surveil,
+1568 stalk, or harass, annoy, or alarm another person without a
+Page 56
+
+stalk, or harass, annoy, or alarm another person without a
+HB389 INTRODUCED
+1569 legitimate purpose or for any other unlawful purpose, is
+1570 guilty of the crime of electronic stalking in the first
+1571 degree.
+1572 (b)(1) Except as otherwise provided in subdivision (2),
+1573 a violation of this section is a Class C felony.
+1574 (2) A person who violates this section and whose
+1575 conduct violates an existing domestic violence protection
+1576 order, elder abuse protection order, temporary restraining
+1577 order, or any other court order, shall be guilty of a Class B
+1578 felony.
+1579 (c) In any criminal proceeding brought pursuant to this
+1580 section, the crime shall be considered to have been committed
+1581 in all of the following:
+1582 (1) The county in which any part of the crime took
+1583 place.
+1584 (2) The county where the electronic tracking device was
+1585 discovered.
+1586 (3) The county of residence of the owner of the
+1587 property.
+1588 (d) The statute of limitations shall begin at the time
+1589 of the discovery of the electronic tracking device.
+1590 "§13A-6-96
+1591 (a) A person who, without the consent of the owner or
+1592 except as otherwise authorized by law, places, whether
+1593 directly, indirectly, or through a third party by any action,
+1594 method, device, or means, any electronic tracking device on
+1595 the property of another person is guilty of the crime of
+1596 electronic stalking in the second degree.
+Page 57
+
+electronic stalking in the second degree.
+HB389 INTRODUCED
+1597 (b) A violation of this section is a Class A
+1598 misdemeanor.
+1599 (c) In any criminal proceeding brought pursuant to this
+1600 section, the crime shall be considered to have been committed
+1601 in all of the following:
+1602 (1) The county in which any part of the crime took
+1603 place.
+1604 (2) The county where the electronic tracking device was
+1605 discovered.
+1606 (3) The county of residence of the owner of the
+1607 property.
+1608 (d) The statute of limitations shall begin at the time
+1609 of the discovery of the electronic tracking device.
+1610 Section 8. This act shall become effective on October
+1611 1, 2026.
+Page 58

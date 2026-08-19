@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB329 INTRODUCED
+1 HB329
+2 BYRD8J4-1
+3 By Representatives Faulkner, Collins, Baker, Hulsey, Colvin
+4 RFD: Education Policy
+5 First Read: 22-Jan-26
+Page 0
+
+First Read: 22-Jan-26
+BYRD8J4-1 01/22/2026 OW (L)OW 2026-443
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, completion of a computer
+6 science course is not required for graduation from an
+7 Alabama public K-12 school.
+8 This bill would require all Alabama public
+9 school students to complete an approved computer
+10 science course in order to graduate.
+11 This bill would provide standards for approved
+12 computer science courses.
+13 Also under existing law, computer science is
+14 defined as the study of computers and algorithmic
+15 processes.
+16 This bill would also expand the definition of
+17 computer science to include the study of certain
+18 related technologies.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to public K-12 schools; to amend Sections
+26 16-46B-1, 16-46B-2, and 16-46B-7, Code of Alabama 1975, to
+27 expand the definition of computer science; to require all
+28 Alabama public school students to complete an approved
+Page 1
+
+Alabama public school students to complete an approved
+HB329 INTRODUCED
+29 computer science course as a requirement for graduation; and
+30 to provide standards for approved computer science courses.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Sections 16-46B-1, 16-46B-2, and 16-46B-7,
+33 Code of Alabama 1975, are amended to read as follows:
+34 "§16-46B-1
+35 For the purposes of this chapter, the following terms
+36 shall have the following meanings:
+37 (1) BOARD. The State Board of Education.
+38 (2) COMPUTER SCIENCE. The study of computers and
+39 algorithmic processes, including their principles, their
+40 hardware and software designs, their implementation, and their
+41 impact on society, and their emerging technologies, including,
+42 but not limited to, artificial intelligence. Content should
+43 focus on teaching students how to create new technologies, not
+44 simply how to use technology.
+45 (3) COMPUTER SCIENCE COURSES AND CONTENT. Courses that
+46 teach computer science either as a standalone course
+47 implementation in middle and high schools, or, for elementary
+48 school, integrated into other content areas.
+49 (4) DEPARTMENT. The State Department of Education.
+50 (5) ELEMENTARY SCHOOL. Includes grades kindergarten to
+51 six, inclusive.
+52 (6) HIGH QUALITY PROFESSIONAL LEARNING. Professional
+53 development activities that satisfy all of the following:
+54 a. Clarify the conceptual foundations of computer
+55 science.
+56 b. Teach research-based practices, including hands-on
+Page 2
+
+b. Teach research-based practices, including hands-on
+HB329 INTRODUCED
+57 and inquiry-based learning.
+58 c. Are intended for existing teachers, with or without
+59 previous exposure to computer science.
+60 (7) HIGH QUALITY PROFESSIONAL LEARNING PROVIDERS.
+61 Institutions of higher education, nonprofits, or private
+62 entities that have successfully designed, implemented, and
+63 scaled high quality, evidence-based computer science
+64 professional learning for teachers and recommended by the
+65 superintendent and approved by the board.
+66 (8) HIGH SCHOOL. Includes grades nine to 12, inclusive.
+67 (9) MIDDLE SCHOOL. Includes grades seven and eight.
+68 (10) PUBLIC SCHOOL. Includes public K-12 elementary
+69 schools, middle schools, and high schools.
+70 (11) SUPERINTENDENT. The State Superintendent of
+71 Education."
+72 "§16-46B-2
+73 (a)(1) Beginning in the 2020-2021 school year, each
+74 public high school shall offer at least one authentic computer
+75 science course from a department-approved list.
+76 (2) Beginning in the 2021-2022 school year, each public
+77 middle school shall offer instruction in middle school
+78 computer science courses approved by the department.
+79 (3) Beginning in the 2022-2023 school year, each public
+80 elementary school shall offer instruction on the basics of
+81 computer science and computational thinking.
+82 (b) A computer science course or instruction in
+83 computer science offered by a public school shall satisfy all
+84 of the following:
+Page 3
+
+of the following:
+HB329 INTRODUCED
+85 (1) Be of high quality, as defined by the department.
+86 (2) Meet or exceed the standards and curriculum
+87 requirements, as they relate to authentic computer science,
+88 established by the board in the state course of study for
+89 digital literacy and computer science pursuant to Section
+90 16-35-4 and be on the approved list of computer science
+91 courses.
+92 (c) A computer science course offered by a public high
+93 school should be offered through an in-person setting and
+94 shall be offered as a virtual or distance learning course
+95 option only when an in-person classroom setting is not
+96 practicable. A rationale for using the virtual or distance
+97 learning option shall be included in the annual report.
+98 (d) Beginning with public school students who will
+99 graduate during the 2031-2032 school year, the department
+100 shall ensure that all approved computer science courses and
+101 content that meet graduation requirements pursuant to Section
+102 16-46B-7, shall include, but not be limited to, instruction in
+103 the concepts of computer science as defined in Section
+104 16-46B-1.
+105 (e) The enforcement of this section shall comply with
+106 Section 16-1-11.1."
+107 "§16-46B-7
+108 (a) Before June 30, 2020, and in accordance with
+109 Section 16-35-4, the department shall identify approved
+110 computer science courses that may fulfill one unit of academic
+111 credit for any mathematics or science course for high school
+112 graduation.
+Page 4
+
+graduation.
+HB329 INTRODUCED
+113 (b) Beginning with the graduating class of 2021, for
+114 the purposes of high school graduation requirements and
+115 satisfying mathematics or science freshman admission
+116 requirements for a public institution of higher education
+117 physically located in this state, as determined by the
+118 institution of higher education, a computer science course
+119 successfully completed under subsection (a) shall be
+120 equivalent to either of the following:
+121 (1) One mathematics course credit.
+122 (2) One science course credit.
+123 (c)(1) Beginning with the graduating class of 2032, all
+124 public school students shall demonstrate digital literacy by
+125 earning at least one credit in a department-approved, high
+126 school level computer science course. This requirement shall
+127 not result in an increase in the number of credits required
+128 for graduation.
+129 (2) Each computer science credit earned shall count as
+130 a college and career readiness indicator and may fulfill any
+131 one of the following, as determined by the local
+132 superintendent of education:
+133 a. One mathematics course credit.
+134 b. One science course credit.
+135 c. One career and technical education course credit.
+136 d. One elective credit.
+137 (3) Mathematics course credits and science course
+138 credits may only be replaced by department-approved computer
+139 science courses if the public school student is on the
+140 standard diploma pathway, which requires the completion of
+Page 5
+
+standard diploma pathway, which requires the completion of
+HB329 INTRODUCED
+141 both four mathematics course credits and four science course
+142 credits."
+143 Section 2. This act shall become effective on October
+144 1, 2026.
+Page 6

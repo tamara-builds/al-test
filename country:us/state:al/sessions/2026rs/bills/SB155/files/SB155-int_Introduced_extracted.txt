@@ -1,0 +1,254 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB155 INTRODUCED
+1 SB155
+2 3PWKCVE-1
+3 By Senators Woods, Allen, Waggoner, Roberts, Kitchens,
+4 Shelnutt, Sessions, Smitherman, Singleton, Elliott,
+5 Livingston, Coleman-Madison, Williams, Figures, Coleman
+6 RFD: Finance and Taxation General Fund
+7 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+3PWKCVE-1 11/17/2025 SS (F)SS 2025-3084
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish the Coal-Impacted
+6 Communities Economic and Workforce Development Grant
+7 Program to provide grants to local development
+8 organizations for regional economic and workforce
+9 development initiatives in coal-impacted communities in
+10 the state.
+11 This bill would establish the Renewing
+12 Coal-Impacted Communities Act Fund in the State
+13 Treasury for the implementation and operation of the
+14 grant program.
+15 This bill would provide for the distribution of
+16 revenues derived from the payment of rent and royalties
+17 of federal coal lease sales in the state.
+18
+19
+20 A BILL
+21 TO BE ENTITLED
+22 AN ACT
+23
+24 Relating to economic and workforce development; to
+25 establish the Coal-Impacted Communities Economic and Workforce
+26 Development Grant Program to assist local development
+27 organizations with economic and workforce development
+28 initiatives in coal-impacted communities; to provide for the
+Page 1
+
+initiatives in coal-impacted communities; to provide for the
+SB155 INTRODUCED
+29 purposes for which the grant funds may be used; to establish
+30 the Coal-Impacted Communities Economic and Workforce
+31 Development Grant Program Advisory Committee to review
+32 applications and make recommendations; to establish the
+33 Renewing Coal-Impacted Communities Act Fund in the State
+34 Treasury; to provide for the distribution of revenues received
+35 from rent and royalties derived from federal coal lease sales
+36 in the state beginning after January 1, 2027; and to provide
+37 an effective date.
+38 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+39 Section 1. This act shall be known and may be cited as
+40 the Renewing Coal-Impacted Communities Act.
+41 Section 2. The Legislature finds and declares all the
+42 following:
+43 (1) The Federal Lands Program regulates coal mining and
+44 reclamation operations on federal lands pursuant to the
+45 Surface Mining Control and Reclamation Act (SMCRA) and the
+46 Mineral Leasing Act of 1920 (MLA).
+47 (2) The United States Department of the Interior Office
+48 of Natural Resources Revenue (ONRR) collects royalties and
+49 other revenues from coal production on federal lands and pays
+50 a portion of this revenue to the state where the mineral was
+51 extracted.
+52 (3) The primary intent of the royalties is to
+53 compensate states that host federal mineral extraction
+54 activities, including the communities most impacted by mineral
+55 extraction. Costs to these communities, include, but are not
+56 limited to, infrastructure, increased demand on public
+Page 2
+
+limited to, infrastructure, increased demand on public
+SB155 INTRODUCED
+57 services, and workforce-related costs.
+58 (4) The McDuffie Coal Terminal at the Port of Mobile
+59 serves as the primary export terminal for coal extracted from
+60 federal lands in Alabama, handling the majority of coal
+61 shipped from mining operations in coal-impacted communities.
+62 The movement of coal through the McDuffie Coal Terminal at the
+63 Port of Mobile generates significant economic activity,
+64 creates jobs in transportation and logistics sectors, and
+65 contributes substantial tax revenue to state and local
+66 governments. Infrastructure improvements and maintenance at
+67 the Port of Mobile are essential to maintaining the
+68 competitiveness of Alabama's coal industry, ensuring efficient
+69 market access for coal production, and supporting the broader
+70 economic ecosystem dependent on coal mining activities.
+71 (5) It is the intent of the Legislature, by the passage
+72 of this act, to require that all federal funds made available
+73 to the state through 30 U.S.C. § 191(a), be expended within
+74 coal-impacted communities, the Port of Mobile, and the State
+75 General Fund.
+76 Section 3. The following words and phrases, whenever
+77 used in this act, have the following meanings:
+78 (1) COAL-IMPACTED COMMUNITIES. Areas or jurisdictions
+79 of the state that meet one or more of the following criteria:
+80 a. Areas where coal is currently being mined on federal
+81 lands.
+82 b. Areas where a significant population of the
+83 workforce is engaged in the mining of coal on federal lands.
+84 c. Areas that have experienced substantial economic
+Page 3
+
+c. Areas that have experienced substantial economic
+SB155 INTRODUCED
+85 impact due to the decline or cessation of coal mining
+86 operations on federal lands.
+87 d. Jurisdictions where coal mining on federal lands has
+88 historically been a major source of employment or tax revenue.
+89 e. For purposes of this definition, Fayette County,
+90 Jefferson County, Tuscaloosa County, and Walker County are
+91 designated as coal-impacted communities.
+92 (2) FUND. The fund created in Section 6 of this act.
+93 (3) LOCAL DEVELOPMENT ORGANIZATION. Any organization
+94 that is determined by the board to meet both of the following
+95 criteria:
+96 a. The organization is an Alabama entity not operating
+97 for profit, including, but not limited to, a municipality,
+98 county, industrial development board, industrial development
+99 authority, chamber of commerce, institution of higher
+100 education, or some other foundation or nonprofit organization
+101 charged with improving a community or region of the state.
+102 b. The organization has a record of supporting or
+103 otherwise participating in economic or workforce development
+104 in some parts of the state.
+105 (4) PERSON. One or more individuals, corporations,
+106 partnerships, associations, legal representatives, mutual
+107 companies, joint-stock companies, trusts, unincorporated
+108 organizations, trustees, bankruptcy, receivers, and
+109 fiduciaries.
+110 (5) SECRETARY. The Secretary of the Department of
+111 Workforce.
+112 Section 4. (a) The Coal-Impacted Communities Economic
+Page 4
+
+Section 4. (a) The Coal-Impacted Communities Economic
+SB155 INTRODUCED
+113 and Workforce Development Grant Program is established for the
+114 purpose of awarding grants to eligible local development
+115 organizations for regional economic and workforce development
+116 initiatives in coal-impacted communities in the state.
+117 (b) The Secretary of the Department of Workforce shall
+118 implement and administer the grant program.
+119 (c) Grant funds awarded under this program may be used
+120 to support coal-impacted communities through:
+121 (1) Workforce development and training programs;
+122 (2) Quality of place initiatives that enhance community
+123 livability and economic competitiveness;
+124 (3) Public works, infrastructure, and public services;
+125 (4) Capital improvement that support community
+126 resilience and economic development; and
+127 (5) Operations of the Alabama Surface Mining
+128 Commission.
+129 Section 5. (a) To ensure that coal-impacted communities
+130 have meaningful input into the expenditure of grant funds, a
+131 Coal-Impacted Communities Economic and Workforce Development
+132 Grant Program Advisory Committee is established to review
+133 applications and make recommendations to the secretary. Each
+134 advisory committee member shall be appointed to a four-year
+135 term and shall serve at the pleasure of their respective
+136 appointing authority. The advisory committee shall meet at
+137 least annually. Additional meetings may be called at the
+138 discretion of the secretary.
+139 (b) The committee shall consist of the following
+140 members:
+Page 5
+
+members:
+SB155 INTRODUCED
+141 (1) One member appointed by the Governor from a
+142 coal-impacted community.
+143 (2) One member appointed by the Lieutenant Governor
+144 from a coal-impacted community.
+145 (3) One member appointed by the President Pro Tempore
+146 of the Senate from a coal-impacted community.
+147 (4) One member appointed by the Speaker of the House of
+148 Representatives from a coal-impacted community.
+149 (5) One member appointed by the Fayette County
+150 Legislative Delegation.
+151 (6) One member appointed by the Jefferson County
+152 Legislative Delegation.
+153 (7) One member appointed by the Tuscaloosa County
+154 Legislative Delegation.
+155 (8) One member appointed by the Walker County
+156 Legislative Delegation.
+157 (9) The President of the Alabama Mining Association.
+158 (c) The appointing authorities shall coordinate their
+159 appointments to assure the advisory board membership is
+160 inclusive and reflects the racial, gender, geographic, urban,
+161 rural, and economic diversity of the state.
+162 Section 6. (a) The Renewing Coal-Impacted Communities
+163 Act Fund is created within the State Treasury to provide grant
+164 funds to local development organizations for the purpose of
+165 improving economic and workforce development in coal-impacted
+166 communities. The fund shall be administered by the department
+167 and shall be comprised of revenues received from rent and
+168 royalties derived from federal coal lease sales in the state
+Page 6
+
+royalties derived from federal coal lease sales in the state
+SB155 INTRODUCED
+169 beginning after January 1, 2027, or allocated by the
+170 Legislature from other funds for the purposes of this act.
+171 Amounts deposited into the fund shall be budgeted and allotted
+172 in accordance with Sections 41-4-80 through 41-4-96 and
+173 Sections 41-19-1 through 41-19-12, Code of Alabama 1975. All
+174 funds received into the fund shall remain in the fund and not
+175 revert or be expended for any other purposes other than those
+176 set out in this act.
+177 (b) The department may retain up to 10 percent of the
+178 total funds allocated for the Coal-Impacted Communities
+179 Economic and Workforce Development Grant Program for actual
+180 expenses relating to administering the program, reimbursing
+181 advisory committee members for necessary expenses incurred in
+182 the performance of their duties, and conducting financial
+183 audits.
+184 Section 7. The Secretary of the Department of Workforce
+185 shall adopt rules as necessary to implement and administer the
+186 provisions of this act.
+187 Section 8. Notwithstanding any other law to the
+188 contrary, the revenues derived from the payment of rent and
+189 royalties of federal coal lease sales occurring in the state
+190 after January 1, 2027 shall be distributed as follows:
+191 (1) The first one million dollars ($1,000,000) shall be
+192 deposited in the State General Fund.
+193 (2) The next five-hundred thousand dollars ($500,000)
+194 shall be distributed to the Alabama State Port Authority for
+195 the McDuffie Coal Terminal at the Port of Mobile.
+196 (3) The next two-hundred fifty thousand dollars
+Page 7
+
+(3) The next two-hundred fifty thousand dollars
+SB155 INTRODUCED
+197 ($250,000) shall be distributed to the Alabama Surface Mining
+198 Commission.
+199 (4) The remaining revenues shall be deposited in the
+200 Renewing Coal-Impacted Communities Act Fund and shall be used
+201 by the department to award grants to eligible local
+202 development organizations pursuant to the provisions of this
+203 act.
+204 Section 9. This act shall become effective on October
+205 1, 2026.
+Page 8

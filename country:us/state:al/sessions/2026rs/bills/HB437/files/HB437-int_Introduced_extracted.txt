@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB437 INTRODUCED
+1 HB437
+2 84RS92H-1
+3 By Representative Hall
+4 RFD: Judiciary
+5 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+84RS92H-1 02/12/2026 CMH (L)bm 2026-875
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, if an individual on parole
+6 for any offense except certain enumerated offenses
+7 commits a parole violation, the Board of Pardons and
+8 Paroles has the discretion to impose a range of
+9 sanctions, which may include revocation of parole, an
+10 imposed period of confinement of not more than 45
+11 consecutive days, mandatory behavior treatment,
+12 mandatory substance abuse treatment, GPS monitoring, or
+13 any other treatment as determined by the board.
+14 Also under existing law, if an individual on
+15 parole for certain enumerated offenses is arrested or
+16 commits any other type of parole violation, the board
+17 is required to automatically revoke parole for the
+18 entire balance of the parolee's sentence without
+19 discretion to consider the facts, circumstances, and
+20 severity of the violation.
+21 This bill would provide the board with
+22 discretion to consider the recommendations of parole
+23 hearing officers and the totality of the circumstances
+24 surrounding parole violations for individuals on parole
+25 for enumerated offenses and would provide the board
+26 with discretion as to which sanctions are imposed for
+27 violations.
+28 This bill would also provide that if the
+Page 1
+
+This bill would also provide that if the
+HB437 INTRODUCED
+29 commission of a new criminal offense is the basis of
+30 parole revocation for individuals on parole, including
+31 those on parole for enumerated offenses, and the
+32 charges are later dismissed, the parolee is acquitted
+33 at trial, or the case is resolved as a misdemeanor or
+34 criminal violation, the board would have the discretion
+35 to immediately reinstate parole or conduct a hearing to
+36 determine whether reinstatement of parole is in the
+37 interest of public safety and the fair administration
+38 of justice.
+39
+40
+41 A BILL
+42 TO BE ENTITLED
+43 AN ACT
+44
+45 Relating to parole; to amend Section 15-22-32, Code of
+46 Alabama 1975, as last amended by Act 2025-273, 2025 Regular
+47 Session, to further provide for the authority of the Board of
+48 Pardons and Paroles relating to parole; to provide various
+49 conditions where the board would be required to revoke parole;
+50 to provide various conditions where the board would have
+51 discretion as to the imposed punishment for a parole
+52 violation; and to provide various conditions where the board
+53 would be authorized to require a parolee to serve a sentence
+54 for a parole violation in a residential transition center or
+55 consenting county jail.
+56 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 2
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+HB437 INTRODUCED
+57 Section 1. Section 15-22-32, Code of Alabama 1975, as
+58 last amended by Act 2025-273, 2025 Regular Session, is amended
+59 to read as follows:
+60 "§15-22-32
+61 (a) Whenever there is reasonable cause to believe that
+62 a prisoner who has been paroled a parolee has violated his or
+63 her parole, the Board of Pardons and Paroles, at its next
+64 meeting, may declare the parolee to be delinquent, and time
+65 owed shall date from the delinquency. The Department of
+66 Corrections, after receiving notice from the sheriff of the
+67 county jail where the parolee is being held, shall promptly
+68 notify the board of the return of a parolee charged with
+69 violation of his or her parole. The board, a single member of
+70 the board, a parole revocation hearing officer, or a
+71 designated parole officer shall hold a parole court and
+72 consider the case of the parole violator. The parolee shall be
+73 afforded all rights provided in subdivision (f)(1). The parole
+74 court shall determine whether sufficient evidence supports the
+75 violation charges. When a new arrest is the basis of the
+76 violation, the parole court shall make a finding as to whether
+77 the hearing officer is reasonably satisfied from the evidence
+78 that the parolee committed the new offense. Except as provided
+79 in subparagraph (f)(1)a.2., if a hearing is not held within 20
+80 business days, the parolee shall be released back to parole
+81 supervision.
+82 (b) Upon finding sufficient evidence to support a
+83 parole violation, the parole court may recommend to the board
+84 revocation or reinstatement of parole, and the board may take
+Page 3
+
+revocation or reinstatement of parole, and the board may take
+HB437 INTRODUCED
+85 any of the following actions:
+86 (1)a. If the underlying offense was a violent offense
+87 as defined in Section 12-25-32 and classified as a Class A
+88 felony, a sex offense pursuant to Section 15-20A-5, possession
+89 of a firearm by a person forbidden from firearm possession
+90 pursuant to Section 13A-11-72, or aggravated theft by
+91 deception pursuant to Section 13A-8-2.1, the following
+92 applies:
+93 1. The board shall revoke parole when a new arrest for
+94 a felony charge or possessing a firearm is the basis of a
+95 violation if the board is reasonably satisfied based on the
+96 evidence that the parolee committed the new offense and
+97 require the parolee to serve the balance of the term for which
+98 he or she was originally sentenced, or any portion thereof, in
+99 a state prison facility, calculated from the date of his or
+100 her rearrest as a delinquent parolee.
+101 2. The board may revoke parole when the violation is
+102 based on a new arrest for a misdemeanor charge, criminal
+103 violation, absconding, or other violation of the terms of
+104 parole if the board is reasonably satisfied based on the
+105 evidence supporting the parole violation charge that the
+106 parolee committed the violation and may require the parolee to
+107 serve the balance of the term for which he or she was
+108 originally sentenced, or any portion thereof that is not less
+109 than 45 days, in a state prison facility, residential
+110 treatment center established pursuant to Section 15-22-30.1,
+111 or a consenting county jail designated for this purpose as
+112 provided in Section 14-1-23, calculated from the date of his
+Page 4
+
+provided in Section 14-1-23, calculated from the date of his
+HB437 INTRODUCED
+113 or her rearrest as a delinquent parolee.
+114 b. If the parole violation was for absconding,
+115 possessing a firearm, or being arrested or convicted of a new
+116 offense, the board may revoke parole and require the parolee
+117 to serve the balance of the term for which he or she was
+118 originally sentenced, or any portion thereof, in a state
+119 prison facility, calculated from the date of his or her
+120 rearrest as a delinquent parolee.
+121 b. If the underlying offense was other than those
+122 enumerated in paragraph a., the following applies:
+123 1. If the parole violation was for absconding,
+124 possessing a firearm, or being arrested or convicted of a new
+125 offense and the board is reasonably satisfied based on the
+126 evidence that the parolee committed the violation, the board
+127 may revoke parole and require the parolee to serve the balance
+128 of the term for which he or she was originally sentenced, or
+129 any portion thereof, in a state prison facility, calculated
+130 from the date of his or her rearrest as a delinquent parolee.
+131 2. If the parole violation was other than those
+132 enumerated in subparagraph 1. and the board is reasonably
+133 satisfied based on the evidence that the parolee committed the
+134 violation, the board may impose a period of confinement of not
+135 more than 45 days to be served in a residential transition
+136 center established pursuant to Section 15-22-30.1 or a
+137 consenting county jail designated for this purpose as provided
+138 in Section 14-1-23. The parolee shall be held in the county
+139 jail of the county in which the parole violation occurred
+140 while awaiting the revocation hearing. The Department of
+Page 5
+
+while awaiting the revocation hearing. The Department of
+HB437 INTRODUCED
+141 Corrections shall reimburse the state mileage rate to the
+142 county, as determined by the Comptroller, for any state inmate
+143 charged with, sanctioned with, or revoked for a parole
+144 violation and who is transferred to or from a Department of
+145 Corrections facility or to or from a consenting county jail by
+146 the county.
+147 c. For all other parolees, the board may impose a
+148 period of confinement of no more than 45 consecutive days to
+149 be served in a residential transition center established
+150 pursuant to Section 15-22-30.1 or a consenting county jail
+151 designated for this purpose as provided in Section 14-1-23.
+152 The parolee shall be held in the county jail of the county in
+153 which the violation occurred while awaiting the revocation
+154 hearing. The Department of Corrections shall reimburse the
+155 state mileage rate to the county, as determined by the Alabama
+156 Comptroller's OfficeComptroller, for any state inmate charged
+157 with, or sanctioned or revoked for, a parole violation and who
+158 is transferred to or from a Department of Corrections facility
+159 or to or from a consenting county jail by the county.
+160 (2) Upon completion of the confinement period and
+161 release from confinement, the parolee shall automatically
+162 continue on parole for the remaining term of the sentence
+163 without further action from the board. The parole court may
+164 not recommend and the board may not revoke parole unless the
+165 parolee has previously received a total of three periods of
+166 confinement under this subsection. A parolee shall receive
+167 only three total periods of confinement pursuant to this
+168 subsection. The maximum 45-day term of confinement ordered
+Page 6
+
+subsection. The maximum 45-day term of confinement ordered
+HB437 INTRODUCED
+169 pursuant to this subsection shall be reduced by any time
+170 served in custody prior to the imposition of the period of
+171 confinement and shall be credited to the balance of the
+172 incarceration term for which the parolee was originally
+173 sentenced. In the event the time remaining on parole
+174 supervision is 45 days or less, the term of confinement may
+175 not exceed the remainder of the parolee's sentence.
+176 (3) The total time spent in confinement under this
+177 subsection may not exceed the term of the parolee's original
+178 sentence.
+179 (4) Confinement shall be immediate. The board shall
+180 ensure that the Department of Corrections, a county jail, a
+181 residential transition center, or a consenting county jail
+182 receives necessary documentation for imposing a period of
+183 confinement within five business days of the board's action.
+184 (5) If the parolee is presented to a county jail,
+185 excluding a consenting county jail designated for this
+186 purpose, as provided in Section 14-1-23, for any period of
+187 confinement with a serious health condition, if the admittance
+188 of the parolee would create a security risk to the county
+189 jail, or if the county jail is near, at, or over capacity, the
+190 sheriff may refuse to admit the parolee. If, while in custody
+191 of the county jail, the parolee develops a serious health
+192 condition, if the presence of the parolee creates a security
+193 risk to the county jail, or if the county jail reaches near,
+194 at, or over capacity, the sheriff may release the parolee upon
+195 notification to the parole officer. A sheriff and employees in
+196 the county jail shall be immune from liability for exercising
+Page 7
+
+the county jail shall be immune from liability for exercising
+HB437 INTRODUCED
+197 discretion pursuant to Section 36-1-12 in refusing to admit a
+198 parolee into the jail or releasing a parolee from jail
+199 pursuant to this subdivision.
+200 (6) In all cases where the basis of the parole
+201 revocation is a new arrest for which charges are later
+202 dismissed, result in an acquittal, or are resolved as a
+203 criminal violation, the board may either immediately reinstate
+204 parole or the parolee shall be immediately eligible for parole
+205 and added to the earliest practicable parole hearing docket,
+206 not later than 90 calendar days, for the board to consider the
+207 circumstances surrounding the resolution of the charges and
+208 determine if parole reinstatement is in the interest of public
+209 safety and the fair administration of justice.
+210 (c) The position of Parole Revocation Hearing Officer
+211 is created and established, subject to the state Merit System.
+212 (d) The board may appoint or employ hearing officers
+213 who shall conduct a parole court. The hearing officers shall
+214 determine the sufficiency of evidence to support parole
+215 violation charges and recommend to the board revocation of
+216 parole pursuant to subsection (b) or reinstatement of parole.
+217 (e) In lieu of subsections (a) and (b), when a parolee
+218 violates his or her parole terms and conditions, his or her
+219 parole officer, after an administrative review and approval by
+220 the parole officer's supervisor, may impose any of the
+221 following sanctions:
+222 (1) Mandatory behavior treatment.
+223 (2) Mandatory substance abuse treatment.
+224 (3) GPS monitoring.
+Page 8
+
+(3) GPS monitoring.
+HB437 INTRODUCED
+225 (4) Any other treatment as determined by the board or
+226 supervising officer.
+227 (5)a. A short period of confinement in the county jail
+228 of the county in which the violation occurred. Periods of
+229 confinement under this subdivision may not exceed six days per
+230 month during any three separate months during the period of
+231 parole. The six days per month confinement periods may only be
+232 imposed as two-day or three-day consecutive periods at any
+233 single time. The total periods of confinement may not exceed
+234 nine total days.
+235 b. Confinement pursuant to this subdivision does not
+236 limit the board's ability to directly impose sanctions, impose
+237 periods of confinement, or revoke parole.
+238 (f)(1) Prior to imposing a sanction pursuant to
+239 subsection (e), the parolee must first be presented with a
+240 violation report setting forth the alleged parole violations
+241 and supporting evidence. The parolee shall be advised that he
+242 or she has all of the following rights:
+243 a.1. The right to have a parole court, in person or by
+244 electronic means, on the alleged violation or violations.
+245 Except as provided in subparagraph 2., if a parole court is
+246 requested, no parolee may be held beyond 20 business days of
+247 the request.
+248 2. If a parole court cannot be held within 20 business
+249 days due to a state of emergency being proclaimed under
+250 Chapter 9 of Title 31: (i) if the parolee is being held in a
+251 Department of Corrections facility, the parole court shall be
+252 held within 40 business days; or (ii) if the parolee is being
+Page 9
+
+held within 40 business days; or (ii) if the parolee is being
+HB437 INTRODUCED
+253 held in a county jail, the sheriff may agree to the parole
+254 court being held within 40 business days. No parolee may be
+255 held beyond 40 business days of the request to have a parole
+256 court.
+257 b. The right to present relevant witnesses and
+258 documentary evidence.
+259 c. The right to retain and have counsel at the hearing
+260 if he or she so desires.
+261 d. The right to confront and cross examine any adverse
+262 witnesses.
+263 (2) Upon the signing of a waiver of these rights by the
+264 parolee and the supervising parole officer, with approval of a
+265 supervisor, the parolee may be treated, monitored, or confined
+266 for the period recommended in the violation report and
+267 designated on the waiver. The parolee may not request a review
+268 if he or she has signed a written waiver of rights as provided
+269 in this subsection.
+270 (g) The board shall adopt guidelines and procedures to
+271 implement the requirements of this section, which shall
+272 include the requirement of a supervisor's approval prior to
+273 exercise of the delegation of authority authorized by
+274 subsection (e)."
+275 Section 2. This act shall become effective on October
+276 1, 2026.
+Page 10

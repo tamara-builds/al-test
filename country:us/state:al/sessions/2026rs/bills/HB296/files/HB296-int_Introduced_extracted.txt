@@ -1,0 +1,254 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB296 INTRODUCED
+1 HB296
+2 XDIQXZE-1
+3 By Representative Brown
+4 RFD: Insurance
+5 First Read: 20-Jan-26
+Page 0
+
+First Read: 20-Jan-26
+XDIQXZE-1 01/20/2026 VSM (L)ma 2025-2907
+1
+2
+3
+4 SYNOPSIS:
+5 Rental home marketplaces include online
+6 platforms or services such as Vacation Rentals By Owner
+7 (VRBO) and Airbnb which connect property owners to
+8 short term renters. Existing laws do not provide
+9 reimbursement guarantees to rental home marketplace
+10 users for damages to property shared through a rental
+11 home marketplace.
+12 This bill would require rental home marketplaces
+13 doing business in this state to maintain a
+14 reimbursement insurance policy.
+15 This bill would create the Rental Home
+16 Marketplace Guarantees Act to define and regulate
+17 rental home marketplace guarantees.
+18 This bill would provide for oversight of and
+19 consumer protections for rental home marketplace
+20 guarantees by the Commissioner of Insurance; would give
+21 enforcement and rulemaking authority to the
+22 Commissioner of Insurance; and would also provide for
+23 monetary penalties, hearings, and court proceedings.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+HB296 INTRODUCED
+29
+30 Relating to consumer protection; to establish the
+31 Rental Home Marketplace Guarantees Act; to define and regulate
+32 rental home marketplace guarantees; to provide administration,
+33 registration, and enforcement duties upon the Commissioner of
+34 Insurance; and to provide for financial penalties for
+35 violations of the act.
+36 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+37 Section 1. This act shall be known and may be cited as
+38 the Rental Home Marketplace Guarantees Act.
+39 Section 2. As used in this act, the following terms
+40 have the following meanings:
+41 (1) COMMISSIONER. The Alabama Commissioner of
+42 Insurance.
+43 (2) PERSON. An individual, partnership, corporation,
+44 incorporated or unincorporated association, joint stock
+45 company, syndicate, or any similar entity or combination of
+46 entities acting in concert.
+47 (3) PLATFORM CONTRACT HOLDER. A platform user who is
+48 the beneficiary or holder of a rental home marketplace
+49 guarantee.
+50 (4) PROVIDER. A rental home marketplace doing business
+51 in this state or an affiliate or representative of the rental
+52 home marketplace that issues, offers, or administers a rental
+53 home marketplace guarantee either directly or through a third
+54 party.
+55 (5) REIMBURSEMENT INSURANCE POLICY. A policy of
+56 insurance issued to a provider that states that the insurer
+Page 2
+
+insurance issued to a provider that states that the insurer
+HB296 INTRODUCED
+57 will cover all liabilities and duties under the rental home
+58 marketplace guarantee if the provider defaults or fails to
+59 perform.
+60 (6) RENTAL HOME MARKETPLACE. A person who meets all of
+61 the following criteria:
+62 a. Provides an online application, software, website,
+63 system, or other medium through which a property is advertised
+64 or is offered to the public as available in this state and
+65 that connects platform users to enable them to share property.
+66 b. Provides, directly or indirectly, or maintains an
+67 online platform by performing any of the following:
+68 1. Transmitting or otherwise communicating the offer or
+69 acceptance of a transaction between two platform users.
+70 2. Owning or operating the electronic infrastructure or
+71 technology that brings two or more platform users together.
+72 3. If engaged in the offering of rental home
+73 marketplace guarantees, does so only in a manner that is
+74 ancillary to the conduct of its primary legitimate business or
+75 activity.
+76 c. Is not a local or state governmental entity.
+77 (7) RENTAL HOME MARKETPLACE GUARANTEE. A contract or
+78 agreement issued in connection with a rental home marketplace,
+79 whether or not for separate consideration, to reimburse a user
+80 sharing property for any damages for which the renter is
+81 responsible under the rental home marketplace's terms of
+82 service, with or without additional provisions for incidental
+83 payment of indemnity for related damages.
+84 Section 3. (a) A rental home marketplace guarantee
+Page 3
+
+Section 3. (a) A rental home marketplace guarantee
+HB296 INTRODUCED
+85 shall not be issued or offered in this state unless the
+86 provider has made the rental home marketplace guarantee terms
+87 available on the provider's website and has complied with this
+88 act.
+89 (b) No later than March 1, 2027, or prior to commencing
+90 offering rental home marketplace guarantees, providers of
+91 rental home marketplace guarantees offered in this state shall
+92 file a registration with the commissioner on a form and at a
+93 fee prescribed by the commissioner. Fees collected pursuant to
+94 this section shall be deposited in the State Treasury to the
+95 credit of the Insurance Department Fund.
+96 (c) No later than July 1, 2027, or prior to commencing
+97 offering rental home marketplace guarantees, each provider
+98 must obtain and maintain a reimbursement insurance policy
+99 issued by an insurer authorized to transact insurance in this
+100 state or written pursuant to Chapter 10 of Title 27.
+101 Section 4. Rental home marketplace guarantees do not
+102 constitute insurance and are not required to comply with any
+103 provision of the insurance laws of this state except as
+104 provided in this act.
+105 Section 5. (a) Reimbursement insurance policies
+106 insuring rental home marketplace guarantees offered in this
+107 state shall clearly state that, upon default or nonperformance
+108 of the provider under the rental home marketplace guarantee,
+109 the insurer that issued the policy shall pay on behalf of the
+110 provider any sums the provider is obligated to pay according
+111 to the rental home marketplace guarantee.
+112 (b) A reimbursement insurance policy shall be subject
+Page 4
+
+(b) A reimbursement insurance policy shall be subject
+HB296 INTRODUCED
+113 to the laws and regulations governing termination and
+114 nonrenewal of insurance policies in this state. The
+115 termination of a reimbursement insurance policy shall not
+116 reduce the issuer's responsibility for rental home marketplace
+117 guarantees issued by providers before the effective date of
+118 the termination.
+119 (c) A provider is the agent of the insurer that issued
+120 the reimbursement insurance policy. The insurer may seek
+121 reimbursement from the provider for any payments made to a
+122 platform contract holder which the provider was initially
+123 obligated to pay. This act does not prevent or limit that
+124 right.
+125 Section 6. (a) Rental home marketplace guarantees
+126 offered in this state shall include a statement in
+127 substantially the following form: "This rental home
+128 marketplace guarantee is not an insurance contract."
+129 (b) Rental home marketplace guarantees shall contain a
+130 statement in substantially the following form: "A
+131 reimbursement insurance policy backs obligations of the
+132 provider. If the provider is unable or fails to perform on its
+133 contractual obligation under a rental home marketplace
+134 guarantee within 180 days after proof of loss has been filed,
+135 a platform user is entitled to make a claim directly against
+136 the insurance company, subject to the terms of the policy."
+137 (c) Rental home marketplace guarantees shall be written
+138 in clear, understandable language and shall specify the terms,
+139 limitations, exceptions, conditions, or exclusions, including
+140 conditions governing transferability or termination.
+Page 5
+
+conditions governing transferability or termination.
+HB296 INTRODUCED
+141 (d) In connection with the offer or advertisement of a
+142 rental home marketplace guarantee, a provider shall not make,
+143 permit, or cause to be made any false or misleading statement
+144 or deliberately omit any material statement that would be
+145 considered misleading if omitted.
+146 Section 7. (a) The commissioner may conduct
+147 investigations of providers or other persons to enforce this
+148 act and protect platform contract holders in this state. Upon
+149 the commissioner's request, the provider shall make all
+150 accounts, books, and records concerning rental home
+151 marketplace guarantees sold in this state by the provider
+152 available to the commissioner, which are necessary to enable
+153 the commissioner to determine compliance or noncompliance with
+154 this act.
+155 (b) Investigations conducted by the commissioner shall
+156 be pursuant to the same examination authority of the
+157 commissioner relative to insurers as provided in Chapter 2 of
+158 Title 27, Code of Alabama 1975, and investigation expenses
+159 shall be processed as examination expenses in accordance with
+160 Section 27-2-25, Code of Alabama 1975, which may be presented
+161 periodically during the investigation or at the end of the
+162 investigation, as the commissioner deems appropriate.
+163 (c) The commissioner may take action that is necessary
+164 or appropriate to enforce this act and the commissioner's
+165 regulations and orders, and to protect platform contract
+166 holders in this state.
+167 (d) If a provider has violated this act or the
+168 commissioner's regulations or orders, the commissioner may
+Page 6
+
+commissioner's regulations or orders, the commissioner may
+HB296 INTRODUCED
+169 issue an order directed to that provider: (i) to cease and
+170 desist from committing violations of this act or the
+171 commissioner's regulations or orders; (ii) to prohibit the
+172 selling or offering for sale rental home marketplace
+173 guarantees in violation of this act; (iii) to impose a civil
+174 penalty; or (iv) any combination of the foregoing.
+175 (e) A provider negatively impacted by an order issued
+176 under subsection (d) may request a hearing before the
+177 commissioner. The hearing request shall be filed with the
+178 commissioner no more than 20 days from the effective date of
+179 the commissioner's order.
+180 (f) If a hearing is requested, the effective date of
+181 the order is automatically suspended until the hearing is
+182 complete and the commissioner has reached a final decision.
+183 (g) A provider shall have the same rights as insurers
+184 to request a hearing in accordance with Article 1 of Chapter 2
+185 of Title 27, Code of Alabama 1975, and to appeal as provided
+186 in Section 27-2-32, Code of Alabama 1975.
+187 (h) The commissioner may bring an action in the Circuit
+188 Court of Montgomery County, Alabama, for an injunction or
+189 other appropriate relief to enjoin threatened or existing
+190 violations of this act or of the commissioner's orders or
+191 regulations. An action filed under this section may also seek
+192 restitution on behalf of providers negatively impacted by a
+193 violation of this act or orders or regulations of the
+194 commissioner.
+195 (i) A provider who is found to have violated this act
+196 may be ordered to pay to the commissioner a civil penalty in
+Page 7
+
+may be ordered to pay to the commissioner a civil penalty in
+HB296 INTRODUCED
+197 an amount determined by the commissioner of not more than five
+198 hundred dollars ($500) per violation and no more than ten
+199 thousand dollars ($10,000) in the aggregate for all violations
+200 of a similar nature. For purposes of this section, violations
+201 shall be of a similar nature if the violation consists of the
+202 same or similar course of conduct, action, or practice,
+203 regardless of the frequency of the specific act.
+204 Section 8. The commissioner may adopt regulations to
+205 implement this act.
+206 Section 9. This act shall become effective on October
+207 1, 2026.
+Page 8

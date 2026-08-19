@@ -1,0 +1,420 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB94 INTRODUCED
+1 HB94
+2 5VHYK6M-1
+3 By Representative Kiel
+4 RFD: State Government
+5 First Read: 13-Jan-26
+6 PFD: 17-Dec-25
+Page 0
+
+PFD: 17-Dec-25
+5VHYK6M-1 12/10/2025 JWB (L)lg 2025-3575
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the State Auditor is an
+6 elected position in the executive branch responsible
+7 for monitoring the accounts and records of the
+8 Department of Finance and the State Treasurer and
+9 maintaining property records of all state-owned,
+10 nonconsumable property.
+11 This bill would require property managers of
+12 state agencies to report loss or theft of certain state
+13 property in certain circumstances.
+14 This bill would provide an exception to the
+15 standard property inventory process conducted by the
+16 State Auditor for all Department of Corrections and
+17 Department of Youth Services secured facility property
+18 that is located behind security bars.
+19 This bill would create a new Division of
+20 Property Investigations within the Office of the State
+21 Auditor to investigate the loss, theft, or damage of
+22 certain state property and to demand repayment for the
+23 value of lost, stolen, or damaged property due to an
+24 act of negligence.
+25 This bill would authorize the Attorney General
+26 to bring civil action for cases of negligent loss or
+27 damage of state property.
+28 This bill would authorize the State Auditor to
+Page 1
+
+This bill would authorize the State Auditor to
+HB94 INTRODUCED
+29 refer to the Attorney General or an applicable district
+30 attorney any matter where there is a reasonable belief
+31 that a criminal violation has occurred.
+32 This bill would also make nonsubstantive,
+33 technical revisions to update the existing code
+34 language to current style.
+35
+36
+37 A BILL
+38 TO BE ENTITLED
+39 AN ACT
+40
+41 Relating to the State Auditor; to amend Sections
+42 36-16-1, 36-16-3, 36-16-6, and Section 36-16-8, as last
+43 amended by Act 2025-70 of the 2025 Regular Session, Section
+44 36-16-10, and Section 36-16-11, as last amended by Act 2025-68
+45 of the 2025 Regular Session, Code of Alabama 1975; to add
+46 Section 36-16-1.1 to the Code of Alabama 1975; to provide
+47 further for the duties and authorities of the State Auditor;
+48 to provide an exception to the standard inventory process for
+49 any Department of Corrections and Department of Youth Services
+50 secured facility property located behind bars; to create a
+51 Division of Property Investigations within the Office of the
+52 State Auditor and authorize the division to carry out certain
+53 investigations of lost property and make referrals to the
+54 Attorney General or district attorneys; to authorize the
+55 Attorney General to bring civil action to recover amounts in
+56 certain circumstances; to update the code to reflect changes
+Page 2
+
+certain circumstances; to update the code to reflect changes
+HB94 INTRODUCED
+57 in practices and powers granted to the State Auditor; and to
+58 make nonsubstantive, technical revisions to update the
+59 existing code language to current style.
+60 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+61 Section 1. Sections 36-16-1, 36-16-3, 36-16-6, and
+62 Section 36-16-8, as last amended by Act 2025-70 of the 2025
+63 Regular Session, Section 36-16-10, and Section 36-16-11, as
+64 last amended by Act 2025-68 of the 2025 Regular Session, Code
+65 of Alabama 1975, are amended to read as follows:
+66 "§36-16-1
+67 (a) The sole powers, functions and duties of the State
+68 Auditor shall be as followsinclude all of the following:
+69 (1) Those enumerated in the constitution;.
+70 (2) The keeping of To keep a seal with the devise, "The
+71 State of Alabama, Auditor's Office;."
+72 (3) If the Treasurer, in the event of his resignation
+73 or removal, fails to comply with the provisions of this code,
+74 or if he dies or absconds, the stating of his account in the
+75 presence of any person attending on the part of such late
+76 Treasurer and the delivering of the books, papers and moneys
+77 belonging to the Treasury to his successor, taking his receipt
+78 for the same, and recording and filing such receipts and
+79 statement and reporting the same to the next Legislature;
+80 (4) The postauditing of the accounts and records of the
+81 Department of Finance and the Treasurer;
+82 (5)(3) The serving To serve on the boards and
+83 commissions of which he or she is by law an ex officio member;
+84 and.
+Page 3
+
+and.
+HB94 INTRODUCED
+85 (6) The making of a full and complete report to the
+86 Governor at the close of each fiscal year showing the audited
+87 receipts and disbursements of the government for the last
+88 completed fiscal year, as required by the constitution and as
+89 shown by the records and documents in the office of the
+90 Department of Finance, which records shall be audited by him.
+91 The report shall also include the results of his audit of all
+92 taxes and revenues collected and paid into the Treasury and
+93 shall give the results of all other audits made by him. The
+94 report shall be printed and bound with, and as a part of, the
+95 annual financial report of the state prepared by the
+96 Department of Finance. The Auditor shall make reports oftener
+97 upon, and matters pertaining to, his office if required by the
+98 Governor or the Legislature.
+99 (b) In the event the State Auditor resigns, is removed
+100 from office, dies in office, or fails to comply with this
+101 chapter, the successor to the State Auditor shall submit a
+102 detailed report regarding the transfer of duties to the
+103 successor during the next legislative session following the
+104 transfer.
+105 (c) Notwithstanding any law to the contrary, the Office
+106 of the State Auditor may do any of the following:
+107 (1) Not more frequently than once every four calendar
+108 years, beginning October 1, 2026, adjust the threshold value
+109 of state property that must be inventoried pursuant to this
+110 chapter to reflect the cumulative change in the Consumer Price
+111 Index, as published by the United States Department of Labor,
+112 rounded to the nearest one hundred dollars ($100). The State
+Page 4
+
+rounded to the nearest one hundred dollars ($100). The State
+HB94 INTRODUCED
+113 Auditor shall notify property managers described in Section
+114 36-16-8 of the adjusted threshold value at least 90 days prior
+115 to the effective date of the adjusted threshold value, and the
+116 adjusted threshold values shall apply only to property
+117 acquired after that effective date. Notwithstanding the
+118 foregoing, property managers, upon written request from the
+119 head of the department or agency and approval by the State
+120 Auditor, may make a complete inventory of all used and
+121 acquired property reflecting the adjusted threshold value if
+122 doing so is determined to be in the best interest of the
+123 department or agency.
+124 (2) Investigate loss or damage to state property as
+125 further provided in Section 36-16-1.1."
+126 "§36-16-3
+127 The State Auditor may employ a chief clerkchief of
+128 staff, whose employment shall be at the pleasure of the State
+129 Auditor. Subject to the provisions of the state Merit System,
+130 he the chief of staff may employ principal accountants,
+131 account clerks, and senior stenographersother clerical staff."
+132 "§36-16-6
+133 The official acts of the chief clerk chief of staff
+134 shall be presumed to be by the authority of, and shall be
+135 taken as done by, the State Auditor, who shall be responsible
+136 for the same."
+137 "§36-16-8
+138 (a) As used in this section, "threshold value" means a
+139 value of five hundred dollars ($500) or the threshold amount
+140 adjusted by the State Auditor pursuant to Section
+Page 5
+
+adjusted by the State Auditor pursuant to Section
+HB94 INTRODUCED
+141 36-16-1(c)(1).
+142 (b) The Property Inventory Control Division shall
+143 establish a control in the following manner of all
+144 nonconsumable state personal property not exempt under Section
+145 36-16-11.:
+146 (1) The head of each department or agency of the state
+147 shall designate one of its employees as property manager for
+148 the department or agency. Except for books, the property
+149 manager shall make a full and complete inventory of all
+150 nonconsumable personal property and certain other items of
+151 personal property deemed sufficiently important or sensitive
+152 enough by the Property Inventory Control Division to be
+153 included in the inventory of state property of the value of
+154 five hundred dollars ($500) or more that meets or exceeds the
+155 threshold value owned by the state and used or acquired by the
+156 department or agency. The inventory shall show the complete
+157 description, manufacturer's serial number, cost price, date of
+158 purchase, location, and custodial agency, responsible officer,
+159 or employee, and the state property control marking. A copy of
+160 the inventory shall be submitted to the Property Inventory
+161 Control Division on October 1 and April 1 of each year for
+162 small agencies with read-only access to the electronic
+163 reporting system used by the Office of the State Auditor. Each
+164 inventory shall show all property acquired since the date of
+165 the last inventory. When any inventory fails to show any
+166 property shown on the previous inventory, then a complete
+167 explanation accounting for the property or the disposition
+168 thereof shall be attached to the inventory and submitted to
+Page 6
+
+thereof shall be attached to the inventory and submitted to
+HB94 INTRODUCED
+169 the Property Inventory Control Division. All property managers
+170 shall keep at all times in their files a copy of all
+171 inventories submitted to the Property Inventory Control
+172 Division, and the copies shall be subject to examination by
+173 any and all state auditors or employees of the Department of
+174 Examiners of Public Accounts.
+175 (2) Each property manager shall be the custodian of,
+176 and responsible for, all property in his or her department or
+177 agency. When any property is entrusted to other employees or
+178 officers of the department or agency, the property manager
+179 shall require a written receipt of the property so entrusted,
+180 which. The receipt shall be executed signed by the person
+181 individual receiving the property. In that event, the property
+182 manager shall be relieved of responsibility of the property,
+183 and the employee or officer of the department or agency shall
+184 be responsible for the property.
+185 (3) No property, except property being transferred to
+186 the Department of Archives and History under Section 41-6-10,
+187 shall be disposed of, transferred, assigned, or entrusted to
+188 any other department, agency, or employee thereof without the
+189 written permission of the any of the following or his or her
+190 designee:
+191 a. The Director of the Surplus Property Division of the
+192 Alabama Department of Economic and Community Affairs or the.
+193 b. The Governor of the State of Alabama or the designee
+194 of either of them.
+195 c. The Chief of the Property Inventory Control Division
+196 of the Office of the State Auditor.
+Page 7
+
+of the Office of the State Auditor.
+HB94 INTRODUCED
+197 (4)a. Each property manager shall report to the Office
+198 of the State Auditor, on a form and in a manner prescribed by
+199 the State Auditor, the loss or theft of any property required
+200 to be inventoried pursuant to this section not more than 30
+201 days after the property manager learns of the loss or theft.
+202 b. The Property Inventory Control Division shall report
+203 the loss or theft to the Division of Property Investigations,
+204 in a manner prescribed by the State Auditor, and provide a
+205 brief summary detailing the circumstances surrounding the
+206 loss, regardless of whether the loss or theft was marked
+207 "non-negligent."
+208 (4)(5)a. Biannually, Every two years, the Property
+209 Inventory Control Division shall conduct an inventory of all
+210 such state personal property, excluding: (i) historical
+211 materials in the custody of the Department of Archives and
+212 History, holding every officer or employee strictly
+213 accountable for all personal property assigned to his or her
+214 custody; and (ii) property located behind security bars at any
+215 Department of Corrections and Department of Youth Services
+216 facility subject to paragraph b.
+217 b. The State Auditor shall permit an alternative audit
+218 method in all areas located behind security bars at Department
+219 of Corrections and Department of Youth Services facilities.
+220 All state property located within a Department of Corrections
+221 or Department of Youth Services facility that is not located
+222 behind bars shall be audited according to normal processes.
+223 (5)(6) No later than November 30 of each new fiscal
+224 year, the State Auditor shall report in writing to the
+Page 8
+
+year, the State Auditor shall report in writing to the
+HB94 INTRODUCED
+225 Governor all losses and missing items of state property valued
+226 at more than five hundred dollars ($500) that meet or exceed
+227 the threshold value as revealed by the most recent inventory
+228 of state personal property. No later than November 30 of each
+229 fiscal year, the State Auditor shall publish on the website of
+230 the Office of the State Auditor the Annual Production Report
+231 and Losses Reports for the prior fiscal year. Quarterly Losses
+232 Reports shall be published on the website within 30 days of
+233 the close of each quarter.
+234 (6)(7) Whenever any property manager ceases for any
+235 reason to be the property manager of his or her department or
+236 agency, the director of the department or agency, or the
+237 supervisor of the property manager, shall immediately notify
+238 in writing the Property Inventory Control Division. The
+239 division shall immediately check the inventories of all
+240 property assigned to the property manager in the department or
+241 agency, and the successor to the property manager shall
+242 execute a written receipt for all property received by him or
+243 her or coming into his or her custody or control. The last
+244 payment of salary due the property manager shall be withheld
+245 until a complete check of the inventory of the property has
+246 been made and approved. In the event of any shortages, the
+247 property manager shall may be held strictly accountable based
+248 on internal agency written procedures. Notwithstanding the
+249 foregoing, the property manager shall not be held accountable
+250 for property entrusted to any other employee or officer of the
+251 department or agency and for which he or she holds the written
+252 receipt of the employee or officer.
+Page 9
+
+receipt of the employee or officer.
+HB94 INTRODUCED
+253 (c) The State Auditor or, if delegated by the State
+254 Auditor, the Chief of the Property Inventory Control Division,
+255 may review and analyze the internal policies relating to
+256 inventorying the state property of a state department, office,
+257 bureau, board, or agency to ensure that state property is
+258 being properly inventoried. Upon receiving a written request
+259 from the State Auditor, a property manager shall submit the
+260 internal policies to the State Auditor for review."
+261 "§36-16-10
+262 (a) The Chief of the Property Inventory Control
+263 Division shall have the authority to carry out the provisions
+264 of Sections 36-16-8 through 36-16-11, and shall require that
+265 each department, office, bureau, board, or agency of the state
+266 carry out fully the provisions of Sections 36-16-8 through
+267 36-16-11 applicable to such the department, office, bureau,
+268 board, or agency.
+269 (b) In the event the Chief of the Property Inventory
+270 Control Division neglects to perform the duties imposed upon
+271 him or her by Sections 36-16-8 through 36-16-11, the State
+272 Auditor shall report such neglect to the personnel board State
+273 Personnel Board, which and the board shall administer such
+274 disciplinary action against the chief of the division,
+275 including the right to discharge him or her, as the board
+276 deems proper under the circumstances.
+277 (c) In the event the head of any department or officer
+278 in charge of any office, bureau, board, or agency of the state
+279 neglects to perform the duties imposed upon him or her by
+280 Sections 36-16-8 through 36-16-11, he or she shall be liable
+Page 10
+
+Sections 36-16-8 through 36-16-11, he or she shall be liable
+HB94 INTRODUCED
+281 for the sum of $5.00 in the amount of five dollars ($5) for
+282 each day suchthe neglect continues and for the value of any
+283 and all personal property losses to the state as a result of
+284 such the neglect."
+285 "§36-16-11
+286 There is hereby expressly All of the following are
+287 exempt from Sections 36-16-8 to 36-16-10, inclusive, all
+288 livestock, :
+289 (1) Livestock, animals, and farm and agricultural
+290 products.
+291 (2) and property Property owned or used by, or in
+292 connection with, or under the control of, all public schools,
+293 universities, colleges, trade schools, Alabama Institute for
+294 Deaf and Blind, State Library Service, and all any public
+295 preK-12 school, state preK-12 school, two-year or four-year
+296 public institution of higher education.
+297 (3) Property owned or used by, or in connection with or
+298 under the control of, the Alabama Institute for Deaf and Blind
+299 and the State Library Service.
+300 (4) Property owned or used by, or in connection with or
+301 under the control of, any facility owned or operated by the
+302 Department of Mental Health which provides mental health or
+303 psychiatric care services.
+304 (5) Any fire control or fire rescue equipment acquired
+305 by the Alabama Forestry Commission from sources other than
+306 state agencies and subsequently donated to volunteer fire
+307 departments pursuant to Section 9-3-19; provided, Sections
+308 36-16-8 to 36-16-10, inclusive, shall not apply to the Alabama
+Page 11
+
+36-16-8 to 36-16-10, inclusive, shall not apply to the Alabama
+HB94 INTRODUCED
+309 hospitals for the insane and the Partlow State School and
+310 Hospital."
+311 Section 2. Section 36-16-1.1 is added to the Code of
+312 Alabama 1975, to read as follows:
+313 §36-16-1.1
+314 (a) For purposes of this section, the term "state
+315 property" refers to any state property that meets or exceeds
+316 the threshold value, as defined in Section 36-16-8.
+317 (b) There is created within the Office of the State
+318 Auditor the Division of Property Investigations which shall be
+319 responsible for carrying out investigations described in this
+320 section. The division may initiate an investigation upon a
+321 request of the State Auditor, the Property Inventory Control
+322 Division, or, upon receiving notice of acts of negligence in
+323 the loss, theft, or damage of state property, whether through
+324 its website or through another channel of communication.
+325 (c)(1) The Division of Property Investigations may
+326 investigate any instance of lost, stolen, or damaged state
+327 property, including instances where the loss is marked as
+328 "non-negligent" by the custodial agency. If in carrying out a
+329 full investigation, including the procuring of evidence, the
+330 division confirms that the loss, theft, or damage was not
+331 negligent, the division shall issue a finding of
+332 "non-negligence."
+333 (2) If the division finds that the loss, theft, or
+334 damage was caused by negligence or willful neglect, the State
+335 Auditor may compel the offending public official or public
+336 employee to pay the value of the lost, stolen, or damaged
+Page 12
+
+employee to pay the value of the lost, stolen, or damaged
+HB94 INTRODUCED
+337 property, and if such amount is not recovered, the State
+338 Auditor shall certify the facts and amount due to the Attorney
+339 General. The Attorney General may bring civil action in the
+340 name of the state against the employee.
+341 (d) Governmental entities, including any agency or
+342 board of the state or political subdivision thereof that is
+343 audited by the State Auditor, shall cooperate with and provide
+344 assistance to the Division of Property Investigations by
+345 providing necessary information to allow the division to carry
+346 out its investigations in a timely manner.
+347 (e) The Division of Property Investigations shall refer
+348 to the Attorney General or the appropriate district attorney
+349 any matter where there is a reasonable belief that a criminal
+350 violation has occurred.
+351 Section 3. This act shall become effective on October
+352 1, 2026.
+Page 13

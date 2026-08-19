@@ -1,0 +1,932 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB464 INTRODUCED
+1 HB464
+2 846KVH2-1
+3 By Representative Paschal
+4 RFD: Judiciary
+5 First Read: 17-Feb-26
+Page 0
+
+First Read: 17-Feb-26
+846KVH2-1 02/17/2026 GP (L)lg 2026-697
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the State Department of
+6 Human Resources investigates reports of child abuse and
+7 neglect and maintains a central registry that contains
+8 information relating to reports of child abuse and
+9 neglect.
+10 Under existing law, reports are classified as
+11 indicated if credible evidence substantiates that the
+12 accused is responsible for child abuse or neglect, and
+13 not indicated if credible evidence does not
+14 substantiate the accused's responsibility.
+15 Existing law defines child abuse as harm or
+16 threatened harm to a child's health or welfare, and
+17 neglect as negligent treatment or maltreatment of the
+18 child, including failure to provide adequate food,
+19 medical treatment, supervision, clothing, or shelter.
+20 This bill would revise the definition of child
+21 abuse as harm or imminent harm to the child's health or
+22 welfare, and neglect as negligent treatment or
+23 maltreatment where inadequate food, medical treatment,
+24 supervision, clothing, or shelter poses a substantial
+25 risk of harm to the child.
+26 This bill would require the department to notify
+27 the subject of an investigation that he or she is under
+28 investigation by the department for child abuse or
+Page 1
+
+investigation by the department for child abuse or
+HB464 INTRODUCED
+29 neglect, subject to certain exemptions.
+30 This bill would require the department, after a
+31 preliminary finding that child abuse or neglect is
+32 indicated, to notify the subject of the finding,
+33 provide him or her with the opportunity for an
+34 investigative hearing.
+35 This bill would provide for certain due process
+36 rights for the subject during the investigative hearing
+37 and require the department to notify each accused
+38 individual of those rights.
+39 This bill would prohibit indicated reports of
+40 child abuse or neglect from placement on the registry
+41 unless the finding is confirmed by an investigative
+42 hearing or the subject waives his or her opportunity
+43 for an investigative hearing.
+44 This bill would prohibit law enforcement from
+45 relying on an indicated report of child abuse or
+46 neglect to establish probable cause for a criminal
+47 warrant, and would specify that no criminal warrant
+48 relying in whole or in part on an indicated report may
+49 be executed unless it is returned for indictment by a
+50 grand jury.
+51 This bill would prohibit the department from
+52 including any not indicated reports of child abuse and
+53 neglect, or related information, on the central
+54 registry, and would require the department to remove
+55 any such reports from the registry.
+56 This bill would prohibit the disclosure of any
+Page 2
+
+This bill would prohibit the disclosure of any
+HB464 INTRODUCED
+57 records relating to a not indicated report of child
+58 abuse and neglect.
+59 This bill would require the department to vacate
+60 any finding that child abuse or neglect is indicated if
+61 a court of competent jurisdiction dismisses a criminal
+62 charge based on the same allegations and, if the
+63 child's parent or guardian was the subject of the
+64 dismissed charge, would require the child to be
+65 immediately reunited with his or her parent.
+66 Existing law allows the department to order
+67 immediate removal of a child who is the subject of a
+68 report if good cause is shown that removal is necessary
+69 to protect the child from further abuse or neglect.
+70 This bill would allow the removal if credible
+71 evidence that the removal is necessary to protect the
+72 child from further abuse or neglect.
+73 This bill would define the term "credible
+74 evidence" to mean evidence that is either corroborated
+75 by a third party who is not employed by or contracted
+76 with the department or unambiguous physical evidence.
+77 This bill would require investigators to
+78 consider certain factors relating to the well-being of
+79 the child, availability of services, alternatives to
+80 removal, and the immediacy of the harm before a child
+81 may be removed from his or her home due to a report of
+82 child abuse or neglect.
+83 This bill would require the department employees
+84 involved with investigations of child abuse or neglect
+Page 3
+
+involved with investigations of child abuse or neglect
+HB464 INTRODUCED
+85 to undergo training.
+86 This bill would require the department to
+87 annually prepare and distribute a report relating to
+88 child abuse and neglect investigations.
+89 This bill would also delete duplicative language
+90 and make nonsubstantive, technical revisions to update
+91 the existing code language to current style.
+92
+93
+94 A BILL
+95 TO BE ENTITLED
+96 AN ACT
+97
+98 Relating to reports of child abuse and neglect; to
+99 amend Sections 26-14-1, 26-14-3, 26-14-6.1, 26-14-7,
+100 26-14-7.1, and 26-14-8, Code of Alabama 1975; to add Sections
+101 26-14-7.3 and 26-14-8.1 to the Code of Alabama 1975; to revise
+102 standards for an indicated report of child abuse or neglect;
+103 to revise the definitions of child abuse and neglect; to
+104 require the State Department of Human Resources (DHR) to
+105 notify subjects of ongoing investigations and to provide
+106 subjects the opportunity for an administrative hearing before
+107 a final disposition that child abuse or neglect is indicated;
+108 to prohibit DHR from including records related to not
+109 indicated reports of child abuse or neglect on the central
+110 registry and to prohibit the disclosure of such records; to
+111 require DHR to remove not indicated reports from the central
+112 registry; to prohibit the use of an indicated report to
+Page 4
+
+registry; to prohibit the use of an indicated report to
+HB464 INTRODUCED
+113 establish probable cause for a criminal warrant; to require an
+114 indictment by a grand jury to execute a criminal warrant based
+115 on an indicated report; to require DHR to vacate indicated
+116 findings in certain circumstances; to further provide for
+117 investigations of child abuse or neglect; to further provide
+118 for defined terms; to require certain employees of DHR to
+119 undergo training; to require DHR to prepare and distribute an
+120 annual report to the Legislature; and to make nonsubstantive,
+121 technical revisions to update the existing code language to
+122 current style.
+123 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+124 Section 1. Sections 26-14-1, 26-14-3, 26-14-6.1,
+125 26-14-7, 26-14-7.1, and 26-14-8, Code of Alabama 1975, are
+126 amended to read as follows:
+127 "§26-14-1
+128 For the purposes of this chapter, the following terms
+129 shall have the meanings respectively ascribed to them by this
+130 section have the following meanings:
+131 (1) ABUSE. Harm or threatened imminent harm to a
+132 child's health or welfare. Harm or threatened imminent harm to
+133 a child's health or welfare can occur through nonaccidental
+134 physical or mental injury, sexual abuse or attempted sexual
+135 abuse, or sexual exploitation or attempted sexual
+136 exploitation. Sexual abuse includes the employment, use,
+137 persuasion, inducement, enticement, or coercion of any child
+138 to engage in, or having a child assist any other person to
+139 engage in, any sexually explicit conduct or any simulation of
+140 the conduct for the purpose of producing any visual depiction
+Page 5
+
+the conduct for the purpose of producing any visual depiction
+HB464 INTRODUCED
+141 of the conduct; or the rape, molestation, prostitution, or
+142 other form of sexual exploitation of children, or incest with
+143 children as those acts are defined by Alabama law. Sexual
+144 exploitation includes allowing, permitting, or encouraging a
+145 child to engage in prostitution and allowing, permitting,
+146 encouraging, or engaging in the obscene or pornographic
+147 photographing, filming, or depicting of a child for commercial
+148 purposes.
+149 (8)(2) NEGLECT. Negligent treatment or maltreatment of
+150 a child, including the failure to provide adequate where
+151 inadequate food, medical treatment, supervision, clothing, or
+152 shelter poses a substantial risk of harm to the child.
+153 (3) CHILD. Either of the following:
+154 a. An individual A person under the age of 18 years of
+155 age.
+156 b. An individual A person under the age of 19 years of
+157 age who is in need of protective services and does not qualify
+158 for adult protective services under Chapter 9 of Title 38.
+159 (2) CENTRAL REGISTRY. The statewide central registry
+160 for indicated reports of child abuse and neglect created in
+161 Section 26-14-8.
+162 (4) CREDIBLE EVIDENCE. Clear and convincing evidence of
+163 either of the following:
+164 a. Evidence of child abuse or neglect which is
+165 corroborated by a third party who is not employed by or
+166 contracted with the department.
+167 b. Unambiguous physical evidence of child abuse or
+168 neglect.
+Page 6
+
+neglect.
+HB464 INTRODUCED
+169 (5) DEPARTMENT. The State Department of Human
+170 Resources.
+171 (6)(4) DULY CONSTITUTED AUTHORITY. The chief of police
+172 of a municipality or municipality and county; or the sheriff,
+173 if the observation of child abuse or neglect is made in an
+174 unincorporated territory; or the Department of Human
+175 Resourcesdepartment; or any person, organization, corporation,
+176 group, or agency authorized and designated by the Department
+177 of Human Resourcesdepartment to receive reports of child abuse
+178 and neglect; provided, that a duly constituted authority shall
+179 not include an agency involved in the acts or omissions of the
+180 reported child abuse or neglect.
+181 (7) INDICATED. When there is credible evidence and
+182 professional judgment to substantiate that a subject is
+183 responsible for child abuse or neglect.
+184 (9) NOT INDICATED. When credible evidence and
+185 professional judgment does not substantiate that a subject is
+186 responsible for child abuse or neglect.
+187 (10) SUBJECT. An individual under investigation by the
+188 department for allegedly committing child abuse or neglect."
+189 "§26-14-3
+190 (a) All hospitals, clinics, sanitariums, doctors,
+191 physicians, surgeons, medical examiners, coroners, dentists,
+192 osteopaths, optometrists, chiropractors, podiatrists, physical
+193 therapists, nurses, public and private K-12 employees, school
+194 teachers and officials, peace officers, law enforcement
+195 officials, pharmacists, social workers, day care workers or
+196 employees, mental health professionals, employees of public
+Page 7
+
+employees, mental health professionals, employees of public
+HB464 INTRODUCED
+197 and private institutions of postsecondary and higher
+198 education, members of the clergy as defined in Rule 505 of the
+199 Alabama Rules of Evidence, or any other person individual
+200 called upon to render aid or medical assistance to any child,
+201 when the child is known or suspected to be a victim of child
+202 abuse or neglect, shall be required to report orally, either
+203 by telephone or direct communication immediately, and which
+204 shall be followed by a written report, to a duly constituted
+205 authority.
+206 (b)(1) When an initial report is made to a law
+207 enforcement official, the official subsequently shall
+208 immediately shall inform the Department of Human
+209 Resourcesdepartment of the report so that the department can
+210 carry out its responsibility to provide protective services
+211 when deemed appropriate to the respective child or children.
+212 (2) As soon as is practicable after a report of known
+213 or suspected child abuse or neglect is made, the Department of
+214 Human Resourcesdepartment shall make efforts to determine the
+215 military status of the parent or guardian of the child who is
+216 the subject of the child abuse or neglect allegation.
+217 (3) If the Department of Human Resourcesdepartment
+218 determines that a parent or guardian under subdivision (2) is
+219 in the military, the department shall notify a United States
+220 Department of Defense family advocacy program at the military
+221 installation of the parent or guardian that there is an
+222 allegation of child abuse or neglect that is being
+223 investigated that involves a child of the military parent or
+224 guardian.
+Page 8
+
+guardian.
+HB464 INTRODUCED
+225 (c) When the Department of Human Resourcesdepartment
+226 receives initial reports of suspected abuse or neglect, as
+227 those terms are defined in Section 26-14-1, including
+228 suspected abuse or neglect involving discipline or corporal
+229 punishment committed in a public or private school or
+230 suspected abuse or neglect in a state-operated child
+231 residential facility, the Department of Human
+232 Resourcesdepartment shall transmit a copy of school reports to
+233 the law enforcement agency and residential facility reports to
+234 the law enforcement agency and the operating state agency
+235 which shall conduct the investigation. When the investigation
+236 is completed, a written report of the completed investigation
+237 shall contain the information required by the state Department
+238 of Human Resourcesdepartment and, in cases where the final
+239 disposition of the investigation is that child abuse or
+240 neglect is indicated, which shall be submitted by the law
+241 enforcement agency or the state agency shall submit the
+242 written report to the county department of human resources for
+243 entry into the state's central registry.
+244 (d) Nothing in this chapter shall preclude interagency
+245 agreements between departments of human resources, law
+246 enforcement, and any other state agencies on procedures for
+247 investigating reports of suspected child abuse and neglect to
+248 provide for departments of human resources to assist law
+249 enforcement and other state agencies in these investigations.
+250 (e) Any provision of this section to the contrary
+251 notwithstanding, if any agency or authority investigates any
+252 report pursuant to this section and the report does not
+Page 9
+
+report pursuant to this section and the report does not
+HB464 INTRODUCED
+253 indicate child abuse or neglect or result in a conviction, the
+254 agency or authority shall expunge any record of the
+255 information or report and any data developed from the record.
+256 (f) Subsection (a) to the contrary notwithstanding, a
+257 member of the clergy shall not be required to report
+258 information gained solely in a confidential communication
+259 privileged pursuant to Rule 505 of the Alabama Rules of
+260 Evidence which communication shall continue to be privileged
+261 as provided by law.
+262 (g) Commencing on August 1, 2013, aA public or private
+263 employer who discharges, suspends, disciplines, or penalizes
+264 an employee solely for reporting suspected child abuse or
+265 neglect pursuant to this section shall be guilty of a Class C
+266 misdemeanor."
+267 "§26-14-6.1
+268 The duty and responsibility for the investigation of
+269 reports of suspected child abuse or neglect shall be as
+270 follows:
+271 (1) Reports of suspected child abuse or neglect
+272 involving disciplinary or corporal punishment
+273 committedadministered in a public or private school or
+274 kindergarten shall be investigated by law enforcement
+275 agencies.
+276 (2) Reports of suspected child abuse or neglect
+277 committed in a state-operated child residential facility shall
+278 be investigated by law enforcement agencies.
+279 (3)a. Reports of suspected child abuse or neglect
+280 committed during an ongoing domestic dispute shall be referred
+Page 10
+
+committed during an ongoing domestic dispute shall be referred
+HB464 INTRODUCED
+281 to the appropriate court overseeing the domestic dispute if:
+282 1. The individual alleged to have committed the abuse
+283 is a party to the domestic dispute and is the parent, legal
+284 guardian, or alleged parent of the child who is the subject of
+285 the report; and
+286 2. The domestic dispute involves the custody, child
+287 support, or care of the child who is the subject of the
+288 report. For the purposes of this section, the term "domestic
+289 dispute" includes, but is not limited to, a case before an
+290 appropriate court with jurisdiction over the dispute involving
+291 divorce, protection from abuse, child support, or child
+292 custody.
+293 b. The judge may: (i) determine the custody of the
+294 child pending the completion of the domestic dispute; (ii)
+295 refer the report to the department or law enforcement agencies
+296 for further investigation; and (iii) determine what, if any,
+297 effect the reported abuse or neglect has on the ongoing
+298 domestic dispute.
+299 c. The department and the Alabama State Law Enforcement
+300 Agency may adopt rules, and the Administrative Office of
+301 Courts may adopt policies, to implement and administer this
+302 subdivision.
+303 (4) All other reports of suspected child abuse and
+304 neglect shall be investigated by the Department of Human
+305 Resources department."
+306 "§26-14-7
+307 (a) The State or County Department of Human Resources
+308 or a county department of human resources shall make a
+Page 11
+
+or a county department of human resources shall make a
+HB464 INTRODUCED
+309 thorough investigation promptly upon either the oral or
+310 written report of child abuse or neglect. The primary purpose
+311 of such an the investigation shall be the protection of the
+312 child.
+313 (b) The investigation, to the extent that is reasonably
+314 possible, shall include:
+315 (1) The nature, extent, and cause of the child abuse or
+316 neglect;
+317 (2) The identity of the personindividual responsible
+318 therefor for the child abuse or neglect;
+319 (3) The names and conditions of any other children in
+320 the home;
+321 (4) An evaluation of the parents or personindividuals
+322 responsible for the care of the child;
+323 (5) The home environment and the relationship of the
+324 child or children to the parents or other personsindividuals
+325 responsible for their care; and
+326 (6) All other data deemed pertinent relevant to the
+327 investigation.
+328 (c)(1) The investigation may include a visit to the
+329 child's home, an interview with the subject child, and may
+330 include a physical, psychological, or psychiatric examination
+331 of any child or children in that home. If the investigators
+332 cannot obtain: (i) the admission to the home, school, or any
+333 other place that the child may be, ; or (ii) permission of the
+334 parent or other persons responsible for the child or children,
+335 for the physical, psychological, or psychiatric examination of
+336 the child or children, cannot be obtained, then a court of
+Page 12
+
+the child or children, cannot be obtained, then a court of
+HB464 INTRODUCED
+337 competent jurisdiction, upon cause shown by a verified
+338 petition, shall order the parents or personsindividuals
+339 responsible and in charge of any place where the child may be
+340 to allow the interview, examinations, and investigation.
+341 (2) If, before the examination is complete, the opinion
+342 of the investigators is that immediate removal is necessary to
+343 protect a child or children from further abuse or neglect, a
+344 court of competent jurisdiction, on a verified petition by the
+345 investigators and with good cause credible evidence being
+346 shown, shall issue an order for temporary removal and custody.
+347 In determining whether to remove a child under this section,
+348 the investigators shall consider all of the following:
+349 a. The immediacy of the imminent harm to the safety of
+350 the child.
+351 b. The impact of the removal on the child's emotional
+352 and physical well-being.
+353 c. The availability of services necessary to create a
+354 safe and comfortable environment for the child, should the
+355 child be removed.
+356 d. Whether the child could safely remain in the home by
+357 arranging for informal supports such as care by family
+358 members, the voluntary removal of the subject from the home,
+359 or the provision of in-home services.
+360 e. If the safety threat could be rectified by providing
+361 resources, education, or other services to the child's parent
+362 or legal guardian.
+363 (3) If the department relies in whole or in part on an
+364 evaluation by a child abuse pediatrician or other designated
+Page 13
+
+evaluation by a child abuse pediatrician or other designated
+HB464 INTRODUCED
+365 specialist in forming a preliminary finding or final
+366 disposition of indicated, the parent or legal guardian of the
+367 child who is the subject of the investigation may obtain an
+368 independent medical opinion from a licensed physician of their
+369 choice. The department shall review and consider any such
+370 independent medical opinion: (i) when determining whether
+371 credible evidence of child abuse or neglect exists; and (ii)
+372 in any investigative hearing conducted under Section
+373 26-14-7.1.
+374 (d) After completing the investigation required by this
+375 section, the county department of human resources may make a
+376 preliminary finding that child abuse or neglect is indicated
+377 if:
+378 (1) There is credible evidence and professional
+379 judgment to substantiate that a subject is responsible for
+380 child abuse or neglect; and
+381 (2) There is credible evidence that an injury to the
+382 child who is the subject of the investigation was the result
+383 of abuse or neglect, and accidental injury and complex medical
+384 conditions have been ruled out.
+385 (e) The county department of human resources shall make
+386 a complete written report of the investigation, together with
+387 its recommendations. If the preliminary finding of the
+388 investigation is indicated, the department shall notify the
+389 subject and provide him or her with the opportunity for an
+390 investigative hearing, as provided in Section 26-14-7.1. Such
+391 reports may be made available to the appropriate court, the
+392 district attorney, and the appropriate law enforcement agency
+Page 14
+
+district attorney, and the appropriate law enforcement agency
+HB464 INTRODUCED
+393 upon request. The county department of human resources shall
+394 make a written report or case summary, together with services
+395 offered and accepted to the state's central registry on forms
+396 supplied by the registry for that purpose
+397 (f) The department shall establish a training program
+398 for employees and investigators involved in the investigation
+399 of reports of child abuse or neglect under this section. The
+400 training must include, but is not limited to, the following:
+401 (1) Best practices for investigation techniques,
+402 including how to separate personal feelings from
+403 professionalism when decision-making.
+404 (2) Factors that an investigator must consider before
+405 removing a child from his or her home, including services
+406 which would facilitate family preservation.
+407 (3) When child abuse or neglect must be reported to law
+408 enforcement, and the criminal standards for child abuse and
+409 neglect.
+410 (4) An explanation of family preservation services."
+411 "§26-14-7.1
+412 (a) The following due process procedures shall apply in
+413 any investigation of child abuse or neglect by the
+414 departmentAny person who comes under investigation by the
+415 Department of Human Resources for the abuse or neglect of a
+416 child or children and who is employed by, serves as a
+417 volunteer for, holds a license or certificate for, or is
+418 connected with any facility, agency, or home which cares for
+419 and controls any children and which is licensed, approved, or
+420 certified by the state, operated as a state facility, or any
+Page 15
+
+certified by the state, operated as a state facility, or any
+HB464 INTRODUCED
+421 public, private, or religious facility or agency that may be
+422 exempt from licensing procedures shall be granted the
+423 following due process rights by the Department of Human
+424 Resources:
+425 (1)a. The department shall notify the alleged
+426 perpetrator subject in writing that an investigation has
+427 commenced against him or her after such the investigation has
+428 officially begun in accordance with written policies
+429 established by the Department of Human Resources. The notice
+430 shall be in writing and shall state the name of the child or
+431 children allegedly abused, the date or dates that the alleged
+432 abuse is thought to have occurred, and the substance of the
+433 person's individual's actions which that are alleged to be
+434 abusive.
+435 b. The department shall establish and maintain written
+436 policies outlining the specifics of the notification required
+437 by this subdivision and any other policies The department
+438 shall establish and maintain written policies outlining the
+439 specifics of such notification and other policies deemed
+440 necessary and prudent by the department necessary to inform
+441 the alleged perpetratorsubject of his or her rights and the
+442 procedures utilized used by the department involving child
+443 abuse and neglect investigations. The notice required by this
+444 subdivision may be provided after the department interviews
+445 the child who is the subject of the investigation. If the
+446 subject has a criminal history of committing violent offenses
+447 or abuse, the notice may be withheld until:
+448 1. The department issues a preliminary finding that
+Page 16
+
+1. The department issues a preliminary finding that
+HB464 INTRODUCED
+449 abuse or neglect is indicated; or
+450 2. The department determines that abuse or neglect is
+451 not indicated.
+452 (2)a. If the department conducts an investigation
+453 relating to child abuse/ or neglect, the department shall
+454 notify the subjectalleged perpetrator shall be notified of the
+455 investigator's conclusions. If the investigation results in a
+456 preliminary finding of indicated, the department shall provide
+457 the subject with the opportunity for an investigative hearing
+458 to confirm or reject the investigator's preliminary findings,
+459 and notice of his or her right to that investigative hearing.
+460 The department shall notify the subject of the preliminary
+461 indicated disposition and of the date, time, and place of the
+462 investigative hearing. The department shall provide the
+463 subject with written notice of all of his or her rights set
+464 forth in subdivision (4). The hearing shall not be open to the
+465 public.
+466 b. A subject may waive his or her right to an
+467 investigative hearing by submitting a signed, written waiver
+468 stating as such to the department. Failure of a subject to
+469 appear at the hearing constitutes a waiver of his or her right
+470 to an investigative hearing, provided that the department has
+471 confirmed the subject's receipt of the notice required by
+472 paragraph a.
+473 (3) If the department's investigators conclude that
+474 child abuse/neglect is indicated, an investigative hearing may
+475 be held to confirm or reject the investigators' conclusions.
+476 (4) The alleged perpetrator shall be given ten
+Page 17
+
+(4) The alleged perpetrator shall be given ten
+HB464 INTRODUCED
+477 departmental working days from the receipt of the notification
+478 of the investigator's conclusions to request a hearing, and
+479 such request must be in writing. If no such request is
+480 received in the department's office within ten departmental
+481 working days, the alleged perpetrator's opportunity for a
+482 hearing shall be considered waived by the department.
+483 (3)(5) The department may not notify the employer of a
+484 subjectan alleged perpetrator shall not be notified of the
+485 investigator's preliminary findings conclusions prior to a
+486 hearing or its waiver unless, in the opinion of the
+487 department's investigators if the subject's continued
+488 employment places, a child is in danger of abuse or neglect;
+489 in such case, any person in a position to discover, prevent,
+490 or protect the child from his abuse or neglect may be informed
+491 of information gathered in the investigation prior to a
+492 requested investigative hearing for the alleged perpetrator.
+493 (6) The alleged perpetrator shall be notified of the
+494 date, time, and place of any investigative hearing. Such
+495 hearing shall not be open to the public.
+496 (4)(7) The alleged perpetratorsubject shall have the
+497 following rights at any departmental investigative hearing:
+498 a. The right to present his or her case himself or
+499 herself or be represented by legal counsel or any other person
+500 individual.
+501 b. The right to present written evidence, oral
+502 testimony, and witnesses.
+503 c. The right to be provided by the department a short
+504 and plain written statement of the matters asserted which will
+Page 18
+
+and plain written statement of the matters asserted which will
+HB464 INTRODUCED
+505 be presented at the hearing.
+506 d. The right to review and copy at cost any written or
+507 recorded statement made by the alleged perpetratorsubject and
+508 child to departmental personnel in the course of the child
+509 abuse/ or neglect investigation. This In order to review or
+510 copy statements under this paragraph, the subject must request
+511 must be made prior to to do so before the date for the
+512 hearing.
+513 e. The right to review and copy at cost, before or
+514 during the hearing, the written material and other evidence in
+515 possession of the department which had been generated by,
+516 relied on, received by, or reviewed by the department in the
+517 course of the investigationwill be placed into evidence at the
+518 hearing.
+519 f. The right to inspect and copy any exculpatory
+520 evidence which that may be in the possession of departmental
+521 investigators, and the right to be informed of such evidence
+522 if known by departmental investigators before the hearing;
+523 provided, that a request for such evidence is must be made at
+524 least five working days prior to the date set for the hearing.
+525 g. The right to review and copy at cost all
+526 non-confidential nonconfidential department documents
+527 pertinent to the case, including written policies and rights.
+528 h. The right to cross-examine witnesses testifying at
+529 the hearing.
+530 i. The right to request issuance of subpoenas to
+531 witnesses and compel attendance. This The subject must request
+532 must be received such issuances no later than ten 10 calendar
+Page 19
+
+must be received such issuances no later than ten 10 calendar
+HB464 INTRODUCED
+533 days prior to the hearing, unless a shorter time is agreed
+534 upon by the hearing officer.
+535 j. The right to review and copy at cost all documents
+536 in the official hearing file maintained by the hearing
+537 officer.
+538 k. The right to have a hearing officer appointed who
+539 shall be disinterested, fair, and impartial.
+540 (5)(8) The Department of Human Resources department or
+541 its investigative hearing officers shall have the power and
+542 authority to may issue subpoenas to compel attendance by and
+543 production of documents from any witness. Subpoenas may be
+544 served in the same manner as subpoenas issued out of any
+545 circuit court. Where any witness has been summoned by the
+546 Department of Human Resourcessubject, department, its
+547 commissioner, or any of his or her agents, and the witness
+548 refuses to appear, testify, or produce records or documents as
+549 requested;, then any circuit court in this state, or any judge
+550 thereof, on application, may issue an attachment for such
+551 person the witness and compel him or her to comply with such
+552 the order and the court or judge shall have power to punish
+553 for contempt in cases of disobedience of such an order.
+554 (6)(9) The Department of Human Resources department
+555 shall establish policies and written guidelines for the
+556 conduct and procedures involved in an investigative hearing.
+557 At such an investigative hearing, the fact that there was a
+558 findingfinal order by a juvenile court judge or by a criminal
+559 court that child abuse or neglect has occurred shall be
+560 presumptive evidence that the report should be marked
+Page 20
+
+presumptive evidence that the report should be marked
+HB464 INTRODUCED
+561 indicated.
+562 (7)(10) The hearing officer shall notify the alleged
+563 perpetratorsubject in writing of the hearing officer's
+564 decision not later than 14 days after the hearing date.
+565 (11) Results of investigative hearings:
+566 a. If the hearing officer concludes that clear and
+567 convincing evidence supports a final disposition that child
+568 abuse and/or or neglect is "indicated," suchindicated, the
+569 department shall:
+570 1. File the findings and evidence shall be filed with
+571 the appropriate district attorney and other law enforcement
+572 officials, as deemed necessary by which the department may
+573 deem necessary; and
+574 2. Enter the final disposition into the central
+575 registry, as provided in Section 26-14-7(e).
+576 b. The department may notify the subject's alleged
+577 perpetrator's employer or licensing/ or certifying agency or
+578 group may also be notified of the "indicated"indicated
+579 findings if the disclosure would prevent child abuse or
+580 neglect. Such The notification shall be marked "Confidential"
+581 and "To Be Used Only For The Purpose Of Discovery Or
+582 Preventing Child Abuse." The department shall establish
+583 written policies for notification of employers, prospective
+584 employers, and licensing/ or certifying agencies or groups.
+585 (b) If any court of competent jurisdiction enters a
+586 final order dismissing a criminal charge based on an
+587 allegation of child abuse or neglect that was also subject to
+588 an investigation by the department, the court shall notify the
+Page 21
+
+an investigation by the department, the court shall notify the
+HB464 INTRODUCED
+589 department of the dismissal. Upon receipt of the notification,
+590 the department shall:
+591 (1) Vacate any preliminary finding or final disposition
+592 that the alleged child abuse or neglect is indicated;
+593 (2) Immediately remove any reports or records relating
+594 to the alleged child abuse or neglect from the central
+595 registry and treat those reports or records as not indicated
+596 for purposes of Section 26-14-8; and
+597 (3) Promptly notify the subject that the finding has
+598 been vacated and removed from the central registry.
+599 (4) If a child was removed from the custody of a parent
+600 or legal guardian based in whole or in part on the allegations
+601 underlying the dismissed criminal charge, the department shall
+602 file a motion for immediate reunification of the child and his
+603 or her parent or legal guardian. The court shall order the
+604 reunification unless the court finds, by clear and convincing
+605 evidence, that the return of the child would present an
+606 imminent risk of serious physical harm based on evidence
+607 independent of the dismissed allegations."
+608 "§26-14-8
+609 (a) For the purposes of this section, the following
+610 words shall have the following meanings, respectively:
+611 (1) INDICATED. When credible evidence and professional
+612 judgment substantiates that an alleged perpetrator is
+613 responsible for child abuse or neglect.
+614 (2) NOT INDICATED. When credible evidence and
+615 professional judgment does not substantiate that an alleged
+616 perpetrator is responsible for child abuse or neglect.
+Page 22
+
+perpetrator is responsible for child abuse or neglect.
+HB464 INTRODUCED
+617 (b) The Department of Human Resources department shall
+618 establish a statewide central registry for reports of child
+619 abuse and neglect made pursuant to this chapter. The
+620 department shall maintain information on the central registry
+621 as follows:
+622 (1) If a report of child abuse or neglect results in a
+623 final disposition of indicated, the department shall include
+624 the report on the central registry. A final disposition may
+625 not be entered into the registry unless the preliminary
+626 finding of indicated has been confirmed by an investigative
+627 hearing as provided in Section 26-14-7.1, or the subject
+628 waived his or her right to the investigative hearing.
+629 (2) If, following a report and an investigation under
+630 this chapter, child abuse or neglect is not indicated, the
+631 department may not include the report or any related
+632 information on the central registry.
+633 (b) The central registry shall contain, but shall not
+634 be limited to, the following information for reports of child
+635 abuse and neglect with a final disposition of indicated:
+636 (1) All information in the written report;.
+637 (2) RecordA record of the final disposition of the
+638 report, including services offered and services accepted;.
+639 (3) The names and identifying data, dates, and
+640 circumstances of any persons requesting or receiving
+641 information from the registry; provided, however, that
+642 requests for information and responses where no report exists
+643 may be destroyed after three years from the date of the
+644 request;.
+Page 23
+
+request;.
+HB464 INTRODUCED
+645 (4) The plan for rehabilitative treatment; and.
+646 (5) Any other information which that might be helpful
+647 in furthering the purposes of this chapter.
+648 (c) The Department of Human Resources department shall
+649 establish and enforce reasonable rules and regulations
+650 governing the custody, use, and preservation of the reports
+651 and records of child abuse and neglect. Child abuse and
+652 neglect reports and records shall be limited to the purposes
+653 for which they are furnished and by the provisions of law
+654 under which they may be furnished. The reports and records of
+655 child abuse and neglect and related information or testimony
+656 shall be confidential, and. Reports and records of final
+657 indicated dispositions of child abuse and neglect shall not be
+658 used or disclosed for any purposes other than:
+659 (1) To permit their use to prevent or to discover abuse
+660 or neglect of children through the information contained
+661 therein, except reports or records in cases determined to be
+662 "not indicated" shall not be used or disclosed for purposes of
+663 employment or other background checks; or
+664 (2) For investigation of child abuse or neglect by the
+665 police or other law enforcement agency; or
+666 (3) For use by a grand jury upon its determination that
+667 access to such reports and records is necessary in the conduct
+668 of its official business; or
+669 (4) For use by a court where it finds that such the
+670 information is necessary for the determination of an issue
+671 before the court; or
+672 (4)(5) For use by any person engaged in bona fide
+Page 24
+
+(4)(5) For use by any person engaged in bona fide
+HB464 INTRODUCED
+673 research who is authorized to have access to such the
+674 information by the Commissioner commissioner of the department
+675 of the Department of Human Resources; or
+676 (5)(6) For use by any personindividual authorized by a
+677 court to act as a representative for an abused or neglected
+678 child who is the subject of a report; or
+679 (6)(7) For use by a physician who has before him or her
+680 a child whom hethe physician reasonably suspects may be abused
+681 or neglected; or
+682 (7)(8) For use by an attorney or guardian ad litem in
+683 representing or defending a child or itsthe child's parents or
+684 guardians in a court proceeding related to abuse or neglect of
+685 the child; or
+686 (8)(9) For use by federal, state, or local governmental
+687 entities, social service agencies of another state, or any
+688 agent of such those entities, having a need for the
+689 information in order to carry out their responsibilities under
+690 law to protect children from abuse and neglect; or
+691 (9)(10) For use by child abuse citizen review or
+692 quality assurance or multidisciplinary review panels; or
+693 (10)(11) For use by child fatality review panels; or
+694 (11)(12) For public disclosure of the findings or
+695 information about the case of child abuse or neglect which has
+696 resulted in a child fatality or near fatality. For the
+697 purposes of this subdivision,; the term "near fatality" means
+698 an act that, as certified by a physician, places the child in
+699 serious or critical condition. Information identifying any
+700 individuals, other than the victim, mayby name persons other
+Page 25
+
+individuals, other than the victim, mayby name persons other
+HB464 INTRODUCED
+701 than the victim shall not be disclosed; or.
+702 (12) For purposes of employment, to
+703 (d) The names of persons or information in the
+704 investigative report placed on the state's central registry
+705 which may be made available to the subject's alleged
+706 perpetrator's employer, prospective employer, or others are
+707 those cases that the Department of Human Resources or the
+708 investigative hearing officer has determined child abuse or
+709 neglect to be indicated.
+710 (d)(1)(e) In the case of any child abuse or neglect
+711 investigation which that the department or the investigative
+712 hearing officer has is determined to be not indicated or
+713 otherwise does not have a final disposition of indicated, no
+714 record of the report of child abuse or neglect or any related
+715 information may be:
+716 a. Placed or maintained on the central registry;
+717 b. Used or disclosed for purposes of employment or
+718 other background checks; or
+719 c. Otherwise disclosed, reported, or made available for
+720 any purpose, including, but not limited to, for law
+721 enforcement purposes "not indicated," the alleged perpetrator
+722 may request after five years from the completion of the
+723 investigation that his or her name be expunged from the
+724 central registry so long as the Department of Human Resources
+725 has received no further reports concerning the alleged
+726 perpetrator during the five years, at which time the
+727 department shall expunge the name.
+728 (2) No later than 30 days after the effective date of
+Page 26
+
+(2) No later than 30 days after the effective date of
+HB464 INTRODUCED
+729 this act, the department shall remove any records or
+730 information related to not indicated reports of child abuse or
+731 neglect from the central registry. The department may not
+732 require any subject to request expungement in order for his or
+733 her records to be removed under this subsection.
+734 (3) This subsection shall be retroactive and apply to
+735 any not indicated reports of child abuse or neglect entered
+736 before, on, or after the effective date of this act.
+737 (e)(f) Nothing in this section shall may be construed
+738 as restricting to restrict the ability of a the State
+739 Department of Human Resources or a county department of human
+740 resources to refuse to disclose identifying information
+741 concerning the individual initiating a report or complaint
+742 alleging suspected instances of child abuse or neglect, except
+743 that the department may not refuse such a disclosure in cases
+744 in which a court orders such the disclosure after the court
+745 has reviewed, in camera, the record of the department related
+746 to the report or complaint and has determined that itthe court
+747 has reason to believe that the personindividual making the
+748 report knowingly made a false report.
+749 (f)(g) Any person receiving reports or records of child
+750 abuse or neglect or related information under this section
+751 shall maintain the confidentiality of the documents and
+752 information and not disclose itany document or information
+753 except as authorized by law.
+754 (g)(h) Any violation of the provision of
+755 confidentiality shall be a Class A misdemeanor."
+756 Section 2. Sections 26-14-7.3 and 26-14-8.1 are added
+Page 27
+
+Section 2. Sections 26-14-7.3 and 26-14-8.1 are added
+HB464 INTRODUCED
+757 to the Code of Alabama 1975, to read as follows:
+758 §26-14-7.3
+759 No later than March 1 of each year, the department
+760 shall prepare and distribute a report to the chairs of the
+761 House of Representatives Judiciary Committee, the House of
+762 Representatives Children and Senior Advocacy Committee, the
+763 Senate Judiciary Committee, and the Senate Children and Youth
+764 Health Committee. The report shall detail the following
+765 information for the previous calendar year:
+766 (1) The number of investigative hearings made pursuant
+767 to this article and the result of those hearings.
+768 (2) The number of employees employed by the department
+769 who are trained pursuant to Section 26-14-7.
+770 (3) The number of children who are placed in the legal
+771 custody of relatives or next of kin following an investigation
+772 under this article, including a breakdown of how many of those
+773 children were voluntarily placed with kin to prevent removal
+774 or foster care placement.
+775 (4) The number of children who are placed in the
+776 custody of nonrelatives.
+777 (5) The number of children who are reunified with their
+778 parents or legal custodians disaggregated by age, the reason
+779 for initial removal, the length of time the child was removed,
+780 and the location of the child during the removal.
+781 (6) The number of cases where an advanced pick-up order
+782 was required for the removal of a child, disaggregated by the
+783 age of the child and the reason the child was removed.
+784 (7) The number of cases in which a child was removed
+Page 28
+
+(7) The number of cases in which a child was removed
+HB464 INTRODUCED
+785 without a pick-up order, disaggregated by the age of the child
+786 and the reason for removal.
+787 §26-14-8.1
+788 (a) Reports and records of final indicated dispositions
+789 of child abuse and neglect by the department shall not be
+790 sufficient to establish probable cause for any criminal
+791 warrant, and any evidence within the records or reports must
+792 be corroborated by law enforcement in order to be used to
+793 secure a criminal warrant. Reports and records of final
+794 indicated dispositions of child abuse and neglect are not
+795 admissible as evidence in any criminal case.
+796 (b) No criminal warrant relying in whole or in part on
+797 records or reports of the department's final indicated
+798 disposition of child abuse or neglect may be served unless a
+799 grand jury has returned an indictment for the charge.
+800 Section 3. This act shall become effective on October
+801 1, 2026.
+Page 29

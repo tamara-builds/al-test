@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB245 ENROLLED
+1 HB245
+2 I3JHTW6-3
+3 By Representative Collins
+4 RFD: Ways and Means Education
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+HB245 Enrolled
+1 Enrolled, An Act,
+2
+3 Relating to rural health care; to amend Sections
+4 40-18-551, 40-18-552, 40-18-557, and 40-18-559, Code of
+5 Alabama 1975, as created by Act 2025-404 of the 2025 Regular
+6 Session, to further provide for the oversight of the Rural
+7 Hospital Investment Program Board, to expand the definition of
+8 utility tax, and to repeal Section 40-18-560, Code of Alabama
+9 1975, relating to rulemaking authority of the State Treasurer
+10 and the Rural Hospital Investment Program Board.
+11 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+12 Section 1. Sections 40-18-551, 40-18-552, 40-18-557 and
+13 40-18-559, Code of Alabama 1975, are amended to read as
+14 follows:
+15 "§40-18-551
+16 For the purposes of this article, the following terms
+17 have the following meanings:
+18 (1) BOARD. The Rural Hospital Investment Program Board.
+19 (2) DEPARTMENT. The Alabama Department of Revenue.
+20 (3) ELIGIBLE RURAL HOSPITAL. A hospital that meets the
+21 requirements set out in Section 40-18-553.
+22 (4) ELIGIBLE TAXES. Financial institution excise tax,
+23 income tax, insurance premium tax, and utility tax.
+24 (5) FINANCIAL INSTITUTION EXCISE TAX. The taxes levied
+25 and collected pursuant to Chapter 16.
+26 (6) INCOME TAX. The taxes levied and collected pursuant
+27 to Chapter 18.
+28 (7) INSURANCE PREMIUM TAX. The taxes levied and
+Page 1
+
+(7) INSURANCE PREMIUM TAX. The taxes levied and
+HB245 Enrolled
+29 collected pursuant to Chapter 4A of Title 27.
+30 (8) PROGRAM. The Rural Hospital Investment Program.
+31 (9) QUALIFIED DONATION. An unrestricted transfer of
+32 funds for eligible rural hospitals.
+33 (10) QUALIFIED DONOR. Any person, third party, or
+34 organization that makes a qualified donation to an eligible
+35 rural hospital.
+36 (11) RURAL HOSPITAL. A rural general acute care, rural
+37 emergency, or critical access hospital determined to be
+38 located in a rural area as set out in Section 40-18-553(a)(2).
+39 (12) TAX YEAR. The calendar year for which annual
+40 income is reported to the State of Alabama by a person that
+41 makes a qualified donation.
+42 (13) THIRD PARTY. An entity classified as a tax-exempt
+43 nonprofit organization by the Internal Revenue Service which
+44 participates in soliciting, administering, or managing
+45 qualified donations for eligible rural hospitals.
+46 (14) UTILITY TAX. The taxes levied and collected
+47 pursuant to Articles 3 and 4 of Chapter 21 of this title and
+48 the tax levied in Sections 40-21-50, 40-21-51, and 40-21-53."
+49 "§40-18-552
+50 (a) The Rural Hospital Investment Program Board is
+51 established within the Office of the State Treasurerdepartment
+52 to oversee the development and operation of the Rural
+53 Hospital Investment Program. The board shall consist of the
+54 following members:
+55 (1) The Governor, or his or her designee.
+56 (2) The State Treasurer, or his or her designee.
+Page 2
+
+(2) The State Treasurer, or his or her designee.
+HB245 Enrolled
+57 (3) The Commissioner of Revenue, or his or her
+58 designee.
+59 (4) The President Pro Tempore of the Senate, or his or
+60 her designee.
+61 (5) The Speaker of the House of Representatives, or his
+62 or her designee.
+63 (6) Two representatives of the Alabama Hospital
+64 Association, appointed by the association.
+65 (7) Two representatives of business, appointed by the
+66 Business Council of Alabama.
+67 (b) Members shall be appointed by June 13, 2025.
+68 (c)(b)(1) The appointing authorities for the members
+69 appointed pursuant to subdivisions (a)(6) and (a)(7) shall
+70 each appoint one initial member to the board for a term of two
+71 years and one initial member to the board for a term of four
+72 years.
+73 (2) Members subsequently appointed to the board
+74 pursuant to subdivisions (a)(6) and (a)(7) shall each serve
+75 for a term of four years.
+76 (3) A vacancy on the board of a representative
+77 appointed pursuant to subdivisions (a)(6) and (a)(7) shall be
+78 filled by the respective appointing authority before the next
+79 scheduled meeting of the board, and the appointee shall serve
+80 for the remainder of the unexpired term.
+81 (d)(c) Designees or appointees to the board shall be
+82 inclusive and reflect the racial, gender, geographic, urban,
+83 rural, and economic diversity of the state.
+84 (e)(d)(1) No later than July 14, 2025, the Governor, or
+Page 3
+
+(e)(d)(1) No later than July 14, 2025, the Governor, or
+HB245 Enrolled
+85 his or her designee, shall call the first meeting of the
+86 board, at which meeting the members shall elect a chair.
+87 (2)(1) The board shall meet at least once a year in
+88 Montgomery, Alabama, but thereafter shall meet as necessary to
+89 conduct its business.
+90 (3)(2) A quorum for a meeting of the board shall be
+91 five members.
+92 (4)(3) The board may meet by electronic means, so long
+93 as there is a quorum of participating members.
+94 (5)(4) The legislative members of the board shall be
+95 entitled to their legislative compensation, per diem, and
+96 travel expenses for each day they attend a meeting of the
+97 board pursuant to Section 49 of the Constitution of Alabama of
+98 2022.
+99 (6)(5) The nonlegislative members of the board shall
+100 serve without compensation but may be reimbursed for necessary
+101 expenses in attending meetings of the board pursuant to the
+102 policies of his or her respective appointing authority.
+103 "§40-18-557
+104 (a) A taxpayer may claim a tax credit to offset
+105 eligible taxes for each qualified donation as provided in this
+106 section.
+107 (1) For a donor who is a single individual, a head of
+108 household, or married, filing a separate return: an amount
+109 equal to 100 percent of the qualified donations the taxpayer
+110 made during the tax year for which the credit is claimed, not
+111 to exceed fifteen thousand dollars ($15,000).
+112 (2) For a donor who is married, filing a joint return:
+Page 4
+
+(2) For a donor who is married, filing a joint return:
+HB245 Enrolled
+113 100 percent of the qualified donations the taxpayer made
+114 during the tax year for which the credit is claimed, not to
+115 exceed thirty thousand dollars ($30,000).
+116 (3)a. For a qualified donor that is taxed as an
+117 electing pass-through entity under Section 40-18-24.4: 100
+118 percent of the qualified donations the taxpayer made during
+119 the tax year for which the credit is claimed, not to exceed
+120 four hundred fifty thousand dollars ($450,000).
+121 b. The tax credit shall be taken by the taxpayer on a
+122 pro rata basis according to the percentage of ownership in the
+123 entity or the limitations set forth in this section, whichever
+124 is less. In the case of a donor that is taxed as a corporation
+125 under the Internal Revenue Code: an amount equal to 100
+126 percent of the qualified donations the taxpayer made during
+127 the tax year for which the credit is claimed, or 75 percent of
+128 the corporation's income, excise, or insurance premium tax,
+129 not to exceed the amount of the corporation's income, excise,
+130 or insurance premium tax liability, whichever is less, with a
+131 contribution limit each tax year of five hundred thousand
+132 dollars ($500,000).
+133 (4)a. A credit for utility taxes may be claimed in an
+134 amount equal to 100 percent of total qualified donations
+135 during the taxable year for which the credit is claimed. In
+136 order to claim a credit against utility tax payments levied in
+137 Articles 3 and 4 of Chapter 21 of this title under this
+138 subdivision, a taxpayer must have a utility tax direct pay
+139 permit from the department pursuant to its requirements. A
+140 taxpayer shall provide a copy of the utility tax direct pay
+Page 5
+
+taxpayer shall provide a copy of the utility tax direct pay
+HB245 Enrolled
+141 permit to each utility provider from whom the taxpayer
+142 receives services. A taxpayer holding a direct pay permit
+143 shall notify the department of each qualified donation
+144 pursuant to the department's procedures. To the extent credits
+145 are available, the department shall reserve credits for a
+146 taxpayer and provide written confirmation thereof.
+147 b. Upon receipt of a qualified donation, the recipient
+148 shall submit to the department certification of the donation
+149 received from a taxpayer under this subdivision pursuant to
+150 procedures established by the department within 30 business
+151 days after receipt of each donation. Upon receipt of the
+152 certification from the recipient, the department shall provide
+153 written confirmation to the taxpayer within 30 business days
+154 that the reserved credits of the taxpayer in the amounts of
+155 qualified donations actually made and not yet claimed are
+156 eligible to be used on its monthly utility tax direct pay
+157 return. A taxpayer may not use a credit against the utility
+158 tax until such time as the department provides the
+159 notification described in the previous sentence.
+160 (b)(1) The total amount of the tax credit for a tax
+161 year may not exceed the taxpayer's tax liability or, for
+162 financial institutions, the state portion of the taxpayer's
+163 financial institution excise tax liability.
+164 (2) Any unused tax credit may be carried forward for up
+165 to three years following the qualified donation but shall not
+166 be transferable.
+167 (c)(1) The tax credits may be claimed beginning January
+168 1, 2026, for the 2026 tax year.
+Page 6
+
+1, 2026, for the 2026 tax year.
+HB245 Enrolled
+169 (2) Any unused tax credit may be carried forward for up
+170 to three years following the qualified donations but shall not
+171 be transferable.
+172 "§40-18-559
+173 (a) The department shall adopt rules pursuant to the
+174 Alabama Administrative Procedure Act on or before January 1,
+175 2026, as necessary to administer and implement this article,
+176 inclusive of the responsibility of the board. The rules shall
+177 provide for all of the following:
+178 (1) That the tax credits will not reduce the
+179 distribution for the Alabama Special Mental Health Fund.
+180 (2) That the tax credits shall be awarded based on the
+181 order in which the credits are requested.
+182 (b) The department shall prescribe the method by which
+183 the tax credits are to be issued to eligible taxpayers."
+184 Section 2. Section 40-18-560, Code of Alabama 1975,
+185 relating to the rulemaking authority of the State Treasurer
+186 and the Rural Hospital Investment Program Board, is repealed.
+187 Section 3. This act shall become effective immediately.
+Page 7
+
+Section 3. This act shall become effective immediately.
+HB245 Enrolled
+188
+189
+190
+191
+192
+193
+194
+195
+196 ________________________________________________
+197 Speaker of the House of Representatives
+198
+199
+200
+201 ________________________________________________
+202 President and Presiding Officer of the Senate
+203
+204
+205 House of Representatives
+206
+207 I hereby certify that the within Act originated in and
+208 was passed by the House 22-Jan-26.
+209
+210 John Treadwell
+211 Clerk
+212
+213
+214
+215
+216
+217 Senate 03-Feb-26 Passed
+218
+219
+220
+Page 8

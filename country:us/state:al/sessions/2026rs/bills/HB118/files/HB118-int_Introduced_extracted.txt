@@ -1,0 +1,644 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB118 INTRODUCED
+1 HB118
+2 W1JSB59-1
+3 By Representatives Gidley, Kiel
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+6 PFD: 06-Jan-26
+Page 0
+
+PFD: 06-Jan-26
+W1JSB59-1 12/23/2025 GP (L)lg 2025-3044
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, all forms of abortion are
+6 prohibited, except to prevent a serious health risk to
+7 the unborn child's mother.
+8 This bill would prohibit the manufacture,
+9 distribution, mailing, transporting, delivery,
+10 prescription, or any other provision of an
+11 abortion-inducing drug in this state, unless such
+12 manufacture, distribution, mailing, transport,
+13 delivery, prescription, or other provision is solely:
+14 (i) for a purpose that is not an abortion; or (ii) to
+15 treat a medical emergency, remove an ectopic pregnancy,
+16 or remove a dead unborn child whose death was caused by
+17 a miscarriage.
+18 This bill would authorize any individual to
+19 bring a qui tam action against a person who violates or
+20 intends to violate the prohibition, provided that
+21 neither the state nor its political subdivisions may
+22 bring, engage with, or intervene in such a suit.
+23 This bill would prohibit a qui tam action from
+24 being filed against certain parties, including, but not
+25 limited to, women using abortion-inducing drugs to
+26 abort or attempt to abort their own unborn child;
+27 transportation network companies or delivery persons;
+28 Internet service providers; air carriers; certain
+Page 1
+
+Internet service providers; air carriers; certain
+HB118 INTRODUCED
+29 individuals acting under the direction of a federal
+30 agency or federal law; health care facilities and
+31 hospitals; health care providers who mail, distribute,
+32 transport, deliver, prescribe, or otherwise provide
+33 abortion-inducing drugs in this state while located
+34 outside the state; and certain pharmaceutical
+35 manufacturers or distributors who fail to adopt a
+36 policy to implement this bill.
+37 This bill would prohibit certain individuals who
+38 themselves, or in concert with another: (i) commit
+39 domestic violence, a sexual offense, or stalking
+40 against a woman; or (ii) provide an abortion-inducing
+41 drug to a woman without her knowledge, from bringing a
+42 qui tam suit.
+43 This bill would provide procedures relating to a
+44 qui tam action, including a statute of limitation,
+45 prohibitions on the disclosure of certain protected or
+46 personal information, and taking of depositions.
+47 This bill would provide affirmative defense to a
+48 qui tam action, including, but not limited to, that the
+49 defendant: (i) was unaware of the conduct that is the
+50 subject of the suit; and (ii) took reasonable
+51 precautions to prohibit violations of the act.
+52 This bill would provide that the court must
+53 award injunctive relief, a $100,000 monetary award, and
+54 court costs and reasonable attorney fees to a
+55 successful qui tam relator.
+56 This bill would also authorize certain civil
+Page 2
+
+This bill would also authorize certain civil
+HB118 INTRODUCED
+57 actions to prevent interference with qui tam actions
+58 through "clawback" provisions that authorize a civil
+59 action in other states.
+60
+61
+62 A BILL
+63 TO BE ENTITLED
+64 AN ACT
+65
+66 Relating to abortion; to add Chapter 23J, commencing
+67 with Section 26-23J-1, to Title 26 of the Code of Alabama
+68 1975; to prohibit the manufacture, distribution, mailing,
+69 transport, delivery, prescription, or other provision of
+70 abortion-inducing drugs in this state, with limited
+71 exceptions; to authorize a qui tam action against a person who
+72 violates or intends to violate the prohibition, with
+73 exceptions; to provide procedures relating to a qui tam suit,
+74 including who may bring such a suit and appropriate defenses;
+75 to provide for remedies for successful qui tam suits; and to
+76 authorize certain civil actions to prevent interference by
+77 certain "clawback" provisions that authorize a civil action in
+78 another state.
+79 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+80 Section 1. A new Chapter 23J, commencing with Section
+81 26-23J-1, is added to Title 26 of the Code of Alabama 1975, to
+82 read as follows:
+83 §26-23J-1
+84 For the purposes of this chapter, the following terms
+Page 3
+
+For the purposes of this chapter, the following terms
+HB118 INTRODUCED
+85 have the following meanings:
+86 (1) ABORTION. The same meaning as provided in Section
+87 26-23H-3.
+88 (2) ABORTION-INDUCING DRUG. The same meaning as
+89 provided in Section 26-23E-3.
+90 (3) DELIVERY NETWORK COMPANY. A business entity that
+91 offers or uses a digital network to arrange for the delivery
+92 of food, beverages, or consumer goods from a restaurant or
+93 retail establishment to a delivery customer. The term does not
+94 include an entity that only delivers products that the entity
+95 produces or stores on the entity's premises.
+96 (4) DELIVERY PERSON. An individual who undertakes a
+97 digitally prearranged delivery in the state using a digital
+98 network company's digital network.
+99 (5) DIGITAL NETWORK. Any online-enabled application,
+100 website, or system offered by either of the following:
+101 a. A transportation network company that enables the
+102 prearrangement of rides between passengers and drivers.
+103 b. A delivery network company that enables digitally
+104 prearranged drives.
+105 (6) DIGITALLY PREARRANGED DELIVERY. The transport and
+106 delivery or attempted delivery of goods to a delivery customer
+107 which is prearranged through a delivery network company's
+108 digital network, including the selection or collection of
+109 items for delivery by an individual using a delivery network
+110 company's digital network and other tasks incidental to
+111 delivery.
+112 (7) DIGITALLY PREARRANGED RIDE. A ride in a personal
+Page 4
+
+(7) DIGITALLY PREARRANGED RIDE. A ride in a personal
+HB118 INTRODUCED
+113 vehicle between points chosen by a passenger which is
+114 prearranged through a digital network.
+115 (8) DRIVER. An individual who undertakes a digitally
+116 prearranged ride between points chosen by a passenger.
+117 (9) HEALTH CARE FACILITY. The meaning as provided in
+118 Section 22-11A-60, except the term does not include a
+119 hospital.
+120 (10) HEALTH CARE PROVIDER. An individual who is
+121 licensed, certified, or otherwise authorized by this state to
+122 diagnose, prevent, alleviate, or cure a human illness or
+123 injury. The term does not include a physician.
+124 (11) HOSPITAL. The same meaning as provided under
+125 Section 22-21-410, including any such hospital owned,
+126 maintained, or operated by this state.
+127 (12) MEDICAL EMERGENCY. The same meaning as provided
+128 under Section 26-23H-3.
+129 (13) PHYSICIAN. An individual licensed to practice
+130 medicine in this state, including a medical doctor and a
+131 doctor of osteopathic medicine.
+132 (14) PHYSICIAN GROUP. An entity that is formed by a
+133 physician or group of physicians to provide medical services.
+134 The term includes, but is not limited to, any professional
+135 organization, partnership, limited liability partnership,
+136 nonprofit health corporation, or company formed by a physician
+137 or group of physicians.
+138 (15) TRANSPORTATION NETWORK COMPANY. A corporation,
+139 partnership, sole proprietorship, or other entity that, for
+140 compensation, enables a passenger to prearrange with a driver,
+Page 5
+
+compensation, enables a passenger to prearrange with a driver,
+HB118 INTRODUCED
+141 exclusively through the entity's digital network, a digitally
+142 prearranged ride. The term does not include an entity that
+143 provides any of the following:
+144 a. Street-hail taxicab services.
+145 b. Limousine or other car services arranged by a method
+146 other than through a digital network.
+147 c. Shared expense carpool or vanpool arrangements.
+148 d. A type of ride service for which: (i) the fee
+149 received by the driver does not exceed the driver's costs of
+150 providing the ride; or (ii) the driver receives a fee that
+151 exceeds the driver's costs associated with providing the ride
+152 but makes not more than three round-trips per day between the
+153 driver's or passenger's place of employment and the driver's
+154 or passenger's home.
+155 (16) WOMAN. The same meaning as provided in Section
+156 1-1-1.
+157 §26-23J-2
+158 (a) This chapter does not apply to, and a civil action
+159 under this chapter may not be brought against, any of the
+160 following:
+161 (1) A hospital.
+162 (2) A health care facility licensed, owned, maintained,
+163 or operated by this state.
+164 (3) A health care provider, other than a provider
+165 against whom a qui tam action may be brought in accordance
+166 with Section 26-23J-4(d)(7).
+167 (4) A physician, other than a physician against whom a
+168 qui tam action may be brought in accordance with Section
+Page 6
+
+qui tam action may be brought in accordance with Section
+HB118 INTRODUCED
+169 26-23J-4(d)(7).
+170 (5) A physician group.
+171 (6) An Internet service provider or an Internet service
+172 provider's affiliates or subsidiaries.
+173 (7) An Internet search engine.
+174 (8) A cloud service provider solely providing access or
+175 connection to or from:
+176 a. An Internet website; or
+177 b. Information or content on the Internet or on a
+178 facility, system, or network that is not under the cloud
+179 service provider's control, including transmission,
+180 downloading, intermediate storage, access software, or other
+181 services.
+182 (9) A person who manufactures, distributes, mails,
+183 transports, delivers, prescribes, provides, or possesses
+184 abortion-inducing drugs in this state solely for one or more
+185 of the following purposes:
+186 a. Treating a medical emergency.
+187 b. Removing an ectopic pregnancy.
+188 c. Removing a dead, unborn child whose death was caused
+189 by miscarriage.
+190 d. A purpose that does not include performing,
+191 inducing, attempting, or assisting an abortion, other than an
+192 abortion performed in response to a medical emergency.
+193 (b) This chapter may not be construed to require the
+194 actual performance, inducement, or attempted performance of an
+195 abortion in order for an individual to bring a civil action
+196 authorized by this chapter.
+Page 7
+
+authorized by this chapter.
+HB118 INTRODUCED
+197 §26-23J-3
+198 (a) Except as provided by subsection (b) or Section
+199 26-23J-2, a person may not:
+200 (1) Manufacture or distribute an abortion-inducing drug
+201 in this state; or
+202 (2) Mail, transport, deliver, prescribe, or provide an
+203 abortion-inducing drug in any manner to or from any individual
+204 or location in this state.
+205 (b) This section does not prohibit:
+206 (1) Speech or conduct protected by the First Amendment
+207 to the United States Constitution or protected by Section 4,
+208 Article I of the Constitution of Alabama of 2022;
+209 (2) Conduct a pregnant woman takes in the course of
+210 aborting or attempting to abort the woman's unborn child;
+211 (3) The manufacture, distribution, mailing, transport,
+212 delivery, prescribing, provision, or possession of an
+213 abortion-inducing drug solely for one or more of the purposes
+214 described by Section 26-23J-2(a)(9); or
+215 (4) Conduct a person takes under the direction of a
+216 federal agency, contractor, or employee to carry out a duty
+217 under federal law, if prohibiting that conduct would violate
+218 the doctrine of preemption or intergovernmental immunity.
+219 (c)(1) This section may be enforced only through a qui
+220 tam action brought under this chapter.
+221 (2) No other direct or indirect enforcement of this
+222 section may be taken or threatened by this state, a political
+223 subdivision of this state, a district or county attorney, or
+224 any officer or employee of this state or a political
+Page 8
+
+any officer or employee of this state or a political
+HB118 INTRODUCED
+225 subdivision of this state against any person, by any means
+226 whatsoever, except through a qui tam action brought under this
+227 chapter.
+228 (d) This section does not preclude or limit the
+229 enforcement of any other law or rule against conduct that is
+230 independently prohibited by the other law or rule and that
+231 would remain prohibited by the other law or rule in the
+232 absence of this section.
+233 §26-23J-4
+234 (a) An individual, other than this state, a political
+235 subdivision of this state, or an officer or employee of this
+236 state or a political subdivision of this state, has standing
+237 to bring and may bring a qui tam action against a person who:
+238 (1) Violates Section 26-23J-3; or
+239 (2) Intends to violate Section 26-23J-3.
+240 (b) An action brought under this section must be
+241 brought in the name of the qui tam relator, who is an assignee
+242 of this state's claim for relief. Notwithstanding any other
+243 law, the transfer of this state's claim to the qui tam relator
+244 is absolute, with the state retaining no interest in the
+245 subject matter of the claim.
+246 (c) A qui tam relator may not bring an action under
+247 this section if the action is preempted by 47 U.S.C. § 230(c).
+248 (d) A qui tam action may not be brought against any of
+249 the following under this section:
+250 (1) A woman for using, obtaining, or seeking to obtain
+251 abortion-inducing drugs to abort or attempt to abort her
+252 unborn child.
+Page 9
+
+unborn child.
+HB118 INTRODUCED
+253 (2) A person acting under the direction of a federal
+254 agency, contractor, or employee who is carrying out a duty
+255 under federal law if the imposition of liability would violate
+256 the doctrine of preemption or intergovernmental immunity.
+257 (3) A transportation network company or a driver for
+258 using a transportation network company's digital network to
+259 provide a digitally prearranged ride.
+260 (4) A delivery network company or a delivery person for
+261 using a delivery network company's digital network to provide
+262 a digitally prearranged delivery.
+263 (5) A person to whom this chapter does not apply and
+264 against whom a civil action under this chapter may not be
+265 brought under Section 26-23J-2.
+266 (6) A health care provider or physician, unless the qui
+267 tam relator pleads and proves that the health care provider or
+268 physician engaged in conduct constituting a violation of
+269 Section 26-23J-3 while located outside this state.
+270 (7) A pharmaceutical manufacturer, pharmaceutical
+271 distributor, or common carrier, unless the qui tam relator
+272 pleads and proves that the defendant failed to adopt and
+273 implement a policy to not distribute, mail, transport,
+274 deliver, provide, or possess abortion-inducing drugs other
+275 than for one or more of the purposes described by Section
+276 26-23J-2(a)(9).
+277 (e) A qui tam action may not be brought by any of the
+278 following:
+279 (1) An individual who has impregnated a woman through
+280 conduct constituting a sexual offense under Article 4, Chapter
+Page 10
+
+conduct constituting a sexual offense under Article 4, Chapter
+HB118 INTRODUCED
+281 6 of Title 13A.
+282 (2) An individual who has committed conduct
+283 constituting domestic violence in the first, second, or third
+284 degree under Article 7, Chapter 6 of Title 13A, or an offense
+285 against the family under Chapter 13 of Title 13A, or has been
+286 determined by a court to have perpetrated domestic or family
+287 violence.
+288 (3) An individual who provided an abortion-inducing
+289 drug to a pregnant woman for the purpose of performing,
+290 inducing, or attempting an abortion without the woman's
+291 consent or knowledge.
+292 (4) An individual who has been convicted of an offense
+293 under Article 5, Chapter 6 of Title 13A.
+294 (5) An individual who acts in concert or participation
+295 with an individual described by this subsection.
+296 (f) Notwithstanding any rule of civil procedure adopted
+297 under Title 6 or any other law, an action brought under this
+298 section may not be litigated on behalf of a claimant class or
+299 a defendant class, and a court may not certify a class in the
+300 action.
+301 (g) An individual may bring an action under this
+302 section not later than six years after the date the cause of
+303 action accrues.
+304 §26-23J-5
+305 (a)(1) It is an affirmative defense to an action
+306 brought under Section 26-23J-4 that the defendant:
+307 a. Was unaware the defendant was engaged in the conduct
+308 prohibited by Section 26-23J-3; and
+Page 11
+
+prohibited by Section 26-23J-3; and
+HB118 INTRODUCED
+309 b. Took reasonable precautions to ensure the defendant
+310 would not violate Section 26-23J-3.
+311 (2) The defendant has the burden of proving an
+312 affirmative defense under this section by a preponderance of
+313 the evidence.
+314 (b) The following are affirmative defenses to an action
+315 brought under Section 26-23J-4:
+316 (1) The imposition of civil liability on the defendant
+317 will violate the defendant's rights under federal law,
+318 including the United States Constitution.
+319 (2) The defendant has standing to assert the rights of
+320 a third party under the tests for third-party standing
+321 established by the United States Supreme Court and
+322 demonstrates that the imposition of civil liability on the
+323 defendant will violate the third party's rights under federal
+324 law, including the United States Constitution.
+325 (3) The imposition of civil liability on the defendant
+326 will violate the defendant's rights under the Constitution of
+327 Alabama of 2022.
+328 (4) The imposition of civil liability on the defendant
+329 will violate limits on extraterritorial jurisdiction imposed
+330 by the United States Constitution or the Constitution of
+331 Alabama of 2022.
+332 (c) The following are not defenses to an action brought
+333 under Section 26-23J-4:
+334 (1) A defendant's ignorance or mistake of law,
+335 including a defendant's mistaken belief that the requirements
+336 or provisions of this chapter are unconstitutional or were
+Page 12
+
+or provisions of this chapter are unconstitutional or were
+HB118 INTRODUCED
+337 unconstitutional.
+338 (2) A defendant's reliance on any court decision that
+339 has been vacated, reversed, or overruled on appeal or by a
+340 subsequent court, even if that court decision had not been
+341 vacated, reversed, or overruled when the cause of action
+342 accrued.
+343 (3) A defendant's reliance on a state or federal court
+344 decision that is not binding on the court in which the action
+345 has been brought.
+346 (4) A defendant's reliance on a federal agency
+347 regulation or action that has been repealed, superseded, or
+348 declared invalid or unconstitutional, even if the federal
+349 agency regulation or action had not been repealed, superseded,
+350 or declared invalid or unconstitutional when the cause of
+351 action accrued.
+352 (5) The laws of another state or jurisdiction,
+353 including an abortion shield law, unless the Constitution of
+354 Alabama of 2022 or federal law compels the court to enforce
+355 that law.
+356 (6) Non-mutual issue preclusion or non-mutual claim
+357 preclusion.
+358 (7) Sovereign immunity, governmental immunity, or
+359 official immunity, other than sovereign immunity, governmental
+360 immunity, or official immunity applicable to any of the
+361 following:
+362 a. A hospital owned, maintained, or operated by this
+363 state that facilitates the availability of or makes available
+364 abortion-inducing drugs solely for one or more of the purposes
+Page 13
+
+abortion-inducing drugs solely for one or more of the purposes
+HB118 INTRODUCED
+365 described by Section 26-23J-2.
+366 b. A political subdivision of this state that
+367 facilitates the availability of or makes available
+368 abortion-inducing drugs solely for one or more of the purposes
+369 described by Section 26-23J-2(a)(9).
+370 c. A physician or health care provider who prescribes,
+371 distributes, administers, or otherwise makes available
+372 abortion-inducing drugs solely for one or more of the purposes
+373 described by Section 26-23J-4(a)(9), if the physician or
+374 health care provider is: (i) employed by a hospital owned or
+375 operated by this state or a political subdivision of this
+376 state; and (ii) acting within the scope of the physician's or
+377 health care provider's employment.
+378 (8) A claim that the enforcement of this chapter or the
+379 imposition of civil liability against the defendant will
+380 violate the constitutional or federally protected rights of
+381 third parties, except as provided by subsection (b).
+382 (9) Consent to the abortion by the claimant or the
+383 unborn child's mother.
+384 §26-23J-6
+385 (a) Notwithstanding any other law, if a qui tam
+386 relator prevails in an action brought under Section 26-23J-4,
+387 the court shall award to the relator all of the following:
+388 (1) Injunctive relief sufficient to prevent the
+389 defendant from violating Section 26-23J-3.
+390 (2) An amount of not less than one hundred thousand
+391 dollars ($100,000) for each violation of Section 26-23J-3.
+392 (3) Costs and reasonable attorney fees.
+Page 14
+
+(3) Costs and reasonable attorney fees.
+HB118 INTRODUCED
+393 (b) A court may not award relief under subdivisions
+394 (a)(2) or (a)(3) in response to a violation of Section
+395 26-23J-3 if the defendant demonstrates both of the following:
+396 (1) A court previously ordered the defendant to pay an
+397 amount under subdivision (a)(2) in another action for that
+398 particular violation.
+399 (2) The court order described by subdivision (1) has
+400 not been vacated, reversed, or overturned.
+401 (c) A court may not award costs or attorney fees under
+402 the Alabama Rules of Civil Procedure or any other rule adopted
+403 by the Supreme Court of Alabama to a defendant against whom an
+404 action is brought under Section 26-23J-4. This subsection does
+405 not preclude a court from sanctioning a litigant or attorney
+406 for frivolous, malicious, or bad-faith conduct.
+407 §26-23J-7
+408 (a) The state, a political subdivision of the state, or
+409 an officer or employee thereof may not do any of the
+410 following:
+411 (1) Act in concert or participation with a qui tam
+412 relator bringing an action under Section 26-23J-4.
+413 (2) Establish or attempt to establish any type of
+414 agency or fiduciary relationship with a qui tam relator
+415 bringing an action under Section 26-23J-4.
+416 (3) Attempt to control or influence an individual's
+417 decision to bring an action under Section 26-23J-4 or that
+418 individual's conduct of the litigation.
+419 (4) Intervene in an action brought under Section
+420 26-23J-4.
+Page 15
+
+26-23J-4.
+HB118 INTRODUCED
+421 (b) This section does not prohibit the state, a
+422 political subdivision of the state, or an officer or employee
+423 thereof from filing an amicus curiae brief in an action
+424 brought under Section 26-23J-4 if the state, the political
+425 subdivision, the officer, or the employee does not act in
+426 concert or participation with the qui tam relator.
+427 §26-23J-8
+428 Notwithstanding any other law to the contrary:
+429 (1) The courts of this state have personal jurisdiction
+430 over a defendant sued under Section 26-23J-4 to the maximum
+431 extent permitted by the Fourteenth Amendment to the United
+432 States Constitution, and the defendant may be served outside
+433 this state;
+434 (2) The law of this state applies to an action brought
+435 under Section 26-23J-4 to the maximum extent permitted by the
+436 Constitution of Alabama of 2022, and federal law, including
+437 the United States Constitution;
+438 (3) Any contractual provision that requires or purports
+439 to require application of the laws of a different
+440 jurisdiction, or that requires or purports to require a qui
+441 tam action under Section 26-23J-4 to be litigated in a
+442 particular forum, is void based on this state's public policy
+443 and is not enforceable in any court; and
+444 (4) A court may not apply the law of another state or
+445 jurisdiction to any qui tam action brought under Section
+446 26-23J-4 unless the Constitution of Alabama of 2022 or federal
+447 law compels the court to apply that law.
+448 §26-23J-9
+Page 16
+
+§26-23J-9
+HB118 INTRODUCED
+449 (a) For purposes of this section, the term "clawback
+450 provision" refers to any law of another state or jurisdiction
+451 which authorizes the bringing of a civil action against a
+452 person for any of the following:
+453 (1) Bringing or engaging in an action authorized by
+454 this chapter, or attempting, intending, or threatening to do
+455 so.
+456 (2) Bringing or engaging in an action that alleges a
+457 violation of any state or federal law related to abortion, or
+458 attempting, intending, or threatening to do so.
+459 (3) Providing legal representation or any type of
+460 assistance to a person who brings or engages in an action
+461 described by this subsection.
+462 (b) Notwithstanding any law to the contrary and except
+463 as otherwise provided by federal law or the Constitution of
+464 Alabama of 2022, the laws of this state apply to all of the
+465 following:
+466 (1) Conduct described by subsection (a).
+467 (2) An action brought against a person for engaging in
+468 conduct described by subsection (a).
+469 (3) An action brought under a clawback provision
+470 against a resident of this state.
+471 (4) Testifying as a witness in an action described by
+472 this subsection.
+473 (5) An action brought under subsection (d).
+474 (c) Notwithstanding any law to the contrary:
+475 (1) In an action described by subdivision (a)(1) or
+476 (a)(2), the court shall, on request, issue a temporary,
+Page 17
+
+(a)(2), the court shall, on request, issue a temporary,
+HB118 INTRODUCED
+477 preliminary, or permanent injunction that restrains each
+478 defendant in the action, each person in privity with the
+479 defendant, and each person with whom the defendant is in
+480 active concert or participation from: (i) bringing an action
+481 under any clawback provision against a claimant or prosecutor,
+482 a person in privity with the claimant or prosecutor, or a
+483 person providing legal representation or any type of
+484 assistance to the claimant or prosecutor; or (ii) continuing
+485 to litigate an action under any clawback provision which has
+486 been brought against a claimant or prosecutor, a person in
+487 privity with the claimant or prosecutor, or a person providing
+488 legal representation or any type of assistance to the claimant
+489 or prosecutor;
+490 (2) The doctrines of res judicata and collateral
+491 estoppel preclude a defendant against whom a judgment is
+492 entered in an action described by subdivision (a)(1) or (a)(2)
+493 and each person in privity with the defendant from litigating
+494 or relitigating any claim or issue under any clawback
+495 provision against a claimant, prosecutor, or person in privity
+496 with the claimant or prosecutor that was raised or could have
+497 been raised as a claim, cross-claim, counterclaim, or
+498 affirmative defense under the federal or this state's rules of
+499 civil procedure; and
+500 (3) A court of this state may not enforce an
+501 out-of-state judgment obtained in an action brought under a
+502 clawback provision unless federal law or the Constitution of
+503 Alabama of 2022 requires the court to enforce the judgment.
+504 (d)(1) Notwithstanding any other law to the contrary,
+Page 18
+
+(d)(1) Notwithstanding any other law to the contrary,
+HB118 INTRODUCED
+505 if an action is brought or judgment is entered against a
+506 person under a clawback provision based wholly or partly on
+507 the person's decision to engage in conduct described by
+508 subsection (a), that person is entitled to injunctive relief
+509 and damages from any person who brought the action or obtained
+510 the judgment or who sought to enforce the judgment.
+511 Notwithstanding any other law, the relief described by this
+512 subsection must include the following:
+513 a. Compensatory damages, including money damages in an
+514 amount equal to the judgment damages and costs, expenses, and
+515 reasonable attorney fees spent in defending the action.
+516 b. Costs, expenses, and reasonable attorney fees
+517 incurred in bringing an action under this subsection.
+518 c. Additional amounts consisting of the greater of
+519 twice the sum of the damages, costs, expenses, and fees
+520 described by paragraphs a. and b., or one hundred thousand
+521 dollars ($100,000).
+522 d. Injunctive relief that restrains each person who
+523 brought the action under the clawback provision, each person
+524 in privity with the person, and each person acting in concert
+525 or participation with the person from all of the following:
+526 1. Bringing further actions under any clawback
+527 provision against the person against whom the action was
+528 brought, each person in privity with the person, or any person
+529 providing legal representation or any type of assistance to
+530 the person.
+531 2. Continuing to litigate any actions brought under a
+532 clawback provision against the persons described by
+Page 19
+
+clawback provision against the persons described by
+HB118 INTRODUCED
+533 subparagraph 1.
+534 3. Enforcing or attempting to enforce any judgment
+535 obtained in any actions brought under a clawback provision
+536 against the persons described by subparagraph 1.
+537 (2) Neither of the following is a defense to an action
+538 brought under this subsection:
+539 a. The claimant failed to seek recovery under this
+540 subsection in an action brought against the claimant under a
+541 clawback provision.
+542 b. A court in a preceding action brought against the
+543 claimant declined to recognize or enforce this subsection or
+544 held any provision of that subsection invalid,
+545 unconstitutional, or preempted by federal law, notwithstanding
+546 the doctrines of issue or claim preclusion.
+547 Section 2. This act shall become effective on October
+548 1, 2026.
+Page 20

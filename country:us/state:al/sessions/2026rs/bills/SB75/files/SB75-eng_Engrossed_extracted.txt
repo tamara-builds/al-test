@@ -1,0 +1,669 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB75 ENGROSSED
+1 SB75
+2 YMXV422-2
+3 By Senator Chesteen
+4 RFD: Education Policy
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+SB75 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to public works contracts; to amend Section
+10 39-2-2, Code of Alabama 1975, as last amended by Act 2025-383,
+11 2025 Regular Session, to provide an exception to the public
+12 works law for the purchase of certain materials and equipment
+13 made pursuant to a cooperative purchasing agreement; and to
+14 amend Sections 41-16-51, 16-13B-2, and 41-4-171, Code of
+15 Alabama 1975, to provide requirements for certain public
+16 contracts to be awarded in a manner that complies with the
+17 applicable state or local competitive bid laws.
+18 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+19 Section 1. Sections 39-2-2, Code of Alabama 1975, as
+20 last amended by Act 2025-383, 2025 Regular Session, is amended
+21 to read as follows:
+22 "§39-2-2
+23 (a)(1) Before entering into any contract for a public
+24 works involving an amount in excess of one hundred thousand
+25 dollars ($100,000), the awarding authority shall advertise for
+26 sealed bids, except as provided in subsection (k).
+27 (2)a. If the awarding authority is the state, a county,
+28 or an instrumentality thereof, it shall advertise for sealed
+Page 1
+
+or an instrumentality thereof, it shall advertise for sealed
+SB75 Engrossed
+29 bids at least once each week for three consecutive weeks in a
+30 newspaper of general circulation in the county or counties in
+31 which the improvement, or some part thereof, is to be made.
+32 b.1. If the awarding authority is a municipality, or an
+33 instrumentality thereof, it shall advertise for sealed bids at
+34 least once in a newspaper of general circulation published in
+35 the municipality where the awarding authority is located.
+36 2. If no newspaper is published in the municipality,
+37 the awarding authority shall advertise by posting notice
+38 thereof on a bulletin board maintained outside the purchasing
+39 office and in any other manner and for the length of time as
+40 may be determined. In addition to bulletin board notice, the
+41 awarding authority shall also send the notice by U.S. mail or
+42 electronic mail to the Department of Finance for publication
+43 of the advertisement on the centralized website maintained by
+44 the department as further described in subsection (c).
+45 (3) The advertisements shall briefly describe the
+46 improvement, state that plans and specifications for the
+47 improvement are on file for examination in a designated office
+48 of the awarding authority, state the procedure for obtaining
+49 plans and specifications, state the time and place in which
+50 bids shall be received and opened, and identify whether
+51 prequalification is required and where all written
+52 prequalification information is available for review.
+53 (4) All bids shall be opened publicly at the advertised
+54 time and place.
+55 (5) No public work involving a sum in excess of one
+56 hundred thousand dollars ($100,000) shall be split into parts
+Page 2
+
+hundred thousand dollars ($100,000) shall be split into parts
+SB75 Engrossed
+57 involving sums of one hundred thousand dollars ($100,000) or
+58 less for the purpose of evading the requirements of this
+59 section.
+60 (b)(1) An awarding authority may let contracts for
+61 public works involving one hundred thousand dollars ($100,000)
+62 or less with or without advertising or sealed bids.
+63 (2) Notwithstanding the advertising requirements of
+64 subdivision (a)(2), an awarding authority may enter into a
+65 contract for public works if: (i) the awarding authority
+66 submitted the advertisement for sealed bids for the contract
+67 in accordance with subdivision (a)(2); and (ii) the
+68 advertisement was published for at least three weeks, or if
+69 the awarding authority is a municipality or instrumentality
+70 thereof for at least seven consecutive calendar days, on a
+71 centralized website maintained by the Department of Finance as
+72 further described in subsection (c).
+73 (3) If the awarding authority under subdivision (2) is
+74 the Department of Transportation, the Department of Finance
+75 may alternatively satisfy the requirements of subdivision
+76 (2)(ii) by publishing the advertisement on its publicly
+77 accessible website for at least three weeks.
+78 (4) If the awarding authority under subdivision (2) is
+79 a county or instrumentality thereof, the county or
+80 instrumentality may alternatively satisfy the requirements of
+81 subdivision (2)(ii) by publishing the advertisement in
+82 accordance with the procedures submitted by the Association of
+83 County Engineers of Alabama and approved by the Department of
+84 Examiners of Public Accounts as authorized by general law.
+Page 3
+
+Examiners of Public Accounts as authorized by general law.
+SB75 Engrossed
+85 (c) The Department of Finance shall establish and
+86 maintain a centralized website or digital platform to provide
+87 publicly accessible notice of advertisements for sealed bids
+88 pursuant to this section. The department may further provide
+89 for the administration and operations related thereto by the
+90 adoption of administrative rules, including, but not limited
+91 to, the assessment of fees to awarding authorities for the
+92 posting of advertisements to cover the implementation and
+93 maintenance cost of the website or digital platform.
+94 (d) All contracts for public works entered into in
+95 violation of this title shall be void and violative of public
+96 policy. Anyone who willfully violates this chapter concerning
+97 public works shall be guilty of a Class C felony.
+98 (e)(1) Excluded from the operation of this title shall
+99 be contracts with persons who shall perform only
+100 architectural, engineering, construction management, program
+101 management, or project management services in support of the
+102 public works and who shall not engage in actual construction,
+103 repair, renovation, or maintenance of the public works with
+104 their own forces, by contract, subcontract, purchase order,
+105 lease, or otherwise.
+106 (2)a. Excluded from operation of the bidding
+107 requirements in this title are contracts for the purchase of
+108 any heating or air conditioning units or systems by any
+109 awarding authority subject to Chapter 13B of Title 16, Article
+110 3, commencing with Section 41-16-50 of Chapter 16 of Title 41,
+111 or Article 5, commencing with Section 41-4-110 of Chapter 4 of
+112 Title 41, provided the contract is entered into with an
+Page 4
+
+Title 41, provided the contract is entered into with an
+SB75 Engrossed
+113 Alabama vendor who has been granted approved vendor status for
+114 the sale of heating or air conditioning units or systems as a
+115 part of a purchasing cooperative, and each of the following
+116 occur:
+117 1. The heating or air conditioning unit or system being
+118 purchased is available as a result of a competitive bid
+119 process conducted by a governmental entity which has been that
+120 complies with the Alabama competitive bid law applicable to
+121 the awarding authority and is approved by the Department of
+122 Examiners of Public Accounts.
+123 2. The purchase of the heating or air conditioning unit
+124 or system is not available on the state purchasing program at
+125 the time or the purchase under the purchasing cooperative is
+126 available at a price that is equal to or less than that
+127 available through the state purchasing program.
+128 3. The entity entering into the contract for the
+129 purchase of the heating or air conditioning unit or system has
+130 been notified by the Department of Examiners of Public
+131 Accounts that the competitive bid process utilized by the
+132 cooperative program offering the goods complies with this
+133 subdivision.
+134 4. Upon request, the vendor has provided the purchasing
+135 entity with a report of sales made under this subdivision
+136 during the previous 12-month period, to include a general
+137 description of the heating or air conditioning units and
+138 systems sold, the number of units sold per entity, and the
+139 purchase price of the units.
+140 b. The exemption from the requirement to use sealed
+Page 5
+
+b. The exemption from the requirement to use sealed
+SB75 Engrossed
+141 bids for the purchase of heating or air conditioning units or
+142 systems authorized by this section shall not serve to exempt
+143 any public works project from the remaining provisions of this
+144 chapter, including, but not limited to, design, installation,
+145 and review requirements, compliance with all applicable codes,
+146 laws, specifications, and standards, and the compensation of
+147 engineers, architects, or others as mandated by state law or
+148 rule.
+149 (f)(1) In case of an emergency for which a delay in
+150 remedying would cause immediate harm to a person or public
+151 property, contracts may be let to the extent necessary to meet
+152 the emergency without public advertisement or bidding.
+153 (2) In case of an emergency affecting public health,
+154 safety, or convenience, as declared in writing by the awarding
+155 authority, setting forth the nature of the danger to the
+156 public health, safety, or convenience which would result from
+157 delay, contracts may be let to the extent necessary to meet
+158 the emergency without public advertisement.
+159 (3) Any action taken under subdivision (1) or (2), and
+160 the reasons for the action taken, shall immediately be made
+161 public by the awarding authority and published in writing.
+162 (g) No awarding authority may specify in the plans and
+163 specifications for the improvement the use of materials,
+164 products, systems, or services by a sole source unless all of
+165 the following requirements are met:
+166 (1) Except for contracts involving the construction,
+167 reconstruction, renovation, or replacement of public roads,
+168 bridges, and water and sewer facilities, the awarding
+Page 6
+
+bridges, and water and sewer facilities, the awarding
+SB75 Engrossed
+169 authority can document to the satisfaction of the Division of
+170 Real Property Management of the Department of Finance, or in
+171 the case of an educational institution or state educational
+172 institution as provided pursuant to Sections 41-4-353 and
+173 41-4-400, to the satisfaction of its governing board, that the
+174 sole source product, material, system, or service is of an
+175 indispensable nature for the improvement, that there are no
+176 other viable alternatives, and that only this particular
+177 product, material, system, or service fulfills the function
+178 for which it is needed.
+179 (2) The sole source specification has been recommended
+180 by the architect or engineer of record as an indispensable
+181 item for which there is no other viable alternative.
+182 (3) All information substantiating the use of a sole
+183 source specification, including the recommendation of the
+184 architect or engineer of record, shall be documented and made
+185 available for examination in the office of the awarding
+186 authority at the time of advertisement for sealed bids.
+187 (h) If a proposed public works project is acknowledged
+188 in writing by the Alabama Homeland Security Department as: (i)
+189 having a direct impact on the security or safety of persons or
+190 facilities; and (ii) requiring confidential handling for the
+191 protection of such persons or facilities, contracts may be let
+192 without public advertisement but with the taking of informal
+193 bids otherwise consistent with the requirements of this title
+194 and the requirements of maintaining confidentiality. Records
+195 of bidding and award shall not be disclosed to the public and
+196 shall remain confidential.
+Page 7
+
+shall remain confidential.
+SB75 Engrossed
+197 (i) If a pre-bid meeting is held, the pre-bid meeting
+198 shall be held at least seven days prior to the bid opening
+199 except when the project has been declared an emergency in
+200 accordance with subsection (f).
+201 (j) The awarding authority may not offer a contract for
+202 bidding unless confirmation of any applicable grant has been
+203 received and any required matching funds have been secured by
+204 or are available to the awarding authority.
+205 (k) Notwithstanding subsection (a), the Department of
+206 Transportation may enter into contracts for road construction
+207 or road maintenance projects that do not involve more than two
+208 hundred fifty thousand dollars ($250,000) without advertising
+209 for sealed bids, provided the project is listed on the
+210 publicly accessible website of the department for at least
+211 seven calendar days before entering into the contract. The
+212 total cost of all projects not subject to advertising and
+213 sealed bids pursuant to this subsection may not exceed one
+214 million dollars ($1,000,000) in the aggregate per year.
+215 (l) For the purposes of this chapter, sealed bids may
+216 also be solicited and submitted through electronic means
+217 including, but not limited to, electrical, digital, magnetic,
+218 optical, electromagnetic, or any other similar technology,
+219 provided that the awarding authority adopts rules and policies
+220 to ensure that all electronic submissions are transmitted
+221 securely and bids remainedremain sealed until bid opening.
+222 (m)(1) Notwithstanding any other provision of law, any
+223 entity subject to this chapter thatwhich is an awarding
+224 authority of a contract for public works, by resolution or
+Page 8
+
+authority of a contract for public works, by resolution or
+SB75 Engrossed
+225 board action, may purchase materials or equipment pursuant to
+226 a cooperative purchasing agreement under Division 7 of Article
+227 5 of Chapter 4 of Title 41, or pursuant to the requirements of
+228 Section 41-16-51(a)(14), (16), (17), (18), or (19), as
+229 applicable, even when those materials or equipment are
+230 otherwise part of the contract for public works subject to the
+231 requirements of this title. The materials or equipment being
+232 purchased pursuant to this section shall have been awarded
+233 through a competitive bid process that complies with the
+234 Alabama competitive bid law applicable to that awarding
+235 authority.
+236 (2) Except for those materials or equipment described
+237 in subdivision (1), the remaining portion of the public works
+238 project shall be subject to the requirements of this title,
+239 even if the remaining portion would involve an amount less
+240 than one hundred thousand dollars ($100,000) as a result of
+241 the exclusion of the purchase of the materials or equipment as
+242 described in subdivision (1)."
+243 Section 2. Section 41-16-51, Code of Alabama 1975, is
+244 amended to read as follows:
+245 "§41-16-51
+246 (a) Competitive bids for entities subject to this
+247 article shall not be required for utility services, the rates
+248 for which are fixed by law, regulation, or ordinance, and the
+249 competitive bidding requirements of this article shall not
+250 apply to any of the following:
+251 (1) The purchase of insurance.
+252 (2) The purchase of ballots and supplies for conducting
+Page 9
+
+(2) The purchase of ballots and supplies for conducting
+SB75 Engrossed
+253 any primary, general, special, or municipal election.
+254 (3) Contracts for securing services of attorneys,
+255 physicians, architects, teachers, superintendents of
+256 construction, artists, appraisers, engineers, consultants,
+257 certified public accountants, public accountants, or other
+258 individuals possessing a high degree of professional skill
+259 where the personality of the individual plays a decisive part.
+260 (4) Contracts of employment in the regular civil
+261 service.
+262 (5) Contracts for fiscal or financial advice or
+263 services.
+264 (6) Purchases of products made or manufactured by blind
+265 or visually impaired individuals under the direction or
+266 supervision of the Alabama Institute for Deaf and Blind in
+267 accordance with Chapter 2 of Title 21.
+268 (7) Purchases of maps or photographs from any federal
+269 agency.
+270 (8) Purchases of computer programs, software
+271 applications, manuscripts, books, maps, pamphlets,
+272 periodicals, and library or research electronic databases of
+273 manuscripts, books, maps, pamphlets, or periodicals.
+274 (9) The selection of paying agents and trustees for any
+275 security issued by a public body.
+276 (10) Existing contracts up for renewal for sanitation
+277 or solid waste collection, recycling, and disposal between
+278 municipalities or counties, or both, and those providing the
+279 service.
+280 (11) Purchases of computer and word processing hardware
+Page 10
+
+(11) Purchases of computer and word processing hardware
+SB75 Engrossed
+281 when the hardware is the only type that is compatible with
+282 hardware already owned by the entity taking bids and custom
+283 software.
+284 (12) Professional services contracts for codification
+285 and publication of the laws and ordinances of municipalities
+286 and counties.
+287 (13) Contractual services and purchases of commodities
+288 for which there is only one vendor or supplier and contractual
+289 services and purchases of personal property which by their
+290 very nature are impossible to award by competitive bidding.
+291 (14) Purchases of dirt, sand, or gravel by a county
+292 governing body from in-county property owners in order to
+293 supply a county project in which the materials will be used.
+294 The material shall be delivered to the project site by county
+295 employees and equipment used only on project components
+296 conducted exclusively by county employees.
+297 (15) Contractual services and purchases of products
+298 related to, or having an impact upon, security plans,
+299 procedures, assessments, measures, or systems, or the security
+300 or safety of individuals, structures, facilities, or
+301 infrastructures.
+302 (16) Subject to the limitations in this subdivision,
+303 purchases, leases, or lease/purchases of goods or services,
+304 other than voice or data wireless communication services, made
+305 as a part of the purchasing cooperative sponsored by the
+306 National Association of Counties, its successor organization,
+307 or any other national or regional governmental cooperative
+308 purchasing program. The purchases, leases, or lease/purchases
+Page 11
+
+purchasing program. The purchases, leases, or lease/purchases
+SB75 Engrossed
+309 may only be made if all of the following occur:
+310 a. The goods or services being purchased, including
+311 those purchased through a lease/purchase agreement, or leased
+312 are available as a result of a competitive bid process
+313 conducted by a governmental entity whose award complies with
+314 Section 41-16-50(a) and is approved by the Department of
+315 Examiners of Public Accounts for each bid.
+316 b. The goods or services are either not at the time
+317 available to counties on the state purchasing program or are
+318 available at a price equal to or less than that on the state
+319 purchasing program.
+320 c. The purchase, lease, or lease/purchase is made
+321 through a participating Alabama vendor holding an Alabama
+322 business license if such a vendor exists.
+323 d. The entity purchasing, leasing, or lease/purchasing
+324 goods or services under this subdivision has been notified by
+325 the Department of Examiners of Public Accounts that the
+326 competitive bid process utilized by the cooperative program
+327 offering the goods complies with this subdivision. In
+328 addition, upon request, a vendor shall provide the entity
+329 purchasing, leasing, or lease/purchasing goods or services
+330 equaling thirty thousand dollars ($30,000) or more which are
+331 made under this subdivision during the previous 12 months a
+332 report of the sales, leases, and lease/purchases. The report
+333 shall include a general description of the goods or services;
+334 the number of units sold, leased, and leased/purchased per
+335 entity; and the price of units purchased, leased, or
+336 leased/purchased.
+Page 12
+
+leased/purchased.
+SB75 Engrossed
+337 (17) Purchases of goods or services, other than
+338 wireless communication services, whether voice or data, from
+339 vendors that have been awarded a current and valid Government
+340 Services Administration contract. Any purchase made pursuant
+341 to this subdivision shall be under the same terms and
+342 conditions as provided in the Government Services
+343 Administration contract. Prices paid for the goods and
+344 services, other than wireless communication services, whether
+345 voice or data, may not exceed the amount provided in the
+346 Government Services Administration contract.
+347 (18) Purchases of goods or services from vendors that
+348 have been awarded a current and valid statewide contract
+349 listed on the Alabama Buys e-procurement system. Any purchase
+350 made pursuant to this subdivision shall be under the same
+351 terms and conditions as provided in the statewide contract.
+352 Prices paid for the goods and services may not exceed the
+353 amount provided in the statewide contract.
+354 (19) Purchases of goods or services between
+355 governmental entities of the state, as authorized by Section
+356 11-1-10.
+357 (20) Purchases of goods or services between a
+358 municipality and a governmental entity, as defined in Section
+359 8-38-2.
+360 (b) This article shall not apply to:
+361 (1) Any purchases of products where the price of the
+362 products is already regulated and established by state law.
+363 (2) Purchases made by individual schools of the county
+364 or municipal public school systems from monies other than
+Page 13
+
+or municipal public school systems from monies other than
+SB75 Engrossed
+365 those raised by taxation or received through appropriations
+366 from state or county sources.
+367 (3) The purchase, lease, sale, construction,
+368 installation, acquisition, improvement, enlargement, or
+369 expansion of any building or structure or other facility
+370 designed or intended for lease or sale by a medical clinic
+371 board organized under Chapter 58 of Title 11.
+372 (4) The purchase, lease, or other acquisition of
+373 machinery, equipment, supplies, and other personal property or
+374 services by a medical clinic board organized under Chapter 58
+375 of Title 11.
+376 (5) Purchases for public hospitals and nursing homes
+377 operated by the governing boards of instrumentalities of the
+378 state, counties, and municipalities.
+379 (6) Contracts for the purchase, lease, sale,
+380 construction, installation, acquisition, improvement,
+381 enlargement, or extension of any plant, building, structure,
+382 or other facility or any machinery, equipment, furniture, or
+383 furnishings therefor designed or intended for lease or sale
+384 for industrial development, other than public utilities, under
+385 Division 1 of Article 4 of Chapter 54 of Title 11, or Article
+386 2 of Chapter 54 of Title 11, or any other law or amendment to
+387 the Constitution of Alabama of 2022, authorizing the
+388 construction of plants or other facilities for industrial
+389 development or for the construction and equipment of buildings
+390 for public building authorities under Chapter 15 of Title 11
+391 or Chapter 56 of Title 11.
+392 (7) The purchase of equipment, supplies, or materials
+Page 14
+
+(7) The purchase of equipment, supplies, or materials
+SB75 Engrossed
+393 needed, used, and consumed in the normal and routine operation
+394 of any waterworks system, sanitary sewer system, gas system,
+395 or electric system, or any two or more thereof, that are owned
+396 by municipalities, counties, or public corporations, boards,
+397 or authorities that are agencies, departments, or
+398 instrumentalities of municipalities or counties and no part of
+399 the operating expenses of which system or systems, during the
+400 then current fiscal year, have been paid from revenues derived
+401 from taxes or from appropriations of the state, a county, or a
+402 municipality.
+403 (8) Purchases made by local housing authorities,
+404 organized and existing under Chapter 1 of Title 24, from
+405 monies other than those raised by state, county, or city
+406 taxation or received through appropriations from state,
+407 county, or city sources.
+408 (9) The purchase of services to aid in the prevention
+409 and detection of criminal activity by law enforcement agencies
+410 and community-oriented policing programs.
+411 (c) The state trade schools, state junior colleges,
+412 state colleges, and universities under the supervision and
+413 control of the State Board of Education, the district boards
+414 of education of independent school districts two-year and
+415 four-year institutions of higher education, the county
+416 commissions, and the governing bodies of the municipalities of
+417 the state shall establish and maintain purchasing facilities
+418 and procedures as may be necessary to carry out the intent and
+419 purpose of this article by complying with the requirements for
+420 competitive bidding in the operation and management of each
+Page 15
+
+competitive bidding in the operation and management of each
+SB75 Engrossed
+421 state trade school, state junior college, state college, or
+422 university under the supervision and control of the State
+423 Board of Education, the district boards of education of
+424 independent school districts two-year and four-year
+425 institution of higher education, the county commissions, and
+426 the governing bodies of the municipalities of the state and
+427 the governing boards of instrumentalities of counties and
+428 municipalities, including waterworks boards, sewer boards, gas
+429 boards, and other like utility boards and commissions.
+430 (d) Contracts entered into in violation of this article
+431 shall be void and any individual who violates this article
+432 shall be guilty of a Class C felony."
+433 Section 3. Section 16-13B-2, Code of Alabama 1975, is
+434 amended to read as follows:
+435 "§16-13B-2
+436 (a) Competitive bids shall not be required for utility
+437 services for county or city boards of education, the rates for
+438 which are fixed by law, regulation, or ordinance, and the
+439 competitive bidding requirements of this chapter shall not
+440 apply to:
+441 (1) The purchase of insurance.
+442 (2) Contracts for securing services of attorneys,
+443 physicians, architects, teachers, superintendents of
+444 construction, artists, appraisers, engineers, consultants,
+445 certified public accountants, public accountants, or other
+446 individuals possessing a high degree of professional skill
+447 where the personality of the individual plays a decisive part.
+448 (3) Contracts of employment in the regular civil
+Page 16
+
+(3) Contracts of employment in the regular civil
+SB75 Engrossed
+449 service.
+450 (4) Contracts for fiscal or financial advice or
+451 services.
+452 (5) Purchases of products made or manufactured by blind
+453 or visually impaired individuals under the direction or
+454 supervision of the Alabama Institute for Deaf and Blind in
+455 accordance with Sections 21-2-1 to 21-2-4, inclusive.
+456 (6) Purchases of maps or photographs from any federal
+457 agency.
+458 (7) Purchases of manuscripts, books, instructional
+459 materials, maps, pamphlets, or periodicals, or the electronic
+460 version thereof. The exemption for the purchase of
+461 instructional materials shall only include those purchases
+462 from a current vetted and approved list published by the State
+463 Department of Education.
+464 (8) The selection of paying agents and trustees for any
+465 security issued by a public body.
+466 (9) Existing contracts up for renewal for sanitation or
+467 solid waste collection, recycling, or disposal and those
+468 providing the service.
+469 (10) Purchases of computer and word processing hardware
+470 when the hardware is the only type that is compatible with
+471 hardware already owned by the entity taking bids and custom
+472 software.
+473 (11) Contractual services and purchases of commodities
+474 for which there is only one vendor or supplier and contractual
+475 services and purchases of personal property which by their
+476 very nature are impossible to award by competitive bidding.
+Page 17
+
+very nature are impossible to award by competitive bidding.
+SB75 Engrossed
+477 (12) Contractual services and purchases of products
+478 related to, or having an impact upon, security plans,
+479 procedures, assessments, measures, or systems, or the security
+480 or safety of persons, structures, facilities, or
+481 infrastructures.
+482 (13) Purchases, leases, or lease/purchases of goods or
+483 services, other than voice or data wireless communication
+484 services, made as a part of any purchasing cooperative
+485 sponsored by the National Association of Counties, its
+486 successor organization, or any other national or regional
+487 governmental cooperative purchasing program. The purchases,
+488 leases, or lease/purchases may only be made if all of the
+489 following occur:
+490 a. The goods or services being purchased, including
+491 those purchased through a lease/purchase agreement, or leased
+492 are available as a result of a competitive bid process
+493 conducted by a governmental entity whose award complies with
+494 Section 16-13B-1(a) and is approved by the Department of
+495 Examiners of Public Accounts for each bid.
+496 b. The goods or services are either not at the time
+497 available to local boards of education on the state purchasing
+498 program or are available at a price equal to or less than that
+499 on the state purchasing program.
+500 c. The purchase, lease, or lease/purchase is made
+501 through a participating Alabama vendor holding an Alabama
+502 business license if such a vendor exists.
+503 (14) Purchases of unprocessed agricultural products as
+504 defined in subsection (b) of Section 16-1-46 and the cost of
+Page 18
+
+defined in subsection (b) of Section 16-1-46 and the cost of
+SB75 Engrossed
+505 the food purchased is equal to or less than the federal
+506 simplified acquisition threshold set in 2 C.F.R. § 200.88.
+507 (15) Purchase of goods or services, other than voice or
+508 data wireless communication services, from vendors that have
+509 been awarded a current and valid general services
+510 administration contract. Prices paid for the goods or services
+511 may not exceed the lowest competitively bid price for these
+512 goods or services, other than voice or data wireless
+513 communication services, and may not exceed the price on an
+514 existing state purchasing program.
+515 (b) This chapter shall not apply to:
+516 (1) Any purchases of products where the price of the
+517 products is already regulated and established by state law.
+518 (2) Purchases made by individual schools of the county
+519 or municipal public school systems from monies other than
+520 those raised by taxation or received through appropriations
+521 from state or county sources.
+522 (c) The city and county boards of education shall
+523 establish and maintain the purchasing facilities and
+524 procedures as may be necessary to carry out the intent and
+525 purpose of this chapter by complying with the requirements for
+526 competitive bidding in the operation and management of each
+527 city and county board of education.
+528 (d) Contracts entered into in violation of this chapter
+529 shall be void, and any person who violates this chapter shall
+530 be guilty of a Class C felony."
+531 Section 4. Section 41-4-171, Code of Alabama 1975, is
+532 amended to read as follows:
+Page 19
+
+amended to read as follows:
+SB75 Engrossed
+533 "§41-4-171
+534 (a) A public procurement unit that is governed by this
+535 article may either participate in, sponsor, conduct, or
+536 administer a cooperative purchasing agreement for the
+537 procurement of any supplies or services with one or more
+538 public procurement units in accordance with an agreement
+539 entered into between the participants. The cooperative
+540 purchasing agreement may include joint or multi-party
+541 contracts between public procurement units and open-ended
+542 public procurement unit contracts that are made available to
+543 other public procurement units.
+544 (b) All cooperative purchasing conducted under this
+545 division shall be through contracts awarded using source
+546 selection methods substantially equivalent to those specified
+547 in Division 3."
+548 Section 5. This act shall become effective on October
+549 1, 2026.
+Page 20
+
+1, 2026.
+SB75 Engrossed
+550
+551
+552 Senate
+553 Read for the first time and referred ................13-Jan-26
+554 to the Senate committee on Education
+555 Policy
+556
+557 Read for the second time and placed ................05-Feb-26
+558 on the calendar:
+559 1 amendment
+560
+561 Read for the third time and passed ................17-Mar-26
+562 as amended
+563 Yeas 31
+564 Nays 0
+565 Abstains 0
+566
+567
+568 Patrick Harris,
+569 Secretary.
+570
+Page 21

@@ -1,0 +1,1052 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB83 INTRODUCED
+1 SB83
+2 G3HLP62-1
+3 By Senator Orr
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+G3HLP62-1 01/12/2026 GP (L)lg 2026-164
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a proceeding involving a
+6 guardianship or conservatorship of a minor or
+7 incapacitated person may be removed from the probate
+8 court to the circuit court at any time.
+9 This bill would provide additional procedures
+10 and requirements for removals of guardianships,
+11 conservatorships, and protective proceedings, such as
+12 specifying which parties may petition for removal;
+13 setting requirements for what must be included in a
+14 notice of removal; requiring notice of to be issued to
+15 certain parties; and requiring a proceeding to be
+16 remanded in certain circumstances.
+17 Existing law sets notice requirements for
+18 petitions involving a guardianship, conservatorship, or
+19 protective proceeding.
+20 This bill would require notice of a hearing on
+21 any such petition to be served as provided in the
+22 Alabama Rules of Civil Procedure, provided that the
+23 notice must be provided at least 14 days before the
+24 hearing if sent by certified mail or commercial carrier
+25 and 10 days before the hearing if by process server.
+26 This bill would further provide for the duties
+27 of a guardian ad litem of a minor or other person who
+28 is the subject of a petition for a guardianship,
+Page 1
+
+is the subject of a petition for a guardianship,
+SB83 INTRODUCED
+29 conservatorship, or protective proceeding and would
+30 require each guardian ad litem to successfully complete
+31 a training program prepared or approved by the Alabama
+32 Probate Judges Association and the Alabama Law
+33 Institute prior to his or her appointment.
+34 This bill would require the court to appoint a
+35 court representative in any proceeding for a
+36 guardianship or protective order to investigate the
+37 allegations in the petition, interview the respondent,
+38 and provide a report to the court, unless the court
+39 determines a court representative is not likely to aid
+40 the court or would add unnecessary expense to the
+41 proceeding.
+42 This bill would allow the court to appoint a
+43 temporary guardian or emergency guardian in certain
+44 circumstances in which the appointment is likely to
+45 prevent substantial harm to an adult's physical health,
+46 safety, or welfare.
+47 This bill would allow the court to appoint a
+48 temporary conservator, emergency conservator, or grant
+49 other temporary or emergency relief in certain
+50 circumstances in which the appointment or grant is
+51 likely to prevent substantial harm to an adult's
+52 property or financial interests.
+53 This bill would provide for the scope and
+54 duration of authority of a temporary guardian,
+55 emergency guardian, temporary conservator, and
+56 emergency conservator; would require the court to
+Page 2
+
+emergency conservator; would require the court to
+SB83 INTRODUCED
+57 provide notice of the appointment to certain parties;
+58 would allow for the appointment of an emergency
+59 guardian or emergency conservator without notice in
+60 certain circumstances; and would set a time frame for a
+61 hearing on the appropriateness of an appointment.
+62 This bill would allow the court to tax an
+63 attorney or party who improperly or vexatiously
+64 petitions for the appointment of a temporary guardian,
+65 emergency guardian, temporary conservator, emergency
+66 conservator, or other temporary or emergency relief.
+67 This bill would remove a provision allowing the
+68 court to preserve and apply the property of a person
+69 who is the subject of an ongoing protective order
+70 petition while the petition is pending.
+71 This bill would also delete duplicative language
+72 and would also make nonsubstantive, technical revisions
+73 to update the existing code language to current style.
+74
+75
+76 A BILL
+77 TO BE ENTITLED
+78 AN ACT
+79
+80 Relating to guardianships and conservatorships; to
+81 amend Sections 26-2-2, 26-2-3, 26-2A-20 26-2A-50, 26-2A-52,
+82 26-2A-103, 26-2A-134, and 26-2A-136, Code of Alabama 1975, and
+83 to add Sections 26-2A-54, 26-2A-107.1, and 26-2A-136.1 to the
+84 Code of Alabama 1975; to further provide procedures and
+Page 3
+
+Code of Alabama 1975; to further provide procedures and
+SB83 INTRODUCED
+85 requirements relating to the removal of proceedings involving
+86 guardianships or conservatorships from probate court to the
+87 circuit court; to further provide for notice requirements for
+88 petitions involving a guardianship, conservatorship, or
+89 protective proceeding; to require guardians ad litem to
+90 undergo training before appointment in a case involving a
+91 guardianship, conservatorship, or protective proceeding; to
+92 specify the duties of such a guardian ad litem; to require the
+93 court to appoint a court representative in proceedings
+94 involving a guardianship or protective order, with exceptions;
+95 to provide for the duties and responsibilities of a court
+96 representative; to provide for the appointment of temporary or
+97 emergency guardians in certain circumstances to prevent harm
+98 to an adult's physical heath, safety, or welfare; to provide
+99 for the appointment of temporary or emergency conservators or
+100 other temporary or emergency relief in certain circumstances
+101 to prevent harm to an adult's property or financial interests;
+102 to allow the court to penalize attorneys or parties who
+103 improperly petition for temporary or emergency guardians or
+104 conservators; to revise the authority of a court to preserve
+105 and apply the property of a person who is the subject of an
+106 ongoing protective order proceeding; and to make
+107 nonsubstantive, technical revisions to update the existing
+108 code language to current style.
+109 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+110 Section 1. Sections 26-2-2, 26-2-3, 26-2A-20, 26-2A-50,
+111 26-2A-52, 26-2A-103, 26-2A-134, and 26-2A-136 are amended to
+112 read as follows:
+Page 4
+
+read as follows:
+SB83 INTRODUCED
+113 "§26-2-2
+114 (a) For all guardianships, conservatorships, and other
+115 protective proceedings commencing before January 1, 2027, the
+116 The administration or conduct of any guardianship or
+117 conservatorship of a minor or incapacitated person may be
+118 removed from the probate court to the circuit court, at any
+119 time before the final settlement thereof by the guardian or
+120 conservator of any such guardianship or conservatorship or
+121 guardian ad litem or next friend of such ward or anyone
+122 entitled to support out of the estate of such ward without
+123 assigning any special equity, and an order of removal must be
+124 made by the court or judge upon the filing of a sworn petition
+125 by any such guardian or conservator or guardian ad litem or
+126 next friend for the ward or such person entitled to support
+127 out of the estate of such ward, reciting in what capacity the
+128 petitioner acts and that in the opinion of the petitioner such
+129 guardianship or conservatorship can be better administered in
+130 the circuit court than in the probate court.
+131 (b) The following shall apply to all guardianships,
+132 conservatorships, and other protective proceedings commenced
+133 on or after January 1, 2027:
+134 (1)a. Except for a proceeding pending in a probate
+135 court in a county where the probate court or judge of probate
+136 exercises equity jurisdiction concurrent with that of the
+137 circuit court, a proceeding in a probate court under this
+138 chapter or Chapter 2A may be removed to the circuit court for
+139 the county where the proceeding in probate court is pending at
+140 any time before the probate court has taken steps toward a
+Page 5
+
+any time before the probate court has taken steps toward a
+SB83 INTRODUCED
+141 final settlement.
+142 b. Removal under this subdivision may be done by any of
+143 the following parties:
+144 1. The guardian, including any emergency or temporary
+145 guardian appointed by a court of competent jurisdiction and
+146 any guardian appointed in another jurisdiction for the person
+147 who is the subject of the proceeding.
+148 2. The conservator, including any emergency or
+149 temporary conservator appointed by a court of competent
+150 jurisdiction and any conservator appointed in another
+151 jurisdiction for the person who is the subject of the
+152 proceeding.
+153 3. The alleged incapacitated person, prior to a
+154 determination of incapacity.
+155 4. The guardian ad litem or attorney for the person who
+156 is the subject of the proceeding.
+157 5. An agent acting under a facially valid durable power
+158 of attorney executed prior to the commencement of any such
+159 proceeding by the person who is the subject of the proceeding.
+160 6. Any facility in which the person who is the subject
+161 of the proceeding resides or has been admitted as a patient.
+162 7. The next friend of the person who is the subject of
+163 the proceeding.
+164 8. The State Department of Human Resources.
+165 9. Any person entitled to support out of the estate of
+166 the person who is the subject of the proceeding.
+167 (2) To remove a proceeding from the probate court to
+168 the circuit court, the removing party shall file in the
+Page 6
+
+the circuit court, the removing party shall file in the
+SB83 INTRODUCED
+169 circuit court to which the proceeding is being removed a
+170 notice of removal that contains all of the following:
+171 a. A description of the nature of the proceeding being
+172 removed.
+173 b. Whether a jury trial is demanded under Section
+174 26-2A-35.
+175 c. The removing party's interest in the proceeding
+176 being removed.
+177 d. The name of all interested persons to the proceeding
+178 being removed to which the removing party is delivering the
+179 notice of removal.
+180 (3) Following the removal to the circuit court, the
+181 removing party shall file a copy of the notice of removal with
+182 the clerk of the probate court and shall send a copy of the
+183 notice of removal to all interested parties listed in the
+184 notice. Upon receiving a copy of the notice of removal, the
+185 probate court may not take further action unless and until the
+186 removed proceeding is remanded, except to deliver a copy of
+187 the record in the probate court to the clerk of the circuit
+188 court.
+189 (4) The circuit court shall have jurisdiction of a
+190 removed proceeding upon filing of the notice of removal with
+191 the circuit clerk. None of the following may deprive the
+192 circuit court of jurisdiction to hear and decide the removed
+193 proceeding:
+194 a. The omission of any information required to be
+195 included in the notice of removal.
+196 b. An incorrect statement of any information required
+Page 7
+
+b. An incorrect statement of any information required
+SB83 INTRODUCED
+197 to be included in the notice of removal.
+198 c. The failure of the probate court to deliver a copy
+199 of the record of proceedings in that court.
+200 (5) If a necessary party to the proceedings does not
+201 receive notice of the proceedings as required by law before
+202 the notice of removal is filed, the removing party shall cause
+203 notice of the proceeding to be issued to the necessary party
+204 as provided in the Alabama Rules of Civil Procedure or as
+205 otherwise provided by law.
+206 (6) The circuit court may remand a proceeding removed
+207 under this section to the probate court if the circuit court
+208 finds any of the following:
+209 a. The removal was sought for purpose of improper
+210 delay.
+211 b. The removal did not comply with applicable law.
+212 c. Judgment on all contested matters pending before the
+213 circuit court is final and: (i) the time for an appeal expired
+214 without the filing of an appeal; or (ii) if an appeal was
+215 filed, there is a final adjudication of the appeal.
+216 d. All interested parties or their representatives have
+217 requested the removed proceeding be remanded to probate court.
+218 (7)a. If the circuit court finds that an attorney or
+219 party removed a proceeding vexatiously or for improper
+220 purposes, the court may tax the attorney or party with the
+221 costs of the proceeding. In doing so, the circuit court may
+222 assess the full amount or any portion of the costs against any
+223 offending attorney or party, or both, and among them, as the
+224 court determines just.
+Page 8
+
+court determines just.
+SB83 INTRODUCED
+225 b. When granting an award of costs and attorney fees,
+226 the court shall:
+227 1. Specifically state the reasons for the award; and
+228 2. In determining whether to assess attorney fees and
+229 costs and the amount to be assessed, consider factors
+230 including, but not limited to, those provided in Section
+231 12-19-273.
+232 c.1. Reasonable compensation for and expenses incurred
+233 by an attorney, guardian ad litem, or party, including the
+234 cost of experts to testify in or advise about the proceeding,
+235 may be assessed under this subdivision.
+236 2. Costs taxed under this subdivision shall be limited
+237 to those incurred by the parties opposing an improperly
+238 removed proceeding or incurred as a result of the improperly
+239 removed proceeding.
+240 d. Upon entry of an order taxing costs under this
+241 subdivision, the clerk of the circuit court shall issue an
+242 itemized bill of all costs and expenses taxed against each
+243 person. The itemized bill shall have the full force and effect
+244 of a judgment. The provisions of this paragraph are
+245 cumulative.
+246 (8) Following remand by the circuit court, the clerk of
+247 the circuit court shall deliver a copy of the order of remand
+248 and the record of all proceedings in the circuit court to the
+249 clerk of the probate court, to be filed with the records of
+250 the proceeding in the probate court. The probate court shall
+251 proceed with the proceeding in accordance with the circuit
+252 court's order.
+Page 9
+
+court's order.
+SB83 INTRODUCED
+253 (9) In any proceeding removed from a probate court, the
+254 circuit court may issue all necessary orders and process to
+255 bring before it all proper parties, whether served by process
+256 issued by the probate court or otherwise.
+257 (10) Neither remand nor anything else shall prevent the
+258 subsequent removal of a proceeding to the circuit court under
+259 this section."
+260 "§26-2-3
+261 (a) In any county where the judge of probate is
+262 required to be learned in the law, the administration or
+263 conduct of any guardianship or conservatorship of a minor or
+264 incapacitated person may be removed from the probate court to
+265 the circuit court pursuant to Section 26-2-2 at any time
+266 before a proceeding for final settlement thereof is commenced
+267 in probate court by the guardian or conservator of the
+268 guardianship or conservatorship or guardian ad litem or next
+269 friend of a ward or anyone entitled to support out of the
+270 estate of the ward without assigning any special equity. The
+271 circuit court shall remand the administration of a
+272 guardianship or conservatorship transferred pursuant to this
+273 section to the probate court if the circuit court finds that
+274 the removal was sought for the purpose of improper delay or
+275 did not comply with applicable law. The circuit court may
+276 remand the administration of a guardianship or conservatorship
+277 pursuant to this section to the probate court if the circuit
+278 court finds that any of the following apply:
+279 (1) The circuit court has issued a final order or
+280 judgment on all contested matters pending before the circuit
+Page 10
+
+judgment on all contested matters pending before the circuit
+SB83 INTRODUCED
+281 court in the administration of the guardianship or
+282 conservatorship and the time for an appeal of the order or
+283 judgment has expired without an appeal being filed or, if an
+284 appeal was filed, after the final adjudication of the appeal.
+285 (2) All interested parties or their representatives
+286 request the administration of the guardianship or
+287 conservatorship be remanded to probate court.
+288 (b) Nothing in subsection (a) shall prevent the
+289 administration of a guardianship or conservatorship from being
+290 removed again to the circuit court pursuant to Section 26-2-2
+291 after the administration has been remanded to the probate
+292 court as provided above.
+293 (c) This section shall not apply to any guardianship,
+294 conservatorship, or other protective proceeding commenced on
+295 or after January 1, 2027."
+296 "§26-2A-20
+297 For the purposes of As used in this chapter, the
+298 following terms shall have the following meanings,
+299 respectively, unless the context clearly indicates otherwise:
+300 (1) CLAIMS. In respect of With respect to a protected
+301 person, includes the liabilities of the protected person,
+302 whether arising in contract, tort, or otherwise, and
+303 liabilities of the estate which arise at or after the
+304 appointment of a conservator, including expenses of
+305 administration.
+306 (2) CONSERVATOR. A person who is appointed by a court
+307 to manage the estate of a protected person and. The term
+308 includes a limited conservator described in Section
+Page 11
+
+includes a limited conservator described in Section
+SB83 INTRODUCED
+309 26-2A-148(a).
+310 (3) COURT. A probate court of this state.
+311 (4) COURT REPRESENTATIVE. A person appointed in a
+312 guardianship or protective proceeding who: (i) is trained in
+313 law, nursing, or social work,; (ii) is an officer, employee,
+314 or special appointee of the court,; (iii) and has no personal
+315 interest in the proceeding.
+316 (5) DISABILITY. Cause for a protective order as
+317 described in Section 26-2A-130.
+318 (6) ESTATE. Includes the The property of the person
+319 whose affairs are subject to this chapter.
+320 (7) GUARDIAN. A person who has qualified as a guardian
+321 of a minor or incapacitated person pursuant to parental or
+322 spousal nomination or court appointment and. The term includes
+323 a limited guardian as described in Sections 26-2A-78(e) and
+324 26-2A-105(c), but excludes one a person who is merely a
+325 guardian ad litem.
+326 (8) INCAPACITATED PERSON. Any person who is impaired by
+327 reason of mental illness, mental deficiency, physical illness
+328 or disability, physical or mental infirmities accompanying
+329 advanced age, chronic use of drugs, chronic intoxication, or
+330 other cause (, except minority,) to the extent of lacking
+331 sufficient understanding or capacity to make or communicate
+332 responsible decisions.
+333 (9) LEASE. Includes an An oil, gas, or other mineral
+334 lease.
+335 (10) LETTERS. Includes letters Letters of guardianships
+336 and letters of conservatorship.
+Page 12
+
+and letters of conservatorship.
+SB83 INTRODUCED
+337 (11) MINOR. A person who is under 19 years of age and
+338 has not otherwise had the disabilities of minority removed.
+339 (12) MINOR WARD. A minor for whom a guardian has been
+340 appointed solely because of minority.
+341 (13)(12) MORTGAGE. Any conveyance, agreement, or
+342 arrangement in which property is used as collateral.
+343 (14)(13) ORGANIZATION. Includes a A corporation,
+344 business trust, estate, trust, partnership, association, two
+345 or more persons having a joint or common interest, government,
+346 governmental subdivision or agency, or any other legal entity.
+347 (15)(14) PARENT. Includes any Any person entitled to
+348 take, or who would be entitled to take if the child died
+349 without a will, as a parent by intestate succession from the
+350 child whose relationship is in question and. The term excludes
+351 any person who is only a stepparent, foster parent, or
+352 grandparent.
+353 (16)(15) PERSON. An individual or an organization,
+354 unless the context otherwise requires.
+355 (17)(16) PETITION. A written request to the court for
+356 an order after notice.
+357 (18)(17) PROCEEDING. Includes action Action at law and
+358 suit in equity.
+359 (19)(18) PROPERTY. Includes both Both real and personal
+360 property, or any interest therein, and means anything that may
+361 be the subject of ownership.
+362 (20)(19) PROTECTED PERSON. A minor or other person for
+363 whom a conservator has been appointed or other protective
+364 order has been made as provided in Sections 26-2A-136 and
+Page 13
+
+order has been made as provided in Sections 26-2A-136 and
+SB83 INTRODUCED
+365 26-2A-137.
+366 (21)(20) PROTECTIVE PROCEEDING. A proceeding under the
+367 provisions of Division 3 of Article 2, Division 3.
+368 (22) RESPONDENT. An individual for whom: (i) a petition
+369 requests the court to enter a protective order to appoint a
+370 guardian or conservator; (ii) a protective arrangement is
+371 sought; or (iii) any emergency or temporary guardian,
+372 conservator, or other relief is requested.
+373 (23)(21) SECURITY. Includes any Any note,; stock,;
+374 treasury stock,; bond, debenture,; evidence of indebtedness,;
+375 certificate of interest or participation in an oil, gas, or
+376 mining title or lease or in payments out of production under
+377 such a title or lease,; collateral trust certificate,
+378 transferable share,; voting trust certificate or, in general,
+379 any interest or instrument commonly known as a security, or
+380 any certificate of interest or participation,; any temporary
+381 or interim certificate, receipt or certificate of deposit for,
+382 or any warrant or right to subscribe to or purchase any of the
+383 foregoing.
+384 (24)(22) WARD. A person for whom a guardian has been
+385 appointed. A "minor ward" is a minor for whom a guardian has
+386 been appointed solely because of minority."
+387 "§26-2A-50
+388 (a) If notice of a hearing on any petition is required,
+389 other than a notice meeting specific notice requirements
+390 otherwise provided under Sections 26-2A-103, 26-2A-107.1,
+391 26-2A-134, and 26-2A-136.1, the petitioner shall cause notice
+392 of the time and place of the hearing of any petition to be
+Page 14
+
+of the time and place of the hearing of any petition to be
+SB83 INTRODUCED
+393 given to the person to be notified or to the attorney if the
+394 person has appeared by attorney or requested that notice be
+395 sent to an attorney.
+396 (b) Notice must shall be given by service in the manner
+397 provided for service of summons in the Alabama Rules of Civil
+398 Procedure, except as follows:
+399 (1) If by certified mail or commercial carrier, By
+400 mailing a copy of the notice shall be sent at least 14 days
+401 before the time set for the hearing by certified, registered,
+402 or ordinary first-class mail and addressed to the person being
+403 notified using the post office address given in the request
+404 for notice, if any, or to the person's office or place of
+405 residence, if known;.
+406 (2) If by process server, by By delivering a copy
+407 thereof the notice to the person being notified personally at
+408 least 14 10 days before the time set for the hearing; or.
+409 (3) If by publication when the address or identity of
+410 any person is not known and cannot be ascertained with
+411 reasonable diligence, by publishing a copy of the notice, at
+412 least once a week for three consecutive weeks, a copy of the
+413 notice in a newspaper having general circulation in the county
+414 in which the hearing is to be held, the last publication of
+415 which is to shall be at least 10 days before the time set for
+416 the hearing.
+417 (c) The court for good cause shown may provide for a
+418 different method or time of giving notice for any hearing.
+419 (d) Proof of the giving of notice must be made not
+420 later than the hearing and filed in the proceeding."
+Page 15
+
+later than the hearing and filed in the proceeding."
+SB83 INTRODUCED
+421 "§26-2A-52
+422 (a) At any point in a proceeding, a court may appoint a
+423 guardian ad litem to represent the interest of a minor or
+424 other person respondent if the court determines that
+425 representation of the interest otherwise would be inadequate.
+426 If not precluded by conflict of interests, a guardian ad litem
+427 may be appointed to represent several persons or interests.
+428 (b) The primary responsibility of a guardian ad litem
+429 is to protect the best interests of the respondent. The duties
+430 of a guardian ad litem include the following:
+431 (1)a. Meet with the respondent prior to court hearings
+432 and when apprised of emergencies or significant events
+433 impacting the respondent.
+434 b. Explain, in terms understandable to the respondent,
+435 what is expected to happen before, during, and after each
+436 court hearing.
+437 (2) Conduct a thorough and independent investigation.
+438 Unless otherwise directed by the court, the investigation
+439 shall include the following:
+440 a. Obtaining and reviewing relevant documents.
+441 b. Interviewing the person who appears to have caused
+442 the petition to be filed and any other person who is nominated
+443 to serve as guardian or conservator.
+444 c. Interviewing the respondent, if practicable.
+445 d. Prior to a final hearing on the appointment of a
+446 guardian or conservator, and at other times as necessary,
+447 visiting the present dwelling of the respondent.
+448 e. Making reasonable efforts to ascertain the
+Page 16
+
+e. Making reasonable efforts to ascertain the
+SB83 INTRODUCED
+449 respondent's wishes.
+450 f. Identifying less-restrictive alternatives to
+451 guardianship or conservatorship.
+452 (3) Unless represented by counsel, inform an alleged
+453 incapacitated adult respondent of the respondent's right to be
+454 present at the hearing, to be represented by counsel, to
+455 prevent evidence and cross-examine witnesses, and to demand a
+456 trial by jury.
+457 (4) Advocate for appropriate services for the
+458 respondent.
+459 (5) Advocate for the result that is the least
+460 restrictive in type, duration, and scope and consistent with
+461 an alleged incapacitated adult respondent's best interests.
+462 (6) Submit a report and recommendation in writing to
+463 the court. In making the report, the guardian ad litem shall
+464 be an advocate for the best interests of the respondent. The
+465 guardian ad litem should consider, but is not bound by, the
+466 wishes of the respondent.
+467 (7) Attend all court hearings and file all necessary
+468 pleadings to facilitate the best interests of the respondent.
+469 (8) Avoid conflicts of interest, impropriety, and
+470 self-dealing.
+471 (c) The court may include additional duties or
+472 instructions for the guardian ad litem in its order of
+473 appointment.
+474 (d) Unless otherwise provided by court order, a
+475 guardian ad litem's duties in a proceeding terminate: (i) when
+476 the court has issued a final order or judgment and the time
+Page 17
+
+the court has issued a final order or judgment and the time
+SB83 INTRODUCED
+477 for an appeal of the order or judgment has expired without an
+478 appeal being filed; or (ii) if an appeal was filed, after the
+479 final adjudication of the appeal.
+480 (e) Before being appointed by the court, every guardian
+481 ad litem appointed under this chapter shall successfully
+482 complete a training program prepared or approved by the
+483 Alabama Probate Judges Association and the Alabama Law
+484 Institute."
+485 "§26-2A-103
+486 (a) Except as provided in Section 26-2A-107, inIn a
+487 proceeding for the appointment of a guardian of an
+488 incapacitated person, and, if notice is required in a
+489 proceeding for appointment of a temporary guardian, notice of
+490 hearing must shall be given to each of the following:
+491 (1) The person alleged to be incapacitated respondent,
+492 her or his spouse (if any) the respondent's spouse, if any,
+493 and adult children, or if none, parents;.
+494 (2) Any person who is serving as guardian, conservator,
+495 or who has the care and custody of the person alleged to be
+496 incapacitated; respondent.
+497 (3) In case no other person is notified under paragraph
+498 subdivision (1), at least one of the nearest adult relatives
+499 residing in this state, if any can be found; and.
+500 (4) Any other person as directed by the court.
+501 (b) Notice of hearing on a petition for an order
+502 subsequent to appointment of a guardian must be given to the
+503 ward respondent, the guardian, and any other person as ordered
+504 by the court.
+Page 18
+
+by the court.
+SB83 INTRODUCED
+505 (c) Notice must be served personally on the alleged
+506 incapacitated person respondent as provided in Section
+507 26-2A-50(b)(2). Notices to other persons as required by
+508 subsection (a)(1) must (a) or (b) shall be served personally
+509 if the person to be notified can be found within the state. In
+510 all other cases, required notices must be given as provided in
+511 Section 26-2A-50.
+512 (d) The person alleged to be incapacitated respondent
+513 may not waive notice."
+514 "§26-2A-134
+515 (a) On a petition for appointment of a conservator or
+516 other protective order, the requirements for notice described
+517 in Section 26-2A-103 apply, but (i) if except that:
+518 (1) If the person to be protected respondent has
+519 disappeared or is otherwise situated so as to make personal
+520 service of notice impracticable, notice to the person must
+521 respondent shall be given by publication as provided in
+522 Section 26-2A-50, and (ii) if; and
+523 (2) If the person to be protected respondent is a
+524 minor, the provisions of Section 26-2A-75 also apply.
+525 (b) Notice, as described in Section 26-2A-103, of any
+526 hearing on a petition for an order subsequent to appointment
+527 of a conservator or other protective order must be given to
+528 the protected person respondent, any conservator of the
+529 protected person's respondent's estate, and any other person
+530 as ordered by the court."
+531 "§26-2A-136
+532 (a) The court shall exercise the authority conferred in
+Page 19
+
+(a) The court shall exercise the authority conferred in
+SB83 INTRODUCED
+533 this division to encourage the development of maximum
+534 self-reliance and independence of a protected person and make
+535 protective orders only to the extent necessitated by the
+536 protected person's mental and adaptive limitations and other
+537 conditions warranting the procedure.
+538 (b) The court has the following powers that may be
+539 exercised directly or through a conservator in respect to the
+540 estate and business affairs of a protected person:
+541 (1) While a petition for appointment of a conservator
+542 or other protective order is pending and after preliminary
+543 hearing and without notice, the court may preserve and apply
+544 the property of the person to be protected as may be required
+545 for the support of the person or dependents of the person.
+546 (2) After hearing and upon determining that a basis for
+547 an appointment or other protective order exists with respect
+548 to a minor without other disability, the court has all those
+549 powers over the estate and business affairs of the minor which
+550 are or may be necessary for the best interest of the minor and
+551 members of minor's immediate family.
+552 (2)(3) After hearing and upon determining that a basis
+553 for an appointment or other protective order exists with
+554 respect to a person for reasons other than minority, the
+555 court, for the benefit of the person and members of the
+556 person's immediate family, has all the powers over the estate
+557 and business affairs which the person could exercise if
+558 present and not under disability, except the power to make a
+559 will. Subject to subsection (c), those powers include, but are
+560 not limited to, the powers to do the following:power to make
+Page 20
+
+not limited to, the powers to do the following:power to make
+SB83 INTRODUCED
+561 a. Make gifts; to convey.
+562 b. Convey or release contingent and expectant interests
+563 in property, including marital property rights and any right
+564 of survivorship incident to joint tenancy or tenancy by the
+565 entirety; to exercise.
+566 c. Exercise or release powers held by the protected
+567 person as trustee, personal representative, custodian for
+568 minors, conservator, or donee of a power of appointment; to
+569 enter.
+570 d. Enter into contracts; to create.
+571 e. Create revocable or irrevocable trusts of property
+572 of the estate which may extend beyond the disability or life
+573 of the protected person; to exercise.
+574 f. Exercise options of the protected person to purchase
+575 securities or other property; to exercise.
+576 g. Exercise rights to elect options and change
+577 beneficiaries under insurance and annuity policies and to
+578 surrender the policies for their cash value; to exercise.
+579 h. Exercise any right to an elective share in the state
+580 of the person's deceased spouse and to renounce or disclaim
+581 any interest by testate or intestate succession or by inter
+582 vivos transfer.
+583 (c) The court may exercise or direct the exercise of
+584 the following powers only if, after notice and hearing, the
+585 court is satisfied, after notice and hearing, that it is in
+586 the best interest of the protected person, and that the person
+587 either is incapable of consenting or has consented to the
+588 proposed exercise of power:
+Page 21
+
+proposed exercise of power:
+SB83 INTRODUCED
+589 (1) To exercise or release powers of appointments of
+590 which the protected person is done;.
+591 (2) To renounce or disclaim interests;.
+592 (3) To make gifts in trust or otherwise exceeding in
+593 the aggregate 20 percent of the year's income of the estate;
+594 and.
+595 (4) To change beneficiaries under insurance and annuity
+596 policies.
+597 (d) Except for the disability necessitating the
+598 appointment, a determination that a basis for appointment of a
+599 conservator or other protective order exists has no effect
+600 otherwise on the capacity of the protected person. A
+601 conservator has all the powers granted by this section, unless
+602 specifically limited by the court. A protected person does not
+603 have or possess powers granted to the conservator."
+604 Section 2. Sections 26-2A-54, 26-2A-107.1, and
+605 26-2A-136.1 are added to the Code of Alabama 1975, to read as
+606 follows:
+607 §26-2A-54
+608 (a) In any proceeding under this article, the court
+609 shall appoint a court representative unless the court
+610 determines that the appointment is not likely to aid the court
+611 or would add unnecessary expense to the proceeding. At any
+612 time after the order is entered, the court may appoint a court
+613 representative if the court determines that the appointment
+614 would aid the court.
+615 (b) Each court representative shall have training or
+616 experience in the type of abilities, limitations, and needs
+Page 22
+
+experience in the type of abilities, limitations, and needs
+SB83 INTRODUCED
+617 alleged in the petition, and have no personal interest in the
+618 proceedings. An appointed court representative shall be an
+619 officer, employee, or special appointee of the court.
+620 (c) A court representative appointed under subsection
+621 (a) shall do all of the following:
+622 (1) Independently evaluate the petition and the
+623 allegations made in the petition.
+624 (2) Interview the respondent in person and do both of
+625 the following in a manner that the respondent is best able to
+626 understand:
+627 a. Explain to the respondent the substance of the
+628 petition and the nature, purpose, and effect of the
+629 proceeding.
+630 b. Determine the respondent's views about the relief
+631 sought by the petitioner.
+632 (3) Interview the petitioner and proposed guardian or
+633 conservator, if any.
+634 (4) If relevant to the proceedings, visit the
+635 respondent's present dwelling and any dwelling in which the
+636 court representative reasonably believes the respondent will
+637 live if the relief sought is granted.
+638 (5) Obtain information from any physician or other
+639 person known to have treated, advised, or assessed the
+640 respondent's relevant physical or mental condition.
+641 (6) Investigate the allegations in the petition and any
+642 other matter relating to the petition as the court directs.
+643 (7) File a report of the court representative's
+644 findings in a record with the court, unless waived by the
+Page 23
+
+findings in a record with the court, unless waived by the
+SB83 INTRODUCED
+645 court for good cause shown.
+646 (d) The court may use the service of any public or
+647 charitable agency as an additional court representative to
+648 evaluate the condition of the respondent and to make
+649 appropriate recommendations to the court.
+650 §26-2A-107.1
+651 (a) Either at the court's discretion after a petition
+652 has been filed under this division or on petition by a person
+653 interested in the adult's welfare, the court may appoint a
+654 temporary guardian or emergency guardian for an adult if the
+655 court finds all of the following:
+656 (1) The appointment of a temporary guardian or
+657 emergency guardian is likely to prevent substantial harm to
+658 the adult's physical health, safety, or welfare.
+659 (2) No other person appears to have the authority and
+660 the willingness to act in the circumstances.
+661 (3) There is reason to believe that a basis for
+662 appointment of a guardian under Section 26-2A-102 exists.
+663 (b)(1) Immediately upon the filing of a petition for
+664 appointment of a temporary guardian or emergency guardian of
+665 an adult and if a guardian ad litem has not been appointed to
+666 represent the respondent, the court shall appoint a guardian
+667 ad litem to represent the respondent in the proceeding.
+668 (2) Except as otherwise provided in subsection (d), the
+669 court shall provide notice of the date, time, and place of a
+670 hearing on a petition for appointment of a temporary guardian
+671 or emergency guardian of an adult no later than five days
+672 before the time set for the hearing to all of the following
+Page 24
+
+before the time set for the hearing to all of the following
+SB83 INTRODUCED
+673 parties:
+674 a. The respondent.
+675 b. The respondent's guardian ad litem and attorney.
+676 c. Any other person that the court determines is an
+677 appropriate party to the hearing.
+678 (c)(1) The duration of authority of a temporary
+679 guardian for an adult may not exceed 60 days. A temporary
+680 guardian may exercise only the powers specified in the order
+681 of appointment.
+682 (2) Prior to the expiration of the duration of
+683 authority granted to a temporary guardian for an adult under
+684 subdivision (1), the duration of authority of a temporary
+685 guardian for an adult may be extended for a second term of not
+686 more than 60 days without a hearing, provided that the court
+687 finds both of the following:
+688 a. The conditions for appointment of a temporary
+689 guardian in subsection (a) continue.
+690 b. It is in the best interest of the respondent to
+691 continue the appointment.
+692 (3) Prior to the expiration of the second or any
+693 subsequent term of the duration of authority granted to a
+694 temporary guardian under subdivision (2), the authority of a
+695 temporary guardian for an adult may be extended for a third or
+696 subsequent term of not more than 60 days upon hearing and upon
+697 the court finding that there is good cause to extend the
+698 temporary appointment. Notice of the date, time, and place of
+699 the hearing to extend the temporary appointment shall be given
+700 in accordance with the requirements of subsection (b).
+Page 25
+
+in accordance with the requirements of subsection (b).
+SB83 INTRODUCED
+701 (d)(1) The court may appoint an emergency guardian for
+702 an adult without providing notice to the adult, the adult's
+703 guardian ad litem, or any attorney for the adult only if the
+704 court finds from an affidavit or testimony that the adult's
+705 physical health, safety, or welfare will be substantially
+706 harmed before a hearing with notice on the appointment can be
+707 held.
+708 (2) The duration of authority of an emergency guardian
+709 for an adult may not exceed 10 days. The emergency guardian
+710 may exercise only the powers specified in the order of
+711 appointment.
+712 (3) If the court appoints an emergency guardian without
+713 giving notice under subsection (b), the court must do each of
+714 the following:
+715 a. Give notice of the appointment of the emergency
+716 guardian no later than 48 hours after the appointment to:
+717 1. The respondent;
+718 2. The respondent's guardian ad litem and attorney, if
+719 any; and
+720 3. Any other person that the court determines is an
+721 appropriate party to the hearing.
+722 b. Hold a hearing on the appropriateness of the
+723 emergency appointment no later than 10 days after the
+724 appointment, with notice of the date, time, and place of the
+725 hearing given at least five days before the time set for the
+726 hearing to those persons listed in paragraph a.
+727 (4) At the conclusion of the hearing on the emergency
+728 appointment, the court may do any of the following:
+Page 26
+
+appointment, the court may do any of the following:
+SB83 INTRODUCED
+729 a. Appoint a temporary guardian for the adult.
+730 b. Terminate the emergency guardianship without
+731 appointment of a temporary guardian.
+732 c. Grant such other relief as may be proper.
+733 (e) The appointment of a temporary guardian or
+734 emergency guardian under this section is not a determination
+735 that a basis exists for appointment of a guardian under
+736 Section 26-2A-102.
+737 (f) The court may remove a temporary guardian or
+738 emergency guardian appointed under this section at any time.
+739 (g) The court may order a temporary guardian or
+740 emergency guardian to file a written report, the contents of
+741 which may be determined by the court. A temporary guardian or
+742 emergency guardian shall make any report the court requires.
+743 (h)(1)a. If the court finds that an attorney or party
+744 vexatiously or for improper purposes petitioned for
+745 appointment of a temporary guardian or emergency guardian, the
+746 court may tax the attorney or party with the costs of the
+747 proceeding.
+748 b. The court may assess the full amount or any portion
+749 of the costs against any offending attorney or party, or both,
+750 and among them, as the court determines.
+751 c. When granting an award of costs and attorney fees,
+752 the court shall specifically state the reasons for the award
+753 and shall consider the factors listed in Section 12-19-273,
+754 among others, in determining whether to assess attorney fees
+755 and costs and the amount to be assessed.
+756 (2) The costs of an action that may be assessed under
+Page 27
+
+(2) The costs of an action that may be assessed under
+SB83 INTRODUCED
+757 this subsection may include reasonable compensation for and
+758 expenses incurred by an attorney, guardian ad litem, or party,
+759 including the cost of experts to testify in or advise
+760 regarding the proceeding. Costs taxed under this subsection
+761 shall be limited to those incurred by the parties opposing an
+762 improperly brought petition for a temporary guardian or
+763 emergency guardian or incurred as a result of the improperly
+764 brought petition.
+765 §26-2A-136.1
+766 (a) Either at the court's discretion after a petition
+767 has been filed under this division or on petition under this
+768 division by a person interested in the adult's welfare, the
+769 court may appoint a temporary conservator or emergency
+770 conservator for the person or grant such other temporary or
+771 emergency relief as may be appropriate, including an order to
+772 preserve and apply property of the person as required for
+773 support of the person or any person who is in fact dependent
+774 on the person, if the court finds all of the following:
+775 (1) The appointment of a temporary conservator or
+776 emergency conservator or granting of other temporary or
+777 emergency relief is likely to prevent substantial and
+778 irreparable harm to the person's property or financial
+779 interests.
+780 (2) No other person appears to have the authority and
+781 the willingness to act in the circumstances.
+782 (3) There is reason to believe that a basis for
+783 appointment of a conservator or other protective order under
+784 Section 26-2A-130 exists.
+Page 28
+
+Section 26-2A-130 exists.
+SB83 INTRODUCED
+785 (b)(1) Immediately upon the filing of a petition for
+786 appointment of a temporary conservator or emergency
+787 conservator or other temporary or emergency relief and if a
+788 guardian ad litem has not been appointed to represent the
+789 respondent, the court shall appoint a guardian ad litem to
+790 represent the respondent in the proceeding.
+791 (2) Except as otherwise provided in subsection (d), the
+792 court shall provide notice of the date, time, and place of a
+793 hearing on a petition under this section at least five days
+794 before the time set for the hearing to all of the following
+795 parties:
+796 a. The respondent.
+797 b. The respondent's guardian ad litem and attorney, if
+798 any.
+799 c. Any other person that the court determines is an
+800 appropriate party to the hearing.
+801 (c) The duration of authority of a temporary
+802 conservator and the duration of any other temporary relief
+803 ordered under this section may not exceed 60 days. The
+804 temporary conservator may exercise only the powers specified
+805 in the order of appointment.
+806 (2) Prior to the expiration of the duration of
+807 authority granted to a temporary conservator or the expiration
+808 of the duration of any other temporary relief under
+809 subdivision (1), the duration of authority of a temporary
+810 conservator or the duration of any other temporary relief may
+811 be extended for a second term of not more than 60 days without
+812 a hearing, provided that the court finds both of the
+Page 29
+
+a hearing, provided that the court finds both of the
+SB83 INTRODUCED
+813 following:
+814 a. The conditions for appointment of a temporary
+815 conservator or for the granting of any other temporary relief
+816 under subsection (a) continue.
+817 b. It is in the interest of the respondent to continue
+818 the appointment of a temporary conservator or granting of
+819 temporary relief.
+820 (3) Prior to the expiration of the second or any
+821 subsequent term of the duration of authority granted to a
+822 temporary conservator or the duration of any other temporary
+823 relief under subdivision (2), the authority of a temporary
+824 conservator or any other temporary relief may be extended for
+825 a third or subsequent term of not more than 60 days upon
+826 hearing and upon the court finding that there is good cause to
+827 extend the temporary appointment or granting of temporary
+828 relief. Notice of the date, time, and place of the hearing to
+829 extend the temporary appointment or other temporary relief
+830 shall be given in accordance with the requirements established
+831 in subsection (b).
+832 (d)(1) The court may appoint an emergency conservator
+833 or grant other emergency relief without providing notice to
+834 the respondent, the respondent's guardian ad litem, or any
+835 attorney for the respondent only if the court finds from an
+836 affidavit or testimony that the respondent's property or
+837 financial interests will be substantially and irreparably
+838 harmed before a hearing with notice on the appointment can be
+839 held.
+840 (2) The duration of authority of an emergency
+Page 30
+
+(2) The duration of authority of an emergency
+SB83 INTRODUCED
+841 conservator may not exceed 10 days. The emergency conservator
+842 may exercise only the powers specified in the order of
+843 appointment. The duration of any other emergency relief may
+844 not exceed 10 days.
+845 (3) If the court appoints an emergency conservator or
+846 grants other emergency relief without giving notice under
+847 subsection (b), the court must do each of the following:
+848 a. Give notice of the appointment of the emergency
+849 conservator or the granting of emergency relief not later than
+850 48 hours after the appointment to:
+851 1. The respondent;
+852 2. The respondent's guardian ad litem and attorney, if
+853 any; and
+854 3. Any other person that the court determines is an
+855 appropriate party to the hearing.
+856 b. Hold a hearing on the appropriateness of the
+857 emergency appointment or granting of emergency relief not
+858 later than 10 days after the appointment is made or the
+859 emergency relief is granted, with notice of the date, time,
+860 and place of the hearing given at least five days before the
+861 time set for the hearing to those persons listed in paragraph
+862 a.
+863 (4) At the conclusion of the hearing on the emergency
+864 appointment or granting of emergency relief, the court may do
+865 any of the following:
+866 a. Appoint a temporary conservator for the adult.
+867 b. Terminate the emergency conservatorship or other
+868 emergency relief without further appointment or relief.
+Page 31
+
+emergency relief without further appointment or relief.
+SB83 INTRODUCED
+869 c. Grant such other relief as may be proper.
+870 (e) The appointment of a temporary conservator or
+871 emergency conservator under this section is not a
+872 determination that a basis exists for appointment of a
+873 conservator or other protective order under Section 26-2A-130.
+874 (f) The court may remove a temporary conservator or
+875 emergency conservator appointed under this section at any
+876 time.
+877 (g) The court may order a temporary conservator or
+878 emergency conservator to file a written report, the contents
+879 of which may be determined by the court. A temporary
+880 conservator or emergency conservator shall make any report the
+881 court requires.
+882 (h)(1)a. If the court finds that an attorney or party
+883 vexatiously or for improper purposes petitioned for the
+884 appointment of a temporary conservator or emergency
+885 conservator, the court may tax the attorney or party with the
+886 costs of the proceeding.
+887 b. The court may assess the full amount or any portion
+888 of the costs against any offending attorney or party, or both,
+889 and among them, as the court determines is just.
+890 c. When granting an award of costs and attorney fees,
+891 the court shall specifically state the reasons for the award
+892 and shall consider the factors in Section 12-19-273, among
+893 others, in determining whether to assess attorney fees and
+894 costs and the amount to be assessed.
+895 (2) The costs of an action that may be assessed under
+896 this subsection may include reasonable compensation for and
+Page 32
+
+this subsection may include reasonable compensation for and
+SB83 INTRODUCED
+897 expenses incurred by an attorney, guardian ad litem, or party,
+898 including the costs of experts to testify in or advise
+899 regarding the proceeding. Costs taxed under this subsection
+900 shall be limited to those incurred by the parties opposing an
+901 improperly brought petition for a temporary conservator or
+902 emergency conservator or other temporary or emergency relief
+903 or incurred as a result of the improperly brought petition.
+904 Section 3. This act shall become effective on January
+905 1, 2027.
+Page 33

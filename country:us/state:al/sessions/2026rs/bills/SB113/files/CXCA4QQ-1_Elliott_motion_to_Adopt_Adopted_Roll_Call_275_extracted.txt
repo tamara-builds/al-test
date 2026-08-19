@@ -1,0 +1,535 @@
+Title: 
+Official Title: 
+Source: versions - Elliott motion to Adopt - Adopted Roll Call 275
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+CXCA4QQ-1 01/26/2026 KMS (L)cr 2026-370 SUB SB113
+ELLIOTT SUBSTITUTE TO SB113
+OFFERED BY SENATOR ELLIOTT
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, termination dates are
+6 established for enumerated state agencies. The agencies
+7 are periodically reviewed by the Alabama Sunset
+8 Committee. After the review process is completed, the
+9 committee prepares its recommendation for the agencies
+10 to the Legislature in the form of sunset bills which
+11 either continue, terminate, or continue with
+12 modification each agency reviewed.
+13 This bill would provide for the continuance of
+14 the Alabama Behavior Analyst Licensing Board operating
+15 within the Department of Mental Health with the
+16 following changes: To rename the board as the Alabama
+17 Behavior Analyst Advisory Council; to provide the
+18 Department of Mental Health with regulatory authority
+19 over licensed behavior analysts and licensed assistant
+20 behavior analysts practicing behavior analysis under
+21 the former board; to require the advisory council to
+22 advise the department on matters relating to the
+23 practice of behavior analysis; to provide for the
+24 duties of the department and the Mental Health
+25 Commissioner relating to the advisory council; to
+26 require the department to provide all necessary
+27 administrative services for the advisory council; to
+28 transfer all property of the advisory council to the
+Page 1
+
+transfer all property of the advisory council to the
+29 department; and to remove the former board from Sunset
+30 review.
+31
+32
+33 A BILL
+34 TO BE ENTITLED
+35 AN ACT
+36
+37 Relating to the Alabama Sunset Law; to continue the
+38 existence and functioning of the Alabama Behavior Analyst
+39 Licensing Board operating within the Department of Mental
+40 Health with certain modifications; to amend Sections 34-5A-1,
+41 34-5A-2, 34-5A-3, 34-5A-4, 34-5A-5, 34-5A-6, and 34-5A-7, Code
+42 of Alabama 1975, to rename the board as the Alabama Behavior
+43 Analyst Advisory Council; to provide the Department of Mental
+44 Health with regulatory authority over licensed behavior
+45 analysts and licensed assistant behavior analysts practicing
+46 behavior analysis under the former board; to require the
+47 advisory council to advise the department on matters relating
+48 to the practice of behavior analysis; to provide for the
+49 duties of the department and the Mental Health Commissioner
+50 relating to the advisory council; to require the department to
+51 provide all necessary administrative services for the advisory
+52 council; to transfer all property of the advisory council to
+53 the department; and to repeal Section 34-5A-8, Code of Alabama
+54 1975, to remove the former board from review by the Sunset
+55 Committee.
+56 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 2
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+57 Section 1. Pursuant to the Alabama Sunset Law, the
+58 Sunset Committee recommends the continuance of the Alabama
+59 Behavior Analyst Licensing Board operating within the
+60 Department of Mental Health with the additional
+61 recommendations for statutory change as set out in Sections 3
+62 and 4.
+63 Section 2. The existence and functioning of the Alabama
+64 Behavior Analyst Licensing Board, created and functioning
+65 pursuant to Sections 34-5A-1 to 34-5A-7, inclusive, Code of
+66 Alabama 1975, is continued, and those code sections are
+67 expressly preserved.
+68 Section 3. Sections 34-5A-1, 34-5A-2, 34-5A-3, 34-5A-4,
+69 34-5A-5, 34-5A-6, and 34-5A-7 of the Code of Alabama 1975, are
+70 amended to read as follows:
+71 "§34-5A-1
+72 For the purposes of this chapter, the following terms
+73 shall have the following meanings:
+74 (1) ADVISORY COUNCIL. The Alabama Behavior Analyst
+75 Advisory Council created by this chapter.
+76 (1)(2) APPLIED BEHAVIOR ANALYSIS DIRECT CONTACT
+77 TECHNICIAN. An individual who directly implements applied
+78 behavior analysis services.
+79 (2) BOARD. The Alabama Behavior Analyst Licensing Board
+80 charged with overseeing the regulation of behavior analyst
+81 professionals.
+82 (3) CERTIFYING ENTITY. The nationally accredited
+83 Behavior Analyst Certification Board, Incorporated.
+84 (4) DEPARTMENT. The Department of Mental Health.
+Page 3
+
+(4) DEPARTMENT. The Department of Mental Health.
+85 (4)(5) LICENSED ASSISTANT BEHAVIOR ANALYST. An
+86 individual who is certified by the certifying entity as a
+87 national board certified assistant behavior analyst and who
+88 satisfies the criteria identified in Section 34-5A-4.
+89 (5)(6) LICENSED BEHAVIOR ANALYST. An individual who is
+90 certified by the certifying entity as a national board
+91 certified behavior analyst and who satisfies the criteria
+92 identified in Section 34-5A-4.
+93 (7) MENTAL HEALTH COMMISSIONER. The executive officer
+94 of the Department of Mental Health.
+95 (6)(8) PRACTICE OF BEHAVIOR ANALYSIS. The design,
+96 implementation, and evaluation of instructional and
+97 environmental modifications to produce socially significant
+98 improvements in human behavior.
+99 a. The practice of behavior analysis includes all of
+100 the following:
+101 1. The empirical identification of functional relations
+102 between behavior and environmental factors, known as
+103 functional assessment and analysis.
+104 2. Interventions based on scientific research and the
+105 direct observation and measurement of behavior and
+106 environment, which utilize contextual factors, establishing
+107 operations, antecedent stimuli, positive reinforcement, and
+108 other consequences to help individuals develop new behaviors,
+109 increase or decrease existing behaviors, and elicit behaviors
+110 under specific environmental conditions.
+111 b. The practice of behavior analysis does not include
+112 psychological testing, psychotherapy, cognitive therapy, sex
+Page 4
+
+psychological testing, psychotherapy, cognitive therapy, sex
+113 therapy, psychoanalysis or hypnotherapy, or long-term
+114 counseling as treatment modalities.
+115 c. The practice of behavior analysis does not include
+116 preventing or alleviating or curing of diseases or injuries.
+117 d. Nothing in this chapter shall be construed as
+118 permitting or allowing a licensed behavior analyst to
+119 prescribe or administer any drug, make a medical diagnosis,
+120 provide medical treatment, or manage a medical condition. A
+121 licensed behavior analyst may not attempt to diagnose,
+122 prescribe for, treat, or advise a client with reference to any
+123 problem, complaint, or condition falling outside the
+124 boundaries of behavior analysis."
+125 "§34-5A-2
+126 (a) The unlicensed practice of behavior analysis is
+127 prohibited in this state, unless exempted in subsection (c).
+128 (b) No person individual shall hold himself or herself
+129 out to be a licensed behavior analyst or licensed assistant
+130 behavior analyst unless he or she satisfies the applicable
+131 requirements of this chapter.
+132 (c) This chapter may not be construed as prohibiting or
+133 restricting the practice of any of the following:
+134 (1) An individual authorized to practice psychology
+135 within the state.
+136 (2) An applied behavior analysis direct contact
+137 technician, or family member implementing a behavior analysis
+138 plan within the home or other environment in which the person
+139 individual is located, who acts under the extended authority
+140 and direction of a licensed behavior analyst or a licensed
+Page 5
+
+and direction of a licensed behavior analyst or a licensed
+141 assistant behavior analyst.
+142 (3) A behavior analyst who practices with nonhuman or
+143 nonpatient clients or consumers including, but not limited to,
+144 applied animal behaviorists and practitioners of
+145 organizational behavior management.
+146 (4) A licensed physician who is practicing medicine.
+147 (5) A licensed professional authorized to practice in
+148 the state who is not a behavior analyst, so long as the
+149 licensed professional does not represent that he or she is a
+150 behavior analyst, and so long as the services of the licensed
+151 professional are within the scope of practice of the licensing
+152 law governing the licensed professional and the services
+153 performed are commensurate with the education, training, and
+154 experience of the licensed professional.
+155 (6) A matriculated graduate student or postdoctoral
+156 fellow whose activities are part of a defined behavior
+157 analysis program of study, practicum, or intensive practicum,
+158 provided that the practice under this exemption is directly
+159 supervised by a licensed behavior analyst in this state or an
+160 instructor in a course sequence approved by the certifying
+161 entity.
+162 (7) An unlicensed individual pursuing experience in
+163 behavior analysis consistent with the experience requirements
+164 of the certifying entity, provided such the experience is
+165 supervised by a licensed behavior analyst in this state.
+166 (d) A violation of this section shall be punishable by
+167 a fine of not more than one thousand dollars ($1,000) or the
+168 suspension or revocation of a license issued pursuant to this
+Page 6
+
+suspension or revocation of a license issued pursuant to this
+169 chapter, or both fine and loss of licensure licensing."
+170 "§34-5A-3
+171 (a)(1) The Commencing on the effective date of the act
+172 adding this amendatory language, the Alabama Behavior Analyst
+173 Licensing Board is established within the Department of Mental
+174 Health, Division of Developmental Disabilities is renamed the
+175 Alabama Behavior Analyst Advisory Council. The purpose of the
+176 advisory council is to advise the department on all matters
+177 pertaining to the protection of the health, safety, and
+178 welfare of the public relating to licensed behavior analysts,
+179 licensed assistant behavior analysts, and the practice of
+180 behavior analysis. All members serving on the Alabama Behavior
+181 Analyst Licensing Board on the effective date of the act
+182 adding this amendatory language shall continue to serve as
+183 members of the Alabama Behavior Analyst Advisory Council until
+184 the expiration of their terms.
+185 (2) Commencing on the effective date of the act adding
+186 this amendatory language, all rights, duties, records,
+187 property, real or personal, and all other effects existing in
+188 the name of the Alabama Behavior Analyst Licensing Board, or
+189 in any other name by which that board has been known, shall
+190 transfer to the department. Any reference to the former
+191 Alabama Behavior Analyst Licensing Board, or any other name by
+192 which that board has been known, in any existing law,
+193 contract, or other instrument shall constitute a reference to
+194 the Alabama Behavior Analyst Advisory Council as created in
+195 this chapter. All actions of the former Alabama Behavior
+196 Analyst Licensing Board or the executive director of the
+Page 7
+
+Analyst Licensing Board or the executive director of the
+197 former board taken before the effective date of the act adding
+198 this amendatory language, are approved, ratified, and
+199 confirmed.
+200 (3) The status of any individual or entity properly
+201 licensed, accredited, or registered by the former Alabama
+202 Behavior Analyst Licensing Board on the effective date of the
+203 act adding this amendatory language, shall continue under the
+204 jurisdiction of the department.
+205 (4) The department shall provide all of the following
+206 for the performance of the duties of the board advisory
+207 council:
+208 a. Financial services.
+209 b. Legal services.
+210 c. Dedicated office space within the office of the
+211 State Autism Coordinator.
+212 d. An administrative assistant who is shared or
+213 dedicated to the board advisory council, and other personnel
+214 as necessary for the efficient operation of the board advisory
+215 council.
+216 e. Information technology services that shall include
+217 one or more dedicated phone lines, dedicated email addresses
+218 for board advisory council members and staff, and website
+219 maintenance.
+220 f. Necessary office furniture and supplies.
+221 (2)(b) The board advisory council shall consist of
+222 seven members, including four licensed behavior analysts, one
+223 licensed psychologist in the state, one parent or legal
+224 guardian of an individual being treated for a behavior
+Page 8
+
+guardian of an individual being treated for a behavior
+225 disorder, or an individual who has received services from a
+226 licensed behavior analyst, and one public member, who, except
+227 for the initial members, shall be appointed by the Governor,
+228 as provided in subsection (b) Mental Health Commissioner. The
+229 appointing authority Mental Health Commissioner shall
+230 coordinate his or her appointments to assure the board
+231 advisory council membership is inclusive and reflects the
+232 racial, gender, geographic, urban, rural, and economic
+233 diversity of the state. Each member of the advisory council
+234 shall serve a three-year term, with initial terms being
+235 staggered so that one member serves an initial term of one
+236 year, three members serve initial terms of two years, and
+237 three members serve initial terms of three years, as provided
+238 by the Mental Health Commissioner of the Department of Mental
+239 Health. The public member shall be an individual who is not
+240 and never was a member of any profession licensed or regulated
+241 under this chapter, or the spouse of the individual, and who
+242 does not have and never has had a material interest in the
+243 practice of behavior analysis.
+244 (b) The initial members of the board shall be board
+245 certified behavior analysts, as recognized by the certifying
+246 entity, and shall each become licensed as a behavior analyst
+247 or assistant behavior analyst, pursuant to this chapter,
+248 during his or her initial term serving on the board. These
+249 initial board members shall be appointed by the Commissioner
+250 of the Department of Mental Health upon recommendations
+251 submitted by the Alabama Association for Behavior Analysis,
+252 the Alabama Interagency Autism Coordinating Council, the
+Page 9
+
+the Alabama Interagency Autism Coordinating Council, the
+253 Department of Mental Health, and any other group determined
+254 appropriate by the commissioner. Subsequent appointments shall
+255 be appointed by the Governor upon recommendations submitted by
+256 the board.
+257 (c) Any vacancy occurring other than by expiration of
+258 terms shall be filled for the remainder of the unexpired term
+259 by appointment by the Governor Mental Health Commissioner,
+260 upon recommendation of the board advisory council.
+261 (d) No member shall serve more than two successive
+262 three-year terms.
+263 (e) A member shall serve until a successor is appointed
+264 and assumes office.
+265 (f) Members shall be paid out of the funds of the board
+266 department the same per diem as prescribed by law for state
+267 employees for each day of attendance of board advisory council
+268 business.
+269 (g) The board advisory council shall meet at least
+270 twice annually and may meet at other times as necessary, at
+271 the call of the chair or by a majority of the members of the
+272 advisory council, to complete the business required.
+273 (h) The board shall adopt and enforce rules and
+274 establish fees necessary to implement this chapter. The
+275 department shall adopt and revise rules pursuant to the
+276 Administrative Procedure Act as necessary for the department
+277 to implement this chapter. All administrative rules of the
+278 former Alabama Behavior Analyst Licensing Board existing on
+279 the effective date of the act adding this amendatory language,
+280 which reference this chapter, unless in conflict with existing
+Page 10
+
+which reference this chapter, unless in conflict with existing
+281 law, shall remain in effect as rules of the Alabama Behavior
+282 Analyst Advisory Council until amended or repealed by the
+283 department.
+284 (i) The board department shall investigate all
+285 complaints relating to the practice of behavior analysis by
+286 any licensed behavior analyst, licensed assistant behavior
+287 analyst, or any individual alleged to be practicing or
+288 providing supervision without a state license.
+289 (1) The board department may fine, censure, revoke or
+290 deny a license, place on probation, reprimand, or otherwise
+291 discipline a licensee on any of the following grounds:
+292 a. Conviction of a crime that the board department, by
+293 rule, determines to be of a nature as to render the individual
+294 convicted unfit to practice as a behavior analyst.
+295 b. Violation of the professional and ethical compliance
+296 code or the rules of the board adopted pursuant to this
+297 chapter.
+298 c. Fraud or misrepresentation in obtaining a license.
+299 (2) The board Mental Health Commissioner may summarily
+300 suspend the license of a licensee who the board Mental Health
+301 Commissioner determines poses an imminent danger to the
+302 public. A hearing shall be held within 10 days after the
+303 suspension to determine whether the summary action was
+304 warranted.
+305 (3) No license may be denied, suspended, or revoked or
+306 an individual otherwise disciplined without prior notice and
+307 opportunity for hearing, except that the board Mental Health
+308 Commissioner, without prior notice of hearing, may take action
+Page 11
+
+Commissioner, without prior notice of hearing, may take action
+309 against any individual convicted of a crime listed in
+310 paragraph (1)a. No license may be denied, suspended, or
+311 revoked or an individual otherwise disciplined by the Mental
+312 Health Commissioner pursuant to this section except by vote of
+313 a majority of the membership of the board without a
+314 recommendation from the advisory council.
+315 (4) Any person may file a complaint with the board
+316 Mental Health Commissioner seeking the denial, suspension, or
+317 revocation of a license issued or pending issuance by the
+318 board department, or seeking to otherwise discipline an
+319 individual for any violation of this chapter or rules adopted
+320 by the board pursuant to this chapter. Complaints shall be in
+321 a form prescribed by the board Mental Health Commissioner. If
+322 the board Mental Health Commissioner determines that a
+323 complaint alleges facts that, if true, would require
+324 disciplinary action or denial, revocation, or suspension of a
+325 license, the board Mental Health Commissioner shall promptly
+326 institute a hearing. If the board advisory council determines
+327 that a complaint does not allege facts that warrant a hearing,
+328 the complaint may be dismissed by the board Mental Health
+329 Commissioner. The board Mental Health Commissioner, on its his
+330 or her own motion, may institute a hearing for disciplinary
+331 action or for the denial, suspension, or revocation of a
+332 license.
+333 (5) Any individual whose license has been suspended or
+334 revoked may apply to the board Mental Health Commissioner for
+335 vacation of the suspension or reinstatement of his or her
+336 license.
+Page 12
+
+license.
+337 (j) Upon finding that an individual governed by this
+338 chapter has practiced as a behavior analyst, advertised that
+339 he or she performs as a behavior analyst, or utilized a title
+340 or description denoting that he or she is a behavior analyst
+341 without first having obtained a license, the board Mental
+342 Health Commissioner may do any of the following:
+343 (1) Impose an administrative fine.
+344 (2) Issue a cease and desist order.
+345 (3) Petition the circuit court of the county where the
+346 act occurred to enforce the cease and desist order and collect
+347 the assessed fine.
+348 (k) A majority of the membership of the board advisory
+349 council shall constitute a quorum.
+350 (l) The board advisory council shall elect a chair from
+351 among its membership on an annual basis.
+352 (m) There is established a Commencing on the effective
+353 date of the act adding this amendatory language, the name of
+354 the separate special revenue fund in the State Treasury known
+355 as the Alabama Behavior Analyst Licensing Board Fund shall be
+356 renamed and then known as the Alabama Behavior Analyst
+357 Advisory Council Fund. All receipts collected by the board
+358 department pursuant to this chapter shall be deposited into
+359 this fund and used to the credit of the board for its
+360 operation and by the department to carry out this chapter.
+361 Receipts shall be disbursed only by warrant of the Comptroller
+362 drawn upon the State Treasury upon itemized vouchers approved
+363 by the chair. No funds shall be withdrawn except as budgeted
+364 and allotted according to Article 4 of Chapter 4 of Title 41
+Page 13
+
+and allotted according to Article 4 of Chapter 4 of Title 41
+365 and Chapter 19 of Title 41, and only in amounts as stipulated
+366 in the general appropriations bill or other appropriations
+367 bills."
+368 "§34-5A-4
+369 Each person individual desiring to obtain a license
+370 shall submit an application and authorized fees to the board
+371 Mental Health Commissioner. The application shall include
+372 evidence demonstrating that the applicant satisfies all of the
+373 following requirements:
+374 (1) Is of good moral character and conducts his or her
+375 professional activities in accordance with accepted
+376 professional and ethical standards, including:
+377 a. Compliance with the professional and ethical
+378 compliance code for behavior analysts of the certifying
+379 entity.
+380 b. Completion of a criminal background check pursuant
+381 to rule of the board rules adopted pursuant to this chapter.
+382 The cost of the criminal background check shall be paid by the
+383 applicant. An applicant shall submit to the board Mental
+384 Health Commissioner two complete sets of fingerprints and a
+385 form, sworn to by the applicant, containing his or her name,
+386 date of birth, and Social Security number for completion of
+387 the criminal background check. The board Mental Health
+388 Commissioner shall submit the fingerprints and form to the
+389 State Bureau of Investigations, or any entity contracted with
+390 for the purposes of furnishing criminal background checks, for
+391 a state criminal history record check. The board Mental Health
+392 Commissioner shall keep information received pursuant to this
+Page 14
+
+Commissioner shall keep information received pursuant to this
+393 section confidential, except that any information received and
+394 relied upon in denying the issuance of a license in this state
+395 may be disclosed if necessary to support the denial.
+396 (2) In addition to satisfying the requirements of
+397 subdivision (1), a licensed behavior analyst applicant shall
+398 also maintain active status as a national board certified
+399 behavior analyst, as recognized by the certifying entity,
+400 following passage of the national board certified behavior
+401 analyst examination.
+402 (3) In addition to satisfying the requirements of
+403 subdivision (1), a licensed assistant behavior analyst
+404 applicant shall also do all of the following:
+405 a. Maintain active status as a national board certified
+406 assistant behavior analyst, as recognized by the certifying
+407 entity, following passage of the national board certified
+408 assistant behavior analyst examination.
+409 b. Provide proof of ongoing supervision by a licensed
+410 behavior analyst who is a current national board certified
+411 behavior analyst in a manner consistent with the requirements
+412 of the certifying entity for supervision of national board
+413 certified assistant behavior analysts."
+414 "§34-5A-5
+415 A licensed or unlicensed national board certified
+416 behavior analyst or national board certified assistant
+417 behavior analyst residing and practicing in another state who
+418 temporarily provides behavior analysis services in this state
+419 or to a resident of this state, or both, may apply for a
+420 temporary license to practice behavior analysis in this state.
+Page 15
+
+temporary license to practice behavior analysis in this state.
+421 A temporary license is available only if the behavior analysis
+422 services are to be delivered during a limited and defined
+423 period, as defined by board rule."
+424 "§34-5A-6
+425 The board department shall issue a license to a person
+426 an individual who is actively licensed as a behavior analyst
+427 in another state that currently imposes comparable licensure
+428 licensing requirements as those imposed in this state and that
+429 offers reciprocity to individuals licensed under this chapter.
+430 An applicant for reciprocity shall submit proof of ethical
+431 compliance, including proof of current licensure licensing and
+432 current certification by the certifying entity, along with any
+433 other eligibility requirements, such as satisfactory passage
+434 of a criminal background check."
+435 "§34-5A-7
+436 (a) A license shall be granted for a period of two
+437 years and shall expire on December 31 in the second year.
+438 Before the expiration of a license, the license may be renewed
+439 upon submission of an application for renewal, including proof
+440 of continued certification by the certifying entity and
+441 payment of the renewal fee imposed by the board department.
+442 (b) All licenses issued pursuant to this chapter shall
+443 be subject to renewal and shall expire unless renewed in the
+444 manner prescribed by the rules of the board adopted pursuant
+445 to this chapter and upon the payment of a renewal fee. The
+446 board department may provide for a late renewal of a license
+447 upon payment of a late renewal fee if all conditions for
+448 renewal have been satisfied and upon payment of a late renewal
+Page 16
+
+renewal have been satisfied and upon payment of a late renewal
+449 fee. Any license which has not been renewed within two years
+450 following its expiration may not be renewed, restored, or
+451 reissued thereafter. The holder of an expired license may
+452 apply for and obtain a valid license only upon compliance with
+453 all relevant requirements for issuance of a new license.
+454 (c) A suspended license is subject to expiration and
+455 may be renewed as provided in this section. Renewal of a
+456 suspended license does not entitle the applicant, while the
+457 license remains suspended and until it is reinstated, to
+458 engage in licensed activity or in other conduct or activity in
+459 violation of a license revoked on disciplinary grounds. Except
+460 as otherwise provided in this chapter, a licensed behavior
+461 analyst or licensed assistant behavior analyst who desires to
+462 return to the active practice of applied behavior analysis
+463 shall submit an application for reinstatement and shall pay
+464 the nonrefundable reinstatement fee, and any late fee or
+465 penalty fees that may be applicable. The amount of the
+466 reinstatement fee and penalty shall be established by the rule
+467 of the board. The applicant shall meet the same requirements
+468 as were are necessary for initial licensure."
+469 Section 4. Section 34-5A-8, Code of Alabama 1975,
+470 subjecting the Alabama Behavior Analyst Licensing Board to the
+471 Alabama Sunset Law of 1981, is repealed.
+472 Section 5. The Legislature concurs in the
+473 recommendations of the Sunset Committee as provided in
+474 Sections 1, 2, 3, and 4.
+475 Section 6. This act shall become effective immediately.
+Page 17

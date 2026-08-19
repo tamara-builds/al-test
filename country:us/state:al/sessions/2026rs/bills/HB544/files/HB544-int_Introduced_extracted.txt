@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB544 INTRODUCED
+1 HB544
+2 XDU5L77-1
+3 By Representative Shaw
+4 RFD: Financial Services
+5 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+XDU5L77-1 03/02/2026 JWB (L)JWB 2026-1150
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would authorize governmental entities
+6 to pay for contracts, if requested by the vendor or
+7 contractor, using payment stablecoins.
+8 This bill would authorize the Alabama Securities
+9 Commission to recognize certain payment stablecoins for
+10 governmental use.
+11 This bill would also require the governmental
+12 entity to provide certain disclosures to vendors and
+13 contractors before executing a contract where a payment
+14 stablecoin is used as payment.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to cryptocurrency; to authorize the Alabama
+22 Securities Commission to recognize certain payment stablecoins
+23 for use by governmental entities; to authorize governmental
+24 entities to pay vendors and contractors using payment
+25 stablecoins; and to require governmental entities to give
+26 certain disclosures when paying vendors or contractors using
+27 payment stablecoins.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+HB544 INTRODUCED
+29 Section 1. (a) For purposes of this section, the
+30 following terms have the following meanings:
+31 (1) COMMISSION. The Alabama Securities Commission.
+32 (2) GENIUS ACT. The Guiding and Establishing National
+33 Innovation for U.S. Stablecoins Act, 12 U.S.C. §§ 5901-5916.
+34 (3) GOVERNMENTAL ENTITY. Any state or local agency or
+35 instrumentality located in the state.
+36 (4) PAYMENT STABLECOIN. A digital asset or assets
+37 designed to maintain a stable value that is, or is designed to
+38 be, used as a means of payment or settlement. The issuer of
+39 the payment stablecoin:
+40 a. Is obligated to convert, redeem, or repurchase the
+41 payment stablecoin for a fixed amount of monetary value; and
+42 b. Represents, or creates the reasonable expectation,
+43 that the payment stablecoin will maintain a stable value
+44 relative to the value of a fixed amount of monetary value.
+45 (b)(1) Governmental entities may use the following
+46 types of payment stablecoins to make payments to vendors or
+47 contractors for contracted goods or services:
+48 a. Payment stablecoins approved by the commission for
+49 use by governmental entities pursuant to subsection (c).
+50 b. Payment stablecoins issued by payment stablecoin
+51 issuers that are authorized by a federal governmental entity
+52 pursuant to the GENIUS Act.
+53 (2) Vendors and contractors may elect to receive
+54 payment in an authorized payment stablecoin. If the vendor or
+55 contractor elects to receive payment in a payment stablecoin,
+56 the payment shall be enforceable as satisfaction of the
+Page 2
+
+the payment shall be enforceable as satisfaction of the
+HB544 INTRODUCED
+57 monetary obligations owed by the state. No vendor or
+58 contractor shall be required to accept payment stablecoin as
+59 consideration.
+60 (c) The commission may recognize and authorize any
+61 payment stablecoin that complies with the following
+62 requirements:
+63 (1) The payment stablecoin is issued by a person that
+64 is incorporated and headquartered in the United States.
+65 (2) The payment stablecoin issuer has corporate
+66 founders and controlling shareholders who are United States
+67 citizens.
+68 (3) The payment stablecoin is fully backed on a
+69 one-to-one basis by the United States dollar or short-term
+70 United States Treasury obligations.
+71 (4) The stablecoin issuer maintains reserves held in
+72 accounts with United States-chartered banks or federally
+73 regulated custodians.
+74 (5) The payment stablecoin is redeemable at par value
+75 on demand by the holder.
+76 (6) The payment stablecoin is subject to quarterly
+77 independent attestations by an accounting firm registered with
+78 the Public Company Accounting Oversight Board.
+79 (7) The payment stablecoin issuer publishes monthly
+80 reserve reports disclosing asset composition and location.
+81 (8) The payment stablecoin issuer and payment
+82 stablecoin both operate in compliance with the GENIUS Act and
+83 all regulations issued thereunder.
+84 (d) The commission shall not authorize any payment
+Page 3
+
+(d) The commission shall not authorize any payment
+HB544 INTRODUCED
+85 stablecoin if the payment stablecoin is:
+86 (1) Issued by any entity that is headquartered outside
+87 the United States;
+88 (2) Issued by any entity that is controlled by
+89 individuals who are not citizens of the United States;
+90 (3) Backed by synthetic assets, commodities, foreign
+91 currencies, or other digital assets; or
+92 (4) Issued by an entity that is not a permitted
+93 stablecoin issuer authorized by the commission or the federal
+94 government pursuant to the GENIUS Act.
+95 (e) The commission shall maintain a list of all payment
+96 stablecoins that may be used in government contracting
+97 pursuant to subsection (b) and shall publish the list on the
+98 commission's website.
+99 (f) The commission shall conduct an annual review of
+100 all payment stablecoins authorized pursuant to subsection (c)
+101 and may suspend or revoke recognition of any payment
+102 stablecoin that fails to meet the requirements in subsections
+103 (c) and (d).
+104 (g) Before executing an agreement to pay vendors and
+105 contractors with a payment stablecoin under this section, the
+106 governmental entity shall provide a disclosure to the vendor
+107 or contractor that outlines the redemption rights and
+108 procedures of the applicable payment stablecoin, the reserve
+109 backing and audit requirements for payment stablecoins under
+110 this section and the GENIUS Act, and the risks that are
+111 associated with digital asset custody and use.
+112 (h) The commission shall adopt rules to implement and
+Page 4
+
+(h) The commission shall adopt rules to implement and
+HB544 INTRODUCED
+113 administer this section.
+114 Section 2. This act shall become effective on October
+115 1, 2026.
+Page 5

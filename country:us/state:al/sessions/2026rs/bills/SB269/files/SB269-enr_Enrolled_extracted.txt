@@ -1,0 +1,444 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB269 ENROLLED
+1 SB269
+2 XD1P9Z7-3
+3 By Senator Singleton
+4 RFD: Banking and Insurance
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+SB269 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to health insurance; to set requirements on
+5 reimbursement rates by health care insurers for ground
+6 ambulance services; to provide that the established
+7 reimbursement rate is payment in full for ground ambulance
+8 services; to impose reporting requirements by emergency
+9 medical service providers that provide ground ambulance
+10 services and health care insurers to the Alabama Department of
+11 Public Health; to provide for a report on the effects of this
+12 act, with recommendations for improving access to emergency
+13 medical transport; and to provide for the repeal of this act.
+14 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+15 Section 1. For the purposes of this act, the following
+16 words have the following meanings:
+17 (1) CLEAN CLAIM. A clean electronic claim or a clean
+18 written claim.
+19 (2) CLEAN ELECTRONIC CLAIM. As defined in Section
+20 27-1-17, Code of Alabama 1975.
+21 (3) CLEAN WRITTEN CLAIM. As defined in Section 27-1-17,
+22 Code of Alabama 1975.
+23 (4) COLLECTION. Any written or oral communication made
+24 to an enrollee for the purpose of obtaining payment for the
+25 services rendered by an emergency medical service provider,
+26 including invoicing and legal debt collection efforts.
+27 (5) COST-SHARING AMOUNT. The enrollee's deductible,
+28 coinsurance, copayment, or other amount due under a health
+Page 1
+
+coinsurance, copayment, or other amount due under a health
+SB269 Enrolled
+29 care benefit plan for covered services.
+30 (6) COVERED SERVICES or COVERED SERVICE. Transport or
+31 medical services provided by the ground ambulance of an
+32 emergency medical service provider which are covered by an
+33 enrollee's health care benefit plan, which may include
+34 emergency ground transport and treat in place.
+35 (7) EMERGENCY GROUND TRANSPORT. a. When an enrollee is
+36 transported by an emergency medical service provider to a
+37 hospital or definitive care facility as defined in Section
+38 22-18-1, Code of Alabama 1975, and which may include basic
+39 life support or advanced life support, in response to a
+40 medical condition described in paragraph b.
+41 b. An event as defined by the Centers for Medicare and
+42 Medicaid Services (CMS) that manifests itself by acute
+43 symptoms of sufficient severity, including severe pain, such
+44 that a prudent layperson, who possesses an average knowledge
+45 of health and medicine, could reasonably expect the absence of
+46 immediate medical attention to result in:
+47 1. Placing the patient's health in serious jeopardy;
+48 2. Serious impairment to bodily functions; or
+49 3. Serious dysfunction of any bodily organ or part.
+50 (8) EMERGENCY MEDICAL SERVICE PROVIDER or PROVIDER. Any
+51 public or private organization that is licensed to provide
+52 emergency medical services as defined in Section 22-18-1, Code
+53 of Alabama 1975.
+54 (9) ENROLLEE. An individual who is covered by a health
+55 care benefit plan.
+56 (10) HEALTH CARE BENEFIT PLAN. The term includes any
+Page 2
+
+(10) HEALTH CARE BENEFIT PLAN. The term includes any
+SB269 Enrolled
+57 individual or group plan, policy, or contract issued,
+58 delivered, or renewed in this state by a health care insurer
+59 to provide, deliver, arrange for, pay for, or reimburse health
+60 care services, including those provided by an emergency
+61 medical service provider, except for payments for health care
+62 made under an automobile or homeowners' insurance plan,
+63 accident-only plan, specified disease plan, long-term care
+64 plan, supplemental hospital or fixed indemnity plan, dental or
+65 vision plan, or Medicaid.
+66 (11) HEALTH CARE INSURER. Any entity that issues or
+67 administers a health care benefit plan, including a health
+68 care insurer, a health care services plan incorporated under
+69 Chapter 20 of Title 10A, Code of Alabama 1975, a health
+70 maintenance organization established under Chapter 21A of
+71 Title 27, Code of Alabama 1975, or a nonprofit agricultural
+72 organization that offers health benefits to its membership
+73 pursuant to Chapter 33 of Title 2, Code of Alabama 1975.
+74 (12) IN-NETWORK. When an emergency medical service
+75 provider is in a contract with a health care insurer to
+76 provide covered services in the health care insurer's provider
+77 network.
+78 (13) OUT-OF-NETWORK. When an emergency medical service
+79 provider does not have a contract with a health care insurer
+80 to provide covered services in the health care insurer's
+81 provider network.
+82 (14) TREAT IN PLACE. An emergency response event in
+83 which an emergency medical service provider that would
+84 otherwise provide the emergency ground transport assesses an
+Page 3
+
+otherwise provide the emergency ground transport assesses an
+SB269 Enrolled
+85 enrollee and renders basic life support at his or her location
+86 without emergency ground transport.
+87 Section 2. (a)(1) A health care insurer shall contract
+88 with any willing emergency medical service provider to provide
+89 covered services in the health care insurer's provider network
+90 under terms extended to comparable providers that are
+91 in-network.
+92 (2) An in-network provider shall meet licensing
+93 requirements provided by law.
+94 (b)(1) Beginning October 1, 2026, the minimum
+95 reimbursement from a health insurer to an emergency medical
+96 service provider that is in-network for emergency ground
+97 transport shall be 200 percent of the Medicare Ambulance Fee
+98 Schedule rate as published by the Centers for Medicare &
+99 Medicaid Services (CMS).
+100 (2)a. Beginning January 1, 2027, the minimum
+101 reimbursement from a health insurer to an emergency medical
+102 service provider that is in-network for treat in place shall
+103 be 200 percent of the Medicare Ambulance Fee Schedule rate for
+104 basic life support as published by CMS which is in effect on
+105 January 1, 2027.
+106 b. Submission of a claim for reimbursement for treat in
+107 place is prohibited if the emergency medical service provider
+108 has submitted a claim for emergency ground transport for the
+109 same event or occurrence.
+110 (c)(1) Beginning January 1, 2027, the minimum
+111 reimbursement amount from a health care insurer to an
+112 emergency medical service provider that is out-of-network for
+Page 4
+
+emergency medical service provider that is out-of-network for
+SB269 Enrolled
+113 covered services shall be 180 percent of the Medicare
+114 Ambulance Fee Schedule rate as published by CMS.
+115 (2) The minimum reimbursement rate for treat in place
+116 provided in paragraph (b)(2)a. shall not apply to an
+117 out-of-network emergency medical service provider.
+118 (d)(1) For purposes of this section, the Medicare
+119 Ambulance Fee Schedule rate shall be the rate applicable to
+120 zip code 35462, including the applicable Medicare base rate
+121 and mileage components.
+122 (2) The reimbursement rate established under this
+123 section shall be applied uniformly on a statewide basis,
+124 without regard to the geographic locality, population density,
+125 or zip code in which the ground ambulance service is
+126 furnished.
+127 Section 3. (a)(1) Payment in accordance with Section 2
+128 shall be payment in full for covered services.
+129 (2) An emergency medical service provider, whether
+130 in-network or out-of-network, including the provider's agent,
+131 contractor, or assignee, may not bill or seek collection of
+132 any amount from an enrollee except for the enrollee's
+133 in-network cost-sharing amount.
+134 (3) The health care insurer shall certify an enrollee's
+135 in-network cost-sharing amount to an out-of-network provider
+136 upon request.
+137 (b)(1) Not later than 30 days after receipt of a clean
+138 electronic claim, or not later than 45 days after receipt of a
+139 clean written claim, a health care insurer shall remit payment
+140 to an out-of-network emergency medical service provider and
+Page 5
+
+to an out-of-network emergency medical service provider and
+SB269 Enrolled
+141 shall not send payment to an enrollee.
+142 (2) If a claim for reimbursement submitted by an
+143 emergency medical service provider to a health care insurer is
+144 not a clean claim, not later than 30 days after receiving the
+145 claim, the health care insurer shall send the provider a
+146 written receipt acknowledging the claim, accompanied with one
+147 of the following applicable statements:
+148 a. The insurer is declining to pay all or a part of the
+149 claim, with the specific reason for the denial.
+150 b. Additional information is necessary to determine if
+151 the claim is payable, with the specific additional information
+152 that is required.
+153 (3) In no event shall a health care insurer require the
+154 provider to submit either of the following as a condition to
+155 the acceptance and processing of an initial claim as a clean
+156 claim:
+157 a. Data elements in excess of those required on the
+158 standard electronic health insurance claim format designated
+159 by Section 27-1-16, Code of Alabama 1975.
+160 b. Information or data elements in excess of those
+161 required on the standard health insurance claim form
+162 designated by Section 27-1-16, Code of Alabama 1975.
+163 (4) Any dispute between a health care insurer and an
+164 emergency medical service provider over the amount to be paid,
+165 or over full or partial denial of a claim, may be settled by:
+166 a. Affording the provider access to the insurer's
+167 internal forum for resolving provider disputes concerning
+168 coverage and reimbursement amounts; and
+Page 6
+
+coverage and reimbursement amounts; and
+SB269 Enrolled
+169 b. If the dispute is not resolved in the insurer's
+170 internal forum, submission of the dispute to an independent
+171 dispute resolution contractor selected by mutual agreement of
+172 the insurer and the provider.
+173 Section 4. (a) Beginning in the year 2027, and in each
+174 year thereafter, an emergency medical service provider shall
+175 submit to the Alabama Department of Public Health a report
+176 that includes, but is not limited to, the following
+177 information for the preceding calendar year:
+178 (1) The number and type of emergency medical service
+179 vehicles that are in service.
+180 (2) The number of employees, both full-time and
+181 part-time, classified by position or emergency medical service
+182 provider license classification.
+183 (3) The total number of ground ambulance transports
+184 rendered.
+185 (4) The average response time for collecting and
+186 transporting a patient to a definitive care facility.
+187 (5) The gross income received by the emergency medical
+188 service provider in the State of Alabama and the net profit.
+189 (6) If the emergency medical service provider
+190 distributes ownership shares to the public, the number and
+191 amount of dividends issued.
+192 (7) For the calendar year 2027, the amount of receipts
+193 collected by the emergency medical service provider that are
+194 remitted to a parent entity, both before and after
+195 implementation of any change in payment or reimbursement by a
+196 health care insurer.
+Page 7
+
+health care insurer.
+SB269 Enrolled
+197 (8) For the calendar year 2027, the amount paid or
+198 reimbursed to an emergency medical service provider by health
+199 care insurers, presented on a monthly or quarterly basis.
+200 (b)(1) In the year 2027, a health care insurer shall
+201 submit to the Alabama Department of Public Health a report on
+202 claims for reimbursement submitted by emergency medical
+203 service providers which presents, for each of the three
+204 calendar years preceding January 1, 2027:
+205 a. The number of denied claims;
+206 b. The aggregate dollar value of denied claims;
+207 c. The percentage of denied claims to approved claims;
+208 d. The applicable out-of-pocket charge under each
+209 health care benefit plan issued by the health care insurer on
+210 an approved claim for covered services; and
+211 e. The total amount paid on claims for covered
+212 services, including in comparison to the total amount paid out
+213 on all claims for health care services.
+214 (2) Beginning in the year 2028, and in each year
+215 thereafter, a health care insurer shall submit to the Alabama
+216 Department of Public Health a report that includes, but may
+217 not be limited to, each item of information required under
+218 subdivision (1) for the preceding calendar year.
+219 (c) The financial information required for submission
+220 under subsections (a) and (b) shall be confidential and may
+221 not be made public by the Alabama Department of Public Health
+222 or any contractor of the department.
+223 (d) The Alabama Department of Public Health shall adopt
+224 rules to implement this section, and may prescribe reporting
+Page 8
+
+rules to implement this section, and may prescribe reporting
+SB269 Enrolled
+225 periods, deadlines, or formatting of information to be
+226 reported, and may require an emergency medical service
+227 provider or health care insurer to submit operational and
+228 financial data or information in addition to the information
+229 required under subsections (a) and (b).
+230 Section 5. (a) The Alabama Association of Ambulance
+231 Services shall contract with a business school, accredited by
+232 the Association to Advance Collegiate Schools of Business,
+233 located at a doctoral granting regional institution with
+234 research college and university Carnegie classification
+235 status, which has expertise in risk management and insurance,
+236 to study the impact of Sections 1 through 4 on the provision
+237 of emergency medical services.
+238 (b) The consultant shall produce a report on the
+239 findings, which shall not exceed fifty thousand dollars
+240 ($50,000) in cost, the cost to be borne by the three largest
+241 health care insurers as measured by the number of enrollees in
+242 the state, and which also offer individual health care benefit
+243 plans on the Health Insurance Marketplace.
+244 (c) In addition to findings on the impact of Sections 1
+245 through 4 on the provision of emergency medical services, the
+246 report shall include, but not be limited to, the following:
+247 (1) Measures taken by other states on the provision of
+248 emergency medical services and the effectiveness of those
+249 measures.
+250 (2) Recommendations of measures that would balance the
+251 goals of ensuring adequate access to emergency medical
+252 services with the cost burden of such measures on the state,
+Page 9
+
+services with the cost burden of such measures on the state,
+SB269 Enrolled
+253 its employers, and residents.
+254 (d) The report shall be submitted to the President Pro
+255 Tempore of the Senate and the Speaker of the House of
+256 Representatives no later than December 1, 2028.
+257 Section 6. Sections 1 through 5 are repealed on June 1,
+258 2029.
+259 Section 7. Sections 10A-20-6.16 and 27-21A-23, Code of
+260 Alabama 1975, are amended to read as follows:
+261 "§10A-20-6.16
+262 (a) No statute of this state applying to insurance
+263 companies shall be applicable to any corporation organized
+264 under this article and amendments thereto or to any contract
+265 made by the corporation; except the corporation shall be
+266 subject to the following:
+267 (1) The provisions regarding annual premium tax to be
+268 paid by insurers on insurance premiums.
+269 (2) Chapter 55 of Title 27.
+270 (3) Article 2 and Article 3 of Chapter 19 of Title 27.
+271 (4) Section 27-1-17.
+272 (5) Chapter 56 of Title 27.
+273 (6) Rules adopted by the Commissioner of Insurance
+274 pursuant to Sections 27-7-43 and 27-7-44.
+275 (7) Chapter 54 of Title 27.
+276 (8) Chapter 57 of Title 27.
+277 (9) Chapter 58 of Title 27.
+278 (10) Chapter 59 of Title 27.
+279 (11) Chapter 54A of Title 27.
+280 (12) Chapter 12A of Title 27.
+Page 10
+
+(12) Chapter 12A of Title 27.
+SB269 Enrolled
+281 (13) Chapter 2B of Title 27.
+282 (14) Chapter 29 of Title 27.
+283 (15) Chapter 62 of Title 27.
+284 (16) Chapter 63 of Title 27.
+285 (17) Chapter 45A of Title 27.
+286 (18) Sections 1 through 5.
+287 (b) The provisions in subsection (a) that require
+288 specific types of coverage to be offered or provided shall not
+289 apply when the corporation is administering a self-funded
+290 benefit plan or similar plan, fund, or program that it does
+291 not insure."
+292 "§27-21A-23
+293 (a) Except as otherwise provided in this chapter,
+294 provisions of the insurance law and provisions of health care
+295 service plan laws shall not be applicable to any health
+296 maintenance organization granted a certificate of authority
+297 under this chapter. This provision shall not apply to an
+298 insurer or health care service plan licensed and regulated
+299 pursuant to the insurance law or the health care service plan
+300 laws of this state except with respect to its health
+301 maintenance organization activities authorized and regulated
+302 pursuant to this chapter.
+303 (b) Solicitation of enrollees by a health maintenance
+304 organization granted a certificate of authority shall not be
+305 construed to violate any provision of law relating to
+306 solicitation or advertising by health professionals.
+307 (c) Any health maintenance organization authorized
+308 under this chapter shall not be deemed to be practicing
+Page 11
+
+under this chapter shall not be deemed to be practicing
+SB269 Enrolled
+309 medicine and shall be exempt from the provisions of Section
+310 34-24-310, et seq., relating to the practice of medicine.
+311 (d) No person participating in the arrangements of a
+312 health maintenance organization other than the actual provider
+313 of health care services or supplies directly to enrollees and
+314 their families shall be liable for negligence, misfeasance,
+315 nonfeasance, or malpractice in connection with the furnishing
+316 of such services and supplies.
+317 (e) Nothing in this chapter shall be construed in any
+318 way to repeal or conflict with any provision of the
+319 certificate of need law.
+320 (f) Notwithstanding the provisions of subsection (a), a
+321 health maintenance organization shall be subject to all of the
+322 following:
+323 (1) Section 27-1-17.
+324 (2) Chapter 56.
+325 (3) Chapter 54.
+326 (4) Chapter 57.
+327 (5) Chapter 58.
+328 (6) Chapter 59.
+329 (7) Rules adopted by the Commissioner of Insurance
+330 pursuant to Sections 27-7-43 and 27-7-44.
+331 (8) Chapter 12A.
+332 (9) Chapter 54A.
+333 (10) Chapter 2B.
+334 (11) Chapter 29.
+335 (12) Chapter 62.
+336 (13) Chapter 63.
+Page 12
+
+(13) Chapter 63.
+SB269 Enrolled
+337 (14) Chapter 45A.
+338 (15) Sections 1 through 5."
+339 Section 8. This act shall become effective on October
+340 1, 2026.
+Page 13
+
+1, 2026.
+SB269 Enrolled
+341
+342
+343
+344
+345
+346
+347 ________________________________________________
+348 President and Presiding Officer of the Senate
+349
+350
+351
+352 ________________________________________________
+353 Speaker of the House of Representatives
+354
+355
+356 SB269
+357 Senate 03-Mar-26
+358 I hereby certify that the within Act originated in and passed
+359 the Senate, as amended.
+360
+361 Patrick Harris,
+362 Secretary.
+363
+364
+365
+366
+367 House of Representatives
+368 Passed: 31-Mar-26
+369
+370
+371
+372
+373 By: Senator Singleton
+Page 14

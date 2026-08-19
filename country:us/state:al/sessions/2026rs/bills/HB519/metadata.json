@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB519",
+  "title": "Lowndes County, pari-mutuel wagering on simulcast past events and live horse and dog races under certain conditions; tax levied; distribution of revenue, provided",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Lowndes County"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Lowndes County"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-hb519"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Pending Committee Action in House of Origin (Economic Development and Tourism)",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Economic Development and Tourism",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lawrence",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lawrence\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB519-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "24834127"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "text_extraction_latest_update": "2026-07-21T20:49:34.404793Z"
+  }
+}

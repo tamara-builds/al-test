@@ -1,0 +1,217 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB603 INTRODUCED
+1 HB603
+2 9JH9CBP-1
+3 By Representatives DuBose, Collins
+4 RFD: Education Policy
+5 First Read: 10-Mar-26
+Page 0
+
+First Read: 10-Mar-26
+9JH9CBP-1 03/10/2026 OW (L)cr 2025-3415
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, educator preparation
+6 providers (EPPs) and Alternative Teacher Preparation
+7 Organizations (ATPOs) are state-approved entities that
+8 are responsible for preparing educators for
+9 certification.
+10 This bill would require the State Department of
+11 Education, in collaboration with the State Board of
+12 Education and the Alabama Commission on Higher
+13 Education, to revise and annually update a teacher
+14 preparation report card evaluating the performance of
+15 each EPP and ATPO.
+16 This bill would require the department to
+17 prominently publish the teacher preparation report
+18 cards on the department's official website.
+19 This bill would require EPPs, ATPOs, and other
+20 stakeholders to annually provide the department with
+21 data for the report cards.
+22 This bill would require the department to create
+23 a standard survey for program completers and the
+24 employers of program completers to assess satisfaction
+25 with teacher preparation.
+26 This bill would require the board to annually
+27 review the report cards to determine if interventions
+28 or support is needed for each EPP or ATPO.
+Page 1
+
+or support is needed for each EPP or ATPO.
+HB603 INTRODUCED
+29 This bill would also allocate funding to the
+30 department to implement the provisions effectively.
+31
+32
+33 A BILL
+34 TO BE ENTITLED
+35 AN ACT
+36
+37 Relating to teacher certification preparation programs;
+38 to require the State Department of Education, in collaboration
+39 with the State Board of Education and the Alabama Commission
+40 on Higher Education, to publish a teacher preparation report
+41 card evaluating the performance of each Educator Preparation
+42 Provider (EPP) and Alternative Teacher Preparation
+43 Organization (ATPO); to require the department to prominently
+44 publish the report cards on the department's official website;
+45 to require EPPs, ATPOs, and other stakeholders to annually
+46 provide the department with data for the report cards; to
+47 require the department to create a survey to assess program
+48 completion satisfaction with program completers and teacher
+49 preparation programs; to require annual review of the report
+50 cards by the department; and to allocate funding for
+51 implementation.
+52 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+53 Section 1. For the purposes of this act, the following
+54 terms have the following meanings:
+55 (1) ALTERNATIVE TEACHER PREPARATION ORGANIZATION
+56 (ATPO). An organization that the State Board of Education
+Page 2
+
+(ATPO). An organization that the State Board of Education
+HB603 INTRODUCED
+57 deems qualified to offer certification programs to qualified
+58 individuals in the state in accordance with Section 16-23-3.1,
+59 Code of Alabama 1975.
+60 (2) BOARD. The State Board of Education.
+61 (3) DEPARTMENT. The State Department of Education.
+62 (4) EDUCATOR PREPARATION PROVIDER (EPP). Any
+63 state-approved teacher or principal education program,
+64 including public, private, and alternative certification
+65 providers, authorized by the state to provide teacher
+66 training.
+67 (5) ENDORSEMENT TYPE. The teaching field and grade
+68 levels a teacher is certified to teach.
+69 (6) PROGRAM COMPLETER. An individual who has completed
+70 all requirements for an approved program and who has been
+71 recommended to the State Department of Education for a
+72 professional educator certificate with the appropriate
+73 endorsements.
+74 (7) REPORT CARD. A teacher preparation report card.
+75 Section 2. It is the intent of the Legislature to
+76 codify and expand the work that the board and the department
+77 have already begun with educator report cards.
+78 Section 3. (a) The department, in collaboration with
+79 the board and the Alabama Commission on Higher Education,
+80 shall publish and annually update a report card that evaluates
+81 the performance of each EPP and ATPO.
+82 (b) The department shall make each report card easily
+83 accessible to the public on the department's official website
+84 by prominently displaying detailed metrics and summative
+Page 3
+
+by prominently displaying detailed metrics and summative
+HB603 INTRODUCED
+85 ratings of overall program performance in easy-to-read
+86 formats.
+87 (c) The report card shall focus on the preparedness and
+88 effectiveness of each EPP's and ATPO's program completers and
+89 shall include, but not be limited to, each of the following:
+90 (1) The number of program applicants, unconditional
+91 admits, conditional admits, enrollees, and program completers,
+92 disaggregated by candidate certificate type, endorsement type,
+93 and demographics.
+94 (2) The number of qualified applicants that apply but
+95 are denied admittance for each endorsement type.
+96 (3) Program admission criteria and enrollment profile,
+97 including, but not limited to, average grade point average and
+98 SAT or ACT score range.
+99 (4) First attempt pass rates by program enrollees, and
+100 all other attempt pass rates by program enrollees, in numbers
+101 and percentages, on exams or other assessments taken to
+102 fulfill the requirements of the Alabama Educator Certification
+103 Assessment Program (AECAP), disaggregated by endorsement type
+104 and demographics.
+105 (5) Employment outcomes for program completers,
+106 including at least the following measures specifically for
+107 program completers employed as classroom teachers in Alabama:
+108 a. Percentage of program completers employed as
+109 classroom teachers in Alabama within one year of program
+110 completion.
+111 b. Percentage of program completers teaching in-field
+112 versus out-of-field.
+Page 4
+
+versus out-of-field.
+HB603 INTRODUCED
+113 c. Percentage of program completers working in a public
+114 school setting, along with the district or local education
+115 agency of employment.
+116 d. Percentage teaching in a shortage teaching field.
+117 e. Percentage teaching in a location with a critical
+118 teaching shortage.
+119 (6) One-year and three-year retention rates of program
+120 completers employed as classroom teachers in Alabama.
+121 (7) Performance of program completers in at least the
+122 first three years working in the classroom, including
+123 evaluations and student performance data on state summative
+124 assessments.
+125 (8) Results of satisfaction surveys from program
+126 completers and the employers of program completers.
+127 (9) Review of standards and coursework for inclusion of
+128 evidence-based content and training, including, but not
+129 limited to, the science of reading, which shall include
+130 program alignment to the requirements of the Alabama Literacy
+131 Act pursuant to Chapter 6G of Title 16, Code of Alabama 1975;
+132 development of mathematic proficiency, which shall include
+133 program alignment to the requirements of the Alabama Numeracy
+134 Act pursuant to Chapter 6H of Title 16, Code of Alabama 1975;
+135 multiple evidence-based methods of instruction; and the number
+136 of clinical practice hours completed.
+137 Section 4. (a) EPPs, ATPOs, the Alabama Commission on
+138 Higher Education, local education agencies, and other relevant
+139 stakeholders shall annually provide the department with
+140 accurate and timely data for the metrics specified in Section
+Page 5
+
+accurate and timely data for the metrics specified in Section
+HB603 INTRODUCED
+141 3.
+142 (b) With input from stakeholders pursuant to subsection
+143 (a), the department shall develop and administer a survey at
+144 the end of the program completer's first year of teaching,
+145 designed to assess the satisfaction of program completers and
+146 the employers of program completers as to how well the EPP or
+147 ATPO prepared the program completer for certification and
+148 teaching.
+149 (c) The department shall ensure the confidentiality of
+150 individual candidate information by using appropriate data
+151 suppression thresholds in providing aggregate, public-facing
+152 data on the report card.
+153 (d) The department shall include the data collection
+154 and evaluation methodology clearly and publicly on the report
+155 card.
+156 (e) On an annual basis, the department shall provide
+157 each EPP and ATPO with a more granular report that includes
+158 field-level data, and where possible individual-level data,
+159 associated with each of the report card measures specified in
+160 Section 3, so that the EPP or ATPO can analyze program impact
+161 for accreditation purposes and make meaningful improvements to
+162 program structure and effectiveness.
+163 (f) Where possible, the department shall link data to
+164 existing educator reports and tools.
+165 Section 5. The board shall annually review each report
+166 card and, for each EPP and ATPO, determine whether
+167 intervention or support is needed based on the information in
+168 each report card. Intervention may include initiating a full
+Page 6
+
+each report card. Intervention may include initiating a full
+HB603 INTRODUCED
+169 approval review, which may result in probationary approval or
+170 denial.
+171 Section 6. Appropriate funding shall be allocated to
+172 the department to implement this act effectively.
+173 Section 7. This act shall become effective on October
+174 1, 2026.
+Page 7

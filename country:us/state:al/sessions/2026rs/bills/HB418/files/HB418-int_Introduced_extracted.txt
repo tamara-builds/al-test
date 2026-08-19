@@ -1,0 +1,408 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB418 INTRODUCED
+1 HB418
+2 PSLF3EG-1
+3 By Representative Stringer
+4 RFD: Commerce and Small Business
+5 First Read: 10-Feb-26
+Page 0
+
+First Read: 10-Feb-26
+PSLF3EG-1 02/09/2026 OW (L)cr 2026-735
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Self-Service Storage
+6 Facilities Act sets forth requirements for rental
+7 agreements of self-service storage facilities.
+8 This bill would permit rental agreements for
+9 self-service storage facilities to be delivered and
+10 executed electronically.
+11 This bill would permit the acceptance of a
+12 rental agreement if an occupant uses a leased space,
+13 after the lease agreement has been delivered by
+14 first-class mail or electronic means, for at least 30
+15 days without signing a lease agreement, obligating the
+16 occupant to the agreement without any notice provided.
+17 Also under the Self-Service Storage Facilities
+18 Act, operators of self-service storage facilities may
+19 remove the personal property of occupants who are in
+20 default and place the items in a suitable storage space
+21 pending its sale or other disposition.
+22 This bill would authorize operators of storage
+23 facilities to include a provision in the rental
+24 agreement notifying the occupant of the operator's
+25 right to dispose of an occupant's personal property
+26 left at the self-service storage facility for a certain
+27 amount of time after the end of the rental agreement.
+28 This bill would prohibit occupants from using a
+Page 1
+
+This bill would prohibit occupants from using a
+HB418 INTRODUCED
+29 self-service storage facility after a notice of
+30 termination or nonrenewal of the rental agreement has
+31 been delivered to the occupant.
+32 This bill would set an amount of time for
+33 occupants to remove personal property from a
+34 self-service storage facility following the termination
+35 or nonrenewal of the rental agreement.
+36 This bill would permit the operator to place
+37 certain reasonable restrictions on the occupant's use
+38 of the self-service storage facility after the rental
+39 agreement ends.
+40 This bill would authorize the operator to
+41 dispose of an occupant's personal property after a
+42 certain amount of time following the notice of
+43 termination or nonrenewal is delivered to the occupant.
+44 Also under existing law, notice of the sale of
+45 personal property of an occupant in default must be
+46 published in a newspaper of general circulation in the
+47 county where the storage facility is located, unless
+48 such a newspaper does not exist or the property is
+49 valued at $500 or less.
+50 This bill would also remove these publication
+51 requirements, requiring instead that the notice be
+52 published in any commercially reasonable manner.
+53
+54 A BILL
+55 TO BE ENTITLED
+56 AN ACT
+Page 2
+
+AN ACT
+HB418 INTRODUCED
+57
+58 Relating to the Self-Service Storage Facilities Act; to
+59 amend Sections 8-15-41, 8-15-44, 8-15-45, and 8-15-46, Code of
+60 Alabama 1975, to permit rental agreements for self-service
+61 storage facilities to be delivered and executed
+62 electronically; to permit the acceptance of a rental agreement
+63 if the occupant continues to use the leased space for a
+64 certain amount of time after delivery of the written rental
+65 agreement; to permit the inclusion of a provision in rental
+66 agreements notifying occupants of the operator's right to
+67 dispose of personal property left at the self-service storage
+68 facility; to prohibit an occupant from using his or her
+69 self-service storage facility after a notice of termination or
+70 nonrenewal has been delivered to the occupant; to provide
+71 occupants with an opportunity to remove personal property from
+72 a storage facility after notice of termination or nonrenewal
+73 has been delivered; to permit operators to impose reasonable
+74 restrictions on the occupant's use of the self-service storage
+75 facility after the rental agreement ends; to authorize
+76 operators to dispose of an occupant's personal property left
+77 at self-service storage facilities after a certain amount of
+78 time following the end of a rental agreement; and to require
+79 that notice of the sale of personal property of an occupant in
+80 default may be published in any commercially reasonable
+81 manner.
+82 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+83 Section 1. Sections 8-15-41, 8-15-44, 8-15-45, and
+84 8-15-46, Code of Alabama 1975, are amended to read as follows:
+Page 3
+
+8-15-46, Code of Alabama 1975, are amended to read as follows:
+HB418 INTRODUCED
+85 "§8-15-41
+86 For the purposes of this article, the following terms
+87 shall have the following meanings:
+88 (1) COMMERCIALLY REASONABLE SALE. A sale, conducted
+89 pursuant to this article, at the self-service storage
+90 facility, another suitable location selected by the operator,
+91 or on a publicly accessible website that conducts lien sales
+92 or personal property sales.
+93 (2) DEFAULT. The failure by the occupant to perform on
+94 time any obligation or duty set forth in a rental agreement or
+95 in this article.
+96 (3) ELECTRONIC MAIL. An electronic message or an
+97 executable program or computer file that contains an image of
+98 a message that is transmitted between two or more computers or
+99 electronic terminals and includes electronic messages that are
+100 transmitted within or between computer networks.
+101 (4) EMERGENCY. Any occurrence or circumstance at or
+102 near a self-service storage facility which requires immediate
+103 action to avoid injury to persons or damage to property at or
+104 near the self-service storage facility including, but not
+105 limited to, a fire.
+106 (5) LAST KNOWN ADDRESS. The postal address or
+107 electronic mail address provided by an occupant in a rental
+108 agreement or, subject to the requirements in a rental
+109 agreement, the postal address or electronic mail address
+110 provided by the occupant in a subsequent written notice of a
+111 change of address.
+112 (6) LATE FEE. Any fee or charge assessed for the
+Page 4
+
+(6) LATE FEE. Any fee or charge assessed for the
+HB418 INTRODUCED
+113 failure of an occupant to pay rent when due. The term does not
+114 include interest on a debt; expenses incurred in the
+115 collection of unpaid rent; expenses incurred for the
+116 preservation, sale, or disposition of personal property
+117 pursuant to this article; or costs associated with the
+118 enforcement of any other remedy provided by law or contract.
+119 (7) LEASED SPACE. The individual storage space at a
+120 self-service storage facility which is rented to an occupant
+121 pursuant to a rental agreement.
+122 (8) OCCUPANT. A person entitled to the use of leased
+123 space at a self-service storage facility under a rental
+124 agreement, or his or her successors or assigns.
+125 (9) OPERATOR. The owner, operator, lessor, or sublessor
+126 of a self-service storage facility, or an agent of any of the
+127 foregoing, or any other person authorized to manage the
+128 facility or to receive rent from an occupant under a rental
+129 agreement. The term does not include a warehouseman if the
+130 warehouseman issues a warehouse receipt, bill of lading, or
+131 other document of title for the personal property stored.
+132 (10) PERSONAL PROPERTY. Movable property not affixed to
+133 land. The term includes, but is not limited to, goods, wares,
+134 merchandise, motor vehicles, watercraft, household items, and
+135 furnishings.
+136 (11) PROPERTY WHICH THAT HAS NO COMMERCIAL VALUE.
+137 Property offered for sale in a commercially reasonable sale
+138 that receives no bid or offer.
+139 (12) RENTAL AGREEMENT. Any written agreement or lease
+140 that establishes or modifies the terms, conditions, or rules
+Page 5
+
+that establishes or modifies the terms, conditions, or rules
+HB418 INTRODUCED
+141 concerning the use and occupancy of leased space at a
+142 self-service storage facility.
+143 (13) SELF-SERVICE STORAGE FACILITY. Any real property
+144 used for renting or leasing individual storage spaces in which
+145 the occupants customarily store and remove their own personal
+146 property on a self-service basis.
+147 (14) VERIFIED MAIL. Any method of mailing offered by
+148 the United States Postal Service or private delivery service
+149 that provides evidence of the mailing."
+150 "§8-15-44
+151 (a) The operator of a self-service storage facility and
+152 the heirs, executors, administrators, successors, and assigns
+153 of the operator shall have a lien upon all of the personal
+154 property of an occupant located at the self-service storage
+155 facility for delinquent rent, late fees, labor, or other
+156 charges incurred pursuant to a rental agreement and for
+157 expenses incurred for preservation, sale, or disposition of
+158 the personal property. The lien provided for in this section
+159 is superior to any other lien or security interest, except for
+160 a tax lien as otherwise provided by law.
+161 (b) The lien described in subsection (a) attaches on
+162 the date on which personal property is placed in a leased
+163 space.
+164 (c) The rental agreement shall contain a statement, in
+165 bold type, advising the occupant of all of the following:
+166 (1) The existence of the lien.
+167 (2) That personal property stored in the leased space
+168 may be sold to satisfy the lien if the occupant is in default.
+Page 6
+
+may be sold to satisfy the lien if the occupant is in default.
+HB418 INTRODUCED
+169 (3) That the occupant must disclose any lienholders
+170 with an interest in property that is stored or will be stored
+171 in the leased space.
+172 (d) If the rental agreement specifies a limit on the
+173 value of personal property that the occupant may store in the
+174 leased space, the limit shall be deemed to be the maximum
+175 value of the personal property in the leased space of the
+176 occupant.
+177 (e) The rental agreement may provide for a reasonable
+178 late fee when the occupant is in default. A monthly late fee
+179 of twenty dollars ($20) or 20 percent of the monthly rental
+180 amount, whichever is greater, shall be considered reasonable
+181 and is not a penalty.
+182 (f) The rental agreement may be delivered and executed
+183 by first-class mail or electronic means.
+184 (g) If an occupant does not sign a written rental
+185 agreement that the operator has delivered to the occupant by
+186 first-class mail or electronic means, within 30 calendar days,
+187 then the occupant's continued use of the leased space for not
+188 less than 30 calendar days after the date the notice was
+189 delivered shall constitute an acceptance of the rental
+190 agreement with the same effect as if the agreement had been
+191 signed by the occupant."
+192 "§8-15-45
+193 (a) If the occupant is in default, the operator may
+194 deny the occupant access to the leased space at the
+195 self-service storage facility. The operator may enter and
+196 remove the personal property from the leased space to other
+Page 7
+
+remove the personal property from the leased space to other
+HB418 INTRODUCED
+197 suitable storage space pending its sale or other disposition.
+198 (b) The rental agreement may contain a provision
+199 notifying the occupant of the operator's right to dispose of
+200 personal property remaining at the self-service storage
+201 facility more than 15 days after the termination or nonrenewal
+202 of the rental agreement.
+203 (c) An occupant may not use a self-service storage
+204 facility after the operator has delivered a written notice by
+205 verified mail or electronic mail of the termination or
+206 nonrenewal of the occupant's rental agreement. The notice
+207 shall provide the occupant with not less than 15 calendar days
+208 after delivery of the notice to remove all personal property
+209 from the self-service storage facility.
+210 (d) Prior to the occupant's removal of all personal
+211 property, the operator may place reasonable restrictions on
+212 the occupant's use of the self-service storage facility,
+213 including denying access to the self-service storage facility
+214 except for the occupant to remove personal property during the
+215 operator's office hours. The operator may dispose of any
+216 personal property remaining at the self-service storage
+217 facility after the date provided in the written notice
+218 pursuant to subsection (c)."
+219 "§8-15-46
+220 (a) If an occupant is in default for a period of more
+221 than 30 days, the operator may enforce the lien granted in
+222 Section 8-15-44 by selling the stored personal property of the
+223 occupant. Sale of the personal property of an occupant may be
+224 by public or private proceedings. The personal property may be
+Page 8
+
+by public or private proceedings. The personal property may be
+HB418 INTRODUCED
+225 sold as a unit or in parcels, by way of one or more contracts,
+226 at any time or place, with bids or offers sealed or open, and
+227 on any terms as long as the sale is a commercially reasonable
+228 sale. The operator may otherwise dispose of any property which
+229 that has no commercial value.
+230 (b) Before conducting a sale under this section, the
+231 operator shall do all of the following:
+232 (1) At least 20 days before the sale, send notice of
+233 default to the occupant and any lienholder identified by the
+234 occupant in the rental agreement by verified mail or
+235 electronic mail pursuant to subsection (h). The notice of
+236 default shall include:
+237 a. A statement that the contents of the leased space
+238 are subject to the operator's lien.
+239 b. A statement of the operator's claim, indicating the
+240 charges due on the date of the notice, the amount of any
+241 additional charges which that shall become due before the date
+242 of sale, and the date the additional charges shall become due.
+243 c. A demand for payment of the charges due within a
+244 specified time, which shall not be less than 10 days after the
+245 date of the notice.
+246 d. A statement that unless the claim is paid within the
+247 time stated, the contents of the leased space will be sold or
+248 otherwise disposed of after a specified time.
+249 e. The name, street address, and telephone number of
+250 the operator or a designated agent whom the occupant may
+251 contact to respond to the notice.
+252 (2) At least seven days before the sale, an
+Page 9
+
+(2) At least seven days before the sale, an
+HB418 INTRODUCED
+253 advertisement containing the time, place, and terms of the
+254 sale shall be published once in a newspaper of general
+255 circulation in the county where the self-service storage
+256 facility is located in any commercially reasonable manner. A
+257 single advertisement listing multiple sales in a newspaper of
+258 general circulation in the county shall suffice. If no
+259 newspaper of general circulation is located in the county, or
+260 if the operator determines, based on the previous experience
+261 of the operator, that the contents of the leased space have a
+262 value of five hundred dollars ($500) or less, then an
+263 advertisement in any commercially reasonable manner shall
+264 suffice. The manner of advertisement is deemed commercially
+265 reasonable if it is likely to attract at least three
+266 independent bidders to attend or view the sale in person or
+267 online at the time and place advertised.
+268 (c) The operator may buy the personal property of the
+269 occupant at any public sale held pursuant to this section.
+270 (d) If the personal property subject to the operator's
+271 lien is a vehicle, watercraft, or trailer and rent and other
+272 charges remain unpaid the occupant is in default for 60 days,
+273 the operator may have the vehicle, watercraft, or trailer
+274 towed from the self-service storage facility. The operator
+275 shall not be liable for any damages to the vehicle,
+276 watercraft, or trailer once a licensed and bonded tower takes
+277 possession of the property. Removal of any vehicle,
+278 watercraft, or trailer from the self-service storage facility
+279 shall not release the operator's lien. The sale of a
+280 watercraft shall comply with Section 33-5A-4. Any provision of
+Page 10
+
+watercraft shall comply with Section 33-5A-4. Any provision of
+HB418 INTRODUCED
+281 this article to the contrary notwithstanding, unclaimed motor
+282 vehicles shall be reported in accordance with Section 32-8-84
+283 and abandoned motor vehicles shall be sold in accordance with
+284 Chapter 13 of Title 32.
+285 (e) At any time before a sale is held under this
+286 section or before a vehicle, watercraft, or trailer is towed
+287 under this section, the occupant may pay the amount necessary
+288 to satisfy the lien and redeem the personal property. The
+289 operator shall have no liability to any person with respect to
+290 personal property redeemed pursuant to this subsection.
+291 (f) In the event of a sale, the operator may satisfy
+292 the lien from the proceeds of the sale. The lien rights of
+293 secured lienholders are automatically transferred to the
+294 remaining proceeds of the sale, if any. If the sale is a
+295 commercially reasonable sale, the operator shall not be
+296 subject to any liability for a deficiency if the amount
+297 realized at the sale does not satisfy any secured lien, but
+298 shall hold the balance, if any, for delivery to the occupant
+299 or any secured lienholder, upon demand. If the occupant or
+300 secured lienholder, if any, does not claim the balance of the
+301 proceeds within one year after the date of sale, the balance
+302 shall become the property of the operator without further
+303 recourse by the occupant or secured lienholder.
+304 (g) A purchaser in good faith of any personal property
+305 sold pursuant to this section to satisfy the lien granted in
+306 Section 8-15-44 takes the property free and clear of any
+307 rights of persons against whom the lien was valid, despite
+308 noncompliance by the operator with the requirements of this
+Page 11
+
+noncompliance by the operator with the requirements of this
+HB418 INTRODUCED
+309 section. If the requirements of this article are not
+310 satisfied, if the sale of the personal property is not in
+311 conformity with the notice of sale, or if there is a willful
+312 violation of this article, nothing in this section affects the
+313 rights and liabilities of the owner, occupant, or any other
+314 person.
+315 (h) Notices to the occupant under subdivision (b)(1)
+316 shall be sent to the last known address of the occupant by
+317 verified mail or electronic mail. Notices sent by verified
+318 mail shall be deemed delivered when deposited with the United
+319 States Postal Service or private delivery service if they are
+320 properly addressed with postage prepaid. Notices sent by
+321 electronic mail shall be deemed delivered when an electronic
+322 message is sent to the last known address provided by the
+323 occupant. If the operator sends notice by electronic mail and
+324 receives an automated message stating that the electronic mail
+325 cannot be delivered, the operator shall send notice by
+326 verified mail to the last known address of the occupant with
+327 postage prepaid.
+328 (i) If the operator complies with the requirements of
+329 this section, the liability of the operator:
+330 (1) To the occupant, shall be limited to the net
+331 proceeds received from the sale of the personal property of
+332 the occupant less any proceeds paid to the holders of any lien
+333 or security interest of record on the personal property being
+334 sold.; and
+335 (2) To the holders of any lien or security interest of
+336 record on the personal property being sold, shall be limited
+Page 12
+
+record on the personal property being sold, shall be limited
+HB418 INTRODUCED
+337 to the net proceeds received from the sale of any personal
+338 property covered by the lien or security interest of the
+339 holder."
+340 Section 2. This act shall become effective on October
+341 1, 2026.
+Page 13

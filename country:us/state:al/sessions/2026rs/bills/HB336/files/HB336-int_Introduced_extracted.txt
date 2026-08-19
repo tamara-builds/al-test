@@ -1,0 +1,411 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB336 INTRODUCED
+1 HB336
+2 XD3HP7Z-1
+3 By Representatives McClammy, Gray, Hollis, McCampbell,
+4 Lawrence, Drummond, Forte, Clarke, Ensler, Lands, Travis,
+5 Tillman, Hendrix, Bracy, Jones, Givan, Sellers, Moore (M),
+6 Morris, Datcher, Chestnut, Warren, Hall, Hassell, Rafferty,
+7 Daniels, Boyd, England
+8 RFD: Ways and Means Education
+9 First Read: 27-Jan-26
+Page 0
+
+First Read: 27-Jan-26
+XD3HP7Z-1 01/13/2026 MRF (F)MRF 2026-184
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the state imposes sales or
+6 use taxes upon certain persons, firms, or corporations
+7 at a general rate of four percent. Sales of certain
+8 items are taxed at a reduced rate, including food,
+9 which is taxed at two percent.
+10 This bill would eliminate the state sales and
+11 use tax on food on September 1, 2026, and allow local
+12 governments to adopt companion exemptions for local
+13 sales and use taxes.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to sales and use taxes; to amend Sections
+21 40-23-2, 40-23-40, and 40-23-61, as last amended by Act
+22 2025-305, 2025 Regular Session, Code of Alabama 1975, to
+23 repeal the state sales and use tax rate on food on September
+24 1, 2026; to exempt food from state sales tax; and to provide
+25 for local opt-ins.
+26 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+27 Section 1. Sections 40-23-2, 40-23-40 and 40-23-61, as
+28 last amended by Act 2025-305, 2025 Regular Session, Code of
+Page 1
+
+last amended by Act 2025-305, 2025 Regular Session, Code of
+HB336 INTRODUCED
+29 Alabama 1975, are hereby amended as follows:
+30 "§40-23-2
+31 There is levied, in addition to all other taxes of
+32 every kind now imposed by law, and shall be collected as
+33 herein provided, a privilege or license tax against the person
+34 on account of the business activities and in the amount to be
+35 determined by the application of rates against gross sales, or
+36 gross receipts, as the case may be, as follows:
+37 (1) Upon every person, firm, or corporation, (including
+38 the State of Alabama and its Alcoholic Beverage Control Board
+39 in the sale of alcoholic beverages of all kinds, The
+40 University of Alabama, Auburn University, and all other
+41 institutions of higher learning in the state, whether the
+42 institutions be denominational, state, county, or municipal
+43 institutions, any association or other agency or
+44 instrumentality of the institutions), engaged or continuing
+45 within this state, in the business of selling at retail any
+46 tangible personal property whatsoever, including merchandise
+47 and commodities of every kind and character, (not including,
+48 however, bonds or other evidences of debts or stocks, nor
+49 sales of material and supplies to any person for use in
+50 fulfilling a contract for the painting, repair, or
+51 reconditioning of vessels, barges, ships, other watercraft,
+52 and commercial fishing vessels of over five tons load
+53 displacement as registered with the U.S. Coast Guard and
+54 licensed by the State of Alabama Department of Conservation
+55 and Natural Resources), an amount equal to four percent of the
+56 gross proceeds of sales of the business except where a
+Page 2
+
+gross proceeds of sales of the business except where a
+HB336 INTRODUCED
+57 different amount is expressly provided herein. Provided,
+58 however, that anyAny person engaging or continuing in business
+59 as a retailer and wholesaler or jobber shall pay the tax
+60 required on the gross proceeds of retail sales of the business
+61 at the rates specified, when his or her books are kept so as
+62 to show separately the gross proceeds of sales of each
+63 business, and when his or her books are not kept he or she
+64 shall pay the tax as a retailer, on the gross sales of the
+65 business.
+66 Where any used part, including tires of an automotive
+67 vehicle or a truck trailer, semitrailer, or house trailer, is
+68 taken in trade, or in a series of trades, as a credit or part
+69 payment on the sale of a new or rebuilt part or tire, the tax
+70 levied herein shall be paid on the net difference, that is,
+71 the price of the new or used part or tire sold less the credit
+72 for the used part or tire taken in trade, provided, however,
+73 this provision shall not be construed to include batteries.
+74 (2) Upon every person, firm, or corporation engaged or
+75 continuing within this state in the business of conducting or
+76 operating places of amusement or entertainment, billiard and
+77 pool rooms, bowling alleys, amusement devices, musical
+78 devices, theaters, opera houses, moving picture shows,
+79 vaudevilles, amusement parks, athletic contests, including
+80 wrestling matches, prize fights, boxing and wrestling
+81 exhibitions, football and baseball games, (including athletic
+82 contests, conducted by or under the auspices of any
+83 educational institution within this state, or any athletic
+84 association thereof, or other association whether the
+Page 3
+
+association thereof, or other association whether the
+HB336 INTRODUCED
+85 institution or association be a denominational, a state, or
+86 county, or a municipal institution, or association or a state,
+87 county, or city school, or other institution, association, or
+88 school), skating rinks, race tracks, golf courses, or any
+89 other place at which any exhibition, display, amusement, or
+90 entertainment is offered to the public or place or places
+91 where an admission fee is charged, including public bathing
+92 places and public dance halls of every kind and description
+93 within the State of Alabama, an amount equal to four percent
+94 of the gross receipts of any such business. Provided, however,
+95 notwithstandingNotwithstanding any language to the contrary in
+96 the prior portion of this subdivision, the tax provisions so
+97 specified shall not apply to any athletic event conducted by a
+98 public or nonpublic primary or secondary school or any
+99 athletic event conducted by or under the auspices of the
+100 Alabama High School Athletic Association. The tax amount that
+101 would have been collected pursuant to this subdivision shall
+102 continue to be collected by the public or nonpublic primary or
+103 secondary school, but shall be retained by the school that
+104 collected it and shall be used by the school for school
+105 purposes.
+106 (3) Upon every person, firm, or corporation engaged or
+107 continuing within this state in the business of selling at
+108 retail machines used in mining, quarrying, compounding,
+109 processing, and manufacturing of tangible personal property an
+110 amount equal to one and one-half percent of the gross proceeds
+111 of the sale of the machines. The term "machine," as herein
+112 used, shall include machinery that is used for mining,
+Page 4
+
+used, shall include machinery that is used for mining,
+HB336 INTRODUCED
+113 quarrying, compounding, processing, or manufacturing tangible
+114 personal property, and the parts of the machines, attachments,
+115 and replacements therefor, that are made or manufactured for
+116 use on or in the operation of the machines and that are
+117 necessary to the operation of the machines and are customarily
+118 so used.
+119 (4) Upon every person, firm, or corporation engaged or
+120 continuing within this state in the business of selling at
+121 retail any automotive vehicle or truck trailer, semitrailer,
+122 or house trailer, or mobile home set-up materials and
+123 supplies, including, but not limited to, steps, blocks,
+124 anchoring, cable pipes, and any other materials pertaining
+125 thereto, an amount equal to two percent of the gross proceeds
+126 of sale of the automotive vehicle or truck trailer,
+127 semitrailer, or house trailer, or mobile home set-up materials
+128 and supplies, provided, however, where a person subject to the
+129 tax provided for in this subdivision withdraws from his or her
+130 stock in trade any automotive vehicle or truck trailer,
+131 semitrailer, or house trailer for use by him or her or by his
+132 or her employee or agent in the operation of the business,
+133 there shall be paid, in lieu of the tax levied in this
+134 subdivision, a fee of five dollars ($5) per year or part
+135 thereof during which the automotive vehicle, truck trailer,
+136 semitrailer, or house trailer shall remain the property of the
+137 person. Each year or part thereof shall begin with the day or
+138 anniversary date, as the case may be, of such withdrawal and
+139 shall run for the 12 succeeding months or part thereof during
+140 which the automotive vehicle, truck trailer, semitrailer, or
+Page 5
+
+which the automotive vehicle, truck trailer, semitrailer, or
+HB336 INTRODUCED
+141 house trailer shall remain the property of the person.
+142 Where any used automotive vehicle or truck trailer,
+143 semitrailer, or house trailer is taken in trade or in a series
+144 of trades, as a credit or part payment on the sale of a new or
+145 used vehicle, the tax levied in this subdivision shall be paid
+146 on the net difference, that is, the price of the new or used
+147 vehicle sold less the credit for the used vehicle taken in
+148 trade.
+149 Sales of automobiles, motorcycles, trucks, truck
+150 trailers, travel trailers, campers, housecars, or semitrailers
+151 that will be registered or titled outside Alabama and that are
+152 exported or removed from Alabama within 72 hours by the
+153 purchaser or his or her agent for first use outside Alabama
+154 are subject to Alabama sales tax in an amount equal to only
+155 the state automotive sales tax rate, unless the sales tax laws
+156 of the state in which the purchaser will title or register the
+157 vehicle allows an Alabama resident to purchase a motor vehicle
+158 for first titling and registering in Alabama without the
+159 payment of tax to that state. However, in no case shall the
+160 amount of Alabama state sales tax due on a motor vehicle that
+161 will be registered or titled for use in another state exceed
+162 the amount of sales tax that would otherwise have been due in
+163 the state where the vehicle will be registered or titled for
+164 first use. In order to qualify as a travel trailer, camper, or
+165 housecar that will be registered or titled for use in another
+166 state, the purchaser must provide documentation to the seller
+167 that the purchaser is not a resident of Alabama as required by
+168 the Department of Revenue. No such proof is required in the
+Page 6
+
+the Department of Revenue. No such proof is required in the
+HB336 INTRODUCED
+169 sale of an automobile, motorcycle, truck, truck trailer, or
+170 semitrailer, excluding a travel trailer, camper, or housecar.
+171 The tax collected under this export provision shall be Alabama
+172 sales tax and shall exclude county and municipal sales tax. On
+173 January 1, 2016, and each January 1 thereafter, the Alabama
+174 Department of Revenue shall publish to the state's website a
+175 list of states that do not allow drive out provisions to
+176 Alabama residents. Should the list, required by this
+177 subdivision and relied upon by the taxpayer, be incorrect, the
+178 taxpayer shall be relieved from the liability concerning the
+179 miscollection of the state automotive sales tax. Sales of all
+180 other vehicles such as mobile homes, motor bikes, all terrain
+181 vehicles, and boats do not qualify for the export exemption
+182 provision and are taxable unless the dealer can provide
+183 factual evidence that the vehicle was delivered outside of
+184 Alabama or to a common carrier for transportation outside
+185 Alabama. In order for the sale to be exempt from Alabama tax,
+186 the information relative to the exempt sale shall be
+187 documented on forms approved by the Revenue Department of
+188 Revenue.
+189 Of the total two-cent ($.02)two cent ($0.02) tax on
+190 each dollar of sale provided in this subdivision, 58 percent
+191 of the total tax generated by this subdivision shall be
+192 deposited to the credit of the Education Trust Fund and 42
+193 percent of the total tax generated by this subdivision shall
+194 be deposited to the credit of the State General Fund.
+195 (5) Upon every person, firm, or corporation engaged or
+196 continuing within this state in the business of selling
+Page 7
+
+continuing within this state in the business of selling
+HB336 INTRODUCED
+197 through coin-operated dispensing machines, food and food
+198 products for human consumption, not including beverages other
+199 than coffee, milk, milk products, and substitutes therefor,
+200 there is levied a tax equal to three percent of the cost of
+201 the food, food products, and beverages sold through the
+202 machines, which cost for the purpose of this subdivision shall
+203 be the gross proceeds of sales of the business.
+204 (6) Upon every person, firm, or corporation engaged or
+205 continuing within this state in the business of selling food
+206 as defined in Section 40-23-1, there is a tax levied equal to
+207 three percent of the gross proceeds of the sale of food. On
+208 September 1, 2025, the tax rate shall be reduced to two
+209 percent."
+210 "§40-23-40
+211 (a) On June 15, 2023, the definition of "food" in
+212 Sections 40-23-1 and 40-23-60 shall apply to county and
+213 municipal sales and use taxes. For purposes of county and
+214 municipal sales and use taxes, the sales tax rate on food
+215 shall be established as the general or retail sales tax rate
+216 in effect in the county or municipality on June 15, 2023,
+217 unless otherwise provided by law. An act of the Legislature or
+218 an ordinance or resolution adopted by a county or municipal
+219 governing body levying a county or municipal sales and use tax
+220 inclusive of food passed or enacted on or before June 15,
+221 2023, shall remain operative, but no additional county or
+222 municipal sales and use taxes on food may be levied.
+223 (b) Any county or municipal governing body, by
+224 resolution or ordinance, may reduce the general or retail
+Page 8
+
+resolution or ordinance, may reduce the general or retail
+HB336 INTRODUCED
+225 sales tax rate on food for local sales and use taxes. The
+226 ordinance or resolution must be adopted at least 60 days prior
+227 to becoming effective and shall take effect on October 1
+228 following adoption.
+229 (c) A county or municipal governing body that reduces
+230 its general or retail sales tax rate on food for local sales
+231 and use taxes pursuant to this section may subsequently
+232 increase the rate on food not to exceed the rate in effect in
+233 the county or municipality on June 15, 2023, unless otherwise
+234 provided by law.
+235 (d) Any county or municipal governing body may exempt
+236 the gross proceeds from the sale of food from county or
+237 municipal sales and use taxes in accordance with Section
+238 40-23-4.01."
+239 "§40-23-61
+240 (a) An excise tax is hereby imposed on the storage,
+241 use, or other consumption in this state of tangible personal
+242 property, not including, however, materials and supplies
+243 bought for use in fulfilling a contract for the painting,
+244 repairing, or reconditioning of vessels, barges, ships, other
+245 watercraft, and commercial fishing vessels of over five tons
+246 load displacement as registered with the U.S. Coast Guard and
+247 licensed by the State of Alabama Department of Conservation
+248 and Natural Resources, purchased at retail on or after October
+249 1, 1965, for storage, use, or other consumption in this state
+250 at the rate of four percent of the sales price of the property
+251 or the amount of tax collected by the seller, whichever is
+252 greater; provided, however, when. When the seller follows the
+Page 9
+
+greater; provided, however, when. When the seller follows the
+HB336 INTRODUCED
+253 Department of Revenue's suggested use tax brackets and his or
+254 her records prove that his or her following the brackets
+255 resulted in a net undercollection of tax for the month, he or
+256 she may report the tax due or tax collected, whichever is
+257 less, except as provided in subsections (b) or, (c), and (d).
+258 (b) An excise tax is hereby imposed on the storage,
+259 use, or other consumption in this state of any machines used
+260 in mining, quarrying, compounding, processing, and
+261 manufacturing of tangible personal property, purchased at
+262 retail on or after October 1, 1965, at the rate of one and
+263 one-half percent of the sales price of any such machine or the
+264 amount of tax collected by the seller, whichever is greater;
+265 provided, however, when. When the seller follows the
+266 Department of Revenue's suggested use tax brackets and his or
+267 her records prove that his or her following the brackets
+268 resulted in a net undercollection of tax for the month, he or
+269 she may report the tax due or tax collected, whichever is
+270 less. The term "machine," as used in this subsection, shall
+271 include machinery that is used for mining, quarrying,
+272 compounding, processing, or manufacturing tangible personal
+273 property, and the parts of such machines, attachments, and
+274 replacements therefor, which are made or manufactured for use
+275 on or in the operation of such machines and which are
+276 necessary to the operation of such machines, and are
+277 customarily so used.
+278 (c)(1) An excise tax is hereby imposed on the storage,
+279 use, or other consumption in this state of any automotive
+280 vehicle or truck trailer, semitrailer, or house trailer, and
+Page 10
+
+vehicle or truck trailer, semitrailer, or house trailer, and
+HB336 INTRODUCED
+281 mobile home set-up materials and supplies, including, but not
+282 limited to, steps, blocks, anchoring, cable pipes, and any
+283 other materials pertaining thereto, purchased at retail on or
+284 after October 1, 1965, for storage, use, or other consumption
+285 in this state at the rate of two percent of the sales price of
+286 such automotive vehicle, truck trailer, semitrailer, or house
+287 trailer, and mobile home set-up materials and supplies as
+288 specified above, or the amount of tax collected by the seller,
+289 whichever is greater; provided, however, when. When the seller
+290 follows the Department of Revenue's suggested use tax brackets
+291 and his or her records prove that his or her following the
+292 brackets resulted in a net undercollection of tax for the
+293 month, he or she may report the tax due or tax collected,
+294 whichever is less. Where any used automotive vehicle or truck
+295 trailer, semitrailer, or house trailer is taken in trade, or
+296 in a series of trades, as a credit or part payment on the sale
+297 of a new or used vehicle, the tax levied herein shall be paid
+298 on the net difference, that is, the price of the new or used
+299 vehicle sold less the credit for the used vehicle taken in
+300 trade.
+301 (2) Of the total two cent ($.02)($0.02) tax on each
+302 dollar of sale provided in this subsection, 58 percent of the
+303 total tax generated by this subsection shall be deposited to
+304 the credit of the Education Trust Fund and 42 percent of the
+305 total tax generated by this subsection shall be deposited to
+306 the credit of the State General Fund.
+307 (d) An excise tax is hereby imposed on the storage,
+308 use, or other consumption in this state of food as defined in
+Page 11
+
+use, or other consumption in this state of food as defined in
+HB336 INTRODUCED
+309 Section 40-23-60, at the rate of three percent of the sales
+310 price of such food. On September 1, 2025, the tax rate shall
+311 be reduced to two percent.
+312 (e)(d) Every person storing, using, or otherwise
+313 consuming in this state tangible personal property purchased
+314 at retail shall be liable for the tax imposed by this article,
+315 and the liability shall not be extinguished until the tax has
+316 been paid to this state; provided, that a. A receipt from a
+317 retailer maintaining a place of business in this state or a
+318 retailer authorized by the department, under such rules as it
+319 may prescribe, to collect the tax imposed hereby and who shall
+320 for the purpose of this article be regarded as a retailer
+321 maintaining a place of business in this state, given to the
+322 purchaser in accordance with Section 40-23-67, shall be
+323 sufficient to relieve the purchaser from further liability for
+324 tax to which the receipt may refer.
+325 (f)(e) An excise tax is hereby imposed on the classes
+326 of tangible personal property, and at the rates imposed on
+327 such classes, specified in subsections (a), (b), or (c), and
+328 (d) on the storage, use, or other consumption in the
+329 performance of a contract in this state of any such tangible
+330 personal property, new or used, the tax to be measured by the
+331 sales price or the fair and reasonable market value of the
+332 tangible personal property when put into use in this state,
+333 whichever is less; provided, that the. The tax imposed by this
+334 subsection shall not apply where the taxes imposed by
+335 subsection (a), (b), or (c), or (d) apply."
+336 Section 2. The gross proceeds from the sale of "food,"
+Page 12
+
+Section 2. The gross proceeds from the sale of "food,"
+HB336 INTRODUCED
+337 as defined in Section 40-23-1, Code of Alabama 1975, are
+338 exempt from state sales tax.
+339 Section 3. This act shall become effective on September
+340 1, 2026.
+Page 13

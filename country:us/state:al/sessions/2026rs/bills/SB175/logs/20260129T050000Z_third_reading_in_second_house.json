@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Third Reading in Second House",
+    "occurred_at": "2026-01-29T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB175"
+}

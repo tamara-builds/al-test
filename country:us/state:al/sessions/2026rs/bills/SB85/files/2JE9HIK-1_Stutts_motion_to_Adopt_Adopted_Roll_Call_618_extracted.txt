@@ -1,0 +1,415 @@
+Title: 
+Official Title: 
+Source: versions - Stutts motion to Adopt - Adopted Roll Call 618
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2JE9HIK-1 02/05/2026 ZAK (L)ZAK 2025-3359 SUB SB85
+AGRICULTURE, CONSERVATION, AND FORESTRY SUBSTITUTE TO SB85
+OFFERED BY SENATOR STUTTS
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama State Board of
+6 Veterinary Medical Examiners is authorized to regulate
+7 the practice of veterinary medicine in this state.
+8 This bill would prohibit a veterinarian from
+9 prescribing or dispensing any medication without a
+10 valid veterinarian-client-patient relationship.
+11 This bill would provide a maximum amount of time
+12 within which a veterinarian may refill a prescription.
+13 This bill would provide that a
+14 veterinarian-client-patient relationship created with
+15 one veterinarian exists among all other veterinarians
+16 practicing at the same location.
+17 This bill would provide that a
+18 veterinarian-client-patient relationship must be
+19 reestablished annually to remain valid.
+20 This bill would further define what
+21 circumstances create a new veterinarian-client-patient
+22 relationship and would define certain terms, including
+23 "client" and "patient."
+24 This bill would also make nonsubstantive,
+25 technical revisions to update the existing code
+26 language to current style.
+27
+28
+Page 1
+
+29 A BILL
+30 TO BE ENTITLED
+31 AN ACT
+32
+33 Relating to veterinary medicine; to amend Section
+34 34-29-61, Code of Alabama 1975, to define the
+35 veterinarian-client-patient relationship and other terms; to
+36 add Section 34-29-77.1 to the Code of Alabama 1975, to
+37 prohibit veterinarians from dispensing medication without a
+38 veterinarian-client-patient relationship; to provide the
+39 amount of time within which a prescription may be refilled; to
+40 provide the veterinarian-client-patient relationship is shared
+41 among all veterinarians at a location; to require a
+42 veterinarian-client-patient relationship be reestablished
+43 annually; and to make nonsubstantive, technical revisions to
+44 update the existing code language to current style.
+45 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+46 Section 1. Section 34-29-61, Code of Alabama 1975, is
+47 amended to read as follows:
+48 "§34-29-61
+49 For the purposes of this article, the following terms
+50 shall have the following meanings ascribed by this section:
+51 (1) ACCREDITED SCHOOL OF VETERINARY MEDICINE. Any
+52 veterinary college or division of a university or college that
+53 offers the degree of doctor of veterinary medicine or its
+54 equivalent and is accredited by the American Veterinary
+55 Medical Association (AVMA).
+56 (2) ANIMAL. Any animal or mammal other than man,
+Page 2
+
+(2) ANIMAL. Any animal or mammal other than man,
+57 including birds, fish, reptiles, wild or domestic member of
+58 the Kingdom Animalia other than humans, living or dead.
+59 (3) APPLICANT. A person An individual who files an
+60 application to be licensed to practice veterinary medicine or
+61 licensed as a veterinary technician.
+62 (4) BOARD. Alabama State Board of Veterinary Medical
+63 Examiners.
+64 (5) CLIENT. A person who has entered into an agreement
+65 with a licensed veterinarian in person for the purpose of
+66 obtaining veterinary medicine services.
+67 (5)(6) CONSULTING VETERINARIAN. A veterinarian licensed
+68 in another state who gives advice or demonstrates techniques
+69 to a licensed Alabama veterinarian or group of licensed
+70 Alabama veterinarians. A consulting veterinarian shall may not
+71 utilize use this privilege to circumvent the law.
+72 (6)(7) DIRECT SUPERVISION. The A supervising
+73 veterinarian has initially examined the animal and will
+74 examine at other times as acceptable veterinary medical
+75 practice requires, consistent with the particular delegated
+76 animal health care task. The supervising veterinarian is on
+77 the premises and is quickly and easily available.
+78 (7)(8) EMERGENCY. The animal has been placed in a life
+79 threatening condition and immediate treatment is necessary to
+80 sustain life A medical condition as determined by a licensed
+81 veterinarian to warrant immediate medical intervention. The
+82 term includes life-threatening or life-altering conditions and
+83 potential loss of or permanent damage to major bodily
+84 functions.
+Page 3
+
+functions.
+85 (8)(9) FOREIGN VETERINARY GRADUATE, EXCLUDING CANADA.
+86 Any person individual, including a foreign national or an
+87 American citizen, who has received a professional veterinarian
+88 medical degree from an American Veterinary Medical Association
+89 listed veterinary college that is not accredited by the
+90 American Veterinary Medical Association.
+91 (9)(10) IMMEDIATE SUPERVISION. The A supervising
+92 veterinarian is on the premises and in audible or visual range
+93 of the animal patient and the person individual treating the
+94 patient.
+95 (10)(11) INDIRECT SUPERVISION. The A supervising
+96 veterinarian has examined the animal and has given written or
+97 oral instructions for the treatment of the animal while the
+98 supervising veterinarian is away from the premises.
+99 (11)(12) LICENSE. Any permit, approval, registration,
+100 or certificate of qualification issued by the board.
+101 (12)(13) LICENSED VETERINARIAN. A person An individual
+102 who is validly and currently licensed to practice veterinary
+103 medicine in Alabama.
+104 (13)(14) LICENSED VETERINARY TECHNICIAN. A person An
+105 individual who is validly and currently licensed to practice
+106 as a veterinary technician in Alabama.
+107 (15) LIVESTOCK. Food-producing animals, including
+108 cattle, elk, reindeer, bison, horses, deer, sheep, goats,
+109 swine, egg- and meat-producing poultry, llamas, alpacas,
+110 honeybees, rabbits, live fish, crawfish, and other animals
+111 that are a part of a herd.
+112 (16) PATIENT. Any single animal or representative
+Page 4
+
+(16) PATIENT. Any single animal or representative
+113 segment of a consignment, herd, or flock.
+114 (14)(17) PERSON. Any individual, firm, partnership,
+115 association, joint venture, cooperative, or corporation or any
+116 other group or combination acting in concert; and whether or
+117 not acting as a principal, trustee, fiduciary, receiver, or as
+118 any kind of legal or personal representative, or as the
+119 successor in interest, assigning agent, factor, servant,
+120 employee, director, officer, or any other representative of
+121 such the person.
+122 (15)(18) PRACTICE OF VETERINARY MEDICINE:
+123 a. To diagnose, treat, correct, change, relieve, or
+124 prevent animal disease, deformity, defect, injury, or other
+125 physical or mental condition; including the prescription or
+126 administration of any drug, medicine, biologic, apparatus,
+127 application, anesthesia, or other therapeutic or diagnostic
+128 substance or technique on any animal including but not limited
+129 to acupuncture, dentistry, animal psychology, animal
+130 chiropractic, theriogenology, surgery, including cosmetic
+131 surgery, any manual, mechanical, biological, or chemical
+132 procedure for testing for pregnancy or for correcting
+133 sterility or infertility, or to render service or
+134 recommendations with regard to any of the above.
+135 b. To represent directly or indirectly, publicly or
+136 privately, an ability and willingness to do any act described
+137 in paragraph a.
+138 c. To use any title, words, abbreviations, or letters
+139 in a manner or under circumstances which induce the belief
+140 that the person individual using them is qualified to do any
+Page 5
+
+that the person individual using them is qualified to do any
+141 act described in paragraph a. Such use shall be prima facie
+142 evidence of the intention to represent oneself as engaged in
+143 the practice of veterinary medicine.
+144 d. Collects To collect blood or other samples for the
+145 purpose of diagnosing disease or other conditions. This
+146 paragraph shall not apply to unlicensed personnel employed by
+147 the United States Department of Agriculture or the Alabama
+148 Department of Agriculture and Industries who are engaged in
+149 the Brucellosis eradication program or external parasite
+150 control program pursuant to Section 2-15-192.
+151 e. To remove any embryo from a food animal or companion
+152 animal for the purpose of transplanting the embryo into
+153 another female animal or for the purpose of, cryopreserving
+154 the embryo, or to implant implanting the embryo into a food or
+155 companion animal. It shall not be considered the practice of
+156 veterinary medicine for a person an individual or his or her
+157 full-time employees to remove an embryo from the food or
+158 companion animal of the person individual for the purpose of
+159 transplanting or cryopreserving the embryo, or to implant an
+160 embryo into the food or companion animal of the person
+161 individual, provided ownership of the food or companion animal
+162 shall not be transferred or employment of the person
+163 individual shall not be changed for the purpose of
+164 circumventing this article.
+165 f. To provide veterinary medical services to a client
+166 or patient in this state, including through telephonic,
+167 electronic, or other means telemedicine, regardless of the
+168 location of the veterinarian, shall constitute the practice of
+Page 6
+
+location of the veterinarian, shall constitute the practice of
+169 veterinary medicine in this state and shall require licensure
+170 within this state and a veterinarian-client-patient
+171 relationship must be have been previously established.
+172 (19) SMALL ANIMAL. Animals other than livestock. The
+173 term includes companion pets, exotic pets, and birds. The term
+174 does not include poultry.
+175 (16)(20) SUPERVISING VETERINARIAN. A veterinarian who
+176 assumes responsibility for the professional care given to an
+177 animal by a person an individual working under his or her
+178 direction.
+179 (21) TELEMEDICINE. In conjunction with a valid VCPR,
+180 the use of electronic communication to exchange information
+181 between a client and a licensed veterinarian about a patient's
+182 health status from one site to another.
+183 (22) TELETRIAGE. In the absence of a valid VCPR, the
+184 safe, appropriate, and timely assessment and management of a
+185 patient by electronic communication to render a good and safe
+186 decision regarding a patient's condition based on a client's
+187 or responsible party's report of the patient's history,
+188 clinical signs, and photos or videos. The term includes the
+189 determination of the immediate need of a patient to be
+190 presented for an in-person physical examination due to
+191 conditions of uncertainty and urgency. The term does not
+192 include diagnosis treatment.
+193 (17)(23) TEMPORARY LICENSE. Temporary permission to
+194 practice veterinary medicine issued by the board pursuant to
+195 this article.
+196 (18)(24) UNLICENSED ASSISTANT. Any individual who is
+Page 7
+
+(18)(24) UNLICENSED ASSISTANT. Any individual who is
+197 not a licensed veterinary technician or veterinarian and is
+198 employed by a licensed veterinarian.
+199 (19)(25) VETERINARIAN-CLIENT-PATIENT RELATIONSHIP
+200 (VCPR). A relationship in which a licensed veterinarian
+201 satisfies all of the following:
+202 a. when the veterinarian has Has assumed responsibility
+203 for making medical judgments regarding the health of the
+204 animal or animals a patient and the need for medical
+205 treatment, and is created by actual examination by the
+206 veterinarian of the animal or a representative segment of a
+207 consignment or herd the client has agreed to comply with the
+208 veterinarian's instructions.
+209 b. Has physically examined a patient within the
+210 previous 12 months or more frequently as dictated by the age
+211 of the patient, medical condition of the patient, treatment
+212 therapy, or use of controlled substances.
+213 c. Has sufficient knowledge of the patient to initiate
+214 a general or preliminary diagnosis of the patient's medical
+215 condition.
+216 d. Is acquainted with the keeping and care of the
+217 patient or the operation where the patient is managed.
+218 e. Is readily available for ongoing or follow-up
+219 evaluation and care of the patient or has arranged for
+220 emergency veterinary care or continuing care and treatment of
+221 the patient by an appropriate veterinary professional.
+222 f. Oversees treatment of the patient, compliance with
+223 the treatment, and the outcome.
+224 g. Maintains complete and legible medical records
+Page 8
+
+g. Maintains complete and legible medical records
+225 regarding the patient, including an assessment and treatment
+226 plan, in a manner that another veterinarian may proceed with
+227 continuity of care and treatment of the patient.
+228 (20)(26) VETERINARIAN, DOCTOR OF VETERINARY MEDICINE,
+229 DVM, VMD, or EQUIVALENT TITLE. A person An individual who has
+230 received a doctor's degree in veterinary medicine from an
+231 accredited school of veterinary medicine or holds an
+232 Educational Commission for Foreign Veterinary Graduates
+233 (ECFVG) certificate issued by the American Veterinary Medical
+234 Association (AVMA).
+235 (21)(27) VETERINARY FACILITIES. Any place or unit from
+236 which the practice of veterinary medicine is conducted. The
+237 following are types of veterinary facilities:
+238 a. Veterinary or Animal Hospital or Clinic. Meets or
+239 exceeds all mandatory requirements as listed in the
+240 administrative code of the board for veterinary facilities. In
+241 doing so, it provides quality examination, diagnostic, and
+242 health maintenance services for medical and surgical treatment
+243 of animals and is equipped to provide housing and nursing care
+244 for the animals during illness or convalescence.
+245 b. Specialty Practice or Clinic. Provides complete
+246 specialty service by a veterinarian who has advanced training
+247 in that specialty and is a diplomat of an approved specialty
+248 college. It meets all minimum standards that are applicable to
+249 that specialty.
+250 c. Central Hospital. Shall meet Meets all requirements
+251 of paragraph a., as well as provide and provides specialized
+252 care including 24-hour nursing care and specialty consultation
+Page 9
+
+care including 24-hour nursing care and specialty consultation
+253 on a permanent or on-call basis. It is mainly utilized on
+254 referral from area veterinary hospitals or clinics.
+255 d. Satellite, Outpatient, or Mobile Small Animal
+256 Clinics Clinic. A supportive facility owned by or associated
+257 with, or both, and has ready access to, within a reasonable
+258 distance, a full-service veterinary hospital or clinic or a
+259 central hospital providing all mandatory services and meeting
+260 all minimum standards. The public shall be informed of the
+261 limitation of services by way of a posted notice in plain view
+262 and easily readable or by notice provided to the client by
+263 flyer or card which clearly specifies those mandatory
+264 veterinary medical services which that are not provided. In
+265 addition, the main location and telephone number of the
+266 veterinary hospital or clinic providing the required service,
+267 as well as the signed agreement with the veterinary hospital
+268 or clinic shall also be posted in plain view and be easily
+269 readable. A veterinarian associated with this veterinary
+270 hospital or clinic shall be on call during and after operation
+271 of the satellite, outpatient, or mobile clinic to render aid
+272 if necessary. The personnel of satellite, outpatient, or
+273 mobile clinics shall consist of one or more veterinarians and
+274 auxiliary personnel necessary to provide adequate outpatient
+275 service. Operation of any satellite, outpatient, or mobile
+276 clinic shall be under the direct supervision of a licensed
+277 veterinarian who remains on the premises during the entire
+278 time of operation.
+279 e. Large Animal Mobile Clinic. Must provide Provides
+280 examination, diagnostic, and preventive medicine, and minor
+Page 10
+
+examination, diagnostic, and preventive medicine, and minor
+281 surgical services for large animals not requiring confinement
+282 or hospitalization. Emergency service and radiology service
+283 shall be provided by that veterinarian or by written agreement
+284 with another veterinarian or group of veterinarians in
+285 practice in that locale. These clinics shall provide a degree
+286 of veterinary care compatible with the level of standards
+287 considered adequate to the practice of veterinary medicine
+288 currently available in the area. Complete hospital facilities
+289 may be provided by the nearest large animal hospital or
+290 veterinary school.
+291 f. Emergency Clinic. A facility established to receive
+292 Receives patients and to treat treats illnesses and injuries
+293 of an emergency nature requiring treatment. The clinic shall
+294 provide professional diagnostic and emergency treatment during
+295 hours when local veterinary hospitals are normally closed.
+296 Emergency clinics shall meet all mandatory requirements of a
+297 veterinary hospital or clinic.
+298 (22)(28) VETERINARY INTERN. A person An individual who
+299 is working towards toward completion of an ECFVG certificate
+300 and who is working under the direct or indirect supervision of
+301 a board approved licensed veterinarian in any state to
+302 complete the practical experience internship required for
+303 licensing in Alabama.
+304 (23)(29) VETERINARY MEDICINE. Includes veterinary
+305 surgery, theriogenology, dentistry, acupuncture, animal
+306 psychology, chiropractic, and all other branches or
+307 specialties of veterinary practice.
+308 (24)(30) VETERINARY STUDENT PRECEPTEE. A person An
+Page 11
+
+(24)(30) VETERINARY STUDENT PRECEPTEE. A person An
+309 individual who is pursuing a veterinary degree in an
+310 accredited school of veterinary medicine which has a preceptor
+311 or extern program and who has completed the academic
+312 requirements of the program.
+313 (25)(31) VETERINARY TECHNICIAN STUDENT. Any person An
+314 individual enrolled in an AVMA accredited veterinary
+315 technology program; gaining clinical experience under the
+316 supervision of a licensed veterinarian or licensed veterinary
+317 technician in a clinical setting.
+318 (26)(32) VETERINARY TECHNOLOGY. The skills and
+319 knowledge accrued in a post-high school course of study,
+320 accredited by the AVMA Committee on Education (COE) or the
+321 board, in the area of care and treatment of animals. It
+322 embodies limited skills, responsibility, and minimal exercise
+323 of independent judgment in the treatment of patients of
+324 veterinarians while under direct, indirect, or immediate
+325 supervision of a veterinarian.
+326 (27)(33) WHOLESALE VETERINARY DRUG DISTRIBUTOR. A
+327 person engaged in the business of distributing veterinary
+328 drugs and medicines for resale to veterinary practitioners and
+329 other veterinary wholesalers and possesses a current permit
+330 issued by the Alabama State Board of Pharmacy to engage in the
+331 selling of veterinary drugs or medicines in the State of
+332 Alabama."
+333 Section 2. Section 34-29-77.1 is added to the Code of
+334 Alabama 1975, to read as follows:
+335 §34-29-77.1
+336 (a) A VCPR remains with the licensed veterinarian who
+Page 12
+
+(a) A VCPR remains with the licensed veterinarian who
+337 established the initial VCPR and remains valid with other
+338 licensed veterinarians within the practice premises where the
+339 written or electronic medical records of the patient are kept.
+340 (b)(1) A licensed veterinarian may not prescribe or
+341 dispense drugs without a VCPR.
+342 (2) A VCPR may not be established for the sole purpose
+343 of drug sales.
+344 (3) Telemedicine may not be used to establish a VCPR.
+345 (c) With a VCPR, a prescription may be refilled for not
+346 more than one year from the initial prescription date unless
+347 medically prohibited or restricted or prohibited by state or
+348 federal law, rule, or regulation.
+349 (d) A new VCPR shall be reestablished annually by the
+350 date that the previous VCPR was established. If not
+351 reestablished annually, a VCPR is not valid.
+352 (f)(1) A licensed veterinarian may communicate by means
+353 of teletriage with an individual if:
+354 a. An emergency occurs outside of a valid VCPR;
+355 b. The individual has not had a valid VCPR established
+356 in the previous 12 months; or
+357 c. The individual contacting the licensed veterinarian
+358 is not a client.
+359 (2) In teletriage, a diagnosis or treatment may not be
+360 rendered. The individual and licensed veterinarian may arrange
+361 an in-person visit or the licensed veterinarian may refer the
+362 patient and individual to another licensed veterinarian for
+363 assessment and treatment.
+364
+Page 13
+
+365 Section 3. This act shall become effective on October
+366 1, 2026.
+Page 14

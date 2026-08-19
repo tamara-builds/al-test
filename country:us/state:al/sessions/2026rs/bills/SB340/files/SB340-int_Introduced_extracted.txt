@@ -1,0 +1,129 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB340 INTRODUCED
+1 SB340
+2 PS2HFGR-1
+3 By Senator Chambliss
+4 RFD: Finance and Taxation Education
+5 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+PS2HFGR-1 03/03/2026 ZAK (L)ZAK 2026-925
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, as part of the Underground
+6 Damage Prevention Program, an operator of an
+7 underground utility facility must respond to a request
+8 to locate the facility for design or surveying purposes
+9 within a minimum time frame using specific methods.
+10 This bill would remove providing locate
+11 requestors with a description of the underground
+12 facilities and allowing these requestors to view
+13 facility records from those methods by which operators
+14 may respond to locate requests.
+15 This bill would require operators to complete
+16 locate requests that have not been completed within 20
+17 calendar days of being submitted to the One-Call
+18 Notification System before completing any other locate
+19 request or other marking of facilties.
+20 This bill would make operators liable for any
+21 costs incurred by a requestor due to project delay
+22 because a locate request remains incomplete 30 calendar
+23 days or more after being submitted to the system.
+24 This bill would prohibit a contract locator from
+25 closing a locate request for purposes of the system.
+26 This bill would also prohibit an operator from
+27 closing a locate request for purposes of the system
+28 unless the operator has field-verified that the
+Page 1
+
+unless the operator has field-verified that the
+SB340 INTRODUCED
+29 facility has been marked.
+30
+31
+32 A BILL
+33 TO BE ENTITLED
+34 AN ACT
+35
+36 Relating to the Underground Damage Prevention Program;
+37 to amend Section 37-15-4.1, Code of Alabama 1975, to remove
+38 certain methods by which utility facility operators may
+39 respond to design or survey locate requests; to require
+40 operators to complete locate requests that are incomplete
+41 after 20 days of being submitted before completing other
+42 locate requests; to provide operators are liable for project
+43 delay costs incurred due to locate requests that are
+44 incomplete 30 days after submitting; to prohibit contract
+45 locators from closing locate requests; and to prohibit an
+46 operator from closing a locate request unless the operator has
+47 field-verified that the facility has been marked.
+48 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+49 Section 1. Section 37-15-4.1, Code of Alabama 1975, is
+50 amended to read as follows:
+51 "§37-15-4.1
+52 (a) Any person may submit a design or survey locate
+53 request to the One-Call Notification System. The design or
+54 survey locate request shall describe the tract or parcel of
+55 land for which the design or survey locate request has been
+56 submitted with sufficient particularity as defined by policies
+Page 2
+
+submitted with sufficient particularity as defined by policies
+SB340 INTRODUCED
+57 developed and promulgated by the One-Call Notification System
+58 to enable the facility operator to ascertain the precise tract
+59 or parcel of land involved and state the name, address,
+60 telephone number, and facsimile number of the person who has
+61 submitted the design or survey locate request and the company
+62 name of the project owner.
+63 (b) Within five working days after a design or survey
+64 locate request has been submitted to the One-Call Notification
+65 System for a proposed project, the operator shall respond by
+66 one of the following methods:
+67 (1) Marking mark the approximate location of all
+68 underground facilities in the area of proposed excavation.
+69 (2) Providing to the person submitting the design or
+70 survey locate request the best available description of all
+71 underground facilities in the area of proposed excavation
+72 which may include drawings of underground facilities already
+73 built in the area or other facility records that are
+74 maintained by the facility operator.
+75 (3) Allowing the person submitting the design or survey
+76 locate request or any other authorized person to inspect or
+77 copy the drawings or other records for all underground
+78 facilities within the proposed area of excavation.
+79 (c) An operator shall complete a design or survey
+80 locate request that has not been completed within 20 calendar
+81 days of submitting the request to the One-Call Notification
+82 System before completing any other locate request or marking
+83 any underground facilities in response to a notice of intent
+84 to excavate or demolish pursuant to Section 37-15-6.
+Page 3
+
+to excavate or demolish pursuant to Section 37-15-6.
+SB340 INTRODUCED
+85 (d) An operator shall be liable for any costs incurred
+86 by a design or survey locate requestor due to a project being
+87 delayed because the locate request remains incomplete 30
+88 calendar days or more after being submitted to the One-Call
+89 Notification System.
+90 (e) A contract locator may not close a design or survey
+91 locate request for purposes of the One-Call Notification
+92 System.
+93 (f) An operator may not close a design or survey locate
+94 request for purposes of the One-Call Notification System
+95 unless the operator has field-verified that the underground
+96 facility has been marked."
+97 Section 2. This act shall become effective on October
+98 1, 2026.
+Page 4

@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB391 INTRODUCED
+1 HB391
+2 DGM32TT-1
+3 By Representative Pringle
+4 RFD: Insurance
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+DGM32TT-1 02/03/2026 JC (L)JC 2026-469
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would authorize a health care service
+6 corporation to reorganize under the ultimate control of
+7 a nonprofit holding corporation.
+8 This bill would permit a nonprofit holding
+9 corporation that controls a health care service
+10 corporation to make and receive certain transfers and
+11 distributions.
+12 This bill would further establish operational
+13 and reporting requirements for nonprofit holding
+14 corporations, their subsidiaries, and the reorganized
+15 health care service corporation.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to health care service corporations; to add
+23 Section 10A-20-6.17 to the Code of Alabama 1975; to authorize
+24 the formation of a nonprofit holding corporation by a health
+25 care service corporation by means of a reorganization; to
+26 provide for the reorganization process; to require notice of
+27 the reorganization to the Department of Insurance; and to
+28 specify the status and authority of the health care service
+Page 1
+
+specify the status and authority of the health care service
+HB391 INTRODUCED
+29 corporation and the nonprofit holding corporation.
+30 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+31 Section 1. Section 10A-20-6.17 is added to the Code of
+32 Alabama 1975, to read as follows:
+33 §10A-20-6.17
+34 (a) For the purposes of this section, the following
+35 terms have the following meaning:
+36 (1) AFFILIATE. As defined in Section 27-29-1.
+37 (2) CONTROL. As defined in Section 27-29-1.
+38 (3) DEPARTMENT. The Department of Insurance of the
+39 State of Alabama.
+40 (4) INSURER. Any person that meets the definition of
+41 insurer in either Section 27-1-2 or Section 27-29-1.
+42 (5) MEMBER. As defined in Section 10A-3A-1.02.
+43 (6) MEMBERSHIP INTERESTS. As defined in Section
+44 10A-3A-1.02.
+45 (7) NONPROFIT HOLDING CORPORATION. A domestic nonprofit
+46 corporation formed in connection with a reorganization that
+47 operates under Chapter 3A and that, directly or indirectly
+48 through another domestic nonprofit corporation that operates
+49 under Chapter 3A, holds all the membership interests in a
+50 health care service corporation organized under this article.
+51 (8) PERSON. As defined in Section 10A-1-1.03.
+52 (9) REORGANIZATION. A transaction or series of
+53 transactions in which a nonprofit holding corporation is
+54 created by or on behalf of a health care service corporation
+55 to hold, directly or indirectly through another domestic
+56 nonprofit corporation operating under Chapter 3A, a membership
+Page 2
+
+nonprofit corporation operating under Chapter 3A, a membership
+HB391 INTRODUCED
+57 interest in the health care service corporation.
+58 (10) SUBSIDIARY. As defined in Section 27-29-1.
+59 (11) ULTIMATE CONTROLLING PERSON. A person that is not
+60 under the control of any other person.
+61 (b)(1) Notwithstanding any other provision of this
+62 article, a health care service corporation, including a
+63 subsidiary of a health care service corporation, by means of a
+64 reorganization, may have a nonprofit holding corporation as
+65 the ultimate controlling person.
+66 (2) A reorganization shall:
+67 a. Be deemed an internal restructuring that does not
+68 result in a change of control of a health care service
+69 corporation or any subsidiary of a health care service
+70 corporation, including an insurer;
+71 b. Not be deemed an acquisition or change of control of
+72 a health care service corporation or any subsidiary of a
+73 health care service corporation, including an insurer;
+74 c. Not be subject to Section 27-29-3 or Section
+75 27-29-3.1.
+76 (3) Notwithstanding any other provision of law,
+77 including this title or Chapter 29 of Title 27, as part of a
+78 reorganization, a health care service corporation may make an
+79 initial transfer of any combination of cash, investments, or
+80 equity ownership interests in an affiliate or a subsidiary to
+81 the nonprofit holding corporation or its subsidiary by
+82 dividend, distribution, or other means, subject to both of the
+83 following conditions:
+84 a. The total statutory value of cash, investments, and
+Page 3
+
+a. The total statutory value of cash, investments, and
+HB391 INTRODUCED
+85 ownership interests in an affiliate or a subsidiary, net of
+86 liabilities, shall not exceed 25 percent of the health care
+87 service corporation's admitted assets as of its most current
+88 annual statement filed with the department.
+89 b. The transfer shall be subject to any risk-based
+90 capital requirements imposed by the department which the
+91 health care service corporation is operating under at the time
+92 of the reorganization.
+93 (4) A director, officer, or employee of the health care
+94 service corporation shall not receive any fee, commission,
+95 additional compensation, or other valuable consideration for
+96 aiding, promoting, or assisting in a reorganization.
+97 (5) Compliance with this subsection and subsections (c)
+98 and (d) shall be the exclusive means of effecting a
+99 reorganization. Notwithstanding any other provision of law,
+100 including Chapter 29 of Title 27, no filings, notices,
+101 applications, or approvals, other than those filings and
+102 notices required in subsection (d), shall be required in
+103 connection with a reorganization, including a transfer
+104 pursuant to subdivision (b)(3).
+105 (c)(1) Notwithstanding any law of this state, or
+106 provision to the contrary in the certificate of formation or
+107 governing bylaws, a health care service corporation, by action
+108 of its board of directors, may authorize a reorganization and
+109 undertake the actions provided in this subsection.
+110 (2) Take all steps necessary under Chapter 3A to create
+111 a nonprofit holding corporation.
+112 (3) Adopt amendments to the health care service
+Page 4
+
+(3) Adopt amendments to the health care service
+HB391 INTRODUCED
+113 corporation's certificate of formation and bylaws to provide
+114 for, but not be limited to, any of the following:
+115 a. A class of members.
+116 b. Characteristics, qualifications, limitations,
+117 obligations, and rights of class members, including final
+118 distributions.
+119 c. Conditions for admission of members and issuance of
+120 membership interests.
+121 (d) Upon completion of the reorganization, a health
+122 care service corporation shall submit a notice of completion
+123 to the department, to which shall be attached all of the
+124 following:
+125 (1) A description of the transactions that effect the
+126 reorganization.
+127 (2) A copy of the amendments to the health care service
+128 corporation's certificate of formation and bylaws.
+129 (3) A copy of the nonprofit holding corporation's
+130 certificate of incorporation.
+131 (4) A pro forma balance sheet and income statement for
+132 the health care service corporation which demonstrates the
+133 financial position of the health care service corporation on
+134 the effective date of the reorganization.
+135 (5) A pro forma balance sheet and income statement for
+136 the nonprofit holding corporation that demonstrates the
+137 financial position of the nonprofit holding corporation on the
+138 effective date of the reorganization.
+139 (e)(1) As a result of being created pursuant to this
+140 section, a nonprofit holding corporation is:
+Page 5
+
+section, a nonprofit holding corporation is:
+HB391 INTRODUCED
+141 a. Not deemed to be an insurance company, insurer, or a
+142 health care service corporation organized under this article;
+143 b. Not otherwise subject to this article;
+144 c. A nonprofit corporation that is subject to Chapter
+145 3A and which has no members; and
+146 d. The ultimate controlling person of the health care
+147 service corporation.
+148 (2) No subsidiary or affiliate of a nonprofit holding
+149 corporation is subject to this article unless the subsidiary
+150 or affiliate is organized under this article as a health care
+151 service corporation.
+152 (f) Notwithstanding any other provision of law, in
+153 addition to any transfer in connection with a reorganization
+154 under subdivision (b)(3), a nonprofit holding corporation may
+155 at any time directly or indirectly:
+156 (1) Organize, acquire, hold, operate, manage, and
+157 invest in any person, including any insurer, subsidiary, or
+158 affiliate; and
+159 (2) Enter into or engage in any operation, business,
+160 transfer, sale, purchase, exchange, loan, agreement,
+161 transaction, or other activity subject to compliance with any
+162 applicable provision of Chapter 3A or Chapter 29 of Title 27.
+163 (g) A nonprofit holding corporation, no later than June
+164 1 of each year, shall file with the department a group capital
+165 calculation for the preceding calendar year.
+166 (h) The board of directors of a nonprofit holding
+167 corporation shall be comprised solely of individuals who are
+168 directors of the health care service corporation. No equity or
+Page 6
+
+directors of the health care service corporation. No equity or
+HB391 INTRODUCED
+169 ownership interest in the nonprofit holding corporation or any
+170 subsidiary thereof may be granted to any executive officer or
+171 any member of the board of directors of the nonprofit holding
+172 corporation or the health care service corporation.
+173 (i) The department may exercise the authority provided
+174 under Section 27-2-7 and Section 27-2-19 for purposes of
+175 enforcing the nonprofit holding corporation's compliance with
+176 this section.
+177 (j)(1) A reorganization does not change the legal form
+178 of a health care service corporation or the health care
+179 service corporation's certificate of authority to do business.
+180 (2) All subscriber contracts and certificates issued by
+181 the health care service corporation shall remain in full force
+182 and effect.
+183 (3) Upon reorganization, a health care service
+184 corporation shall continue to be subject to this article,
+185 except for all of the following:
+186 a. Neither a reorganization nor any other transaction
+187 permitted by this section shall constitute or require a
+188 conversion of the health care service corporation pursuant to
+189 any law of this state.
+190 b. In addition to a transfer in connection with a
+191 reorganization under subdivision (b)(3), the health care
+192 service corporation may approve and pay any direct or indirect
+193 dividend or distribution to the nonprofit holding corporation
+194 if the dividend or distribution satisfies the applicable
+195 standards for payment of a dividend or distribution pursuant
+196 to Sections 10A-3A-6.40, 27-29-4(e), and 27-29-5.
+Page 7
+
+to Sections 10A-3A-6.40, 27-29-4(e), and 27-29-5.
+HB391 INTRODUCED
+197 c. To the extent not otherwise addressed in, and not
+198 contrary to, the certificate of formation or bylaws of the
+199 health care service corporation as amended, or this section,
+200 all aspects of the membership relationship between the health
+201 care service corporation and its member nonprofit holding
+202 corporation resulting from a reorganization shall be governed
+203 by the applicable provisions of Chapter 3A.
+204 d. A health care service corporation that has completed
+205 a reorganization is permitted, pursuant to Section 10A-1-8.02,
+206 and subject to any required filings and approvals under
+207 Chapter 29 of Title 27, to merge with any domestic or foreign
+208 nonprofit corporation if the health care service corporation
+209 is the surviving corporation in the merger.
+210 Section 2. This act shall become effective on October
+211 1, 2026.
+Page 8

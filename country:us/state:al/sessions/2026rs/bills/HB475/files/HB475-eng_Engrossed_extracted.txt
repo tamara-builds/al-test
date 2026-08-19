@@ -1,0 +1,228 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB475 ENGROSSED
+1 HB475
+2 MS3PZHH-2
+3 By Representatives Butler, Harrison, Myrex, Gidley, Mooney,
+4 Whorton, Stringer, DuBose, Yarbrough
+5 RFD: Transportation, Utilities and Infrastructure
+6 First Read: 19-Feb-26
+Page 0
+
+First Read: 19-Feb-26
+HB475 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to utilities; to require the Public Service
+10 Commission to hold a rate case for each utility every three
+11 years; to require notice of the rate case to the general
+12 public; to authorize the impeachment of certain members of the
+13 commission for failure to hold or attend a rate case or
+14 provide notice; to require the commission to hold a notice and
+15 comment period on any proposed solar power facility or wind
+16 power facility and hold a public hearing on the proposed
+17 facility; and to prohibit electric utilities from including
+18 certain costs in the calculation or determination of rates or
+19 service regulations.
+20 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+21 Section 1. (a)(1) At least every three years, the
+22 commissioners shall convene a formal rate case with
+23 representatives from each investor-owned utility regulated by
+24 the commission on the regulated utility's rates or service
+25 regulations. The rate case shall be conducted as an
+26 evidentiary hearing, where all parties shall be placed under
+27 oath. The commission shall have the power of subpoena for the
+28 purposes of gathering testimonial evidence for the evidentiary
+Page 1
+
+purposes of gathering testimonial evidence for the evidentiary
+HB475 Engrossed
+29 hearing. The commission must provide notice of any hearing
+30 held under this subdivision pursuant to subsection (b).
+31 (2) The rate cases shall be conducted in a manner that
+32 facilitates public participation and provides a review of key
+33 issues that the commission believes will be helpful to the
+34 public in understanding the rates being charged to customers
+35 and issues that impact services under the commission's
+36 jurisdiction. The commission may use any powers granted under
+37 Article 2, Chapter 1 of Title 37, Code of Alabama 1975, to
+38 carry out the rate case.
+39 (3) In the course of the rate case, the commission, in
+40 addition to the formal rate case proceedings, may investigate
+41 cost trends, reliability, resilience, general infrastructure
+42 investment plans, competitiveness with peer states, economic
+43 development impacts, and other regulatory issues the
+44 commission deems relevant.
+45 (b) The commission, through its staff, shall provide
+46 notice of each hearing regarding the rate case to the public
+47 in compliance with the Alabama Open Meetings Act, Section
+48 36-25A-3, Code of Alabama 1975.
+49 (c)(1) If the commission fails to convene a rate case
+50 required by subsection (a) or the commission fails to provide
+51 notice required by subsection (b), the failure shall
+52 constitute a willful neglect of duty and shall subject the
+53 president of the commission to impeachment pursuant to Section
+54 174 of the Constitution of Alabama of 2022, and Chapter 11 of
+55 Title 36, Code of Alabama 1975.
+56 (2) If any commissioner fails to attend any rate case
+Page 2
+
+(2) If any commissioner fails to attend any rate case
+HB475 Engrossed
+57 called by the commission, the failure shall constitute a
+58 willful neglect of duty and shall subject the commissioner to
+59 impeachment pursuant to Section 174 of the Constitution of
+60 Alabama of 2022, and Chapter 11 of Title 36, Code of Alabama
+61 1975, except that the absence shall not constitute a willful
+62 neglect of duty if the president of the commission approves
+63 the absence before the rate case begins.
+64 Section 2. (a) For purposes of this section, the
+65 following terms have the following meanings:
+66 (1) SOLAR POWER FACILITY. A large-scale, ground-mounted
+67 installation of photovoltaic panels that are designed to
+68 generate electricity using solar power for use off-site or
+69 sale to a third party, including all equipment and facilities
+70 required to operate the facility and transmit generated
+71 electricity.
+72 (2) WIND POWER FACILITY. A large-scale installation of
+73 wind turbines that are designed to generate electricity using
+74 wind power for use off-site or sale to a third party,
+75 including all equipment and facilities required to operate the
+76 facility and transmit generated electricity.
+77 (b)(1) Any person seeking to establish a solar power
+78 facility or a wind power facility in this state shall submit a
+79 proposal for the facility to the Public Service Commission.
+80 (2) Upon receipt of the proposal, the commission shall
+81 publicly give notice of the proposal. After notice is
+82 provided, the commission shall provide the public an
+83 opportunity to comment on the proposed facility through the
+84 electronic or paper submission of written comments. The
+Page 3
+
+electronic or paper submission of written comments. The
+HB475 Engrossed
+85 commission shall hold open the comment period regarding any
+86 proposed wind power facility or solar power facility for at
+87 least 60 days.
+88 (c)(1) After the comment period, the commission shall
+89 hold a public hearing regarding the proposed solar power
+90 facility or wind power facility.
+91 (2) The hearing shall be conducted in a manner that
+92 facilitates public participation and provides a review of key
+93 issues that the commission believes will be helpful to the
+94 public in understanding any externality of the proposed
+95 facility.
+96 (d) The commission, through its staff, shall provide
+97 notice of each hearing regarding any proposed solar power
+98 facility or wind power facility to the public in compliance
+99 with Section 36-25A-3, Code of Alabama 1975.
+100 Section 3. (a) A regulated utility that provides retail
+101 electricity service may not factor the following costs into
+102 the calculation or determination of a new rate or service
+103 regulation or a change to an existing rate or service
+104 regulation charged to customers of the regulated utility:
+105 (1) Costs incurred due to the hiring of persons for the
+106 purpose of lobbying the Legislature or any other political
+107 office or subdivision of the state.
+108 (2) Any expense incurred for the purpose of directly or
+109 indirectly influencing either of the following:
+110 a. The adoption, repeal, or modification of any
+111 federal, state, or local law, rule, regulation, or ordinance.
+112 b. The outcome of any election with regard to a
+Page 4
+
+b. The outcome of any election with regard to a
+HB475 Engrossed
+113 candidate, any constitutional amendment, any local referendum,
+114 or any appointment of public officials.
+115 (3)a. Expenses incurred relating to the attendance or
+116 participation in, preparation for, or appeal of any formal
+117 proceeding before a regulatory commission, when the
+118 participation is intended to influence policy, rate-setting,
+119 or regulatory outcomes for a competitive or political
+120 advantage.
+121 b. For purposes of this subdivision, a "competitive or
+122 political advantage" means a material benefit that would
+123 improve the regulated utility's economic position or the
+124 regulated utility's influence, leverage, or standing with any
+125 governmental entity.
+126 (b) The commission shall prohibit a regulated utility
+127 that provides retail electricity service from incorporating a
+128 return on equity that is a greater percentage than the
+129 regional average in the determination of any rate or service
+130 regulation. When determining the regional average of the
+131 return on equity, the commission and regulated utility shall
+132 compare the return on equity charged by the regulated utility
+133 to the percentage charged by investor-owned utilities in
+134 states bordering Alabama which provide retail electricity
+135 service.
+136 (c)(1) When a regulated electric utility files a new
+137 schedule to put in operation a new rate or service regulation
+138 or to change an existing rate or service regulation, pursuant
+139 to Section 37-1-81, Code of Alabama 1975, the utility shall
+140 affirm under oath the following:
+Page 5
+
+affirm under oath the following:
+HB475 Engrossed
+141 a. The regulated utility has not included the
+142 prohibited costs under subsection (a) in the calculation or
+143 determination of the rate or service regulation.
+144 b. The regulated utility is not charging customers a
+145 larger return on equity, as a percentage, than the
+146 corresponding regional average for a return on equity.
+147 (2) If the regulated electric utility fails to make the
+148 affirmation under oath, the rate or service regulation shall
+149 be void.
+150 (d) If the commission discovers that a regulated
+151 utility has included a prohibited cost or prohibited amount of
+152 return on equity under subsection (a) or (b) in the
+153 calculation or determination of rates or service regulations,
+154 the commission shall investigate the determination pursuant to
+155 Section 37-1-83, Code of Alabama 1975, and other powers of
+156 investigation granted to the commission pursuant to Division
+157 2, Article 2, Chapter 1 of Title 37, Code of Alabama 1975.
+158 Section 4. The provisions of this act are severable. If
+159 any part of this act is declared invalid or unconstitutional,
+160 that declaration shall not affect the part that remains.
+161 Section 5. This act shall become effective on October
+162 1, 2026.
+Page 6
+
+1, 2026.
+HB475 Engrossed
+163
+164
+165 House of Representatives
+166 Read for the first time and referred ................19-Feb-26
+167 to the House of Representatives
+168 committee on Transportation,
+169 Utilities and Infrastructure
+170
+171 Read for the second time and placed ................11-Mar-26
+172 on the calendar:
+173 0 amendments
+174
+175 Read for the third time and passed ................17-Mar-26
+176 as amended
+177 Yeas 104
+178 Nays 0
+179 Abstains 1
+180
+181
+182 John Treadwell
+183 Clerk
+184
+Page 7

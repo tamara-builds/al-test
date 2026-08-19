@@ -1,0 +1,591 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB452 INTRODUCED
+1 HB452
+2 SL9IY87-1
+3 By Representative Pringle
+4 RFD: Ways and Means Education
+5 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+SL9IY87-1 01/29/2026 KHF (F)KHF 2026-474
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a state income tax credit is
+6 provided under certain conditions for qualified
+7 rehabilitation expenditures for the substantial
+8 rehabilitation of certified historic structures. The
+9 aggregate amount of all tax credits is limited for the
+10 tax years 2023 through 2027 and the program sunsets
+11 following tax year 2027.
+12 This bill would extend the tax credits for
+13 qualified rehabilitation expenditures for substantial
+14 rehabilitation of certified historic structures through
+15 tax year 2032 and increase the annual limit on credits.
+16 The bill would also provide certain definitions and
+17 increase the credit amount for properties located in
+18 rural communities.
+19 The bill would also make nonsubstantive,
+20 technical revisions to update existing code language to
+21 current style.
+22
+23
+24 A BILL
+25 TO BE ENTITLED
+26 AN ACT
+27
+28 Relating to the state income tax credit for the
+Page 1
+
+Relating to the state income tax credit for the
+HB452 INTRODUCED
+29 rehabilitation of qualified historic structures; to amend
+30 Sections 40-9F-31 through 40-9F-33, and Section 40-9F-36, Code
+31 of Alabama 1975, to extend the income tax credit through 2032;
+32 to increase the amount of tax credits that may be provided in
+33 a tax year; to provide further for credit amounts and the
+34 definition of "qualifying structures"; and to make
+35 nonsubstantive, technical revisions to update existing code
+36 language to current style.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Sections 40-9F-31 through 40-9F-33 and
+39 Section 40-9F-36, Code of Alabama 1975, are amended to read as
+40 follows:
+41 "§40-9F-31
+42 As used in this article, the following terms have the
+43 following meanings:
+44 (1) CERTIFIED HISTORIC STRUCTURE. A property located in
+45 this state which is at least 60 years of age, unless the
+46 structure is a historic structure located within the
+47 boundaries of a National Monument or Park as declared by the
+48 United States Congress or the President of the United States,
+49 in which case the federal age provisions shall apply, and is
+50 certified by the Alabama Historical Commission as being
+51 individually listed in the National Register of Historic
+52 Places, eligible for listing in the National Register of
+53 Historic Places, or certified by the commission as
+54 contributing to the historic significance of a Registered
+55 Historic District. For applications submitted after June 1,
+56 2023, a property must be 75 years of age.
+Page 2
+
+2023, a property must be 75 years of age.
+HB452 INTRODUCED
+57 (2) CERTIFIED REHABILITATION. Repairs or alterations to
+58 a certified historic structure that is certified by the
+59 commission as meeting the U.S. Secretary of the Interior's
+60 Standards for Rehabilitation which meet the requirements of 26
+61 U.S.C. § 47.
+62 (3) COMMISSION. The Alabama Historical Commission or
+63 its successor.
+64 (4) COMMITTEE. The Historic Tax Credit Evaluating
+65 Committee established by this article.
+66 (5) DEPARTMENT. The Alabama Department of Revenue or
+67 its successor.
+68 (6) DISQUALIFYING USE. Any use of a certified historic
+69 structure that is occupied by an owner and used exclusively as
+70 a primary or secondary residence.
+71 (7) OWNER. Any taxpayer filing a State of Alabama
+72 income tax return or any entity that is exempt from federal
+73 income taxation pursuant to 26 U.S.C. § 501, that owns title
+74 to a qualified structure or owns a leasehold interest in a
+75 qualified structure for a term of not less than 39 years. An
+76 owner as defined herein shall not be considered a private user
+77 as defined in Section 40-9A-1.
+78 (8) QUALIFIED REHABILITATION EXPENDITURES. Any
+79 expenditure as defined under 26 U.S.C. § 47, as amended, and
+80 the related regulations thereunder, and other reasonable
+81 expenses and costs expended in the rehabilitation of a
+82 qualified structure. Qualified rehabilitation expenditures do
+83 not include the cost of acquisition of the qualified
+84 structure, the personal labor by the owner, or any cost
+Page 3
+
+structure, the personal labor by the owner, or any cost
+HB452 INTRODUCED
+85 associated with the rehabilitation of an outbuilding of the
+86 qualified structure, unless the outbuilding is certified by
+87 the commission to contribute to the historical significance of
+88 the qualified structure.
+89 (9) QUALIFIED STRUCTURE. Certified historic structures
+90 that are certified by the commission as meeting the
+91 requirements contained in 26 U.S.C. § 47.
+92 (10) REGISTERED HISTORIC DISTRICT. Any district listed
+93 in the National Register of Historic Places and any district
+94 that is either of the following:
+95 a. Designated under Alabama or local law as containing
+96 criteria that substantially achieves the purpose of preserving
+97 and rehabilitating buildings of historic significance to the
+98 district.
+99 b. Certified by the U.S. Secretary of the Interior as
+100 meeting substantially all of the requirements for the listing
+101 of districts in the National Register of Historic Places.
+102 (11) REHABILITATION PLAN. Construction plans and
+103 specifications for the proposed rehabilitation of a qualified
+104 structure in sufficient detail to enable the commission to
+105 evaluate compliance with the standards developed under this
+106 article.
+107 (12) RURAL COMMUNITIES. Communities located within
+108 counties of this state that have less than 175,000 in
+109 population based on the most recent federal decennial census.
+110 (12)(13) SUBSTANTIAL REHABILITATION. RehabilitationFor
+111 tax years 2028 through 2032, rehabilitation of a qualified
+112 structure for which the qualified rehabilitation expenditures
+Page 4
+
+structure for which the qualified rehabilitation expenditures
+HB452 INTRODUCED
+113 exceed 50 percent of the owner's original purchase price of
+114 the qualified structure or twenty-five thousand dollars
+115 ($25,000), whichever is greater. For tax years 2028 through
+116 2032, rehabilitation of a qualified structure for which the
+117 qualified rehabilitation expenditures exceed 50 percent of the
+118 owner's original purchase price of the qualified structure or
+119 twenty thousand dollars ($20,000) for qualified structures
+120 located in rural communities and twenty-five thousand dollars
+121 ($25,000) for properties located in urban communities,
+122 whichever is greater.
+123 (14) URBAN COMMUNITIES. Communities located within
+124 counties of this state that have greater than 175,000 in
+125 population based on the most recent federal decennial census."
+126 "§40-9F-32
+127 (a) The commission shall develop standards for the
+128 approval of the substantial rehabilitation of qualified
+129 structures for which a tax credit is sought. The standards
+130 shall: (i) take into account whether the substantial
+131 rehabilitation of a qualified structure is consistent with the
+132 historic character of the structure or of the Registered
+133 Historic District in which the property is located; and (ii)
+134 for tax years 2023 through 20272032, establish a mechanism to
+135 require owners to confirm that the proposed use for the
+136 qualified structure is not a disqualifying use in the
+137 application, and prior to the commission's issuance of the tax
+138 credit certificate for the qualified structure under Section
+139 40-9F-32(d)subsection (d).
+140 (b) Prior to beginning any substantial rehabilitation
+Page 5
+
+(b) Prior to beginning any substantial rehabilitation
+HB452 INTRODUCED
+141 work on a qualified structure, the owner shall submit an
+142 application and rehabilitation plan to the commission and an
+143 estimate of the qualified rehabilitation expenditures under
+144 the rehabilitation plan;, provided, however, that the owner,
+145 at its own risk, may incur qualified rehabilitation
+146 expenditures no earlier than six months prior to the
+147 submission of the application and rehabilitation plan that are
+148 limited to architectural, engineering, and land surveying fees
+149 and related soft costs and any costs related to the protection
+150 of the qualified structure from deterioration.
+151 (c)(1) The commission shall review the application and
+152 rehabilitation plan to determine that the information
+153 contained therein is complete. If the commission determines
+154 that the application and rehabilitation plan are complete, the
+155 commission shall recommend the project to the committee for
+156 the reservation of a tax credit. If the project is approved
+157 for a tax credit by the committee, the commission shall
+158 reserve, for the benefit of the owner, an allocation for a tax
+159 credit as provided in Section 40-9F-33, and the commission
+160 shall notify the owner in writing of the amount of the
+161 reservation. The reservation of tax credits does not entitle
+162 the owner to an issuance of tax credits until the owner
+163 complies with all other requirements of this article for the
+164 issuance of the tax credits. The reservation of tax credits
+165 shall be made by the commission in the order in which the
+166 committee has ranked completed applications and rehabilitation
+167 plans. Reservations of tax credits shall be issued by the
+168 commission within a reasonable time from the filing of a
+Page 6
+
+commission within a reasonable time from the filing of a
+HB452 INTRODUCED
+169 completed application and rehabilitation plan. Only the
+170 property for which a property address, legal description, or
+171 other specific location is provided in the application shall
+172 be reviewed. Ownership of an entity that is the owner of
+173 property contained in the application shall not be a factor in
+174 the commission's review of the application and no subsequent
+175 change in the ownership structure of such entity shall result
+176 in the loss or rescission of a reservation of tax credits. The
+177 owner shall not be permitted to request the review of another
+178 property for approval in the place of the property contained
+179 in the application. Any application disapproved by the
+180 commission or the committee shall be removed from the review
+181 process, and the commission shall notify the owner in writing
+182 of the decision to remove the application. A disapproved
+183 application may be resubmitted, but shall be deemed to be a
+184 new submission and may be charged a new application fee. In
+185 the event the reservations of tax credits equal the total
+186 amount available for reservations during the tax year, all
+187 owners with applications then awaiting approval or thereafter
+188 submitted shall be notified by the commission that no
+189 additional tax credits shall be granted during that tax year.
+190 The applications shall remain in active status from the date
+191 of the original application and shall be considered for
+192 recommendations of tax credits in the event that additional
+193 credits become available due to rescission by the commission
+194 or when a new tax year's allocation of tax credits becomes
+195 available.
+196 (2) Owners receiving a reservation of tax credits shall
+Page 7
+
+(2) Owners receiving a reservation of tax credits shall
+HB452 INTRODUCED
+197 commence rehabilitation, if rehabilitation has not previously
+198 begun, within 18 months of the date of issuance of the written
+199 notice from the commission to the owner granting the tax
+200 credits. Commencement of rehabilitation shall mean that, as of
+201 the date in which actual physical work contemplated by the
+202 rehabilitation plan submitted with the application has begun,
+203 the owner has incurred no less than 20 percent of the
+204 estimated costs of rehabilitation provided in the application.
+205 Within 36 months of the date of issuance of the written notice
+206 from the commission to the owner granting the tax credit
+207 reservation, the owner must have incurred an additional 50
+208 percent of the estimated costs of rehabilitation provided in
+209 the application. Within 60 months of the date of issuance of
+210 the written notice from the commission to the owner granting
+211 the tax credit reservation, the project must be completed.
+212 Owners receiving a reservation of tax credits shall submit
+213 evidence of compliance with this subsection. If the commission
+214 determines that an owner has failed to comply with the
+215 requirements provided under this section, the reservation of
+216 tax credits for the owner may be rescinded and, if so, the
+217 amount of tax credits shall then be included in the total
+218 amount of available tax credits provided for in subsection (c)
+219 of Section 40-9F-33(c), from which reservations may be
+220 granted. Any owner whose reservation of tax credits are
+221 rescinded shall be notified of the rescission from the
+222 commission and, upon receipt of the notice, may submit a new
+223 application but may be charged a new application fee.
+224 (d) Following the completion of a substantial
+Page 8
+
+(d) Following the completion of a substantial
+HB452 INTRODUCED
+225 rehabilitation of a qualified structure, the owner shall
+226 notify the commission that the substantial rehabilitation has
+227 been completed and shall certify the qualified rehabilitation
+228 expenditures incurred with respect to the rehabilitation plan.
+229 In addition, the owner shall provide the commission with: (i)
+230 a cost and expense certification, prepared by a licensed
+231 certified public accountant that is not an affiliate of the
+232 owner, certifying the total qualified rehabilitation
+233 expenditures and the total amount of tax credits against any
+234 state tax due that is specified in this article for which the
+235 owner is eligible under Section 40-9F-33; and (ii) an
+236 appraisal of the qualified structure prepared by an
+237 independent MAI designated and licensed real estate appraiser.
+238 The commission shall review the documentation of the
+239 rehabilitation and verify its compliance with the
+240 rehabilitation plan. WithinFor tax years 2023 through 2027,
+241 within 90 days after receipt and approval of the foregoing
+242 documentation from the owner, the commission shall issue a tax
+243 credit certificate in an amount equivalent to the lesser of:
+244 (i) the amount of the tax credit reservation issued for the
+245 project under the provisions of subsection (c); or (ii) 25
+246 percent of the actual qualified rehabilitation expenditures
+247 for certified historic structures. For tax years 2028 through
+248 2032, within 90 days after receipt and approval of the
+249 foregoing documentation from the owner, the commission shall
+250 issue a tax credit certificate in an amount equivalent to the
+251 lesser of: (i) the amount of the tax credit reservation issued
+252 for the project under the provisions of subsection (c); (ii)
+Page 9
+
+for the project under the provisions of subsection (c); (ii)
+HB452 INTRODUCED
+253 30 percent of the actual qualified rehabilitation expenditures
+254 for certified historic structures located in rural
+255 communities; or (iii) 25 percent of the actual qualified
+256 rehabilitation expenditures for certified historic structures
+257 located in urban communities. In the event the amount of
+258 qualified rehabilitation expenditures incurred by the owner
+259 would result in the issuance of an amount of tax credits in
+260 excess of the amount of tax credits reserved for the owner
+261 under subsection (c), the owner may apply to the commission
+262 for issuance of tax credits in an amount equal to the excess.
+263 Applications for issuance of tax credits in excess of the
+264 amount of tax credits reserved for the owner shall be made on
+265 a form prescribed by the commission and shall represent a
+266 separate certificate that shall be issued, subject to all
+267 provisions regarding priority provided in Section 40-9F-38.
+268 (e) In order to obtain a credit against any state tax
+269 due that is specified in this article, a taxpayer shall file
+270 the tax credit certificate with the taxpayer's Alabama state
+271 tax return.
+272 (f) The department shall grant a tax credit against any
+273 state tax due that is specified in this article to a taxpayer
+274 holding the tax credit certificate issued under subsection (d)
+275 or, in the case of a transferee, issued by the department
+276 pursuant to Section 40-9F-33 against any tax due under Chapter
+277 18 in the amount stated on the tax credit certificate. The
+278 department shall have the right to audit and to reassess any
+279 credit improperly obtained by the owner, in accordance with
+280 the Taxpayers' Bill of Rights and the Uniform Revenue
+Page 10
+
+the Taxpayers' Bill of Rights and the Uniform Revenue
+HB452 INTRODUCED
+281 Procedures contained in Chapter 2A;, provided, however that
+282 only the owner initially awarded the tax credit certificate,
+283 and not any subsequent transferee of the tax credit
+284 certificate or person to whom tax credits have been passed
+285 through pursuant to Section 40-9F-33, shall be liable for any
+286 credit improperly obtained by the owner.
+287 (g) For processing the taxpayer's application for a tax
+288 credit, the commission may impose the following application
+289 fees:
+290 (1) For qualified rehabilitation expenses of one
+291 million dollars ($1,000,000) or less, a fee equal to 1 percent
+292 of the qualified rehabilitation expenditures.
+293 (2) For qualified rehabilitation expenses from one
+294 million and one dollars ($1,000,001) to ten million dollars
+295 ($10,000,000), a fee equal to fifteen thousand dollars
+296 ($15,000).
+297 (3) For qualified rehabilitation expenses over ten
+298 million dollars ($10,000,000), a fee equal to twenty thousand
+299 dollars ($20,000).
+300 (h) Any fees collected by the commission under this
+301 section shall be deposited in the State Treasury to the credit
+302 of the commission and all such funds are to be appropriated to
+303 the commission to defray the expenses incurred in carrying out
+304 this article.
+305 (i) The commission shall report to the Legislature in
+306 the third year following passage of this article, and annually
+307 thereafter, on the overall economic activity, usage, and
+308 impact to the state from the substantial rehabilitation of
+Page 11
+
+impact to the state from the substantial rehabilitation of
+HB452 INTRODUCED
+309 qualified structures for which tax credits have been allowed.
+310 The information in the reports shall be consistent with the
+311 information required by the Legislature pursuant to, and shall
+312 be provided by the commission to the Legislature in accordance
+313 with, Section 40-1-50, and rules adopted thereunder.
+314 Information provided pursuant to this section is exempt from
+315 the confidentiality provisions of Section 40-2A-10."
+316 "§40-9F-33
+317 (a) The state portion ofFor tax years 2023 through
+318 2027, any tax credit against the tax imposed by Chapter 18 for
+319 the taxable year in which the reservation is allocated to a
+320 project or the certified rehabilitation is placed in service
+321 shall be equal to 25 percent of the qualified rehabilitation
+322 expenditures for certified historic structures. For tax years
+323 2028 through 2032, any tax credit against the tax imposed by
+324 Chapter 18 for the taxable year in which the reservation is
+325 allocated to a project or the certified rehabilitation is
+326 placed in service shall be equal to: (i) 30 percent of the
+327 qualified rehabilitation expenditures for certified historic
+328 structures located in rural communities; or (ii) 25 percent of
+329 the qualified rehabilitation expenditures for certified
+330 historic structures located in urban communities. No tax
+331 credit claimed for any certified rehabilitation may exceed
+332 five million dollars ($5,000,000) for all allowable property
+333 types.
+334 (b) There is created within the Education Trust Fund a
+335 separate account named the Historic Preservation Income Tax
+336 Credit Account. The Commissioner of Revenue shall certify to
+Page 12
+
+Credit Account. The Commissioner of Revenue shall certify to
+HB452 INTRODUCED
+337 the Comptroller the amount of income tax credits under this
+338 section and the Comptroller shall transfer into the Historic
+339 Preservation Income Tax Credit Account only the amount from
+340 sales tax revenues within the Education Trust Fund that is
+341 sufficient for the Department of Revenue to use to cover the
+342 income tax credits for the applicable tax year. The
+343 Commissioner of Revenue shall distribute the funds in the
+344 Historic Preservation Income Tax Credit Account pursuant to
+345 this section.
+346 (c) The entire tax credit must be claimed by the
+347 taxpayer for the taxable year in which the reservation is
+348 allocated to a project or the certified rehabilitation is
+349 placed in service. Tax credits shall not be claimed prior to
+350 the taxable year in which the certified rehabilitation is
+351 placed in service. Where the taxes owed by the taxpayer are
+352 less than the tax credit, the taxpayer shall be entitled to
+353 claim a refund for the difference. In the event that any
+354 additional credit is allocated to the taxpayer for a given
+355 project, the additional credit must be claimed in the taxable
+356 year the additional credit is allocated to the taxpayer.
+357 (d)(1) For the tax years 2018 through 2022, the
+358 aggregate amount of all tax credits that may be reserved in
+359 any one of such years by the commission and certification of
+360 rehabilitation plans under Section 40-9F-32(c) shall not
+361 exceed twenty million dollars ($20,000,000), plus any amount
+362 of previous reservations of tax credits that were rescinded
+363 under Section 40-9F-32(c) during the tax year. However, if all
+364 of the allowable tax credit amount for any tax year is not
+Page 13
+
+of the allowable tax credit amount for any tax year is not
+HB452 INTRODUCED
+365 requested and reserved, any unreserved tax credits may be
+366 utilized by the commission in awarding tax credits in
+367 subsequent years; provided, however, that in no event shall a
+368 total of more than two hundred million dollars ($200,000,000)
+369 be reserved by the commission during the period from May 25,
+370 2017, through December 31, 2022, pursuant to this article.
+371 Applications shall not be received by the commission after the
+372 Historic Tax Credit Evaluating Committee has ranked projects
+373 with a total amount exceeding two hundred million dollars
+374 ($200,000,000).
+375 (2) For the tax years 2023 through 2027, the aggregate
+376 amount of all tax credits that may be reserved in any one of
+377 such years by the commission and certification of
+378 rehabilitation plans under Section 40-9F-32(c) shall not
+379 exceed twenty million dollars ($20,000,000), plus any amount
+380 of previous reservations of tax credits that were rescinded
+381 under Section 40-9F-32(c) during the tax year. However, if all
+382 of the allowable tax credit amount for any tax year is not
+383 requested and reserved, any unreserved tax credits may be
+384 utilized by the commission in awarding tax credits in
+385 subsequent years;, provided, however, that in no event shall a
+386 total of more than two hundred million dollars ($200,000,000)
+387 be reserved by the commission during the period from May 25,
+388 2017, through December 31, 2027, pursuant to this article.
+389 (3) For the tax years 2028 through 2032, the aggregate
+390 amount of all tax credits that may be reserved in any one of
+391 such years by the commission and certification of
+392 rehabilitation plans under Section 40-9F-32(c) shall not
+Page 14
+
+rehabilitation plans under Section 40-9F-32(c) shall not
+HB452 INTRODUCED
+393 exceed twenty-five million dollars ($25,000,000), plus any
+394 amount of previous reservations of tax credits that were
+395 rescinded under Section 40-9F-32(c) during the tax year.
+396 However, if all of the allowable tax credit amount for any tax
+397 year is not requested and reserved, any unreserved tax credits
+398 may be utilized by the commission in awarding tax credits in
+399 subsequent years, provided that in no event shall a total of
+400 more than three hundred twenty-five million dollars
+401 ($325,000,000) be reserved by the commission during the period
+402 from May 25, 2017, through December 31, 2032, pursuant to this
+403 article.
+404 (3)(4) For tax years 2023 through 20272032, no tax
+405 credits shall be reserved for qualified structures the end use
+406 of which is proposed to be a disqualifying use.
+407 (4)(5) For purposes of this article, "tax year" shall
+408 mean calendar year.
+409 (5)(6) In addition to the limits in subdivision (2),
+410 for tax years 2024 through 20272032, the commission may
+411 utilize an additional amount up to a total of five million
+412 dollars ($5,000,000) to reduce the backlog of qualified
+413 applications.
+414 (e) Of the annual amount of the tax credits provided
+415 for in subsection (d), 40 percent shall be reserved to
+416 taxpayers with a certified rehabilitation project located in a
+417 county in which the population does not exceed 175,000
+418 according to the most recent federal decennial census. In the
+419 event applications are not received and credits are not
+420 allocated for projects in these areas by the close of the
+Page 15
+
+allocated for projects in these areas by the close of the
+HB452 INTRODUCED
+421 third quarter of the program year, the funds may revert for
+422 allocations of other project applications.
+423 (f) Tax credits granted to a partnership, a limited
+424 liability company, S corporations, trusts, or estates, shall
+425 be claimed at the entity level and shall not pass through to
+426 the partners, members, or owners.
+427 (g) All or any portion of the income tax credits under
+428 this section and Section 40-9F-32 shall be transferable and
+429 assignable, subject to any notice and verification
+430 requirements to be determined by the department, without the
+431 requirement of transferring any ownership interest in the
+432 qualified structure or any interest in the entity which owns
+433 the qualified structure. Any tax credits transferred shall be
+434 at a value of at least 85 percent of the present value of the
+435 credits. However, once a credit is transferred, only the
+436 transferee may utilize the credit and the credit may not be
+437 transferred again. A transferee of the tax credits may use the
+438 amount of tax credits transferred to offset any income tax
+439 under Chapter 18. The entire tax credit must be claimed by the
+440 transferee for the taxable year in which the reservation is
+441 allocated to a project or the certified rehabilitation is
+442 placed in service. When the taxes owed by the transferee are
+443 less than the tax credit, the transferee shall be entitled to
+444 claim a refund for the difference. The department shall adopt
+445 a form transfer statement to be filed by the transferor with
+446 the department prior to the purported transfer of any credit
+447 issued under this article. The transfer statement form shall
+448 include the name and federal taxpayer identification number of
+Page 16
+
+include the name and federal taxpayer identification number of
+HB452 INTRODUCED
+449 the transferor and each transferee listed therein along with
+450 the amount of the tax credit to be transferred to each
+451 transferee listed on the form. The transfer statement form
+452 shall also contain any other information as the department may
+453 from time to time reasonably require. For each transfer, the
+454 transferor shall file: (1)(i) a completed transfer statement
+455 form; (2)(ii) a copy of the tax credit certificate issued by
+456 the commission documenting the amount of tax credits which the
+457 transferor intends to transfer; (3)(iii) a copy of the
+458 proposed written transfer agreement; and (4)(iv) a transfer
+459 fee payable to the department in the amount of one thousand
+460 dollars ($1,000) per transferee listed on the transfer
+461 statement form. The transferor shall file with the department
+462 a fully executed copy of the written transfer agreement with
+463 each transferee within 30 days after the completed transfer.
+464 Filing of the written transfer agreement with the department
+465 shall perfect the transfer with respect to the transferee.
+466 Within 30 days after the department's receipt of the fully
+467 executed written transfer agreement, the department shall
+468 issue a tax credit certificate to each transferee listed in
+469 the agreement in the amount of the tax credit so transferred.
+470 The certificate shall be used by the transferee in claiming
+471 the tax credit pursuant to subsections (e) and (f) of Section
+472 40-9F-32(e) and (f). The department may adopt additional rules
+473 as are necessary to permit verification of the ownership of
+474 the tax credits, but shall not adopt any rules which unduly
+475 restrict or hinder the transfer of the tax credits."
+476 "§40-9F-36
+Page 17
+
+"§40-9F-36
+HB452 INTRODUCED
+477 The tax credits authorized by this article for the
+478 substantial rehabilitation of qualified structures shall not
+479 be available to owners of qualified structures that submit an
+480 application and rehabilitation plan after December 31,
+481 20272032. No action or inaction on the part of the Legislature
+482 shall reduce or suspend the tax credits authorized by this
+483 article in any past or future calendar year with respect to a
+484 qualified structure if the owner thereof submits an
+485 application and rehabilitation plan with the commission and
+486 the commission reserves an allocation for a tax credit on or
+487 prior to December 31, 20272032, even if the qualified
+488 structure is placed into service after December 31, 20272032,
+489 and shall not affect the owner of a qualified structure if the
+490 commission has reserved an allocation for a tax credit on or
+491 prior to December 31, 20272032. Notwithstanding any other
+492 provision of this chapter, any application received by the
+493 commission, other than an application for a qualified
+494 structure the end use of which is proposed to be a
+495 disqualifying use, in active status on the ranking list of the
+496 Historic Tax Credit Evaluating Committee or granted a tax
+497 allocation reservation prior to May 14, 2021the effective date
+498 of this article, shall remain on the ranking list or in
+499 reservation status and shall receive a tax credit allocation
+500 reservation or a tax credit allocation, as the case may be,
+501 when additional credits become available, including in any tax
+502 year commencing after 2022."
+503 Section 2. This act shall become effective on October
+504 1, 2026.
+Page 18

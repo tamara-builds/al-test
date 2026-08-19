@@ -1,0 +1,167 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB127 INTRODUCED
+1 HB127
+2 CXSZUJQ-1
+3 By Representatives Brown, Oliver, Moore (P), Fidler, Lamb,
+4 DuBose, Rehm, Bolton, Estes, Barnes, Sells, Standridge,
+5 Marques, Mooney, Yarbrough
+6 RFD: Health
+7 First Read: 13-Jan-26
+8 PFD: 07-Jan-26
+Page 0
+
+PFD: 07-Jan-26
+CXSZUJQ-1 12/23/2025 JC (L)JC 2025-2312
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law prohibits the State Board of
+6 Medical Examiners and the Medical Licensure Commission
+7 from taking action against the license of a physician
+8 when the physician recommends or prescribes a medical
+9 treatment that is off-label.
+10 This bill would give pharmacists the same
+11 protection by prohibiting the Board of Pharmacy from
+12 suspending, revoking, or refusing to renew the license
+13 of a pharmacist who either recommends the off-label use
+14 of a drug or fills a prescription for the off-label use
+15 of a drug.
+16 This bill would prohibit any entity that
+17 furnishes pharmacy services from terminating or taking
+18 adverse action against a pharmacist for recommending
+19 the off-label use of a drug or filling a prescription
+20 for the off-label use of a drug, and would provide a
+21 civil action for a pharmicist who is so terminated or
+22 disciplined.
+23 This bill would prohibit a pharmacy benefits
+24 manager from taking any action against a pharmacist or
+25 his or her employing pharmacy in retaliation for
+26 recommending, or filling a prescription for, the
+27 off-label use of a drug.
+28 This bill would also permit over-the-counter
+Page 1
+
+This bill would also permit over-the-counter
+HB127 INTRODUCED
+29 sale of both Ivermectin and Hydroxychloroquine.
+30
+31
+32 A BILL
+33 TO BE ENTITLED
+34 AN ACT
+35
+36 Relating to drug dispensing; to prohibit the State
+37 Board of Pharmacy or an employer from taking action against a
+38 pharmacist who recommends the off-label use of a drug or who
+39 dispenses a drug for off-label use on the prescription of a
+40 health care professional; to provide a cause of action against
+41 an employer who takes action against a pharmacist for
+42 recommending or dispensing a drug for off-label use; to
+43 provide an exception; to prohibit a pharmacy benefits manager
+44 from retaliating against a pharmacist or the employing
+45 pharmacy for recommending or dispensing a drug for off-label
+46 use; and to permit the sale of Ivermectin and
+47 Hydroxychloroquine without a prescription.
+48 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+49 Section 1. (a) For the purposes of this section, the
+50 following terms have the following meanings:
+51 (1) BOARD. The State Board of Pharmacy.
+52 (2) EMPLOYER. Any person that owns or manages a
+53 pharmacy as defined in Section 34-23-1, Code of Alabama 1975,
+54 and which retains, supervises, or terminates pharmacists.
+55 (3) HEALTH CARE PROFESSIONAL. Any of the following
+56 individuals:
+Page 2
+
+individuals:
+HB127 INTRODUCED
+57 a. A physician licensed to practice medicine in this
+58 state.
+59 b. A physician assistant licensed by the State Board of
+60 Medical Examiners of the State of Alabama.
+61 c. A certified registered nurse practitioner or a
+62 certified nurse midwife certified by the Board of Nursing.
+63 (4) LICENSE. The same meaning as defined in Section
+64 34-23-1, Code of Alabama 1975.
+65 (5) OFF-LABEL MEDICATION. The use of a drug, biological
+66 product, or device approved by the United States Food and Drug
+67 Administration (FDA) in any manner other than the use approved
+68 by the FDA.
+69 (b) The board may not revoke, suspend, fail to renew,
+70 or take any other adverse action against a pharmacist's
+71 license based solely on either of the following:
+72 (1) The pharmacist's recommendation of an off-label
+73 medication for the treatment of a disease, condition, or
+74 symptom.
+75 (2) The pharmacist's dispensing of a prescription of an
+76 off-label medication which is ordered by a health care
+77 professional.
+78 (c)(1) An employer may not terminate, discipline, or
+79 take any other adverse action against an employee pharmacist
+80 based solely on either of the following:
+81 a. The pharmacist's recommendation of an off-label
+82 medication for the treatment of a disease, condition, or
+83 symptom.
+84 b. The pharmacist's dispensing of a prescription of an
+Page 3
+
+b. The pharmacist's dispensing of a prescription of an
+HB127 INTRODUCED
+85 off-label medication which is ordered by a health care
+86 professional.
+87 (2)a. A pharmacist who is terminated or suffers adverse
+88 action by his or her employer for recommending or dispensing
+89 an off-label medication under subdivision (1) may bring an
+90 action for injunctive relief against the employer in the
+91 circuit court of the county in which the off-label medication
+92 was recommended or dispensed.
+93 b. The court in such an action may award injunctive
+94 relief, including ordering reinstatement of the pharmacist to
+95 his or her job position, back pay, costs of the action, and
+96 reasonable attorney fees.
+97 (d) Notwithstanding subsections (b) and (c), a
+98 pharmacist may not dispense a prescription for an off-label
+99 medication when the off-label use has not been adequately
+100 tested on humans and the potential harm has not been
+101 determined.
+102 (e) This section shall not apply to the prescribing,
+103 administration, or dispensing of any controlled substances, as
+104 defined in Section 20-2-2, Code of Alabama 1975.
+105 Section 2. (a) A pharmacy benefits manager (PBM) or a
+106 PBM affiliate, both as defined in Section 27-45A-3, Code of
+107 Alabama 1975, may not penalize or retaliate against a
+108 pharmacist or a pharmacist's employing pharmacy for
+109 recommending or dispensing a prescription of an off-label
+110 medication as defined in, and in accordance with, Section 1,
+111 including, but not limited to, any of the following:
+112 (1) Canceling or refusing to renew a contract.
+Page 4
+
+(1) Canceling or refusing to renew a contract.
+HB127 INTRODUCED
+113 (2) Taking legal action for breach of contract.
+114 (3) Taking any action otherwise prohibited under
+115 Chapter 45A of Title 27, Code of Alabama 1975.
+116 (4) Initiating an audit under The Pharmacy Audit
+117 Integrity Act, Article 8, Chapter 23, Title 34, Code of
+118 Alabama 1975.
+119 (b) This section shall not apply to the prescribing,
+120 administration, or dispensing of any controlled substances, as
+121 defined in Section 20-2-2, Code of Alabama 1975.
+122 Section 3. Notwithstanding any other provision of law
+123 to the contrary, the following drugs are authorized for sale
+124 or purchase in this state without a prescription or
+125 consultation with a health care professional:
+126 (1) Ivermectin suitable for human use.
+127 (2) Hydroxychloroquine.
+128 Section 4. This act shall become effective on October
+129 1, 2026.
+Page 5

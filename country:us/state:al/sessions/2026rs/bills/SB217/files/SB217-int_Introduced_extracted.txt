@@ -1,0 +1,1954 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB217 INTRODUCED
+1 SB217
+2 G39Q762-1
+3 By Senators Singleton, Albritton, Waggoner, Jones, Smitherman,
+4 Stewart, Coleman-Madison, Sessions
+5 RFD: Tourism
+6 First Read: 27-Jan-26
+Page 0
+
+First Read: 27-Jan-26
+G39Q762-1 01/26/2026 JC (L)lg 2025-3397
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law makes no specific provisions
+6 regarding the retail sale, wholesale, or tax on the
+7 sale of low-alcohol by volume content beverages made
+8 from liquor. These beverages are regulated like liquor.
+9 They are not available for distribution through beer
+10 and table wine wholesalers and are only sold in ABC
+11 stores.
+12 This bill would define a new category of ready
+13 to drink mixed liquor beverages containing no more than
+14 seven percent alcohol by volume, called "mixed spirit
+15 beverages."
+16 This bill would institute a licensing structure
+17 in Alabama for mixed spirit beverages, which would
+18 require all mixed spirit beverages, other than those
+19 sold in Alcoholic Beverage Control Board stores, to be
+20 distributed through licensed wholesalers to licensed
+21 retailers for on-premises and off-premises consumption.
+22 This bill would further impose penalties on
+23 retailers who sell mixed spirit beverages to
+24 individuals who are under 21 years of age.
+25 This bill would provide for the levy of a
+26 privilege or excise tax on mixed spirit beverages.
+27 This bill would require suppliers of mixed
+28 spirit beverages to designate exclusive sales
+Page 1
+
+spirit beverages to designate exclusive sales
+SB217 INTRODUCED
+29 territories for each brand and enter into a
+30 distribution agreement with a licensed wholesaler for
+31 each sales territory.
+32 This bill would also set requirements for
+33 distribution agreements between suppliers and wholesale
+34 distributors of mixed spirit beverages for no-cause
+35 termination or nonrenewal of a distribution agreement.
+36
+37
+38 A BILL
+39 TO BE ENTITLED
+40 AN ACT
+41
+42 Relating to alcoholic beverages; to amend Sections
+43 28-3-1, 28-3A-3, and 28-3A-23, Code of Alabama 1975; to define
+44 a new category of low-alcohol content liquor beverages called
+45 mixed spirit beverages; to add Section 28-3-208 to the Code of
+46 Alabama 1975, to levy an excise tax upon the distribution of
+47 mixed spirit beverages; to add Section 28-1-9 to the Code of
+48 Alabama 1975, to regulate the display by retailers of mixed
+49 spirit and other alcoholic beverages; to add Section 28-3A-9.1
+50 to the Code of Alabama 1975, to provide a license for
+51 wholesalers of mixed spirit beverages; to add Section
+52 28-3A-17.3 to the Code of Alabama 1975, to provide licenses
+53 and a requirement for retailers of mixed spirit beverages; to
+54 amend Section 28-3A-21 as last amended by Acts 2025-405 and
+55 2025-413, 2025 Regular Session, to set fees for the licenses;
+56 to amend Sections 28-3A-1.5, 28-3A-11, 28-3A-12, 28-3A-13,
+Page 2
+
+to amend Sections 28-3A-1.5, 28-3A-11, 28-3A-12, 28-3A-13,
+SB217 INTRODUCED
+57 28-3A-17.2, 28-3A-18, 28-3A-19, 28-3A-19.1, 28-3A-20, Code of
+58 Alabama 1975, Section 1 of Act 2025-413, 2025 Regular Session,
+59 now appearing as Section 28-3A-6.5, Code of Alabama 1975,
+60 Section 3 of Act 2025-405, 2025 Regular Session, now appearing
+61 as Section 28-3A-19.2, Code of Alabama 1975, and Section 2 of
+62 Act 2025-405, 2025 Regular Session, now appearing as
+63 28-3A-20.5, Code of Alabama 1975, to make conforming changes;
+64 to add Section 28-3A-27 to the Code of Alabama 1975, to impose
+65 penalties on retailers who sell mixed spirit beverages to
+66 individuals under 21 years of age; and to add Chapter 8B to
+67 Title 28 of the Code of Alabama 1975, to require licensed
+68 importers, manufacturers, and suppliers of mixed spirit
+69 beverages to enter into exclusive sales territory distribution
+70 agreements with wholesalers.
+71 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+72 Section 1. Section 28-1-9 is added to the Code of
+73 Alabama 1975, to read as follows:
+74 §28-1-9
+75 (a) No alcoholic beverage products shall be sold or
+76 distributed within the state without first having received
+77 approval of the label thereon by the board.
+78 (b) No alcoholic beverage shall be marketed, displayed,
+79 labeled, or advertised in a way calculated to do either of the
+80 following:
+81 (1) Appeal to minors.
+82 (2) Include statements, artwork, or designs that could
+83 easily mislead an individual to believe that the product is
+84 not an alcoholic beverage.
+Page 3
+
+not an alcoholic beverage.
+SB217 INTRODUCED
+85 (c) No label shall be approved by the board which would
+86 violate any rule of the board which governs general
+87 advertising.
+88 (d) Alcoholic beverages for retail sale shall be
+89 displayed in such a way that they are separated from
+90 nonalcoholic beverages, dual-branded beverages, or beverages
+91 intended for children.
+92 (e) Any licensed premises containing less than 500
+93 square feet in capacity in which it is unfeasible to separate
+94 the display of mixed spirit beverages from nonalcoholic
+95 beverages shall prominently post signage that states: "The
+96 products in this area contain alcohol and are not permitted
+97 for sale to anyone under 21 years of age."
+98 Section 2. Section 28-3-1, Code of Alabama 1975, is
+99 amended to read as follows:
+100 "§28-3-1
+101 As used in this title, the following words shall have
+102 the following meanings unless the context clearly indicates
+103 otherwise:
+104 (1) ALCOHOLIC BEVERAGES. Any alcoholic, spirituous,
+105 vinous, fermented, or other alcoholic beverage, or combination
+106 of liquors and mixed liquor, a part of which is spirituous,
+107 vinous, fermented, or otherwise alcoholic, and all drinks or
+108 drinkable liquids, preparations, or mixtures intended for
+109 beverage purposes, which contain one-half of one percent or
+110 more of alcohol by volume, and shall include. The term
+111 includes liquor, beer, and wine, and mixed spirit beverages.
+112 (2) ASSOCIATION. A partnership, limited partnership, or
+Page 4
+
+(2) ASSOCIATION. A partnership, limited partnership, or
+SB217 INTRODUCED
+113 any form of unincorporated enterprise owned by two or more
+114 persons.
+115 (3) BEER, or MALT OR BREWED BEVERAGES. Any beer, lager
+116 beer, ale, porter, malt or brewed beverage, or similar
+117 fermented beverage containing one-half of one percent or more
+118 of alcohol by volume and not in excess of thirteen and
+119 nine-tenths13.9 percent alcohol by volume, brewed or produced
+120 from malt, wholly or in part, or from rice, grain of any kind,
+121 bran, glucose, sugar, or molasses. A beer or malt or brewed
+122 beverage may incorporate honey, fruit, fruit juice, fruit
+123 concentrate, herbs, spices, or other flavorings during the
+124 fermentation process. The term does not include any product
+125 defined as liquor, table wine, or wine, or mixed spirit
+126 beverages.
+127 (4) BOARD. The Alabama Alcoholic Beverage Control
+128 Board.
+129 (5) BRANDY. All beverages that are an alcoholic
+130 distillate from the fermented juice, mash, or wine of fruit,
+131 or from the residue thereof, produced in such manner that the
+132 distillate possesses the taste, aroma, and characteristics
+133 generally attributed to the beverage, as bottled at not less
+134 than 80 degree proof.
+135 (6) CARTON. The package or container or containers in
+136 which alcoholic beverages are originally packaged for shipment
+137 to market by the manufacturer or its designated
+138 representatives or the importer.
+139 (7) CIDER. A fermented alcoholic beverage made from
+140 apple juice and containing not more than 8.5 percent alcohol
+Page 5
+
+apple juice and containing not more than 8.5 percent alcohol
+SB217 INTRODUCED
+141 by volume.
+142 (8) CLUB.
+143 a. Class I. A corporation or association organized or
+144 formed in good faith by authority of law and which must have
+145 at least 150 paid-up members. It must be the owner, lessee, or
+146 occupant of an establishment operated solely for the objects
+147 of a national, social, patriotic, political, or athletic
+148 nature or the like, but not for pecuniary gain, and the
+149 property, as well as the advantages of, which, belong to all
+150 the members and which maintains an establishment provided with
+151 special space and accommodations where, in consideration of
+152 payment, food with or without lodging is habitually served.
+153 The club shall hold regular meetings, continue its business
+154 through officers regularly elected, admit members by written
+155 application, investigation, and ballot, and charge and collect
+156 dues from elected members.
+157 b. Class II. A corporation or association organized or
+158 formed in good faith by authority of law and which must have
+159 at least 100 paid-up members. It must be the owner, lessee, or
+160 occupant of an establishment operated solely for the objects
+161 of a national, social, patriotic, political, or athletic
+162 nature or the like. The club shall hold regular meetings,
+163 continue its business through officers regularly elected,
+164 admit members by written application, investigation, and
+165 ballot, and charge and collect dues from elected members.
+166 (9) CONTAINER. The single bottle, can, keg, bag, or
+167 other receptacle, but not a carton, in which alcoholic
+168 beverages are originally packaged for the market by the
+Page 6
+
+beverages are originally packaged for the market by the
+SB217 INTRODUCED
+169 manufacturer or importer and from which the alcoholic beverage
+170 is consumed by or dispensed to the public.
+171 (10) CORPORATION. A corporation or joint stock
+172 association organized under the laws of this state, the United
+173 States, or any other state, territory, or foreign country, or
+174 dependency.
+175 (11) DELIVERY. The transportation of alcoholic
+176 beverages directly from a retail licensee of the board to an
+177 individual, pursuant to Section 28-1-4 and Section 28-3A-13.1.
+178 (12) DELIVERY SERVICE LICENSE. A license issued by the
+179 Alabama Alcoholic Beverage Control Boardboard in accordance
+180 with Section 28-3A-13.1 that authorizes the licensee, the
+181 licensee's employees, or independent contractors under a
+182 contractual or business arrangement with the licensee to
+183 transport and deliver alcoholic beverages.
+184 (13) DRY COUNTY. Any county which by a majority of
+185 those voting voted in the negative in an election heretofore
+186 held under the applicable statutes at the time of the election
+187 or may hereafter vote in the negative in an election or
+188 special method referendum hereafter held in accordance with
+189 Chapter 2, or held in accordance with the provisions of any
+190 act hereafter enacted permitting such election.
+191 (14) DRY MUNICIPALITY. Any municipality within a wet
+192 county which has, by its governing body or by a majority of
+193 those voting in a municipal election heretofore held in
+194 accordance with the provisions of Section 28-2-22, or in a
+195 municipal option election heretofore or hereafter held in
+196 accordance with the provisions of Act 84-408, Acts of Alabama
+Page 7
+
+accordance with the provisions of Act 84-408, Acts of Alabama
+SB217 INTRODUCED
+197 1984, appearing as Chapter 2A, or any act hereafter enacted
+198 permitting municipal option election, voted to exclude the
+199 sale of alcoholic beverages within the corporate limits of the
+200 municipality.
+201 (15) EMPLOYEE. An individual to whom an employer is
+202 required to issue a W-2 tax form under federal law.
+203 (16) GENERAL WELFARE PURPOSES. All of the following:
+204 a. The administration of public assistance as set out
+205 in Sections 38-2-5 and 38-4-1.
+206 b. Services, including supplementation and
+207 supplementary services under the federal Social Security Act,
+208 to or on behalf of persons to whom public assistance may be
+209 given under Sections 38-2-5 and 38-4-1.
+210 c. Service to and on behalf of dependent, neglected, or
+211 delinquent children.
+212 d. Investigative and referral services to and on behalf
+213 of needy persons.
+214 (17) HEARING COMMISSION. A body appointed by the board
+215 to hear and decide all contested license applications and all
+216 disciplinary charges against any licensee for violation of
+217 this title or the rules of the board.
+218 (18) HOTEL. A building or buildings held out to the
+219 public for housing accommodations of travelers or transients,
+220 and shall include a motel, but shall not include a rooming
+221 house or boarding house.
+222 (19) IMPORTER. Any person, association, or corporation
+223 engaged in importing alcoholic beverages, liquor, wine, or
+224 beer, or mixed spirit beverages manufactured outside of the
+Page 8
+
+beer, or mixed spirit beverages manufactured outside of the
+SB217 INTRODUCED
+225 United States of America into this state or for sale or
+226 distribution in this state, or to the board or to a licensee
+227 of the board.
+228 (20) INDEPENDENT CONTRACTOR. An individual to whom an
+229 employer is required to issue a 1099 tax form under federal
+230 law.
+231 (21) KEG. A pressurized factory sealed container with a
+232 capacity equal to or greater than five U.S. gallons, from
+233 which beer is withdrawn by means of an external tap.
+234 (22) LIQUOR. Any alcoholic, spirituous, vinous,
+235 fermented, or other alcoholic beverage, or combination of
+236 liquors and mixed liquor, a part of which is spirituous,
+237 fermented, vinous, or otherwise alcoholic, and all drinks or
+238 drinkable liquids, preparations, or mixtures intended for
+239 beverage purposes, which contain one-half of one percent or
+240 more of alcohol by volume, except beer, and table wine, and
+241 mixed spirit beverages.
+242 (23) LIQUOR STORE. A liquor store operated by the
+243 board, where alcoholic beverages other than beer are
+244 authorized to be sold in unopened containers.
+245 (24) MANUFACTURER. Any person, association, or
+246 corporation engaged in the producing, bottling, manufacturing,
+247 distilling, fermenting, brewing, rectifying, or compounding of
+248 alcoholic beverages, liquor, beer, or wine, or mixed spirit
+249 beverages in this state or for sale or distribution in this
+250 state or to the board or to a licensee of the board.
+251 (25) MEAD. An alcoholic beverage produced by fermenting
+252 a solution of honey and water with grain mash and containing
+Page 9
+
+a solution of honey and water with grain mash and containing
+SB217 INTRODUCED
+253 not more than 18 percent alcohol by volume.
+254 (26) MEAL. A diversified selection of food some of
+255 which is not susceptible of being consumed in the absence of
+256 at least some articles of tableware and which cannot be
+257 conveniently consumed while one is standing or walking about.
+258 (27) MINOR. Any person under 21 years of age; provided,
+259 however, in the event Section 28-1-5, shall beis repealed or
+260 otherwise shall be no longer in effect, thereafter the
+261 provisions of Section 26-1-1, shall govern.
+262 (28) MIXED SPIRIT BEVERAGES. A single-serve beverage
+263 containing liquor, packaged in a can or other container
+264 approved by the board no larger than 16 ounces, and which
+265 contains no more than 7 percent alcohol by volume. The term
+266 does not include any beverage containing liquor over 16 ounces
+267 in size or of more than 7 percent alcohol by volume.
+268 (29) MUNICIPALITY. Any incorporated city or town of
+269 this state to include its police jurisdiction.
+270 (29)(30) PERSON. Every natural person, association, or
+271 corporation. Whenever used in a clause prescribing or imposing
+272 a fine or imprisonment, or both, such the term as applied to
+273 an association shall mean the partners or members thereof and
+274 as applied to a corporation shall mean the officers thereof,
+275 except as to incorporated clubs the term person shall mean
+276 such means an individual or individuals who, under the bylaws
+277 of such clubs, shall have jurisdiction over the possession and
+278 sale of liquor therein.
+279 (30)(31) POPULATION. The population according to the
+280 last preceding or any subsequent decennial census of the
+Page 10
+
+last preceding or any subsequent decennial census of the
+SB217 INTRODUCED
+281 United States, except where a municipality is incorporated
+282 subsequent to the last census, in which event, its population
+283 until the next decennial census shall be the population of the
+284 municipality as determined by the judge of probate of the
+285 county as the official population on the date of its
+286 incorporation.
+287 (31)(32) RESTAURANT. A reputable place licensed as a
+288 restaurant, operated by a responsible person of good
+289 reputation, and habitually and principally used for the
+290 purpose of preparing and serving meals for the public to
+291 consume on the premises.
+292 (32)(33) RETAILER. Any person licensed by the board to
+293 engage in the retail sale of any alcoholic beverages to the
+294 consumer.
+295 (33)(34) SALE or SELL. Any transfer of liquor, wine, or
+296 beer, or mixed spirit beverages for a consideration, and any
+297 gift in connection with, or as a part of, a transfer of
+298 property other than liquor, wine, or beer, or mixed spirit
+299 beverages for a consideration.
+300 (34)(35) SELLING PRICE. The total marked-up price of
+301 spirituous or vinous liquors sold by the board, exclusive of
+302 taxes levied thereon.
+303 (35)(36) TABLE WINE. Except as otherwise provided in
+304 this subdivision, any wine containing not more than 24 percent
+305 alcohol by volume. Table wine does not include any wine
+306 containing more than sixteen and one-half 16.5 percent alcohol
+307 by volume that is made with herbs or flavors, except vermouth,
+308 or is an imitation or other than standard wine. Table wine is
+Page 11
+
+or is an imitation or other than standard wine. Table wine is
+SB217 INTRODUCED
+309 not liquor, spirituous, or vinous.
+310 (36)(37) UNOPENED CONTAINER. A container containing
+311 alcoholic beverages, which has not been opened or unsealed
+312 subsequent to filling and sealing by the manufacturer or
+313 importer.
+314 (37)(38) WET COUNTY. Any county which by a majority of
+315 those voting voted in the affirmative in an election
+316 heretofore held in accordance with the statutes applicable at
+317 the time of the election or may hereafter vote in the
+318 affirmative in an election or special method referendum held
+319 in accordance with Chapter 2, or other statutes applicable at
+320 the time of the election.
+321 (38)(39) WET MUNICIPALITY. Any municipality in a dry
+322 county which by a majority of those voting voted in the
+323 affirmative in a municipal option election heretofore or
+324 hereafter held in accordance with the provisions of Act
+325 84-408, Acts of Alabama 1984, appearing as Chapter 2A of this
+326 title, as amended, or any act hereafter enacted permitting
+327 municipal option election, or any municipality whichthat
+328 became wet by vote of the governing body or by the voters of
+329 the municipality heretofore or hereafter held under the
+330 special method referendum provisions of Section 28-2-22, or as
+331 hereafter provided, where the county has become dry subsequent
+332 to the elected wet status of the municipality.
+333 (39)(40) WHOLESALER. Any person licensed by the board
+334 to engage in the sale and distribution of table wine, and
+335 beer, or mixed spirit beverages, or either any combination
+336 thereofof them, within this state, at wholesale only, to be
+Page 12
+
+thereofof them, within this state, at wholesale only, to be
+SB217 INTRODUCED
+337 sold by export or to retail licensees or other wholesale
+338 licensees or others within this state lawfully authorized to
+339 sell table wine, and beer, or mixed spirit beverages, or
+340 either any combination thereof of them, for the purpose of
+341 resale only.
+342 (40)(41) WINE. All beverages made from the fermentation
+343 of fruits, berries, or grapes, with or without added spirits,
+344 and produced in accordance with the laws and regulations of
+345 the United States, containing not more than 24 percent alcohol
+346 by volume, and shall include all sparkling wines, carbonated
+347 wines, special natural wines, rectified wines, vermouths,
+348 vinous beverages, vinous liquors, and like products, including
+349 restored or unrestored pure condensed juice."
+350 Section 3. Section 28-3-208 is added to the Code of
+351 Alabama 1975, to read as follows:
+352 §28-3-208
+353 (a) There is levied, in addition to the license taxes
+354 provided for by this chapter and municipal and county license
+355 taxes, a privilege or excise tax measured by and graduated in
+356 accordance with the volume of sales of mixed spirit beverages,
+357 which shall be an amount equal to two and five-tenths cents
+358 ($.025) per ounce or fractional part thereof.
+359 (b)(1)a. The tax levied by subsection (a) shall be
+360 added to the sales price of all mixed spirit beverages and
+361 collected from the purchaser. The tax shall be collected in
+362 the first instance from the wholesaler where mixed spirit
+363 beverages are sold or handled by wholesale licensees.
+364 b. It shall be unlawful for any person who is required
+Page 13
+
+b. It shall be unlawful for any person who is required
+SB217 INTRODUCED
+365 to pay the tax in the first instance to fail or refuse to add
+366 to the sales price and collect from the purchaser the required
+367 amount of tax, it being the intent and purpose of this section
+368 that the tax levied is in fact a levy on the consumer. The
+369 person who pays the tax in the first instance is acting as an
+370 agent of the state for the collection and payment of the tax
+371 and as such may not collect a tax on mixed spirit beverages
+372 for any other level of government.
+373 (2) The tax levied by subsection (a) shall be collected
+374 by a monthly return as follows:
+375 a. The wholesaler shall file a monthly return with the
+376 board no later than the 15th day of the second month following
+377 the month of receipt of mixed spirit beverages by the
+378 wholesaler on a form prescribed by the board showing receipts
+379 by the wholesaler from manufacturers, importers, or other
+380 wholesaler licensees during the month of receipt and the tax
+381 due thereon at the rate of two and five-tenths cents ($.025)
+382 per ounce of mixed spirit beverages sold to the wholesaler.
+383 The tax due at this rate shall be remitted to the board along
+384 with the return.
+385 b. A wholesaler shall file a monthly return with the
+386 county or municipality within which the mixed spirit beverage
+387 is sold at retail not later than the 15th day of each month,
+388 showing sales by wholesalers during the preceding month and
+389 the tax due thereon at the rate of two thousandths cents
+390 ($.002) per ounce sold. The tax due at this rate shall be
+391 remitted to the county or municipality along with the return
+392 and shall be distributed as provided in Section 28-3-190.
+Page 14
+
+and shall be distributed as provided in Section 28-3-190.
+SB217 INTRODUCED
+393 (3) The board and the governing body of each county and
+394 municipality served by the wholesaler shall have the authority
+395 to examine the books and records of the wholesaler who sells,
+396 stores, or receives for the purpose of distribution any mixed
+397 spirit beverages, to determine the accuracy of any return
+398 required to be filed with it.
+399 (c) The proceeds of the tax levied by subsection (a)
+400 and remitted pursuant to subsection (b) shall be paid and
+401 distributed as follows:
+402 (1) Fifty percent of the mixed spirit beverage tax
+403 shall be deposited in the State General Fund.
+404 (2) Thirty-three percent of the mixed spirit beverage
+405 tax shall be retained by the board for regulatory,
+406 enforcement, and administrative purposes.
+407 (3) The remainder of the mixed spirit beverage tax
+408 shall be distributed to the county or municipality where the
+409 mixed spirit beverages were sold and shall be distributed as
+410 provided in Section 28-3-190.
+411 (d) The tax levied under this section is exclusive and
+412 shall be in lieu of all other and additional taxes and
+413 licenses of the state, county, or municipality, imposed on or
+414 measured by the sale or volume of sale of mixed spirit
+415 beverages, provided that nothing contained in this section
+416 shall be construed to exempt the retail sale of mixed spirit
+417 beverages from the levy of tax on general retail sales by the
+418 state, county, or municipality in the nature of, or in lieu
+419 of, a general sales tax.
+420 (e) The tax levied by subsection (a) shall not be
+Page 15
+
+(e) The tax levied by subsection (a) shall not be
+SB217 INTRODUCED
+421 imposed upon the sale, trade, or barter of mixed spirit
+422 beverages by one licensed wholesaler to another wholesaler
+423 licensed to sell and handle mixed spirit beverages in this
+424 state, which transaction is made exempt from the tax, provided
+425 the board may require written reporting of any such
+426 transaction in the form as the board may prescribe pursuant to
+427 paragraph (b)(2)a.
+428 (f) Each county and municipality may fix a reasonable
+429 privilege or license fee on retail, importer, and wholesale
+430 licensees, for the purpose of covering the cost of
+431 administration with respect to the sale of mixed spirit
+432 beverage, but not to generate revenue. A county or
+433 municipality may not levy a license or privilege tax or other
+434 charge for the privilege of doing business as a mixed spirit
+435 beverage wholesaler, importer, or retailer which shall exceed
+436 one-half the amount of the state license fee.
+437 (g) Nothing in this section shall be construed to
+438 restrict a municipality's authority to issue a business
+439 license pursuant to Article 2 of Chapter 51 of Title 11 on the
+440 privilege of doing business as a mixed spirit beverage
+441 wholesaler, importer, or retailer. Any business license issued
+442 pursuant to the foregoing article on the privilege of doing
+443 business as a mixed spirit beverage wholesaler, importer, or
+444 retailer shall not be measured by the volume of sale for mixed
+445 spirit beverages.
+446 Section 4. Section 28-3A-3 Code of Alabama 1975, is
+447 amended to read as follows:
+448 "§28-3A-3
+Page 16
+
+"§28-3A-3
+SB217 INTRODUCED
+449 (a)(1) Subject to this chapter and rules adopted
+450 thereunder, the board may issue and renew licenses to
+451 reputable and responsible persons for the following purposes:
+452 (1)a. To manufacture, brew, distill, ferment, rectify,
+453 bottle, or compound any or all alcoholic beverages within or
+454 for sale within this state.
+455 (2)b. To import any or all alcoholic beverages
+456 manufactured outside the United States into this state or for
+457 sale or distribution within this state.
+458 (3)c. To distribute, wholesale, or act as jobber for
+459 the sale of liquor.
+460 (4)d. To distribute, wholesale, or act as jobber for
+461 the sale of table wine and beer or either of them, beer, or
+462 mixed spirit beverages alone or in any combination to licensed
+463 retailers within the state and others within this state
+464 lawfully authorized to sell table wine, or beer, or mixed
+465 spirit beverages.
+466 (5)e. To store or warehouse any or all alcoholic
+467 beverages for transshipment inside and outside the state.
+468 (6)f. To sell and dispense at retail in a lounge,
+469 liquor and other alcoholic beverages for on-premises
+470 consumption.
+471 (7)g. To sell and dispense at retail in an
+472 establishment habitually and principally used for the purpose
+473 of providing meals for the public, liquor and other in a
+474 restaurant alcoholic beverages for on-premises consumption.
+475 (8)h. To sell liquor and wine at retail for
+476 off-premises consumption.
+Page 17
+
+off-premises consumption.
+SB217 INTRODUCED
+477 (9)i. To sell and dispense at retail in a club, liquor
+478 and other alcoholic beverages for on-premises consumption.
+479 (10)j. To sell table wine at retail for off-premises
+480 consumption.
+481 (11)k. To sell table wine at retail for on-premises and
+482 off-premises consumption.
+483 (12)l. To sell beer at retail for on-premises and
+484 off-premises consumption.
+485 (13)m. To sell beer at retail for off-premises
+486 consumption.
+487 n. To sell mixed spirit beverages at retail for
+488 on-premises and off-premises consumption.
+489 o. To sell mixed spirit beverages at retail for
+490 off-premises consumption.
+491 (14)p. To sell liquor and other alcoholic beverages at
+492 retail by a retail common carrier with a passenger capacity of
+493 at least 10 people.
+494 (15)q. To sell any or all alcoholic beverages at retail
+495 under a special license issued conditioned upon terms and
+496 conditions and for the period of time prescribed by the board.
+497 (16)r. To sell any or all alcoholic beverages at retail
+498 under a special event retail license issued for three days
+499 upon the terms and conditions prescribed by the board.
+500 (2) Provided, however, that theNotwithstanding
+501 subdivision (1), licenses authorized under subdivision (1) may
+502 not be issued in dry counties where traffic in alcoholic
+503 beverages is not authorized by law, therein except a wine
+504 manufacturer license may be issued in a dry county pursuant to
+Page 18
+
+manufacturer license may be issued in a dry county pursuant to
+SB217 INTRODUCED
+505 Section 28-7-10.1. Provided theThe restriction of this
+506 paragraphsubdivision shall not apply to the issuance of a
+507 renewal of a license under subdivisions (1), (2), (3), (4),
+508 and (5)paragraphs (1)a. through (1)e. where the county or
+509 municipality was wet when the initial license was issued and
+510 the county or municipality subsequently votes dry; however, no
+511 importer or wholesaler licensee may sell or distribute
+512 alcoholic beverages within a dry county, except in a wet
+513 municipality therein, or within a dry municipality.
+514 (b) The board is granted discretionary powers in acting
+515 upon license applications under the provisions of this
+516 chapter.
+517 (c) Licenses issued under this chapter, unless revoked
+518 or suspended in the manner provided in this chapter, shall be
+519 valid for the license year which shall begin on the first day
+520 of October 1 of each year, unless otherwise established by
+521 this chapter or by the board. Licenses may be issued at any
+522 time during the year."
+523 Section 5. Sections 28-3A-9.1 and 28-3A-17.3 are added
+524 to the Code of Alabama 1975, to read as follows:
+525 §28-3A-9.1
+526 (a) Upon payment of the applicable fee for a mixed
+527 spirit beverage wholesaler license as established in Section
+528 28-3A-21 and the applicant's compliance with this chapter and
+529 rules adopted pursuant to this chapter, the board shall issue
+530 to a wholesaler a mixed spirit beverage wholesaler license.
+531 (b) A mixed spirit beverage wholesaler license shall
+532 authorize the licensee to do all of the following:
+Page 19
+
+authorize the licensee to do all of the following:
+SB217 INTRODUCED
+533 (1) Import and receive shipments of mixed spirit
+534 beverages from outside the state from licensed manufacturers.
+535 (2) Purchase mixed spirit beverages from licensed
+536 manufacturers or other licensed wholesalers within the state.
+537 (3) Sell at wholesale or distribute mixed spirit
+538 beverages to all licensees or other persons within this state
+539 lawfully authorized to sell mixed spirit beverages within the
+540 state.
+541 (4) Export mixed spirit beverages from the state.
+542 (c) Sales to all authorized persons shall be in
+543 original packages or containers as approved by the board and
+544 prepared for the market by the manufacturer.
+545 (d)(1) Except as provided in this section, no person
+546 shall sell at wholesale or distribute mixed spirit beverages
+547 within this state unless the person is issued by the board a
+548 wholesaler license to distribute mixed spirit beverages.
+549 (2) Notwithstanding this section, Section 28-3A-17.3,
+550 or Chapter 8B, the board shall retain the authority to act as
+551 a wholesaler of mixed spirit beverages, provided the board, as
+552 a wholesaler, shall only distribute mixed spirit beverages to
+553 state liquor stores.
+554 §28-3A-17.3
+555 (a) Upon payment of the limited mixed spirit beverage
+556 expanded retail license fee as established in Section 28-3A-21
+557 and the applicant's compliance with this chapter and the rules
+558 adopted thereunder, the board shall issue a limited mixed
+559 spirit beverage expanded retail license to any person who
+560 holds and possesses any of the following:
+Page 20
+
+holds and possesses any of the following:
+SB217 INTRODUCED
+561 (1) A valid retail table wine license for on-premises
+562 and off-premises consumption as provided for in Section
+563 28-3A-14.
+564 (2) A valid retail table wine license for off-premises
+565 consumption as provided for in Section 28-3A-15.
+566 (3) A valid retail beer license for on-premises and
+567 off-premises consumption as provided for in Section 28-3A-16.
+568 (4) A valid retail beer license for off-premises
+569 consumption as provided for in Section 28-3A-17.
+570 (b) A license issued under this section shall authorize
+571 the licensee to purchase mixed spirit beverages from a
+572 licensed mixed spirit beverage wholesaler and sell the mixed
+573 spirit beverages at retail commensurate with the privileges
+574 granted to the licensee to sell beer and table wine.
+575 (c) As a condition for obtaining a license under this
+576 section, an applicant shall implement a secure age
+577 verification system that electronically scans an approved form
+578 of identification to determine whether an individual
+579 purchasing mixed spirit beverages is no less than 21 years of
+580 age.
+581 (d) The board shall retain all limited mixed spirit
+582 beverage expanded retail license fees collected. The board may
+583 use collected fees for regulatory and administrative purposes
+584 as determined by the board in its discretion, including for
+585 the purposes of occasional purchases by the board of mixed
+586 spirit beverages to ensure compliance with this chapter.
+587 (e) Upon payment of a mixed spirit beverage expanded
+588 retail license fee, there shall be no additional licensing or
+Page 21
+
+retail license fee, there shall be no additional licensing or
+SB217 INTRODUCED
+589 administrative requirements, including no requirement for
+590 additional background checks imposed by the municipality,
+591 county, or state for licensees for the sale of mixed spirit
+592 beverages.
+593 Section 6. Section 28-3A-21, as last amended by Acts
+594 2025-405 and 2025-413 of the 2025 Regular Session, and Section
+595 28-3A-23, Code of Alabama 1975, are amended to read as
+596 follows:
+597 "§28-3A-21
+598 (a) The following annual license fees are levied and
+599 prescribed for licenses issued and renewed by the board
+600 pursuant to the authority contained in this chapter:
+601 (1) Manufacturer license, license fee of five hundred
+602 dollars ($500).
+603 (2) Importer license, license fee of five hundred
+604 dollars ($500).
+605 (3) Liquor wholesalewholesaler license, license fee of
+606 five hundred dollars ($500).
+607 (4) Beer wholesaler license, license fee of five
+608 hundred fifty dollars ($550) plus two hundred dollars ($200)
+609 for each warehouse in addition to the principal warehouse.
+610 (5) Wine wholesaler license, license fee of five
+611 hundred fifty dollars ($550) plus two hundred dollars ($200)
+612 for each warehouse in addition to the principal warehouse.
+613 (6) Beer and wine wholesaler license, license fee of
+614 seven hundred fifty dollars ($750) plus two hundred dollars
+615 ($200) for each warehouse in addition to the principal
+616 warehouse.
+Page 22
+
+warehouse.
+SB217 INTRODUCED
+617 (7) Mixed spirit beverage wholesaler license, license
+618 fee of five hundred fifty dollars ($550) plus two hundred
+619 dollars ($200) for each warehouse in addition to the principal
+620 warehouse.
+621 (8) Beer, wine, and mixed spirit beverage wholesaler
+622 license, license fee of one thousand dollars ($1,000) plus two
+623 hundred dollars ($200) for each warehouse in addition to the
+624 principal warehouse.
+625 (7)(9) Warehouse license, license fee of two hundred
+626 dollars ($200).
+627 (8)(10) Lounge retail liquor license, license fee of
+628 three hundred dollars ($300).
+629 (9)(11) Restaurant retail liquor license, license fee
+630 of three hundred dollars ($300).
+631 (10)(12) Club liquor license, Class I license fee of
+632 three hundred dollars ($300), Class II license fee of seven
+633 hundred fifty dollars ($750).
+634 (11)(13) Retail table wine license for off-premises
+635 consumption, license fee of one hundred fifty dollars ($150).
+636 (12)(14) Retail table wine license for on-premises and
+637 off-premises consumption, license fee of one hundred fifty
+638 dollars ($150).
+639 (13)(15) Retail beer license for on-premises and
+640 off-premises consumption, license fee of one hundred fifty
+641 dollars ($150).
+642 (14)(16) Retail beer license for off-premises
+643 consumption, license fee of one hundred fifty dollars ($150).
+644 (15)(17) Retail common carrier liquor license, license
+Page 23
+
+(15)(17) Retail common carrier liquor license, license
+SB217 INTRODUCED
+645 fee of one hundred fifty dollars ($150) for each railroad,
+646 airline, bus line, ship line, vessel, or other common carrier
+647 entity with a vehicle passenger capacity of at least 10
+648 people.
+649 (16)(18) Special retail license, license fee of one
+650 hundred dollars ($100) for 30 days or less; license fee of two
+651 hundred fifty dollars ($250) for more than 30 days.
+652 (17)(19) Special events retail license, license fee of
+653 one hundred fifty dollars ($150).
+654 (20) Limited mixed spirit beverage expanded retail
+655 license, license fee of five hundred dollars ($500).
+656 (18)(21) Government venue license, license fee of two
+657 hundred fifty dollars ($250).
+658 (19)(22) Event storage license, license fee of five
+659 hundred fifty dollars ($550).
+660 (20)(23) Educational tourism distillery license,
+661 license fee of one thousand dollars ($1,000).
+662 (b) The license fees levied and fixed by this section
+663 shall be paid before the license is issued or renewed.
+664 (c) In addition to the foregoing filing fee and license
+665 taxes or fees, any county or municipality in which the sale of
+666 alcoholic beverages is permitted shall be authorized tomay fix
+667 and levy privileges or license taxes on any of the foregoing
+668 licenses located or operated therein, conditioned on a permit
+669 or license being issued by the board.
+670 (d) No county or municipality shall have any authority
+671 to levy a license or tax of any nature on any liquor store."
+672 "§28-3A-23
+Page 24
+
+"§28-3A-23
+SB217 INTRODUCED
+673 (a) No license prescribed in this titlechapter shall be
+674 issued or renewed until the provisions of this titlechapter
+675 have been complied with and the filing and license fees other
+676 than those levied by a municipality are paid to the board.
+677 (b) Licenses shall be granted and issued by the board
+678 only to reputable individuals, to associations whose members
+679 are reputable individuals, or to reputable corporations
+680 organized under the laws of this state or duly qualified
+681 thereunder to do business in Alabama, or, in the case of
+682 manufacturers, duly registered under the laws of Alabama, and
+683 then only when it appears that all officers and directors of
+684 the corporation are reputable individuals.
+685 (c)(1) In addition to all other requirements, an
+686 applicant for a license under this section shall submit to the
+687 board a form, sworn to by the applicant, providing written
+688 consent from the applicant for the release of criminal history
+689 background information. The form shall also require the
+690 applicant's name, date of birth, and Social Security number
+691 for completion of a criminal history background check.
+692 (2) An applicant shall provide the board with two
+693 complete functional sets of fingerprints, either cards or
+694 electronic, properly executed by a criminal justice agency or
+695 an individual properly trained in fingerprinting techniques.
+696 The fingerprints and form shall be submitted by the board to
+697 the State Bureau of InvestigationsInvestigation of the Alabama
+698 State Law Enforcement Agency for the purposes of furnishing
+699 criminal background checks. The State Bureau of
+700 InvestigationsInvestigation shall forward a copy of the
+Page 25
+
+InvestigationsInvestigation shall forward a copy of the
+SB217 INTRODUCED
+701 applicant's prints to the Federal Bureau of Investigation for
+702 a national criminal background check. The applicant shall pay
+703 all costs associated with the background checks required by
+704 this section.
+705 (3) For purposes of this section, the term "applicant"
+706 shall includeincludes every person who has any proprietary or
+707 profit interest of 10 percent or more in the licensed
+708 establishment, but. The term shall not include any public
+709 corporation whose shares are traded on a recognized stock
+710 exchange.
+711 (4) The board shall keep information received pursuant
+712 to this section confidential, except that information received
+713 and relied upon in denying the issuance of a license in this
+714 state may be disclosed as may be necessary to support the
+715 denial or when subpoenaed from a court.
+716 (d) Every license issued under this titlechapter shall
+717 be constantly and conspicuously displayed on the licensed
+718 premises.
+719 (e) Each retail liquor license application must be
+720 approved by the governing authority of the municipality if the
+721 retailer is located in a municipality, or by the county
+722 commission if the retailer is located in the county and
+723 outside the limits of the municipality, before the board shall
+724 have authority to grant the license.
+725 (f) Any retailer may be granted licenses to maintain,
+726 operate, or conduct any number of places for the sale of
+727 alcoholic beverages, but a separate license must be secured
+728 for each place where alcoholic beverages are sold. No retail
+Page 26
+
+for each place where alcoholic beverages are sold. No retail
+SB217 INTRODUCED
+729 license issued under this titlechapter shall be used for more
+730 than one premises, nor for separate types of operation on the
+731 same premises. Provided, however, anyAny such licensed retail
+732 operation existing on May 14, 2009, and operating based on
+733 dual licenses, both a club or lounge license and a restaurant
+734 license, on the same premises shall be exempt from the
+735 requirement of the preceding sentence and may continue to
+736 operate under the dual licenses. Any rule adopted by the board
+737 relating to the requirements concerning dual licenses, both a
+738 club or lounge license and a restaurant license, shall not
+739 apply to any retail operation existing on May 14, 2009. The
+740 rules shall include, but not be limited to, the maintenance of
+741 separate books, separate entrances, and separate inventories.
+742 Each premises must have a separate retail license. Where more
+743 than one retail operation is located within the same building,
+744 each operation under a separate or different ownership is
+745 required to obtain a separate retail license; and where more
+746 than one type of retail operation located within the same
+747 building is operated by the same licensee, the licensee must
+748 have a license for each type of retail operation. Provided,
+749 thereThere shall be no licenses issued by the board for the
+750 sale of liquor, beer, or wine by rolling stores.
+751 (g) No retailer shall sell any alcoholic beverages for
+752 consumption on the licensed premises except in a room or rooms
+753 or place on the licensed premises at all times accessible to
+754 the use and accommodation of the general public; but this
+755 section shall not be interpreted to prevent a hotel or club
+756 licensee from selling alcoholic beverages in any room of the
+Page 27
+
+licensee from selling alcoholic beverages in any room of the
+SB217 INTRODUCED
+757 hotel or club house occupied by a bona fide registered guest
+758 or member or private party entitled to purchase the same.
+759 (h) All beer, except draft or keg beer, sold by
+760 retailers must be sold or dispensed in bottles, cans, or other
+761 containers not to exceed 25.4 ounces. All wine sold by
+762 retailers for off-premises consumption must be sold or
+763 dispensed in bottles or other containers in accordance with
+764 the standards of fill specified in the then effective
+765 standards of fill for wine prescribed by the U.S. Treasury
+766 Department.
+767 (i) Draft or keg beer may be sold or dispensed within
+768 this state within those counties in which and in the manner in
+769 which the sale of draft or keg beer was authorized by law on
+770 September 30, 1980, or in which the sale of draft or keg beer
+771 is hereafter authorized by law. In rural communities with a
+772 predominantly foreign population, after the payment of the tax
+773 imposed by this title, draft or keg beer may be sold or
+774 dispensed by special permit from the board, when, in the
+775 judgment of the board, the use and consumption of draft or keg
+776 beer is in accordance with the habit and customs of the people
+777 of any such rural community. The board may grant to any civic
+778 center authority or its franchisee or concessionaire, to which
+779 the board may have issued or may simultaneously issue a retail
+780 license under the provisions of this title, a revocable
+781 temporary permit to sell or dispense in any part of its civic
+782 center, for consumption therein, draft or keg beer. Either
+783 permit shall be promptly revoked by the board if, in its
+784 judgment, the same tends to create intemperance or is
+Page 28
+
+judgment, the same tends to create intemperance or is
+SB217 INTRODUCED
+785 prejudicial to the welfare, health, peace, temperance, and
+786 safety of the people of the community or of the state.
+787 (j) No importer shall sell alcoholic beverages to any
+788 person other than a wholesaler licensee, or sell to a
+789 wholesaler licensee any brand or brands of alcoholic beverages
+790 for sale or distribution in this state, except where the
+791 importer has been granted written authorization from the
+792 manufacturer thereof to import and sell the brand or brands to
+793 be sold in this state, which authorization is on file with the
+794 board.
+795 (k) No wholesaler shall maintain or operate any place
+796 where sales are made other than that for which the wholesale
+797 license is granted; provided, however, a. A wholesaler may be
+798 licensed to sell and distribute liquor, wine, and beer, and
+799 mixed spirit beverages. No wholesaler shall maintain any place
+800 for the storage of liquor, wine, or beer, or mixed spirit
+801 beverages unless the same has been approved by the board. No
+802 wholesaler license shall be issued for any premises in any
+803 part of which there is operated any retail license for the
+804 sale of alcoholic beverages.
+805 (l) Licenses issued under this titlechapter may not be
+806 assigned. The board may transfer any license from one person
+807 to another, or from one place to another within the same
+808 governing jurisdiction, or both, as the board may determine;
+809 but no transfers shall be made to a person who would not have
+810 been eligible to receive the license originally, nor for the
+811 transaction of business at a place for which the license could
+812 not originally have been issued lawfully.
+Page 29
+
+not originally have been issued lawfully.
+SB217 INTRODUCED
+813 (m) Every applicant for a transfer of a license shall
+814 file a written application with the board within such time as
+815 the board shall fix in its rules. Whenever any license is
+816 transferred, there shall be collected a filing fee of fifty
+817 dollars ($50), to be paid to the board, and the board shall
+818 pay the fee into the State Treasury to the credit of the Beer
+819 Tax and License Fund of the board.
+820 (n) In the event that any person to whom a license has
+821 been issued under the terms of this titlechapter becomes
+822 insolvent, makes an assignment for the benefit of creditors,
+823 or is adjudicated as bankrupt by either voluntary or
+824 involuntary action, the license of the person shall
+825 immediately terminate and be cancelledcanceled without any
+826 action on the part of the board, and there shall be no refund
+827 made, or credit given, for the unused portion of the license
+828 fee for the remainder of the license year for which the
+829 license was granted. Thereafter, no license shall be issued by
+830 the board for the premises, wherein the license was conducted,
+831 to any assignee, committee, trustee, receiver, or successor of
+832 the licensee until a hearing has been held by the board as in
+833 the case of a new application for license. In all such cases,
+834 the board shall have the sole and final discretion as to the
+835 propriety of the issuance of a license for the premises, the
+836 time it shall issue, and the period for which it shall be
+837 issued, and shall have the further power to impose conditions
+838 under which the licensed premises shall be conducted."
+839 Section 7. Sections 28-3A-1.5, 28-3A-11, 28-3A-12,
+840 28-3A-13, 28-3A-17.2, 28-3A-18, 28-3A-19, 28-3A-19.1, and
+Page 30
+
+28-3A-13, 28-3A-17.2, 28-3A-18, 28-3A-19, 28-3A-19.1, and
+SB217 INTRODUCED
+841 28-3A-20, Code of Alabama 1975, Section 1 of Act 2025-413,
+842 2025 Regular Session, now appearing as Section 28-3A-6.5, Code
+843 of Alabama 1975, Section 3 of Act 2025-405, 2025 Regular
+844 Session, now appearing as Sections 28-3A-19.2, Code of Alabama
+845 1975, and Section 2 of Act 2025-405, 2025 Regular Session, now
+846 appearing as 28-3A-20.5, Code of Alabama 1975, are amended to
+847 make conforming changes to read as follows:
+848 "§28-3A-1.5
+849 (a) Definitions.
+850 As used in this section and Section 28-3A-6, the
+851 following words shall have the following meanings:
+852 (1) NONPROFIT SPECIAL EVENTS RETAIL LICENSE. A license
+853 issued pursuant to subsection (b) for the sale of beer, wine,
+854 mixed spirit beverages, or liquor.
+855 (2) QUALIFYING ORGANIZATION. A bona fide nonprofit
+856 organization operating in the state that satisfies all of the
+857 following requirements:
+858 a. Operates without profit to the organization's
+859 members.
+860 b. Is exempt from taxation under Section 501 of the
+861 Internal Revenue Code26 U.S.C. § 501.
+862 c. Satisfies at least one of the following
+863 requirements:
+864 1. Has been continuously in existence in the state for
+865 a minimum of three years.
+866 2. Is affiliated with a parent organization that has
+867 been in existence in the state for a minimum of three years.
+868 3. Has reorganized and is continuing its mission under
+Page 31
+
+3. Has reorganized and is continuing its mission under
+SB217 INTRODUCED
+869 a new name on file with the Secretary of State and with a new
+870 tax identification number after having satisfied the
+871 requirements set forth in either subparagraph 1. or 2.
+872 (b) Licensed authorized.
+873 The board may issue a nonprofit special events retail
+874 license for the sale of beer, wine, mixed spirit beverages,
+875 and liquor to a qualifying organization.
+876 (c) Applications for nonprofit special events retail
+877 license.
+878 (1) Applications for a nonprofit special events retail
+879 license shall be made with the board at least 25 calendar days
+880 prior to the event on forms provided by the board and shall be
+881 verified by oath or affirmation of an officer or director of
+882 the qualifying organization who is authorized to do so.
+883 (2) The applicant shall provide the board all of the
+884 following:
+885 a. Documentation to show that the nonprofit is a
+886 qualifying organization.
+887 b. A notarized, signed statement of proper authority
+888 from the person signing the application.
+889 c. Date, time, and address of the event location. The
+890 applicant may also include an alternate event date or
+891 location.
+892 d. Documentation of authority for use of property for
+893 the requested event.
+894 e. A copy of the letter notifying the local governing
+895 officials of the event.
+896 (3) A qualifying organization that applies for a
+Page 32
+
+(3) A qualifying organization that applies for a
+SB217 INTRODUCED
+897 nonprofit special events retail license shall not be required
+898 to provide evidence of liquor liability insurance.
+899 (4) The board may request additional documentation at
+900 its discretion.
+901 (5) Nonprofit special eventevents retail licenses are
+902 not renewable and are valid for a period not to exceed seven
+903 days, and are issued upon terms and conditions as the board
+904 may prescribe.
+905 (d) Donated alcohol.
+906 Beer, wine, mixed spirit beverages, and liquor may be
+907 donated by a nonlicensed person.
+908 (e) Rulemaking authority.
+909 The board may adopt rules necessary for the
+910 implementation and administration of this section and Section
+911 28-3A-6."
+912 "§28-3A-11
+913 Upon applicant's compliance with the provisions of this
+914 chapter and the regulations made thereunder, the board shall,
+915 where the application is accompanied by a certificate from the
+916 clerk or proper officer setting out that the applicant has
+917 presented his or her application to the governing authority of
+918 the municipality, if the licensed premises is to be located
+919 therein, and has obtained its consent and approval, shall
+920 issue a retail liquor license which will authorize the
+921 licensee to purchase liquor and wine from the board or as
+922 authorized by the board and to purchase table wine, mixed
+923 spirit beverages, and beer, including draft or keg beer in any
+924 county or municipality in which the sale thereof is permitted,
+Page 33
+
+county or municipality in which the sale thereof is permitted,
+SB217 INTRODUCED
+925 from any wholesaler licensee of the board and to sell at
+926 retail liquor and wine, dispensed from containers of any size,
+927 mixed spirit beverages in containers not to exceed 16 ounces,
+928 and beer, including draft or keg beer, in any county or
+929 municipality in which the sale thereof is permitted, to
+930 patrons. A lounge liquor licensee may permit dancing or
+931 provide other lawful entertainment on the licensed premises.
+932 No person under 19 years of age shall be admitted on the
+933 premises of any lounge liquor licensee as a patron or
+934 employee, and it shall be unlawful for any such licensee to
+935 admit any minor to the premises as a patron or employee."
+936 "§28-3A-12
+937 Upon applicant's compliance with the provisions of this
+938 chapter and the regulations made thereunder, the board may,
+939 where the application is accompanied by a certificate from the
+940 clerk or proper officers setting out that the applicant has
+941 presented his or her application to the governing authority of
+942 the municipality, if the licensed premises is to be located
+943 therein, and has obtained its consent and approval, may issue
+944 a club liquor license for a club which will authorize the
+945 licensee to purchase liquor and wine from the board or as
+946 authorized by the board and to purchase table wine, mixed
+947 spirit beverages, and beer, including draft or keg beer, in
+948 any county or municipality in which the sale thereof is
+949 permitted, from any wholesale licensee of the board and to
+950 sell liquor and wine, dispensed from containers of any size,
+951 mixed spirit beverages in containers not to exceed 16 ounces,
+952 and beer, including draft or keg beer, in any county or
+Page 34
+
+and beer, including draft or keg beer, in any county or
+SB217 INTRODUCED
+953 municipality in which the sale thereof is permitted, to the
+954 members of the club or their guests for on-premises
+955 consumption and to sell all of the above for off-premises
+956 consumption except on Sunday."
+957 "§28-3A-13
+958 (a) Upon applicant's compliance with this chapter and
+959 the rules adopted thereunder, the board shall, where the
+960 application is accompanied by a certificate from the clerk or
+961 proper officer setting out that the applicant has presented
+962 his or her application to the governing authority of the
+963 municipality, if the licensed premises is to be located
+964 therein, and has obtained its consent and approval, shall
+965 issue a restaurant liquor license for a hotel, restaurant,
+966 civic center authority, or dinner theater which will authorize
+967 the licensee to purchase liquor and wine from the board or as
+968 authorized by the board and to purchase table wine, mixed
+969 spirit beverages, and beer, including draft or keg beer, in
+970 any county or municipality in which the sale thereof is
+971 permitted, from any wholesale licensee of the board and, in
+972 that part of the hotel, restaurant, club, or dinner theater
+973 set out in the license, to sell liquor and wine, dispensed
+974 from containers of any size, mixed spirit beverages in
+975 containers not to exceed 16 ounces, and beer, including draft
+976 or keg beer, in any county or municipality in which the sale
+977 thereof is permitted, to the patrons, guests, or members for
+978 on-premises consumption in any part of the civic center or in
+979 that part of the hotel, restaurant, or dinner theater
+980 habitually used for serving meals to patrons, guests, or
+Page 35
+
+habitually used for serving meals to patrons, guests, or
+SB217 INTRODUCED
+981 members, or other public or private rooms of the building in
+982 accordance with this chapter and the rules adopted thereunder,
+983 and where a restaurant located in a hotel, but not operated by
+984 the owner of the hotel, is licensed to sell alcoholic
+985 beverages in the restaurant, it may also sell alcoholic
+986 beverages to guests in private rooms in the hotel.
+987 (b) In accordance with Section 28-3A-13.1, a restaurant
+988 retail liquor licensee licensed to sell beer, wine, mixed
+989 spirit beverages, or spirits for on-premises consumption may
+990 apply for and be issued a delivery service license that
+991 authorizes the licensee to deliver, along with the purchase of
+992 a meal, beer, wine, mixed spirit beverages, or spirits from
+993 the retailer's premises."
+994 "§28-3A-17.2
+995 (a) As used in this section, "food or beverage truck"
+996 means a fully encased food or beverage service establishment
+997 approved by the Department of Public Health, which is housed
+998 on a motor vehicle or on a trailer that a motor vehicle pulls
+999 to transport, and from which a vendor, standing within the
+1000 frame of the vehicle, prepares, cooks, sells, or serves food
+1001 or beverages, or both, for immediate human consumption. The
+1002 term does not include a food or beverage cart that is not
+1003 motorized.
+1004 (b)(1) Upon a food or beverage truck applicant's
+1005 compliance with this chapter and any rules adopted thereunder,
+1006 and upon presentation of the certificate described in
+1007 subdivision (2), the board shall issue to the applicant a food
+1008 or beverage truck license that will authorize the licensee to
+Page 36
+
+or beverage truck license that will authorize the licensee to
+SB217 INTRODUCED
+1009 purchase liquor and wine from the board or, as authorized by
+1010 the board, table wine, mixed spirit beverages, and beer,
+1011 including draft or keg beer, from any wholesale licensee of
+1012 the board and to sell alcoholic beverages for on-premises
+1013 consumption to guests who may consume the beverages in open
+1014 containers anywhere within an area designated by the municipal
+1015 governing body within an established entertainment district,
+1016 provided the license is not prohibited by a valid ordinance or
+1017 other ordinance in the valid exercise of police power by the
+1018 governing body of the municipality in which the food or
+1019 beverage truck is located.
+1020 (2) An applicant shall obtain from the municipality in
+1021 which the food or beverage truck intends to operate a
+1022 certificate setting out that the applicant has presented his
+1023 or her application to the governing body of the municipality
+1024 and the municipality approves of the issuance of the license
+1025 for the food or beverage truck to sell alcoholic beverages.
+1026 (c) The food or beverage truck license fee shall be
+1027 three hundred dollars ($300).
+1028 (d) A food or beverage truck operating outside the
+1029 designated entertainment district may not sell alcoholic
+1030 beverages.
+1031 (e) A food or beverage truck licensee shall consent, in
+1032 writing, to warrantless inspections by city, county, and state
+1033 inspectors and law enforcement.
+1034 (f) A food or beverage truck licensee must comply with
+1035 all on-premises rules, other than the requirement for seating
+1036 and restrooms.
+Page 37
+
+and restrooms.
+SB217 INTRODUCED
+1037 (g) Each food or beverage truck licensee shall collect
+1038 and remit all state and local sales and use taxes and all
+1039 excise and privilege taxes due on the sale of alcoholic
+1040 beverages.
+1041 (h) A food or beverage truck licensee may not serve or
+1042 be authorized to serve any food or beverage within 150 feet of
+1043 any entrance to any permanent restaurant or to any Alcoholic
+1044 Beverage Control Board licensee.
+1045 (i) The board, by rule, may require security cameras in
+1046 all licensed food or beverage trucks and may require a barrier
+1047 be placed as a boundary around the vicinity of the food or
+1048 beverage truck or group of food or beverage trucks within
+1049 which consumption of alcoholic beverages is permitted. The
+1050 board shall adopt additional reasonable rules to protect
+1051 public health and safety."
+1052 "§28-3A-18
+1053 (a) Upon applicant's compliance with the provisions of
+1054 this chapter and the regulations made thereunder, the board
+1055 shall issue a retail common carrier liquor license for a
+1056 railroad, airline, bus line, ship line, vessel, or other
+1057 common carrier entity operating passenger vehicles with a
+1058 passenger seating capacity of at least 10 people, which will
+1059 authorize the licensee to sell, whenever operated in Alabama,
+1060 alcoholic beverages, liquor, mixed spirit beverages, wine, and
+1061 beer, including draft or keg beer, to passengers for
+1062 consumption while aboard such licensee. No railroad, airline,
+1063 bus line, ship line, vessel, or common carrier entity shall
+1064 sell alcoholic beverages to passengers for consumption within
+Page 38
+
+sell alcoholic beverages to passengers for consumption within
+SB217 INTRODUCED
+1065 this state without first obtaining a retail common carrier
+1066 liquor license from the board.
+1067 (b) Sales within Alabama of alcoholic beverages by
+1068 retail common carrier liquor licensees shall be made in
+1069 accordance with and shall be subject to the provisions of this
+1070 chapter and regulations promulgatedadopted thereunder."
+1071 "§28-3A-19
+1072 Upon applicant's compliance with the provisions of this
+1073 chapter and the regulations made thereunder, the board shall
+1074 issue a special retail license in wet counties for a state
+1075 park, racing commission, fair authority, airport authority, or
+1076 civic center authority, or the franchises or concessionaire of
+1077 such park, commission, or authority, and may, in its
+1078 discretion, issue a special retail license to any other valid,
+1079 responsible organization of good reputation for such period of
+1080 time not to exceed one year and upon such terms and conditions
+1081 as the board shall prescribe, which will authorize the
+1082 licensee to purchase, where the retail sale thereof is
+1083 authorized by the board, liquor and wine from the board or as
+1084 authorized by the board and table wine, mixed spirit
+1085 beverages, and beer from any wholesale licensee of the board
+1086 and to sell at retail and dispense such alcoholic beverages as
+1087 are authorized by the board at such locations authorized by
+1088 the board upon such terms and conditions as prescribed by the
+1089 board. Provided, however, noNo sale of alcoholic beverages
+1090 shall be permitted on any Sunday after the hour of 2:00
+1091 A.M.a.m."
+1092 "§28-3A-19.1
+Page 39
+
+"§28-3A-19.1
+SB217 INTRODUCED
+1093 (a) Upon compliance by an applicant with the provisions
+1094 of this chapter, and the regulations made thereunder, the
+1095 Alcoholic Beverage Control Board may, where the application is
+1096 accompanied by a certificate from the clerk or proper officers
+1097 setting out that the applicant has presented his or her
+1098 application to the governing authority of the municipality if
+1099 the licensed premises is to be located therein, or by a
+1100 certificate from the clerk or proper officers of the county if
+1101 the licensed premises is to be located within the county but
+1102 outside the jurisdiction of a municipality, and that the
+1103 applicant has obtained the consent and approval of the proper
+1104 governing authority, may issue an international motor speedway
+1105 license for any international motor speedway in the state
+1106 which marketed at least 60,000 tickets to at least two motor
+1107 sport racing events at the speedway in 1994, 1995, and 1996.
+1108 Notwithstanding the provisions of subdivisions (20) and (21)
+1109 of subsection (a) of Section 28-3A-25Section 28-3A-25(a)(20)
+1110 and (21), the international motor speedway license shall
+1111 authorize the licensee to purchase liquor and wine from the
+1112 board, or as authorized by the board, and to purchase table
+1113 wine, mixed spirit beverages, and beer, in any county or
+1114 municipality in which the sale thereof is permitted, from any
+1115 wholesale licensee of the board and to sell liquor and wine,
+1116 dispensed from containers of any size, mixed spirit beverages
+1117 in containers not to exceed 16 ounces, and beer in any county
+1118 or municipality in which the sale thereof is permitted, for
+1119 on-premises consumption each day of the week, including
+1120 SundaysSunday, and to sell all of the aforementioned for
+Page 40
+
+SundaysSunday, and to sell all of the aforementioned for
+SB217 INTRODUCED
+1121 off-premises consumption except on Sunday. Such sales shall be
+1122 incidental to the primary purpose of recreation and athletics,
+1123 and shall be confined to those buildings, facilities, and
+1124 grounds which comprise the speedway.
+1125 (b) An annual license fee of three hundred dollars
+1126 ($300) is levied and prescribed for an international motor
+1127 speedway license issued and renewed by the board pursuant to
+1128 the authority contained in this section and this chapter."
+1129 "§28-3A-20
+1130 Upon applicant's compliance with this chapter and the
+1131 regulations made thereunder, and upon application made on a
+1132 form provided by the board at least 25 days in advance of the
+1133 event for which a license is granted, the board shall issue a
+1134 special events license for a valid, responsible organization
+1135 of good reputation, for a period not to exceed seven days, and
+1136 upon such terms and conditions as the board may prescribe. The
+1137 license shall authorize the licensee to purchase, where the
+1138 retail sale thereof is authorized by the board, liquor and
+1139 wine from the board or as authorized by the board and table
+1140 wine, mixed spirit beverages, and beer from any wholesale
+1141 licensee of the board and to sell at retail and dispense such
+1142 alcoholic beverages as are authorized by the board to the
+1143 patrons, guests, or members of the organization at such
+1144 locations or areas as shall be authorized by the board upon
+1145 such terms and conditions as prescribed by the board. No sale
+1146 of alcoholic beverages shall be permitted on any Sunday after
+1147 the hour of 2:00 A.M a.m."
+1148 "§28-3A-6.5
+Page 41
+
+"§28-3A-6.5
+SB217 INTRODUCED
+1149 (a)(1) Upon compliance by an applicant with this
+1150 chapter and provided the operation is in compliance with state
+1151 and federal laws, rules, and regulations, the Alabama
+1152 Alcoholic Beverage Control Board may issue an Educational
+1153 Tourism Distillery license to any person engaged in the
+1154 producing, bottling, manufacturing, distilling, rectifying, or
+1155 compounding of liquor upon payment of the license fee as
+1156 established in Section 28-3A-21.
+1157 (2) For the purposes of this section, an Educational
+1158 Tourism Distillery licensee must produce, bottle, manufacture,
+1159 distill, rectify, or compound 100,000 gallons or more of
+1160 liquor each year.
+1161 (3) For purposes of this section, the total gross sales
+1162 of an Educational Tourism Distillery licensee must be 50
+1163 percent or more from liquor products produced, bottled,
+1164 manufactured, distilled, rectified, or compounded on site.
+1165 (4) For purposes of this section, an Educational
+1166 Tourism Distillery licensee may export sales outside of the
+1167 State of Alabama.
+1168 (5) Any licensee operating under or in conjunction with
+1169 an Educational Tourism Distillery license shall be responsible
+1170 for ensuring compliance with all applicable laws and board
+1171 rules relating to the sale of alcohol.
+1172 (b) An Educational Tourism Distillery license
+1173 authorizes the licensee to do all of the following on the
+1174 premises pursuant to this section:
+1175 (1) Purchase other liquor and wine from the board, or
+1176 as authorized by the board; purchase table wine, mixed spirit
+Page 42
+
+as authorized by the board; purchase table wine, mixed spirit
+SB217 INTRODUCED
+1177 beverages, and beer from any wholesale licensee of the board;
+1178 and sell liquor, wine, and beer dispensed from containers of
+1179 any size, to include draft beer, and mixed spirit beverages in
+1180 containers not to exceed 16 ounces, for on-premises
+1181 consumption. The sale of alcoholic beverages under this
+1182 subdivision shall be confined to a designated enclosed area
+1183 comprising no fewer than 500 square feet for service and
+1184 consumption, within which patrons under 21 years of age are
+1185 prohibited from entering. Any liquor manufactured at the
+1186 licensed premises may be sold for on-premiseon-premises
+1187 consumption in this designated area, provided that the total
+1188 amount of liquor sold in a single tasting or sampling flight
+1189 does not exceed one and one-half ounces.
+1190 (2) Purchase other liquor and wine from the board, or
+1191 as authorized by the board; purchase table wine, mixed spirit
+1192 beverages, and beer from any wholesale licensee of the board;
+1193 and sell liquor, wine, and beer dispensed from containers of
+1194 any size, to include draft beer, and mixed spirit beverages in
+1195 containers not to exceed 16 ounces, for on-premises
+1196 consumption in a freestanding separate structure on the
+1197 licensed premises where the licensee provides or serves food.
+1198 Any liquor manufactured at the licensed premises may be sold
+1199 at retail for on-premises consumption in the designated area.
+1200 (3) Purchase other liquor and wine from the board, or
+1201 as authorized by the board; purchase table wine, mixed spirit
+1202 beverages, and beer from any wholesale licensee of the board;
+1203 and sell liquor, wine, and beer dispensed from containers of
+1204 any size, to include draft beer, and mixed spirit beverages in
+Page 43
+
+any size, to include draft beer, and mixed spirit beverages in
+SB217 INTRODUCED
+1205 containers not to exceed 16 ounces, for on-premises
+1206 consumption at temporary or permanently designated serving
+1207 stations on the licensed premises for special events such as
+1208 receptions, parties, or similar gatherings. A licensee shall
+1209 post at each of its special event serving stations at least
+1210 one sign warning customers that the sale of alcoholic
+1211 beverages to patrons under 21 years of age is strictly
+1212 prohibited. Any liquor manufactured at the licensed premises
+1213 may be sold for on-premises consumption in the designated
+1214 serving stations.
+1215 (4) Sell at retail in a designated enclosed area, which
+1216 shall be separate from all other designated areas on the
+1217 licensed premises, for off-premises consumption, liquor
+1218 manufactured at the licensed premises; provided, however,
+1219 liquor. Liquor sold for off-premises consumption may not
+1220 exceed four and one-half liters per customer per day and shall
+1221 be sealed, labeled, packaged, and taxed in accordance with
+1222 state and federal laws, rules, and regulations.
+1223 (5) Must provide patrons with the opportunity to
+1224 participate in a guided tour of the distillery operations,
+1225 which tours must include an educational component in which an
+1226 in-person guide provides information to patrons regarding the
+1227 historic and scientific characteristics of the liquor
+1228 manufactured at the licensed premises. A licensee may offer a
+1229 tasting or sampling of liquor manufactured at the licensed
+1230 premises at the conclusion of each tour in a designated
+1231 enclosed area which shall be separate from all other
+1232 designated areas on the licensed premises, provided that the
+Page 44
+
+designated areas on the licensed premises, provided that the
+SB217 INTRODUCED
+1233 total amount of liquor provided to each patron for such
+1234 tasting or sampling does not exceed one and one-half ounces.
+1235 The price of the tasting or sampling shall be included in the
+1236 price charged to patrons over 21 years of age for the guided
+1237 tour. No retail sales shall be authorized in the designated
+1238 area.
+1239 (c) An Educational Tourism Distillery licensee may
+1240 transfer liquor directly from a licensed manufacturer. For the
+1241 purposes of this subsection, the licensee must have a 75
+1242 percent ownership or control of the brand or product received
+1243 by the licensee.
+1244 (d) The licensed premises must contain a distillery
+1245 operation that encompasses no fewer than 5,000 square feet in
+1246 one or more structures.
+1247 (e) There is levied and assessed upon all liquor
+1248 manufactured on the premises which is dispensed or sold at
+1249 retail for on-premises or off-premises consumption, as well as
+1250 samplings and tastings consumed as provided in this section,
+1251 the mark up and the privilege or excise tax imposed on the
+1252 retail sale of liquor in a state liquor store, in the same
+1253 manner as if collected in a state liquor store. Taxes and mark
+1254 up described in this subsection shall be remitted by the
+1255 licensee to the board. The respective mark up and taxes
+1256 collected shall be distributed, respectively, in the same
+1257 manner as the mark up and taxes collected in an ABC liquor
+1258 store.
+1259 (f)(1) The tax levied in subsection (e) shall be
+1260 collected by a return which shall be filed by the licensee
+Page 45
+
+collected by a return which shall be filed by the licensee
+SB217 INTRODUCED
+1261 with the board postmarked not later than the last day of the
+1262 month following the month of production or sale of liquor,
+1263 which shall be accompanied by the remittance of the tax due.
+1264 The report shall include, but not be limited to, a
+1265 consolidated report of all liquor manufactured, sold, or
+1266 otherwise consumed on the licensed location. The report shall
+1267 be in the form and containing information as the board may
+1268 prescribe.
+1269 (2) If a licensee fails to file any return required to
+1270 be filed with the board on or before the date prescribed
+1271 therefor, including any written extension of time granted by
+1272 the board in advance, there shall be assessed as a penalty the
+1273 greater of 10 percent of any additional tax required to be
+1274 paid with the return or fifty dollars ($50).
+1275 (3) If a licensee fails to pay to the board the amount
+1276 of the tax due on a return required to be filed on or before
+1277 the date prescribed for payment of the tax, including any
+1278 written extension of time granted by the board in advance,
+1279 there shall be added as a penalty 10 percent of the unpaid
+1280 amount due on the return.
+1281 (4) Interest shall be added to any tax due to the board
+1282 which is not paid by the due date, from the due date of the
+1283 tax, computed based on the underpayment rate established by
+1284 the Secretary of the Treasury under the authority of 26 U.S.C.
+1285 § 6621.
+1286 (g) An Educational Tourism Distillery licensee shall
+1287 not sell any alcoholic beverages direct to any retailer.
+1288 (h) An Educational Tourism Distillery licensee shall
+Page 46
+
+(h) An Educational Tourism Distillery licensee shall
+SB217 INTRODUCED
+1289 file with the board, prior to making any sales in Alabama, a
+1290 list of its labels to be sold in Alabama and shall file with
+1291 the board its federal certificate of label approvals or its
+1292 certificates of exemption as required by the U.S. Treasury
+1293 Department. All liquors whose labels have not been registered
+1294 as herein provided for shall be considered contraband and may
+1295 be seized by the board or its agents or by any peace officer
+1296 of the State of Alabama without a warrant, and the goods shall
+1297 be delivered to the board and disposed of as provided by law.
+1298 (i)(1) An Educational Tourism Distillery licensee shall
+1299 keep at its principal place of business within the state daily
+1300 permanent records that show the quantities of raw materials
+1301 received and used in the manufacture of liquor, and the
+1302 quantities of alcoholic beverages manufactured and stored, the
+1303 sale of alcoholic beverages, the quantities of alcoholic
+1304 beverages stored for hire or transported for hire by or for
+1305 the licensee, and the names and addresses of the purchasers or
+1306 other recipients thereof.
+1307 (2) An Educational Tourism Distillery licensee shall
+1308 keep and maintain for a minimum of three years all records
+1309 required to be kept and maintained at the licensed location by
+1310 manufacturer, wholesaler, and retailer licensees for the tax
+1311 so levied, except that the Educational Tourism Distillery is
+1312 not required to maintain name, address, or other personal
+1313 demographic information for sales as provided in subdivision
+1314 (1).
+1315 (j) An Educational Tourism Distillery licensee shall be
+1316 subject to inspection by members of the board or by
+Page 47
+
+subject to inspection by members of the board or by
+SB217 INTRODUCED
+1317 individuals authorized and designated by the board at any time
+1318 of the day or night as they may deem necessary for the
+1319 detection of violations of this chapter, of any law, or of the
+1320 rules of the board, or for the purpose of ascertaining the
+1321 correctness of the records required to be kept by the
+1322 licensees. The books and records of licensees, at all times,
+1323 shall be open to inspection by members of the board or by
+1324 individuals authorized and designated by the board. Members of
+1325 the board and its authorized agents, without hindrance, may
+1326 enter any place that is subject to inspection hereunder or any
+1327 place where records are kept for the purpose of making
+1328 inspections and making transcripts thereof.
+1329 (k) An Educational Tourism Distillery licensee may be
+1330 certified in the Responsible Vendor Program.
+1331 (l) A licensee shall post in each of its locations
+1332 where alcoholic beverages are served at least one sign warning
+1333 customers that the sale of alcoholic beverages to patrons
+1334 under 21 years of age is strictly prohibited. The sign shall
+1335 be posted at a point of sale or in any other location that is
+1336 visible to customers and employees.
+1337 (m) An Educational Tourism Distillery licensee shall
+1338 maintain a surety bond of not less than twenty-five thousand
+1339 dollars ($25,000), payable to the board for any outstanding
+1340 fine, penalty, or tax.
+1341 (n) Upon approval of the board, a licensee shall be
+1342 allowed one off-premises manufacturer extension location for
+1343 the exclusive storage of finished and unfinished goods
+1344 pursuant to this section:
+Page 48
+
+pursuant to this section:
+SB217 INTRODUCED
+1345 (1) A licensee shall provide documentation indicating
+1346 approval from the Alcohol and Tobacco Tax and Trade Bureau for
+1347 the extension. Prior to a manufacturer extension being issued
+1348 in Alabama, the licensee must provide all of the following:
+1349 a. Approval of the manufacturer extension from the
+1350 Alcohol and Tobacco Tax and Trade Bureau.
+1351 b. A lease, deed, or other document showing control of
+1352 the property.
+1353 c. A current, valid Educational Tourism Distillery
+1354 license from the board.
+1355 (2) The application for a manufacturing extension must
+1356 be approved by the board prior to its use.
+1357 (3) The manufacturer extension premises must be secured
+1358 at all times.
+1359 (4) The manufacturer extension premises may not be used
+1360 for the exportation of products nor any form of distribution
+1361 of products within Alabama.
+1362 (5) Except where otherwise prohibited by federal or
+1363 state law, a licensee may obtain a manufacturer extension for
+1364 a building located 10 miles or less from the original licensed
+1365 premises. A manufacturer extension is prohibited outside the
+1366 State of Alabama.
+1367 (6) Authorized representatives of the board or
+1368 commissioned law enforcement officers of the state, county, or
+1369 municipality in which the manufacturer extension premises is
+1370 located may enter and search, without a warrant, the
+1371 manufacturer extension premises or any building owned or
+1372 occupied by the licensee in connection therewith, adjoining,
+Page 49
+
+occupied by the licensee in connection therewith, adjoining,
+SB217 INTRODUCED
+1373 adjacent to, or part of the curtilage thereof, whether used as
+1374 a private dwelling or not, at any time.
+1375 (7) No sales, sampling, or tastings of any alcoholic
+1376 beverage shall be allowed at the manufacturer extension
+1377 premises.
+1378 (8) A licensee under this section which is issued a
+1379 manufacturer extension shall maintain all records related to
+1380 the disposition of the finished or unfinished goods stored in
+1381 the extension, as applicable.
+1382 (9) The finished and unfinished goods may be
+1383 transported in bond from the licensed premises to the
+1384 manufacturer extension location for storage, as applicable.
+1385 Transportation shall be made by the licensee or employee of
+1386 the same in a vehicle bearing signage on each side identifying
+1387 the licensee. A current copy of the manufacturer extension and
+1388 the bill of lading or other documentary evidence of ownership
+1389 of the product shall be included on board the transportation
+1390 vehicle."
+1391 "§28-3A-19.2
+1392 (a) Upon an applicant's compliance with this chapter
+1393 and rules adopted thereunder and payment of the government
+1394 venue license fee as established in Section 28-3A-21, the
+1395 board shall issue a government venue license to a person for
+1396 such period of time and upon such terms and conditions as the
+1397 board may prescribe. A government venue license authorizes the
+1398 licensee to purchase liquor and wine from the board and table
+1399 wine, mixed spirit beverages, and beer from any wholesale
+1400 licensee and to sell at retail and dispense for on-premises
+Page 50
+
+licensee and to sell at retail and dispense for on-premises
+SB217 INTRODUCED
+1401 consumption alcoholic beverages at a location on property
+1402 owned or leased by the state or a political subdivision of the
+1403 state. Locations may include, but are not limited to, civic
+1404 centers and community event spaces; concert centers,
+1405 amphitheaters, and music halls; convention centers and
+1406 exhibition halls; government owned stadiums and sports
+1407 complexes; or historic properties, parks, fairgrounds, or
+1408 other outdoor spaces.
+1409 (b) The government venue license is a special retail
+1410 license, and selling and dispensing of alcoholic beverages
+1411 shall be restricted to an occasional use basis. For the
+1412 purposes of this section, "occasional use basis" refers to a
+1413 location where alcoholic beverages are sold and dispensed at
+1414 individual events that may be open to the public or restricted
+1415 to private parties. The term excludes locations where
+1416 alcoholic beverages are dispensed and served to the public
+1417 during continual business hours on a regular schedule.
+1418 (c) Any holder of a special retail license under
+1419 Section 28-3A-19 may convert the license to a government venue
+1420 license no later than September 30, 2026; provided, all
+1421 requirements for issuance of a government venue license are
+1422 met."
+1423 "§28-3A-20.5
+1424 (a) Upon an eligible applicant's compliance with this
+1425 chapter and rules adopted thereunder and payment of the event
+1426 storage license fee as established in Section 28-3A-21 the
+1427 board, on and after January 1, 2026, shall issue an event
+1428 storage license to a person for such period of time not to
+Page 51
+
+storage license to a person for such period of time not to
+SB217 INTRODUCED
+1429 exceed one year and upon such terms and conditions as the
+1430 board may prescribe. An event storage license authorizes the
+1431 licensee to purchase and store alcoholic beverages at one
+1432 designated location and transfer alcoholic beverages as needed
+1433 to special event venues where the licensee holds the
+1434 appropriate special event license under the same Federal
+1435 Employer Identification Number.
+1436 (b) Notwithstanding Section 28-3-4, only the holder of
+1437 one or more of the following special event licenses shall be
+1438 eligible to make application for and hold an event storage
+1439 license:
+1440 (1) A special events retail license.
+1441 (2) A nonprofit special events retail license.
+1442 (3) A special retail license for 30 days or less.
+1443 (4) A government venue license.
+1444 (c) An event storage license authorizes a licensee to:
+1445 (1) Store alcoholic beverages, when not at a special
+1446 event venue, at the storage location;
+1447 (2) Arrange delivery of alcoholic beverages purchased
+1448 from the board or a wholesale licensee directly to the
+1449 licensee's storage location or directly to a special event
+1450 license venue; and
+1451 (3) Transfer alcoholic beverages between the storage
+1452 location and a special event venue. Alcoholic beverages
+1453 returned from a special event venue to the storage location
+1454 may then be transferred to another special event venue, but a
+1455 licensee may not transfer alcoholic beverages directly from
+1456 one special event venue to another special event venue without
+Page 52
+
+one special event venue to another special event venue without
+SB217 INTRODUCED
+1457 first returning the alcoholic beverages to the storage
+1458 location.
+1459 (d)(1) The holder of an event storage license may only
+1460 purchase beer, mixed spirit beverages, and table wine from a
+1461 licensed wholesaler that maintains the appropriate franchise
+1462 for the brand purchased in the area applicable to the storage
+1463 location. The holder of an event storage license may only
+1464 purchase liquor from the board wholesale.
+1465 (2) The holder of an event storage license may purchase
+1466 alcoholic beverages under one of the special events licenses
+1467 listed in subsection (b) which is issued to the holder;
+1468 provided, the purchase ismay be made only from a vendor
+1469 permitted under the special events license and that any
+1470 remaining alcoholic beverages purchased are to be returned to
+1471 the storage location.
+1472 (e) The holder of an event storage license may apply
+1473 for and hold up to three such licenses, each of which permits
+1474 one designated storage location, provided:
+1475 (1) All storage locations are situated at least 100
+1476 miles from one another; and
+1477 (2) Alcoholic beverages may not be transferred between
+1478 storage locations.
+1479 (f) The storage location facility must:
+1480 (1) Be secured at all times with locked access when not
+1481 in use;
+1482 (2) Use an access control system to monitor and
+1483 restrict entry to authorized individuals only;
+1484 (3) Be temperature controlled as appropriate for the
+Page 53
+
+(3) Be temperature controlled as appropriate for the
+SB217 INTRODUCED
+1485 types of alcoholic beverages stored; and
+1486 (4) Comply with local zoning and building codes.
+1487 (g) An event storage licensee shall track all alcoholic
+1488 beverage transfers, on a form prescribed by the board, which
+1489 shall include, but not be limited to, all of the following
+1490 information:
+1491 (1) The name under which the event storage license is
+1492 issued.
+1493 (2) The event storage license number.
+1494 (3) The date of the transfer.
+1495 (4) The type of alcoholic beverage, the brand name, and
+1496 the quantity transferred.
+1497 (5) The destination of the transfer, identified by
+1498 location, special event license type, and number.
+1499 (6) If the destination of the transfer is the return of
+1500 alcoholic beverages from a special event venue to a storage
+1501 location, the type of alcoholic beverage, the brand, and the
+1502 quantity returned.
+1503 (7) A signed certification that the transfer is in
+1504 compliance with this section and board rules.
+1505 (h)(1) An event storage licensee shall maintain for a
+1506 period of three years records of all alcoholic beverages
+1507 purchased, stored, transferred, and sold in accordance with
+1508 rules adopted by the board. These records may be maintained in
+1509 an electronic format so long as the records may be promptly
+1510 provided in a readable format upon request by the board.
+1511 (2) All invoices, transfer logs, and other records of
+1512 an event storage licensee shall be subject to inspection by
+Page 54
+
+an event storage licensee shall be subject to inspection by
+SB217 INTRODUCED
+1513 members of the board or by agents authorized and designated by
+1514 the board at any time during the normal business hours
+1515 established by the licensee.
+1516 (3) Inspection by the board or by agents authorized and
+1517 designated by the board may:
+1518 a. Include a search by law enforcement officers with
+1519 jurisdiction if the circumstances require; and
+1520 b. Extend to other buildings attached or adjacent to
+1521 the storage location, including a dwelling.
+1522 (i)(1) If a discrepancy is discovered during an
+1523 inspection or audit, the board may issue a compliance warning,
+1524 require immediate corrective action, or issue a citation.
+1525 (2) Reoccurring discrepancies discovered by audit or
+1526 inspection may be considered a violation pursuant to rules
+1527 adopted by the board.
+1528 (3) The board may assess a civil fine of no more than
+1529 one thousand dollars ($1,000) for each occurrence that is a
+1530 violation of this chapter and may revoke the license.
+1531 (j) The board shall adopt rules to implement this
+1532 section."
+1533 Section 8. Section 28-3A-27 is added to the Code of
+1534 Alabama 1975, to read as follows:
+1535 §28-3A-27
+1536 (a) A person that is issued a limited mixed spirit
+1537 beverage expanded retail license pursuant to this chapter
+1538 which sells, attempts to sell, furnishes, or otherwise
+1539 provides a mixed spirit beverage to an individual who is less
+1540 than 21 years of age shall be subject to the following
+Page 55
+
+than 21 years of age shall be subject to the following
+SB217 INTRODUCED
+1541 penalties:
+1542 (1) For a first offense, the board shall prohibit the
+1543 the sale of mixed spirit beverages for 30 days at the licensed
+1544 premises where the violation occurred.
+1545 (2) For a second offense within the same 18-month
+1546 period, the board shall suspend the sale of any alcoholic
+1547 beverage at the premises covered by the license for 90 days.
+1548 (3) For a third offense within the same 18-month
+1549 period, the board shall revoke all licenses to sell alcoholic
+1550 beverages and tobacco products covering the premises where the
+1551 violation occurred for a 24-month period.
+1552 (b) The board shall publish a list identifying any
+1553 retailer, by licensed premises, which violates this section.
+1554 Upon notification by the board and confirmed receipt by a
+1555 wholesaler, the wholesaler shall terminate sales or
+1556 distribution to the retailer according to the terms of the
+1557 board's order.
+1558 Section 9. Chapter 8B, commencing with Section 28-8B-1,
+1559 is added to Title 28 of the Code of Alabama 1975, to read as
+1560 follows:
+1561 §28-8B-1
+1562 (a) The Legislature hereby finds and declares that this
+1563 chapter is enacted pursuant to the authority granted to the
+1564 state under the Twenty-First Amendment to the United States
+1565 Constitution, the powers reserved to the state under the Tenth
+1566 Amendment to the United States Constitution, and the inherent
+1567 powers of the state under the Constitution of Alabama of 2022,
+1568 in order to regulate the traffic of alcoholic beverages and to
+Page 56
+
+in order to regulate the traffic of alcoholic beverages and to
+SB217 INTRODUCED
+1569 substitute the regulations and oversight established in this
+1570 chapter for the application of federal and state antitrust
+1571 laws that otherwise would apply to any potential
+1572 anti-competitive effects of this title. For the avoidance of
+1573 doubt, the intent of the Legislature is to maintain the
+1574 uniform three-tier system of control over the sale, purchase,
+1575 taxation, transportation, manufacture, consumption, and
+1576 possession of alcoholic beverages in the state to promote the
+1577 health, safety, and welfare of residents of this state by,
+1578 among other purposes, ensuring the state shall be able to
+1579 register, audit, inspect, seize, recall, and test alcoholic
+1580 beverages shipped into, distributed, and sold throughout this
+1581 state; and this expression of the policy and intent of the
+1582 Legislature is intended to satisfy the clear articulation test
+1583 for state action immunity as has been established by the
+1584 United States Supreme Court in California Retail Liquor
+1585 Dealers Assn. v. Midcal Aluminum, Inc., et al.
+1586 (b) If any provision of this chapter, or its
+1587 application to any person or circumstance, is determined by a
+1588 court to be invalid or unconstitutional, that provision shall
+1589 be stricken and the remaining provisions shall be construed in
+1590 accordance with the intent of the Legislature to further limit
+1591 rather than expand commerce in alcoholic beverages, including
+1592 by prohibiting any commerce in alcoholic beverages not
+1593 expressly authorized, and to enhance strict regulatory control
+1594 over taxation, distribution, and sale of alcoholic beverages
+1595 through the existing uniform system of regulation of alcoholic
+1596 beverages.
+Page 57
+
+beverages.
+SB217 INTRODUCED
+1597 §28-8B-2
+1598 (a) This chapter applies only to mixed spirit beverages
+1599 and does not apply to regulation of beer or wine franchises.
+1600 (b) Nothing in this chapter shall be deemed to repeal
+1601 or amend any existing beer or wine franchise laws. This
+1602 chapter is intended to address mixed spirit beverages and to
+1603 leave in effect and unchanged any local or state franchise
+1604 laws existing on the effective date of this act.
+1605 §28-8B-3
+1606 (a) Each supplier of mixed spirit beverages licensed by
+1607 the board to sell its mixed spirit beverages within the State
+1608 of Alabama shall sell its mixed spirit beverages only through
+1609 wholesaler licensees of the board and shall grant in writing
+1610 to each of its wholesalers a distribution agreement which
+1611 contains the wholesaler's exclusive sales territory for the
+1612 distribution of the supplier's designated brand in accordance
+1613 with Chapter 8.
+1614 (b) A licensed retailer may not purchase mixed spirit
+1615 beverages from any entity other than the licensed wholesaler
+1616 designated by the manufacturer of the mixed spirit beverages.
+1617 §28-8B-4
+1618 (a) For the purposes of this chapter, the following
+1619 terms have the following meanings:
+1620 (1) DISTRIBUTION AGREEMENT. Any written and signed
+1621 agreement between a wholesaler and a supplier, whereby a
+1622 wholesaler is granted the right to purchase and sell a brand
+1623 of mixed spirit beverages sold by a supplier.
+1624 (2) FAIR MARKET VALUE. An amount equal to a multiple of
+Page 58
+
+(2) FAIR MARKET VALUE. An amount equal to a multiple of
+SB217 INTRODUCED
+1625 the wholesaler's gross profit on the wholesaler's sales of the
+1626 supplier's products in the 12-month period immediately
+1627 preceding the date of the notice of termination or non-renewal
+1628 by supplier.
+1629 (3) GOOD CAUSE. A material breach by the wholesaler of
+1630 an essential element in a distribution agreement with a
+1631 supplier which is uncured or which reoccurs three or more
+1632 times.
+1633 (4) GROSS PROFIT. The wholesaler's selling price, net
+1634 of promotions, discounts, allowances, and freight, of the
+1635 products sold during such 12-month period, less the
+1636 wholesaler's cost to purchase the products from the supplier,
+1637 net of any discounts, promotions, and allowances from the
+1638 supplier.
+1639 (b) Upon a supplier's termination or non-renewal of a
+1640 distribution agreement with a wholesaler, except where
+1641 termination or non-renewal is for good cause, the supplier
+1642 shall pay the wholesaler reasonable compensation in an amount
+1643 equal to the fair market value of the wholesaler's business
+1644 attributable to the supplier's portfolio, including the value
+1645 of the distribution rights, current saleable inventory,
+1646 goodwill, and other relevant assets.
+1647 (c) The supplier and wholesaler shall have 30 days
+1648 following receipt of the supplier's notice of termination or
+1649 non-renewal to agree upon a multiple of gross profit in
+1650 determining fair market value. Following the notice of
+1651 termination or non-renewal, but prior to determination of the
+1652 fair market value of the supplier's portfolio, the supplier
+Page 59
+
+fair market value of the supplier's portfolio, the supplier
+SB217 INTRODUCED
+1653 and wholesaler shall each continue to operate in good faith in
+1654 the regular course of the business relationship.
+1655 (d)(1) In determining fair market value, in the event
+1656 that supplier and wholesaler cannot agree upon the multiple of
+1657 gross profit after 30 days, the parties shall then have 10
+1658 business days to each appoint, at their own cost, an
+1659 independent third-party appraiser with demonstrable experience
+1660 in valuating alcoholic beverage distribution rights. Each
+1661 party's independent appraiser, within 30 days, shall submit in
+1662 writing the fair market value appraisal of the supplier's
+1663 portfolio, including disclosing the multiple of gross profit
+1664 used to arrive at the valuation.
+1665 (2) If the independent appraisers' valuations of the
+1666 supplier's portfolio are within 10 percent of each other, the
+1667 fair market value shall be the average of the two valuations.
+1668 (3) If the independent appraisers' valuations are not
+1669 within 10 percent of each other, a third independent appraiser
+1670 with experience in valuating alcoholic beverage distribution
+1671 rights shall be retained by mutual agreement of the parties
+1672 within 10 business days to assess the fair market value, and
+1673 the fair market value shall be submitted in writing by the
+1674 third independent appraiser within 30 days. The cost of the
+1675 third independent appraiser shall be shared equally by the
+1676 parties. The fair market value shall then be the average of:
+1677 (i) the third independent appraiser's valuation; and (ii) the
+1678 average of the first two valuations.
+1679 (e) The supplier shall have no more than seven business
+1680 days after the determination of fair market value within which
+Page 60
+
+days after the determination of fair market value within which
+SB217 INTRODUCED
+1681 to remit payment of reasonable compensation to the wholesaler.
+1682 Section 10. If any provision of this act, or its
+1683 application to any person or circumstance, is determined by a
+1684 court to be invalid or unconstitutional, that provision shall
+1685 be stricken and the remaining provisions shall be construed in
+1686 accordance with the intent of the Legislature to further limit
+1687 rather than expand commerce in alcoholic beverages, including
+1688 by prohibiting any commerce in alcoholic beverages not
+1689 expressly authorized, and to enhance strict regulatory control
+1690 over taxation, distribution, and sale of alcoholic beverages
+1691 through the existing uniform system of regulation of alcoholic
+1692 beverages.
+1693 Section 11. This act shall become effective immediately
+1694 upon approval by the Governor.
+Page 61

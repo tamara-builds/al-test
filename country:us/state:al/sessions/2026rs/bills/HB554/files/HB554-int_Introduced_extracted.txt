@@ -1,0 +1,168 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB554 INTRODUCED
+1 HB554
+2 U9R6SXG-1
+3 By Representatives Hall, Daniels, Jones, Lands, Clarke, Forte,
+4 Warren, Datcher, Bracy, Hollis, Tillman, Moore (M), McClammy,
+5 Hendrix, Morris, England, Sellers, Gray, Travis, McCampbell,
+6 Hassell, Givan, Drummond, Jackson, Lawrence, Ensler, Rafferty,
+7 Chestnut, Boyd
+8 RFD: State Government
+9 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+U9R6SXG-1 12/10/2025 MRF (F)MRF 2025-3524
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish the State Energy
+6 Supply and Chemical Trade Stabilization Act that
+7 creates a strategic framework to reinforce energy and
+8 chemical manufacturing by incentivizing domestic
+9 production, supporting feedstock substitution, and
+10 modernizing logistics infrastructure critical to energy
+11 and industrial chemical supply chains.
+12
+13
+14 A BILL
+15 TO BE ENTITLED
+16 AN ACT
+17
+18 Relating to commerce; to establish the State Energy
+19 Supply and Chemical Trade Stabilization Act; to provide
+20 definitions; to create the State Energy Supply and Chemical
+21 Trade Stabilization Grant Program and the State Energy Supply
+22 and Chemical Trade Stabilization Grant Fund; to create the
+23 Reshoring and Domestic Production Income Tax Credit; to create
+24 the Reshoring and Domestic Production Loan Program; to create
+25 the Chemical and Energy Trade Risk Assessment Board; and to
+26 provide for the Alabama Department of Economic and Community
+27 Affairs to adopt rules to implement the provisions of this
+28 act.
+Page 1
+
+act.
+HB554 INTRODUCED
+29 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+30 Section 1. This act shall be known and may be cited as
+31 the "State Energy Supply and Chemical Trade Stabilization
+32 Act."
+33 Section 2. It is the intent of the Legislature to
+34 enhance the resilience of energy and chemical manufacturing
+35 sectors by addressing the risks posed by global trade
+36 disruptions and strengthening domestic production capacity.
+37 Section 3. For the purposes of this Act, the following
+38 terms have the following meanings:
+39 (1) DEPARTMENT. The Alabama Department of Economic and
+40 Community Affairs.
+41 (2) ELIGIBLE FACILITIES. Any taxpayer who is a
+42 chemical or energy production facility located within the
+43 state.
+44 (3) FEEDSTOCK. Any raw material to supply or fuel a
+45 machine or industrial process.
+46 (4) INPUT. Any material required to initiate, produce,
+47 and deliver goods or services.
+48 (5) TRADE DISRUPTION. Any condition, including tariffs
+49 or sanctions, that increases input costs, limits access to
+50 equipment, or reduces export capacity.
+51 Section 4. (a) The State Energy Supply and Chemical
+52 Trade Stabilization Grant Program and the State Energy Supply
+53 and Chemical Trade Stabilization Grant Fund are established
+54 and shall be administered by the department to support
+55 eligible facilities impacted by trade disruptions.
+56 (b) Grant funds may be used to:
+Page 2
+
+(b) Grant funds may be used to:
+HB554 INTRODUCED
+57 (1) Mitigate financial losses;
+58 (2) Implement supply chain modifications;
+59 (3) Retain key personnel;
+60 (4) Identify critical feedstocks and inputs vulnerable
+61 to trade restrictions;
+62 (5) Support research into domestic or alternative
+63 inputs;
+64 (6) Pilot commercial applications of substitute
+65 materials or energy sources; or
+66 (7) Support capital improvements to energy and chemical
+67 infrastructure, including, but not limited to, the following:
+68 a. Pipeline upgrades.
+69 b. Chemical storage expansion.
+70 c. Intermodal transport hubs.
+71 d. Port facilities.
+72 (c) The department shall issue guidelines for
+73 application procedures and required documents.
+74 (d) The aggregate amount of grants awarded pursuant to
+75 this section shall not exceed two million dollars ($2,000,000)
+76 in a calendar year.
+77 Section 5. (a) A refundable income tax credit, known as
+78 the Reshoring and Domestic Production Income Tax Credit, may
+79 be claimed by eligible facilities for capital investment
+80 projects relating to chemical and energy production in the
+81 state.
+82 (b) A taxpayer may claim a credit in an amount equal to
+83 30 percent of the amount of qualifying investments made during
+84 the tax year.
+Page 3
+
+the tax year.
+HB554 INTRODUCED
+85 (c) The income tax credit authorized by this act is
+86 limited to an aggregate amount for all taxpayers of two
+87 million dollars ($2,000,000) annually.
+88 (d) The income tax credit is nontransferable and may be
+89 carried forward for up to five years.
+90 (e)(1) The income tax credit allowed under this section
+91 may be claimed beginning with the 2027 tax year and may not be
+92 claimed for tax years after the 2031 tax year, except for
+93 carry-forward as provided in subsection (d).
+94 (2) A taxpayer shall not claim this income tax credit
+95 for more than three tax years.
+96 (f) The Alabama Department of Revenue may adopt rules
+97 for the implementation and administration of this section.
+98 Section 6. (a) The Reshoring and Domestic Production
+99 Loan Program is established and shall be administered by the
+100 department to provide low-interest loans to eligible
+101 facilities for site development and equipment acquisition.
+102 (b) The amount of any low-interest loan shall not
+103 exceed 30 percent of qualifying investment expenditures.
+104 (c) The department shall establish rules for
+105 application procedures and documentation requirements.
+106 Section 7. (a) There is established the Chemical and
+107 Energy Trade Risk Assessment Board to evaluate vulnerabilities
+108 in chemical and energy trade flows and recommend strategic
+109 countermeasures.
+110 (b) The board shall consist of five members, each
+111 appointed by the director of the department.
+112 (c)(1) The first meeting shall be held by September 1,
+Page 4
+
+(c)(1) The first meeting shall be held by September 1,
+HB554 INTRODUCED
+113 2026, at which time the board shall elect a chair.
+114 (2) The board shall meet no less than annually and at
+115 the call of the chair.
+116 (d) The board shall:
+117 (1) Review supply chain dependencies;
+118 (2) Identify trade vulnerabilities; and
+119 (3) Recommend strategies for securing critical trade
+120 flows.
+121 (e) The board shall issue a biennial report to the
+122 Governor and the Legislature on its activities, findings, and
+123 recommendations.
+124 (f) Each member of the board shall be reimbursed at the
+125 same per diem and travel allowance amounts paid by law to
+126 state employees for each day of attendance of the business of
+127 the board.
+128 Section 8. This act shall become effective on July 1,
+129 2026.
+Page 5

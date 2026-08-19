@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB157 INTRODUCED
+1 SB157
+2 MSIZ91W-1
+3 By Senators Coleman, Figures, Stewart, Smitherman
+4 RFD: Veterans, Military Affairs and Public Safety
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+MSIZ91W-1 01/13/2026 THR (L)THR 2025-2253
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a recording made by a
+6 body-worn camera or dashboard camera used by a law
+7 enforcement agency may only be disclosed to an
+8 individual or a personal representative of an
+9 individual whose image or voice is the subject of the
+10 recording.
+11 This bill would provide that a recording made by
+12 a body-worn camera or dashboard camera used by a law
+13 enforcement agency be considered a public record,
+14 making the recording subject to public inspection.
+15 This bill would also provide for an appeals
+16 process if a law enforcement agency fails to provide a
+17 requested recording.
+18
+19
+20 A BILL
+21 TO BE ENTITLED
+22 AN ACT
+23
+24 Relating to law enforcement; to amend Sections
+25 36-21-210, 36-21-212, and 36-21-213, Code of Alabama 1975; to
+26 further provide for the release of certain law enforcement
+27 recordings; and to provide an appeal process.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+SB157 INTRODUCED
+29 Section 1. Sections 36-21-210, 36-21-212, and
+30 36-21-213, Code of Alabama 1975, are amended to read as
+31 follows:
+32 "§36-21-210
+33 As used in For the purposes of this article, the
+34 following terms have the following meanings:
+35 (1) BODY-WORN CAMERA. An operational video or digital
+36 camera or other electronic device, including a microphone or
+37 other mechanism to capture audio, affixed to the uniform or
+38 person of law enforcement agency personnel and positioned in a
+39 way that allows the camera or device to capture interactions
+40 between law enforcement agency personnel and others.
+41 (2) CUSTODIAL LAW ENFORCEMENT AGENCY. The law
+42 enforcement agency that owns or leases or whose personnel
+43 operates the equipment that created the recording at the time
+44 the recording was made. If another law enforcement agency
+45 takes over the investigation of the recorded incident, that
+46 agency becomes the custodial law enforcement agency for the
+47 purposes of this article.
+48 (3) DASHBOARD CAMERA. A device or system installed or
+49 used in a law enforcement agency vehicle that electronically
+50 records images or audio of interactions between law
+51 enforcement agency personnel and others. This term does not
+52 include a body-worn camera.
+53 (4) DISCLOSE or DISCLOSURE. To make a recording
+54 available for viewing or listening at a time and location
+55 chosen by the custodial law enforcement agency. This term does
+56 not include the release of a recording.
+Page 2
+
+not include the release of a recording.
+SB157 INTRODUCED
+57 (5) PERSONAL REPRESENTATIVE. A parent, court-appointed
+58 guardian, spouse, or attorney of an individual whose image or
+59 voice is the subject of the recording. If an individual whose
+60 image or voice is the subject of the recording is deceased,
+61 the term also means the personal representative of the estate
+62 of the deceased individual; the deceased individual's
+63 surviving spouse, parent, or adult child; the deceased
+64 individual's attorney; or the parent or guardian of a
+65 surviving minor child of the deceased.
+66 (6)(4) RECORDING. A visual, audio, or visual and audio
+67 recording captured by a body-worn camera, a dashboard camera,
+68 or any other video or audio recording device operated by or on
+69 behalf of a law enforcement agency or law enforcement agency
+70 personnel when carrying out law enforcement responsibilities.
+71 This term does not include any video or audio recordings of
+72 interviews regarding agency internal investigations or
+73 interviews or interrogations of suspects or witnesses.
+74 (7) RELEASE. To provide a copy of a recording."
+75 "§36-21-212
+76 (a) Recordings A recording in the custody of a law
+77 enforcement agency shall be disclosed to an individual or
+78 personal representative only as provided by this article. This
+79 article does not apply to the exchange of recordings between
+80 law enforcement or prosecuting agenciesdeemed a public record
+81 under Section 36-12-40 and subject to public inspection as
+82 otherwise provided by law. An individual requesting disclosure
+83 the release of a recording must make a written request to the
+84 head of the custodial law enforcement agency that states the
+Page 3
+
+head of the custodial law enforcement agency that states the
+SB157 INTRODUCED
+85 date and approximate time of the activity captured in the
+86 recording or otherwise identifies the activity with reasonable
+87 particularity sufficient to identify the recording to which
+88 the request refers.
+89 (b) Nothing in this article shall limit or restrict the
+90 application of the Alabama Rules of Civil Procedure as they
+91 may be applied to the custodial law enforcement agency,
+92 including, but not limited to, Rule 45, nor Chapter 21 of
+93 Title 12.
+94 (c) A custodial law enforcement agency may only
+95 disclose a recording to the following:
+96 (1) An individual whose image or voice is the subject
+97 of the recording.
+98 (2) A personal representative of an adult individual
+99 whose image or voice is the subject of the recording if the
+100 adult individual has consented to the disclosure.
+101 (3) A personal representative of a minor whose image or
+102 voice is the subject of the recording.
+103 (4) A personal representative of an adult individual
+104 under lawful guardianship whose image or voice is the subject
+105 of the recording.
+106 (5) A personal representative of an adult individual
+107 who is incapacitated and unable to provide consent to
+108 disclosure whose image or voice is the subject of the
+109 recording.
+110 (6) A personal representative of a deceased individual
+111 whose image or voice is the subject of the recording.
+112 (d)(c) When disclosing releasing a recording, the
+Page 4
+
+(d)(c) When disclosing releasing a recording, the
+SB157 INTRODUCED
+113 custodial law enforcement agency shall disclose release only
+114 those portions of the recording that are relevant to the
+115 individual's request.
+116 (e) An individual who receives disclosure pursuant to
+117 this section shall not record or copy the recording.
+118 (d)(1) An individual whose request for the release of a
+119 recording is denied by a law enforcement agency may file a
+120 petition for judicial review in the circuit court of the
+121 county where the individual resides or where the law
+122 enforcement agency is located.
+123 (2) A circuit court may uphold a denial to release a
+124 recording only if the release would substantially interfere
+125 with an ongoing investigation or prosecution, including, but
+126 not limited to, endangering the safety of a witness or a
+127 confidential source."
+128 "§36-21-213
+129 (a) Upon Not more than 30 days after receipt of the
+130 written request for disclosurerelease and payment of a
+131 reasonable fee, not to exceed the actual cost of producing the
+132 recording, as promptly as possible, the custodial law
+133 enforcement agency shall do either of the following:
+134 (1) Disclose Release the portion of the recording
+135 relevant to the individual's request.
+136 (2) Notify the requestor of the custodial law
+137 enforcement agency's decision not to disclose release the
+138 recording if the release of . A custodial law enforcement
+139 agency may choose to not disclose the recording if the
+140 disclosure would affect substantially interfere with an
+Page 5
+
+disclosure would affect substantially interfere with an
+SB157 INTRODUCED
+141 ongoing active law enforcement investigation or prosecution.
+142 (b) A custodial law enforcement agency may charge a
+143 reasonable fee for redaction and editing of a recording."
+144 Section 2. This act shall become effective on October
+145 1, 2026.
+Page 6

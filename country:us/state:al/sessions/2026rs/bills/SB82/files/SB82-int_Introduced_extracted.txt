@@ -1,0 +1,846 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB82 INTRODUCED
+1 SB82
+2 TBWAC91-1
+3 By Senators Stutts, Orr
+4 RFD: Healthcare
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+TBWAC91-1 12/17/2025 JC (L)LG 2025-3599
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, health care institutions and
+6 providers, with some exceptions, must apply for and
+7 obtain a certificate of need as a requirement for
+8 constructing new medical facilities or offering new or
+9 expanded health care services.
+10 This bill would eliminate the certificate of
+11 need requirement for any proposed new or expanded
+12 medical facility or health care service that is to be
+13 located in a rural area.
+14 This bill would require rural health care
+15 providers to continue to submit reports to the State
+16 Health Planning and Development Agency.
+17 This bill would also delete duplicative language
+18 and would also make nonsubstantive, technical revisions
+19 to update the existing code language to current style.
+20
+21
+22 A BILL
+23 TO BE ENTITLED
+24 AN ACT
+25
+26 Relating to the Certificate of Need Program; to amend
+27 Sections 22-4-32, 22-21-260, 22-21-263, 22-21-265, and
+28 22-21-271, Code of Alabama 1975; and to repeal Section
+Page 1
+
+22-21-271, Code of Alabama 1975; and to repeal Section
+SB82 INTRODUCED
+29 22-21-278, Code of Alabama 1975; to eliminate the certificate
+30 of need requirement for new or expanded health care facilities
+31 and services in rural areas; to provide a definition for
+32 "rural area"; to require health care institutions and services
+33 in rural areas to submit reports to the State Health Planning
+34 and Development Agency; and to delete duplicative language and
+35 make nonsubstantive, technical revisions to update the
+36 existing code language to current style.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Sections 22-4-32, 22-21-260, 22-21-263,
+39 22-21-265, and 22-21-271, Code of Alabama 1975, are amended to
+40 read as follows:
+41 "§22-4-32
+42 For purposes of this article, the following terms shall
+43 have the following meanings:
+44 (1) CERTIFICATE OF NEED REVIEW BOARD. The board which
+45 reviews all certificate of need applications as provided in
+46 Section 22-21-260(14).
+47 (2) COVERED HEALTH CARE REPORTER. The term includes
+48 health care facilities as that term is defined in Section
+49 22-21-260(6); new institutional health services subject to
+50 review as defined in Section 22-21-263; a facility or
+51 institution for the care or treatment of any kind of mental or
+52 emotional illness or substance abuse or for providing services
+53 to persons with intellectual disabilities as defined in
+54 Section 22-50-17; and facilities and distinct units as defined
+55 in Section 22-21-263(c); and includes any of the foregoing in
+56 any rural area as defined in Section 22-21-260.
+Page 2
+
+any rural area as defined in Section 22-21-260.
+SB82 INTRODUCED
+57 (3)(4) HEALTH CARE REPORTS. The written reports to the
+58 SHPDA which are required to be submitted by this article.
+59 (4)(3) HEALTH CARE INFORMATION AND DATA ADVISORY
+60 COUNCIL. The body created by this article which is charged
+61 with advising and participating in the writing of rules
+62 necessary to implement this article and reviewing reports
+63 prior to dissemination by the SHPDA.
+64 (5) SHPDA. The State Health Planning and Development
+65 Agency.
+66 (6) STATE STATEWIDE HEALTH COORDINATING COUNCIL. The
+67 council which is defined in Section 22-21-260(15)."
+68 "§22-21-260
+69 As used in this article, the following words and terms,
+70 and the plurals thereof, shall have the meanings ascribed to
+71 them in this section, unless otherwise required by their
+72 respective context:
+73 (1) ACQUISITION. Obtaining the legal equitable title to
+74 a freehold or leasehold estate or otherwise obtaining the
+75 substantial benefit of such titles or estates, whether by
+76 purchase, lease, loan or suffrage, gift, devise, legacy,
+77 settlement of a trust, or means whatever, and shall include
+78 any act of acquisition. The term "acquisition" shalldoes not
+79 mean or include:
+80 a. anyAny conveyance, or creation of any lien or
+81 security interest by mortgage, deed of trust, security
+82 agreement, or similar financing instrument, nor shall it mean
+83 or include any;
+84 b. Any transfer of title or rights as a result of the
+Page 3
+
+b. Any transfer of title or rights as a result of the
+SB82 INTRODUCED
+85 foreclosure, or conveyance or transfer in lieu of the
+86 foreclosure, of any such mortgage, deed of trust, security
+87 agreement, or similar financing instrument, nor shall it mean
+88 or include any; or
+89 c. Any gift, devise, legacy, settlement of trust, or
+90 other transfer of the legal or equitable title of an interest
+91 specified hereinabove by a natural personan individual to any
+92 member of such person'sthe individual's immediate family. For
+93 the purposes of this sectionparagraph, "immediate family"
+94 shall meanmeans the spouse of the grantor or transferor and
+95 any other person related to the grantor or transferor to the
+96 fourth degree of kindred as such degrees are computed
+97 according to law.
+98 (2) APPLICANT. Any person, as defined in this section,
+99 who files an application for a certificate of need.
+100 (2.1)(3) CAMPUS. The contiguous real property,
+101 contained within a single county, which is owned or leased by
+102 a health care facility and upon which is located the buildings
+103 and any other real property used by the health care facility
+104 to provide existing institutional health services which are
+105 subject to review.
+106 (3)(4) CAPITAL EXPENDITURE. An expenditure, including a
+107 force account expenditure (i.e., an expenditure for a
+108 construction project undertaken by the health care facility as
+109 its own contractor), which, under generally accepted
+110 accounting principles, is not properly chargeable as an
+111 expense of operation and maintenance and which satisfies any
+112 of the following:
+Page 4
+
+of the following:
+SB82 INTRODUCED
+113 a. Exceeds two million dollars ($2,000,000) indexed
+114 annually for inflation for major medical equipment; eight
+115 hundred thousand dollars ($800,000) for new annual operating
+116 costs indexed annually for inflation; four million dollars
+117 ($4,000,000) indexed annually for inflation for any other
+118 capital expenditure. The index referenced in this paragraph
+119 shall be the Consumer Price Index Market Basket Professional
+120 Medical Services index as published by the U.S. Department of
+121 Labor, Bureau of Labor Statistics. The SHPDA shall publish
+122 this index information to the general public.
+123 b. Changes the bed capacity of the facility with
+124 respect to which such expenditure is made.
+125 c. Substantially changes the health services of the
+126 facility with respect to which such expenditure is made.
+127 (4)(5) CONSTRUCTION. Actual commencement, with bona
+128 fide intention of completing the construction, or completion
+129 of the construction, erection, remodeling, relocation,
+130 excavation, or fabrication of any real property constituting a
+131 facility under this article, and the term construct shall mean
+132 and includemeans and includes any act of construction. "Ground
+133 breaking ceremony," "receipt of bids," "receipt of quotation,"
+134 or similar action that will permit unilateral termination
+135 without penalty shall not be considered construction.
+136 (5)(6) FIRM COMMITMENT or OBLIGATION. Any of the
+137 following:
+138 a. Any executed, enforceable, unconditional written
+139 agreement or contract not subject to unilateral cancellation
+140 for the acquisition or construction of a health care facility
+Page 5
+
+for the acquisition or construction of a health care facility
+SB82 INTRODUCED
+141 or purchase of equipment therefor.
+142 b. Actual construction of facilities peculiarly adapted
+143 to the furnishing of one or more particular services and with
+144 the bona fide intention of furnishing such service or
+145 services.
+146 c. Any executed, unconditional written agreement not
+147 subject to unilateral cancellation for the bona fide purpose
+148 of furnishing one or more services.
+149 (6)(7) HEALTH CARE FACILITY. General and specialized
+150 hospitals, including tuberculosis, psychiatric, long-term
+151 care, and other types of hospitals, and related facilities
+152 such as, laboratories, out-patient clinics, and central
+153 service facilities operated in connection with hospitals;
+154 skilled nursing facilities; intermediate care facilities;
+155 skilled or intermediate care units operated in veterans'
+156 nursing homes and veterans' homes, owned or operated by the
+157 State Department of Veterans'Veterans Affairs, as these terms
+158 are described in Chapter 5A, (commencing with Section
+159 31-5A-1), of Title 31, rehabilitation centers; public health
+160 centers; facilities for surgical treatment of patients not
+161 requiring hospitalization; kidney disease treatment centers,
+162 including free-standing hemodialysis units; community mental
+163 health centers and related facilities; alcohol and drug abuse
+164 facilities; facilities for the developmentally disabled;
+165 hospice service providers; and home health agencies and health
+166 maintenance organizations. The term health care facility
+167 shalldoes not include the offices of private physicians or
+168 dentists, whether for individual or group practices and
+Page 6
+
+dentists, whether for individual or group practices and
+SB82 INTRODUCED
+169 regardless of ownership, or Christian Science sanatoriums
+170 operated or listed and certified by the First Church of
+171 Christ, Scientist, Boston, Massachusetts, or a veterans'
+172 nursing home or veterans' home owned or operated by the State
+173 Department of Veterans'Veterans Affairs, not to exceed 150
+174 beds to be built in Bay Minette, Alabama, and a veterans'
+175 nursing home or veterans' home owned or operated by the State
+176 Department of Veterans'Veterans Affairs not to exceed 150 beds
+177 to be built in Huntsville, Alabama, for which applications for
+178 federal funds under federal law are being considered by the
+179 U.S. Department of Veterans'Veterans Affairs prior to March
+180 18, 1993.
+181 (7)(8) HEALTH SERVICE AREA. A geographical area
+182 designated by the Governor, as being appropriate for effective
+183 planning and development of health services.
+184 (8)(9) HEALTH SERVICES. Clinically related (i.e.,
+185 diagnostic, curative, or rehabilitative) services, including
+186 alcohol, drug abuse, and mental health services customarily
+187 furnished on either an in-patient or out-patient basis by
+188 health care facilities, but not including the lawful practice
+189 of any profession or vocation conducted independently of a
+190 health care facility and in accordance with applicable
+191 licensing laws of this state.
+192 (9)(10) INSTITUTIONAL HEALTH SERVICES. Health services
+193 provided in or through health care facilities or health
+194 maintenance organizations, including the entities in or
+195 through which such services are provided.
+196 (9.1)(11) MAJOR MEDICAL EQUIPMENT. Medical clinical
+Page 7
+
+(9.1)(11) MAJOR MEDICAL EQUIPMENT. Medical clinical
+SB82 INTRODUCED
+197 equipment intended for use in the diagnosis or treatment of
+198 medical conditions, which is used to provide institutional
+199 health services of a health care facility which are subject to
+200 review, and which expenditure exceeds the thresholds
+201 referenced in this section and in Section 22-21-263.
+202 (10)(12) MODERNIZATION. The alteration, repair,
+203 remodeling, and renovation of existing buildings, including
+204 equipment within the existing buildings. Modernization does
+205 not include the replacement of existing buildings which are
+206 used by a health care facility to provide institutional health
+207 services which are subject to review and does not include the
+208 replacement of major medical equipment.
+209 (11)(14) PERSON. Any personindividual, firm,
+210 partnership, association, joint venture, corporation, limited
+211 liability company, or other legal entity, the State of Alabama
+212 and its political subdivisions or parts thereof, and any
+213 agencies or instrumentalities and any combination of persons
+214 herein specified, but person shallthe term does not include
+215 the United States or any agency or instrumentality thereof,
+216 except in the case of voluntary submission to the regulations
+217 established by this article.
+218 (12) RURAL HEALTH CARE PROVIDER/APPLICANT/HOSPITAL. A
+219 provider or applicant or hospital which is designated by the
+220 United States government Health Care Financing Administration
+221 as rural(15) RURAL AREA. Any area in the State of Alabama
+222 which is located outside of a metropolitan statistical area
+223 that is listed in the Office of Management and Budget Bulletin
+224 No.20-01 dated March 6, 2020.
+Page 8
+
+No.20-01 dated March 6, 2020.
+SB82 INTRODUCED
+225 (13)(16) STATE HEALTH PLAN. a. A comprehensive plan
+226 which is prepared triennially and reviewed at least annually
+227 and revised as necessary by the Statewide Health Coordinating
+228 Council, with the assistance of the State Health Planning and
+229 Development Agency, and approved by the Governor.
+230 b. The Statewide Health Coordinating Council shall meet
+231 at least annually to determine whether revisions for the State
+232 Health Plan are necessary. If the Statewide Health
+233 Coordinating Council fails to meet and to review or revise the
+234 State Health Plan on an annual basis, there shall be no fees
+235 required on all certificate of need applications filed with
+236 the Certificate of Need Review Board until the Statewide
+237 Health Coordinating Council meets and reviews or revises the
+238 State Health Plan. For purposes of this paragraph, the annual
+239 meeting of the Statewide Health Coordinating Council shall
+240 occur on or before August 1 of each calendar year.
+241 c. The State Health Plan shall provide for the
+242 development of health programs and resources to assure that
+243 quality health services will be available and accessible in a
+244 manner which assures continuity of care, at reasonable costs,
+245 for all residents of the state. Nothing in this section should
+246 be construed as permitting expenditures for facilities,
+247 services, or equipment which are inconsistent with the State
+248 Health Plan.
+249 (14)(17) STATE HEALTH PLANNING AND DEVELOPMENT AGENCY
+250 (SHPDA)or STATE AGENCY or SHPDA. An agency of the State of
+251 Alabama which is designated by the Governor as the sole State
+252 Health Planning and Development Agency, which shall consist of
+Page 9
+
+Health Planning and Development Agency, which shall consist of
+SB82 INTRODUCED
+253 three consumers, three providers, and three representatives of
+254 the Governor who all shall serve staggered terms and all be
+255 appointed by the Governor. Where used in this article, the
+256 terms, "state agency," and the "SHPDA," shall be synonymous
+257 and may be used interchangeably.
+258 (15)(18) STATEWIDE HEALTH COORDINATING COUNCIL. A
+259 council, appointed by the Governor,- established pursuant to
+260 Sections 22-4-7 and 22-4-8 to advise the State Health Planning
+261 and Development Agency on matters relating to health planning
+262 and resource development and to perform other functions as may
+263 be delegated to it, to include an annual review of the State
+264 Health Plan.
+265 (16)(13) TO OFFER. When used in connection with health
+266 services, a health care facility or health maintenance
+267 organization that holds itself out as capable of providing, or
+268 as having the means for the provision of, specified health
+269 services."
+270 "§22-21-263
+271 (a) All new institutional health services whichthat are
+272 subject to this article and whichthat are proposed to be
+273 offered or developed within the state shall be subject to
+274 review under this article. No institutional health services
+275 whichthat are subject to this article shall be permitted which
+276 are inconsistent with the State Health Plan. For the purposes
+277 of this article, new institutional health services shall
+278 include any of the following:
+279 (1) The construction, development, acquisition through
+280 lease or purchase, or other establishment of a new health care
+Page 10
+
+lease or purchase, or other establishment of a new health care
+SB82 INTRODUCED
+281 facility or health maintenance organization. A transaction
+282 involving the sale, lease, or other transfer or change of
+283 control of an existing health care facility, existing health
+284 maintenance organization, or existing institutional health
+285 service is not subject to certificate of need review or
+286 approval under this article unless the transaction also
+287 involves implementing one or more of the new institutional
+288 health services described in subdivision (2), (3), or (4). The
+289 two immediately preceding sentences are applicable to all
+290 transactions occurring on or after July 30, 1979.
+291 Notwithstanding anything to the contrary in this article,
+292 expenditures incurred in the sale, lease, or other transfer of
+293 an existing health care facility or existing health
+294 maintenance organization or existing institutional health
+295 service shall not be subject to subdivision (2).
+296 (2) Any expenditure by or on behalf of a health care
+297 facility or health maintenance organization which, under
+298 generally accepted accounting principles consistently applied,
+299 is a capital expenditure in excess of two million dollars
+300 ($2,000,000) indexed annually for inflation for major medical
+301 equipment; in excess of eight hundred thousand dollars
+302 ($800,000) for new annual operating costs indexed annually for
+303 inflation; and in excess of four million dollars ($4,000,000)
+304 indexed annually for inflation for any other capital
+305 expenditure by or on behalf of a health care facility or a
+306 health maintenance organization. The index referenced in this
+307 subdivision shall be the Consumer Price Index Market Basket
+308 Professional Medical Services index as published by the U.S.
+Page 11
+
+Professional Medical Services index as published by the U.S.
+SB82 INTRODUCED
+309 Department of Labor, Bureau of Labor Statistics. The SHPDA
+310 shall publish this index information to the general public.
+311 (3) A change in the existing bed capacity of a health
+312 care facility or health maintenance organization through the
+313 addition of new beds, the relocation of one or more beds from
+314 one physical facility to another, or reallocation among
+315 services of existing beds through the conversion of one or
+316 more beds from one category to another within the following
+317 bed categories: general medical surgical, inpatient
+318 psychiatric, inpatient/residential alcohol and drug abuse or
+319 inpatient rehabilitation beds, or long-term care beds
+320 including skilled nursing care, intermediate care,
+321 transitional care, and swing beds. Notwithstanding any
+322 provision of this subdivision to the contrary, any health care
+323 facility or health maintenance organization in which at least
+324 65 percent of the beds are dedicated or used exclusively for
+325 acute care services, general medical surgical, or
+326 nonspecialized services may reallocate existing beds within
+327 the following specialized bed categories: inpatient
+328 psychiatric, inpatient/residential alcohol and drug
+329 rehabilitation beds, to acute care services, or general
+330 medical surgical beds without first obtaining a certificate of
+331 need from the SHPDA.
+332 (4) Health services proposed to be offered in or
+333 through a health care facility or health maintenance
+334 organization, and which were not offered on a regular basis in
+335 or through suchthe health care facility or health maintenance
+336 organization within the 12 month12-month period prior to the
+Page 12
+
+organization within the 12 month12-month period prior to the
+SB82 INTRODUCED
+337 time suchthe services would be offered. Health services, other
+338 than those health services involving long-term care services,
+339 including, without limitation, skilled and intermediate
+340 nursing home care, swing beds services, or transitional care
+341 services, provided directly by acute care hospitals classified
+342 as rural by the U.S. Bureau of Census/Office of Management and
+343 Budget, United States government Health Care Financing
+344 Administration or acute care hospitals with less than 105 beds
+345 that are located over 20 miles from the nearest acute health
+346 care facility located within Alabama shall not be subject to
+347 this subdivision but shall be subject to the other
+348 subdivisions of this subsection. Provided, however, that
+349 theThe exemption from this subdivision herein established
+350 shall not apply to home health services provided outside of
+351 the county in which the hospital is located.
+352 (b) The four conditions of new institutional health
+353 services listed in this section shall be mutually exclusive.
+354 (c) Any new institutional health service, as described
+355 in subsection (a), proposed to be offered or developed in a
+356 rural area on or after October 1, 2026, shall not be subject
+357 to review under this article.
+358 (c)(d) Notwithstanding all other provisions of this
+359 article to the contrary, those facilities and distinct units
+360 operated by the Department of Mental Health and those
+361 facilities and distinct units operating under contract or
+362 subcontract with the Department of Mental Health where the
+363 contract constitutes the primary source of income to the
+364 facility shall not be subject to review under this article.
+Page 13
+
+facility shall not be subject to review under this article.
+SB82 INTRODUCED
+365 (d)(e) For the purposes of this article, and
+366 notwithstanding all other provisions of this article to the
+367 contrary and notwithstanding any and all provisions of the
+368 State Health Plan on September 1, 2003, relating to
+369 lithotripsy, magnetic resonance imaging, and positron emission
+370 tomography, new institutional health services, whichthat are
+371 subject to this article, shall not include any health services
+372 provided by a mobile or fixed-based extracorporeal shock wave
+373 lithotripter, mobile or fixed-based magnetic resonance
+374 imaging, or positron emission tomography proposed to be
+375 offered in or through a health care facility or health
+376 maintenance organization. The SHPDA, after consultation with
+377 and the advice of the Statewide Health Coordinating Council,
+378 in accordance with the Alabama Administrative Procedure Act
+379 and within 60 days of September 1, 2003, shall cause the State
+380 Health Plan to be amended to repeal and delete all sections of
+381 the Alabama State Health Plan relating to mobile and
+382 fixed-based lithotripters, mobile and fixed-based magnetic
+383 resonance imaging, and positron emission tomography, and cause
+384 the amendment and repeal of any other SHPDA rules and
+385 regulations inconsistent with this article."
+386 "§22-21-265
+387 (a) On or after July 30, 1979, noNo person to which
+388 this article applies shall acquire, construct, or operate a
+389 new institutional health service, as defined in this article,
+390 or furnish or offer, or purport to furnish a new institutional
+391 health service, as defined in this article, or make an
+392 arrangement or commitment for financing the offering of a new
+Page 14
+
+arrangement or commitment for financing the offering of a new
+SB82 INTRODUCED
+393 institutional health service, unless the person shall first
+394 obtain from the SHPDA a certificate of need therefor., except
+395 for the following, which shall not be required to obtain a
+396 certificate of need:
+397 (1) Any person who proposes to acquire, construct,
+398 operate, furnish, or offer a new institutional health service,
+399 to be located in a rural area, or who arranges for or commits
+400 to the financing of the same.
+401 (2) Notwithstanding any provisionsprovision of this
+402 article to the contrary, those facilities and distinct units
+403 operated by the Department of Mental Health, and those
+404 facilities and distinct units operating under contract or
+405 subcontract with the Department of Mental Health where the
+406 contract constitutes the primary source of income to the
+407 facility, shall not be required to obtain a certificate of
+408 need under this article.
+409 (b)(1) Notwithstanding all other provisionsany other
+410 provision of this article to the contrary, the replacement of
+411 equipment by health care facilities shall be exempt from
+412 certificate of need review, provided:
+413 (1)a. The replacement does not change the purpose, use,
+414 or application of the equipment.-;
+415 (2)b. The existing equipment is taken out of service.-;
+416 (3)c. The replacement equipment does not enable the
+417 health care facility to expand its health services.; and
+418 (4)d. The replacement equipment does not enable the
+419 health care facility to provide any health services not
+420 previously provided on a regular basis.
+Page 15
+
+previously provided on a regular basis.
+SB82 INTRODUCED
+421 (2) A determination of whether the acquisition of
+422 equipment is exempt from review under this section shall be
+423 made by the Executive Director of the SHPDA upon the filing of
+424 an application requesting the determination, on the form or
+425 forms prescribed by the CON Review Board, together with a fee
+426 in the amount of 20 percent of the fee provided in Section
+427 22-21-271. If it is determined that the replacement is not
+428 reviewable pursuant to this section, the applicant shall be
+429 notified in writing that no certificate of need is required.
+430 The SHPDA shall define an appeals process.
+431 Any provision in this article to the contrary
+432 notwithstanding, a rural hospital shall only be required to
+433 submit a fee equal to 25 percent of the fee applicable to
+434 non-rural hospitals when filing a request for determination
+435 under this section.
+436 (c) Notwithstanding any other provision of this article
+437 to the contrary, the modernization or construction of a
+438 nonclinical building, parking facility, or any other
+439 noninstitutional health services capital item on the existing
+440 campus of a health care facility shall be exempt from
+441 certificate of need review, provided the construction or
+442 modernization does not allow the health care facility to
+443 provide new institutional health services subject to review
+444 and not previously provided on a regular basis.
+445 (d) The SHPDA shall maintain the Alabama State Health
+446 Plan to include separate bed need methodologies for inpatient
+447 psychiatric services, inpatient rehabilitation services, and
+448 inpatient/residential alcohol and drug abuse services. The
+Page 16
+
+inpatient/residential alcohol and drug abuse services. The
+SB82 INTRODUCED
+449 SHPDA shall utilize these methodologies in considering all
+450 certificate of need applications.
+451 (e) Notwithstanding all other provisionsany other
+452 provision of this article to the contrary, the increase in the
+453 number of nursing home beds of a health care facility licensed
+454 pursuant to Section 22-21-260(6) as a skilled nursing care
+455 facility or an intermediate care facility, but excluding an
+456 increase in the bed capacity of an intermediate care facility
+457 designated as an ICF-MR by the State Board ofCommittee on
+458 Public Health and operated by the state Department of Mental
+459 Health which facilities shall beare governed by the other
+460 provisions of this article, shall beare exempt from
+461 certificate of need review, provided:
+462 (1) The increase does not exceed 10 percent of the
+463 total skilled nursing beds of the facility, rounded to the
+464 nearest whole number, or 10 beds, whichever is greater.
+465 (2) The average rate of occupancy for the nursing home
+466 beds of the facility is not less than 95 percent, rounded to
+467 the nearest whole number, for the 24-month period ending on
+468 June 30 of the year immediately preceding the application for
+469 exemption from the certificate of need review.
+470 (3) The aggregate average rate of occupancy for all
+471 other skilled nursing facilities and intermediate nursing
+472 facilities in the same county as the requesting facility's is
+473 not less than 95 percent, rounded to the nearest whole number,
+474 for the 24-month period ending on June 30 of the year
+475 immediately preceding the application for exemption from
+476 certificate of need review.
+Page 17
+
+certificate of need review.
+SB82 INTRODUCED
+477 (4) The increase does not require capital expenditures
+478 exceeding the capital expenditure thresholds prescribed in
+479 Section 22-21-263(a)(2).
+480 (5) The facility has not been granted an increase of
+481 beds under this exemption within the immediately preceding
+482 24-month period.
+483 In calculating the average occupancy for the facility
+484 under subdivision (2) of this subsection and for all other
+485 skilled and intermediate nursing facilities in the same county
+486 under subdivision (3) of this subsection, beds previously
+487 granted, including beds granted after January 1, 1995, to the
+488 facility, and to other skilled or intermediate nursing
+489 facilities in the same county as the requesting facility,
+490 pursuant to a certificate of need or to this exemption shall
+491 be deemed built and available for occupancy as of the date
+492 granted regardless of when the beds were placed in service.
+493 The SHPDA shall promulgate regulationsadopt rules to determine
+494 how occupancy shall be calculated for the purpose of this
+495 subsection, taking into account certain factors such as, but
+496 without limitation, disregarding beds that have not been
+497 available for use for the three years next preceding the
+498 period for which occupancy is being measured.
+499 (6) The facility has had an average daily census
+500 comprised of 40 percent of Medicaid patients within the fiscal
+501 year ended June 30 immediately prior to filing an application
+502 for exemption under this section.
+503 (7)a. Any exemption to add beds without a certificate
+504 of need shall expire and be deemed null and void unless the
+Page 18
+
+of need shall expire and be deemed null and void unless the
+SB82 INTRODUCED
+505 beds are placed in service not less than 12 months after the
+506 date the exemption is granted. Notwithstanding the foregoing,
+507 the SHPDA may promulgateadopt rules permitting the Executive
+508 Director of SHPDA to grant one extension not to exceed
+509 twelve12 months upon a showing of substantial progress.
+510 Notwithstanding the foregoing, any exemption granted by the
+511 SHPDA prior to April 10, 1995, for facilities which have
+512 agreed to the provisions of the June 21, 1995, consent decree,
+513 is ratified and confirmed and shall be deemed to have been
+514 granted in accordance with this subsection. In addition, any
+515 facility which was granted an exemption by the SHPDA prior to
+516 April 10, 1995, is ratified and confirmed and shall be deemed
+517 to have been approved as of the latter of the actual date
+518 approved or March 3, 1995, and to have been granted in
+519 accordance with this subsection.
+520 b. A determination of whether the increase in beds is
+521 exempt from review under this section shall be made by the
+522 Executive Director of the SHPDA upon the filing of an
+523 application requesting the determination, on the form or forms
+524 prescribed by the CON Review Board, together with a fee in an
+525 amount to be determined by the review board in accordance with
+526 Section 22-21-271(a). The SHPDA shall promulgateadopt rules
+527 affording an applicant pursuant to this subsection a right to
+528 appeal adverse rulings.
+529 c. Applications pursuant to this section for exemption
+530 from certificate of need review for an increase in bed
+531 capacity shall be made only during the 90-day period beginning
+532 January 1 through March 31 of each year.
+Page 19
+
+January 1 through March 31 of each year.
+SB82 INTRODUCED
+533 d. The provisions of this section shall automatically
+534 terminate and become null and void on December 31, 2005,
+535 unless a bill to continue or reestablish the provisions of
+536 this section shall be passed by both houses of the Legislature
+537 and enacted into law.
+538 (f)(1) Notwithstanding all other provisionsany other
+539 provision of this article to the contrary, an existing home
+540 health agency may accept referrals of patients from outside
+541 its Medicare certified service area without obtaining a
+542 certificate of need, provided all of the following conditions
+543 are met:
+544 (1)a. The county of the referral is contiguous to a
+545 county for which the home health agency holds a certificate of
+546 need or an exemption granted pursuant to provisions of Section
+547 22-21-263.
+548 (2)b. The home health agency establishes no branch
+549 office in the county of the referral.
+550 (3)c. The home health agency incurs no capital
+551 expenditures in the county of the referral in excess of five
+552 hundred dollars ($500).
+553 (2) The home health agency shall notify the SHPDA that
+554 it has begun accepting referrals from a county contiguous to
+555 its service area within 14 days of the receipt of the first
+556 referral from the contiguous county. No notice to the SHPDA
+557 shall be required related to subsequent referrals in the same
+558 contiguous county. The SHPDA shall take steps to provide for
+559 the inclusion of statistical information relating to the
+560 service to referrals outside the Medicare certified service
+Page 20
+
+service to referrals outside the Medicare certified service
+SB82 INTRODUCED
+561 area in its annual statistical reports. The SHPDA may impose,
+562 by rule, a reasonable charge upon home health agencies
+563 accepting such referrals to cover the additional cost of
+564 gathering and processing the information.
+565 (g) Notwithstanding all other provisionsany other
+566 provision of this article to the contrary, the replacement,
+567 including relocation in the same county, of an existing acute
+568 care hospital by the construction of a new digital hospital
+569 shall be exempt from certificate of need review provided the
+570 hospital meets all of the following:
+571 (1) The digital hospital design incorporates a fully
+572 automated, centralized, digital system to integrate all
+573 current and future medical technologies with capabilities for
+574 all systems to interface in a comprehensive medical record.
+575 The integration of medical technology shall include, but not
+576 be limited to, all patient medical records, diagnostic images,
+577 diagnostic reports, laboratory results, pharmacy data,
+578 pharmacological interactions, contraindications, surgical
+579 reports, surgical streaming video, pathology reports, unique
+580 patient identification, voice activated transcription,
+581 wireless applications, automated billing with electronic
+582 transmission capability, and electronic procurement systems.
+583 (2) The electronic medical systems shall interface on a
+584 single electronic platform to produce the most favorable
+585 patient outcome with a reduction in medical errors.
+586 (3) Medical records shall only be accessed by
+587 authorized clinical personnel who are provided access by
+588 hospital consoles, physician offices, physician homes, or any
+Page 21
+
+hospital consoles, physician offices, physician homes, or any
+SB82 INTRODUCED
+589 remote location via unique identification requirements.
+590 (4) Patient rooms shall be designed to provide optimal
+591 electronic documentation of vital signs, real-time data entry,
+592 any and all treatment protocols, physician orders, and patient
+593 progression.
+594 (5) The digital hospital shall have a minimum project
+595 cost of one hundred million dollars ($100,000,000) to include
+596 design, systems, property, buildings, equipment, and
+597 electronic software development.
+598 (6) The construction and design of the facility shall
+599 utilize technology and materials for patient flow to limit
+600 general public contact with patient care areas,
+601 healthcarehealth care workers, and hazardous materials to
+602 reduce the potential for cross-contamination and resulting
+603 direct medical costs.
+604 (7) The digital hospital environment shall be energy
+605 efficient, cost effective, and clinically designed to produce
+606 the most favorable environment.
+607 (8) The digital hospital shall meet all of the
+608 following conditions:
+609 a. Operate as an acute care hospital.
+610 b. Replace an existing acute care hospital located in
+611 the same county as the digital hospital.
+612 c. Be licensed for no more than the same number of
+613 hospital beds and for the same bed categories as the existing
+614 acute care hospital to be replaced by the digital hospital,
+615 unless otherwise approved by the Certificate of Need Review
+616 Board through issuance of a certificate of need.
+Page 22
+
+Board through issuance of a certificate of need.
+SB82 INTRODUCED
+617 d. Shall not exceed the same scope of health services,
+618 including the same amount of diagnostic or therapeutic major
+619 medical equipment, as the existing acute care hospital to be
+620 replaced by the digital hospital, unless otherwise approved by
+621 the SHPDA approval process.
+622 e. Shall not exceed the number of inpatient and
+623 outpatient surgical suites as contained in the existing acute
+624 care hospital to be replaced by the digital hospital, unless
+625 otherwise approved by the SHPDA approval process.
+626 (9) The existing acute care hospital, replaced by the
+627 digital hospital, shall be taken out of service as an acute
+628 care hospital and shall not be converted to or used as another
+629 health care facility, unless approved by the Certificate of
+630 Need Review Board through issuance of a certificate of need.
+631 (10) Any presently reviewable health service which is
+632 proposed to be offered by the digital hospital which was not
+633 offered on a regular basis within the preceding
+634 twelve-month12-month period in or through the existing acute
+635 care hospital to be replaced by the digital hospital shall be
+636 subject to Certificate of Need Review Board approval through
+637 issuance of a certificate of need.
+638 (11) The only digital hospital exempt from certificate
+639 of need review shall be the first digital hospital developed
+640 in the state, and the digital hospital shall be located in a
+641 county where there is located an accredited medical school and
+642 teaching facility and not less than 3,000 licensed general
+643 hospital beds, and construction shall be commenced within one
+644 year from the issuance of a certificate of need by the SHPDA.
+Page 23
+
+year from the issuance of a certificate of need by the SHPDA.
+SB82 INTRODUCED
+645 (12) A determination whether the construction of a
+646 digital hospital is exempt from review under this subsection
+647 shall be made by the Executive Director of the SHPDA, upon the
+648 filing of an application requesting the determination, on the
+649 forms acceptable to the Executive Director of the SHPDA
+650 together with an application fee as provided in Section
+651 22-21-271. If it is determined that the replacement facility
+652 is not reviewable pursuant to this section, the SHPDA shall
+653 notify the applicant in writing that the application is exempt
+654 from certificate of need review and shall issue a certificate
+655 of need. The applicant shall have a right of appeal from any
+656 adverse ruling denying exemption and the SHPDA shall
+657 promulgateadopt rules affording an applicant a right to appeal
+658 adverse rulings pursuant to this subsection.
+659 (13) The provisions of this subsection shall
+660 automatically terminate and become null and void upon the
+661 issuance of the first certificate of need for the construction
+662 and operation of a digital replacement hospital as herein
+663 provided or on December 31, 2005, whichever first occurs,
+664 unless a bill to continue or reestablish the provisions of
+665 this subsection shall be passed by both houses of the
+666 Legislature and enacted into law."
+667 "§22-21-271
+668 (a) Each application for a certificate of need shall be
+669 accompanied by a fee of one percent of the estimated cost of
+670 the proposed cost of the new Institutional Health Service, or
+671 a maximum of twelve thousand dollars ($12,000) (indexed) per
+672 application. Provided, that the application fee shall be
+Page 24
+
+application. Provided, that the application fee shall be
+SB82 INTRODUCED
+673 three-fourths of one percent of the estimated cost of the
+674 proposed new Institutional Health Service, or a maximum of
+675 eight thousand dollars ($8,000) if the applicant has had an
+676 average daily census comprised of 50 percent or more Medicaid
+677 patients within the last year prior to the filing of the
+678 application and a maximum of six thousand dollars ($6,000) if
+679 a rural hospital applicant has had an average daily census
+680 comprised of 30 percent or more Medicaid/Medicare patients
+681 within the last year prior to the filing of the application.
+682 The minimum fee shall be set by the SHPDA. Fees shall be used
+683 for the purpose of defraying the lawful operating expense of
+684 the certificate of need program conducted by the SHPDA and of
+685 the Statewide Health Coordinating Council.
+686 (b) Each request for an opinion from the State
+687 Agencystate agency as to whether a project is subject to
+688 review under this article shall be accompanied by a fee to be
+689 established by the SHPDA.
+690 (c) The SHPDA, by rule approved by the Certificate of
+691 Need Review Board or the Statewide Health Coordinating
+692 Council, as applicable, may impose additional reasonable fees
+693 for any administrative filing by a health care provider for
+694 which a fee is not specified in this chapter, and for any
+695 non-routine data compilation or summary. Nothing in this
+696 subsection shall authorize the SHPDA to impose a fee for the
+697 initial publication of any report or statistical update which
+698 it is required to publish under law or rule.
+699 (d) In addition to all other fees, the SHPDA shall
+700 impose a temporary surcharge of two thousand dollars ($2,000)
+Page 25
+
+impose a temporary surcharge of two thousand dollars ($2,000)
+SB82 INTRODUCED
+701 on each certificate of need application and three hundred
+702 dollars ($300) for each reviewability determination to defray
+703 expenses incurred in developing and implementing, by January
+704 1, 2014, an online, searchable filing system for filings and
+705 orders in administrative proceedings and requests for
+706 reviewability or exemption determinations and related agency
+707 findings. The surcharge shall automatically terminate on the
+708 first day of the ninth month after certification to the CON
+709 Review Board by the SHPDA's Executive Director that the online
+710 filing system has been successfully implemented.
+711 (e) There is hereby authorized to be appropriated from
+712 the State General Fund of the State of Alabama such amounts as
+713 may be necessary from time to time to defray the costs of
+714 administering this article over and above such fees as may be
+715 collected under this section.
+716 (f) Application fees collected under this article shall
+717 not be refundable. Fees collected under this article are
+718 hereby appropriated for the purposes stated in this article.
+719 (g) All fees collected under this article shall be
+720 retained in a separate fund for the purpose of enforcing and
+721 administering this article, and shall be disbursed as other
+722 funds of the state are disbursed."
+723 Section 2. Section 22-21-278, Code of Alabama 1975,
+724 relating to an exemption from the review requirement for
+725 certain kidney disease treatment centers, is repealed.
+726 Section 3. This act shall become effective on October
+727 1, 2026.
+Page 26

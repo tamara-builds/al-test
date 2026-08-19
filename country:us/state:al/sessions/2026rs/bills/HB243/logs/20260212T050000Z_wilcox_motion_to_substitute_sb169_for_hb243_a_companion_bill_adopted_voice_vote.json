@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Wilcox Motion to Substitute SB169 for HB243 a Companion Bill - Adopted Voice Vote",
+    "occurred_at": "2026-02-12T05:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB243"
+}

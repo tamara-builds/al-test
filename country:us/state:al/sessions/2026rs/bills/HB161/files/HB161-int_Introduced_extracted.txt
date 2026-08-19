@@ -1,0 +1,393 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB161 INTRODUCED
+1 HB161
+2 V7D54VP-1
+3 By Representatives Sells, Mooney
+4 RFD: State Government
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+V7D54VP-1 01/13/2026 THR (L)THR 2025-3678
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require app store providers to
+6 verify the age of users, affiliate minor accounts with
+7 parent accounts and obtain consent from the holder of
+8 the parent account, notify users when an app makes a
+9 significant change, give developers real-time access to
+10 the age category and consent status for minor accounts,
+11 and protect personal age verification data.
+12 This bill would prevent app store providers and
+13 developers from enforcing contracts against minors,
+14 misrepresenting information in disclosures, and sharing
+15 personal age verification data.
+16 This bill would require developers to verify the
+17 age of users, notify users of significant changes to
+18 the app, and limit the use of age category data in
+19 compliance with laws or regulations.
+20 This bill would require the Attorney General to
+21 adopt certain rules.
+22 This bill would also authorize the Attorney
+23 General to bring an action for a violation as a
+24 deceptive trade practice.
+25
+26
+27 A BILL
+28 TO BE ENTITLED
+Page 1
+
+TO BE ENTITLED
+HB161 INTRODUCED
+29 AN ACT
+30
+31 Relating to consumer protection; to require an app
+32 store provider to take certain actions regarding age
+33 verification, parental notification, and data protection; to
+34 prohibit an app store provider or developer from taking
+35 certain actions that allow minors to access apps without
+36 parental consent; to require the Attorney General to adopt
+37 rules; and to authorize the Attorney General to bring an
+38 action for a violation as a deceptive trade practice.
+39 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+40 Section 1. For the purposes of this act, the following
+41 terms have the following meanings:
+42 (1) ACCOUNT HOLDER. The individual associated with a
+43 mobile device.
+44 (2) AGE CATEGORY. Whether an individual is: (i) under
+45 13 years of age; (ii) at least 13 years of age but less than
+46 16 years of age; (iii) at least 16 years of age but less than
+47 18 years of age; or (iv) at least 18 years of age.
+48 (3) AGE CATEGORY DATA. Information about a user's age
+49 category which is collected by an app store developer and
+50 shared with a developer.
+51 (4) AGE RATING. A classification that assesses the
+52 suitability of an app's content and functions for different
+53 age groups.
+54 (5) APP. A software application or electronic service
+55 that a user may run or direct on a mobile device. The term
+56 includes pre-installed apps.
+Page 2
+
+includes pre-installed apps.
+HB161 INTRODUCED
+57 (6) APP STORE. A publicly available website, software
+58 application, or electronic service that allows account holders
+59 to download apps from third-party developers onto a mobile
+60 device.
+61 (7) APP STORE PROVIDER. An entity that owns, operates,
+62 or controls an app store that allows account holders in the
+63 state to download apps onto a mobile device.
+64 (8) CONTENT DESCRIPTION. A description of the specific
+65 content elements or functions that inform an app's age rating.
+66 (9) DEVELOPER. An entity that owns or controls an app
+67 made available through an app store or a pre-installed app.
+68 (10) MINOR. An individual under 18 years of age, unless
+69 the individual is married or legally emancipated.
+70 (11) MINOR ACCOUNT. An account with an app store
+71 provider that is established by an individual who the app
+72 store provider has determined is a minor.
+73 (12) MOBILE DEVICE. A phone or general-purpose tablet
+74 that: (i) provides cellular or wireless connectivity; (ii) is
+75 capable of connecting to the Internet; (iii) runs a mobile
+76 operating system; and (iv) is capable of running apps through
+77 the mobile operating system.
+78 (13) MOBILE OPERATING SYSTEM. Software that: (i)
+79 manages mobile device hardware resources; (ii) provides common
+80 services for mobile device programs; (iii) controls memory
+81 allocation; and (iv) provides interfaces for apps to access
+82 device functionality.
+83 (14) PARENT. With respect to a minor, any of the
+84 following individuals:
+Page 3
+
+following individuals:
+HB161 INTRODUCED
+85 a. A biological parent.
+86 b. A legal guardian.
+87 c. An individual with legal custody.
+88 (15) PARENT ACCOUNT. An account with an app store
+89 provider which is affiliated with one or more minor accounts
+90 and which is verified to have been established by an
+91 individual who the app store provider has determined is not a
+92 minor.
+93 (16) PARENTAL CONSENT DISCLOSURE. The following
+94 information that an app store provider is required to provide
+95 to a parent before obtaining parental disclosure:
+96 a. A description of the personal data collected by the
+97 app from a user.
+98 b. A description of the personal data shared by the app
+99 with any third party.
+100 c. Any methods implemented by the developer to protect
+101 personal data.
+102 d. The age rating of the app or in-app purchase, if
+103 available.
+104 e. The content description of the app or in-app
+105 purchase, if available.
+106 (17) PRE-INSTALLED APP. Any app, or portion of an app,
+107 that is present on a mobile device at the time of purchase,
+108 initial activation, or first use by the consumer. The term
+109 includes, but is not limited to: (i) browsers; (ii) search
+110 engines; (iii) messaging apps; and (iv) other apps, or
+111 portions of apps, that are installed or partially installed by
+112 the device manufacturer, wireless services provider, retailer,
+Page 4
+
+the device manufacturer, wireless services provider, retailer,
+HB161 INTRODUCED
+113 or any other party prior to the purchase, initial activation,
+114 or first use of the device by the customer and that may be
+115 updated thereafter. The term does not include: (i) core
+116 operating system functions; (ii) essential device drivers; and
+117 (iii) applications necessary for basic device operation such
+118 as phone and settings applications.
+119 (18) SIGNIFICANT CHANGE. A material modification to an
+120 app's terms of service or privacy policy which does any of the
+121 following:
+122 a. Changes the categories of data collected, stored, or
+123 shared.
+124 b. Adds new monetization features, including, but not
+125 limited to, in-app purchases or advertisements, where no such
+126 features were previously present.
+127 c. Alters the app's age rating or content descriptions.
+128 (19) VERIFIABLE PARENTAL CONSENT. Authorization that
+129 meets all of the following criteria:
+130 a. Is provided by an individual who the app store
+131 provider has verified is at least 18 years of age.
+132 b. Is given after the app store provider has clearly
+133 and conspicuously provided the parental consent disclosure to
+134 the individual.
+135 c. Requires the parent to make an affirmative choice to
+136 either grant consent or decline consent.
+137 Section 2. (a) An app store provider shall do both of
+138 the following when an individual located in this state creates
+139 an account with the app store provider, or before October 1,
+140 2027, for all accounts in existence on October 2, 2026:
+Page 5
+
+2027, for all accounts in existence on October 2, 2026:
+HB161 INTRODUCED
+141 (1) Request age category information from the
+142 individual.
+143 (2) Verify the individual's age category using one of
+144 the following:
+145 a. Commercially available methods that are reasonably
+146 designed to ensure accuracy.
+147 b. An age verification system that complies with rules
+148 adopted pursuant to this act.
+149 (b) For the purposes of this section, a method is
+150 commercially available if the method includes both: (i)
+151 affirmative age attestation by an individual who is reasonably
+152 believed to be the parent or legal guardian of the minor; and
+153 (ii) other information collected in the ordinary course of
+154 account creation or use.
+155 Section 3. An app store provider shall do all of the
+156 following when an individual is determined to be a minor
+157 pursuant to Section 1:
+158 (1) Require the account to be affiliated with a parent
+159 account.
+160 (2) Obtain verifiable parental consent from the holder
+161 of the affiliated parent account before allowing the minor to:
+162 (i) download an app; (ii) purchase an app; or (iii) make an
+163 in-app purchase.
+164 (3) Provide a mechanism for the holder of the
+165 affiliated parent account to withdraw consent and notify
+166 developers when the holder of a parent account withdraws
+167 consent.
+168 Section 4. An app store provider shall do both of the
+Page 6
+
+Section 4. An app store provider shall do both of the
+HB161 INTRODUCED
+169 following after receiving notice of a significant change from
+170 a developer:
+171 (1) Notify the user of the significant change.
+172 (2) For a minor account, do both of the following:
+173 a. Notify the holder of the affiliated parent account.
+174 b. Obtain renewed verifiable parental consent before
+175 providing access to the significantly changed version of the
+176 app.
+177 Section 5. An app store provider shall provide
+178 developers with real-time access to both of the following:
+179 (1) Age category data for each user located in this
+180 state.
+181 (2) The status of verifiable parental consent for each
+182 minor located in this state.
+183 Section 6. An app store provider shall protect personal
+184 age verification data by doing both of the following:
+185 (1) Limiting the collection and processing to data
+186 necessary to: (i) verify a user's age; (ii) obtain parental
+187 consent; or (iii) maintain compliance records.
+188 (2) Transmitting personal age verification data using
+189 industry-standard encryption protocols that ensure data
+190 integrity and data confidentiality.
+191 Section 7. An app store provider shall do both of the
+192 following with respect to pre-installed apps:
+193 (1) Provide available age category information in
+194 response to a request from a developer.
+195 (2) Take reasonable measures to facilitate verifiable
+196 parental consent for use of a pre-installed app in response to
+Page 7
+
+parental consent for use of a pre-installed app in response to
+HB161 INTRODUCED
+197 a request from a developer.
+198 Section 8. An app store provider may not do any of the
+199 following:
+200 (1) Enforce a contract or terms of service against a
+201 minor unless the app store provider has obtained verifiable
+202 parental consent.
+203 (2) Knowingly misrepresent the information in the
+204 parental consent disclosure.
+205 (3) Share age category data or any other associated
+206 data except as required by law or as required by this act
+207 between an app store provider and a developer.
+208 Section 9. (a) A developer shall do all of the
+209 following:
+210 (1) Verify through the app store's data sharing
+211 methods: (i) the age category of users located in this state;
+212 and (ii) for a minor account, whether verifiable parental
+213 consent has been obtained.
+214 (2) Notify app store providers of any significant
+215 change to an app.
+216 (3) Limit use of age category data received from an app
+217 store provider to: (i) enforce developer-created age-related
+218 restrictions, protections, or defaults; (ii) ensure compliance
+219 with applicable laws or regulations; or (iii) implement
+220 safety-related features or defaults.
+221 (4) Request age category data or verifiable parental
+222 consent in all of the following scenarios:
+223 a. Whenever an account holder does any of the
+224 following:
+Page 8
+
+following:
+HB161 INTRODUCED
+225 1. Downloads an app.
+226 2. Purchases an app.
+227 3. Launches a pre-installed app for the first time.
+228 b. When implementing a significant change to an app.
+229 c. To comply with applicable law.
+230 (5) When implementing any developer-created age-related
+231 restrictions, safety-related features, or defaults, use the
+232 lowest age category indicated by either: (i) age category data
+233 received through the app store's data sharing methods; or (ii)
+234 age data independently collected by the developer.
+235 (b) A developer may request age category data in any of
+236 the following scenarios:
+237 (1) No more than once during each 12-month period to
+238 verify either of the following:
+239 a. The accuracy of age category data associated with an
+240 account holder.
+241 b. Continued account use within the age category.
+242 (2) When there is reasonable suspicion of either of the
+243 following:
+244 a. Account transfer.
+245 b. Misuse outside of the age category.
+246 (3) At the time an account holder creates a new account
+247 with the developer.
+248 (c) A developer may not do any of the following:
+249 (1) Enforce a contract or terms of service against a
+250 minor unless the developer has verified through the app store
+251 provider that verifiable parental consent has been obtained.
+252 (2) Knowingly misrepresent any information in the
+Page 9
+
+(2) Knowingly misrepresent any information in the
+HB161 INTRODUCED
+253 parental consent disclosure.
+254 (3) Share age category data with any person.
+255 Section 10. The Attorney General shall adopt rules
+256 establishing processes and means by which an app store
+257 provider may verify whether an account holder is a minor in
+258 accordance with this act.
+259 Section 11. (a) Any knowing or reckless violation of
+260 this act is deemed a deceptive trade practice actionable under
+261 Chapter 19 of Title 8 of the Code of Alabama 1975. If the
+262 Attorney General has reason to believe that an entity is in
+263 violation of this act, the Attorney General may bring an
+264 action against the entity for an unfair or deceptive trade
+265 practice. In addition to other remedies available under
+266 Chapter 19 of Title 8 of the Code of Alabama 1975, the
+267 Attorney General may collect a civil penalty of up to seven
+268 thousand five hundred dollars ($7,500) per violation,
+269 reasonable attorney fees, and court costs.
+270 (b) If a violation described in subsection (a) is part
+271 of a consistent pattern of knowing or reckless conduct, the
+272 Attorney General may seek punitive damages against the entity.
+273 (c) An action for a claim under this section must be
+274 brought within one year from the date the Attorney General
+275 knew or reasonably should have known of the alleged violation.
+276 (d) This section does not preclude any other available
+277 remedy at law or equity.
+278 Section 12. (a) A developer is not liable for a
+279 violation of this act if the developer demonstrates all of the
+280 following:
+Page 10
+
+following:
+HB161 INTRODUCED
+281 (1) The developer relied in good faith on applicable
+282 age category data received through an app store's data sharing
+283 methods.
+284 (2) The developer relied in good faith on notification
+285 from an app store provider that verifiable parental consent
+286 was obtained.
+287 (3) The developer complied with the requirements of
+288 this act.
+289 (b) A developer is not liable for a violation of
+290 Section 9(c)(2) if the developer: (i) uses widely adopted
+291 industry standards to determine the app's age category and
+292 content description; and (ii) applies those standards
+293 consistently and in good faith.
+294 (c) Notwithstanding subsection (a), the safe harbor
+295 provision applies only to actions brought under this act and
+296 does not limit a developer or app store provider's liability
+297 under any other applicable law.
+298 Section 13. Nothing in this act shall be construed to
+299 do any of the following:
+300 (1) Prevent an app store provider or developer from
+301 taking reasonable measures to do any of the following:
+302 a. Block, detect, or prevent distribution to minors of:
+303 (i) unlawful material; (ii) obscene material; or (iii) other
+304 harmful material.
+305 b. Block or filter spam.
+306 c. Prevent criminal activity.
+307 d. Protect app store or app security.
+308 (2) Require an app store provider or developer to
+Page 11
+
+(2) Require an app store provider or developer to
+HB161 INTRODUCED
+309 disclose user information to a developer beyond age category
+310 or verification of parental consent status.
+311 (3) Allow an app store provider or developer to
+312 implement measures required by this act in a manner that is:
+313 (i) arbitrary; (ii) capricious; (iii) anticompetitive; or (iv)
+314 unlawful.
+315 (4) Require a developer to collect, retain, reidentify,
+316 or link any information beyond what is both:
+317 a. Necessary to verify age category data as required by
+318 this act; and
+319 b. Collected, retained, reidentified, or linked in the
+320 developer's ordinary course of business.
+321 (5) Require an app store provider or developer to block
+322 access to an application that an account holder has downloaded
+323 or installed onto a mobile device prior to October 1, 2026,
+324 except to the extent that either:
+325 a. A parent account revokes verifiable consent for an
+326 affiliated minor account; or
+327 b. There has been a significant change to the
+328 application.
+329 Section 14. This act shall become effective on October
+330 1, 2026.
+Page 12

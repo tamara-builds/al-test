@@ -1,0 +1,425 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB427 INTRODUCED
+1 HB427
+2 5VJDI36-1
+3 By Representatives Tillman, Clarke, Hassell, Morris, Daniels,
+4 Moore (M), Bracy, Jones, Jackson, Travis
+5 RFD: Judiciary
+6 First Read: 12-Feb-26
+Page 0
+
+First Read: 12-Feb-26
+5VJDI36-1 02/10/2026 THR (L)THR 2026-701
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, residential telephone
+6 subscribers may request to be added to the state's
+7 database of residential telephone subscribers who
+8 object to receiving telephone solicitations.
+9 This bill would authorize commercial and
+10 cellular telephone subscribers to join the database.
+11 Under existing law, telephone solicitors are
+12 prohibited from circumventing the use of caller
+13 identification systems.
+14 This bill would prohibit telephone solicitors
+15 from using misleading caller identification
+16 information.
+17 This bill would prohibit telephone solicitors
+18 from making solicitation calls before 8:00 a.m. or
+19 after 8:00 p.m.
+20 This bill would prohibit telephone solicitors
+21 from making more than three solicitation calls to a
+22 given person over a 24-hour period.
+23 Under existing law, the Public Service
+24 Commission may commence a proceeding against a knowing
+25 violation or threatened knowing violation of the
+26 prohibitions related to telephone solicitations.
+27 This bill would authorize the Public Service
+28 Commission to commence a proceeding against any
+Page 1
+
+Commission to commence a proceeding against any
+HB427 INTRODUCED
+29 violation or threatened violation of the prohibitions.
+30 Under existing law, the Public Service
+31 Commission imposes a civil penalty of up to $2,000 for
+32 each violation.
+33 This bill would authorize the Public Service
+34 Commission to impose a civil penalty of up to $20,000
+35 for each violation.
+36 Under existing law, a person who has received
+37 more than one telephone solicitation in violation of
+38 the law may seek damages of up to $2,000 for each
+39 violation.
+40 This bill would authorize a person who has
+41 received more than one telephone solicitation in
+42 violation of the law to seek up to $20,000 for each
+43 violation.
+44 This bill would also provide that a violation of
+45 the law is a deceptive trade practice.
+46
+47
+48 A BILL
+49 TO BE ENTITLED
+50 AN ACT
+51
+52 Relating to consumer protection; to amend Sections
+53 8-19A-3, 8-19A-20, 8-19C-2, 8-19C-3, 8-19C-5, 8-19C-6,
+54 8-19C-7, 8-19C-8, and 8-19C-11, Code of Alabama 1975; to
+55 further provide for the state's telephone solicitation
+56 database; and to further provide for telephone solicitation
+Page 2
+
+database; and to further provide for telephone solicitation
+HB427 INTRODUCED
+57 prohibitions, penalties, damages, and defenses.
+58 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+59 Section 1. Sections 8-19A-3, 8-19A-20, 8-19C-2,
+60 8-19C-3, 8-19C-5, 8-19C-6, 8-19C-7, 8-19C-8, and 8-19C-11,
+61 Code of Alabama 1975, are amended to read as follows:
+62 "§8-19A-3
+63 As used in For the purposes of this chapter and Chapter
+64 19C, the following terms shall have the following meanings
+65 unless the context clearly indicates otherwise:
+66 (1) CALLER IDENTIFICATION SERVICE. A type of telephone
+67 service which permits telephone subscribers to see the
+68 telephone number of incoming telephone calls.
+69 (2) COMMERCIAL TELEPHONE SELLER. Any person who engages
+70 in commercial telephone solicitation on his or her own behalf
+71 or through salespersons, except that a commercial telephone
+72 seller does not include any of the persons or entities
+73 exempted from this chapter by Section 8-19A-4. A commercial
+74 telephone seller does not include a salesperson as defined in
+75 subdivision (15). A commercial telephone seller includes, but
+76 is not limited to, owners, operators, officers, directors,
+77 partners, or other individuals engaged in the management
+78 activities of a business entity pursuant to this chapter.
+79 (3) COMMERCIAL TELEPHONE SOLICITATION.
+80 a. An unsolicited telephone call to a person initiated
+81 by a commercial telephone seller or salesperson, or an
+82 automated dialing machine used in accordance with this chapter
+83 for the purpose of inducing the person to purchase or invest
+84 in consumer goods or services.
+Page 3
+
+in consumer goods or services.
+HB427 INTRODUCED
+85 b. Other communication with a person where:
+86 1. A gift, award, or prize is offered to a purchaser
+87 who has not previously purchased from the person initiating
+88 the communication.
+89 2. A telephone call response is invited.
+90 3. The salesperson intends to complete a sale or enter
+91 into an agreement to purchase during the course of the
+92 telephone call.
+93 c. Other communication with a person which that
+94 represents a price, quality, or availability of consumer goods
+95 or services and which invites a response by telephone or which
+96 is followed by a call to the purchaser by a salesperson. For
+97 purposes of this section, "other communication" means a
+98 written or oral notification or advertisement transmitted
+99 through any means. Also, for purposes of this section,
+100 "invites a response by telephone" does not mean the mere
+101 listing or including of a telephone number in a notification
+102 or advertisement.
+103 (4) COMMISSION. The Alabama Public Service Commission.
+104 (5) CONSUMER. An actual or prospective purchaser,
+105 lessee, or recipient of consumer goods or services.
+106 (6) CONSUMER GOODS OR SERVICES. Any real property or
+107 any tangible or intangible personal property which is normally
+108 used for personal, family, or household purposes including,
+109 without limitation, any property intended to be attached to or
+110 installed in any real property, without regard to whether it
+111 is so attached or installed, as well as cemetery lots,
+112 timeshare estates and licenses, and any services related to
+Page 4
+
+timeshare estates and licenses, and any services related to
+HB427 INTRODUCED
+113 the property.
+114 (7) DIVISION. The Consumer Division of the Office of
+115 the Attorney General.
+116 (8) DOING BUSINESS IN THIS STATE. Businesses conducting
+117 telephonic sales calls from a location in Alabama or from
+118 other states or nations to consumers located in Alabama.
+119 (9) ENFORCING AUTHORITY. The division or the office of
+120 the district attorney if a violation of this chapter occurs in
+121 or affects the judicial circuit under the jurisdiction of the
+122 office of the district attorney.
+123 (10) GIFT, AWARD, or PRIZE. A gratuity which the
+124 purchaser believes to be of value.
+125 (11) INDIVIDUAL. A single human being but does not mean
+126 a firm, association of individuals, corporation, partnership,
+127 joint venture, sole proprietorship, or any other entity.
+128 (12) MERCHANT. A person who, directly or indirectly,
+129 offers or makes available to consumers any consumer goods or
+130 services.
+131 (13) PERSON. Any individual, group of individuals,
+132 firm, association, corporation, partnership, joint venture,
+133 sole proprietorship, or any other business entity.
+134 (14) PROVIDER. Any provider of wireless, voice over the
+135 Internet protocol, or legacy-switched wireline voice service
+136 provider doing business in this state, as well as any provider
+137 of landline or cellular voice or text services doing business
+138 in this state.
+139 (14)(15) PURCHASER. A person who is solicited to become
+140 or does become obligated to a commercial telephone seller.
+Page 5
+
+or does become obligated to a commercial telephone seller.
+HB427 INTRODUCED
+141 (15)(16) SALESPERSON. Any individual employed,
+142 appointed, or authorized by a commercial telephone seller,
+143 regardless of whether the commercial telephone seller refers
+144 to the individual as an agent, representative, or independent
+145 contractor, who attempts to solicit or solicits a sale on
+146 behalf of the commercial telephone seller. A salesperson,
+147 however, does not include individuals exempted from this
+148 chapter by Section 8-19A-4 or employees or agents of persons
+149 exempted from this chapter by Section 8-19A-4, or companies
+150 and individuals under contract with persons exempted from this
+151 chapter by Section 8-19A-4 when liability is assumed by the
+152 exempt entity.
+153 (16)(17) TELEMARKETER or TELEPHONE SOLICITOR. Any
+154 natural person, firm, organization, partnership, association,
+155 or corporation, or a subsidiary or affiliate thereof, doing
+156 business in this state, who makes or causes to be made a
+157 telephonic sales call.
+158 (17)(18) TELEMARKETING or TELEPHONE SOLICITATION. A
+159 voice communication over a telephone line for the purpose of
+160 encouraging the purchase or rental of, or investment in
+161 property, goods, or services, but does not include
+162 communications by or on behalf of any of the exempt persons in
+163 Section 8-19A-4.
+164 (18)(19) TELEPHONE SOLICITATION CALL. A call made by a
+165 telephone solicitor to a consumer, for the purpose of
+166 soliciting a sale of consumer goods or services, or for the
+167 purpose of obtaining information that may be used for the
+168 direct solicitation of a sale of consumer goods or services or
+Page 6
+
+direct solicitation of a sale of consumer goods or services or
+HB427 INTRODUCED
+169 an extension of credit for consumer goods or services, or for
+170 the purpose of obtaining information that may be used for the
+171 direct solicitation of a sale of consumer goods or services or
+172 an extension of credit for such purposes.
+173 (19)(20) UNSOLICITED SOLICITATION SALES CALL. A
+174 telephonic sales call other than a call made to a person with
+175 whom the telephone solicitor has a prior or existing business
+176 relationship; or by a newspaper publisher or his or her agent
+177 or employee in connection with his or her business; or any of
+178 the exempt persons in Section 8-19A-4."
+179 "§8-19A-20
+180 The division or other enforcing authority shall have
+181 criminal prosecuting authority concerning the violations of
+182 this chapter, Chapter 19C, or of any rule or order hereunder.
+183 In addition to any other action, the division or other
+184 enforcing authority may bring an action against any person to
+185 enjoin, restrain, and prevent the doing of any act or practice
+186 herein prohibited or declared unlawful by this chapter or
+187 Chapter 19C."
+188 "§8-19C-2
+189 (a) No person or entity may make or cause to be made
+190 any telephone solicitation to the telephone line of any
+191 residential, commercial, or cellular telephone subscriber in
+192 this state who has given notice to the commission of his or
+193 her objection to receiving telephone solicitations.
+194 (b)(1) The commission shall establish and operate a
+195 database to compile a list of telephone numbers of
+196 residential, commercial, or cellular telephone subscribers who
+Page 7
+
+residential, commercial, or cellular telephone subscribers who
+HB427 INTRODUCED
+197 object to receiving telephone solicitations. The commission
+198 shall have the database in operation before July 1, 2000.
+199 (2) The database may be operated by the commission or
+200 by another entity under contract with the commission.
+201 (3) Before July 1, 2000, the The commission shall
+202 promulgate regulations adopt rules which shall include all of
+203 the following:
+204 a.1. A requirement that each local exchange company and
+205 each competing local exchange carrier and any provider of
+206 cellular services shall inform on an annual basis its
+207 residential, commercial, and cellular telephone subscribers of
+208 the opportunity to provide notification to the commission or
+209 its contractor that the subscriber objects to receiving
+210 telephone solicitations.
+211 2. The information shall be disseminated at the option
+212 of the carrier by television, radio, or newspaper
+213 advertisements; written correspondence; bill insert or
+214 messages; telephone book subscription forms; or any other
+215 method not expressly prohibited.
+216 b. Methods by which each residential, commercial, or
+217 cellular telephone subscriber may give notice to the
+218 commission or its contractor of his or her objection to
+219 receiving solicitations or revocation of the notice.
+220 c. Methods by which a notice of objection becomes
+221 effective and the effect of a change of telephone number on
+222 the notice.
+223 d. Methods by which objections and revocations are
+224 collected and added to the database.
+Page 8
+
+collected and added to the database.
+HB427 INTRODUCED
+225 e. Methods by which a person or entity desiring to make
+226 telephone solicitations may obtain access to the database as
+227 required to avoid calling the telephone numbers of
+228 residential, commercial, and cellular telephone subscribers
+229 included in the database.
+230 f. All other matters relating to the database that the
+231 commission deems necessary.
+232 (4) If, pursuant to 47 U.S.C. Section § 227(c)(3), the
+233 Federal Communications Commission establishes a single
+234 national database of telephone numbers of subscribers who
+235 object to receiving telephone solicitations, the commission
+236 shall include the part of the single national database that
+237 relates to Alabama in the database established under this
+238 section."
+239 "§8-19C-3
+240 (a) The commission shall have the authority to may
+241 charge a residential, commercial, or cellular telephone
+242 subscriber a fee every two years payable to the commission for
+243 each notice for inclusion on the database established pursuant
+244 to this chapter. The commission shall may also have the
+245 authority to charge a person or entity desiring to make
+246 telephone solicitations a fee per year payable to the
+247 commission for access to, or for paper or electronic copies of
+248 the database established pursuant to this chapter. Any fee
+249 established by the commission shall be subject to the approval
+250 of the Legislative Council.
+251 (b) The commission shall update its "no sales
+252 solicitation calls" listing upon receipt of initial consumer
+Page 9
+
+solicitation calls" listing upon receipt of initial consumer
+HB427 INTRODUCED
+253 subscriptions or renewals and provide this listing for a fee,
+254 pursuant to subsection (a).
+255 (c) All fees collected under this chapter shall be
+256 deposited into a separate fund in the State Treasury to be
+257 expended by the commission for the implementation and
+258 administration of this chapter. At the end of each fiscal
+259 year, unexpended monies remaining in the fund shall not revert
+260 to any other fund of the state, but shall remain available for
+261 appropriation. The Legislature shall annually appropriate from
+262 the fund the amount necessary for the administration of this
+263 chapter to the commission subject to the provisions, terms,
+264 conditions, and limitations of the Budget and Financial
+265 Control Act, Sections 41-4-80 et seq., Sections 41-19-1 et
+266 seq.Article 4 of Chapter 4 of Title 41, Chapter 19 of Title
+267 41, and any other provisions of this chapter."
+268 "§8-19C-5
+269 (a) Any person or entity who makes a telephone
+270 solicitation to the telephone line of a residential,
+271 commercial, or cellular telephone subscriber in this state
+272 shall identify himself or herself as provided under Section
+273 8-19A-12.
+274 (b) No person or entity who makes a telephone
+275 solicitation to the telephone line of a residential,
+276 commercial, or cellular telephone subscriber in this state may
+277 knowingly utilize a method to block or otherwise circumvent
+278 the use of a caller identification service by the subscriber,
+279 or cause misleading caller identification information to be
+280 displayed to a subscriber, with the intent to defraud, cause
+Page 10
+
+displayed to a subscriber, with the intent to defraud, cause
+HB427 INTRODUCED
+281 harm, or wrongfully obtain anything of value.
+282 (c) A person or entity who makes a telephone
+283 solicitation to the telephone line of a residential,
+284 commercial, or cellular telephone subscriber in this state may
+285 not make either of the following types of calls:
+286 (1) A call before 8:00 a.m. or after 8:00 p.m. local
+287 time in the called person's time zone.
+288 (2) More than three solicitation calls from any number
+289 to a person over a 24-hour period on the same subject matter
+290 or issue, regardless of the phone number used to make the
+291 call.
+292 (d) This section does not apply to solicitations in
+293 which the name and telephone number of the party on whose
+294 behalf the call is made has been substituted for the name and
+295 telephone number of the service used to make the call."
+296 "§8-19C-6
+297 The commission may commence proceedings in the circuit
+298 court in the county relating to a knowing violation or
+299 threatened knowing violation of subsection (a) of Section
+300 8-19C-2(a) or Section 8-19C-5. Proceedings which the
+301 commission may commence, include, without limitation, issuance
+302 of a cease and desist order or issuance of an order imposing a
+303 civil penalty up to a maximum of two thousand dollars ($2,000)
+304 twenty thousand dollars ($20,000) for each violation. The
+305 proceedings shall be brought in the name of the state. The
+306 commission may issue investigative demands, issue subpoenas,
+307 administer oaths, and conduct hearings in the course of
+308 investigating a violation of subsection (a) of Section
+Page 11
+
+investigating a violation of subsection (a) of Section
+HB427 INTRODUCED
+309 8-19C-2(a) or Section 8-19C-5."
+310 "§8-19C-7
+311 (a) A person who has received more than one telephone
+312 solicitation within a 12-month period by or on behalf of the
+313 same person or entity in violation of subsection (a) of
+314 Section 8-19C-2(a) or Section 8-19C-5 may bring an action to
+315 enjoin against the person or entity that made the telephone
+316 solicitation or the person or entity that the telephone
+317 solicitation was made on behalf of, or both.
+318 (b) An action brought pursuant to this section may seek
+319 to enjoin the violation;, bring an action to recover for
+320 reasonable attorney fees, or bring an action to recover
+321 damages in the amount of actual monetary loss from the knowing
+322 violation or to receive up to two thousand dollars ($2,000)
+323 twenty thousand dollars ($20,000) in damages for each knowing
+324 violation, whichever is greater; or bring both actions."
+325 "§8-19C-8
+326 (a) It shall not be a defense in any action or
+327 proceeding brought under Section 8-19C-6 or Section 8-19C-7
+328 that the defendant has established and implemented, with due
+329 care, reasonable practices and procedures to effectively
+330 prevent telephone solicitations in violation of this
+331 chapterdid not make the telephone solicitation or was not
+332 aware that the telephone solicitation was in violation of this
+333 chapter, if the telephone solicitation was made on behalf of
+334 the defendant as a result of a written or verbal agreement,
+335 contract, request, or employment relationship. provided, that
+336 it shall be a defense if the defendant has, with respect to
+Page 12
+
+it shall be a defense if the defendant has, with respect to
+HB427 INTRODUCED
+337 the person or entity that made the telephone solicitation,
+338 established policies and procedures to effectively prevent
+339 telephone solicitations in violation of this chapter and
+340 mandated and enforced compliance with those policies and
+341 procedures.
+342 (b) It shall also be a defense in any action or
+343 proceeding brought under this chapter that the telephone
+344 solicitation was made to a residential, commercial, or
+345 cellular telephone subscriber whose telephone number was
+346 provided in error by another subscriber so long as the
+347 defendant did not know, or have reason to know, that the
+348 telephone number was provided in error."
+349 "§8-19C-11
+350 (a) The remedies, duties, prohibitions, and penalties
+351 of Sections 8-19C-2 to 8-19C-10, inclusive, of this chapter
+352 shall not be exclusive and shall be in addition to all other
+353 causes of action, remedies, and penalties provided by law.
+354 (b) Any person who violates this chapter shall also be
+355 guilty of a deceptive trade practice pursuant to Chapter 19."
+356 Section 2. This act shall become effective on October
+357 1, 2026.
+Page 13

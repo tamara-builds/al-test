@@ -1,0 +1,305 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB61 INTRODUCED
+1 SB61
+2 NRXZ988-1
+3 By Senator Orr
+4 RFD: Finance and Taxation General Fund
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+NRXZ988-1 12/09/2025 GP (L)lg 2025-3455
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama Medicaid Agency
+6 (the agency) conducts eligibility determinations for
+7 Medicaid.
+8 Also under existing law, certain households are
+9 categorically eligible for Supplemental Nutrition
+10 Assistance Program (SNAP) benefits because of their
+11 eligibility for other public assistance, benefits, or
+12 services, including certain noncash or in-kind
+13 benefits.
+14 This bill would prohibit the Alabama Medicaid
+15 Agency from accepting certain self attestations or
+16 eligibility determinations for Medicaid.
+17 This bill would require the agency to enter into
+18 data matching agreements with certain state agencies to
+19 cross-check Medicaid eligibility with other data
+20 relating to income, employment, assets, and other
+21 relevant information.
+22 This bill would require the State Department of
+23 Human Resources (the department) to enter into data
+24 matching agreements with certain state agencies to
+25 cross-check food assistance eligibility with other data
+26 relating to income, employment, assets, and other
+27 relevant information.
+28 This bill would require the agency and the
+Page 1
+
+This bill would require the agency and the
+SB61 INTRODUCED
+29 department to regularly review certain related federal
+30 data to assess continued eligibility for public
+31 assistance and, if necessary, act on any changes.
+32 This bill would require the agency and the
+33 department to regularly publish data relating to
+34 investigations of fraud and noncompliance.
+35 This bill would prohibit the department from
+36 granting categorical eligibility for SNAP benefits,
+37 except as where required by federal law.
+38 This bill would prohibit the department from
+39 applying gross income standards or allowable financial
+40 resources standards for eligibility for food assistance
+41 at an amount higher than as specified in federal law.
+42 This bill would require the department to assign
+43 certification periods for SNAP benefits, with the
+44 length of the period dependent on certain household
+45 characteristics.
+46 This bill would also require the agency and the
+47 department to adopt rules.
+48
+49
+50 A BILL
+51 TO BE ENTITLED
+52 AN ACT
+53
+54 Relating to public assistance; to provide further for
+55 eligibility determinations for Medicaid; to prohibit certain
+56 self attestations for Medicaid eligibility; to require the
+Page 2
+
+self attestations for Medicaid eligibility; to require the
+SB61 INTRODUCED
+57 Alabama Medicaid Agency to enter into data matching agreements
+58 with certain state agencies to cross-check Medicaid
+59 eligibility; to require the State Department of Human
+60 Resources to enter into data matching agreements with certain
+61 state agencies to cross-check food assistance eligibility; to
+62 prohibit the department from granting categorical eligibility
+63 for SNAP benefits; to further provide for gross income
+64 standards and allowable financial resource standards for
+65 eligibility for food assistance; to require the agency and the
+66 department to regularly review certain federal data for
+67 purposes of confirming eligibility for public assistance; to
+68 require the agency and the department to publicize data
+69 related to investigations of fraud; to provide for
+70 certification periods for SNAP benefits; and to require the
+71 agency and the department to adopt rules.
+72 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+73 Section 1. (a) For the purposes of this section, the
+74 term "eligibility" refers to eligibility for participation in
+75 or receipt of benefits from Medicaid.
+76 (b)(1) The Alabama Medicaid Agency may not accept
+77 eligibility determinations from an Exchange established under
+78 42 U.S.C. § 18041(c).
+79 (2) The agency may accept assessments from an Exchange
+80 established under 42 U.S.C. § 18041(c), provided that the
+81 agency verifies eligibility and makes eligibility
+82 determinations.
+83 (c) Except where required by federal law, the Alabama
+84 Medicaid Agency may not:
+Page 3
+
+Medicaid Agency may not:
+SB61 INTRODUCED
+85 (1) Accept self-attestation of income, residency, age,
+86 household composition, caretaker or relative status, or
+87 receipt of other coverage without verifying that information
+88 prior to enrollment; or
+89 (2) Request the authority to waive or decline to
+90 periodically check any available income-related data sources
+91 to verify eligibility.
+92 (d) The Alabama Medicaid Agency shall enter into data
+93 matching agreements to receive and review information that may
+94 indicate a change in circumstances that may affect eligibility
+95 and cross-check households enrolled in Medicaid with other
+96 state data sets, including all of the following:
+97 (1) On at least a monthly basis, information from each
+98 of the following:
+99 a. The Alabama Department of Public Health, including,
+100 but not limited to, death records.
+101 b. The State Department of Human Resources, including,
+102 but not limited to, potential changes in residency as
+103 identified by out-of-state electronic benefit (EBT)
+104 transactions.
+105 c. The Department of Corrections, including, but not
+106 limited to, incarceration status.
+107 (2) On at least a quarterly basis, information from
+108 each of the following:
+109 a. The Department of Workforce, including, but not
+110 limited to, changes in employment, income, wages, assets, or
+111 disability status.
+112 b. The Department of Revenue, including, but not
+Page 4
+
+b. The Department of Revenue, including, but not
+SB61 INTRODUCED
+113 limited to, potential changes in income, wages, or residency
+114 as identified by tax records.
+115 (e) At least once a month, the Alabama Medicaid Agency
+116 shall assess continued eligibility and act on any changes that
+117 may affect eligibility based on a review of data from the
+118 following federal sources:
+119 (1) From the United States Social Security
+120 Administration, earned income information, death register
+121 information, incarceration records, supplemental security
+122 income information, beneficiary records, earnings information,
+123 and pension information.
+124 (2) From the United States Department of Health and
+125 Human Services, income and employment information maintained
+126 in the National Directory of New Hires database and child
+127 support enforcement data.
+128 (3) From the United States Department of Housing and
+129 Urban Development, payment and earnings information.
+130 (4) From the United States Federal Bureau of
+131 Investigation, national fleeing felon information.
+132 (5) From the United States Postal Service, change of
+133 address information.
+134 (f) Beginning not later than October 1, 2029, the
+135 Alabama Medicaid Agency shall submit enrollment information to
+136 the Centers for Medicare and Medicaid Services' national
+137 Medicaid enrollment database on a monthly basis for the
+138 purpose of identifying individuals who are enrolled in
+139 Medicaid in more than one state.
+140 (g) On at least a quarterly basis, the Alabama Medicaid
+Page 5
+
+(g) On at least a quarterly basis, the Alabama Medicaid
+SB61 INTRODUCED
+141 Agency shall make available on its public website all of the
+142 following data from findings on noncompliance and fraud
+143 investigations, provided the data is presented in the
+144 aggregate and does not include confidential or personally
+145 identifying information:
+146 (1) The number of Medicaid cases investigated for
+147 intentional program violations or fraud.
+148 (2) The total number of Medicaid cases referred to the
+149 Attorney General's office for prosecution.
+150 (3) Improper payments and expenditures.
+151 (4) Monies received.
+152 (5) Aggregate data concerning improper payments and
+153 ineligible recipients as a percentage of those investigated
+154 and reviewed.
+155 (h) The Alabama Medicaid Agency shall adopt rules to
+156 implement and administer this section.
+157 Section 2. (a) For the purposes of this section, the term
+158 "eligibility" refers to eligibility for food assistance,
+159 including the Supplemental Nutrition Assistance Program
+160 (SNAP).
+161 (b) The State Department of Human Resources shall enter
+162 into data matching agreements to receive and review
+163 information that may indicate a change in circumstances that
+164 may affect eligibility and cross-check households enrolled in
+165 food assistance with other state data sets, including all of
+166 the following:
+167 (1) On at least a monthly basis, information from each of
+168 the following:
+169 a. The Alabama Department of Public Health, including,
+170 but not limited to, death records.
+Page 6
+
+but not limited to, death records.
+SB61 INTRODUCED
+171 b. The State Department of Human Resources, including,
+172 but not limited to, potential changes in residency as
+173 identified by out-of-state electronic benefit (EBT)
+174 transactions.
+175 c. The Department of Corrections, including, but not
+176 limited to, incarceration status.
+177 (2) On at least a quarterly basis, information from each
+178 of the following:
+179 a. The Department of Workforce, including, but not
+180 limited to, changes in employment, income, wages, assets, or
+181 disability status.
+182 b. The Department of Revenue, including, but not limited
+183 to, potential changes in income, wages, or residency as
+184 identified by tax records.
+185 (c) At least once a month, the State Department of Human
+186 Resources shall assess continued eligibility and act on any
+187 changes that may affect eligibility based on a review of data
+188 from the following federal sources:
+189 (1) From the United States Social Security
+190 Administration, earned income information, death register
+191 information, incarceration records, supplemental security
+192 income information, beneficiary records, earnings information,
+193 and pension information.
+194 (2) From the United States Department of Health and Human
+195 Services, income and employment information maintained in the
+196 National Directory of New Hires database and child support
+197 enforcement data.
+198 (3) From the United States Department of Housing and
+199 Urban Development, payment and earnings information.
+200 (4) From the United States Federal Bureau of
+201 Investigation, national fleeing felon information.
+202 (d) On at least a quarterly basis, the State Department
+203 of Human Resources shall make available on its public website
+Page 7
+
+of Human Resources shall make available on its public website
+SB61 INTRODUCED
+204 all of the following data from findings on noncompliance and
+205 fraud investigations, provided the data is presented in the
+206 aggregate and does not include confidential or personally
+207 identifying information:
+208 (1) The number of households investigated for intentional
+209 program violations or fraud.
+210 (2) The total number of households referred to the
+211 Attorney General's office for prosecution.
+212 (3) Improper payments and expenditures.
+213 (4) Monies received.
+214 (5) Aggregate data concerning improper payments and
+215 ineligible recipients as a percentage of those investigated
+216 and reviewed.
+217 (6) The aggregate amount of funds expended by EBT
+218 transactions in each state outside of Alabama.
+219 (e) The State Department of Human Resources shall adopt
+220 rules to implement and administer this section.
+221 Section 3. (a) Except as otherwise expressly required
+222 by federal law, the State Department of Human Resources may
+223 not do any of the following:
+224 (1) Grant categorical eligibility for the Supplemental
+225 Nutrition Assistance Program (SNAP) under 7 U.S.C. § 2014(a)
+226 or 7 C.F.R. § 273.2(j)(2)(ii) for any noncash, in-kind, or
+227 other benefit.
+228 (2) Apply gross income standards for SNAP higher than
+229 the standards specified in 7 U.S.C. § 2014(c) or allowable
+230 financial resources higher than the standards specified in 7
+231 U.S.C. § 2014(g)(1), except as provided in subsection (b).
+232 (3) Grant categorical eligibility to exempt households
+233 from the gross income standards or allowable financial
+Page 8
+
+from the gross income standards or allowable financial
+SB61 INTRODUCED
+234 resource standards referenced in subdivisions (1) and (2) for
+235 any noncash, in-kind, or other benefit.
+236 (b) The State Department of Human Resources may apply
+237 alternative vehicle allowance standards in accordance with 7
+238 U.S.C. §2014(g)(2)(D) when counting allowable financial
+239 resources and household income for purposes of determining
+240 SNAP eligibility.
+241 Section 4. Unless otherwise prohibited under federal
+242 law, the State Department of Human Resources shall assign
+243 certification periods for the Supplemental Nutrition Program
+244 (SNAP) as follows:
+245 (1) A period not longer than four months for: (i)
+246 households with zero net income; (ii) households that include
+247 an able-bodied adult without dependents; and (iii) households
+248 whose circumstances are determined by the department to be
+249 unstable.
+250 (2) A period of one month or two months for households
+251 that the department determines will become ineligible for SNAP
+252 in the near future.
+253 Section 5. This act shall become effective on October
+254 1, 2026.
+Page 9

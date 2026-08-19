@@ -1,0 +1,475 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB147 INTRODUCED
+1 HB147
+2 XD9DLZ7-1
+3 By Representative Paschal
+4 RFD: Judiciary
+5 First Read: 13-Jan-26
+6 PFD: 12-Jan-26
+Page 0
+
+PFD: 12-Jan-26
+XD9DLZ7-1 07/29/2025 GP (L)lg 2025-2142
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law specifies that it is the policy of
+6 this state that parents who are divorced or separated
+7 have frequent and continuing contact with their
+8 children. Existing law also specifies that joint
+9 custody does not necessarily mean equal physical
+10 custody.
+11 Existing law defines "joint physical custody" as
+12 frequent and substantial contact with each parent but
+13 does not define what frequent and substantial contact
+14 means.
+15 This bill would define frequent and substantial
+16 contact to mean that the child has equal or
+17 approximately equal time with both parents and would
+18 revise existing definitions regarding custody to be
+19 consistent with terminology used in case law.
+20 This bill would create a rebuttable presumption
+21 that joint custody is in the best interest of the
+22 child, except in cases of domestic or family abuse, and
+23 establish uniform guidelines for a court to consider
+24 when determining any custody arrangement other than
+25 joint custody.
+26 Existing law does not require a court to
+27 document that the court considered and rejected joint
+28 custody and the reasons for the rejection.
+Page 1
+
+custody and the reasons for the rejection.
+HB147 INTRODUCED
+29 This bill would require a court to document its
+30 reasons for deviating from the presumption that joint
+31 custody is in the best interest of the child.
+32 Existing law requires the parties in a child
+33 custody matter to submit a parenting plan only in cases
+34 where the parties request joint custody.
+35 This bill would require the parties to submit a
+36 parenting plan that follows a joint custody model.
+37 In cases where the court has determined that
+38 domestic or family abuse occurred, this bill would
+39 authorize the court to: (i) allow for parenting plans
+40 to be submitted which do not reflect joint custody;
+41 (ii) suspend the requirement that the perpetrator of
+42 domestic or family abuse submit a parenting plan; or
+43 (iii) set the plan.
+44 This bill would provide that, if a parent
+45 believes joint custody is not in the best interest of
+46 his or her child whose custody is at issue, he or she
+47 may file a motion for temporary relief, which the court
+48 must expedite.
+49 This bill would provide certain penalties if a
+50 motion for temporary relief is filed in bad faith or
+51 without factual support.
+52 This bill would authorize the court to establish
+53 a parenting plan when the parties are unable to agree
+54 upon the plan.
+55 This bill would specify additional remedies to a
+56 party when a parent, without proper cause, fails to
+Page 2
+
+party when a parent, without proper cause, fails to
+HB147 INTRODUCED
+57 adhere to the time-sharing schedule in a parenting
+58 plan, including makeup parenting time and reimbursement
+59 for costs and attorney fees.
+60 This bill would also specify that this act does
+61 not limit domestic or family abuse laws.
+62
+63
+64 A BILL
+65 TO BE ENTITLED
+66 AN ACT
+67
+68 Relating to child custody; to amend Sections 30-3-150,
+69 30-3-151, 30-3-152, and 30-3-153 of the Code of Alabama 1975,
+70 and to add Sections 30-3-158 and 30-3-159 to the Code of
+71 Alabama 1975, relating to child custody; to provide further
+72 for the policy of this state regarding child custody; to
+73 provide further for definitions; to provide that there is a
+74 rebuttable presumption that joint custody is in the best
+75 interest of the child, which can be overcome only by evidence;
+76 to provide an exception in cases of domestic or family abuse;
+77 to establish factors for a court to consider when determining
+78 any custody arrangement other than joint custody; to require a
+79 parenting plan and to authorize the court to establish a
+80 parenting plan in certain situations; to specify remedies when
+81 a party fails to adhere to certain provisions in a parenting
+82 plan; to allow a parent to file a petition for temporary
+83 relief if he or she believes joint custody is not in the best
+84 interest of the child; to provide certain remedies if an
+Page 3
+
+interest of the child; to provide certain remedies if an
+HB147 INTRODUCED
+85 unsupported or bad faith petition for temporary relief is
+86 filed; and to provide that nothing in this act shall be
+87 construed to limit domestic or family abuse provisions of the
+88 law.
+89 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+90 Section 1. This act shall be known and may be cited as
+91 the Best Interest of the Child Protection Act of 2026.
+92 Section 2. Sections 30-3-150, 30-3-151, 30-3-152, and
+93 30-3-153, Code of Alabama 1975, are amended to read as
+94 follows:
+95 "§30-3-150
+96 Joint Custody. It is the policy of this state to assure
+97 that minor children have frequent and continuing contact with
+98 parents who have shown the ability to act in the best interest
+99 of their children and to encourage parents to share in the
+100 rights and responsibilities of rearing raising their children
+101 after the parents have separated or dissolved their marriage.
+102 Joint custody does not necessarily mean equal physical
+103 custodyIt is the intent of the Legislature that this chapter
+104 be implemented in a manner that recognizes the importance of
+105 family and the fundamental rights of parents and children. The
+106 social science research indicates it is in the best interest
+107 of children to have consistent and maximized contact with
+108 parents. In custody hearings, courts are encouraged to keep
+109 this in mind when determining the best interest of the child."
+110 "§30-3-151
+111 For the purposes of this article the following words
+112 shall have the following meanings:
+Page 4
+
+shall have the following meanings:
+HB147 INTRODUCED
+113 (1) JOINT CUSTODY. Joint legal custody and joint
+114 physical custody.
+115 (2) JOINT LEGAL CUSTODY. Both A custody arrangement
+116 where both parents have equal rights and responsibilities for
+117 major decisions concerning the child, including, but not
+118 limited to, the education of the child, health care, and
+119 religious training, and the responsibility to discuss those
+120 decisions and consider the wishes and concerns of each parent
+121 and the child. The court may designate one parent to have sole
+122 power to make certain decisions while both parents retain
+123 equal rights and responsibilities for other decisionsfinal
+124 decision-making authority to make certain major decisions;
+125 provided, however, that designation does not negate the
+126 responsibility of that parent to discuss those decisions with
+127 the other parent and to consider the other parent's wishes and
+128 concerns. In the event of an impasse and in the absence of an
+129 express award of final decision-making authority, the primary
+130 physical custodian shall have final decision-making authority
+131 for those decisions.
+132 (3) JOINT PHYSICAL CUSTODY. Physical A custody
+133 arrangement where physical custody is shared by the parents in
+134 a way that assures the child frequent and substantial contact
+135 with each parent. Joint physical custody does not necessarily
+136 mean physical custody of equal durations of time For purposes
+137 of this subdivision, "frequent and substantial contact" means
+138 that the child has equal or approximately equal time with both
+139 parents.
+140 (4) NONRESIDENTIAL CUSTODIAL PARENT. The parent with
+Page 5
+
+(4) NONRESIDENTIAL CUSTODIAL PARENT. The parent with
+HB147 INTRODUCED
+141 whom the child does not live the majority of the time and who
+142 does not have the primary authority and responsibility for the
+143 day-to-day care and decisions relating to the raising of a
+144 child or the authority to establish where a child will live,
+145 but who does have the authority and responsibility for the
+146 day-to-day care and decisions related to the raising of a
+147 child when the child is in his or her physical custody and not
+148 in the physical custody of the parent with primary physical
+149 custody as outlined in the parenting plan.
+150 (5) PARENTING PLAN. A plan specifying the time that a
+151 minor child will spend with each parent and which may include
+152 provisions for progressive periods of time-sharing within the
+153 court ordered time-sharing schedules based on the increasing
+154 age and developmental considerations of the child, the need of
+155 the child to be reunited with a parent, or any other
+156 consideration pertaining to the child's best interest. The
+157 inclusion of a progressive provision in a parenting plan or a
+158 custody order does not alter the type of physical custody
+159 ordered by the court or the burden of proof required to modify
+160 custody.
+161 (6) PRIMARY PHYSICAL CUSTODY. A status of custody
+162 making one parent the predominant physical custodian of the
+163 child and granting the other parent the status of the
+164 nonresidential custodial parent, unless the judge specifically
+165 grants the other parent the status of restricted physical
+166 custody. The parent with primary physical custody has the
+167 primary authority and responsibility for the day-to-day care
+168 and decisions related to the raising of the child and to
+Page 6
+
+and decisions related to the raising of the child and to
+HB147 INTRODUCED
+169 establish where the child will live.
+170 (7) RESTRICTED PHYSICAL CUSTODY. A status of custody
+171 where a parent's physical access to a child is limited to
+172 supervised custody, no overnight custody, a suspension of
+173 physical contact, or any other restrictions on custody
+174 determined by the court to be in the best interest of the
+175 child.
+176 (4)(8) SOLE LEGAL CUSTODY. One A status of custody
+177 where one parent has sole rights and responsibilities to make
+178 major decisions concerning the child, including, but not
+179 limited to, the education of the child, health care, and
+180 religious training, and the civil, cultural, and athletic
+181 activities of the child.
+182 (5) SOLE PHYSICAL CUSTODY. One parent has sole physical
+183 custody and the other parent has rights of visitation except
+184 as otherwise provided by the court."
+185 "§30-3-152
+186 (a) The court shall in every case consider joint
+187 custody but may award any form of custody which is determined
+188 to be Except as provided in Article 6 of this chapter, there
+189 shall be a rebuttable presumption that joint custody is in the
+190 best interest of the child. This rebuttable presumption may be
+191 overcome by a preponderance of the evidence, set forth in
+192 written findings of fact, that joint custody is not in the
+193 best interest of the child. In the event the presumption is
+194 rebutted, the court shall enter an order that includes all of
+195 the following:
+196 (1) The court's reason for deviating from the joint
+Page 7
+
+(1) The court's reason for deviating from the joint
+HB147 INTRODUCED
+197 custody arrangement.
+198 (2) The facts and findings concerning the basis for the
+199 court's determination.
+200 (3) A parenting plan that maximizes the time each
+201 parent has with the child and is consistent with ensuring the
+202 welfare of the child.
+203 (b) In determining whether joint custody is in the best
+204 interest of the child, the court shall consider the same
+205 factors considered in awarding sole legal and physical any
+206 other form of custody arrangement and all of the following
+207 factors, but may weigh various factors differently based on
+208 the factors presented and the best interest of the child:
+209 (1) The agreement or lack of agreement of the parents
+210 on joint custody.
+211 (2) The past and present ability of the parents to
+212 cooperate with each other and make decisions jointly.
+213 (3) The ability of the parents to encourage the sharing
+214 of love, affection, and contact between the child and the
+215 other parent.
+216 (4) Any history of or potential for child abuse, spouse
+217 abuse, or kidnapping.
+218 (5) The geographic proximity of the parents to each
+219 other as this relates to the practical considerations of joint
+220 physical custody.
+221 (b)(c) The court may order a form of joint custody
+222 without the consent of both parents, when it is in the best
+223 interest of the child.
+224 (c)(d) If both parents request joint custody, the there
+Page 8
+
+(c)(d) If both parents request joint custody, the there
+HB147 INTRODUCED
+225 is a presumption is that joint custody is in the best interest
+226 of the child. Joint custody, when requested by both parents,
+227 shall be granted in the final order of the court unless the
+228 court makes specific findings as to why joint custody is not
+229 granted.
+230 (e) If joint custody is not awarded by the court, all
+231 of the following factors shall be considered by the court when
+232 determining which other custody arrangement is in the best
+233 interest of the child. The court may weigh the following
+234 factors differently based on the facts presented and the best
+235 interest of the child:
+236 (1) The preferences of the parents.
+237 (2) The moral, mental, and physical fitness of each
+238 parent.
+239 (3) The capacity of each parent to engage in a loving
+240 relationship with the child and to provide for the needs of
+241 the child, including the child's emotional, social, moral,
+242 material, and educational needs.
+243 (4) The history of cooperation between the parents,
+244 including the past and present history and the capacity of
+245 each parent to facilitate or encourage a continuing
+246 parent-child relationship with both parents.
+247 (5) Each parent's home environment.
+248 (6) Each parent's criminal history or evidence of
+249 violence, or sexual, mental, or physical abuse.
+250 (7) Evidence of substance abuse by either parent.
+251 (8) The child's age and any special needs.
+252 (9) Characteristics of each individual seeking custody,
+Page 9
+
+(9) Characteristics of each individual seeking custody,
+HB147 INTRODUCED
+253 including age, character, stability, and mental and physical
+254 health.
+255 (10) The report and recommendation of any expert
+256 witnesses or other independent investigator.
+257 (11) Military considerations in accordance with state
+258 and federal law.
+259 (12) The child's current adjustment to or involvement
+260 with his or her community.
+261 (13) The relationship between each parent and the
+262 child.
+263 (14) The preference of the child if the child is of
+264 sufficient age and maturity.
+265 (15) The relationship between the child and the child's
+266 peers, siblings, or other relatives.
+267 (16) Each parent's knowledge and familiarity with the
+268 child and level of involvement in the child's life both prior
+269 to and after the separation of the parents.
+270 (17) The effect on the child of disrupting or
+271 continuing an existing custodial status.
+272 (18) Any history or evidence of parental alienation.
+273 For the purpose of this subdivision, parental alienation
+274 occurs in a child as the result of intentional and purposeful
+275 behavior by one parent to undermine and sever the child's
+276 relationship with the other parent.
+277 (19) Any other relevant factors."
+278 "§30-3-153
+279 (a) In order to implement joint custody, theThe court
+280 shall require the parents to submit, as part of their
+Page 10
+
+shall require the parents to submit, as part of their
+HB147 INTRODUCED
+281 agreement, each parent, separately or together, to submit a
+282 parenting plan with provisions covering matters relevant to
+283 the care and custody of the child, including, but not limited
+284 to, all of the following:
+285 (1) The care and education of the child.The ways in
+286 which the parents will share tasks and responsibilities for
+287 the daily upbringing of the child.
+288 (2) The medical and dental care of the child.The amount
+289 of time the child will spend with each parent.
+290 (3) Holidays and vacations.A designation of which
+291 parent is responsible for the health care of the child and
+292 school-related matters, including the address to be used to
+293 establish residence for school and other activities.
+294 (4) Child support.Transportation arrangements for the
+295 child, including which parent bears the costs of transporting
+296 the child.
+297 (5) Other necessary factors that affect the physical or
+298 emotional health and well-being of the child.
+299 (6) The methods and technologies that the parents
+300 intend to use to communicate with the child and each other.
+301 (7) A designation of which parent possesses(6)
+302 Designating the parent possessing primary authority and
+303 responsibility regarding involvement of the minor child in
+304 academic, religious, civic, cultural, athletic, and other
+305 activities, and in medical and dental care if the parents are
+306 unable to agree on these decisions. The exercise of this
+307 primary authority is not intended to negate the responsibility
+308 of the parties to notify and communicate with each other as
+Page 11
+
+of the parties to notify and communicate with each other as
+HB147 INTRODUCED
+309 provided in this article.
+310 (8) Child support and the division of any expenses in
+311 addition to child support, as provided in Rule 32 of the
+312 Alabama Rules of Judicial Administration.
+313 (b)(1) If the parties are unable to reach an agreement
+314 as to the provisions in subsection (a), the court shall set
+315 the plan.
+316 (2) In cases in which the court determines that
+317 domestic or family abuse has occurred as provided in Article
+318 6, the court may set the plan or suspend the requirement that
+319 the perpetrator of domestic or family abuse must submit a
+320 parenting plan.
+321 (c) Any parenting plan submitted by the parents
+322 pursuant to subsection (a) shall follow a joint custody model,
+323 unless:
+324 (1) Subsection (d) applies; or
+325 (2) There is a determination by the court that domestic
+326 or family abuse has occurred, as provided in subdivision
+327 (b)(2).
+328 (d) If a parent believes, based upon the facts and
+329 circumstances of the case or any factors to be considered by
+330 the court pursuant to Section 30-3-152, that joint custody is
+331 not in the best interest of a child whose custody is being
+332 determined, the parent shall file, in conjunction with the
+333 parenting plan, a verified motion for temporary relief,
+334 pendente lite. A verified motion for temporary relief,
+335 pendente lite, filed pursuant to this subsection shall state
+336 with specificity sufficient allegations of fact to justify
+Page 12
+
+with specificity sufficient allegations of fact to justify
+HB147 INTRODUCED
+337 relief. The court shall expeditiously consider all motions
+338 filed pursuant to this subsection.
+339 (e) If the court determines that a party filed a
+340 verified motion for temporary relief, pendente lite, in the
+341 absence of an adequate factual basis or in bad faith, the
+342 court shall award reasonable attorney fees to the non-filing
+343 party to be paid by the filing party. The court may also
+344 impose other sanctions it deems reasonable, including, but not
+345 limited to, providing that the unsupported or bad faith filing
+346 may be considered as a negative factor during the custody
+347 determination."
+348 Section 3. Sections 30-3-158 and 30-3-159 are added to
+349 the Code of Alabama 1975, to read as follows:
+350 §30-3-158
+351 (a) When a parent refuses to adhere to the time-sharing
+352 schedule in the parenting plan ordered by the court without
+353 proper cause, the court may take any of the following actions:
+354 (1) After calculating the amount of time-sharing
+355 improperly denied by a parent, issue an order awarding the
+356 parent who was denied time a sufficient amount of extra
+357 time-sharing to compensate for the time-sharing missed. The
+358 order shall be issued as expeditiously as possible in a manner
+359 consistent with the best interest of the child and scheduled
+360 in a manner that is convenient for the parent deprived of
+361 time-sharing. In ordering any makeup time-sharing, the court
+362 shall schedule the time-sharing: (i) in a manner that is
+363 consistent with the best interest of the child or children;
+364 (ii) which is convenient for the nonoffending parent; and
+Page 13
+
+(ii) which is convenient for the nonoffending parent; and
+HB147 INTRODUCED
+365 (iii) at the expense of the noncompliant parent. For the
+366 purposes of this section, the term "noncompliant parent"
+367 refers to the parent who did not provide time-sharing or did
+368 not properly exercise time-sharing under the time-sharing
+369 schedule.
+370 (2) Order the noncompliant parent to pay reasonable
+371 court costs and attorney fees incurred by the nonoffending
+372 parent to enforce the time-sharing schedule.
+373 (3) Order the noncompliant parent to attend a parenting
+374 course approved by the court. The parenting course shall
+375 educate the parent about the benefits of a child's
+376 relationship with both parents.
+377 (4) Order the noncompliant parent to pay the actual
+378 costs incurred by the other parent because of the failure to
+379 provide time-sharing or the failure to properly exercise
+380 time-sharing as provided by the court order.
+381 (5) Impose any other reasonable remedies as a result of
+382 noncompliance.
+383 (b) The actions described in subsection (a) are in
+384 addition to existing remedies, including, but not limited to,
+385 contempt.
+386 §30-3-159
+387 (a) A court of competent jurisdiction shall equally
+388 enforce all child custody and child support orders.
+389 (b) Nothing in this article shall be construed to limit
+390 the domestic or family abuse provisions provided in Article 6
+391 of Chapter 3, Title 30.
+392 (c) The provisions of this act may not be construed to
+Page 14
+
+(c) The provisions of this act may not be construed to
+HB147 INTRODUCED
+393 constitute a material change of circumstances for purposes of
+394 modifying an order in place before January 1, 2027.
+395 Section 4. The provisions of this act are severable. If
+396 any part of this act is declared invalid or unconstitutional,
+397 that declaration shall not affect the part which remains.
+398 Section 5. This act shall become effective on January
+399 1, 2027.
+Page 15

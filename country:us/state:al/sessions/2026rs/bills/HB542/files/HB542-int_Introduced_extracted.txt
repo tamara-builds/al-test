@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB542 INTRODUCED
+1 HB542
+2 DGC2BNN-1
+3 By Representative Blackshear
+4 RFD: Transportation, Utilities and Infrastructure
+5 First Read: 03-Mar-26
+Page 0
+
+First Read: 03-Mar-26
+DGC2BNN-1 03/03/2026 ZAK (L)ZAK 2026-488
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, certain utilities, including
+6 those with a gross annual income of two hundred fifty
+7 million dollars or less, may be reimbursed for costs
+8 incurred to relocate utility facilities required for
+9 road construction pursuant to an order of the Director
+10 of Transportation, subject to certain conditions.
+11 This bill would add conditions to the payment of
+12 costs by the state for utility facility relocations by
+13 these certain utilities.
+14 This bill would require the director to
+15 reimburse utilities with a gross annual income over two
+16 hundred fifty million dollars for costs incurred in
+17 relocating utility facilities pursuant to an order of
+18 the director, subject to certain conditions.
+19 This bill would also require the director to
+20 submit an annual report to the Legislature that
+21 provides information related to such payments.
+22
+23
+24 A BILL
+25 TO BE ENTITLED
+26 AN ACT
+27
+28 Relating to public highways; to amend Section 23-1-5,
+Page 1
+
+Relating to public highways; to amend Section 23-1-5,
+HB542 INTRODUCED
+29 Code of Alabama 1975, to add conditions to the state payment
+30 of utility facility relocations by certain utilities; to
+31 require the Director of Transportation to reimburse utilities
+32 with a gross income over two hundred fifty million dollars for
+33 costs incurred in relocating utility facilities required for
+34 highway construction pursuant to an order of the director; and
+35 to require the director to submit an annual report to the
+36 Legislature.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Section 23-1-5, Code of Alabama 1975, is
+39 amended to read as follows:
+40 "§23-1-5
+41 (a) For the purposes of this section, the following
+42 terms have the following meanings:
+43 (1) COST OF RELOCATION. Includes the entire amount paid
+44 by a utility properly attributable to the relocation after
+45 deducting therefrom any increase in the value of the new
+46 facility and any salvage value derived from the old facility.
+47 (2) DISTRIBUTION LINE. Any utility facility that
+48 distributes or transmits electricity at a voltage less than
+49 40,000 volts.
+50 (3) NATIONAL SYSTEM OF INTERSTATE AND DEFENSE HIGHWAYS.
+51 The national system of interstate and defense highways or
+52 interstate system described in 23 U.S.C. § 103.
+53 (4) TRANSMISSION LINE. Any utility facility that
+54 distributes or transmits electricity at a voltage of 40,000
+55 volts or more.
+56 (5) UTILITY. Includes publicly, privately, and
+Page 2
+
+(5) UTILITY. Includes publicly, privately, and
+HB542 INTRODUCED
+57 cooperatively owned utilities and any provider of broadband
+58 service, cable service, or telecommunications service.
+59 (b) Whenever the Director of Transportation shall
+60 determine determines and order orders that the relocation of
+61 any utility facility is necessitated by the construction of
+62 any project on the national system of interstate and defense
+63 highways, including the extensions thereof within urban areas,
+64 the utility owning or operating the utility facility shall
+65 relocate the facility in accordance with the order of the
+66 Director of Transportation. Notwithstanding the foregoing, if
+67 the cost of the utility facility relocation is eligible and
+68 approved for reimbursement by the federal government, the cost
+69 of the relocation of the utility facility shall be paid by the
+70 state as a part of the cost of the construction of the project
+71 out of the funds then or thereafter available for the highway
+72 construction after the utility has furnished the Director of
+73 Transportation with all papers, records, or other supporting
+74 documents required by the director. After the final federal
+75 Bureau of Public Roads' audit, the utility shall repay to the
+76 state the difference, if any, between the total amount paid by
+77 the state to the utility for the relocation and the total
+78 amount collected by the state from federal participation on
+79 the utility relocation, plus the state's matching share of the
+80 federal participation.
+81 (b)(c)(1) Whenever the Director of Transportation shall
+82 determine determines and order orders that the relocation of
+83 any utility facility is necessitated by the construction of
+84 any highway, road, or street, other than the highways that are
+Page 3
+
+any highway, road, or street, other than the highways that are
+HB542 INTRODUCED
+85 a part of the national system of interstate and defense
+86 highways referred to in subsection (a) of this section (b),
+87 the utility owning or operating the facility shall relocate
+88 the facility in accordance with the order of the Director of
+89 Transportation at its own expense. Notwithstanding the
+90 foregoing, if the facilities to be relocated are owned by any
+91 utility which that had a gross income of two hundred fifty
+92 million dollars ($250,000,000) or less for the calendar year
+93 immediately preceding the relocation, or in the case of
+94 utilities which may be hereafter organized and created, which
+95 have a gross income of two hundred fifty million dollars
+96 ($250,000,000) or less in their first complete year of
+97 operation or in the calendar year immediately preceding the
+98 relocation or, in the case of utilities owned or operated by a
+99 corporation organized pursuant to Article 8, Chapter 50, Title
+100 11, the cost of the relocation of the utility facility shall
+101 be paid by the state as a part of the cost of the construction
+102 of the project out of the funds then or thereafter available
+103 for the highway construction after the utility has furnished
+104 the Director of Transportation with all papers, records, or
+105 other supporting documents required by the director. After the
+106 final federal Bureau of Public Roads' audit, the utility shall
+107 repay to the state the difference, if any, between the total
+108 amount paid by the state to the utility for the relocation and
+109 the total amount collected by the state from federal
+110 participation on the utility relocation, plus the state's
+111 matching share of the federal participation.
+112 (2) Beginning on October 1, 2027, the total amount of
+Page 4
+
+(2) Beginning on October 1, 2027, the total amount of
+HB542 INTRODUCED
+113 costs paid to relocate utility facilities by the state
+114 pursuant to subdivision (1) during a state fiscal year shall
+115 be not less than twenty million dollars ($20,000,000).
+116 (d) Beginning on October 1, 2027, notwithstanding
+117 subsection (b) or (c), the Director of Transportation shall
+118 reimburse a utility that had a gross income over two hundred
+119 fifty million dollars ($250,000,000) for the calendar year
+120 immediately preceding a utility facility relocation for costs
+121 incurred in relocating the facility in connection with the
+122 construction, reconstruction, or improvement of any public
+123 road, street, or highway pursuant to a determination and order
+124 of the director, subject to all of the following:
+125 (1) The total amount of reimbursement paid to all such
+126 utilities during a state fiscal year may not exceed ten
+127 million dollars ($10,000,000).
+128 (2) Reimbursement for a single utility facility
+129 relocation may not exceed five hundred thousand dollars
+130 ($500,000).
+131 (3) Any costs incurred by a utility for a utility
+132 facility relocation in excess of the limit provided in
+133 subdivision (2) are the responsibility of the utility.
+134 (4) All reimbursements issued pursuant to this
+135 subsection are subject to the same documentation, audit,
+136 adjustment, and repayment requirements as provided in
+137 subsections (b) and (c).
+138 (c)(e) The Director of Transportation may enter into
+139 contracts or agreements and conform any existing contracts or
+140 agreements with utilities in order to effectuate the purposes
+Page 5
+
+agreements with utilities in order to effectuate the purposes
+HB542 INTRODUCED
+141 of this section.
+142 (f) The Director of Transportation shall provide an
+143 annual report to the Legislature not later than the first
+144 legislative day of each regular session. The report shall
+145 provide relevant information under this section, including the
+146 total number and costs of utility facility relocations paid by
+147 the department and which were and were not reimbursed by the
+148 department pursuant to this section during the preceding year.
+149 (g) This section shall apply to any project requiring
+150 the relocation of a utility facility which is funded in whole
+151 or in part with federal or state funds.
+152 (h) For purposes of this section, when a utility
+153 facility relocation requires the relocation of transmission
+154 lines and distribution lines, the relocation of transmission
+155 lines and distribution lines shall be considered separate and
+156 distinct utility facility relocations.
+157 (i) Notwithstanding any other provision of law, if a
+158 utility begins a utility facility relocation pursuant to this
+159 section and the Director of Transportation determines and
+160 orders a revision to the utility facility relocation for the
+161 same project before completion of the project, the state shall
+162 pay all further costs of relocating the utility facility after
+163 the revision.
+164 (d) The word utility shall include publicly, privately,
+165 and cooperatively owned utilities. The words cost of
+166 relocation shall include the entire amount paid by the utility
+167 properly attributable to the relocation after deducting
+168 therefrom any increase in the value of the new facility and
+Page 6
+
+therefrom any increase in the value of the new facility and
+HB542 INTRODUCED
+169 any salvage value derived from the old facility. The words
+170 national system of interstate and defense highways mean the
+171 national system of interstate and defense highways or
+172 interstate system described in subsection (d) of Section 103
+173 of Title 23, United States Code."
+174 Section 2. This act shall become effective on October
+175 1, 2026.
+Page 7

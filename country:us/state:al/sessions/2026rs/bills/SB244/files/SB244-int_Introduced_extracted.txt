@@ -1,0 +1,420 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB244 INTRODUCED
+1 SB244
+2 RBWV8YY-1
+3 By Senators Smitherman, Stewart (N & P)
+4 RFD: Finance and Taxation General Fund
+5 First Read: 03-Feb-26
+Page 0
+
+First Read: 03-Feb-26
+RBWV8YY-1 01/22/2026 VSM (L)ma 2026-430
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a fee is required to record
+6 certain mortgages, deeds of trust, contracts of
+7 conditional sale, or other similar instruments given to
+8 secure the payment of any debt which conveys any real
+9 or personal property.
+10 This bill would increase the fee for recording
+11 of certain mortgages, deeds of trust, contracts of
+12 conditional sale, or similar instruments given to
+13 secure the payment of any debt which conveys any real
+14 or personal property.
+15 This bill would modify the rate and distribution
+16 of the mortgage record tax in order to provide a
+17 dedicated revenue for the Alabama Housing Trust Fund.
+18 This bill would also make nonsubstantive,
+19 technical revisions to update the existing code
+20 language to current style.
+21
+22
+23 A BILL
+24 TO BE ENTITLED
+25 AN ACT
+26
+27 To amend Section 40-22-2, Code of Alabama 1975; to
+28 increase the fee for recording of certain mortgages, deeds of
+Page 1
+
+increase the fee for recording of certain mortgages, deeds of
+SB244 INTRODUCED
+29 trust, contracts of conditional sale, or other similar
+30 instruments given to secure the payment of any debt which
+31 conveys any real or personal property; and to modify the rate
+32 and distribution of the mortgage record tax to provide a
+33 dedicated revenue for the Alabama Housing Trust Fund.
+34 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+35 Section 1. Section 40-22-2, Code of Alabama 1975, is
+36 amended to read as follows:
+37 "§40-22-2
+38 No mortgage, deed of trust, contract of conditional
+39 sale, or other similar instrument of like character which is
+40 given to secure the payment of any debt which conveys any real
+41 or personal property situated within this state, or any
+42 interest therein or in any real or personal property, any
+43 security agreement or financing statement provided for by the
+44 Uniform Commercial Code, except a security agreement or a
+45 financing statement relating solely to security interests in
+46 accounts, contract rights, or general intangibles, as such
+47 these terms are defined in the Uniform Commercial Code, and
+48 except for the re-recordation of corrected mortgages, deeds,
+49 or instruments executed for the purpose of perfecting the
+50 title to real or personal property, specifically, but not
+51 limited to, corrections of maturity dates thereof, shall be
+52 received for record or for filing in the office of any probate
+53 judge of probate of this state unless the following privilege
+54 or license taxes shall have been paid upon such the instrument
+55 before the same shall be received for record or for filing:
+56 (1)a. Upon all such instruments which are executed to
+Page 2
+
+(1)a. Upon all such instruments which are executed to
+SB244 INTRODUCED
+57 secure or to evidence the securing of an initial indebtedness
+58 which shall not exceed $100 one hundred dollars ($100), there
+59 shall be paid the sum of $.15 thirty cents ($0.30), and upon
+60 all instruments which shall be executed to secure or to
+61 evidence the securing of an initial indebtedness of more than
+62 $100 one hundred dollars ($100), there shall be paid the sum
+63 of $.15 thirty cents ($0.30) for each $100 one hundred dollars
+64 ($100) of such the initial indebtedness or fraction thereof of
+65 it.
+66 b. Upon all such instruments which are executed to
+67 secure or to evidence the securing of an open end or revolving
+68 indebtedness with any interest in property, at the option of
+69 the person offering the instrument for record or for filing,:
+70 (i) there shall be paid the sum of $.15 thirty cents ($0.30)
+71 for each $100 one hundred dollars ($100) of such the initial
+72 indebtedness or fraction thereof of it and the procedures set
+73 forth in paragraphs a, b, and c (2) a., b., and c. of
+74 subdivision (2) of this section shall be applicable; or, in
+75 lieu thereof of, (ii) there shall be paid the sum of $.15
+76 thirty cents ($0.30) for each $100 one hundred dollars ($100)
+77 of maximum principal indebtedness, or fraction thereof of it,
+78 to be secured by such the instrument at any one time as stated
+79 in the instrument or any amendment thereto. In any event, the
+80 privilege or license tax to be paid upon such instruments
+81 securing or evidencing the securing of open end or revolving
+82 indebtedness with any interest in property shall not exceed
+83 the amount of $.15 thirty cents ($0.30) for each $100 one
+84 hundred dollars ($100) of maximum principal indebtedness, or
+Page 3
+
+hundred dollars ($100) of maximum principal indebtedness, or
+SB244 INTRODUCED
+85 fraction thereof of it, to be secured by such the instrument
+86 at any one time as stated in the instrument or any amendment
+87 thereto of it, irrespective of the cumulative amount advanced
+88 from time to time thereunder.
+89 (2)a. If subdivision (1)b.(i) applies and any part of
+90 the indebtedness which the mortgagor or debtor in any
+91 instrument conveying any real property situated within this
+92 state, or related any interest therein, other than fixtures
+93 under the Uniform Commercial Code, is authorized to incur
+94 under the terms of the instrument has not been or will not be
+95 presently incurred at the time such the instrument is offered
+96 for record, the tax shall be paid on the amount of
+97 indebtedness presently incurred, and the Department of
+98 Revenue, upon the petition of the owner of any such the
+99 instrument or upon the petition of the agent or attorney of
+100 such the owner, shall ascertain to its own satisfaction the
+101 amount then taxable and the amount to be incurred thereafter
+102 and determine the amount upon which the tax shall be paid at
+103 the time such the instrument is offered and shall endorse its
+104 findings on such the instrument. Upon the presentation of such
+105 the instrument with such the endorsement thereon on it, the
+106 probate judge of probate of any county in which the instrument
+107 is offered, upon the payment of the tax upon the amount so
+108 ascertained by the Department of Revenue and the recording
+109 fees of the probate judge of probate, shall accept the same
+110 for record. The Department of Revenue shall also require the
+111 owner of such the instrument to execute a bond in an amount
+112 sufficient to secure to the state the privilege tax to become
+Page 4
+
+sufficient to secure to the state the privilege tax to become
+SB244 INTRODUCED
+113 due and payable under this section upon the amount of the
+114 indebtedness to be incurred thereafter, such the bond to be
+115 approved by the Department of Revenue and payable to the State
+116 of Alabama and conditioned that the owner of such the
+117 instrument will promptly report to said the Department of
+118 Revenue and to the probate judge of probate of the county
+119 where said the instrument is first filed for record, whenever
+120 such the owner or his or her successor in interest incurs any
+121 additional indebtedness thereunder, and the amount so
+122 incurred; and that the said owner of such the instrument will
+123 pay or cause to be paid to the probate judge of probate of the
+124 county in which said the instrument is first filed the
+125 privilege or license tax required under this section upon the
+126 accrual of any additional indebtedness, and the said owner of
+127 such the instrument will report to the said probate judge of
+128 probate and the Department of Revenue during the month of
+129 September of each year the amount of all indebtedness and all
+130 bonds, debentures, notes, or other forms of indebtedness
+131 incurred or certified and delivered under said the instrument
+132 to such the date, and the amount so certified and delivered
+133 during the preceding 12 months, and the aggregate of all such
+134 evidence of indebtedness certified and delivered under such
+135 the instrument prior to such year. The bond executed to secure
+136 payment of the tax herein required shall cover a term of five
+137 years; and, after the expiration of said the term of five
+138 years, the owner of the instrument offered for record shall
+139 execute such the further bond as may be required by the
+140 Department of Revenue covering the succeeding term of five
+Page 5
+
+Department of Revenue covering the succeeding term of five
+SB244 INTRODUCED
+141 years, and thereafter every term of five years, in the same
+142 manner so long as any of the indebtedness authorized to be
+143 incurred by such the instrument has not been incurred with
+144 like condition and in such the sum as the said department may
+145 prescribe.
+146 b. Notwithstanding the provisions of paragraph a. of
+147 this subdivision, any bank, savings and loan association,
+148 insurance company, or other financial institution organized
+149 and established under the laws of the State of Alabama or the
+150 United States which is the owner of such the instrument, in
+151 lieu of the foregoing procedures, may certify the amount of
+152 indebtedness presently incurred, and the probate judge of
+153 probate of any county in which the instrument is offered, upon
+154 payment of the tax upon the amount so certified and the
+155 recording fees of the probate judge of probate, shall accept
+156 the instrument for record. During the month of September of
+157 each year, any such bank, savings and loan association,
+158 insurance company, or other financial institution which has
+159 recorded such the instruments as described hereinabove shall
+160 report to the appropriate probate judge of probate the amount
+161 of additional indebtedness incurred under the instrument and
+162 pay any tax required upon the additional indebtedness.
+163 c. Each probate judge of probate will forward to the
+164 State Banking Department by the end of October a statement
+165 showing the amounts certified to him or her by each forenamed
+166 organization. The State Banking Department will then have the
+167 authority to make unannounced audits on any organization
+168 electing to use this system of reporting indebtedness. Any
+Page 6
+
+electing to use this system of reporting indebtedness. Any
+SB244 INTRODUCED
+169 organization which is found to have willfully certified less
+170 than the true amount it should have certified shall be
+171 required to pay a fine equal to three times the amount of tax
+172 due on the amount of indebtedness not certified to the probate
+173 judge of probate. This fine shall be paid into the State
+174 General Fund of Alabama. In addition, any organization so
+175 fined must pay an auditing fee in accordance with established
+176 State Banking Department audit fees into the funds of the
+177 State Banking Department.
+178 (3) When any deed is filed for record which recites
+179 that part of the purchase money is unpaid, such deed to the
+180 extent of such unpaid balance shall be held and treated as a
+181 mortgage, and the mortgage tax shall be collected by the
+182 probate judge of probate in addition to the tax for recording
+183 the instrument as a deed before recording the same it, unless
+184 the balance of purchase money shall be secured by mortgage or
+185 deed of trust which has already been filed for record, and the
+186 tax thereon paid, and the fact of such prior payment shall be
+187 endorsed on the deed. When any such deed is recorded and the
+188 tax thereon is paid, and thereafter a mortgage securing the
+189 debt is filed for record, the same shall be admitted to record
+190 without the payment of the mortgage tax and the fact of such
+191 the prior payment shall be endorsed on the deed.
+192 (4) The privilege taxes herein imposed shall not be
+193 required on or for the filing of any such instrument,
+194 providing additional or substitute security for any
+195 indebtedness secured by, or the securing of which is evidenced
+196 by, an instrument previously filed, upon the filing of which
+Page 7
+
+by, an instrument previously filed, upon the filing of which
+SB244 INTRODUCED
+197 the taxes provided by law have been paid or which was were
+198 filed at a time when no such privilege taxes were required by
+199 law;, provided, that the secured indebtedness remains
+200 unchanged in amount and in time of maturity.
+201 (5) Upon the filing for record of such the instrument
+202 and upon the payment of the tax thereon, the probate judge of
+203 probate or his or her clerk shall certify on the instrument
+204 the fact that the said tax has been paid, and when so
+205 certified by the probate judge of probate or his or her clerk,
+206 such the instrument shall be admitted to record in any county
+207 wherein any of the property mentioned in the instrument is
+208 situated without the payment of any further tax thereon,
+209 except the fee to the probate judge of probate for recording
+210 such the instrument, and such the certificate of the probate
+211 judge of probate shall be recorded by such probate judge of
+212 probate when such the instrument is recorded. Upon the filing
+213 for record of any instrument which has been exempted by law
+214 from the payment of the tax provided for in this section, the
+215 probate judge of probate shall certify thereon that no tax has
+216 been paid and shall stamp in bold letters on the face of said
+217 the instrument "No Tax Collected," and the certificate shall
+218 be recorded with and as a part of such the instrument, and
+219 thereafter such the instrument shall be received for record in
+220 any county in this state without the payment of any further
+221 tax thereon, when submitted by a tax-exempt institution, but
+222 if submitted by or transferred to an institution or person not
+223 exempt from the payment of the tax levied under this section,
+224 the probate judge of probate shall collect the tax levied by
+Page 8
+
+the probate judge of probate shall collect the tax levied by
+SB244 INTRODUCED
+225 this section upon the then unpaid balance of the secured debt
+226 together with the fee of the probate judge of probate for
+227 recording such the instrument before it will be admitted to
+228 record. The tax herein provided for shall be paid upon all
+229 contracts for the sale of real or personal property, whether
+230 the same are in the nature of a conditional sale or a bond for
+231 title, and no such contract shall be received for record until
+232 such the tax shall have been paid.
+233 (6) When the time for the payment of the indebtedness
+234 secured by, or the securing of which is evidenced by, any such
+235 instrument is extended or renewed, and the extension or
+236 renewal contract is offered for filing or for record, the tax
+237 required in this section shall be paid on the amount of
+238 indebtedness so extended or renewed; and the same shall be
+239 governed in all respects by the provisions of this article. No
+240 state, county, or municipal ad valorem tax shall be payable on
+241 any such instrument upon which the tax prescribed by this
+242 section shall have been paid, on the debt secured or evidenced
+243 thereby or on the security agreement evidenced thereby.
+244 (7) Of the taxes collected by the probate judge under
+245 this section there shall be paid to the county treasurer of
+246 the county in which such taxes are collected one-third of the
+247 amount collected, to be accounted for by the judge of probate,
+248 and the remaining two-thirds of the amount collected to the
+249 State Treasury. The probate judge shall receive five percent
+250 of the amount collected as compensation for services in
+251 collecting the money and certifying the instrument, the five
+252 percent to be retained by the judge of probate out of the
+Page 9
+
+percent to be retained by the judge of probate out of the
+SB244 INTRODUCED
+253 money collected under this section; but when the property
+254 described in the instrument is situated within different
+255 counties within this state, then the probate judge who
+256 collects the taxes shall pay over to the county treasurer of
+257 each of the different counties in which the property is
+258 situated an amount of the taxes that would be in proportion to
+259 the value of the property therein as compared to the whole
+260 property within this state described in the instrument.
+261 Revenues from the mortgage record tax shall be divided between
+262 four recipients: The judges of probate, the Alabama Housing
+263 Trust Fund, county treasuries, and the State Treasury. Five
+264 percent of all mortgage record taxes collected shall be
+265 distributed to the judge of probate, 25 percent of all
+266 mortgage record taxes collected shall be distributed to the
+267 Alabama Housing Trust Fund, 33 percent of all mortgage record
+268 taxes collected shall be distributed to the county treasurer
+269 in the county in which the tax is collected, and 37 percent of
+270 all mortgage record taxes collected shall be distributed to
+271 the State Treasury. If the property described in the
+272 instrument is situated within different counties within this
+273 state, then the judge of probate who collects the taxes shall
+274 pay over to the county treasurer of each of the different
+275 counties in which the property is situated an amount of the
+276 taxes that would be in proportion to the value of the property
+277 therein as compared to the whole property within this state
+278 described in the instrument.
+279 (8) If any part of the property embraced or described
+280 in any instrument which is required under this section to pay
+Page 10
+
+in any instrument which is required under this section to pay
+SB244 INTRODUCED
+281 a record privilege tax is located without outside of this
+282 state, the indebtedness upon which the tax shall be paid for
+283 the privilege of recording such the instrument shall be that
+284 proportion of the indebtedness secured by the instrument which
+285 the value of the property located in this state bears to the
+286 whole property described in the instrument. The Department of
+287 Revenue may ascertain the value of the whole property and of
+288 that part of it which is located within this state for the
+289 purpose of ascertaining the amount of the indebtedness upon
+290 which the tax shall be paid, and the value of that part of the
+291 property located within this state and the amount of the
+292 indebtedness upon which such the tax shall be paid shall be
+293 ascertained in the following manner: First, the (i) The owner
+294 of any such instrument or his or her agent or attorney may
+295 petition the Department of Revenue to ascertain the value of
+296 the whole property and of that part of which is located within
+297 this state and the amount of the indebtedness upon which such
+298 the tax shall be paid, and the Department of Revenue, after
+299 hearing such evidence as may be offered or as may be before
+300 it, shall fix and determine the value of that part of the
+301 property located within this state and the amount of the
+302 indebtedness upon which the tax shall be paid and shall
+303 endorse its findings on such instrument, and upon the
+304 presentation of the instrument, with such endorsements to the
+305 probate judge of probate of the county in which any part of
+306 the property is located, such instrument shall be accepted for
+307 record upon the payment of the tax upon the amount of such
+308 indebtedness as so ascertained by the Department of Revenue
+Page 11
+
+indebtedness as so ascertained by the Department of Revenue
+SB244 INTRODUCED
+309 and of the recording fees of the probate judge of probate; or,
+310 second, the (ii) The owner of any such instrument or his or
+311 her agent or attorney may have such the instrument recorded by
+312 paying to the probate judge of probate of the county in which
+313 the instrument is offered for record the privilege tax on the
+314 entire amount of the indebtedness secured by such the
+315 instrument, and may thereupon present a petition to the
+316 Department of Revenue within 30 days after such the instrument
+317 is recorded, and it shall be the duty of the Department of
+318 Revenue to ascertain the value of the whole property and of
+319 that part of it located within this state, and to fix and
+320 determine the amount of the indebtedness upon which the tax
+321 shall be paid, and the department shall thereupon ascertain
+322 such the valuation and fix and determine such the indebtedness
+323 and shall order the probate judge of probate to refund the
+324 excess of privilege tax collected , and the probate judge of
+325 probate shall comply with such the order; and the tax paid
+326 upon the entire amount of such the indebtedness shall be held
+327 by the probate judge of probate until the Department of
+328 Revenue determines the amount of the indebtedness upon which
+329 such the tax shall be paid.
+330 (9) Any probate judge of probate who shall file for
+331 record or shall receive any such instrument for record or for
+332 filing, without collecting the recording or registration tax
+333 provided for the filing, recording, or registration of such
+334 the instrument, or who shall fail to certify the fact that
+335 such the tax has been paid before filing such the instrument
+336 shall be guilty of a misdemeanor and, upon conviction, shall
+Page 12
+
+shall be guilty of a misdemeanor and, upon conviction, shall
+SB244 INTRODUCED
+337 be fined not less than $10 ten dollars ($10) nor more than
+338 $1,000 one thousand dollars ($1,000).
+339 (10) Every petition filed with the Department of
+340 Revenue to ascertain the amount of the mortgage tax due to be
+341 paid under this section shall, when the property conveyed in
+342 the instrument offered for record is located in more than one
+343 county of the state, show the value of the property conveyed
+344 in each county in which the instrument is to be recorded.
+345 (11) Any probate judge of probate who fails to keep the
+346 abstract of mortgages or other instruments intended to secure
+347 the payment of moneys monies which are filed in his or her
+348 office for filing or for record, as he or she is required by
+349 law to keep, shall be guilty of a misdemeanor and, upon
+350 conviction, shall be fined not less than $10 ten dollars ($10)
+351 nor more than $500 five hundred dollars ($500)."
+352 Section 2. This act shall become effective on October
+353 1, 2026.
+Page 13

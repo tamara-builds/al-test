@@ -1,0 +1,349 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB227 INTRODUCED
+1 SB227
+2 BYR3S44-1
+3 By Senator Elliott
+4 RFD: County and Municipal Government
+5 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+BYR3S44-1 01/29/2026 KMS (L)cr 2026-465
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, occupational and
+6 professional licensing boards are responsible for
+7 regulating different professions and occupations in the
+8 state.
+9 This bill would establish the Office of
+10 Occupational and Professional Licensing within the
+11 Alabama Department of Workforce to serve as a
+12 centralized entity providing leadership, support, and
+13 oversight to certain professional or occupational
+14 licensing boards operating within the state.
+15 This bill would provide for the appointment of
+16 an executive director, deputy directors, and other
+17 staff for the office, including investigators, and
+18 would provide uniformity for certain provisions
+19 relating to licensing, fees, funding, and expenses.
+20 This bill would maintain the validity of
+21 occupational and professional licenses issued before
+22 the transfer and the continuance of the rules of a
+23 transferred occupational or professional licensing
+24 board adopted before the transfer.
+25 This bill would also provide for the transfer of
+26 an agency to the office pursuant to a recommendation
+27 for legislative modification by the Sunset Committee.
+28
+Page 1
+
+SB227 INTRODUCED
+29
+30 A BILL
+31 TO BE ENTITLED
+32 AN ACT
+33
+34 To establish the Office of Occupational and
+35 Professional Licensing within the Alabama Department of
+36 Workforce; to add Chapter 2A to Title 25, Code of Alabama
+37 1975; to provide for the leadership, support, and oversight of
+38 certain occupational and professional licensing boards; to
+39 provide for an executive director, deputy directors, and the
+40 employment of staff for the boards; to provide uniform
+41 standards for fees; to continue existing licenses and rules
+42 until amended or repealed by the office; and to amend Section
+43 41-20-5, Code of Alabama 1975, to provide for the transfer of
+44 an agency to the office by the Sunset Committee pursuant to a
+45 recommendation for modification.
+46 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+47 Section 1. Chapter 2A is added to Title 25 of the Code
+48 of Alabama 1975, to read as follows:
+49 CHAPTER 2A. OFFICE OF OCCUPATIONAL AND PROFESSIONAL
+50 LICENSING.
+51 §25-2A-1
+52 For the purposes of this chapter, the following terms
+53 have the following meanings:
+54 (1) BOARD. A board, commission, or other entity
+55 established for the primary purpose of licensing and
+56 regulating a specific occupation or profession that is subject
+Page 2
+
+regulating a specific occupation or profession that is subject
+SB227 INTRODUCED
+57 to oversight and administration by the Office of Occupational
+58 and Professional Licensing of the Alabama Department of
+59 Workforce.
+60 (2) EXECUTIVE DIRECTOR. The individual appointed by the
+61 Secretary of Workforce to serve as the executive director of
+62 the office.
+63 (3) FUND. The Occupational and Professional Licensing
+64 Fund created by this chapter.
+65 (4) LICENSE. The certificate or license issued to an
+66 individual that certifies he or she is qualified to perform a
+67 particular occupation or profession. The term includes a
+68 certificate of registration, temporary license, or similar
+69 formal grant of permission.
+70 (5) OFFICE. The Office of Occupational and Professional
+71 Licensing within the Alabama Department of Workforce,
+72 responsible for the oversight and administration of certain
+73 occupational and professional licensing boards.
+74 §25-2A-2
+75 (a) There is created within the Alabama Department of
+76 Workforce the Office of Occupational and Professional
+77 Licensing. The mission of the office is to protect the health,
+78 safety, and welfare of the public by licensing qualified
+79 individuals and entities and enforcing standards of
+80 professional conduct for professions and occupations.
+81 (b)(1) The Secretary of Workforce shall appoint and
+82 shall set the qualifications for an executive director and
+83 shall appoint deputy directors, as needed, who shall act in
+84 the absence of the executive director and who shall perform
+Page 3
+
+the absence of the executive director and who shall perform
+SB227 INTRODUCED
+85 other functions of the executive director as the executive
+86 director may direct. The executive director and deputy
+87 directors shall serve in the exempt service. The compensation
+88 of the executive director and deputy directors shall be fixed
+89 by the Secretary of Workforce, and they shall hold office at
+90 the pleasure of the Secretary of Workforce.
+91 (2) The executive director may employ additional
+92 personnel, including administrative law judges, attorneys, and
+93 investigators, as necessary to carry out this chapter and to
+94 provide leadership, support, and oversight required for each
+95 board to exercise its powers and fulfill its duties. Except as
+96 otherwise provided in this chapter, all personnel shall be
+97 subject to the state Merit System Act.
+98 (c) An individual hired to conduct investigations for
+99 the boards shall meet standards established by the executive
+100 director.
+101 §25-2A-3
+102 (a) The executive director, with the approval of the
+103 Secretary of Workforce, may enter into and terminate contracts
+104 on behalf of the office or any board, subject to the State
+105 Procurement Law, Article 5 of Chapter 4 of Title 41, as
+106 necessary to implement this chapter.
+107 (b) The rights, privileges, entitlements, or duties of
+108 parties to contracts, leases, agreements, or other
+109 transactions entered into by a board on or before the date a
+110 board becomes subject to this chapter, shall continue to exist
+111 and shall not be impaired or diminished by reason of the board
+112 being subject to this chapter. After the date a board becomes
+Page 4
+
+being subject to this chapter. After the date a board becomes
+SB227 INTRODUCED
+113 subject to this chapter, no existing agreement or contract
+114 between a board and a third party may be renewed or otherwise
+115 amended unless the agreement or contract complies with this
+116 chapter.
+117 §25-2A-4
+118 On the date a board becomes subject to this chapter,
+119 all the rights, duties, assets, employees, records,
+120 liabilities, property, real or personal, and all other effects
+121 existing in the name of each board shall be transferred to,
+122 and under the jurisdiction of, the office. By resolution, a
+123 board may transfer its rights, duties, assets, employees,
+124 records, liabilities, property, or other effects to the office
+125 before the date specified by this chapter if approved by the
+126 Secretary of Workforce or the executive director.
+127 §25-2A-5
+128 (a) The Occupational and Professional Licensing Fund is
+129 created within the State Treasury. The office shall collect,
+130 on behalf of each board, all funds the board is entitled to
+131 receive. Collected funds shall be deposited into the fund and
+132 shall be used to implement this chapter and perform required
+133 board functions. The executive director shall allocate and
+134 disburse funds budgeted and allotted pursuant to the Budget
+135 Management Act and Article 4 of Chapter 4 of Title 41.
+136 (b) For purposes of this section, required board
+137 functions include the maintenance of existing board programs
+138 that benefit an occupation or profession including, but not
+139 limited to, grant, wellness, and training programs, if the
+140 executive director determines that maintenance of the program
+Page 5
+
+executive director determines that maintenance of the program
+SB227 INTRODUCED
+141 will not require a material increase in any fee collected by
+142 the office.
+143 §25-2A-6
+144 (a) The executive director shall possess all powers
+145 necessary and proper to provide administrative support and
+146 oversight to each board, including all of the following:
+147 (1) To serve as the custodian of all board records.
+148 (2) To receive and process all license applications.
+149 (3) By rule, to set all administrative fees including,
+150 but not limited to application, license, renewal, examination,
+151 and wellness program fees and set the dates, times, and
+152 locations of license examinations.
+153 (4) To schedule the time and place for all hearings.
+154 (5) To issue all licenses.
+155 (6) To conduct investigations on behalf of each board
+156 and issue subpoenas when authorized.
+157 (7) To collect all fees, fines, and other monies due
+158 each board and deposit all monies collected into the fund.
+159 (8) To implement and enforce the rules and
+160 administrative decisions of each board.
+161 (b) All board orders shall be signed and attested to by
+162 the executive director, or his or her designee, in the name of
+163 the applicable board, with the seal of that board attached.
+164 Any notice or legal process necessary to be served upon a
+165 board may be served upon the executive director.
+166 (c) Any document, material, or other information in the
+167 possession or control of the office that is obtained by or
+168 disclosed in the course of an application, examination, or
+Page 6
+
+disclosed in the course of an application, examination, or
+SB227 INTRODUCED
+169 investigation is confidential, privileged, and not subject to
+170 subpoena or discovery.
+171 §25-2A-7
+172 (a) Each board member shall be paid a per diem amount
+173 of one hundred dollars ($100) for each day spent attending a
+174 board meeting or other official function of the board and
+175 shall be reimbursed for travel expenses at the same rate and
+176 under the same circumstances as a state employee is paid for
+177 each day he or she attends to business of the board. A board
+178 member's request for per diem or reimbursement of travel
+179 expenses is subject to approval by the executive director.
+180 (b) Board meetings and hearings shall be held in the
+181 City of Montgomery, at a site determined by the executive
+182 director, or at a different site upon request of the chair and
+183 approval by the executive director.
+184 (c) Nothing in this chapter shall be construed to alter
+185 the requirements of the Open Meetings Act, Chapter 25A, Title
+186 36.
+187 §25-2A-8
+188 (a) The executive director shall adopt rules pursuant
+189 to the Alabama Administrative Procedure Act, as necessary,
+190 relating to administrative fees and to the administration of
+191 examinations of applicants for licensing by each board
+192 pursuant to Section 25-2A-6. The rules may provide for the
+193 setting of fees, dates, times, and locations of examinations,
+194 and other similar matters related to the administration of an
+195 examination.
+196 (b) Nothing in this chapter shall preclude a board from
+Page 7
+
+(b) Nothing in this chapter shall preclude a board from
+SB227 INTRODUCED
+197 adopting rules to establish examination standards including,
+198 but not limited to, criteria, grading procedures, passing
+199 score requirements, and other matters pertaining to
+200 substantive material included on an examination.
+201 (c) A board, by rule, may establish examination
+202 standards developed in agreement or in conjunction with a
+203 national association of state boards, or other related
+204 national association, for the administration of a nationally
+205 recognized uniform examination.
+206 (d) Rules adopted by a board before the date of
+207 transfer to the office, that are under the jurisdiction of the
+208 executive director, shall continue in effect until the
+209 executive director expressly amends, repeals, or adopts new
+210 rules pursuant to the Alabama Administrative Procedure Act.
+211 §25-2A-9
+212 (a) The executive director, by rule, may establish
+213 administrative fees necessary for the operation of a board
+214 including, but not limited to, an application fee, original
+215 license fee, license renewal fee, inspection fee, permit fee,
+216 wellness program fee, and late penalty fee. Each fee shall be
+217 reasonable and shall be determined in a manner that the total
+218 amount of fees charged by the board shall approximate the
+219 total of the direct and indirect costs to the state of the
+220 operations of the board. Fees may be refunded as determined by
+221 the executive director.
+222 (b) The executive director, by rule, shall determine
+223 the term, expiration, renewal period, and late penalty dates
+224 for each license issued by a board through the office.
+Page 8
+
+for each license issued by a board through the office.
+SB227 INTRODUCED
+225 §25-2A-10
+226 (a) The executive director, on behalf of each board,
+227 may issue or deny a temporary license to an applicant who
+228 otherwise satisfies all of the qualifications and criteria
+229 required for the issuance of a license.
+230 (1) If a temporary license is issued to an applicant by
+231 the executive director, that decision shall be reviewed by the
+232 applicable board at the next meeting of the board, during
+233 which time the board may decide to grant or deny a full
+234 license to the temporary licensee.
+235 (2) If the executive director denies issuing a
+236 temporary license to an applicant, that decision shall be
+237 reviewed by the applicable board at the next meeting of the
+238 board, during which time the board may decide to grant or deny
+239 a full license to the applicant.
+240 (b) The executive director, on behalf of each board,
+241 may temporarily renew a license pursuant to criteria
+242 established by the board for the renewal of a license. A
+243 temporary renewal issued by the executive director shall be
+244 reviewed by the applicable board at the next meeting of the
+245 board, during which time the board may decide to grant or deny
+246 the license renewal.
+247 §25-2A-11
+248 Each board remains subject to the Alabama
+249 Administrative Procedure Act. Any rule adopted, amended, or
+250 repealed by a board, as authorized by this chapter, shall be
+251 approved by the executive director before certification
+252 pursuant to Section 41-22-6. An emergency rule shall be
+Page 9
+
+pursuant to Section 41-22-6. An emergency rule shall be
+SB227 INTRODUCED
+253 approved before filing pursuant to Section 41-22-5.
+254 §25-2A-12
+255 (a) Nothing in this chapter shall be construed to
+256 invalidate, override, or amend the Military Family Jobs
+257 Opportunity Act, Section 31-1-6, or any licensing compact
+258 entered into by this state or any board.
+259 (b) The provisions of this chapter are cumulative and
+260 supplemental and shall be construed in pari materia with other
+261 laws relating to the boards placed under the oversight of the
+262 office pursuant to this chapter. Those laws or parts of laws
+263 in direct conflict or inconsistent with this chapter are
+264 superseded to the extent of the conflict or inconsistency.
+265 §25-2A-13
+266 (a) Each board shall continue to be subject to the
+267 Alabama Sunset Law in the same manner and schedule as provided
+268 by law.
+269 (b) Commencing with the 2030 Regular Session of the
+270 Alabama Legislature, and every fourth regular session
+271 thereafter, the Secretary of Workforce, through the executive
+272 director of the office, shall submit to the cochairs of the
+273 Alabama Sunset Committee, a report recommending the
+274 continuation, consolidation, or termination of those boards
+275 regulated by this chapter.
+276 Section 2. Section 41-20-5 of the Code of Alabama 1975,
+277 is amended to read as follows:
+278 "§41-20-5
+279 (a) Legislative committee review of the enumerated
+280 agencies shall begin in the year prior to the scheduled
+Page 10
+
+agencies shall begin in the year prior to the scheduled
+SB227 INTRODUCED
+281 regular legislative session next preceding the date upon which
+282 the enumerated agencies are scheduled to terminate pursuant to
+283 Section 41-20-3, and shall conclude with a recommendation for
+284 continuation, modification, or termination on or before the
+285 first legislative day immediately following said review. A
+286 recommendation for modification may include the transfer of
+287 oversight and administration of an enumerated or nonenumerated
+288 agency to the Office of Occupational and Professional
+289 Licensing of the Alabama Department of Workforce."
+290 Section 3. This act shall become effective on October
+291 1, 2026.
+Page 11

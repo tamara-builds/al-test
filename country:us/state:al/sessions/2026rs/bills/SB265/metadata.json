@@ -1,0 +1,432 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "SB265",
+  "title": "Tax abatements for data processing centers, exemption period limited, collection of certain taxes on purchases required, sunset date extended",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Taxation & Revenue"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Taxation & Revenue"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb265"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Carried Over to the Call of the Chair",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Economic Development and Tourism  Engrossed Substitute Offered (Economic Development and Tourism)",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Economic Development and Tourism)",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee Second House (Economic Development and Tourism)",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in Second House (Economic Development and Tourism)",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Economic Development and Tourism",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Engrossed",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 851",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Livingston motion to Adopt - Lost Roll Call 850",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Livingston 1st Amendment Offered",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Givhan motion to Adopt - Adopted Roll Call 849",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Givhan 1st Amendment Offered",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Jones motion to Adopt - Adopted Roll Call 848",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Jones 1st Substitute Offered",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Jones motion to Table - Adopted Voice Vote",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Fiscal Responsibility and Economic Development 1st Amendment Offered (Fiscal Responsibility and Economic Development)",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-03-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Fiscal Responsibility and Economic Development)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Fiscal Responsibility and Economic Development 1st Amendment (Fiscal Responsibility and Economic Development)",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Fiscal Responsibility and Economic Development)",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Fiscal Responsibility and Economic Development",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jones (A)",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jones (A)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB265-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB265-eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Economic Development and Tourism  Engrossed Substitute Offered",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SLUET57-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Livingston motion to Adopt - Lost Roll Call 850",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/DGEPSTN-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Givhan motion to Adopt - Adopted Roll Call 849",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/NRPWS88-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Jones motion to Adopt - Adopted Roll Call 848",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/QNGMY41-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Jones motion to Table - Adopted Voice Vote",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/DG393HT-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: Reported by Second Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-U9UK2XX-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Passed First Chamber",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-U9UK2XX-3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Reported by First Chamber Committee",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-U9UK2XX-2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/FiscalNotes/FN-U9UK2XX-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "22805161"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "text_extraction_latest_update": "2026-07-21T21:06:02.708041Z"
+  }
+}

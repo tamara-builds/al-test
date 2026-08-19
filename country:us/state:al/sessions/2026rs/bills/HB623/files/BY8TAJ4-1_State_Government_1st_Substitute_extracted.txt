@@ -1,0 +1,480 @@
+Title: 
+Official Title: 
+Source: versions - State Government 1st Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+BY8TAJ4-1 03/17/2026 EGC (L)EGC 2026-996 SUB HB623
+STATE GOVERNMENT SUBSTITUTE TO HB623
+OFFERED BY REPRESENTATIVE SELLS
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require all persons to register
+6 with the Alabama Department of Environmental Management
+7 to operate a utility-scale solar energy project.
+8 This bill would provide for a registration
+9 process, establish filing fees, and require the
+10 department to issue a decision in writing within 60
+11 days of receiving a registration request.
+12 This bill would require operators of
+13 utility-scale solar energy projects to decommission the
+14 projects within one year of ceasing operation and
+15 restore the land within three years of ceasing
+16 operation.
+17 This bill would require operators of
+18 utility-scale solar energy projects to establish a
+19 bond, security deposit, or other irrevocable financial
+20 assurances with the department in amounts sufficient to
+21 decommission the project and restore the affected
+22 lands.
+23 This bill would authorize the department to
+24 undertake decommissioning and restoration activities of
+25 utility-scale solar energy projects that the department
+26 determines are abandoned.
+27 This bill would establish the Abandoned
+28 Utility-Scale Solar Energy Project Fund in the State
+Page 1
+
+Utility-Scale Solar Energy Project Fund in the State
+29 Treasury for the purpose of decommissioning projects
+30 and restoring lands of abandoned projects.
+31 This bill would authorize the department to
+32 adopt necessary rules to implement and enforce the
+33 provisions of this act and would authorize the director
+34 to enforce the provisions of this act.
+35
+36
+37 A BILL
+38 TO BE ENTITLED
+39 AN ACT
+40
+41 Relating to solar energy; to require all persons to
+42 register with the Alabama Department of Environmental
+43 Management to operate certain solar energy projects; to
+44 provide for a registration process; to establish
+45 decommissioning and restoration requirements; to require
+46 operators to establish bonds, security deposits, or other
+47 irrevocable financial assurances with the department; to
+48 authorize the department to decommission and restore abandoned
+49 projects; to establish the Abandoned Utility-Scale Solar
+50 Energy Project Fund for decommissioning projects and restoring
+51 lands of abandoned projects; to provide for the enforcement of
+52 this act; and to authorize the department to adopt rules.
+53 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+54 Section 1. For the purpose of this act, the following
+55 terms have the following meanings:
+56 (1) CONTIGUOUS. Two or more tracts of land in actual
+Page 2
+
+(1) CONTIGUOUS. Two or more tracts of land in actual
+57 contact and touching for a continuous distance of at least 200
+58 feet. The term includes tracts of land divided by bodies of
+59 water, streets, railroads, or utility rights-of-way, or by
+60 land owned by a governmental entity.
+61 (2) DEPARTMENT. The Alabama Department of Environmental
+62 Management.
+63 (3) DIRECTOR. The Director of the Alabama Department of
+64 Environmental Management.
+65 (4) OPERATOR. Any person engaged in or controlling one
+66 or more utility-scale solar energy project.
+67 (5) PHOTOVOLTAIC TECHNOLOGY. Technology that generates
+68 electrical power from sunlight.
+69 (6) UTILITY-SCALE SOLAR ENERGY PROJECT or PROJECT. A
+70 ground-mounted photovoltaic technology, concentrating
+71 photovoltaic technology, or concentrating solar power project
+72 occupying two or more acres which is directly connected to the
+73 local or regional electrical grid with the ability to deliver
+74 power to the electrical grid. The term includes solar arrays,
+75 accessory buildings, battery storage facilities, transmission
+76 facilities, and any other infrastructure necessary for the
+77 operation of the project. The term does not include renewable
+78 energy facilities owned or leased by a retail electric
+79 customer intended primarily for the customer's own use; to
+80 offset the customer's own retail electrical energy consumption
+81 at the premises; or for net metering.
+82 Section 2. (a)(1) No person may operate a utility-scale
+83 solar energy project without registering the project with the
+84 department every three years.
+Page 3
+
+department every three years.
+85 (2) Each utility-scale solar energy project that is not
+86 contiguous to another registered utility-scale solar energy
+87 project shall be separately registered.
+88 (3) An operator shall register a utility-scale solar
+89 energy project that is in operation by October 1, 2026, within
+90 one year of the effective date of this act.
+91 (b) An operator desiring to register a project shall
+92 file an application with the department which includes all of
+93 the following information:
+94 (1) Identification and contact information of the
+95 operator and any other legal entity that will be responsible
+96 for either decommissioning the project, providing financial
+97 assurance, or both.
+98 (2) A description of the tract or tracts of land to be
+99 affected by the applicant's utility-scale solar energy
+100 project, including the following information: (i) the
+101 estimated number of acres to be affected; (ii) the section,
+102 township, range, and county in which the land is located;
+103 (iii) a description of access to the area from the nearest
+104 public highway; and (iv) the number of megawatts to be
+105 produced.
+106 (3) A statement as to whether the operator or any other
+107 person associated with the operator has registered any other
+108 projects under this act and an identification of the projects.
+109 (4) A summary of the project timeline, including actual
+110 or anticipated initiation and completion of construction,
+111 initiation of operations, and expected service life of the
+112 project.
+Page 4
+
+project.
+113 (5) A comprehensive decommissioning plan, as described
+114 in subsection (g).
+115 (6) Any other information the department may require to
+116 determine whether a registration application should be
+117 approved.
+118 (c) At the time of filing a registration application,
+119 an operator shall pay a filing fee of five thousand dollars
+120 ($5,000).
+121 (d)(1) Upon receipt of a completed utility-scale solar
+122 energy project registration application, the department shall
+123 approve, require modification of, or deny the registration
+124 within 60 days and notify the operator in writing of its
+125 decision.
+126 (2) The department may deny a registration application
+127 for any of the following reasons:
+128 a. The information in the application is incomplete,
+129 false, or inaccurate.
+130 b. The operator fails to submit a feasible
+131 decommissioning plan.
+132 c. The operator, or other entity listed in the
+133 application, controls or has controlled a utility-scale solar
+134 energy project with a demonstrated pattern of willful
+135 violations of this act.
+136 d. The operator, or other entity listed in the
+137 application, has forfeited a bond for failure to decommission
+138 a utility-scale solar energy project under this act.
+139 (e) At the time the department approves a registration
+140 application, the operator shall have 10 days to establish with
+Page 5
+
+application, the operator shall have 10 days to establish with
+141 the department a bond, security deposit, or other irrevocable
+142 financial assurance as described in Section 4.
+143 (f)(1) An operator may file an amended registration
+144 application with the department to do either of the following:
+145 a. Include additional land in an approved registration.
+146 b. Withdraw land covered by an approved registration.
+147 (2) At the time of filing an amended registration
+148 application, an operator shall pay a filing fee of two
+149 thousand five hundred dollars ($2,500).
+150 (3) Upon approving an amended application to include
+151 additional land, the department shall:
+152 a. Require the operator to increase the bond, security
+153 deposit, or other irrevocable financial assurance to reflect
+154 the additional land covered by the registration; and
+155 b. Issue an amendment to the original registration
+156 covering the additional land described in the amended
+157 application for the period of time remaining in the original
+158 registration.
+159 (4)a. Upon receipt of an amended application to
+160 withdraw land covered by an approved registration, the
+161 department shall inspect the land to be withdrawn to verify
+162 that the withdrawn land is not affected by the operator's
+163 utility-scale solar energy project.
+164 b. Upon approving an amended application to withdraw
+165 land covered by an approved registration, the department
+166 shall:
+167 1. Proportionately reduce the bond, security deposit,
+168 or other irrevocable financial assurance; and
+Page 6
+
+or other irrevocable financial assurance; and
+169 2. Issue an amendment to the original registration that
+170 covers the land that has not been withdrawn from the
+171 registration.
+172 (g) The comprehensive decommissioning plan, required
+173 under subsection (b), shall be prepared, signed, and sealed by
+174 a professional engineer licensed in this state and shall
+175 include all of the following information:
+176 (1) The name, address, and contact information of the
+177 operator of the utility-scale solar energy project, and the
+178 name, address, and contact information of the landowner of the
+179 property on which the utility-scale solar energy project is
+180 located, if different from the operator.
+181 (2) A narrative description of how the decommissioning
+182 will be conducted, including: (i) the decommissioning
+183 sequencing; (ii) the disposition of materials used in the
+184 project upon decommissioning, such as landfilling, reuse, or
+185 recycling of project equipment, and specifying the methods for
+186 disposing of hazardous waste; and (iii) a schedule for
+187 completion of the decommissioning activities.
+188 (3) Information on equipment proposed to be salvaged,
+189 including the estimated salvage value of the equipment for the
+190 purpose of determining the required value of the bond,
+191 security deposit, or other irrevocable financial assurance.
+192 (4) Information on steps to be taken to restore the
+193 land according to Section 3(b).
+194 (5) A detailed cost estimate for decommissioning the
+195 project and restoration of the land according to Section 3.
+196 (6) The proposed mechanism to satisfy the financial
+Page 7
+
+(6) The proposed mechanism to satisfy the financial
+197 assurance requirements established under Section 4 act,
+198 including, but not limited to, the following information:
+199 a. Which legal entity will establish the mechanism.
+200 b. When the mechanism will be established.
+201 c. How the department will access the funds from the
+202 mechanism if needed.
+203 Section 3. (a) An operator shall be considered to have
+204 ceased operation of a utility-scale solar energy project if
+205 the operator has not sold electricity generated by the project
+206 to the electric grid or a utility company for a period of six
+207 months.
+208 (b) Upon ceasing operations, the operator of a
+209 utility-scale solar energy project shall do all of the
+210 following:
+211 (1) Notify the department within 30 days.
+212 (2) Decommission the project within one year.
+213 (3) Commence restoration of the land according to
+214 subsection (c) within one year.
+215 (c) The operator of a utility-scale solar energy
+216 project shall take all of the following steps to decommission
+217 a project:
+218 (1) Disconnect the project from the power grid.
+219 (2) Remove all equipment from the project site and
+220 properly reuse, recycle, or dispose of all equipment.
+221 Equipment that meets the definition of hazardous waste shall
+222 be disposed of according to the requirements of Chapter 30,
+223 Title 22, Code of Alabama 1975.
+224 (3)a. Restore the land to either: (i) as nearly as
+Page 8
+
+(3)a. Restore the land to either: (i) as nearly as
+225 practicable to its condition before the utility-scale solar
+226 energy project was undertaken; or (ii) an alternative
+227 condition agreed upon in a written contract or lease agreement
+228 between the operator and the landowner, if different from the
+229 operator.
+230 b. A copy of the agreement or contract signed by both
+231 parties shall be provided to the department prior to
+232 decommissioning.
+233 c. The condition of the land shall otherwise comply
+234 with any applicable statutory requirements, rules adopted by
+235 the department, or local ordinances.
+236 d. The operator may revegetate or reforest land that
+237 was cleared of trees with seedlings.
+238 (d) The operator shall complete the restoration of all
+239 affected lands within three years of ceasing operations.
+240 (e) Upon commencing decommissioning and restoration
+241 activities, the operator shall provide quarterly reports of
+242 all decommissioning and restoration activities to the
+243 department until the operator completes the restoration of the
+244 affected lands.
+245 Section 4. (a)(1) The operator of a utility-scale solar
+246 energy project shall obtain a performance bond or provide a
+247 security deposit or other financial assurance with the
+248 department in an amount determined by the department to be
+249 sufficient to decommission the project and restore the
+250 affected lands according to Section 3 even if the operator
+251 becomes insolvent or ceases to reside in, be incorporated, do
+252 business, or maintain assets in this state.
+Page 9
+
+business, or maintain assets in this state.
+253 (2) The operator shall maintain the bond, security
+254 deposit, or other financial assurance until the operator has
+255 completely decommissioned and restored the site.
+256 (3) The operator shall update the bond, security
+257 deposit, or other financial assurance with the department
+258 every three years until the project is decommissioned and the
+259 site restored.
+260 (b) Any bond shall be made payable to the State of
+261 Alabama and conditioned on the operator's faithful performance
+262 of all applicable requirements of this act and all applicable
+263 rules adopted by the department under this act. The bond shall
+264 be signed by the operator, as principal, and by a corporate
+265 surety licensed to do business in Alabama, as surety. The
+266 penalty of the bond shall be not less than ten thousand
+267 dollars ($10,000) for each acre covered by the registration.
+268 (c)(1) When an operator has completed all applicable
+269 requirements under this act as to any affected lands, the
+270 operator shall notify the department.
+271 (2) The department, within 30 days of receiving
+272 notification from the operator, shall inspect the affected
+273 lands. If the utility-scale solar energy project has been
+274 decommissioned and the affected lands restored according to
+275 the requirements under Section 3, the department shall release
+276 the operator from further obligations regarding the affected
+277 lands and reduce or release the bond, security deposit, or
+278 other financial assurance of the operator.
+279 (d)(1) A bond established according to subsections (a)
+280 and (b) shall be conditioned so that it cannot be cancelled by
+Page 10
+
+and (b) shall be conditioned so that it cannot be cancelled by
+281 the surety except after at least 90 days written notice to and
+282 approval by the department.
+283 (2) If a bond is cancelled after the notice, the
+284 operator, on or before the effective date of the cancellation,
+285 shall substitute another bond, security deposit, or other
+286 financial assurance as provided in this section.
+287 (e)(1) If a surety's license to do business in this
+288 state, which is on a bond filed with the department under this
+289 section, is suspended or revoked, the surety shall notify the
+290 operator within 10 days of the suspension or revocation.
+291 (2) Within 30 days of receiving written notice that a
+292 surety's license to do business in this state is suspended or
+293 revoked, the operator shall substitute for the surety a new
+294 corporate surety licensed to business in this state, or
+295 substitute another bond, security deposit, or other financial
+296 assurance as provided in this section.
+297 (f) If the operator fails to make a substitution as
+298 required by subsection (e) or (f), the operator's registration
+299 shall automatically be suspended, and the operator shall cease
+300 operating the utility-scale solar energy project until the
+301 operator complies with subsection (e) or (f).
+302 Section 5. (a)(1) If an operator fails to decommission
+303 a utility-scale solar energy project and restore the affected
+304 lands within three years of ceasing operations, then the
+305 director may make a finding in writing, with supporting facts,
+306 that the site is abandoned, and the department may commence
+307 decommissioning and restoration activities according to this
+308 section.
+Page 11
+
+section.
+309 (2) A utility-scale solar energy project site shall be
+310 considered abandoned and eligible for decommissioning and
+311 restoration expenditures under this section if it meets the
+312 following conditions:
+313 a. The site was a registered utility-scale solar energy
+314 project.
+315 b. The site was left in an unrestored or inadequately
+316 restored condition.
+317 c. No entity exists at the time of the finding which is
+318 responsible for decommissioning and restoring the site.
+319 d. The site continues to degrade the quality of the
+320 environment, prevent or damage the beneficial use of the land
+321 or water resources, or endangers the health or safety of the
+322 public.
+323 (b)(1) The director and his or her agents, employees,
+324 and contractors may enter upon land adversely affected by a
+325 past utility-scale solar energy project to take all necessary
+326 measures to decommission the project, restore the affected
+327 land, and abate or prevent adverse effects if the director
+328 does the following:
+329 a. Makes a finding in writing, with supporting facts,
+330 of all of the following:
+331 1. Land or water resources have been adversely affected
+332 by a past utility-scale solar energy project.
+333 2. It is in the public interest to decommission the
+334 project and restore the lands.
+335 3. The operator of the project or owner of the land
+336 where the project is located is not known or readily
+Page 12
+
+where the project is located is not known or readily
+337 available, or the operator of the project or owner of the land
+338 will not give permission to the director and his agents to
+339 enter upon the land.
+340 b. Gives written notice to the operator of the site or
+341 owner of the land if known, or, if not known, by posting
+342 notice on the premises and advertising once in a newspaper of
+343 general circulation in the county where the land is located or
+344 posting notice on the department's website.
+345 (2) The director and his or her agents, employees, and
+346 contractors may enter upon the land to: (i) conduct studies or
+347 exploratory work to determine whether there are adverse
+348 effects from a past utility-scale solar energy project; and
+349 (ii) determine the feasibility of decommissioning the project,
+350 restoring the land, and abating any adverse effects.
+351 (c)(1) The Abandoned Utility-Scale Solar Energy Project
+352 Fund is created in the State Treasury.
+353 (2) The fund shall consist of all monies paid into the
+354 State Treasury to the credit of the fund or by legislative
+355 appropriations, grants, gifts, or otherwise.
+356 (3) Monies contained in the fund may be expended to
+357 decommission utility-scale solar energy projects and restore
+358 the affected lands according to the requirements established
+359 in Section 3 and shall be expended to reflect the following
+360 priorities in the order stated:
+361 a. The protection of public health, safety, general
+362 welfare, and property from harm attributable to the adverse
+363 effects of utility-scale solar energy projects.
+364 b. The restoration of land and water resources and the
+Page 13
+
+b. The restoration of land and water resources and the
+365 environment previously degraded by the adverse effects of
+366 utility-scale solar energy projects, including measures for
+367 conservation and development of soil; water, excluding
+368 channelization; woodland; fish and wildlife; recreation
+369 resources; and agricultural productivity.
+370 c. Research and demonstration projects relating to the
+371 development of utility-scale solar energy project
+372 decommissioning and site restoration methods and techniques.
+373 d. The protection, repair, replacement, construction,
+374 or enhancement of public facilities, such as utilities, roads,
+375 recreation, and conservation facilities, which were adversely
+376 affected by utility-scale solar energy projects.
+377 e. The development of publicly owned land adversely
+378 affected by utility-scale solar energy projects, including
+379 land acquired as provided by this section for recreation and
+380 historic purposes, conservation and reclamation purposes, and
+381 open space benefits.
+382 (d)(1) Within six months of decommissioning a
+383 utility-scale solar energy project and restoring the affected
+384 lands, the director shall itemize the monies expended and file
+385 a statement in the judge of probate's office of the county
+386 where the land is located, including a notarized appraisal
+387 from a qualified, independent appraiser of the value of the
+388 land before the decommissioning and restoration activities if
+389 the activities result in a significant increase in property
+390 value.
+391 (2) The statement shall be considered a lien on the
+392 land. The lien shall not exceed the increase in market value
+Page 14
+
+land. The lien shall not exceed the increase in market value
+393 of the land as determined by the appraisal.
+394 (3) The owner of land subject to a lien under this
+395 section, within 60 days of the director filing the lien, may
+396 file a petition in the circuit court of the county where the
+397 land is located to determine the increase in market value of
+398 the land because of the decommissioning and restoration
+399 activities. The increase in value of the land as determined by
+400 the court shall be the amount of the lien, and the owner may
+401 appeal the decision.
+402 (4) A lien established under this section shall have
+403 priority second only to a lien for real estate taxes imposed
+404 on the land. Monies derived from the satisfaction of liens
+405 shall be deposited in the Abandoned Utility-Scale Solar Energy
+406 Project Fund.
+407 Section 6. (a) The director and his or her agents,
+408 employees, and contractors may enter upon the lands of a
+409 utility-scale solar energy project at any time for the purpose
+410 of inspecting the lands and facilities to determine whether
+411 the operator has complied with this act.
+412 (b) Whenever the director alleges that an operator has
+413 not complied with this act, the director shall commence an
+414 enforcement action pursuant to Section 22-22A-5, Code of
+415 Alabama 1975.
+416 (c) The department shall develop and maintain a list of
+417 all utility-scale solar energy projects operating in this
+418 state and shall update the list annually on or before July 1
+419 of each year.
+420 (d) The department shall adopt rules necessary to
+Page 15
+
+(d) The department shall adopt rules necessary to
+421 implement and enforce this act.
+422 Section 7. This act shall become effective on October
+423 1, 2026.
+Page 16

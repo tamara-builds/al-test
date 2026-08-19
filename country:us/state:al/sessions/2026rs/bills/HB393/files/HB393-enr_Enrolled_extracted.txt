@@ -1,0 +1,753 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB393 ENROLLED
+1 HB393
+2 RBEVRMM-3
+3 By Representatives Lawrence, Faulkner, Chestnut, Daniels
+4 RFD: Economic Development and Tourism
+5 First Read: 05-Feb-26
+Page 0
+
+First Read: 05-Feb-26
+HB393 Enrolled
+1 Enrolled, An Act,
+2
+3 Relating to economic development; to amend Sections
+4 11-66A-2 and 41-23-252, Code of Alabama 1975, regarding
+5 research and development corridors and grants, and Sections
+6 40-9B-3, 40-9G-1, and 40-18-372, Code of Alabama 1975,
+7 regarding tax abatements and incentives; to remove references
+8 to the outdated Accelerate Alabama Strategic Economic
+9 Development Plan; to update NAICS Code references to the
+10 latest update released in 2022; and to make nonsubstantive,
+11 technical revisions to update existing code language to
+12 current style.
+13 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+14 Section 1. Sections 11-66A-2, 40-9B-3, 40-9G-1,
+15 40-18-372, and 41-23-252, Code of Alabama 1975, are amended to
+16 read as follows:
+17 "§11-66A-2
+18 (a) The Legislature finds and determines the public
+19 good, welfare, and economy of the state are best served by
+20 providing and encouraging the development, growth,
+21 improvement, and support of new and creative economic
+22 opportunities for existing and future qualified enterprises to
+23 establish and continue projects in this state for innovative
+24 processes and products. These include specifically thosethe
+25 business sectors expressly identified in Accelerate Alabama
+26 2.0, the strategic the current comprehensive economic
+27 development plan, CatALyst, or any amended version or
+28 successor document thereto, developed by the Department of
+Page 1
+
+successor document thereto, developed by the Department of
+HB393 Enrolled
+29 Commerce.
+30 (b) In furtherance of subsection (a) the legislative
+31 intent and public purpose of this chapter is:
+32 (1) To provide authority to municipalities for the
+33 creation of research and development corridors with corporate
+34 authority and power to provide, in the discretion of the
+35 corridors, its resources; and
+36 (2) To provide authority to public entities to provide
+37 public resources to, or for the benefit of, corridors."
+38 "§40-9B-3
+39 (a) For purposes of this chapter, the following words
+40 and phrases mean:
+41 (1) ABATE, ABATEMENT. A reduction or elimination of a
+42 taxpayer's liability for tax or payments required to be made
+43 in lieu thereof. An abatement of transaction taxes imposed
+44 under Chapter 23 of this title, or payments required to be
+45 made in lieu thereof, shall relieve the seller from the
+46 obligation to collect and pay over the transaction tax as if
+47 the sale were to a person exempt, to the extent of the
+48 abatement, from the transaction tax.
+49 (2) ALTERNATIVE ENERGY RESOURCES. The definition given
+50 in Section 40-18-1.
+51 (3) CONSTRUCTION RELATED TRANSACTION TAXES. The
+52 transaction taxes imposed by Chapter 23 of this title, or
+53 payments required to be made in lieu thereof, on tangible
+54 personal property and taxable services incorporated into an
+55 industrial development property, the cost of which may be
+56 added to capital account with respect to the property,
+Page 2
+
+added to capital account with respect to the property,
+HB393 Enrolled
+57 determined without regard to any rule which permits
+58 expenditures properly chargeable to capital account to be
+59 treated as current expenses.
+60 (4) DATA PROCESSING CENTER. An establishment at which
+61 not less than 20 new jobs are located, the average annual
+62 total compensation, including benefits, of such new jobs to be
+63 not less than forty thousand dollars ($40,000) and such
+64 establishment is engaged in the provision of complete
+65 processing and specialized reports from data, the provision of
+66 automated data processing and data entry services, the
+67 provision of an infrastructure for hosting or data processing
+68 services, the provision of specialized hosting activities, the
+69 provision of application service provisioning, the provision
+70 of general time-share mainframe facilities, the provision or
+71 operation of computer equipment or enabling software for the
+72 processing, storage, backup, retrieval, communication, or
+73 distribution of data, or some combination of the foregoing,
+74 without regard to whether any other activities are conducted
+75 at the establishment.
+76 (5) EDUCATION TAXES. Ad valorem taxes, or payments
+77 required to be made in lieu thereof, that must, pursuant to
+78 the Constitution of Alabama of 19012022, as amended,
+79 legislative act, or the resolution or other action of the
+80 governing board authorizing the tax, be used for educational
+81 purposes or for capital improvements for education and local
+82 construction related transaction taxes levied for educational
+83 purposes or for capital improvements for education.
+84 (6) HEADQUARTERS FACILITY. Any trade or business
+Page 3
+
+(6) HEADQUARTERS FACILITY. Any trade or business
+HB393 Enrolled
+85 described in NACISNAICS Code 551114, at which not less than 50
+86 new jobs are located.
+87 (7) HYDROPOWER PRODUCTION. The definition given in
+88 Section 40-18-1.
+89 (8) INDUCEMENT. Refers to an agreement, or an
+90 "inducement agreement," entered into between a private user
+91 and a public authority or county or municipal government
+92 and/or a resolution or other official action, an "inducement
+93 resolution," "inducement letter," or "official action" adopted
+94 by a public authority or county or municipal government, in
+95 each case expressing, among other things, the present intent
+96 of such public authority or county or municipal government to
+97 issue bonds in connection with the private use property
+98 therein described. Notwithstanding any provision in this
+99 chapter to the contrary, neither an inducement nor a request
+100 for inducement shall be required to apply for, grant, or
+101 receive any abatement of taxes allowed to be abated under this
+102 chapter.
+103 (9) INDUSTRIAL DEVELOPMENT PROPERTY. Real and/or
+104 personal property acquired in connection with establishing or
+105 expanding an industrial or research enterprise in Alabama.
+106 (10) INDUSTRIAL OR RESEARCH ENTERPRISE.
+107 a. Any trade or business predominatelypredominantly
+108 consisting of any one or more of the following:
+109 1. Described by NAICS Code 1133, 115111, 2121, 22111,
+110 221330, 31 (other than 311811), 32, 33, 423, 424, 482, 4862,
+111 48691, 48699, 48819, 4882, 4883 (other than 48833), 493, 511,
+112 5121 (other than 51213), 512215122, 513, 517, 518 (without
+Page 4
+
+5121 (other than 51213), 512215122, 513, 517, 518 (without
+HB393 Enrolled
+113 regard to the premise that data processing and related
+114 services be performed in conjunction with a third party),
+115 5191351929, 52232, 54133 (if predominantly in furtherance of
+116 another activity described in this article), 54134 (if
+117 predominantly in furtherance of another activity described in
+118 this article), 54138, 5415, 541614, 5417, 55 (if not for the
+119 production of electricity), 561422 (other than establishments
+120 that originate telephone calls), 562213, 56291, 56292, 611512,
+121 927, or 92811.
+122 2. A target of the state's economic development efforts
+123 pursuant to either of the following:
+124 (i) The Accelerate Alabama Strategic Economic
+125 Development Plan adopted in January 2012 by the Alabama
+126 Economic Development Alliance, created by Executive Order
+127 Number 21 of the Governor on July 18, 2011comprehensive
+128 economic development plan, CatALyst, or any amended version or
+129 successor document thereto; or
+130 (ii) A type listed in a regulation adopted by the
+131 Department of Commerce, other than a regulation submitted as
+132 an emergency rule.
+133 Notwithstanding the foregoing, the activities described
+134 in this definition shall not predominantly concern farming
+135 activities involving trees, animals, or crops, nor the retail
+136 sale of tangible personal property or services. This provision
+137 shall not be deemed to exclude customer service centers or
+138 call centers otherwise allowed or provided for herein.
+139 b. With respect to abatements granted in accordance
+140 with Section 40-9B-9, and only with respect to such
+Page 5
+
+with Section 40-9B-9, and only with respect to such
+HB393 Enrolled
+141 abatements, "industrial or research enterprise" means any
+142 trade or business described in NAICS Code 493, 488310, or
+143 488320, when such trade or business is conducted on premises
+144 in which the Alabama State Port Authority has an ownership,
+145 leasehold, or other possessory interest and such premises are
+146 used as part of the operations of the Alabama State Port
+147 Authority.
+148 c. "Industrial or research enterprise" includes the
+149 above-described trades and business and any others as may
+150 hereafter be reclassified in any subsequent publication of the
+151 NAICS or similar industry classification system developed in
+152 conjunction with the United States Department of Commerce or
+153 Office of Management and Budget.
+154 d. "Industrial or research enterprise" also includes
+155 any underground natural gas storage facility which is located
+156 in the Gulf Opportunity Zone, as that phrase is defined in the
+157 Gulf Opportunity Zone Act of 2005, developed from existing
+158 geologic reservoirs, including, without limitation, salt
+159 domes, and placed in service on or before December 31, 2013.
+160 e. "Industrial or research enterprise" also includes
+161 any plant, property, or facility that meets both of the
+162 following:
+163 1. It produces electricity from:
+164 (i) Alternative energy resources and has capital costs
+165 of at least one hundred million dollars ($100,000,000); or
+166 (ii) Hydropower production and has capital costs of at
+167 least five million dollars ($5,000,000).
+168 2. All or a portion of the plant, property, or facility
+Page 6
+
+2. All or a portion of the plant, property, or facility
+HB393 Enrolled
+169 is owned by one or more of the following:
+170 (i) A utility described in Section 37-4-1(7)a.,
+171 (ii) An entity organized under the provisions of
+172 Chapter 6 of Title 37,.
+173 (iii) An authority both organized and existing pursuant
+174 to the provisions of Chapter 50A of Title 11 and subject to
+175 the payments required to be made in lieu of ad valorem, sales,
+176 use, license, and severance taxes imposed by Section 11-50A-7,
+177 or.
+178 (iv) An entity in which one or more of the foregoing
+179 owns an interest.
+180 f. "Industrial or research enterprise" also includes
+181 any headquarters facility.
+182 g. "Industrial or research enterprise" also includes
+183 any data processing center.
+184 h. "Industrial or research enterprise" also includes
+185 any research and development facility.
+186 i. "Industrial or research enterprise" also includes
+187 any renewable energy facility.
+188 j. "Industrial or research enterprise" also includes
+189 any tourism destination attraction.
+190 (11) MAJOR ADDITION. Any addition to an existing
+191 industrial development property that equals the lesser of: 30
+192 percent of the original cost of the industrial development
+193 property or two million dollars ($2,000,000). For purposes of
+194 this subsection, the original cost of existing industrial
+195 development property shall be the amount of industrial
+196 development property with respect to which an abatement was
+Page 7
+
+development property with respect to which an abatement was
+HB393 Enrolled
+197 granted under this chapter when the property was constructed,
+198 or if the existing industrial development property was
+199 constructed before January 1, 1993, the maximum amount that
+200 would have been allowed if the provisions of this chapter had
+201 applied at the time it was constructed. Only property that
+202 constitutes industrial development property shall be taken
+203 into account in making the determination in the previous
+204 sentence. Major addition shall include any addition costing at
+205 least two million dollars ($2,000,000) which constitutes an
+206 industrial or research enterprise, regardless of whether added
+207 to an existing industrial development property.
+208 (12) MAXIMUM EXEMPTION PERIOD. Except as provided in
+209 Section 40-9B-11, a period equal to the shorter of:
+210 a. Either of the following:
+211 1. Twenty years from and after: (i) Thethe date of
+212 initial issuance by a county, city, or public authority of
+213 bonds to finance any costs of a private use property,; or (ii)
+214 Ifif no such bonds are ever issued, the later of: A. Thethe
+215 date on which title to the property was acquired by or vested
+216 in the county, city, or public authority,; or B. Thethe date
+217 on which the property is or becomes owned, for federal income
+218 tax purposes, by a private user; or.
+219 2. Exclusively with respect to one or more private
+220 users of a data processing center, the following:
+221 (i) A period of 10 years from and after the date on
+222 which private use property is or becomes owned, for federal
+223 income tax purposes, by such private user or users (including
+224 the lessor and any lessee with respect to co-location
+Page 8
+
+the lessor and any lessee with respect to co-location
+HB393 Enrolled
+225 centers), if the aggregate capital investment in the data
+226 processing center by such private user or users does not
+227 exceed two hundred million dollars ($200,000,000) within 10
+228 years from the date on which a private user commences the
+229 acquisition, construction, and equipping of the data
+230 processing center,
+231 (ii) A period of 20 years from and after the date on
+232 which private use property is or becomes owned, for federal
+233 income tax purposes, by such private user or users (including
+234 the lessor and any lessee with respect to co-location
+235 centers), if the aggregate capital investment in the data
+236 processing center by such private user or users exceeds two
+237 hundred million dollars ($200,000,000) but is not greater than
+238 four hundred million dollars ($400,000,000) within 10 years
+239 from the date on which a private user commences the
+240 acquisition, construction, and equipping of the data
+241 processing center, or.
+242 (iii) A period of 30 years from and after the date on
+243 which private use property is or becomes owned, for federal
+244 income tax purposes, by such private user or users (including
+245 the lessor and any lessee with respect to co-location
+246 centers), if the aggregate capital investment in the data
+247 processing center by such private user or users exceeds two
+248 hundred million dollars ($200,000,000) within 10 years from
+249 the date on which a private user commences the physical work
+250 of constructing and equipping the data processing center and
+251 exceeds four hundred million dollars ($400,000,000) within 20
+252 years from the date on which a private user commences the
+Page 9
+
+years from the date on which a private user commences the
+HB393 Enrolled
+253 acquisition, construction, and equipping of the data
+254 processing center.
+255 For purposes of this subparagraph 2., a private user's
+256 aggregate capital investment in a data processing center shall
+257 include all real and personal property comprising a data
+258 processing center, the costs of which may be capitalized for
+259 federal income tax purposes. In no event shall abatements of
+260 construction related transaction taxes or noneducational ad
+261 valorem taxes granted for a data processing center apply
+262 beyond the expiration of the applicable maximum exemption
+263 period; or
+264 b. The period ending on the date on which the property
+265 has ceased, for 6six consecutive months, to be used in the
+266 active conduct of an industrial or research enterprise.
+267 (13) MORTGAGE AND RECORDING TAXES. The taxes imposed by
+268 Chapter 22 of this title.
+269 (14) NAICS CODE. Any sector, subsector, industry group,
+270 industry or national industry of the 20122022 North American
+271 Industry Classification System, or any similar classification
+272 system developed in conjunction with the United States
+273 Department of Commerce or Office of Management and Budget.
+274 (15) NONEDUCATIONAL AD VALOREM TAXES. Ad valorem taxes,
+275 or payments required to be made in lieu thereof, imposed by
+276 the state, counties, municipalities, and other taxing
+277 jurisdictions of Alabama that are not required to be used for
+278 educational purposes or for capital improvements for
+279 education.
+280 (16) PERSON. Includes any individual, partnership,
+Page 10
+
+(16) PERSON. Includes any individual, partnership,
+HB393 Enrolled
+281 trust, estate, or corporation.
+282 (17) PRIVATE USER. Any individual, partnership, or
+283 corporation organized for profit that is or will be treated as
+284 the owner of private use property for federal income tax
+285 purposes, any entity organized under Chapter 6 of Title 37,
+286 and any authority both organized and existing pursuant to
+287 Chapter 50A of Title 11 and subject to the payments required
+288 to be made in lieu of ad valorem, sales, use, license, and
+289 severance taxes imposed by Section 11-50A-7.
+290 (18) PRIVATE USE INDUSTRIAL PROPERTY. Private use
+291 property that also constitutes industrial development
+292 property.
+293 (19) PRIVATE USE PROPERTY. Any real and/or personal
+294 property which is or will be treated as owned by a private
+295 user for federal income tax purposes even though title may be
+296 held by a public authority or municipal or county government;
+297 any real and/or personal property which is owned by any entity
+298 organized under Chapter 6 of Title 37; and any real and/or
+299 personal property which is owned by any authority both
+300 organized and existing pursuant to Chapter 50A of Title 11,
+301 and subject to the payments required to be made in lieu of ad
+302 valorem, sales, use, license, and severance taxes imposed by
+303 Section 11-50A-7.
+304 (20) PUBLIC AUTHORITY. A corporation created for public
+305 purposes pursuant to a provision of the Constitution of
+306 Alabama of 19012022, or a general or local law that authorized
+307 it to issue bonds, the interest on which is exempt from the
+308 Alabama income tax, as in effect on May 21, 1992.
+Page 11
+
+Alabama income tax, as in effect on May 21, 1992.
+HB393 Enrolled
+309 (21) PUBLIC INDUSTRIAL AUTHORITY. A public authority
+310 authorized to issue bonds to acquire, construct, equip, or
+311 finance industrial development property.
+312 (22) RENEWABLE ENERGY FACILITY. Any plant, property, or
+313 facility that either:
+314 a. Produces electricity or natural gas, in whole or in
+315 part, from biofuels as such term is defined in Section
+316 2-2-90(c)(2) or from renewable energy resources as such term
+317 is defined in Section 40-18-1(30) with the exception that
+318 hydropower production shall be excluded from such definition;
+319 or
+320 b. Produces biofuel as such term is defined in Section
+321 2-2-90(c)(2).
+322 (23) RESEARCH AND DEVELOPMENT FACILITY. An
+323 establishment engaged in conducting original investigations
+324 undertaken on a systematic basis to gain new knowledge or
+325 applying research findings or other scientific knowledge to
+326 create new or significantly improved products or processes, or
+327 both.
+328 (24) STATEMENT OF INTENT. A written statement of intent
+329 to claim an abatement provided in this chapter, or to petition
+330 for local tax abatement, relating to an industrial or research
+331 enterprise described in paragraph e. of subdivision (10)e. of
+332 this subsection that is filed with the Department of Revenue
+333 at any time prior to the date on which the industrial or
+334 research enterprise described in paragraph e. of subdivision
+335 (10)e. of this subsection is placed in service in accordance
+336 with such procedures and on such form or forms as may be
+Page 12
+
+with such procedures and on such form or forms as may be
+HB393 Enrolled
+337 prescribed by the Department of Revenue. Such statement of
+338 intent shall contain a description of the industrial or
+339 research enterprise described in paragraph e. of subdivision
+340 (10)e. of this subsection; the date on which the acquisition,
+341 construction, installation, or equipping of the industrial or
+342 research enterprise described in paragraph e. of subdivision
+343 (10)e. of this subsection was commenced or is expected to
+344 commence; the actual or, if not known, the estimated capital
+345 costs of the industrial or research enterprise described in
+346 paragraph e. of subdivision (10)e. of this subsection; the
+347 number of new employees to be employed at the industrial or
+348 research enterprise described in paragraph e. of subdivision
+349 (10)e. of this subsection; and any other information required
+350 by the Department of Revenue.
+351 (25) TOURISM DESTINATION ATTRACTION. a. A commercial
+352 enterprise which is open to the public not less than 120 days
+353 during a calendar year and is designed to attract visitors
+354 from inside or outside of the State of Alabama, typically for
+355 its inherent cultural value, historical significance, natural
+356 or man-made beauty, or entertainment or amusement
+357 opportunities. The term shall include, but not be limited to,
+358 a cultural or historical site; a botanical garden; a museum; a
+359 wildlife park or aquarium open to the public that cares for
+360 and displays a collection of animals or fish; an amusement
+361 park; a convention hotel and conference center; a water park;
+362 or a spectator venue or arena.
+363 b. A tourism destination attraction shall not include a
+364 facility primarily devoted to the retail sale of goods; a
+Page 13
+
+facility primarily devoted to the retail sale of goods; a
+HB393 Enrolled
+365 shopping center; a restaurant; a movie theater; a bowling
+366 alley; a fitness center; a miniature golf course; or a
+367 nightclub. Provided, however, that theThe capital costs of the
+368 construction of a tourism destination attraction may include
+369 the capital costs associated with the construction of any
+370 retail establishment, restaurant or other portion of the
+371 tourism destination attraction. The term also does not include
+372 any gaming facility or establishment that the Secretary of the
+373 Department of Commerce deems to be serving the local
+374 community.
+375 (b) The abatements of ad valorem taxes, and payments in
+376 lieu thereof, allowed by amendments to this section by Act
+377 2008-275 shall become effective for projects for which
+378 statements of intent are filed after December 31, 2011. No ad
+379 valorem taxes, or payments in lieu thereof, shall be abated
+380 for periods prior to January 1, 2012. The other abatements
+381 allowed by amendments made to this section by Act 2008-275
+382 shall become effective after December 31, 2011.
+383 For a qualifying industrial or research enterprise
+384 described in Section 40-9B-3(a)(10)j., the approval of the
+385 abatement of a specified ad valorem tax or construction
+386 related tax levied or imposed by a county or municipality, or
+387 payments required to be made in lieu thereof, shall take
+388 effect only upon adoption of a resolution by the governing
+389 body of that county or municipality approving such abatement
+390 or abatements."
+391 "§40-9G-1
+392 For purposes of the chapter, the following words and
+Page 14
+
+For purposes of the chapter, the following words and
+HB393 Enrolled
+393 phrases shall have the following meaningmeanings:
+394 (1) APPROVED ACTIVITY. The conduct of an activity that
+395 is predominantly any one or more of the following:
+396 a. Described by NAICS Code 1133, 115111, 2121, 22111,
+397 221330, 31 (other than 311811), 32, 33, 423, 424, 482, 4862,
+398 48691, 48699, 48819, 4882, 4883 (other than 48833), 493, 511,
+399 5121 (other than 51213), 512215122, 513, 517, 518 (without
+400 regard to the premise that data processing and related
+401 services be performed in conjunction with a third party),
+402 5191351929, 52232, 54133 (if predominantly in furtherance of
+403 another activity described in this chapter), 54134 (if
+404 predominantly in furtherance of another activity described in
+405 this chapter), 54138, 5415, 541614, 5417, 55 (if not for the
+406 production of electricity), 561422 (other than establishments
+407 that originate telephone calls), 562213, 56291, 56292, 611512,
+408 927, or 92811.
+409 b. The production of biofuel as such term is defined in
+410 Section 2-2-90(c)(2).
+411 c. The conduct of original investigations undertaken on
+412 a systematic basis to gain new knowledge or the application of
+413 research findings or other scientific knowledge to create new
+414 or significantly improved products or processes.
+415 d. The national or regional headquarters for a company
+416 that conducts significant business operations outside the
+417 state and that will serve as the principal office of the
+418 company's principal operating officer with chief
+419 responsibility for the daily business operations of the
+420 company.
+Page 15
+
+company.
+HB393 Enrolled
+421 e. A target of the state's economic development efforts
+422 pursuant to either of the following:
+423 (i) The Accelerate Alabama Strategic Economic
+424 Development Plan adopted in January 2012 by the Alabama
+425 Economic Development Alliance, created by Executive Order
+426 Number 21 of the Governor on July 18, 2011comprehensive
+427 economic development plan, CatALyst, or any amended version or
+428 successor document thereto; or
+429 (ii) A type listed in a regulation adopted by the
+430 Department of Commerce, other than a regulation submitted as
+431 an emergency rule.
+432 Notwithstanding the foregoing, an approved activity
+433 shall not predominantly concern farming activities involving
+434 trees, animals, or crops, nor the retail sale of tangible
+435 personal property or services. This provision shall not be
+436 deemed to exclude customer service centers, call centers, or
+437 headquarters otherwise allowed by this subdivision.
+438 (2) COMPANY. Anyone or anything which has the powers to
+439 own a project and have employees.
+440 (3) NAICS CODE. Any sector, subsector, industry group,
+441 industry or national industry of the 20122022 North American
+442 Industry Classification System, or any similar classification
+443 system developed in conjunction with the United States
+444 Department of Commerce or Office of Management and Budget.
+445 (4) QUALIFYING PROJECT. Any project: a. that proposes
+446 to invest in capital expenditures that equal or exceed two
+447 million dollars ($2,000,000) as part of any addition,
+448 expansion, improvement, renovation, re-opening, or
+Page 16
+
+expansion, improvement, renovation, re-opening, or
+HB393 Enrolled
+449 rehabilitation of a facility, or replacement of any existing
+450 equipment or tangible personal property; b. that predominantly
+451 involves an approved activity; and c. for which no project
+452 agreement has been entered into with the Governor for the
+453 provision of other incentives.
+454 (5) UTILITY TAXES. The taxes imposed by Sections
+455 40-21-82 and 40-21-102."
+456 "§40-18-372
+457 A qualifying project must be found by the Secretary of
+458 Commerce to conduct an activity specified in subdivision (1)
+459 and to meet the minimum standard set forth in subdivision (2).
+460 (1) A qualifying project must predominantly conduct an
+461 activity that is any one or more of the following:
+462 a. Described by NAICS Code 1133, 115111, 2121, 22111,
+463 221330, 31 (other than 311811), 32, 33, 423, 424, 482, 4862,
+464 48691, 48699, 48819, 4882, 4883 (other than 48833), 493, 511,
+465 5121 (other than 51213), 512215122, 513, 517, 518 (without
+466 regard to the premise that data processing and related
+467 services be performed in conjunction with a third party),
+468 5191351929, 52232, 54133 (if predominantly in furtherance of
+469 another activity described in this article), 54134 (if
+470 predominantly in furtherance of another activity described in
+471 this article), 54138, 5415, 541614, 5417, 55 (if not for the
+472 production of electricity), 561422 (other than establishments
+473 that originate telephone calls), 562213, 56291, 56292, 611512,
+474 927, or 92811.
+475 b. The production of biofuel as such term is defined in
+476 Section 2-2-90(c)(2).
+Page 17
+
+Section 2-2-90(c)(2).
+HB393 Enrolled
+477 c. A renewable energy generation facility that is owned
+478 by one or more electric providers, as the term is defined in
+479 Section 37-16-3, for providing electric service at retail in
+480 Alabama. For purposes of this subdivision, an "electric
+481 provider" shall also include an authority as defined in
+482 Section 11-50A-1. In the case of an electric provider that is
+483 also a tax-exempt organization under the Internal Revenue
+484 Code26 U.S.C. § 501, notwithstanding Section 40-18-376(b)(3),
+485 any investment credit may be transferred for the entire term
+486 of the project agreement, as approved by the Governor. A
+487 "renewable energy generation facility" as used in this
+488 subdivision shall include any tangible property that is part
+489 of renewable energy generation, including any addition,
+490 modification, expansion, or upgrade to transmission or
+491 distribution systems that is required to accommodate the
+492 interconnection of renewable energy generation.
+493 d. The conduct of original investigations undertaken on
+494 a systematic basis to gain new knowledge or the application of
+495 research findings or other scientific knowledge to create new
+496 or significantly improved products or processes.
+497 e. The national or regional headquarters for a company
+498 that conducts significant business operations outside the
+499 state and that will serve as the principal office of the
+500 company’s principal operating officer with chief
+501 responsibility for the daily business operations of the
+502 company.
+503 f. A target of the state's economic development efforts
+504 pursuant to the Accelerate Alabama Strategic Economic
+Page 18
+
+pursuant to the Accelerate Alabama Strategic Economic
+HB393 Enrolled
+505 Development Plan adopted in January 2012 by the Alabama
+506 Economic Development Alliance, created by Executive Order
+507 Number 21 of the Governor on July 18, 2011comprehensive
+508 economic development plan, CatALyst, or any amended version or
+509 successor document thereto.
+510 g. A type listed in a rule adopted by the Department of
+511 Commerce, other than an emergency rule.
+512 Notwithstanding the foregoing, a qualifying project may
+513 not engage predominantly in farming activities involving
+514 trees, animals, or crops, and a qualifying project may not
+515 engage predominantly in the retail sale of tangible personal
+516 property or services, and may not be a shopping center,
+517 restaurant, movie theater, bowling alley, fitness center,
+518 miniature golf course, nightclub, gaming facility, or
+519 establishment serving the local community. However, if the
+520 excluded activities are not the predominant activity at the
+521 project, and if the project is otherwise a qualifying project,
+522 then the project agreement may provide that the capital
+523 investment may include costs related to excluded activities
+524 that are ancillary to the primary business conducted as part
+525 of the project. This provision shall not be deemed to exclude
+526 customer service centers, call centers, or headquarters
+527 otherwise allowed by this subdivision.
+528 (2) A qualifying project shall create a significant
+529 number of new jobs for the area in which the qualifying
+530 project shall be located. Absent a finding of extraordinary
+531 circumstances by the Secretary of Commerce, a qualifying
+532 project shall employ either of the following number of new
+Page 19
+
+project shall employ either of the following number of new
+HB393 Enrolled
+533 employees:
+534 a. Any number of new employees, for a qualifying
+535 project in which the predominant activity involves chemical
+536 manufacturing, data centers, renewable energy generation,
+537 engineering, design, or research, metal/machining technology
+538 or toolmaking; or
+539 b. At least 50 new employees, for all other qualifying
+540 projects."
+541 "§41-23-252
+542 For the purpose of this article, the following words
+543 and phrases shall have the following meanings:
+544 (1) ADECA. The Alabama Department of Economic and
+545 Community Affairs.
+546 (2) ALABAMA RESEARCH ENTITY. One or more of the
+547 following:
+548 a. A public or private university in the state in
+549 partnership with a private sector applicant.
+550 b. A university research foundation affiliated with a
+551 public or private university in the state in partnership with
+552 a private sector applicant.
+553 c. A public two-year college in the state in
+554 partnership with a private sector applicant.
+555 d. A publicly owned hospital in the state in
+556 partnership with a private sector applicant.
+557 e. An entity duly formed, domiciled, or qualified to do
+558 business in the state in partnership with a private sector
+559 applicant and that meets each of the following criteria:
+560 1. Is exempt from federal income tax under 26 U.S.C. §
+Page 20
+
+1. Is exempt from federal income tax under 26 U.S.C. §
+HB393 Enrolled
+561 Section 501(c)(3) of the Internal Revenue Code of 1986, as
+562 amended.
+563 2. Is predominantly engaged in research and
+564 non-commercialnoncommercial development activities undertaken
+565 for the purpose of discovering information that is
+566 technological or biotechnological in nature, involves a
+567 process of experimentation, and the application of which is
+568 intended to be used in the development of a new or improved
+569 product, service, or treatment.
+570 3. Has its headquarters and principal place of business
+571 in the state.
+572 4. Has, or is anticipated to have, at least 75 percent
+573 of its property and payroll in Alabama, using the property and
+574 payroll factor calculations found in Title 40.
+575 (3) APPROVED ACTIVITY. The conduct of an activity that
+576 is predominantly any one or more of the following:
+577 a. Described by NAICS Code 1133, 115111, 2121, 22111,
+578 221330, 31 (other than 311811), 32, 33, 423, 424, 482, 4862,
+579 48691, 48699, 48819, 4882, 4883 (other than 48833), 493, 511,
+580 5121 (other than 51213), 512215122, 513, 517, 518 (without
+581 regard to the premise that data processing and related
+582 services be performed in conjunction with a third party),
+583 5191351929, 52232, 54133 (if predominantly in furtherance of
+584 another activity described in this article), 54134 (if
+585 predominantly in furtherance of another activity described in
+586 this article), 54138, 5415, 541614, 5417, 55 (if not for the
+587 production of electricity), 561422 (other than establishments
+588 that originate telephone calls), 562213, 56291, 56292, 611512,
+Page 21
+
+that originate telephone calls), 562213, 56291, 56292, 611512,
+HB393 Enrolled
+589 927, or 92811.
+590 b. The production of biofuel as the term is defined in
+591 Section 2-2-90(c)(2).
+592 c. A target of the state's economic development efforts
+593 pursuant to either of the following:
+594 1. The Accelerate Alabama Strategic Economic
+595 Development Plan adopted in January 2012 by the Alabama
+596 Economic Development Alliance, created by Executive Order
+597 Number 21 of the Governor on July 18, 2011comprehensive
+598 economic development plan, CatALyst, or any amended version or
+599 successor document.
+600 2. A type listed in a regulation adopted by the
+601 Department of Commerce.
+602 (4) NAICS CODE. Any sector, subsector, industry group,
+603 industry, or national industry of the 20122022 North American
+604 Industry Classification System, or any similar classification
+605 system developed in conjunction with the United States
+606 Department of Commerce or Office of Management and Budget.
+607 (5) QUALIFIED RESEARCH. The meaning given in 26 U.S.C.
+608 § 41(d), if conducted in Alabama in pursuit of an approved
+609 activity. In applying any terms in 26 U.S.C. § 41, "qualified
+610 research" shall have the meaning given herein."
+611 Section 2. This act shall become effective on June 1,
+612 2026.
+Page 22
+
+2026.
+HB393 Enrolled
+613
+614
+615
+616
+617
+618
+619
+620
+621
+622 ________________________________________________
+623 Speaker of the House of Representatives
+624
+625
+626
+627 ________________________________________________
+628 President and Presiding Officer of the Senate
+629
+630
+631 House of Representatives
+632
+633 I hereby certify that the within Act originated in and
+634 was passed by the House 26-Feb-26.
+635
+636 John Treadwell
+637 Clerk
+638
+639
+640
+641
+642
+643 Senate 07-Apr-26 Passed
+644
+645
+646
+Page 23

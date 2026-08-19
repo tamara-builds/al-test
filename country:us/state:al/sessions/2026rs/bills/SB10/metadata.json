@@ -1,0 +1,183 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "SB10",
+  "title": "Tuscaloosa County; levy of additional or increased county or municipal sales and use tax prohibited without approval by referendum, constitutional amendment",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Tuscaloosa County"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Tuscaloosa County"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-al-2026rs-sb10"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-06-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in Second House (Tuscaloosa County Legislation)",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Tuscaloosa County Legislation",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Chambliss Local Certification Resolution - Adopted Roll Call 1157",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Motion to Read a Third Time and Pass - Adopted Roll Call 1156",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Third Reading in House of Origin",
+      "date": "2026-04-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the Second Time and placed on the Calendar (Local Legislation )",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Reported Out of Committee House of Origin",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Local Legislation )",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on Local Legislation",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Allen (G)",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Allen (G)\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB10-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "22163548"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "text_extraction_latest_update": "2026-07-21T19:12:24.601964Z"
+  }
+}

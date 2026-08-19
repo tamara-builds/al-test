@@ -1,0 +1,1341 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB160 ENROLLED
+1 SB160
+2 ARZEB7S-2
+3 By Senators Woods, Orr, Barfoot, Albritton, Bell
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+SB160 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to athletic trainers; to adopt the Athletic
+5 Trainer Compact as Article 3 of Chapter 40 of Title 34, Code
+6 of Alabama 1975; to allow licensed athletic trainers to
+7 practice among compact states; to establish requirements and
+8 obligations for participation in the compact; to provide for
+9 disciplinary actions and joint investigation procedures; and
+10 to establish and provide for the operation of the Athletic
+11 Trainer Compact Commission and enforcement of the compact
+12 among member states.
+13 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+14 Section 1. Article 3, commencing with Section 34-40-60,
+15 is added to Chapter 40 of Title 34, Code of Alabama 1975, to
+16 read as follows:
+17 Article 3 ATHLETIC TRAINER COMPACT
+18 §34-40-60 Title and purpose.
+19 (a) This article shall be known and cited as the
+20 Athletic Trainer Compact. The purposes of this compact are to
+21 expand mobility of athletic training practice and improve
+22 public access to services by providing qualified licensed
+23 athletic trainers the ability to practice in other member
+24 states. This compact preserves the regulatory authority of
+25 states to protect public health and safety through the current
+26 system of state licensure.
+27 (b) This compact is designed to achieve the following
+28 objectives:
+Page 1
+
+objectives:
+SB160 Enrolled
+29 (1) Increase public access to athletic training and
+30 enhance continuity of care by providing for the mutual
+31 recognition of other licenses issued by member states.
+32 (2) Provide an additional streamlined opportunity for
+33 interstate practice by licensed athletic trainers who meet
+34 compact uniform requirements.
+35 (3) Promote mobility and workforce development by
+36 eliminating the necessity for licenses in multiple states by
+37 providing for the mutual recognition of other licenses issued
+38 by member states.
+39 (4) Reduce administrative burdens on licensed athletic
+40 trainers and member states.
+41 (5) Enhance the states' ability to protect the public's
+42 health and safety.
+43 (6) Encourage the cooperation of member states in
+44 regulating interstate practice of licensed athletic trainers.
+45 (7) Support relocating active military members and
+46 their spouses.
+47 (8) Enhance the exchange of licensure, investigative,
+48 and disciplinary information among member states.
+49 (9) Allow for the use of telehealth to facilitate
+50 increased access to athletic training services.
+51 (10) Support the uniformity of licensed athletic
+52 trainer licensure requirements throughout the states.
+53 (11) Affirm the authority of all member states to hold
+54 a licensed athletic trainer accountable for abiding by the
+55 scope of practice in the state in which the patient is located
+56 at the time of care.
+Page 2
+
+at the time of care.
+SB160 Enrolled
+57 (12) Require adherence to the model compact language in
+58 order to promote uniformity and ensure that all member states
+59 have accepted and are mutually obligated to the same terms.
+60 §34-40-61 Definitions.
+61 As used in this compact, unless the context requires
+62 otherwise, the following terms have the following meanings:
+63 (1) ACTIVE MILITARY MEMBER. Any individual with
+64 full-time duty status in the active Armed Forces of the United
+65 States, including members of the National Guard and Reserve.
+66 (2) ADVERSE ACTION. Any administrative, civil,
+67 equitable, or criminal action permitted by a state's laws
+68 which is imposed by a licensing authority or other authority
+69 against a licensee, including actions against an individual's
+70 license or compact privilege such as revocation, suspension,
+71 probation, monitoring of the licensee, limitation on the
+72 licensee's practice, or any other encumbrance on licensure
+73 affecting a licensee's authorization to practice.
+74 (3) ALTERNATIVE PROGRAM. A nondisciplinary monitoring
+75 or practice remediation process applicable to an athletic
+76 trainer approved by a state licensing authority of a member
+77 state in which the athletic trainer is licensed. This
+78 includes, but is not limited to, programs to which licensees
+79 with substance use, addiction, or mental health conditions are
+80 referred in lieu of adverse action.
+81 (4) ATHLETIC TRAINER COMPACT COMMISSION or COMPACT
+82 COMMISSION. The government agency whose membership consists of
+83 all states that have enacted this compact, as described in
+84 this compact and which shall operate as an instrumentality of
+Page 3
+
+this compact and which shall operate as an instrumentality of
+SB160 Enrolled
+85 the member states to administer and implement the compact
+86 according to its terms.
+87 (5) ATHLETIC TRAINING. The prevention, examination,
+88 assessment, treatment, and rehabilitation of emergent, acute,
+89 or chronic injuries and medical conditions as defined by
+90 applicable member state laws and rules.
+91 (6) BOC. The Board of Certification, Inc., or any
+92 successor organization thereto.
+93 (7) CAATE. The Commission on Accreditation of Athletic
+94 Training Education or any successor organization thereto.
+95 (8) CHARTER MEMBER STATE. Any member state which
+96 enacted and made effective this compact by law before the
+97 compact effective date specified in this compact.
+98 (9) COMMISSIONER. The individual appointed by a member
+99 state to serve as the member of the commission for that member
+100 state.
+101 (10) COMPACT PRIVILEGE. The legal authorization granted
+102 by a remote state, equivalent to a license, allowing a
+103 licensee from another member state to provide athletic
+104 training services in a remote state.
+105 (11) COMPACT QUALIFYING LICENSE. A license that is not
+106 an encumbered license issued by a member state to practice
+107 athletic training which qualifies the licensee to exercise a
+108 compact privilege pursuant to Section 34-40-63.
+109 (12) CONTINUING COMPETENCE. A requirement, as a
+110 condition of license renewal, to provide evidence of
+111 successful participation and completion of educational and
+112 professional activities relevant to practice or area of work.
+Page 4
+
+professional activities relevant to practice or area of work.
+SB160 Enrolled
+113 For purposes of this compact, evidence of active BOC
+114 certification may satisfy the meaning of continuing competence
+115 as set forth in this compact.
+116 (13) CRIMINAL BACKGROUND CHECK. The submission of
+117 fingerprints or other biometric-based information for a
+118 license applicant for the purpose of obtaining that
+119 applicant's criminal history record information, as defined in
+120 28 C.F.R. § 20.3(d) from the Federal Bureau of Investigation
+121 and the state's criminal history record repository as defined
+122 in 28 C.F.R. § 20.3(f).
+123 (14) CURRENT SIGNIFICANT INVESTIGATIVE INFORMATION. The
+124 existence of:
+125 a. Investigative information that a licensing
+126 authority, after a preliminary inquiry that includes
+127 notification and an opportunity for the subject licensee to
+128 respond, if required by state law, has reason to believe is
+129 not groundless and, if proven true, would indicate more than a
+130 minor infraction; or
+131 b. Investigative information that indicates that the
+132 subject licensee represents an immediate threat to public
+133 health and safety regardless of whether the subject licensee
+134 has been notified and had an opportunity to respond.
+135 (15) DATA SYSTEM. The commission's repository of
+136 information about licensees, including, but not limited to,
+137 examination, licensure, investigative, compact privilege,
+138 adverse action, and alternative program.
+139 (16) ENCUMBRANCE or ENCUMBERED. A revocation or
+140 suspension of, or any limitation or condition on, the full and
+Page 5
+
+suspension of, or any limitation or condition on, the full and
+SB160 Enrolled
+141 unrestricted practice of athletic training.
+142 (17) EXECUTIVE COMMITTEE. A group of commissioners
+143 elected or appointed to act on behalf of, and within the
+144 powers granted to them by, the compact and commission.
+145 (18) INVESTIGATIVE INFORMATION. Information, records,
+146 and documents received or generated by a licensing authority
+147 pursuant to an investigation.
+148 (19) JURISPRUDENCE REQUIREMENT. The assessment of an
+149 individual's knowledge of the laws and rules governing the
+150 practice of athletic training, as applicable, in a state.
+151 (20) LICENSE. The current authorization by a member
+152 state to engage in the practice of athletic training.
+153 (21) LICENSEE or LICENSED ATHLETIC TRAINER. An
+154 individual who currently holds an active, unrestricted license
+155 and who meets all of the requirements outlined in Section
+156 34-40-63.
+157 (22) LICENSING AUTHORITY. The board or agency of a
+158 state, or equivalent, that is responsible for the licensing
+159 and regulation of athletic trainers.
+160 (23) MEMBER STATE. A state that has enacted this
+161 compact.
+162 (24) MODEL COMPACT LANGUAGE. The model language for the
+163 athletic trainer compact on file with the council of state
+164 governments or other entity as designated by the commission to
+165 which all member states must substantively adhere and adopt.
+166 (25) REMOTE STATE. A member state other than the state
+167 of qualifying licensure.
+168 (26) RULE. A regulation adopted by an authorized entity
+Page 6
+
+(26) RULE. A regulation adopted by an authorized entity
+SB160 Enrolled
+169 that has the force of law.
+170 (27) SCOPE OF PRACTICE. The procedures, actions, and
+171 processes an athletic trainer licensed in a state is permitted
+172 to undertake in that state and the circumstances under which
+173 the licensee is permitted to undertake those procedures,
+174 actions, and processes. The procedures, actions, and
+175 processes, and the circumstances under which they may be
+176 undertaken may be established through means, including, but
+177 not limited to, statute, rules, case law, and other processes
+178 available to the state licensing authority or other government
+179 agency. Scope of practice shall include any state requirements
+180 regarding supervision or direction, if required by the state
+181 and as further defined by the state's statutes and rules.
+182 (28) SINGLE STATE LICENSE. A license issued by any
+183 state that authorizes practice only within the issuing state.
+184 (29) STATE. Any state, commonwealth, district, or
+185 territory of the United States of America.
+186 (30) STATE OF QUALIFYING LICENSURE. The member state
+187 which has issued a compact qualifying license to a licensee
+188 pursuant to this compact.
+189 (31) UNENCUMBERED LICENSE. A license that authorizes a
+190 licensee to engage in the full and unrestricted practice of
+191 athletic training.
+192 §34-40-62 State participation in the compact.
+193 (a) To be eligible to join this compact and to maintain
+194 eligibility as a member state, a state must:
+195 (1) Enact and maintain a statute that is not materially
+196 different from the model compact language;
+Page 7
+
+different from the model compact language;
+SB160 Enrolled
+197 (2) License and regulate the practice of athletic
+198 training;
+199 (3) Require that licensees in that state maintain
+200 continuing competence standards as part of their state
+201 practice act or rules;
+202 (4) Have a mechanism in place for receiving and
+203 investigating complaints about licensees;
+204 (5) Grant the compact privilege to a licensee who meets
+205 all the requirements outlined in Section 34-40-63 in
+206 accordance with the terms of the compact and any rules adopted
+207 thereunder;
+208 (6) Participate fully in the compact commission's data
+209 system, including using the unique identifier as defined in
+210 rules;
+211 (7) Notify the compact commission, in compliance with
+212 the terms of the compact and rules, of any adverse action or
+213 the availability of current significant investigative
+214 information regarding a licensee;
+215 (8) Within a time frame established by rule, implement
+216 or utilize procedures for considering the criminal history
+217 records of applicants for a compact qualifying license which
+218 includes receiving the results of the Federal Bureau of
+219 Investigation record search and use those results in making
+220 licensure decisions. These procedures shall include the
+221 submission of fingerprints or other biometric-based
+222 information by applicants for the purpose of obtaining an
+223 applicant's criminal history record information from the
+224 Federal Bureau of Investigation and the agency responsible for
+Page 8
+
+Federal Bureau of Investigation and the agency responsible for
+SB160 Enrolled
+225 retaining that state's criminal records;
+226 a. A member state must fully implement a criminal
+227 background check requirement in order to participate in the
+228 issuance and acceptance of compact privileges.
+229 b. Communication between a member state and the compact
+230 commission or among member states regarding the verification
+231 of eligibility for licensure through the compact shall not
+232 include any information received from the Federal Bureau of
+233 Investigation relating to a federal criminal records check
+234 performed by a member state; and
+235 (9) Comply with and enforce the rules of the compact
+236 commission.
+237 (b) Member states may set and collect a fee for
+238 issuance and renewal of a compact privilege to applicants.
+239 (c) Individuals without a compact qualifying license
+240 shall continue to be able to apply for a member state's single
+241 state license as provided under the laws of each member state.
+242 (d) Nothing in this compact shall affect the
+243 requirements established by a member state for the issuance of
+244 a single state license.
+245 (e) A compact qualifying license shall be recognized by
+246 each remote state as authorizing that licensee to engage in
+247 the practice of athletic training, under a compact privilege,
+248 in another member state in accordance with the requirements in
+249 Section 34-40-63.
+250 §34-40-63 Compact privilege.
+251 (a) To be eligible for a compact privilege under the
+252 terms and provisions of this compact, the licensee shall
+Page 9
+
+terms and provisions of this compact, the licensee shall
+SB160 Enrolled
+253 complete a criminal background check performed by the
+254 licensing authority in the state of qualifying licensure
+255 before entry in the compact and shall:
+256 (1) Satisfy one of the following two pathways:
+257 a. Hold a valid current active certification through
+258 BOC.
+259 b. If a licensee does not meet the requirements of
+260 paragraph a., the following must be completed:
+261 1. An education program which is either:
+262 (i) At least a bachelor's degree with a major course of
+263 study in athletic training, an equivalent course of study from
+264 a college or university accredited at the time of graduation
+265 by CAATE;
+266 (ii) An academic degree from a college or university in
+267 a foreign country equivalent to the degree described in item
+268 (i) with a major course of study as described in item (i) that
+269 is accredited by CAATE; or
+270 (iii) The substantial equivalent of the foregoing which
+271 the commission may determine by rule.
+272 2. Successful completion of the exam administered by
+273 BOC, preceding the date of the licensee's application for
+274 licensure in his or her state of qualifying licensure or the
+275 substantial equivalent of the foregoing requirement which the
+276 commission may determine by rule;
+277 (2) Hold a compact qualifying license;
+278 (3) Have not had any encumbrance against any license or
+279 compact privilege to practice athletic training within the
+280 previous two years;
+Page 10
+
+previous two years;
+SB160 Enrolled
+281 (4) Be eligible for a compact privilege in any member
+282 state in accordance with this section;
+283 (5) Notify the compact commission that the licensee is
+284 seeking the compact privilege within a remote state or remote
+285 states;
+286 (6) Pay any applicable fees, including any state fee,
+287 for the compact privilege;
+288 (7) Meet only the continuing competence requirements
+289 established by the state of qualifying licensure;
+290 (8) Comply with any requirements of the state of
+291 qualifying licensure as set forth in Section 34-40-62;
+292 (9) Meet any jurisprudence requirements established by
+293 the remote state or remote states in which the licensee is
+294 seeking a compact privilege; and
+295 (10) Report to the compact commission any adverse
+296 action, encumbrance, or restriction on a license taken by any
+297 non-member state within 30 days from the date the action is
+298 taken.
+299 (b) The compact privilege is valid until the expiration
+300 date of the compact qualifying license. To maintain a compact
+301 privilege, renewal of the compact privilege shall be congruent
+302 with the renewal of the compact qualifying license as the
+303 compact commission may define by rule. The licensee must
+304 comply with the requirements of this section to maintain the
+305 compact privilege in the remote state. A licensee may apply
+306 for and hold compact privileges in multiple member states.
+307 (c) A licensed athletic trainer must follow the scope
+308 of practice of the member state where the patient is located.
+Page 11
+
+of practice of the member state where the patient is located.
+SB160 Enrolled
+309 A licensee engaging in the practice of athletic training in a
+310 remote state under the compact privilege shall adhere to the
+311 scope of practice laws and rules of the remote state.
+312 Licensees shall be responsible for educating themselves on,
+313 and complying with, any and all scope of practice laws and
+314 rules and state laws relating to the remote practice of
+315 athletic training, as applicable.
+316 (d) A licensee engaging in the practice of athletic
+317 training in a remote state is subject to that state's
+318 regulatory authority. A remote state, in accordance with due
+319 process and that state's laws, may remove a licensee's compact
+320 privilege in the remote state for a specific period of time,
+321 impose fines, or take any other necessary actions to protect
+322 the health and safety of its residents. Any member state which
+323 undertakes such an action shall promptly notify the member
+324 state and the commission as specified in the rules. The
+325 licensee may be deemed to be ineligible to exercise the
+326 compact privilege by any member state until the specific time
+327 for removal has passed and all fines are paid.
+328 (e) All member state disciplinary orders that impose
+329 adverse action against a compact qualifying license shall
+330 result in deactivation of the licensee's compact privilege in
+331 all member states during the pendency of the order. If a
+332 compact qualifying license is encumbered, the licensee shall
+333 lose the compact privilege in any remote state until the
+334 following occur:
+335 (1) The compact qualifying license is no longer
+336 encumbered.
+Page 12
+
+encumbered.
+SB160 Enrolled
+337 (2) The licensee has not had any encumbrance or
+338 restriction against any license, compact qualifying license,
+339 or compact privilege within the previous two years.
+340 (f) Once an encumbered license is restored to good
+341 standing as a compact qualifying license, as certified by the
+342 licensing authority, the licensee must meet the requirements
+343 of this section to obtain a compact privilege in any remote
+344 state.
+345 (g) If a licensee's compact privilege in any remote
+346 state is removed, that licensee may also lose the compact
+347 privilege in other remote states, as each member state shall
+348 determine in its sole authority, until the following occur:
+349 (1) The specific period of time for which the compact
+350 privilege was removed has ended.
+351 (2) All fines have been paid.
+352 (3) The licensee has not had any encumbrance or
+353 restriction against any license or compact privilege within
+354 the previous two years.
+355 (h) Once the requirements of subsection (g) have been
+356 met, the licensee must meet the requirements in subsection (a)
+357 to obtain a compact privilege in a remote state.
+358 §34-40-64 Compact qualification.
+359 (a) A licensee may only designate one license as his or
+360 her compact qualifying license at a time. The procedures for
+361 the designation may be further defined by compact commission
+362 rule.
+363 (b) Nothing in this section shall require that the
+364 state of qualifying licensure be the state of primary
+Page 13
+
+state of qualifying licensure be the state of primary
+SB160 Enrolled
+365 residence or state of primary practice for the licensee.
+366 (c) Nothing in this compact shall interfere with a
+367 licensee's ability to hold a single state license in multiple
+368 states.
+369 (d) Nothing in this compact shall affect the
+370 requirements established by a member state for the issuance of
+371 a single state license.
+372 §34-40-65 Active military member or his or her spouse.
+373 An active military member or his or her spouse shall
+374 not be required to pay a fee to the commission for a compact
+375 privilege. If a member state chooses to charge a member state
+376 fee, the member state may choose to charge a reduced fee or no
+377 fee to an active military member or his or her spouse for a
+378 compact privilege.
+379 §34-40-66 Adverse actions.
+380 (a) A member state in which a licensee is issued a
+381 compact qualifying license shall have the exclusive authority
+382 to impose adverse action against the compact qualifying
+383 license issued by that member state.
+384 (b) A member state may take adverse action based on
+385 current significant investigative information of a remote
+386 state, so long as the member state follows its own procedures
+387 for imposing adverse action.
+388 (c) Nothing in this compact shall override a member
+389 state's decision that participation in an alternative program
+390 may be used in lieu of adverse action and that such
+391 participation shall remain nonpublic if required by the member
+392 state's laws or rules.
+Page 14
+
+state's laws or rules.
+SB160 Enrolled
+393 (d) A remote state shall have the authority to:
+394 (1) Take adverse actions as set forth in this compact
+395 against a licensee's compact privilege in that state; and
+396 (2) Issue subpoenas for both hearings and
+397 investigations that require the attendance and testimony of
+398 witnesses as well as the production of evidence.
+399 a. Subpoenas may be issued by a member state athletic
+400 training licensing authority for the attendance and testimony
+401 of witnesses and the production of evidence.
+402 b. A member state which issues a subpoena may request
+403 service of that subpoena by another member state. The member
+404 state receiving the request to serve a subpoena shall serve
+405 the subpoena if the subpoena is deemed enforceable by a court
+406 of competent jurisdiction according to the practice and
+407 procedure in the receiving member state.
+408 c. The issuing authority shall pay any witness fees,
+409 travel expenses, mileage, and other fees required by the
+410 service statutes of the state where the witnesses or evidence
+411 are located.
+412 (e) For purposes of taking adverse action, a member
+413 state shall give the same priority and effect to reported
+414 conduct received from another member state as it would if the
+415 conduct had occurred within that state. In so doing, the
+416 investigating member state shall apply its own state laws to
+417 determine appropriate action.
+418 (f) A member state, if otherwise permitted by state
+419 law, may recover from the affected licensee the costs of
+420 investigations and dispositions of cases resulting from any
+Page 15
+
+investigations and dispositions of cases resulting from any
+SB160 Enrolled
+421 adverse action taken against that licensee.
+422 (g) Joint investigations.
+423 (1) In addition to the authority granted to a member
+424 state by its respective state law, any member state may
+425 participate with other member states in joint investigations
+426 of licensees.
+427 (2) Member states shall share any current significant
+428 investigative information, litigation, or compliance materials
+429 in furtherance of any joint or individual investigation
+430 initiated under this compact. In sharing this information
+431 between member state athletic trainer licensing authorities,
+432 all information obtained shall be kept confidential, except as
+433 otherwise mutually agreed upon by the sharing and receiving
+434 member state or member states.
+435 (3) A remote state may issue subpoenas on behalf of a
+436 member state for both hearings and investigations that require
+437 the attendance and testimony of witnesses as well as the
+438 production of evidence.
+439 (h) If a member state takes adverse action, the member
+440 state shall promptly notify the administrator of the data
+441 system. The administrator of the data system shall promptly
+442 notify all member states of any adverse actions by remote
+443 states.
+444 (i) Nothing in this compact may permit a member state
+445 to take any adverse action against a licensee or holder of a
+446 compact privilege for conduct or practice occurring in another
+447 member state that was legal in the member state at the time it
+448 was undertaken.
+Page 16
+
+was undertaken.
+SB160 Enrolled
+449 §34-40-67 Establishment and operation of the
+450 commission.
+451 (a) The compact member states hereby create and
+452 establish a joint government agency whose membership consists
+453 of all member states that have enacted this compact known as
+454 the Athletic Trainer Licensure Compact Commission. The compact
+455 commission is an instrumentality of the member states acting
+456 jointly and not an instrumentality of any one state. The
+457 compact commission shall come into existence on or after the
+458 effective date of the compact as set forth in Section
+459 34-40-71.
+460 (b) Membership, voting, and meetings.
+461 (1) Each member state shall have and be limited to one
+462 commissioner selected by that member state's licensing
+463 authority within 60 days of the member state's effective date.
+464 (2) The commissioner shall be an administrator or his
+465 or her designated staff or current board member of the
+466 licensing authority.
+467 (3) The compact commission may recommend removal or
+468 suspension of any commissioner from office.
+469 (4) A member state's licensing authority shall fill any
+470 vacancy of its commissioner occurring on the compact
+471 commission within 60 days of the vacancy.
+472 (5) Each commissioner shall be entitled to one vote on
+473 all matters before the compact commission requiring a vote by
+474 the commissioners.
+475 (6) The compact commission shall meet at least once
+476 during each calendar year. Additional meetings may be held as
+Page 17
+
+during each calendar year. Additional meetings may be held as
+SB160 Enrolled
+477 set forth in the commission bylaws. A commissioner shall vote
+478 in person or by other means as provided in the bylaws. The
+479 bylaws may provide for commissioners to meet by
+480 telecommunication, videoconference, or other means of
+481 communication.
+482 (c) The compact commission shall have the following
+483 powers:
+484 (1) Adopt and amend rules and bylaws.
+485 (2) Establish code of conduct, confidentiality, and
+486 conflict of interest policies for commissioners.
+487 (3) Establish the fiscal year of the compact
+488 commission.
+489 (4) Maintain commission financial records in accordance
+490 with the bylaws.
+491 (5) Purchase and maintain insurance and insurance
+492 bonds.
+493 (6) Accept or contract for services of personnel,
+494 including, but not limited to, employees of a member state.
+495 (7) Conduct a financial review or audit.
+496 (8) Hire employees, elect or appoint officers, fix
+497 compensation, define duties, grant such individuals
+498 appropriate authority to carry out the purposes of the
+499 compact, and establish the compact commission's personnel
+500 policies and programs relating to conflicts of interest,
+501 qualifications of personnel, and other related personnel
+502 matters.
+503 (9) Enter into contracts or arrangements for the
+504 management of the affairs of the commission.
+Page 18
+
+management of the affairs of the commission.
+SB160 Enrolled
+505 (10) Assess and collect fees.
+506 (11) Accept any and all appropriate gifts, donations,
+507 grants of money, other sources of revenue, equipment,
+508 supplies, materials, and services, and receive, utilize, and
+509 dispose of the same, provided that at all times the compact
+510 commission shall avoid any appearance of impropriety or
+511 conflict of interest.
+512 (12) Lease, purchase, retain, own, hold, improve,
+513 invest, or use any property, real, personal, or mixed, or any
+514 undivided interest therein.
+515 (13) Sell, convey, mortgage, pledge, lease, exchange,
+516 abandon, or otherwise dispose of any property real, personal,
+517 or mixed.
+518 (14) Establish a budget and make expenditures.
+519 (15) Borrow and invest money.
+520 (16) Meet and take actions that are consistent with
+521 this compact, the compact commission's rules, and the bylaws.
+522 (17) Initiate and conclude legal proceedings or actions
+523 in the name of the compact commission, provided that the
+524 standing of any licensing authority to sue or be sued under
+525 applicable law shall not be affected.
+526 (18) Maintain and certify records and information
+527 provided to a member state as the authenticated business
+528 records of the compact commission, and designate an agent to
+529 do so on the compact commission's behalf.
+530 (19) Provide and receive information from, and
+531 cooperate with, law enforcement agencies.
+532 (20) Determine whether a state's adopted language is
+Page 19
+
+(20) Determine whether a state's adopted language is
+SB160 Enrolled
+533 materially different from the model compact language such that
+534 the state would not qualify for participation in the compact.
+535 (21) Establish and elect an executive committee,
+536 including a chair and a vice chair, secretary, treasurer, and
+537 other offices that the commission shall establish by rule or
+538 bylaw.
+539 (22) Appoint committees, including standing committees,
+540 composed of member state commissioners, state regulators,
+541 state legislators or their representatives, and consumer
+542 representatives, and other interested persons that may be
+543 designated in this compact and the bylaws.
+544 (23) Perform other functions that may be necessary or
+545 appropriate to achieve the purposes of this compact.
+546 (d) The executive committee.
+547 (1) The executive committee shall have the power to act
+548 on behalf of the compact commission according to the terms of
+549 this compact. The powers, duties, and responsibilities of the
+550 executive committee shall include:
+551 a. Exercise the powers and duties of the compact
+552 commission during the interim between compact commission
+553 meetings, except for adopting or amending rules, adopting or
+554 amending bylaws, and exercising any other powers and duties
+555 expressly reserved to the compact commission by rule or bylaw;
+556 b. Oversee the day-to-day activities of the
+557 administration of this compact including enforcement and
+558 compliance with this compact, its rules and bylaws, and other
+559 duties as deemed necessary;
+560 c. Recommend to the compact commission changes to the
+Page 20
+
+c. Recommend to the compact commission changes to the
+SB160 Enrolled
+561 rules or bylaws, changes to this compact legislation, fees
+562 charged to compact member states, fees charged to licensees,
+563 and other fees;
+564 d. Ensure compact administration services are
+565 appropriately provided, including by contract;
+566 e. Prepare and recommend the budget;
+567 f. Maintain financial records on behalf of the compact
+568 commission;
+569 g. Monitor compact compliance of member states and
+570 provide compliance reports to the compact commission;
+571 h. Establish additional committees as necessary; and
+572 i. Other duties as provided in the rules or bylaws of
+573 the compact commission.
+574 (2) The executive committee shall be composed of five
+575 voting members, elected by the compact commission:
+576 a. The chair and vice chair of the compact commission
+577 shall be voting members of the executive committee;
+578 b. The compact commission shall elect up to three
+579 additional voting members from the current membership of the
+580 compact commission to include the offices of treasurer,
+581 secretary, and one member-at-large; and
+582 c. Up to four ex officio, nonvoting members from
+583 recognized national athletic trainer organizations.
+584 (3) The compact commission may remove any member of the
+585 executive committee as provided in the compact commission's
+586 bylaws.
+587 (4) The executive committee shall meet at least
+588 annually:
+Page 21
+
+annually:
+SB160 Enrolled
+589 a. Executive committee meetings shall be open to the
+590 public, except that the executive committee may meet in a
+591 closed, nonpublic meeting as provided in this section;
+592 b. The executive committee shall give advance notice of
+593 its meetings, posted on its website and as determined, by rule
+594 or bylaw, to provide notice to persons with an interest in the
+595 business of the compact commission; and
+596 c. The executive committee may hold a special meeting
+597 in accordance with this section.
+598 (e) The compact commission shall adopt and provide to
+599 the member states an annual report.
+600 (f) Meetings of the compact commission.
+601 (1) All meetings shall be open to the public, except
+602 that the compact commission may meet in a closed, nonpublic
+603 meeting as provided in this section.
+604 (2) Public notice for all meetings of the full compact
+605 commission shall be given in the same manner as required under
+606 the rulemaking provisions in this compact, except that the
+607 compact commission may hold a special meeting as provided in
+608 this section.
+609 (3) The compact commission may hold a special meeting
+610 when it must meet to conduct emergency business by giving
+611 24-hours' notice to all commissioners, on the compact
+612 commission's website, and other means as provided in the
+613 compact commission's rules. The compact commission's legal
+614 counsel shall certify that the compact commission's need to
+615 meet qualifies as an emergency.
+616 (4) The compact commission or the executive committee
+Page 22
+
+(4) The compact commission or the executive committee
+SB160 Enrolled
+617 or other committees of the compact commission may convene in a
+618 closed, nonpublic meeting for the compact commission or
+619 executive committee or other committees of the compact
+620 commission to receive legal advice or to discuss:
+621 a. Noncompliance of a member state with its obligations
+622 under this compact;
+623 b. The employment, compensation, discipline or other
+624 matters, practices, or procedures related to specific
+625 employees;
+626 c. Current or threatened discipline of a licensee by a
+627 member state's licensing authority;
+628 d. Current, threatened, or reasonably anticipated
+629 litigation;
+630 e. Negotiation of contracts for the purchase, lease, or
+631 sale of goods, services, or real estate;
+632 f. Accusing any person of a crime or formally censuring
+633 any person;
+634 g. Trade secrets or commercial or financial information
+635 that is privileged or confidential;
+636 h. Information of a personal nature where disclosure
+637 would constitute a clearly unwarranted invasion of personal
+638 privacy;
+639 i. Investigative records compiled for law enforcement
+640 purposes;
+641 j. Information related to any investigative reports
+642 prepared by or on behalf of or for the use of the compact
+643 commission or other committee charged with the responsibility
+644 of investigation or determination of compliance issues
+Page 23
+
+of investigation or determination of compliance issues
+SB160 Enrolled
+645 pursuant to this compact;
+646 k. Matters specifically exempted from disclosure by
+647 federal or member state law; or
+648 l. Other matters as specified in rules of the compact
+649 commission.
+650 (5) If a meeting, or portion of a meeting, is closed,
+651 the compact commission's legal counsel or designee shall
+652 certify that the meeting will be closed and reference each
+653 relevant exempting provision, and the reference shall be
+654 recorded in the minutes. All minutes and documents of a closed
+655 meeting shall remain under seal, subject to release only by a
+656 majority vote of the compact commission or order of a court of
+657 competent jurisdiction.
+658 (g) Financing of the compact commission.
+659 (1) The compact commission shall pay, or provide for
+660 the payment of, the reasonable expenses of its establishment,
+661 organization, and ongoing activities.
+662 (2) The compact commission may accept any and all
+663 appropriate revenue sources as provided in this section.
+664 (3) The compact commission may levy on and collect an
+665 annual assessment from each member state and impose fees on
+666 licensees of member states to whom it grants a compact
+667 privilege to cover the cost of the operations and activities
+668 of the compact commission and its staff, which must be in a
+669 total amount sufficient to cover its annual budget as approved
+670 each year for which revenue is not provided by other sources.
+671 The aggregate annual assessment amount for member states shall
+672 be allocated based upon a formula that the compact commission
+Page 24
+
+be allocated based upon a formula that the compact commission
+SB160 Enrolled
+673 shall adopt by rule.
+674 (4) The compact commission shall not incur obligations
+675 of any kind prior to securing the funds or a loan adequate to
+676 meet the same; nor shall the compact commission pledge the
+677 credit of any of the member states, except by and with the
+678 authority of the member state.
+679 (5) The compact commission shall keep accurate accounts
+680 of all receipts and disbursements. The receipts and
+681 disbursements of the compact commission shall be subject to
+682 the financial review or audit and accounting procedures
+683 established under its bylaws. However, all receipts and
+684 disbursements of funds handled by the compact commission shall
+685 be subject to an annual financial review or audit by a
+686 certified or licensed public accountant, and the report of the
+687 financial review or audit shall be included in and become part
+688 of the annual report of the compact commission.
+689 (h) Qualified immunity, defense, and indemnification.
+690 (1) The members, officers, executive director,
+691 employees, and representatives of the compact commission shall
+692 be immune from suit and liability, both personally and in
+693 their official capacity, for any claim for damage to or loss
+694 of property or personal injury or other civil liability caused
+695 by or arising out of any actual or alleged act, error, or
+696 omission that occurred, or that the person against whom the
+697 claim is made had a reasonable basis for believing occurred
+698 within the scope of compact commission employment, duties, or
+699 responsibilities, provided that nothing in this subdivision
+700 shall be construed to protect any person from suit or
+Page 25
+
+shall be construed to protect any person from suit or
+SB160 Enrolled
+701 liability for any damage, loss, injury, or liability caused by
+702 the intentional or willful or wanton misconduct of that
+703 person. The procurement of insurance of any type by the
+704 compact commission shall not in any way compromise or limit
+705 the immunity granted under this subdivision.
+706 (2) The compact commission shall defend any member,
+707 officer, executive director, employee, and representative of
+708 the compact commission in any civil action seeking to impose
+709 liability arising out of any actual or alleged act, error, or
+710 omission that occurred within the scope of compact commission
+711 employment, duties, or responsibilities, or as determined by
+712 the compact commission that the person against whom the claim
+713 is made had a reasonable basis for believing occurred within
+714 the scope of compact commission employment, duties, or
+715 responsibilities, provided that nothing in this subdivision
+716 shall be construed to prohibit that person from retaining his
+717 or her own counsel at his or her own expense, and provided
+718 further that the actual or alleged act, error, or omission did
+719 not result from that person's intentional or willful or wanton
+720 misconduct.
+721 (3) The compact commission shall indemnify and hold
+722 harmless any member, officer, executive director, employee,
+723 and representative of the compact commission for the amount of
+724 any settlement or judgment obtained against that person
+725 arising out of any actual or alleged act, error, or omission
+726 that occurred within the scope of compact commission
+727 employment, duties, or responsibilities, or that such person
+728 had a reasonable basis for believing occurred within the scope
+Page 26
+
+had a reasonable basis for believing occurred within the scope
+SB160 Enrolled
+729 of compact commission employment, duties, or responsibilities,
+730 provided that the actual or alleged act, error, or omission
+731 did not result from the intentional or willful or wanton
+732 misconduct of that person.
+733 (4) Nothing in this subsection shall be construed as a
+734 limitation on the liability of any licensee for professional
+735 malpractice or misconduct, which shall be governed solely by
+736 any other applicable state laws.
+737 (5) Nothing in this compact shall be interpreted to
+738 waive or otherwise abrogate a member state's state action
+739 immunity or state action affirmative defense with respect to
+740 antitrust claims under the Sherman Act, Clayton Act, or any
+741 other state or federal antitrust or anticompetitive law, rule,
+742 or regulation.
+743 (6) Nothing in this compact shall be construed to be a
+744 waiver of sovereign immunity by the member states or by the
+745 compact commission.
+746 §34-40-68 Data system.
+747 (a) The commission shall provide for the development,
+748 maintenance, operation, and utilization of a coordinated data
+749 system and reporting system containing licensure, compact
+750 privileges, adverse action, and the presence of current
+751 significant investigative information on all licensees and
+752 applicants for a license in member states.
+753 (b) Notwithstanding any other provision of state law to
+754 the contrary, a member state shall submit a uniform data set
+755 to the data system on all licensees, applicants, and others to
+756 whom this compact is applicable as required by the rules of
+Page 27
+
+whom this compact is applicable as required by the rules of
+SB160 Enrolled
+757 the compact commission, including:
+758 (1) Personally identifying information;
+759 (2) Licensure data;
+760 (3) Adverse actions against a licensee, license
+761 applicant, or compact privilege and information related
+762 thereto;
+763 (4) Nonconfidential information related to alternative
+764 program participation, the beginning and ending dates of the
+765 participation, and other information related to the
+766 participation;
+767 (5) Any denial of an application for licensure, and the
+768 reasons for the denial, excluding the reporting of any
+769 criminal history record information where prohibited by law;
+770 (6) A binary determination regarding the presence of
+771 current significant investigative information; and
+772 (7) Other information that may facilitate the
+773 administration of this compact or the protection of the
+774 public, as determined by the rules of the commission.
+775 (c) The records and information provided to a member
+776 state pursuant to this compact or through the data system,
+777 when certified by the commission or an agent thereof, shall
+778 constitute the authenticated business records of the
+779 commission, and shall be entitled to any associated hearsay
+780 exception in any relevant judicial, quasi-judicial, or
+781 administrative proceedings in a member state.
+782 (d) Current significant investigative information
+783 pertaining to a licensee in any member state will only be
+784 available to other member states.
+Page 28
+
+available to other member states.
+SB160 Enrolled
+785 (e) It is the responsibility of the member states to
+786 monitor the data system to determine whether adverse action
+787 has been taken against a licensee or license applicant.
+788 Adverse action information pertaining to a licensee or license
+789 applicant in any member state will be available to any other
+790 member state.
+791 (f) Member states contributing information to the data
+792 system may designate information that may not be shared with
+793 the public without the express permission of the contributing
+794 state.
+795 (g) Any information submitted to the data system that
+796 is subsequently expunged pursuant to federal law or the laws
+797 of the member state contributing the information shall be
+798 removed from the data system.
+799 §34-40-69 Rulemaking.
+800 (a) The compact commission shall adopt reasonable rules
+801 in order to effectively and efficiently implement and
+802 administer the purposes and provisions of this compact. A rule
+803 shall be invalid and have no force or effect only if a court
+804 of competent jurisdiction holds that the rule is invalid
+805 because the compact commission exercised its rulemaking
+806 authority in a manner that is beyond the scope and purposes of
+807 the compact, or the powers granted hereunder, or based upon
+808 another applicable standard of review.
+809 (b) The rules of the compact commission shall have the
+810 force of law in each member state, provided that where the
+811 rules conflict with the laws or rules of a member state that
+812 relate to the scope of practice a licensed athletic trainer is
+Page 29
+
+relate to the scope of practice a licensed athletic trainer is
+SB160 Enrolled
+813 permitted to undertake in that state and the circumstances
+814 under which they may do so, as held by a court of competent
+815 jurisdiction, the rules of the compact commission shall be
+816 ineffective in that state to the extent of the conflict.
+817 (c) The compact commission shall exercise its
+818 rulemaking powers pursuant to the criteria set forth in this
+819 section and the rules adopted thereunder. Rules of this
+820 compact shall become binding on the day following adoption or
+821 as of the date specified in the rule or amendment, whichever
+822 is later.
+823 (d) If a majority of the legislatures of the member
+824 states rejects a rule, or portion of a rule, by enactment of a
+825 statute or resolution in the same manner used to adopt the
+826 compact within four years of the date of adoption of the rule,
+827 then the rule shall have no further force and effect in any
+828 member state.
+829 (e) Rules shall be adopted at a regular or special
+830 meeting of the compact commission.
+831 (f) Prior to adoption of a proposed rule, the compact
+832 commission shall hold a public hearing and allow persons to
+833 provide oral and written comments, data, facts, opinions, and
+834 arguments. At least 30 days in advance of the public hearing
+835 on the proposed rule, the compact commission shall provide a
+836 notice of proposed rulemaking:
+837 (1) On the website of the compact commission or other
+838 publicly accessible platform;
+839 (2) To persons who have requested notice of the compact
+840 commission's notices of proposed rulemaking; and
+Page 30
+
+commission's notices of proposed rulemaking; and
+SB160 Enrolled
+841 (3) In other ways that the compact commission, by rule,
+842 may specify.
+843 (g) The notice of proposed rulemaking shall include:
+844 (1) The time, date, and location of the public hearing
+845 at which the compact commission will hear public comments on
+846 the proposed rule and, if different, the time, date, and
+847 location of the meeting where the compact commission will
+848 consider and vote on the proposed rule;
+849 (2) If the hearing is held via telecommunication, video
+850 conference, or other electronic means, the compact commission
+851 shall include the mechanism for access to the hearing in the
+852 notice of proposed rulemaking;
+853 (3) The text of the proposed rule and the reason
+854 therefor;
+855 (4) A request for comments on the proposed rule from
+856 any interested person; and
+857 (5) The manner in which interested persons may submit
+858 written comments.
+859 (h) All hearings will be recorded. A copy of the
+860 recording and all written comments and documents received by
+861 the compact commission in response to the proposed rule shall
+862 be available to the public.
+863 (i) Nothing in this section shall be construed as
+864 requiring a separate hearing on each rule. Rules may be
+865 grouped for the convenience of the compact commission at
+866 hearings required by this section.
+867 (j) The compact commission, by majority vote of all
+868 members, shall take final action on the proposed rule based on
+Page 31
+
+members, shall take final action on the proposed rule based on
+SB160 Enrolled
+869 the rulemaking record and the full text of the rule.
+870 (1) The compact commission may adopt changes to the
+871 proposed rule provided the changes do not enlarge the original
+872 purpose of the proposed rule.
+873 (2) The compact commission shall provide an explanation
+874 of the reasons for substantive changes made to the proposed
+875 rule as well as reasons for substantive changes not made that
+876 were recommended by commenters.
+877 (3) The compact commission shall determine a reasonable
+878 effective date for the rule. Except for an emergency as
+879 provided in this section, the effective date of the rule shall
+880 be no sooner than 30 days after issuing the notice that it
+881 adopted or amended the rule.
+882 (k) Upon determination that an emergency exists, the
+883 compact commission may consider and adopt an emergency rule
+884 with 24-hours' notice, with opportunity to comment, provided
+885 that the usual rulemaking procedures provided in the compact
+886 and in this section shall be retroactively applied to the rule
+887 as soon as reasonably possible, in no event later than 90 days
+888 after the effective date of the rule. For the purposes of this
+889 subsection, an emergency rule is one that must be adopted
+890 immediately in order to:
+891 (1) Meet an imminent threat to public health, safety,
+892 or welfare;
+893 (2) Prevent a loss of compact commission or member
+894 state funds;
+895 (3) Meet a deadline for the adoption of a rule that is
+896 established by federal law or rule; or
+Page 32
+
+established by federal law or rule; or
+SB160 Enrolled
+897 (4) Protect public health and safety.
+898 (l) The compact commission or an authorized committee
+899 of the compact commission may direct revisions to a previously
+900 adopted rule for purposes of correcting typographical errors,
+901 errors in format, errors in consistency, or grammatical
+902 errors. Public notice of any revision shall be posted on the
+903 website of the compact commission. The revision shall be
+904 subject to challenge by any person for a period of 30 days
+905 after posting. The revision may be challenged only on grounds
+906 that the revision results in a material change to a rule. A
+907 challenge shall be made in writing and delivered to the
+908 compact commission prior to the end of the notice period. If
+909 no challenge is made, the revision will take effect without
+910 further action. If the revision is challenged, the revision
+911 may not take effect without the approval of the compact
+912 commission.
+913 (m) No member state's rulemaking requirements shall
+914 apply under this compact.
+915 §34-40-70 Oversight, dispute resolution, and
+916 enforcement.
+917 (a) Oversight.
+918 (1) The executive and judicial branches of state
+919 government in each member state shall enforce this compact and
+920 take all actions necessary and appropriate to implement the
+921 compact.
+922 (2) Except as otherwise provided in this compact, venue
+923 is proper and judicial proceedings by or against the compact
+924 commission shall be brought solely and exclusively in a court
+Page 33
+
+commission shall be brought solely and exclusively in a court
+SB160 Enrolled
+925 of competent jurisdiction where the principal office of the
+926 compact commission is located. The compact commission may
+927 waive venue and jurisdictional defenses to the extent the
+928 compact commission adopts or consents to participate in
+929 alternative dispute resolution proceedings. Nothing herein
+930 shall affect or limit the selection or propriety of venue in
+931 any action against a licensee for professional malpractice,
+932 misconduct, or any similar matter.
+933 (3) The compact commission shall be entitled to receive
+934 service of process in any proceeding regarding the enforcement
+935 or interpretation of the compact and shall have standing to
+936 intervene in the proceeding for all purposes. Failure to
+937 provide the compact commission service of process shall render
+938 a judgment or order void as to the compact commission, this
+939 compact, or adopted rules.
+940 (b) Default, technical assistance, and termination.
+941 (1) If the compact commission determines that a member
+942 state has defaulted in the performance of its obligations or
+943 responsibilities under this compact or the adopted rules, the
+944 commission shall provide written notice to the defaulting
+945 state. The notice of default shall describe the default, the
+946 proposed means of curing the default, and any other action
+947 that the compact commission may take, and shall offer training
+948 and specific technical assistance regarding the default.
+949 (2) The compact commission shall provide a copy of the
+950 notice of default to the other member states.
+951 (c) If a state in default fails to cure the default,
+952 the defaulting state may be terminated from the compact upon
+Page 34
+
+the defaulting state may be terminated from the compact upon
+SB160 Enrolled
+953 an affirmative vote of a majority of the commissioners of the
+954 member states, and all rights, privileges, and benefits
+955 conferred on that state by this compact may be terminated on
+956 the effective date of termination. A cure of the default does
+957 not relieve the offending state of obligations or liabilities
+958 incurred during the period of default.
+959 (d) Termination of membership in the compact shall be
+960 imposed only after all other means of securing compliance have
+961 been exhausted. Notice of intent to suspend or terminate shall
+962 be given by the compact commission to the governor, the
+963 majority and minority leaders of the defaulting state's
+964 legislature, the defaulting state's licensing authority and
+965 each of the member states' licensing authorities.
+966 (e) A state that has been terminated is responsible for
+967 all assessments, obligations, and liabilities incurred through
+968 the effective date of termination, including obligations that
+969 extend beyond the effective date of termination.
+970 (f) Upon the termination of a state's membership from
+971 this compact, that state shall immediately provide notice to
+972 all licensees within that state of the termination. The
+973 terminated state shall continue to recognize all licenses and
+974 compact privileges granted pursuant to this compact for a
+975 minimum of 180 days after the date of the notice of
+976 termination.
+977 (g) The compact commission shall not bear any costs
+978 related to a state that is found to be in default or that has
+979 been terminated from the compact, unless agreed upon in
+980 writing between the compact commission and the defaulting
+Page 35
+
+writing between the compact commission and the defaulting
+SB160 Enrolled
+981 state.
+982 (h) The defaulting state may appeal the action of the
+983 compact commission by petitioning the U.S. District Court for
+984 the District of Columbia or the federal district where the
+985 compact commission has its principal offices. The prevailing
+986 party shall be awarded all costs of the litigation, including
+987 reasonable attorney fees.
+988 (i) Dispute resolution.
+989 (1) Upon request by a member state, the compact
+990 commission shall attempt to resolve disputes related to the
+991 compact that arise among member states and between member and
+992 nonmember states.
+993 (2) The compact commission shall adopt a rule providing
+994 for both mediation and binding alternate dispute resolution
+995 for disputes as appropriate.
+996 (j) Enforcement.
+997 (1) By two-thirds majority vote, the compact commission
+998 may initiate legal action against a member state in default in
+999 the U.S. District Court for the District of Columbia or the
+1000 federal district where the compact commission has its
+1001 principal offices to enforce compliance with this compact and
+1002 its adopted rules. The relief sought may include both
+1003 injunctive relief and damages. In the event judicial
+1004 enforcement is necessary, the prevailing party shall be
+1005 awarded all costs of the litigation, including reasonable
+1006 attorney fees. The remedies herein shall not be the exclusive
+1007 remedies of the compact commission. The compact commission may
+1008 pursue any other remedies available under federal or the
+Page 36
+
+pursue any other remedies available under federal or the
+SB160 Enrolled
+1009 defaulting member state's law.
+1010 (2) A member state may initiate legal action against
+1011 the compact commission in the U.S. District Court for the
+1012 District of Columbia or the federal district where the compact
+1013 commission has its principal offices to enforce compliance
+1014 with this compact and its adopted rules. The relief sought may
+1015 include both injunctive relief and damages. In the event
+1016 judicial enforcement is necessary, the prevailing party shall
+1017 be awarded all costs of the litigation, including reasonable
+1018 attorney fees.
+1019 (3) No person other than a member state shall enforce
+1020 this compact against the compact commission.
+1021 §34-40-71 Effective date, withdrawal, and amendment.
+1022 (a) This compact shall come into effect on the date on
+1023 which the compact statute is enacted into law in the seventh
+1024 member state.
+1025 (1) On or after the effective date of the compact, the
+1026 compact commission shall convene and review the enactment of
+1027 each of the first seven member states (charter member states)
+1028 to determine if the statute enacted and made effective by each
+1029 charter member state is materially different than the model
+1030 compact statute.
+1031 a. A charter member state whose enactment is found to
+1032 be materially different from the model compact language shall
+1033 be entitled to the default process set forth in Section
+1034 34-40-70.
+1035 b. If any member state is later found to be in default,
+1036 or is terminated or withdraws from the compact, the compact
+Page 37
+
+or is terminated or withdraws from the compact, the compact
+SB160 Enrolled
+1037 commission shall remain in existence and the compact shall
+1038 remain in effect even if the number of member states should be
+1039 less than seven.
+1040 (2) Member states enacting the compact subsequent to
+1041 the seven initial charter member states shall be subject to
+1042 the process set forth in this section to determine if their
+1043 enactments are materially different from the model compact
+1044 statute and whether they qualify for participation in the
+1045 compact.
+1046 (3) All actions taken for the benefit of the compact
+1047 commission or in furtherance of the purposes of the
+1048 administration of the compact prior to the effective date of
+1049 the compact or the compact commission coming into existence
+1050 shall be considered to be actions of the compact commission
+1051 unless specifically repudiated by the compact commission.
+1052 (4) Any state that joins this compact subsequent to the
+1053 compact commission's initial adoption of the rules and bylaws
+1054 shall be subject to the rules and bylaws as they exist on the
+1055 date on which this compact becomes law in that state. Any rule
+1056 that has been previously adopted by the compact commission
+1057 shall have the full force and effect of law on the day the
+1058 compact becomes law in that state.
+1059 (b) Any member state may withdraw from this compact by
+1060 enacting a statute repealing the same.
+1061 (1) A member state's withdrawal shall not take effect
+1062 until 180 days after enactment of the repealing statute.
+1063 (2) Withdrawal shall not affect the continuing
+1064 requirement of the withdrawing state's licensing authority to
+Page 38
+
+requirement of the withdrawing state's licensing authority to
+SB160 Enrolled
+1065 comply with the investigative and adverse action reporting
+1066 requirements of this compact prior to the effective date of
+1067 withdrawal.
+1068 (3) Upon the enactment of a statute withdrawing from
+1069 this compact, a state shall immediately provide notice of the
+1070 withdrawal to all licensees and privilege holders within that
+1071 state. Notwithstanding any subsequent statutory enactment to
+1072 the contrary, the withdrawing state shall continue to
+1073 recognize all compact privileges granted pursuant to this
+1074 compact for a minimum of 180 days after the date of the notice
+1075 of withdrawal.
+1076 (4) Nothing contained in this compact shall be
+1077 construed to invalidate or prevent any licensure agreement or
+1078 other cooperative arrangement between a member state and a
+1079 nonmember state that does not conflict with this compact.
+1080 (5) This compact may be amended by the member states.
+1081 No amendment to this compact shall become effective and
+1082 binding upon any member state until the amendment is enacted
+1083 into the laws of all member states.
+1084 §34-40-72 Construction and severability.
+1085 (a) This compact and the compact commission's
+1086 rulemaking authority shall be liberally construed so as to
+1087 effectuate the purposes and the implementation and
+1088 administration of this compact. Provisions of the compact
+1089 expressly authorizing or requiring the adoption of rules shall
+1090 not be construed to limit the compact commission's rulemaking
+1091 authority solely for those purposes.
+1092 (b) The provisions of this compact shall be severable
+Page 39
+
+(b) The provisions of this compact shall be severable
+SB160 Enrolled
+1093 and if any phrase, clause, sentence, or provision of this
+1094 compact is held by a court of competent jurisdiction to be
+1095 contrary to the constitution of any member state, a state
+1096 seeking participation in the compact, or of the United States,
+1097 or the applicability thereof to any government, agency,
+1098 person, or circumstance is held to be unconstitutional by a
+1099 court of competent jurisdiction, the validity of the remainder
+1100 of this compact and the applicability thereof to any other
+1101 government, agency, person, or circumstance shall not be
+1102 affected thereby.
+1103 (c) Notwithstanding the foregoing, the compact
+1104 commission may deny a state's participation in the compact or
+1105 terminate a member state's participation in the compact if the
+1106 compact commission determines that a constitutional
+1107 requirement of a member state is a material departure from
+1108 this compact. Otherwise, if this compact shall be held to be
+1109 contrary to the constitution of any member state, this compact
+1110 shall remain in full force and effect as to the remaining
+1111 member states and in full force and effect as to the member
+1112 state affected as to all severable matters.
+1113 §34-40-73 Consistent effect and conflict with other
+1114 state laws.
+1115 (a) Nothing herein shall prevent or inhibit the
+1116 enforcement of any other law of a member state that is not
+1117 inconsistent with this compact.
+1118 (b) Any laws, statutes, rules, or other legal
+1119 requirements in a member state in conflict with this compact
+1120 are superseded to the extent of the conflict.
+Page 40
+
+are superseded to the extent of the conflict.
+SB160 Enrolled
+1121 (c) All permissible agreements between the compact
+1122 commission and the member states are binding in accordance
+1123 with their terms.
+1124 Section 2. This act shall become effective on October
+1125 1, 2026.
+Page 41
+
+1, 2026.
+SB160 Enrolled
+1126
+1127
+1128
+1129
+1130
+1131
+1132 ________________________________________________
+1133 President and Presiding Officer of the Senate
+1134
+1135
+1136
+1137 ________________________________________________
+1138 Speaker of the House of Representatives
+1139
+1140
+1141 SB160
+1142 Senate 12-Feb-26
+1143 I hereby certify that the within Act originated in and passed
+1144 the Senate.
+1145
+1146 Patrick Harris,
+1147 Secretary.
+1148
+1149
+1150
+1151
+1152 House of Representatives
+1153 Passed: 05-Mar-26
+1154
+1155
+1156
+1157
+1158 By: Senator Woods
+Page 42

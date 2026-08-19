@@ -1,0 +1,344 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB628 INTRODUCED
+1 HB628
+2 ARB3VQQ-1
+3 By Representatives Moore (M), Datcher, Morris, Sellers, Jones,
+4 Bracy, Hassell, Tillman, Gray, Travis, Chestnut, Drummond,
+5 Warren, Daniels, England, McCampbell
+6 RFD: Constitution, Campaigns and Elections
+7 First Read: 17-Mar-26
+Page 0
+
+First Read: 17-Mar-26
+ARB3VQQ-1 03/11/2026 JWB (L)JWB 2026-1228
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a county board of registrars
+6 is required to purge an elector when the elector has
+7 become disqualified to vote.
+8 Under existing law, a county board of registrars
+9 is required to change an elector's status to inactive
+10 if the elector has not voted in four years.
+11 Under existing law, if a county board of
+12 registrars determines that an elector has moved to a
+13 different address, sends a notice to the elector, and
+14 the elector fails to respond to the notice, the board
+15 is required to change the elector's status to inactive.
+16 This bill would prohibit a county board of
+17 registrars from purging, making inactive, or otherwise
+18 removing an elector from the statewide voter
+19 registration list within the 90-day period before any
+20 regular election.
+21 This bill would also make nonsubstantive,
+22 technical revisions to update the existing code
+23 language to current style.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+HB628 INTRODUCED
+29
+30 Relating to elections; to amend Sections 17-4-3 and
+31 17-4-9, Code of Alabama 1975, and Sections 17-4-30 and
+32 17-4-39, Code of Alabama 1975, as amended by Act 2025-424 of
+33 the 2025 Regular Session; to establish a 90-day period before
+34 any regular election held in the state where no board of
+35 registrars may purge, make inactive, or otherwise remove an
+36 elector from the statewide voter registration list; and to
+37 make nonsubstantive, technical revisions to update the
+38 existing code language to current style.
+39 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+40 Section 1. Sections 17-4-3 and 17-4-9, Code of Alabama
+41 1975, and Sections 17-4-30 and 17-4-39, Code of Alabama 1975
+42 as amended by Act 2025-424 of the 2025 Regular Session, are
+43 amended to read as follows:
+44 "§17-4-3
+45 (a)(1) Each county board of registrars shall purge the
+46 computerized statewide voter registration list on a continuous
+47 basis, whenever ita board receives and confirms information
+48 that a personan individual registered to vote in that county
+49 has died, become a nonresident of the state or county, been
+50 declared mentally incompetent, been convicted of any offense
+51 designated pursuant to Section 17-3-30.1 as a felony involving
+52 moral turpitude for the purposes of Article VIIISection 177 of
+53 the Constitution of Alabama of 19012022 since being
+54 registered, or otherwise become disqualified as an elector.
+55 Except as provided below, a person in subdivisions (2) and
+56 (3), an individual convicted of a disqualifying criminal
+Page 2
+
+(3), an individual convicted of a disqualifying criminal
+HB628 INTRODUCED
+57 offense shall be notified by certified mail sent to the
+58 voter's last known address of the board's intention to strike
+59 his or her name from the list.
+60 (2) No personindividual convicted of a disqualifying
+61 crime may be strickenstruck from the poll list while an appeal
+62 from the conviction is pending.
+63 (3) The county board of registrars may not purge any
+64 individual from the computerized statewide voter registration
+65 list within 90 days of any election held in the state,
+66 pursuant to Section 2 of this act.
+67 (b) On the date set in the notice, or at a later date
+68 to which the case may have been continued by the board, the
+69 board shall proceed to consider the case of the elector whose
+70 name itthe board proposes to strike from the registration list
+71 and make its determination. Any personindividual whose name is
+72 strickenstruck from the list may appeal from the decision of
+73 the board without giving security for costs, and the board
+74 shall forthwith certify the proceedings to the judge of
+75 probate who shall docket the case in the probate court.
+76 (c) An appeal from the judge of probate shall be as
+77 appeals set forthin the same manner as provided in Section
+78 17-3-55.
+79 (d) In the event the Board of Pardons and Paroles is
+80 supervising a personan individual convicted of a disqualifying
+81 criminal offense on probation or parole, and the
+82 personindividual has received face-to-face counseling from the
+83 supervising officer regarding voter disqualification and
+84 executed documentation explaining the loss and restoration of
+Page 3
+
+executed documentation explaining the loss and restoration of
+HB628 INTRODUCED
+85 civil and political rights, upon receipt of the documentation,
+86 signed by the disqualified elector, the county board of
+87 registrars shall be exempt from providing notice as otherwise
+88 required by this section. The document administered by the
+89 Board of Pardons and Paroles and to be signed by the
+90 disqualified elector shall contain the following statement:
+91 "Any person convicted of a disqualifying felony loses his or
+92 her civil and political rights, which includes the right to
+93 vote. Restoration of these rights may be applied for through
+94 the Central Montgomery Office of the Board of Pardons and
+95 Paroles, but only upon completion of the requirements of
+96 Section 15-22-36.1."
+97 (e) The Board of Pardons and Paroles shall provide
+98 signed documentation to county boards of registrars to
+99 indicate those personsindividuals under probation or parole
+100 supervision with the board who have been convicted of a
+101 disqualifying criminal offense and been counseled regarding
+102 voter disqualification and the restoration of civil and
+103 political rights, and may otherwise share privileged records
+104 and files with county boards of registrars for the limited
+105 purpose of implementing the requirements of this section.
+106 (f) When the board has sufficient evidence furnished it
+107 that any elector has permanently moved from one precinct to
+108 another within the county, itthe board shall change the
+109 elector's precinct designation in the voter registration list,
+110 and shall give notice by mail to the elector of the precinct
+111 in which the elector is registered to vote.
+112 (g) The Secretary of State and the Board of Pardons and
+Page 4
+
+(g) The Secretary of State and the Board of Pardons and
+HB628 INTRODUCED
+113 Paroles may promulgateadopt rules in accordance with the
+114 Alabama Administrative Procedure Act as necessary to implement
+115 this section."
+116 "§17-4-9
+117 (a) Any voter who fails to vote for four years in his
+118 or her county shall have his or her name placed on an inactive
+119 voter list by the localcounty board of registrars. Once on the
+120 inactive list, the voter shall reidentify with the localcounty
+121 board of registrars in order to again have his or her name
+122 placed on the active voter registration list. Notwithstanding
+123 the foregoing, if a voter on the inactive list goes to his or
+124 her polling place to vote on an election day and identifies
+125 himself or herself to the election official responsible for
+126 the voter registration list update, suchthe voter shall be
+127 permitted to vote provided the voter completes a voter
+128 reidentification form.
+129 (b) The county board of registrars may not place any
+130 voter on the inactive voter list, or otherwise remove a voter
+131 from the active voter registration list, within 90 days of any
+132 election held in the state, pursuant to Section 2 of this
+133 act."
+134 "§17-4-30
+135 (a) Beginning in February 2025, and in February of
+136 every fourth year thereafter, the board of registrars, or the
+137 Secretary of State if acting as the board's agent pursuant to
+138 subsection (h), shall use change-of-address information
+139 supplied by the United States Postal Service through the
+140 National Change of Address database and by at least one other
+Page 5
+
+National Change of Address database and by at least one other
+HB628 INTRODUCED
+141 National Voter Registration Act designated agency database, to
+142 identify registered voters whose addresses may have changed.
+143 (b)(1) If the board of registrars or Secretary of State
+144 determines from the change-of-address information that a
+145 registered voter has moved to a different residence address
+146 that is under the jurisdiction of the same board of
+147 registrars, the board of registrars shall change the
+148 registration records of that voter to show the new address,
+149 and the board of registrars or Secretary of State, within 90
+150 days after identifying the potential change, shall send the
+151 voter a notice of the change by forwardable mail along with a
+152 postage prepaid, pre-addressed return card on which the
+153 registered voter may correct his or her current address
+154 information. The notice shall inform the voter that if the
+155 voter did not change his or her residence, he or she is
+156 required to return the pre-addressed card no later than the
+157 last day to register to vote before an election.
+158 (2) If the board of registrars or Secretary of State
+159 determines from the change-of-address information that a
+160 registered voter has moved to a different residence address
+161 that is under the jurisdiction of a different board of
+162 registrars or to a residence address outside of the state, the
+163 board of registrars or Secretary of State, within 90 days
+164 after identifying the potential change, shall send the voter a
+165 notice of the change by forwardable mail along with a postage
+166 prepaid, pre-addressed return card on which the registered
+167 voter may verify or correct his or her current address
+168 information. The notice shall include both of the following:
+Page 6
+
+information. The notice shall include both of the following:
+HB628 INTRODUCED
+169 a. A statement informing the voter that if the
+170 pre-addressed card is not returned within the time specified
+171 in the notice, the voter will be permitted to vote in that
+172 same jurisdiction during the period from the date the notice
+173 was mailed and ending on the day after the date of the second
+174 general election for federal office, provided the voter
+175 completes a voter registration update form. If the voter does
+176 not update his or her voter registration record or vote during
+177 the period ending on the day after the date of the second
+178 general election for federal office, the voter's name shall be
+179 removed from the list of eligible voters.
+180 b. Information concerning how the voter may continue
+181 his or her eligibility to vote in another jurisdiction if the
+182 voter has changed his or her residence to an address outside
+183 of the jurisdiction of the board of registrars under which he
+184 or she is then registered.
+185 (c) The board of registrars or Secretary of State shall
+186 record and maintain in the statewide voter registration
+187 database the dates on which the notice is mailed to a
+188 registered voter and the card is subsequently returned to the
+189 board by the registered voter.
+190 (d) The board of registrars shall update the statewide
+191 voter registration database using the information reported to
+192 the board by the registered voters on the prepaid,
+193 pre-addressed return cards provided for in this section.
+194 (e) If the registered voter does not respond to the
+195 notice provided in this section within 90 days of the date on
+196 which the notice was mailed or if the notice is returned to
+Page 7
+
+which the notice was mailed or if the notice is returned to
+HB628 INTRODUCED
+197 the board of registrars as undeliverable, the board of
+198 registrars or its agent shall change the status of the voter
+199 to inactive and indicate in the statewide voter registration
+200 database the date the change is recorded and that the voter
+201 did not respond to the mailing or that the mailing was
+202 returned as undeliverable, in a manner provided by rule by the
+203 Secretary of State.
+204 (f) The names of persons to be removed from the list of
+205 registered voters pursuant to this section shall be published
+206 in accordance with Section 17-4-10.
+207 (g) The Secretary of State may adopt rules as necessary
+208 to implement this section.
+209 (h) The Secretary of State may act as an agent for a
+210 board of registrars, only upon receiving the written consent
+211 of the county commission, in implementing this section.
+212 (i) The board of registrars, or its agent, shall
+213 complete the process of changing any voter's status to
+214 inactive at least 90 days before any regular election held in
+215 the state. The board, or its agent, may not change the status
+216 of any voter within the 90-day period before any regular
+217 election, pursuant to Section 2 of this act."
+218 "§17-4-39
+219 (a)(1) The board of registrars shall be responsible for
+220 entering and updating in a timely manner the names and
+221 information of the electors who register to vote and vote in
+222 each election into the state voter registration list and for
+223 conducting regular voter list maintenance activities as
+224 directed by the Secretary of State and otherwise provided by
+Page 8
+
+directed by the Secretary of State and otherwise provided by
+HB628 INTRODUCED
+225 law, including processing registered individuals identified by
+226 programs conducted pursuant to subsection (b). Removal of any
+227 registered individual determined to be improperly registered
+228 may be accomplished at any time by a majority vote of the
+229 board.
+230 (2) Notwithstanding subdivision (1), a board of
+231 registrars may not remove an individual from the state voter
+232 registration list in the 90-day period before any regular
+233 election is held in the state, pursuant to Section 2 of this
+234 act.
+235 (b)(1) The Secretary of State shall be responsible for
+236 directly conducting regular state voter registration list
+237 maintenance programs to ensure database integrity. These
+238 programs shall be known as the Alabama Voter Integrity
+239 Database (AVID). The Alabama Voter Integrity Database shall
+240 compare the state voter registration list to:
+241 a. Alabama State Law Enforcement Agency driver license
+242 and nondriver identification card data to identify registered
+243 voters in Alabama who have moved and obtained a driver license
+244 or nondriver identification card in another state or who have
+245 registered to vote in Alabama and then applied for a foreign
+246 national driver license or nondriver identification card;
+247 b. State-to-state voter list data to identify
+248 individuals who are registered to vote in Alabama but who are
+249 also registered to vote in another state, including
+250 individuals who may have voted in the same or a similar
+251 election in both states, with priority given to data from
+252 states in close geographical proximity to Alabama;
+Page 9
+
+states in close geographical proximity to Alabama;
+HB628 INTRODUCED
+253 c. The National Change of Address database to identify
+254 individuals who are registered to vote in Alabama but have
+255 notified the United States Postal Service that they have
+256 relocated to a new county within the state or an address
+257 outside of Alabama;
+258 d. Social Security Death Index data to identify
+259 deceased individuals who are registered to vote and may have
+260 died out of state; and
+261 e. United States Department of Homeland Security
+262 Citizenship and Immigration Services data to identify
+263 individuals who are registered to vote in Alabama but are
+264 ineligible to vote because they are noncitizens.
+265 (2) Individuals identified shall be timely communicated
+266 by the Secretary of State to the appropriate board or boards
+267 of registrars to process.
+268 (c) Not later than February 1, annually, the Secretary
+269 of State shall collect and publish data from each county
+270 specifying the number of voters who were removed from the
+271 voter registration list during the previous calendar year."
+272 Section 2. (a) The board of registrars for each county,
+273 or the Secretary of State if acting as the board's agent, may
+274 not purge, make inactive, or otherwise remove any elector from
+275 the computerized statewide voter registration list within the
+276 90-day period before any regular election that occurs in the
+277 state.
+278 (b) For purposes of this section, "regular election"
+279 means any regularly scheduled and held municipal, county, or
+280 statewide election. Regarding statewide elections, the term
+Page 10
+
+statewide election. Regarding statewide elections, the term
+HB628 INTRODUCED
+281 includes primary, primary runoff, and general elections.
+282 Section 3. This act shall become effective on July 1,
+283 2026.
+Page 11

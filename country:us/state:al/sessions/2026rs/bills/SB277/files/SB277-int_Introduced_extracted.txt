@@ -1,0 +1,796 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB277 INTRODUCED
+1 SB277
+2 L5IXZYA-1
+3 By Senator Bell
+4 RFD: Fiscal Responsibility and Economic Development
+5 First Read: 10-Feb-26
+Page 0
+
+First Read: 10-Feb-26
+L5IXZYA-1 02/04/2026 GP (L)lg 2026-329
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would authorize the formation and
+6 operation of decentralized unincorporated nonprofit
+7 associations as a subtype of unincorporated nonprofit
+8 associations, which are authorized under existing law.
+9 This bill would allow a decentralized
+10 unincorporated nonprofit association to use distributed
+11 ledger technology and smart contracts for its
+12 governance and operation.
+13 This bill would permit decentralized
+14 unincorporated nonprofit associations to acquire and
+15 maintain property and engage in profit-making
+16 activities, subject to certain standards relating to
+17 the distribution of proceeds.
+18 This bill would provide for the duties,
+19 obligations, and liabilities of the members and
+20 administrators of a decentralized unincorporated
+21 nonprofit association.
+22 This bill would also provide for the dissolution
+23 and winding up of a decentralized unincorporated
+24 nonprofit association.
+25
+26
+27 A BILL
+28 TO BE ENTITLED
+Page 1
+
+TO BE ENTITLED
+SB277 INTRODUCED
+29 AN ACT
+30
+31 Relating to corporations, partnerships, and
+32 associations; to designate Sections 10A-17-1.01 through
+33 10A-17-1.18, Code of Alabama 1975, inclusive, as Article 1;
+34 and to add Article 2, commencing with Section 10A-17-2.01, to
+35 Chapter 10A of the Code of Alabama 1975; to provide for the
+36 formation, management, and governance of decentralized
+37 unincorporated nonprofit associations; to provide for the
+38 duties, obligations, and liabilities of members and
+39 administrators of decentralized unincorporated nonprofit
+40 associations; and to provide for the dissolution and winding
+41 up of decentralized unincorporated nonprofit associations.
+42 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+43 Section 1. Sections 10A-17-1.01 through 10A-17-1.18,
+44 Code of Alabama 1975, inclusive, are designated as Article 1.
+45 Section 2. Article 2, commencing with Section
+46 10A-17-2.01, is added to Chapter 10A of the Code of Alabama
+47 1975, to read as follows:
+48 §10A-17-2.01
+49 This article together with applicable provisions of
+50 Chapter 1 shall be known and may be cited as the Decentralized
+51 Unincorporated Nonprofit Association Law.
+52 §10A-17-2.02
+53 For the purposes of this article, the following terms
+54 have the following meanings:
+55 (1) ADMINISTRATOR. A person authorized by the members
+56 of a decentralized unincorporated nonprofit association to
+Page 2
+
+of a decentralized unincorporated nonprofit association to
+SB277 INTRODUCED
+57 fulfill administrative or operational tasks at the direction
+58 of the membership.
+59 (2) DECENTRALIZED UNINCORPORATED NONPROFIT ASSOCIATION
+60 or NONPROFIT ASSOCIATION. An unincorporated nonprofit
+61 association that meets the following requirements:
+62 a. Consists of at least 100 members joined by mutual
+63 consent under an agreement, which may be in writing or
+64 inferred from conduct, for a common nonprofit purpose.
+65 b. Has elected to be formed under this article.
+66 c. Is not formed under any other law governing the
+67 nonprofit association's organization or operation.
+68 (3) DIGITAL ASSET. A representation of economic,
+69 proprietary, or access rights that is stored in a computer
+70 readable format and is either a digital consumer asset,
+71 digital security, or virtual currency.
+72 (4) DISTRIBUTED LEDGER TECHNOLOGY. A distributed ledger
+73 protocol and supporting infrastructure, including blockchain,
+74 which uses a distributed, shared, and replicated ledger,
+75 whether public or private, permissioned or permissionless, and
+76 which may include the use of digital assets as a medium of
+77 electronic exchange.
+78 (5) ESTABLISHED PRACTICES. The practices used by a
+79 decentralized unincorporated nonprofit association without
+80 material change during the most recent five years of the
+81 nonprofit association's existence, or if the nonprofit
+82 association has existed for less than five years, during the
+83 nonprofit association's entire existence.
+84 (6) GOVERNING PRINCIPLES. All agreements and any
+Page 3
+
+(6) GOVERNING PRINCIPLES. All agreements and any
+SB277 INTRODUCED
+85 amendment or restatement of those agreements, including any
+86 decentralized unincorporated nonprofit association agreements,
+87 consensus formation algorithms, smart contracts, or enacted
+88 governance proposals, which govern the purpose or operation of
+89 a decentralized unincorporated nonprofit association and the
+90 rights and obligations of the nonprofit association's members
+91 and administrators, whether contained in a record, implied
+92 from the nonprofit association's established practices, or
+93 both.
+94 (7) MEMBER. A person who, under the governing
+95 principles of a decentralized unincorporated nonprofit
+96 association, may participate in the selection of the
+97 decentralized unincorporated nonprofit association's
+98 administrators or the development of the policies and
+99 activities of the decentralized unincorporated nonprofit
+100 association.
+101 (8) MEMBERSHIP INTEREST. A member's voting rights in a
+102 decentralized unincorporated nonprofit association determined
+103 by the decentralized unincorporated nonprofit association's
+104 governing principles, including as ascertained from
+105 decentralized ledger technology on which the decentralized
+106 unincorporated nonprofit association relies to determine a
+107 member's voting rights.
+108 (9) NONPROFIT PURPOSE. Any purpose for which a
+109 nonprofit corporation could be organized under Article 1, and
+110 where no part of income or profit is distributable to its
+111 members or administrators.
+112 (10) PERSON. An individual, corporation, business
+Page 4
+
+(10) PERSON. An individual, corporation, business
+SB277 INTRODUCED
+113 trust, estate, trust, partnership, association, agency, joint
+114 venture, government, governmental subdivision or
+115 instrumentality, or any other legal commercial entity.
+116 (11) RECORD. Information that is inscribed on a
+117 tangible medium or stored in an electronic or other medium
+118 that is retrievable in perceivable form.
+119 (12) SMART CONTRACT. An automated transaction, as
+120 defined in any substantially similar analogue or code, script,
+121 or programming language relying on distributed ledger
+122 technology, including blockchain, which may include
+123 facilitating and instructing transfers of an asset,
+124 administrating membership interest votes with respect to a
+125 decentralized unincorporated nonprofit association, or issuing
+126 executable instructions for these actions based on the
+127 occurrence or nonoccurrence of specified conditions.
+128 (13) STATE. A state of the United States, the District
+129 of Columbia, the Commonwealth of Puerto Rico, or any territory
+130 or insular possession subject to the jurisdiction of the
+131 United States.
+132 §10A-17-2.03
+133 (a) The law of this state governs any decentralized
+134 unincorporated nonprofit association that is formed in this
+135 state.
+136 (b) Each decentralized unincorporated nonprofit
+137 association's governing principles shall identify the
+138 jurisdiction in which the decentralized unincorporated
+139 nonprofit association is formed.
+140 §10A-17-2.04
+Page 5
+
+§10A-17-2.04
+SB277 INTRODUCED
+141 (a) A decentralized unincorporated nonprofit
+142 association may engage in profit-making activities. Profits
+143 from any activities shall be used in furtherance of, or set
+144 aside for, the nonprofit association's common nonprofit
+145 purpose.
+146 (b) Except as provided in subsection (c), a
+147 decentralized unincorporated nonprofit association may not
+148 make distributions to its members or administrators.
+149 (c) A decentralized unincorporated nonprofit
+150 association may do all of the following:
+151 (1) Pay reasonable compensation or reimburse reasonable
+152 expenses to its members, administrators, and persons outside
+153 of the nonprofit association for services rendered, including
+154 with respect to the administration and operation of the
+155 nonprofit association, which may include the provision of
+156 collateral for the self-insurance of the nonprofit
+157 association, voting, or participation in the nonprofit
+158 association's operations and activities.
+159 (2) Confer benefits on its members and administrators
+160 in conformity with its common nonprofit purpose.
+161 (3) Repurchase membership interests to the extent
+162 authorized by the nonprofit association's governing
+163 principles.
+164 (4) Make distributions of property to members upon
+165 winding up and termination of the decentralized unincorporated
+166 nonprofit association to the extent permitted by Section
+167 10A-17-2.26.
+168 §10A-17-2.05
+Page 6
+
+§10A-17-2.05
+SB277 INTRODUCED
+169 (a) Unless prohibited or otherwise limited by its
+170 written rules or governing documents, a decentralized
+171 unincorporated nonprofit association in its name may acquire,
+172 hold, encumber, or transfer an estate or interest in real or
+173 personal property.
+174 (b) Unless prohibited or otherwise limited by its
+175 written rules or governing documents, a decentralized
+176 unincorporated nonprofit association may be a legatee,
+177 devisee, or beneficiary of a trust or contract.
+178 (c) Real and personal property in Alabama may be
+179 acquired, held, encumbered, and transferred by a decentralized
+180 unincorporated nonprofit association, whether it or a member
+181 has any other relationship to Alabama.
+182 §10A-17-2.06
+183 (a) A decentralized unincorporated nonprofit
+184 association shall execute and record a statement of authority
+185 to transfer an estate or interest in real property in the name
+186 of the nonprofit association.
+187 (b) An estate or interest in real property in the name
+188 of a decentralized unincorporated nonprofit association may be
+189 transferred by a person so authorized in a statement of
+190 authority recorded in the office of the judge of probate of
+191 the county in which the real property is located.
+192 (c) A statement of authority shall set forth:
+193 (1) The name of the decentralized unincorporated
+194 nonprofit association;
+195 (2) The address in Alabama, including the street
+196 address, if any, of the decentralized unincorporated nonprofit
+Page 7
+
+address, if any, of the decentralized unincorporated nonprofit
+SB277 INTRODUCED
+197 association, or, if the decentralized unincorporated nonprofit
+198 association does not have an address in Alabama, its address
+199 out of state;
+200 (3) The name or title of a person authorized to
+201 transfer an estate or interest in real property held in the
+202 name of the decentralized unincorporated nonprofit
+203 association; and
+204 (4) The action, procedure, or vote of the decentralized
+205 unincorporated nonprofit association which authorizes the
+206 person to transfer the real property of the decentralized
+207 unincorporated nonprofit association and which authorizes the
+208 person to execute the statement of authority.
+209 (d) A statement of authority shall be executed and
+210 recorded in the same manner as a deed by a person who is not
+211 the person authorized to transfer the estate or interest.
+212 (e) The judge of probate shall collect a fee for
+213 recording a statement of authority in accordance with Article
+214 4 of Chapter 1.
+215 (f) An amendment, including a cancellation, of a
+216 statement of authority shall meet the requirements for
+217 execution and recording, and be accompanied by payment of the
+218 same recording fee payable to and for the judge of probate, of
+219 an original statement. Unless canceled earlier, a recorded
+220 statement of authority as amended is canceled by operation of
+221 law five years after the date of the most recent amended
+222 statement of authority.
+223 (g) If the record title to real property is in the name
+224 of a decentralized unincorporated nonprofit association and
+Page 8
+
+of a decentralized unincorporated nonprofit association and
+SB277 INTRODUCED
+225 the statement of authority is recorded in the office of the
+226 judge of probate of the county in which the real property is
+227 located, the authority of the person named in a statement of
+228 authority is conclusive in favor of a person who gives value
+229 without notice that the person lacks authority.
+230 §10A-17-2.07
+231 (a) A decentralized unincorporated nonprofit
+232 association is a legal entity separate from its members for
+233 the purposes of determining and enforcing rights, duties, and
+234 liabilities in contract and tort.
+235 (b) A person is not liable for a breach of a
+236 decentralized unincorporated nonprofit association's contract
+237 merely because the person is a member, administrator,
+238 authorized to participate in the management of the affairs of
+239 the nonprofit association, or considered a member by the
+240 nonprofit association.
+241 (c) A person is not liable for a tortious act or
+242 omission for which a decentralized unincorporated nonprofit
+243 association is liable merely because the person is a member or
+244 administrator of the nonprofit association, authorized to
+245 participate in the management of the affairs of the nonprofit
+246 association, or considered a member by the nonprofit
+247 association.
+248 (d) A tortious act or omission of a member,
+249 administrator, or other person for which a decentralized
+250 unincorporated nonprofit association is liable is not imputed
+251 to a person merely because the person is a member or
+252 administrator of the nonprofit association, authorized to
+Page 9
+
+administrator of the nonprofit association, authorized to
+SB277 INTRODUCED
+253 participate in the management of the affairs of the nonprofit
+254 association, or considered a member by the nonprofit
+255 association.
+256 (e) A member, administrator, person authorized to
+257 participate in the management of the affairs of the nonprofit
+258 association, or person considered a member by the nonprofit
+259 association may assert a claim against the decentralized
+260 unincorporated nonprofit association. A decentralized
+261 unincorporated nonprofit association may assert a claim
+262 against a member, administrator, person authorized to
+263 participate in the management of the affairs of the nonprofit
+264 association, or person considered a member by the nonprofit
+265 association.
+266 §10A-17-2.08
+267 (a) A decentralized unincorporated nonprofit
+268 association, in its own name, may institute, defend,
+269 intervene, or participate in a judicial, administrative, or
+270 other governmental proceeding or in an arbitration, mediation,
+271 or any other form of alternative dispute resolution.
+272 (b) A decentralized unincorporated nonprofit
+273 association may assert a claim on behalf of its members if all
+274 of the following apply:
+275 (1) One or more members of the nonprofit association
+276 have standing to assert a claim in their own right.
+277 (2) The interests the nonprofit association seeks to
+278 protect are germane to the nonprofit association's purposes.
+279 (3) Neither the claim asserted, nor the relief
+280 requested, requires the participation of a member.
+Page 10
+
+requested, requires the participation of a member.
+SB277 INTRODUCED
+281 §10A-17-2.09
+282 A judgment or order against a decentralized
+283 unincorporated nonprofit association is not by itself a
+284 judgment or order against a member or administrator of the
+285 nonprofit association.
+286 §10A-17-2.10
+287 (a) A decentralized unincorporated nonprofit
+288 association may deliver to the Secretary of State for filing a
+289 statement appointing an agent authorized to receive service of
+290 process.
+291 (b) A statement appointing an agent shall set forth:
+292 (1) The name of the nonprofit association;
+293 (2) The address in Alabama, including the street
+294 address, if any, of the decentralized unincorporated nonprofit
+295 association, or, if the decentralized unincorporated nonprofit
+296 association does not have an address in Alabama, its address
+297 out of state; and
+298 (3) The name of the person in Alabama authorized to
+299 receive service of process and the person's address, including
+300 the street address, in Alabama.
+301 (c) A statement appointing an agent shall be signed and
+302 acknowledged by a person authorized to manage the affairs of
+303 the decentralized unincorporated nonprofit association. The
+304 statement shall also be signed and acknowledged by the person
+305 appointed agent, who thereby accepts appointment.
+306 (d) The appointed agent may resign by delivering to the
+307 Secretary of State for filing a resignation, and by giving
+308 notice to the decentralized unincorporated nonprofit
+Page 11
+
+notice to the decentralized unincorporated nonprofit
+SB277 INTRODUCED
+309 association. The appointment of the agent shall terminate upon
+310 the expiration of 30 days after the Secretary of State has
+311 filed the resignation.
+312 (e) The Secretary of State may collect a fee for filing
+313 a statement appointing an agent to receive service of process,
+314 an amendment, or a resignation in the amount charged for
+315 filing similar documents for nonprofit corporations.
+316 (f) An amendment to a statement appointing an agent to
+317 receive service of process shall meet the requirements for
+318 execution of an original statement.
+319 §10A-17-2.11
+320 In an action or proceeding against a decentralized
+321 unincorporated nonprofit association, a summons and complaint
+322 shall be served on the agent authorized by appointment in
+323 Section 10A-17-2.10 to receive service of process, on a person
+324 authorized to administer the affairs of the nonprofit
+325 association, or in any manner otherwise provided in the
+326 Alabama Rules of Civil Procedure. If, after reasonable efforts
+327 to accomplish service through the methods provided in this
+328 section, service cannot be accomplished, then service may be
+329 made on a member of the nonprofit association.
+330 §10A-17-2.12
+331 A claim for relief against a decentralized
+332 unincorporated nonprofit association shall not abate merely
+333 because of a change in its members or persons authorized to
+334 administer the affairs of the nonprofit association.
+335 §10A-17-2.13
+336 Venue shall be:
+Page 12
+
+Venue shall be:
+SB277 INTRODUCED
+337 (1) As provided in Section 6-3-6; or
+338 (2) The county in which the agent authorized to receive
+339 service of process under Section 10A-17-2.10 resides.
+340 §10A-17-2.14
+341 (a) A decentralized unincorporated nonprofit
+342 association shall have perpetual existence unless its
+343 governing principles otherwise specify.
+344 (b) A decentralized unincorporated nonprofit
+345 association may be dissolved as follows:
+346 (1) If the governing principles of the nonprofit
+347 association provide a time or method for dissolution, by that
+348 method.
+349 (2) If the governing principles of the nonprofit
+350 association do not provide a method for dissolution, by
+351 approval of its members pursuant to Section 10A-17-2.20.
+352 (3) If membership in the decentralized unincorporated
+353 nonprofit association falls below 100 members and the
+354 decentralized unincorporated nonprofit association does not
+355 meet the requirements of Sections 10A-17-2.01 through
+356 10A-17-2.15. In the event membership in the nonprofit
+357 association falls below 100 members and the nonprofit
+358 association meets the requirements of Sections 10A-17-2.01
+359 through 10A-17-2.15, the entity shall automatically transition
+360 to an Alabama unincorporated nonprofit association unless the
+361 governing principles otherwise specify.
+362 (4) By court order.
+363 (c) After dissolution, a decentralized unincorporated
+364 nonprofit association continues in existence until its
+Page 13
+
+nonprofit association continues in existence until its
+SB277 INTRODUCED
+365 activities are wound up and terminated pursuant to Section
+366 10A-17-2.26.
+367 §10A-17-2.15
+368 (a)(1) A person may become a member of a decentralized
+369 unincorporated nonprofit association in accordance with the
+370 governing principles of that decentralized unincorporated
+371 nonprofit association.
+372 (2) If there are no applicable governing principles, a
+373 person shall be considered a member upon the purchase or
+374 assumption of ownership of a membership interest.
+375 (3) A person shall continue as a member absent the
+376 person's suspension, dismissal, or expulsion pursuant to
+377 subsection (b), resignation pursuant to Section 10A-17-2.16,
+378 or the decentralized unincorporated nonprofit association's
+379 dissolution and winding-up pursuant to this article.
+380 (b) Subject to the governing principles of the
+381 decentralized unincorporated nonprofit association, a member
+382 may be suspended, dismissed, or expelled. If there are no
+383 applicable governing principles, a member may be suspended,
+384 dismissed, or expelled by approval of the membership in
+385 accordance with Section 10A-17-2.20.
+386 (c) Unless otherwise provided for in the governing
+387 principles, suspension, dismissal, or expulsion of a member
+388 does not relieve the member of any obligation incurred, or
+389 commitment made by the member, before the suspension,
+390 dismissal, or expulsion.
+391 §10A-17-2.16
+392 (a)(1) A member may resign as a member of a
+Page 14
+
+(a)(1) A member may resign as a member of a
+SB277 INTRODUCED
+393 decentralized unincorporated nonprofit association in
+394 accordance with the governing principles of that decentralized
+395 unincorporated nonprofit association.
+396 (2) If there are no applicable governing principles, a
+397 member shall be deemed to have resigned as a member upon the
+398 disposal, whether voluntary or involuntary, of all membership
+399 interests or other property or instruments that confer upon
+400 the person a voting right within the nonprofit association.
+401 (b) Unless otherwise provided for in the governing
+402 principles, resignation of a member does not relieve the
+403 member of any obligation incurred or commitment made by the
+404 member before the resignation.
+405 §10A-17-2.17
+406 (a) Unless otherwise provided for in the governing
+407 principles, a member shall not have any fiduciary duty to a
+408 decentralized unincorporated nonprofit association or to any
+409 other member of the decentralized unincorporated nonprofit
+410 association merely by reason of being a member.
+411 (b) A member acting on behalf of the decentralized
+412 unincorporated nonprofit association shall discharge his or
+413 her duties in a manner the member reasonably believes to be in
+414 the best interest of the nonprofit association.
+415 §10A-17-2.18
+416 (a) A member is not an agent of a decentralized
+417 unincorporated nonprofit association merely by being a member.
+418 (b) A person's status as a member does not prevent or
+419 restrict laws other than this article from imposing liability
+420 on a decentralized unincorporated nonprofit association
+Page 15
+
+on a decentralized unincorporated nonprofit association
+SB277 INTRODUCED
+421 because of a member's conduct.
+422 §10A-17-2.19
+423 Except as otherwise provided in the decentralized
+424 unincorporated nonprofit association's governing principles, a
+425 member's interest or any right granted pursuant to the
+426 governing principles is freely transferable to another person
+427 through conveyance of the membership interest.
+428 §10A-17-2.20
+429 (a) Except as otherwise provided in the governing
+430 principles, a decentralized unincorporated nonprofit
+431 association shall have the approval of a majority of the
+432 membership interests participating in a vote to do any of the
+433 following:
+434 (1) Suspend, dismiss, or expel a member.
+435 (2) Select or dismiss an administrator.
+436 (3) Adopt, amend, or repeal the governing principles.
+437 (4) Sell, lease, exchange, or otherwise dispose of the
+438 property of the decentralized unincorporated nonprofit
+439 association.
+440 (5) Dissolve the decentralized unincorporated nonprofit
+441 association under Section 10A-17-2.14.
+442 (6) Undertake any other act outside of the ordinary
+443 course of the decentralized unincorporated nonprofit
+444 association's activities.
+445 (7) Determine the policy and purpose of the
+446 decentralized unincorporated nonprofit association.
+447 (b) In order to perform any act or exercise any right
+448 that the governing principles require to be approved by the
+Page 16
+
+that the governing principles require to be approved by the
+SB277 INTRODUCED
+449 membership, a decentralized unincorporated nonprofit
+450 association must have the approval of the membership to act in
+451 accordance with its governing principles.
+452 (c) Unless otherwise provided for in the governing
+453 principles, membership interest in a decentralized
+454 unincorporated nonprofit association shall be calculated in
+455 proportion to a member's voting rights within the nonprofit
+456 association.
+457 §10A-17-2.21
+458 (a) A decentralized unincorporated nonprofit
+459 association may provide for its governance, in whole or in
+460 part, through distributed ledger technology including, but not
+461 limited to, smart contracts.
+462 (b) The governing principles for a decentralized
+463 unincorporated nonprofit association may include, but not be
+464 limited to, the following provisions:
+465 (1) Specify whether any distributed ledger technology
+466 used or enabled by the decentralized unincorporated nonprofit
+467 association will be fully immutable or subject to change by
+468 the decentralized unincorporated nonprofit association and
+469 whether any distributed ledger will be fully or partially
+470 public or private, including the extent of a member's access
+471 to information.
+472 (2) Adopt voting procedures, which may include smart
+473 contracts deployed to distributed ledger technology and which
+474 may provide for all of the following:
+475 a. Proposals from members or administrators in the
+476 decentralized unincorporated nonprofit association for
+Page 17
+
+decentralized unincorporated nonprofit association for
+SB277 INTRODUCED
+477 upgrades, modifications, or additions to software systems or
+478 protocols.
+479 b. Other proposed changes to the decentralized
+480 unincorporated nonprofit association's governing principles.
+481 c. Any other matters of governance or activities within
+482 the purpose of the decentralized unincorporated nonprofit
+483 association.
+484 §10A-17-2.22
+485 In accordance with its governing principles, a
+486 decentralized unincorporated nonprofit association may do both
+487 of the following:
+488 (1) Adopt any reasonable algorithmic means for
+489 establishing consensus for the validation of records, as well
+490 as for establishing requirements, processes, and procedures
+491 for conducting operations or making organizational decisions
+492 with respect to the distributed ledger technology used by the
+493 nonprofit association.
+494 (2) In accordance with any procedure specified pursuant
+495 to Section 10A-17-2.21, modify the consensus mechanism, as
+496 well as the requirements, processes, and procedures or
+497 substitute a new consensus mechanism, requirements, processes,
+498 or procedures that comply with this state's law and the
+499 governing principles of the nonprofit association.
+500 §10A-17-2.23
+501 (a) Unless otherwise provided for in the decentralized
+502 unincorporated nonprofit association's governing principles,
+503 the members of the nonprofit association may select the
+504 nonprofit association's administrators in accordance with
+Page 18
+
+nonprofit association's administrators in accordance with
+SB277 INTRODUCED
+505 Section 10A-17-2.20.
+506 (b) If no administrators are selected, none of the
+507 members may be considered administrators for the decentralized
+508 unincorporated nonprofit association.
+509 (c) No decentralized unincorporated nonprofit
+510 association shall be required to have an administrator, and
+511 the rights and duties of all administrators shall be
+512 established as part of the authorization of authority to act
+513 as an administrator.
+514 (d) If in a record, the governing principles of a
+515 decentralized unincorporated nonprofit association may limit
+516 or eliminate the liability of an administrator to the
+517 decentralized unincorporated nonprofit association or its
+518 members for money damages for any action taken, or failure to
+519 take any action, as an administrator except liability for any
+520 of the following:
+521 (1) The amount of financial benefit improperly received
+522 by an administrator.
+523 (2) An intentional infliction of harm on the nonprofit
+524 association or its members.
+525 (3) An intentional violation of criminal law.
+526 (4) Breach of the duty of loyalty should one exist,
+527 unless, following full disclosure of all material facts to the
+528 nonprofit association members, the specific act or transaction
+529 that would otherwise breach the duty of loyalty is authorized
+530 or ratified by approval of the disinterested members pursuant
+531 to Section 10A-17-2.20.
+532 (5) Improper distributions.
+Page 19
+
+(5) Improper distributions.
+SB277 INTRODUCED
+533 §10A-17-2.24
+534 (a) Except as provided by subsection (b), on reasonable
+535 notice, a member or administrator of a decentralized
+536 unincorporated nonprofit association is entitled to an
+537 electronic record of any record maintained by the nonprofit
+538 association regarding the nonprofit association's activities,
+539 financial condition, and other circumstances, to the extent
+540 the information is material to the member's or administrator's
+541 rights and duties under the decentralized unincorporated
+542 nonprofit association's governing principles or this article.
+543 (b) A decentralized unincorporated nonprofit
+544 association is not obligated to provide records requested from
+545 a member or administrator if access to the information is
+546 contained in a record available to the member or administrator
+547 in a medium available to the member, including distributed
+548 ledger technology.
+549 (c)(1) A decentralized unincorporated nonprofit
+550 association may impose reasonable restrictions on access to
+551 and use of information that may be provided under this
+552 section, including by designating the information confidential
+553 and imposing nondisclosure or other safeguarding obligations
+554 on the recipient of the information.
+555 (2) In a dispute concerning the reasonableness of a
+556 restriction under this subsection, the decentralized
+557 unincorporated nonprofit association shall have the burden of
+558 proving reasonableness.
+559 (d) A former member or administrator may have access to
+560 information to which the former member or administrator was
+Page 20
+
+information to which the former member or administrator was
+SB277 INTRODUCED
+561 entitled to as a member or administrator if all of the
+562 following apply:
+563 (1) The information relates to the period of time
+564 during which the former member or administrator was a member
+565 or administrator.
+566 (2) The former member or administrator seeks the
+567 information in good faith.
+568 (3) The former member or administrator satisfies the
+569 requirements of subsections (a) through (c) with respect to
+570 the information.
+571 (e) A decentralized unincorporated nonprofit
+572 association shall not be obligated to collect and maintain a
+573 list of members or information on an individual member,
+574 including the names or addresses of members.
+575 §10A-17-2.25
+576 (a) Unless otherwise provided in its governing
+577 principles, a decentralized unincorporated nonprofit
+578 association may reimburse a member or administrator for
+579 authorized expenses reasonably incurred on behalf of the
+580 nonprofit association.
+581 (b) A decentralized unincorporated nonprofit
+582 association may indemnify a member or administrator for any
+583 debt, obligation, or other liability incurred in the course of
+584 the member or administrator's activities on behalf of the
+585 nonprofit association. To be eligible for indemnification, an
+586 administrator must have complied with the duties stated in
+587 Section 10A-17-2.23. If in a record, a nonprofit association's
+588 governing principles may broaden or limit this right of
+Page 21
+
+governing principles may broaden or limit this right of
+SB277 INTRODUCED
+589 indemnification.
+590 (c) If a person is made or threatened to be made a
+591 party in a proceeding based on that person's conduct in the
+592 affairs of a decentralized unincorporated nonprofit
+593 association, that person is entitled, upon written request to
+594 the decentralized unincorporated nonprofit association,
+595 including through distributed ledger technology, to receive
+596 payment of or reimbursement by the nonprofit association, of
+597 reasonable expenses, including attorney fees and
+598 disbursements, incurred by that person in advance of the final
+599 disposition of the proceeding. To be entitled to these
+600 payments or advances, the person making the request shall make
+601 a written affirmation that the person has a good faith belief
+602 that the criteria for indemnification in subsection (b) has
+603 been satisfied and that the person will repay the amounts paid
+604 or reimbursed if it is determined that the criteria for
+605 reimbursement has not been satisfied. No payment or
+606 reimbursement under this subsection shall be made without
+607 prior approval, in a record, of the disinterested members
+608 under Section 10A-17-2.20.
+609 (d) A decentralized unincorporated nonprofit
+610 association may purchase and maintain insurance on behalf of a
+611 member or administrator for liability asserted against or
+612 incurred by the member or administrator in that capacity, even
+613 if the decentralized unincorporated nonprofit association
+614 would not have the power to indemnify or advance expenses to
+615 the member or administrator against the same liability under
+616 this section.
+Page 22
+
+this section.
+SB277 INTRODUCED
+617 (e) These rights of reimbursement, indemnification, and
+618 advancement of expense apply to former members or
+619 administrators for activities undertaken on behalf of the
+620 decentralized unincorporated nonprofit association while they
+621 were members or administrators.
+622 §10A-17-2.26
+623 (a) A dissolved decentralized unincorporated nonprofit
+624 association shall wind up its operations and may continue
+625 after dissolution only for the purpose of winding up.
+626 (b) In winding up a decentralized unincorporated
+627 nonprofit association, the members shall discharge the
+628 decentralized unincorporated nonprofit association's debts,
+629 obligations, and other liabilities, settle and close the
+630 decentralized unincorporated nonprofit association's business,
+631 and distribute any remaining property as follows:
+632 (1) To another entity or person with similar nonprofit
+633 purposes, if required by law other than this article.
+634 (2) In accordance with the decentralized unincorporated
+635 nonprofit association's governing principles. In the absence
+636 of applicable governing principles, to the current members of
+637 the decentralized unincorporated nonprofit association in
+638 proportion to their membership interests.
+639 (3) If neither subdivision (1) or (2) applies, in
+640 accordance with the law of unclaimed property contained in
+641 Article 2A, Chapter 12 of Title 35, Code of Alabama 1975.
+642 (c) In winding up a decentralized unincorporated
+643 nonprofit association, the members may do all of the
+644 following:
+Page 23
+
+following:
+SB277 INTRODUCED
+645 (1) Authorize an administrator to wind up the
+646 decentralized unincorporated nonprofit association in
+647 accordance with Section 10A-17-2.14. Any authorized
+648 administrator shall owe the nonprofit association a duty of
+649 care in the conduct or winding up of the decentralized
+650 unincorporated nonprofit association to refrain from grossly
+651 negligent or reckless conduct, willful or intentional
+652 misconduct, or a knowing violation of the law.
+653 (2) Preserve the decentralized unincorporated nonprofit
+654 association's operations and property as a going concern for a
+655 reasonable time.
+656 (3) Prosecute and defend actions and proceedings,
+657 whether civil, criminal, or administrative.
+658 (4) Transfer the decentralized unincorporated nonprofit
+659 association's property.
+660 (5) Settle disputes by mediation or arbitration.
+661 (6) Perform other acts necessary or appropriate to the
+662 winding up.
+663 (d) If the members of a decentralized unincorporated
+664 nonprofit association do not appoint an administrator or
+665 administrators to wind up the decentralized unincorporated
+666 nonprofit association, the members shall owe the decentralized
+667 unincorporated nonprofit association a duty of care in the
+668 conduct or winding up of the decentralized unincorporated
+669 nonprofit association's operations to refrain from engaging in
+670 grossly negligent or reckless conduct, willful or intentional
+671 misconduct, or a knowing violation of the law.
+672 §10A-17-2.27
+Page 24
+
+§10A-17-2.27
+SB277 INTRODUCED
+673 A decentralized unincorporated nonprofit association
+674 may effect a merger or conversion by complying with the
+675 applicable provisions of Chapter 1 and its governing
+676 principles.
+677 §10A-17-2.28
+678 Principles of law and equity supplement this chapter
+679 unless displaced by a specific provision of this chapter.
+680 Section 3. This act shall become effective on October
+681 1, 2026.
+Page 25

@@ -1,0 +1,191 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB162 INTRODUCED
+1 HB162
+2 AR8TEQ7-1
+3 By Representative Stubbs
+4 RFD: State Government
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+AR8TEQ7-1 01/08/2026 ZAK (L)ZAK 2025-3673
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would prohibit an agency from adopting
+6 a new rule, or amending an existing rule, that
+7 establishes standards for certain environmental
+8 protection subjects that are more stringent than
+9 federal law or regulations.
+10 This bill would also require that in the absence
+11 of federal law or regulations, agencies may not adopt a
+12 new rule, or amend an existing rule, that establishes
+13 standards for certain environmental protection subjects
+14 unless the rule is based on the best available science
+15 and the weight of scientific evidence.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to administrative law; to prohibit agencies
+23 from adopting a new rule, or amending an existing rule, that
+24 establishes standards for certain environmental protection
+25 subjects that are more stringent than the federal
+26 requirements; and to prohibit an agency from adopting a new
+27 rule, or amending an existing rule, in the absence of federal
+28 requirements, unless the rule is based on the best available
+Page 1
+
+requirements, unless the rule is based on the best available
+HB162 INTRODUCED
+29 science and the weight of scientific evidence.
+30 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+31 Section 1. (a) For purposes of this section, the
+32 following terms have the following meanings:
+33 (1) AGENCY. The term as defined in Section 41-22-3,
+34 Code of Alabama 1975.
+35 (2) BEST AVAILABLE SCIENCE. Science that:
+36 a. Is reliable, unbiased, subject to independent
+37 verification, and applies to the agency's rule;
+38 b. Maximizes the quality, objectivity, relevance,
+39 completeness, and integrity of information, including
+40 statistical information; human, animal, and other relevant
+41 scientific studies; and, if applicable, human health
+42 risk-based assessments; and
+43 c. Involves the use of scientifically defensible and
+44 quality-assured supporting studies conducted in accordance
+45 with generally accepted scientific or technical practices
+46 utilizing data collected by generally accepted methods or best
+47 available methods and that are:
+48 1. Site-specific studies, including area-wide or
+49 statewide studies;
+50 2. Studies published in a refereed journal; or
+51 3. External peer-reviewed studies contained in a
+52 federal government report published for a purpose other than
+53 development of a rule.
+54 (3) GENERALLY ACCEPTED SCIENTIFIC OR TECHNICAL
+55 PRACTICES. Scientific methods, principles, or protocols that:
+56 a. Are broadly acknowledged and routinely applied by
+Page 2
+
+a. Are broadly acknowledged and routinely applied by
+HB162 INTRODUCED
+57 the relevant scientific community;
+58 b. Are consistent with refereed journal literature or
+59 established technical standards; and
+60 c. Have been tested for reliability and validity.
+61 (4) MANIFEST BODILY HARM. A physical disease or injury
+62 that is:
+63 a. Presently existing and diagnosable;
+64 b. Not based solely on the presence or detection of a
+65 substance in the human body; and
+66 c. Not based solely on an increased risk of disease.
+67 (5) REFEREED JOURNAL. A publication that:
+68 a. Uses an editorial board or critical review panel of
+69 subject matter experts in the relevant scientific or technical
+70 disciplines who critically and objectively assess the
+71 methodology and analysis of submitted scientific studies in a
+72 nonpartisan fashion and provides editorial services prior to
+73 publication; and
+74 b. Takes meaningful steps to avoid biases in the
+75 publication's scientific review process.
+76 (6) WEIGHT OF SCIENTIFIC EVIDENCE. An approach to
+77 scientific evaluation in which each piece of relevant
+78 information is considered based on its quality and relevance,
+79 which, at a minimum, includes consideration of study design,
+80 fitness for purpose, replicability, peer review, and
+81 transparency and reliability of data; and the information is
+82 transparently integrated with other relevant information to
+83 inform the scientific evaluation prior to making a judgment
+84 about the scientific evaluation.
+Page 3
+
+about the scientific evaluation.
+HB162 INTRODUCED
+85 (b) An agency may not adopt a new rule or amend an
+86 existing rule that establishes new or changes existing numeric
+87 criteria or numeric limitations applicable to a chemical
+88 substance, mixture, contaminant, pollutant, hazardous
+89 substance, solid waste, hazardous constituent, or hazardous
+90 waste that relates to drinking water, water pollution control,
+91 hazardous substances, contaminated site remediation, air
+92 quality, solid waste handling, or hazardous waste handling if
+93 the new rule or amendment would result in criteria or
+94 limitations that are more stringent or extensive in scope,
+95 coverage, or effect than any federal law or regulation setting
+96 a standard regarding the same or a substantially similar
+97 topic.
+98 (c) Notwithstanding subsection (b), if there is no
+99 federal law or regulation establishing a standard regarding
+100 the same or a substantially similar topic, an agency may not
+101 adopt a new rule or amend an existing rule that establishes
+102 numeric criteria or numeric limitations applicable to a
+103 chemical substance, mixture, contaminant, pollutant, hazardous
+104 substance, solid waste, hazardous constituent, or hazardous
+105 waste that relates to drinking water, water pollution control,
+106 hazardous substances, contaminated site remediation, air
+107 quality, solid waste handling, or hazardous waste handling
+108 unless, for each individual chemical substance, mixture,
+109 contaminant, pollutant, hazardous substance, solid waste,
+110 hazardous constituent, or hazardous waste to which the rule
+111 applies, the scientific and technical information relied on to
+112 support the standard established by the rule is based on the
+Page 4
+
+support the standard established by the rule is based on the
+HB162 INTRODUCED
+113 best available science and the weight of scientific evidence.
+114 (d)(1) For any rule adopted pursuant to subsection (c)
+115 to protect human health, safety, or welfare, the best
+116 available science and the weight of scientific evidence shall
+117 establish a direct causal link between exposure at or above
+118 the numeric criteria or numeric limitations provided by the
+119 rule and manifest bodily harm in humans, based on generally
+120 accepted scientific or technical practices.
+121 (2) In the absence of data from voluntary scientific
+122 studies on humans, best available science and the weight of
+123 scientific evidence may be based on tests performed on
+124 experimental animal species or human and animal cells
+125 establishing a direct causal link, based on generally accepted
+126 scientific or technical practices, between exposure at or
+127 above the numeric criteria or numeric limitations provided by
+128 the rule and manifest bodily harm in humans, provided that the
+129 harm may be extrapolated to humans based on the best available
+130 science and the weight of scientific evidence.
+131 (e) No agency shall be required to use values from the
+132 United States Environmental Protection Agency's Integrated
+133 Risk Information System in the development of numeric water
+134 quality criteria.
+135 (f) This section does not apply to any of the
+136 following:
+137 (1) A rule that is required by federal law or
+138 regulation, including a rule adopted to comply with, and in
+139 furtherance of, federal agency authorization or primacy
+140 requirements.
+Page 5
+
+requirements.
+HB162 INTRODUCED
+141 (2) A rule that is less stringent or extensive in
+142 scope, coverage, or effect than any federal law or regulation
+143 setting a standard regarding the same or a substantially
+144 similar topic or that is substantively equivalent to a federal
+145 law or regulation.
+146 (3) A rule that would repeal or modify an existing rule
+147 to be less stringent or extensive in scope, coverage, or
+148 effect.
+149 (4) An emergency rule adopted pursuant to Section
+150 41-22-5, Code of Alabama 1975.
+151 Section 2. This act shall become effective on October
+152 1, 2026.
+Page 6

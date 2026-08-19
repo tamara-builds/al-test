@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Jones motion to Adopt - Adopted Roll Call 1314",
+    "occurred_at": "2026-04-09T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB399"
+}

@@ -1,0 +1,206 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB126 INTRODUCED
+1 HB126
+2 6YC6JZ3-1
+3 By Representatives Brown, Oliver, Moore (P), Reynolds, DuBose,
+4 Rehm, Estes, Barnes, Sells, Standridge, Marques, Mooney,
+5 Yarbrough
+6 RFD: Judiciary
+7 First Read: 13-Jan-26
+8 PFD: 07-Jan-26
+Page 0
+
+PFD: 07-Jan-26
+6YC6JZ3-1 12/29/2025 CMH (L)CMH 2025-3315
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, when a defendant is charged
+6 with an enumerated offense under Aniah's Law, the
+7 defendant is not eligible for bail until he or she
+8 receives a pretrial detention hearing where the court
+9 will determine whether to grant the defendant bail. If
+10 the prosecuting authority does not request the
+11 defendant be denied bail, the court may waive the
+12 hearing and grant the defendant bail.
+13 This bill would provide that if the defendant is
+14 charged with either a Class A felony that resulted in
+15 the death of any individual or attempted murder, the
+16 prosecuting authority is required to request that the
+17 defendant be denied bail and the court may not waive
+18 the pretrial detention hearing.
+19 This bill would also make nonsubstantive,
+20 technical revisions to update the existing code
+21 language to current style.
+22
+23
+24
+25 A BILL
+26 TO BE ENTITLED
+27 AN ACT
+28
+Page 1
+
+HB126 INTRODUCED
+29 Relating to bail; to amend Section 15-13-3, Code of
+30 Alabama 1975, to require a pretrial detention hearing without
+31 exception if the defendant is charged with committing certain
+32 offenses, including any Class A felony resulting in death and
+33 attempted murder; and to make nonsubstantive, technical
+34 revisions to update the existing code language to current
+35 style.
+36 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+37 Section 1. Section 15-13-3, Code of Alabama 1975, is
+38 amended to read as follows:
+39 "§15-13-3
+40 (a) A defendant is not eligible for bail when he or she
+41 is charged with capital murder pursuant to Section 13A-5-40,
+42 if the court is of the opinion, on the evidence adduced, that
+43 he or she is guilty of the offense.
+44 (b)(1) The court, after After a pretrial detention
+45 hearing as provided in this subsection (d) for an offense
+46 enumerated in this subsection and, after the presentment of an
+47 indictment or a showing of probable cause in the charged
+48 offense, and if the court may deny a defendant bail if both of
+49 the following apply:
+50 (1) The prosecuting attorney proves by clear and
+51 convincing evidence that no condition or combination of
+52 conditions of release will reasonably ensure the defendant's
+53 appearance in court or protect the safety of the community or
+54 any person, may deny a defendant's bail, if he or she.
+55 (2) The defendant is charged with any of the following
+56 offenses:
+Page 2
+
+offenses:
+HB126 INTRODUCED
+57 a. Murder, as provided in Section 13A-6-2.
+58 b. Kidnapping in the first degree, as provided in
+59 Section 13A-6-43.
+60 c. Rape in the first degree, as provided in Section
+61 13A-6-61.
+62 d. Sodomy in the first degree, as provided in Section
+63 13A-6-63.
+64 e. Sexual torture, as provided in Section 13A-6-65.1.
+65 f. Domestic violence in the first degree, as provided
+66 in Section 13A-6-130.
+67 g. Human trafficking in the first degree, as provided
+68 in Section 13A-6-152.
+69 h. Burglary in the first degree, as provided in Section
+70 13A-7-5.
+71 i. Arson in the first degree, as provided in Section
+72 13A-7-41.
+73 j. Robbery in the first degree, as provided in Section
+74 13A-8-41.
+75 k. Terrorism, as provided in subdivision (b)(2) of
+76 Section 13A-10-152.
+77 l. Aggravated child abuse, as provided in subsection
+78 (b) of Section 26-15-3.1.
+79 (2)(c) A court shall order that a defendant charged
+80 with an offense listed in this subsection (b) be held without
+81 bail prior to a pretrial detention hearing.
+82 (3)(d)(1) The court shall hold a pretrial detention
+83 hearing immediately upon the defendant's first appearance
+84 before the court, unless the prosecuting attorney or the
+Page 3
+
+before the court, unless the prosecuting attorney or the
+HB126 INTRODUCED
+85 defendant requests a continuance. Except for good cause, a
+86 continuance on a motion of the defendant may not exceed five
+87 days, excluding Saturdays, Sundays, and state holidays, and a
+88 continuance on motion by the prosecuting attorney may not
+89 exceed three days, excluding Saturdays, Sundays, and state
+90 holidays. The defendant shall be detained during any
+91 continuance.
+92 (2) Notwithstanding any other provision of law to the
+93 contrary, the prosecuting attorney shall without exception
+94 request that the defendant be denied bail, and the court may
+95 not waive the pretrial detention hearing, under either of the
+96 following circumstances:
+97 a. The defendant is charged with the commission of a
+98 Class A felony resulting in the death of any individual.
+99 b. Contingent upon the ratification of the
+100 constitutional amendment proposed by Act 2025-227, the
+101 defendant is charged with attempted murder.
+102 (4)a.(e)(1) A defendant shall have all of the following
+103 rights at a pretrial detention hearing:
+104 1.a. To be represented by counsel. If the defendant is
+105 financially unable to obtain counsel, he or she shall have
+106 counsel appointed.
+107 2.b. To testify.
+108 3.c. To present witnesses.
+109 4.d. To present evidence.
+110 5.e. To cross-examine witnesses.
+111 b.(2) The judge shall have discretion as to who the
+112 defendant may call as a witness as provided in this
+Page 4
+
+defendant may call as a witness as provided in this
+HB126 INTRODUCED
+113 subdivision at the pretrial detention hearing.
+114 (5)(f) In considering whether there are any conditions
+115 or combination of conditions that would reasonably ensure the
+116 defendant's appearance in court or protect the safety of the
+117 community and of any person, the court shall consider all of
+118 the following factors:
+119 a.(1) The nature and circumstances of the offenses
+120 charged.
+121 b.(2) The weight of the evidence against the defendant.
+122 c.(3) The history and characteristics of the defendant,
+123 including, but not limited to the defendant's character,
+124 physical and mental condition, family ties, employment,
+125 financial resources, length of residence in the community,
+126 community ties, past conduct, history relating to drug or
+127 alcohol abuse, criminal history, and record concerning
+128 appearance at court proceedings, and whether, at the time of
+129 the current offense, the defendant was on probation, parole,
+130 or on other release pending trial, sentencing, appeal, or
+131 completion of sentence for an offense.
+132 d.(4) The nature and seriousness of the danger to any
+133 person or the community if the defendant is released.
+134 (6)(g) At any pretrial detention hearing, the rules
+135 governing admissibility of evidence in criminal trials shall
+136 not apply, and the court shall receive all relevant evidence.
+137 All evidence shall be recorded. The testimony of a defendant
+138 may not be admissible in any other criminal proceeding against
+139 the defendant, except if being used for perjury based on the
+140 testimony or for the purpose of impeachment in any subsequent
+Page 5
+
+testimony or for the purpose of impeachment in any subsequent
+HB126 INTRODUCED
+141 proceeding.
+142 (7)a.(h)(1) A prosecuting attorney may file a motion
+143 for a pretrial detention hearing at any time.
+144 b.(2) A pretrial detention hearing may be reopened,
+145 before or after a determination by the court, at any time
+146 prior to trial if the court finds that information exists that
+147 was not known by the movant at the time of the pretrial
+148 detention hearing.
+149 (8)(i) In an order denying bail, the judge shall make
+150 written findings or state for the record findings of fact and
+151 a statement of the reasons for denying bail. The judge shall
+152 enter an order denying bail within 48 hours of the hearing."
+153 Section 2. If Section 4 of Act 2025-273, which amends
+154 Section 15-13-3, Code of Alabama 1975, becomes effective
+155 pursuant to the ratification of the constitutional amendment
+156 proposed by Act 2025-227, the Code Commissioner shall give
+157 effect to both this act and Section 4 of Act 2025-273 to the
+158 extent that the language is not in substantive conflict and in
+159 a manner that will make the code section intelligible.
+160 Section 3. If the constitutional amendment proposed by
+161 Act 2025-227 is not ratified, the Code Commissioner shall omit
+162 paragraph (d)(2)b. of Section 15-13-3, Code of Alabama 1975,
+163 as added by this act.
+164 Section 4. This act shall become effective on June 1,
+165 2026.
+Page 6

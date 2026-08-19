@@ -1,0 +1,153 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB518 INTRODUCED
+1 HB518
+2 SLAYP77-1
+3 By Representative Brinyark
+4 RFD: Judiciary
+5 First Read: 26-Feb-26
+Page 0
+
+First Read: 26-Feb-26
+SLAYP77-1 02/26/2026 GED (L)ma 2026-1106
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, law enforcement officers may
+6 issue citations for certain violations, traffic
+7 offenses, and misdemeanors in lieu of performing a
+8 custodial arrest.
+9 This bill would authorize a warrant for such a
+10 violation to be sworn and issued by a judge or
+11 magistrate remotely, digitally, via video link, or by
+12 telephone and would specify that the physical presence
+13 of the affiant before the judge or magistrate is not
+14 required.
+15 This bill would allow law enforcement officers
+16 to swear to the citations they issue for certain
+17 violations, traffic offenses, and misdemeanors in the
+18 presence of a judge or magistrate remotely, digitally,
+19 via video link, or by telephone.
+20 This bill would also authorize law enforcement
+21 officers to act as a magistrate in the limited scope of
+22 administering oaths to other law enforcement officers
+23 to swear to the facts contained in a citation.
+24
+25
+26 A BILL
+27 TO BE ENTITLED
+28 AN ACT
+Page 1
+
+AN ACT
+HB518 INTRODUCED
+29
+30 Relating to criminal procedure; to authorize the use of
+31 certain digital, electronic, or telephonic means to obtain a
+32 warrant for certain violations subject to citation in lieu of
+33 arrest procedures; to authorize the use of certain digital,
+34 electronic, or telephonic means to swear to the facts
+35 contained in citations issued for certain violations; to
+36 provide that the physical presence of the affiant in such
+37 circumstances is not required; and to authorize law
+38 enforcement officers to administer oaths to other law
+39 enforcement officers in certain circumstances.
+40 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+41 Section 1. (a) For purposes of this section, the
+42 following terms have the following meanings:
+43 (1) LAW ENFORCEMENT OFFICER. A police officer, deputy
+44 sherrif, deputy constable, or other official who has the
+45 authority to make arrests; is employed by the state, county,
+46 or municipality; and is certified by the Alabama Peace
+47 Officers' Standards and Training Commission. The term includes
+48 enforcement officers of the Alabama State Law Enforcement
+49 Agency, the Department of Corrections, and the Board of
+50 Pardons and Paroles.
+51 (2) RELIABLE ELECTRONIC MEANS. Means compliant with
+52 criminal justice information system measures by which a
+53 document may be signed and transmitted.
+54 (3) UNIFORM NONTRAFFIC CITATION AND COMPLAINT. The
+55 complaint and summons issued in lieu of arrest for any
+56 nontraffic offense enumerated in Rule 20, Appendix B of the
+Page 2
+
+nontraffic offense enumerated in Rule 20, Appendix B of the
+HB518 INTRODUCED
+57 Alabama Rules of Judicial Administration, as adopted by the
+58 Supreme Court of Alabama, or an electronic version of the
+59 citation containing substantially the same information found
+60 on the citation.
+61 (4) UNIFORM TRAFFIC TICKET AND COMPLAINT. The complaint
+62 and summons used in all non-felony traffic cases filed in all
+63 courts of the state or an electronic version of the ticket
+64 containing substantially the same information found on the
+65 ticket.
+66 (b)(1) Warrants for any of the following offenses may
+67 be sworn and issued by a judge or magistrate remotely,
+68 digitally, via video link, or by telephone:
+69 a. Misdemeanor violations.
+70 b. Traffic violations.
+71 c. Municipal ordinance violations.
+72 (2) The physical presence of the affiant before the
+73 judge or magistrate is not required. Other methods of
+74 technology not specifically described in subdivision (1) may
+75 be used to facilitate the oath and issuance of a criminal
+76 warrant pursuant to this subsection upon approval of the
+77 technology by the Director of the Administrators of the
+78 Courts.
+79 (c)(1) Upon the issuance of a Uniform Traffic Ticket
+80 and Complaint, a law enforcement officer may swear to the
+81 facts contained in the Uniform Traffic Ticket and Complaint
+82 before any person within the judicial branch of government who
+83 is authorized by the state to administer oaths. Both the law
+84 enforcement officer and the person administering the oath may
+Page 3
+
+enforcement officer and the person administering the oath may
+HB518 INTRODUCED
+85 complete this swearing through remote or digital means, via
+86 video link, by telephone, or through any other technology that
+87 has been approved by the Director of the Administrators of the
+88 Courts.
+89 (2) Upon the issuance of a Uniform Nontraffic Citation
+90 and Complaint, a law enforcement officer may swear to the
+91 facts contained in the Uniform Nontraffic Citation and
+92 Complaint before any person within the judicial branch of
+93 government who is authorized by the state to administer oaths.
+94 Both the law enforcement officer and the person administering
+95 the oath may complete this swearing through remote or digital
+96 means, via video link, by telephone, or through any other
+97 technology that has been approved by the Director of the
+98 Administrators of the Courts.
+99 (d)(1) A law enforcement officer, when engaged in the
+100 performance of his or her official duties, may administer
+101 oaths to other law enforcement officers to swear to the facts
+102 contained in a complaint for a misdemeanor offense, a Uniform
+103 Traffic Ticket and Complaint, or a Uniform Nontraffic Citation
+104 and Complaint through the following means:
+105 a. Reliable electronic means.
+106 b. In the physical presence of an affiant.
+107 (2) Upon the issuance of a complaint for a misdemeanor
+108 offense, a Uniform Traffic Ticket and Complaint, or a Uniform
+109 Nontraffic Citation and Complaint, a law enforcement officer
+110 may swear to the facts contained in the complaint for a
+111 misdemeanor, the Uniform Traffic Ticket and Complaint, or the
+112 Uniform Nontraffic Citation and Complaint before any law
+Page 4
+
+Uniform Nontraffic Citation and Complaint before any law
+HB518 INTRODUCED
+113 enforcement officer who is authorized to administer oaths
+114 pursuant to subdivision (1).
+115 (3) A law enforcement officer may not notarize his or
+116 her own signature.
+117 Section 2. This act shall become effective on October
+118 1, 2026.
+Page 5

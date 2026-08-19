@@ -1,0 +1,393 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB219 ENROLLED
+1 SB219
+2 TBXHI99-2
+3 By Senator Kitchens
+4 RFD: Banking and Insurance
+5 First Read: 29-Jan-26
+Page 0
+
+First Read: 29-Jan-26
+SB219 Enrolled
+1 Enrolled, An Act,
+2
+3
+4 Relating to insurance; to amend Section 8-32-3, Code of
+5 Alabama 1975; to require all service contract provider
+6 registration fees to be paid into the State Treasury to the
+7 credit of the Special Examination Revolving Fund in lieu of
+8 the Service Contract Revolving Fund; to clarify any service
+9 contract provider registration fee adjustment is in accordance
+10 with changes in the Consumer Price Index under existing law;
+11 to require any unencumbered and unexpended balance remaining
+12 in the Service Contract Revolving Fund to be transferred to
+13 the credit of the Special Examination Revolving Fund; and to
+14 amend Sections 8-32-1 and 8-32-5, Code of Alabama 1975, to
+15 make conforming changes.
+16 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+17 Section 1. Section 8-32-3, Code of Alabama 1975, is
+18 amended to read as follows:
+19 "§8-32-3
+20 (a) Either the provider or its designee shall:
+21 (1) Provide a receipt for, or other written evidence
+22 of, the purchase of the service contract to the contract
+23 holder.
+24 (2) Provide a copy of the service contract to the
+25 service contract holder within a reasonable period of time
+26 from the date of purchase.
+27 (b) A provider may, but is not required to, appoint an
+28 administrator or other designee to be responsible for any or
+Page 1
+
+administrator or other designee to be responsible for any or
+SB219 Enrolled
+29 all of the administration of service contracts and compliance
+30 with this chapter.
+31 (c) Each provider of service contracts sold in this
+32 state shall file a registration with the commissioner on a
+33 form prescribed by the commissioner. Each provider shall pay
+34 to the commissioner a fee in the amount of two hundred dollars
+35 ($200) annually, or as otherwise adjusted pursuant to Section
+36 41-1-11. All fees collected shall be paid into a special
+37 revolving fund to be set up by the State Treasurer referred to
+38 as the "Service Contract deposited into the State Treasury to
+39 the credit of the Special Examination Revolving Fund." The
+40 Service Contract Revolving Fund shall be used in the
+41 supervision and examination of providers and otherwise in the
+42 administration of this chapter; provided however, that nothing
+43 in this section shall be construed to mean that all of the
+44 expenses of supervision and examination of providers and in
+45 the administration of this chapter incurred by the State
+46 Insurance Department shall come from the Service Contract
+47 Revolving Fund.
+48 (d) All funds now or hereafter deposited in the State
+49 Treasury to the credit of the Service Contract Revolving Fund
+50 shall not be expended for any purpose whatsoever unless the
+51 same shall have been allotted and budgeted in accordance with
+52 the provisions of Sections 41-4-80 to 41-4-96, inclusive, and
+53 41-19-1 to 41-19-12, inclusive, and only in the amounts and
+54 for the purposes provided by the Legislature in the general
+55 appropriation bill, other appropriations bills or this
+56 chapter.
+Page 2
+
+chapter.
+SB219 Enrolled
+57 (e) There is hereby appropriated for the fiscal year
+58 ending September 30, 1998, from the Service Contract Revolving
+59 Fund to the State Department of Insurance those amounts as
+60 deemed necessary to carry out the provisions of this chapter
+61 as determined by the Commissioner of Insurance.
+62 (f)(d) In order to assure the faithful performance of a
+63 provider's obligations to its service contract holders, each
+64 provider shall be responsible for complying with the
+65 requirements of one of the following subdivisions:
+66 (1) Insure all service contracts under a reimbursement
+67 insurance policy issued by an insurer authorized to transact
+68 insurance in this state or issued pursuant to Chapter 10,
+69 Title 27.
+70 (2) Do both of the following:
+71 a. Maintain a funded reserve account for its
+72 obligations under its service contracts sold and outstanding
+73 in this state. The reserves shall be based on the loss
+74 experience of the provider as certified by an actuary or, at
+75 the election of the provider, the reserves shall be 30 percent
+76 of the aggregate provider fees for all service contracts sold
+77 and then in force. The reserve account shall be subject to
+78 examination and review by the commissioner.
+79 b. Place in trust with the commissioner a financial
+80 security deposit, having a value of not less than five percent
+81 of the aggregate provider fees, less claims paid, for all
+82 service contracts sold and then in force, but not less than
+83 twenty-five thousand dollars ($25,000) consisting of one of
+84 the following:
+Page 3
+
+the following:
+SB219 Enrolled
+85 (i)1. A surety bond issued by an authorized surety.
+86 (ii)2. Securities of the type eligible for deposit by
+87 authorized insurers in this state.
+88 (iii)3. Cash.
+89 (iv)4. A letter of credit issued by a qualified
+90 financial institution.
+91 (v)5. Another form of security prescribed by
+92 regulations issued by the commissioner.
+93 (3) Do both of the following:
+94 a. Maintain a net worth or stockholders' equity of one
+95 hundred million dollars ($100,000,000).
+96 b. Upon request, provide the commissioner with a copy
+97 of the financial statement of the provider included in its
+98 most recent annual report on Form 10-K or Form 20-F filed with
+99 the Securities and Exchange Commission (SEC) within the last
+100 calendar year, or if the provider does not file with the SEC,
+101 a copy of the audited financial statements of the provider,
+102 which shows a net worth of the provider of at least one
+103 hundred million dollars ($100,000,000). A consolidated Form
+104 10-K, Form 20-F, or audited financial statements shall meet
+105 the requirements of this chapter for the provider if it shows
+106 a net worth or stockholders' equity of the provider of at
+107 least one hundred million dollars ($100,000,000) and there
+108 shall be no requirement of a parent company guarantee,
+109 reimbursement insurance, or other form of financial stability
+110 requirement. However, if the Form 10-K, Form 20-F, or audited
+111 financial statements of the parent company of the provider are
+112 filed to meet the provider's financial stability requirement
+Page 4
+
+filed to meet the provider's financial stability requirement
+SB219 Enrolled
+113 because the provider's net worth or stockholders' equity of
+114 the provider is not at least one hundred million dollars
+115 ($100,000,000), or because the net worth or stockholders'
+116 equity is not determinable from the consolidated Form 10-K,
+117 Form 20-F, or audited financial statements of the parent
+118 company, then the parent company shall agree to guarantee the
+119 obligations of the provider relating to service contracts sold
+120 by the provider in this state.
+121 (g)(e) Service contracts shall require the provider to
+122 permit the service contract holder to return the service
+123 contract within no less than 20 days of the date the service
+124 contract was mailed to the service contract holder or within
+125 no less than 10 days of delivery if the service contract is
+126 delivered to the service contract holder at the time of sale.
+127 Upon return of the service contract to the provider within the
+128 applicable time period, if no claim has been made under the
+129 service contract prior to its return to the provider, the
+130 service contract is void and the provider shall refund to the
+131 service contract holder the full purchase price of the service
+132 contract including any premium paid for any applicable
+133 reimbursement insurance policy. Any refund due a service
+134 contract holder may be credited to any outstanding balance of
+135 the account of the service contract holder, and the excess, if
+136 any, shall be refunded to the service contract holder. The
+137 right to void the service contract provided in this subsection
+138 (g) is not transferable and shall apply only to the original
+139 service contract purchaser, and only if no claim has been made
+140 prior to its return to the provider. A 10 percent penalty per
+Page 5
+
+prior to its return to the provider. A 10 percent penalty per
+SB219 Enrolled
+141 month shall be added to a refund that is not paid or credited
+142 within 45 days after return of the service contract to the
+143 provider.
+144 (h) In the event(f) If the original service contract
+145 holder makes a written demand for cancellation of a service
+146 contract pursuant to the terms of the service contract, the
+147 provider shall refund to the service contract holder the
+148 unearned portion of the full purchase price of the service
+149 contract, including the unearned portion of any premium paid
+150 for any applicable reimbursement insurance policy. Any refund
+151 due a service contract holder may be credited to any
+152 outstanding balance of the account of the service contract
+153 holder, and the excess, if any, shall be refunded to the
+154 service contract holder. If the original contract purchaser or
+155 a contract holder elects cancellation, the provider may retain
+156 an administrative fee of up to twenty-five dollars ($25) for
+157 issuance of the service contract if such the fee is provided
+158 for in the service contract; however, this amount may not be
+159 deducted in the event if the service contract is terminated
+160 pursuant to the provisions of subsection (g) (e).
+161 (i)(g)(1) Provider fees are not subject to premium
+162 taxes.
+163 (2) Premiums for reimbursement insurance policies are
+164 subject to applicable taxes.
+165 (j)(h) Except for the registration requirement in
+166 subsection (c), providers, administrators, and other persons
+167 marketing, selling, or offering to sell service contracts for
+168 providers are exempt from any licensing requirements of this
+Page 6
+
+providers are exempt from any licensing requirements of this
+SB219 Enrolled
+169 state.
+170 (k)(i) Providers are not required to comply with any
+171 provision of Title 27."
+172 Section 2. Any unencumbered and unexpended balance
+173 remaining in the Service Contract Revolving Fund on October 1,
+174 2026, shall be transferred to the credit of the Special
+175 Examination Revolving Fund.
+176 Section 3. Sections 8-32-1 and 8-32-5 of the Code of
+177 Alabama 1975, are amended to make conforming changes to read
+178 as follows:
+179 "§8-32-1
+180 (a) The purpose of this chapter is to create a
+181 framework to regulate service contracts sold to consumers in
+182 this state.
+183 (b) The following are exempt from Sections 8-32-2 to
+184 8-32-12, inclusive, of this chapter:
+185 (1) Warranties.
+186 (2) Maintenance agreements.
+187 (3) Warranties, service contracts, or maintenance
+188 agreements offered by electric, gas, water, or telephone
+189 utilities on their transmission devices.
+190 (4) Service contracts sold or offered for sale in
+191 commercial transactions.
+192 (5) Service contracts sold or offered for sale to
+193 persons other than consumers.
+194 (6) Service contracts sold at the point of sale, or
+195 within 60 days of the original purchase date of the property,
+196 which cover tangible property where the tangible property for
+Page 7
+
+which cover tangible property where the tangible property for
+SB219 Enrolled
+197 which the service contract is sold, has a purchase price of
+198 two hundred and fifty dollars ($250) or less, exclusive of
+199 sales tax.
+200 (c) Manufacturer's service contracts on the
+201 manufacturer's products and service contracts sold or offered
+202 for sale by Alabama electric cooperatives, and their
+203 subsidiaries and affiliates, including without limitation,
+204 affiliates managed or controlled by electric cooperatives, are
+205 required to comply only with Section 8-32-3(a), Section
+206 8-32-3(g)(e), Section 8-32-5(a), Section 8-32-5(d) to through
+207 (n), inclusive, Section 8-32-6, Section 8-32-10(a), and
+208 Section 8-32-10(c) to through (f), inclusive, as applicable,
+209 of this chapter.
+210 (d) The types of agreements referred to in subsections
+211 (b) and (c) are not insurance for any purpose including,
+212 without limitation, compliance with the Alabama Insurance
+213 Code."
+214 "§8-32-5
+215 (a) Service contracts sold or offered for sale in this
+216 state, in their entirety, shall be written, printed, or typed
+217 in eight point type size, or larger, and shall comply with the
+218 requirements set forth in this section, as applicable.
+219 (b) Service contracts insured under a reimbursement
+220 insurance policy pursuant to subdivision (1) of subsection (f)
+221 of Section 8-32-3(d)(1) shall contain a statement in
+222 substantially the following form:
+223 "Obligations of the provider under this service
+224 contract are guaranteed under a service contract reimbursement
+Page 8
+
+contract are guaranteed under a service contract reimbursement
+SB219 Enrolled
+225 insurance policy."
+226 If the provider fails to pay or to provide service on a
+227 claim within 60 days after proof of loss has been filed, the
+228 service contract holder is entitled to make a claim directly
+229 against the reimbursement insurance company. The service
+230 contract shall state the name and address of the reimbursement
+231 insurance company.
+232 (c) Service contracts not insured under a reimbursement
+233 insurance policy pursuant to subdivision (1) of subsection (f)
+234 of Section 8-32-3(d)(1) shall contain a statement in
+235 substantially the following form:
+236 "Obligations of the provider under this service
+237 contract are backed by the full faith and credit of the
+238 provider."
+239 (d) Service contracts shall state the name and address
+240 of the provider, and shall identify any administrator, the
+241 service contract seller, and the service contract holder to
+242 the extent that the name and address of the service contract
+243 holder has been furnished by the service contract holder.
+244 Neither the name of the service contract seller nor other
+245 provisions are required to be preprinted on the service
+246 contract and may be added to the service contract at the time
+247 of sale.
+248 (e) Service contracts shall state the purchase price of
+249 the service contract, the term of the service contract and any
+250 applicable renewal provisions. Neither the purchase price nor
+251 any other provisions are required to be pre-printed on the
+252 service contract and may be negotiated at the time of sale
+Page 9
+
+service contract and may be negotiated at the time of sale
+SB219 Enrolled
+253 with the service contract holder.
+254 (f) If the provider will reimburse the contract holder
+255 for repair work performed by third parties and if prior
+256 approval of repair work is required,: (i) the service contract
+257 shall state the procedure for obtaining prior approval and for
+258 making a claim, including a toll-free telephone number for
+259 claim service; and (ii) if the service contract provides
+260 services essential to public health, safety, or welfare, the
+261 service contract shall either provide for 24-hour telephone
+262 assistance, or state the procedure for obtaining emergency
+263 repairs performed outside of normal business hours.
+264 (g) Service contracts shall state the existence of any
+265 deductible amount.
+266 (h) Service contracts shall describe the property upon
+267 which the services are to be provided, the services to be
+268 provided, and any limitations, exceptions, or exclusions to
+269 the services to be provided.
+270 (i) Service contracts shall state whether the use of
+271 non-original manufacturer's parts is allowed.
+272 (j) Service contracts shall state any restrictions
+273 governing the transferability of the service contract.
+274 (k) Service contracts A service contract shall state
+275 the terms, restrictions, or conditions governing cancellation
+276 of the service contract prior to the termination or expiration
+277 date of the service contract by either the provider or by the
+278 service contract holder. The provider of the service contract
+279 shall mail a written notice to the service contract holder at
+280 the last known address of the service contract holder
+Page 10
+
+the last known address of the service contract holder
+SB219 Enrolled
+281 contained in the records of the provider at least five days
+282 prior to cancellation by the provider. Prior notice is not
+283 required if the reason for cancellation is nonpayment of the
+284 provider fee or a material misrepresentation by the service
+285 contract holder to the provider relating to the covered
+286 property or its use. The notice shall state the effective date
+287 of the cancellation and the reason for the cancellation.
+288 (l) Service contracts shall set forth the obligations
+289 and duties of the service contract holder relating to the
+290 property covered by the service contract.
+291 (m) Service contracts shall state whether or not the
+292 service contract provides for or excludes consequential
+293 damages or preexisting conditions, to the extent applicable.
+294 (n) Service contracts may contain other provisions as
+295 determined by the provider."
+296 Section 4. This act shall become effective on October
+297 1, 2026.
+Page 11
+
+1, 2026.
+SB219 Enrolled
+298
+299
+300
+301
+302
+303
+304 ________________________________________________
+305 President and Presiding Officer of the Senate
+306
+307
+308
+309 ________________________________________________
+310 Speaker of the House of Representatives
+311
+312
+313 SB219
+314 Senate 25-Feb-26
+315 I hereby certify that the within Act originated in and passed
+316 the Senate.
+317
+318 Patrick Harris,
+319 Secretary.
+320
+321
+322
+323
+324 House of Representatives
+325 Passed: 02-Apr-26
+326
+327
+328
+329
+330 By: Senator Kitchens
+Page 12

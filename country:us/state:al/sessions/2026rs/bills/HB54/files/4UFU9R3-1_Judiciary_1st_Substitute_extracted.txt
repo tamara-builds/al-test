@@ -1,0 +1,348 @@
+Title: 
+Official Title: 
+Source: versions - Judiciary 1st Substitute
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+4UFU9R3-1 01/26/2026 GP (L)GP 2026-427 SUB HB54
+JUDICIARY SUBSTITUTE TO HB54
+OFFERED BY REPRESENTATIVE ENGLAND
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law does not allow a pregnant or
+6 postpartum woman sentenced to incarceration to defer
+7 her sentence until after the birth of her child and
+8 completion of her postpartum recovery period.
+9 This bill would adopt the Alabama Women's
+10 Childbirth Alternatives, Resources, and Education
+11 (CARE) Act to provide that if a woman is admitted to a
+12 jail, she must inform the individual conducting her
+13 initial intake medical screening if she is pregnant,
+14 suspects she may be pregnant, or is within 12 months
+15 postpartum.
+16 This bill would require a woman who is pregnant
+17 or suspects she may be pregnant to be assessed for
+18 pregnancy with a urine pregnancy test within three days
+19 of her initial intake medical screening, unless she
+20 declines the testing.
+21 This bill would authorize the court to order the
+22 supervised release of a woman who tests positive for
+23 pregnancy or is confirmed to be postpartum, unless the
+24 court determines that the woman poses a documented,
+25 immediate risk to public safety.
+26 This bill would provide that, if a woman is
+27 pregnant or in her postpartum recovery period at the
+28 time she is sentenced to incarceration, the court may
+Page 1
+
+time she is sentenced to incarceration, the court may
+29 include a term of pre-incarceration probation to be
+30 served until 12 months after the woman gives birth,
+31 unless the court determines that the woman poses a
+32 documented, immediate risk to public safety.
+33 This bill would allow any pre-incarceration term
+34 of probation to be credited to the woman's sentence and
+35 would require the pre-incarceration term of probation
+36 to be served with certain electronic supervision, as
+37 determined by the Board of Pardons and Paroles, and
+38 without payment of any fines.
+39 This bill would require a woman serving a
+40 pre-incarceration term of probation to report the loss
+41 of her pregnancy to her probation officer and would
+42 give the court discretion as to when she should
+43 self-surrender following the pregnancy loss.
+44 This bill would prohibit the use of shackles,
+45 waist chains, or other restraints on a woman during
+46 pregnancy, labor, delivery, or within 12 weeks of
+47 delivery.
+48 This bill would require the Board of Pardons and
+49 Paroles to establish a CARE Coordinator to coordinate
+50 the provision of pre-incarceration terms of probation
+51 provided for pregnant and postpartum women.
+52 This bill would require a woman serving a
+53 pre-incarceration term of probation to self-surrender
+54 12 months after the birth of her child and would
+55 provide that failure to surrender is a Class D felony.
+56 This bill would also allow the Board of Pardons
+Page 2
+
+This bill would also allow the Board of Pardons
+57 and Paroles to adopt rules to implement and administer
+58 pre-incarceration periods of probation for pregnant and
+59 postpartum women.
+60
+61
+62 A BILL
+63 TO BE ENTITLED
+64 AN ACT
+65
+66 Relating to incarceration; to adopt the Alabama Women's
+67 Childbirth Alternatives, Resources, and Education Act; to
+68 provide for the pregnancy testing of certain women after
+69 admission to a jail; to provide for the supervised
+70 pre-incarceration probation of a pregnant or postpartum woman
+71 in certain circumstances; to authorize the Board of Pardons
+72 and Paroles to determine the scope of supervision; to provide
+73 for the self-surrender of a woman serving a pre-incarceration
+74 term of probation after the birth of her child; to provide for
+75 criminal penalties for failure to surrender; to provide
+76 procedures for a woman to follow if she loses her pregnancy
+77 while on pre-incarceration probation; to require the board to
+78 develop a CARE Coordinator; to authorize the board to adopt
+79 rules; and to amend Section 14-6-19.1, Code of Alabama 1975,
+80 to prohibit the use of shackles or other restraints on a woman
+81 during pregnancy, labor, delivery, or within 12 weeks of
+82 delivery.
+83 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+84 Section 1. This act shall be known and may be cited as
+Page 3
+
+Section 1. This act shall be known and may be cited as
+85 the Alabama Women's Childbirth Alternatives, Resources, and
+86 Education (CARE) Act.
+87 Section 2. For the purposes of Sections 2 through 6 of
+88 this act, the following terms have the following meanings:
+89 (1) BOARD. The Board of Pardons and Paroles.
+90 (2) DIRECTOR. The Director of the Board of Pardons and
+91 Paroles.
+92 (3) POSTPARTUM. The 12-month period following
+93 childbirth unless extended by a health care professional due
+94 to complications.
+95 Section 3. (a)(1) Upon the admission of each woman to a
+96 jail, the individual conducting the initial intake medical
+97 screening shall ask the woman whether she is pregnant,
+98 suspects that she may be pregnant, or is postpartum. If the
+99 woman is pregnant or suspects she may be pregnant, the woman
+100 shall be given a urine pregnancy test within three days of her
+101 initial intake medical screening, unless the woman declines
+102 testing. The results of the pregnancy test shall be used
+103 solely for the purpose of determining pregnancy for medical
+104 and diversion purposes pursuant to Sections 2 through 6 of
+105 this act.
+106 (2) Pregnancy testing shall be offered voluntarily,
+107 with informed consent, and conducted privately. No woman may
+108 be penalized for declining pregnancy testing.
+109 (b)(1) If a woman given a pregnancy test pursuant to
+110 subsection (a) tests positive for pregnancy, the result shall
+111 be reported to the CARE Coordinator, the court, and the county
+112 health department. After receiving the report of the positive
+Page 4
+
+health department. After receiving the report of the positive
+113 pregnancy test, the court shall release the woman on her own
+114 recognizance, with non-monetary conditions, and under
+115 supervision, provided that the court determines that the
+116 pregnant woman does not pose a documented, immediate risk to
+117 public safety.
+118 (2) If a woman reports that she is postpartum, the
+119 information shall be reported to the CARE Coordinator, the
+120 court, and the county health department. After confirming that
+121 the woman is postpartum, the court shall release the woman on
+122 her own recognizance, with non-monetary conditions, and under
+123 supervision, provided that the court determines that the
+124 postpartum woman does not pose a documented, immediate risk to
+125 public safety.
+126 Section 4. (a)(1) When a pregnant or postpartum woman
+127 is either: (i) sentenced to a term of imprisonment; or (ii) in
+128 the custody of a county jail pending sentencing, the court may
+129 include a term of probation that shall be served
+130 pre-incarceration or pre-trial, provided that the court
+131 determines that the pregnant or postpartum woman does not pose
+132 a documented, immediate risk to public safety.
+133 (2) The court may allow a pregnant or postpartum woman
+134 to be supervised on a pre-incarceration term of probation for
+135 the length of her pregnancy and for 12 months after the birth
+136 of her child. The woman shall report to the court for further
+137 guidance on the remainder of her sentence not later than 12
+138 months after the birth of her child.
+139 (3) The court shall order a woman released pursuant to
+140 Sections 2 through 6 of this act to surrender herself to the
+Page 5
+
+Sections 2 through 6 of this act to surrender herself to the
+141 Department of Corrections, the county jail, or the municipal
+142 jail, as applicable, 12 months after the birth of her child.
+143 (b) The failure of a woman serving a pre-incarceration
+144 term of probation to surrender herself to the Department of
+145 Corrections, the county jail, or the municipal jail, as
+146 ordered by the court, after the birth of her child is a Class
+147 D felony.
+148 (c)(1) The court shall not assess any fines, fees,
+149 restitution, or probation fees during a pre-incarceration term
+150 of probation served under Sections 2 through 6 of this act.
+151 (2) Supervision for a pre-incarceration term of
+152 probation shall be conducted as follows:
+153 a. By electronic monitoring administered by the board,
+154 the nature and extent of which shall be determined by the
+155 board on a case-by-case basis.
+156 b. Through in-patient programming provided by the
+157 board's reentry facility, at the discretion of the director
+158 following the board's intake assessment.
+159 (3) The court's jurisdiction during a pre-incarceration
+160 term of probation shall be the same as set forth in Chapter 22
+161 of Title 15 of the Code of Alabama 1975.
+162 (d) Time served in a pre-incarceration term of
+163 probation pursuant to this section shall be credited to the
+164 woman's sentence or disposition.
+165 (e) A pregnant or postpartum woman serving a
+166 pre-incarceration term of probation shall maintain perinatal
+167 health care, treatment, and assessments and participate in
+168 education and resource programs to the extent that they are
+Page 6
+
+education and resource programs to the extent that they are
+169 available in her community.
+170 (f)(1) A pregnant woman serving a pre-incarceration
+171 term of probation shall report any pregnancy loss to her
+172 probation officer within 72 hours of the loss. The court shall
+173 have discretion to determine when a woman who loses a
+174 pregnancy during a pre-incarceration term of probation shall
+175 be required to surrender herself to the Department of
+176 Corrections, the county jail, or the municipal jail.
+177 (2) Pregnancy loss shall be treated as a medical and
+178 mental health event.
+179 Section 5. (a) The board shall designate a CARE
+180 Coordinator, who shall be an employee of the board, to oversee
+181 case review, release planning, and care coordination for women
+182 assigned a pre-incarceration term of probation pursuant to
+183 Sections 2 through 6 of this act. The duties of the CARE
+184 Coordinator shall include, but not be limited to, the
+185 following:
+186 (1) Coordinating supervised probation for pregnant
+187 women and postpartum women with county jails and local courts.
+188 (2) Providing support to women assigned to periods of
+189 pre-incarceration terms of probation pursuant to Sections 2
+190 through 6 of this act.
+191 (3) As necessary, referring women assigned to
+192 pre-incarceration terms of probation to behavioral health
+193 services, housing, and parental support resources.
+194 (b) The board shall connect each pregnant woman or
+195 postpartum woman assigned a pre-incarceration term of
+196 probation pursuant to Sections 2 through 6 of this act to the
+Page 7
+
+probation pursuant to Sections 2 through 6 of this act to the
+197 CARE Coordinator.
+198 Section 6. (a) The board may adopt rules to implement
+199 and administer pre-incarceration terms of probation pursuant
+200 to Sections 2 through 6 of this act.
+201 (b) The board shall maintain data on the number of
+202 women who are eligible for pre-incarceration terms of
+203 probation, the number of women who are enrolled in
+204 pre-incarceration terms of probation, the demographic data for
+205 those women, and the outcome of enrollment. No later than
+206 March 1 of each year, the board shall publish a report about
+207 the pre-incarceration terms of probation, including, but not
+208 limited to, the data required by this subsection. The board
+209 shall make the report publicly available on its website.
+210 Section 7. Section 14-6-19.1, Code of Alabama 1975, is
+211 amended to read as follows:
+212 "§14-6-19.1
+213 (a) For purposes of this section, the following terms
+214 have the following meanings:
+215 (1) CUSTODIAN. A warden, sheriff, jailer, deputy
+216 sheriff, police officer, or any other law enforcement officer.
+217 (2) HEALTH CARE PROFESSIONAL. A physician as defined in
+218 Section 34-24-50.1, a licensed practical nurse or a licensed
+219 professional nurse as defined in Section 34-21-1, an advanced
+220 practice nurse as defined in Section 34-21-81, or an assistant
+221 to physicians physician as defined in Section 34-24-290.
+222 (3) IMMEDIATE POSTPARTUM PERIOD. The six-week 12-week
+223 period following childbirth unless extended by a health care
+224 professional due to complications.
+Page 8
+
+professional due to complications.
+225 (4) OFFICER IN CHARGE. The individual who is
+226 responsible for the supervision of a penal institution.
+227 (5) PENAL INSTITUTION. Any place of confinement for
+228 juvenile or adult individuals accused of, convicted of, or
+229 adjudicated for violating a law of this state or an ordinance
+230 of a political subdivision of this state.
+231 (6) PREGNANT WOMAN. A juvenile or adult female who is
+232 in the first, second, or third trimester of pregnancy whose
+233 pregnancy has been verified by a pregnancy test as required by
+234 this section.
+235 (b) During the initial intake medical screening, a
+236 female inmate shall inform the person conducting the screening
+237 if she is pregnant or suspects that she may be pregnant.
+238 (c) If the female inmate informs the person conducting
+239 the screening that she suspects she may be pregnant, the
+240 female inmate shall be assessed for pregnancy by a urine
+241 pregnancy test within 72 hours of the initial medical intake
+242 screening, unless the female inmate refuses testing.
+243 (d) A pregnant woman shall not be required to squat and
+244 cough during a strip search performed by a custodian, unless
+245 the custodian has reason to suspect that the pregnant woman is
+246 hiding contraband. In the alternative, a pregnant woman may be
+247 required to squat and cough during a strip search if the strip
+248 search is performed by a health care professional.
+249 (e) A pregnant woman shall not be required to undergo
+250 any vaginal examination unless performed by a health care
+251 professional.
+252 (f) Except as otherwise provided in this section, a
+Page 9
+
+(f) Except as otherwise provided in this section, a
+253 custodian shall not shackle or use any leg or waist restraint
+254 in any of the following situations:
+255 (1) On any pregnant woman.
+256 (2) During labor or delivery.
+257 (3) During the immediate postpartum period.
+258 (g) A woman who is pregnant or in the immediate
+259 postpartum period may only be restrained using leg or wrist
+260 handcuffs with her wrists held in front of her body, and only
+261 if the custodian makes a determination that one of the
+262 following is true:
+263 (1) The woman poses an immediate flight risk and cannot
+264 be reasonably contained by other means.
+265 (2) The woman poses an immediate risk of harm to the
+266 unborn child, herself, staff, or others and cannot be
+267 reasonably contained by other means.
+268 (h) If a custodian uses shackles or leg or wrist
+269 handcuffsrestraints on a woman who is in the immediate
+270 postpartum period under an exception provided in subsection
+271 (g), the custodian shall document the circumstances for and
+272 details of the exception shall be documented within not later
+273 than two days of after the incident. The information shall
+274 include the nature of the circumstances and the length of time
+275 of the use of the shackles or restraints were used. The
+276 officer in charge shall review the documentation shall be
+277 reviewed by the officer in charge and the penal institution
+278 shall retain the documentation retained by the penal
+279 institution for reporting purposes.
+280 (i) Nothing in this section shall prohibit the use of
+Page 10
+
+(i) Nothing in this section shall prohibit the use of
+281 medical restraints by a licensed health care professional to
+282 ensure the medical safety of a pregnant woman.
+283 (j) Nothing in this section shall prohibit the
+284 placement of a woman in a cell or hospital room by herself to
+285 ensure the medical safety of the unborn child, a pregnant
+286 woman, or a woman in the immediate postpartum period.
+287 (k) If a custodian places a woman in a cell or hospital
+288 room by herself under the exception provided in subsection
+289 (j), the custodian shall document the circumstances for and
+290 details of the exception shall be documented within not later
+291 than two days of after the incident. The information shall
+292 include the nature of the circumstances and the length of time
+293 of the solitary confinement. The officer in charge shall
+294 review the documentation and shall be reviewed by the officer
+295 in charge and retained by the penal system shall retain the
+296 documentation for reporting purposes.
+297 (l) A pregnant woman who is temporarily held in a
+298 county jail pending transfer to a state penal institution
+299 shall be transferred as expeditiously as possible.
+300 (m) The Department of Corrections and a sheriff
+301 overseeing a county jail in which a pregnant woman is
+302 incarcerated shall make all reasonable efforts to facilitate
+303 her transfer. This subsection does not apply to a pregnant
+304 woman who has been sentenced to a county jail."
+305 Section 8. This act shall become effective on October
+306 1, 2026.
+Page 11

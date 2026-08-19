@@ -1,0 +1,210 @@
+Title: 
+Official Title: 
+Source: versions - Engrossed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB71 ENGROSSED
+1 SB71
+2 84IXWHH-2
+3 By Senator Chesteen
+4 RFD: County and Municipal Government
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+SB71 Engrossed
+1
+2
+3
+4
+5 A BILL
+6 TO BE ENTITLED
+7 AN ACT
+8
+9 Relating to administrative law; to prohibit agencies
+10 from adopting a new rule, or amending an existing rule, that
+11 establishes standards for certain environmental protection
+12 subjects that are more stringent than the federal
+13 requirements; and to prohibit an agency from adopting a new
+14 rule, or amending an existing rule, in the absence of federal
+15 requirements, unless the rule is based on the best available
+16 science and the weight of scientific evidence.
+17 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+18 Section 1. (a) For purposes of this section, the
+19 following terms have the following meanings:
+20 (1) AGENCY. The term as defined in Section 41-22-3,
+21 Code of Alabama 1975.
+22 (2) BEST AVAILABLE SCIENCE. Science that:
+23 a. Is reliable, unbiased, subject to independent
+24 verification, and applies to the agency's rule;
+25 b. Maximizes the quality, objectivity, relevance,
+26 completeness, and integrity of information, including
+27 statistical information; human, animal, and other relevant
+28 scientific studies; and, if applicable, human health
+Page 1
+
+scientific studies; and, if applicable, human health
+SB71 Engrossed
+29 risk-based assessments; and
+30 c. Involves the use of scientifically defensible and
+31 quality-assured supporting studies conducted in accordance
+32 with generally accepted scientific or technical practices
+33 utilizing data collected by generally accepted methods or best
+34 available methods and that are:
+35 1. Site-specific studies, including area-wide or
+36 statewide studies;
+37 2. Studies published in a refereed journal; or
+38 3. External peer-reviewed studies contained in a
+39 federal government report published for a purpose other than
+40 development of a rule.
+41 (3) GENERALLY ACCEPTED SCIENTIFIC OR TECHNICAL
+42 PRACTICES. Scientific methods, principles, or protocols that:
+43 a. Are broadly acknowledged and routinely applied by
+44 the relevant scientific community;
+45 b. Are consistent with refereed journal literature or
+46 established technical standards; and
+47 c. Have been tested for reliability and validity.
+48 (4) MANIFEST BODILY HARM. A physical disease or injury
+49 that is:
+50 a. Presently existing and diagnosable;
+51 b. Not based solely on the presence or detection of a
+52 substance in the human body; and
+53 c. Not based solely on an increased risk of disease.
+54 (5) REFEREED JOURNAL. A publication that:
+55 a. Uses an editorial board or critical review panel of
+56 subject matter experts in the relevant scientific or technical
+Page 2
+
+subject matter experts in the relevant scientific or technical
+SB71 Engrossed
+57 disciplines who critically and objectively assess the
+58 methodology and analysis of submitted scientific studies in a
+59 nonpartisan fashion and provides editorial services prior to
+60 publication; and
+61 b. Takes meaningful steps to avoid biases in the
+62 publication's scientific review process.
+63 (6) WEIGHT OF SCIENTIFIC EVIDENCE. An approach to
+64 scientific evaluation in which each piece of relevant
+65 information is considered based on its quality and relevance,
+66 which, at a minimum, includes consideration of study design,
+67 fitness for purpose, replicability, peer review, and
+68 transparency and reliability of data; and the information is
+69 transparently integrated with other relevant information to
+70 inform the scientific evaluation prior to making a judgment
+71 about the scientific evaluation.
+72 (b) An agency may not adopt a new rule or amend an
+73 existing rule that establishes new or changes existing numeric
+74 criteria or numeric limitations applicable to a chemical
+75 substance, mixture, contaminant, pollutant, hazardous
+76 substance, solid waste, hazardous constituent, or hazardous
+77 waste that relates to drinking water, water pollution control,
+78 hazardous substances, contaminated site remediation, air
+79 quality, solid waste handling, or hazardous waste handling if
+80 the new rule or amendment would result in criteria or
+81 limitations that are more stringent or extensive in scope,
+82 coverage, or effect than any federal law or regulation setting
+83 a standard regarding the same or a substantially similar
+84 topic.
+Page 3
+
+topic.
+SB71 Engrossed
+85 (c) Notwithstanding subsection (b), if there is no
+86 federal law or regulation establishing a standard regarding
+87 the same or a substantially similar topic, an agency may not
+88 adopt a new rule or amend an existing rule that establishes
+89 numeric criteria or numeric limitations applicable to a
+90 chemical substance, mixture, contaminant, pollutant, hazardous
+91 substance, solid waste, hazardous constituent, or hazardous
+92 waste that relates to drinking water, water pollution control,
+93 hazardous substances, contaminated site remediation, air
+94 quality, solid waste handling, or hazardous waste handling
+95 unless, for each individual chemical substance, mixture,
+96 contaminant, pollutant, hazardous substance, solid waste,
+97 hazardous constituent, or hazardous waste to which the rule
+98 applies, the scientific and technical information relied on to
+99 support the standard established by the rule is based on the
+100 best available science and the weight of scientific evidence.
+101 (d)(1) For any rule adopted pursuant to subsection (c)
+102 to protect human health, safety, or welfare, the best
+103 available science and the weight of scientific evidence shall
+104 establish a direct causal link between exposure at or above
+105 the numeric criteria or numeric limitations provided by the
+106 rule and manifest bodily harm in humans, based on generally
+107 accepted scientific or technical practices.
+108 (2) In the absence of data from voluntary scientific
+109 studies on humans, best available science and the weight of
+110 scientific evidence may be based on tests performed on
+111 experimental animal species or human and animal cells
+112 establishing a direct causal link, based on generally accepted
+Page 4
+
+establishing a direct causal link, based on generally accepted
+SB71 Engrossed
+113 scientific or technical practices, between exposure at or
+114 above the numeric criteria or numeric limitations provided by
+115 the rule and manifest bodily harm in humans, provided that the
+116 harm may be extrapolated to humans based on the best available
+117 science and the weight of scientific evidence.
+118 (e)(1) No agency shall establish as the default or be
+119 required to use values from the United States Environmental
+120 Protection Agency's Integrated Risk Information System in the
+121 development of numeric water quality criteria.
+122 (2) An agency that has adopted a rule establishing use
+123 of the United States Environmental Protection Agency's
+124 Integrated Risk Information System as the default in any
+125 numeric water quality criteria shall revise all rules to
+126 comply with this subsection not later than nine months after
+127 the effective date of this act.
+128 (f) This section does not apply to any of the
+129 following:
+130 (1) A rule that is required by federal law or
+131 regulation, including a rule adopted to comply with, and in
+132 furtherance of, federal agency authorization or primacy
+133 requirements, so long as an agency does not have discretion or
+134 flexibility under some or all of the federal requirements or
+135 authorization.
+136 (2) A rule that is less stringent or extensive in
+137 scope, coverage, or effect than any federal law or regulation
+138 setting a standard regarding the same or a substantially
+139 similar topic or that is substantively equivalent to a federal
+140 law or regulation.
+Page 5
+
+law or regulation.
+SB71 Engrossed
+141 (3) A rule that would repeal or modify an existing rule
+142 to be less stringent or extensive in scope, coverage, or
+143 effect.
+144 (4) An emergency rule adopted pursuant to Section
+145 41-22-5, Code of Alabama 1975.
+146 Section 2. This act shall become effective immediately.
+Page 6
+
+Section 2. This act shall become effective immediately.
+SB71 Engrossed
+147
+148
+149 Senate
+150 Read for the first time and referred ................13-Jan-26
+151 to the Senate committee on County
+152 and Municipal Government
+153
+154 Read for the second time and placed ................20-Jan-26
+155 on the calendar:
+156 1 amendment
+157
+158 Read for the third time and passed ................03-Feb-26
+159 as amended
+160 Yeas 27
+161 Nays 7
+162 Abstains 0
+163
+164
+165 Patrick Harris,
+166 Secretary.
+167
+Page 7

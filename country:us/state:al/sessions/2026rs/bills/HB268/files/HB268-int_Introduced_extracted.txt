@@ -1,0 +1,250 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB268 INTRODUCED
+1 HB268
+2 9J7AFMM-1
+3 By Representative
+4 RFD: County and Municipal Government
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+9J7AFMM-1 01/13/2026 JC (L)lg 2025-2743
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, 911 calls in the State of
+6 Alabama are handled by public safety answering centers
+7 that are directly supervised by local communication
+8 districts, which in turn are under the authority of the
+9 state 911 Board.
+10 This bill would authorize the state 911 Board to
+11 monitor call statistics for a local communication
+12 district and to share data related to crime reporting
+13 with the Office of Attorney General.
+14 This bill would provide that if the 911 Board
+15 determines from call data that a local communication
+16 district's emergency response is inadequate, that the
+17 911 Board may undertake an investigation to determine
+18 the cause of inadequacy. If the district is unable to
+19 remedy the problem, the 911 Board may assume direct
+20 supervision of the public safety answering center
+21 operations until performance, based on certain metrics,
+22 improves.
+23 This bill would further authorize the Attorney
+24 General to file a civil action to enforce the 911
+25 Board's investigation of a local communication district
+26 or enforce the 911 Board's direct supervision of a
+27 district.
+28
+Page 1
+
+HB268 INTRODUCED
+29
+30 A BILL
+31 TO BE ENTITLED
+32 AN ACT
+33
+34 Relating to 911 service; to add Section 11-98-4.3 to
+35 the Code of Alabama 1975, to authorize the state 911 Board to
+36 institute a system to measure the emergency response
+37 performance of local communication districts through the
+38 collection of call data; to authorize the state 911 Board to
+39 share data related to crimes reported with the Attorney
+40 General; to add Section 11-98-4.4 to the Code of Alabama 1975,
+41 to authorize the state 911 Board to audit local communication
+42 districts and to assume direct supervision of the district
+43 when required for public safety; and to authorize the Attorney
+44 General to bring a civil action to enforce the investigation
+45 or supervision of a district by the 911 Board.
+46 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+47 Section 1. Sections 11-98-4.3 and 11-98-4.4 are added
+48 to the Code of Alabama 1975, to read as follows:
+49 §11-98-4.3
+50 (a) For the purposes of this section and Section
+51 11-98-4.4, the term "readiness" refers to the capability of a
+52 district, including a public safety answering point, to
+53 expedite the answering, receiving, and transferring of 911
+54 calls and texts to efficiently dispatch the appropriate
+55 emergency service provider as soon as possible to a correct
+56 location where property or life may be in jeopardy.
+Page 2
+
+location where property or life may be in jeopardy.
+HB268 INTRODUCED
+57 (b) The 911 Board shall establish a system that
+58 measures the readiness of district public safety services
+59 through the collection of data related to a district's
+60 answering, receiving, transferring, and dispatching functions
+61 relating to 911 calls, including voice, text messages, photos,
+62 and videos.
+63 (c) The 911 Board shall collect data including, but not
+64 limited to, all of the following for each district in the
+65 state:
+66 (1) 911 call volume.
+67 (2) Time to answer 911 calls.
+68 (3) Time to respond to emergency calls in accordance
+69 with Section 11-98-11.
+70 (4) Answered emergency calls versus unanswered
+71 emergency calls.
+72 (5) Dropped calls.
+73 (6) Calls reporting a crime.
+74 (d) The 911 Board shall adopt metrics for determining
+75 if a district's 911 service is performing at an acceptable
+76 level of readiness, requires improvement, or compromises
+77 public safety, based upon the data collected, adjusted for
+78 other factors relevant to each district, such as population,
+79 geographical area, crime rate, and availability of emergency
+80 service providers, and including complaints received pursuant
+81 to subsection (e).
+82 (e) The 911 Board shall require each district to
+83 forward to the board any complaint received concerning the
+84 readiness of a district's 911 service, and the Attorney
+Page 3
+
+readiness of a district's 911 service, and the Attorney
+HB268 INTRODUCED
+85 General shall also provide a toll-free hotline by which a
+86 resident complaint concerning the readiness of a district's
+87 911 service may be submitted and forwarded to the 911 Board.
+88 (f) The 911 Board, on a quarterly basis, shall provide
+89 the Attorney General with all data collected regarding the
+90 number and type of crime reports received in a district via
+91 911 calls or texts.
+92 (g) The system required to be established by this
+93 section may be funded as an advisory service pursuant to
+94 Section 11-98-5.2(b)(7)b. or from any outside source of
+95 funding received by the 911 Board.
+96 (h) The 911 Board shall adopt rules in accordance with
+97 the Alabama Administrative Procedure Act which are necessary
+98 to implement the system described in this section.
+99 §11-98-4.4
+100 (a)(1) If the 911 Board determines, based upon a review
+101 of metrics, that a district is not performing at an acceptable
+102 level of readiness pursuant to Section 11-98-4.3(d), the 911
+103 Board may audit the district, employing any of the following
+104 means as required:
+105 a. Interviewing any individual who may have knowledge
+106 concerning district performance, including members of the
+107 district board of commissioners, the director of the PSAP,
+108 public safety telecommunicators, heads of local emergency
+109 service providers, first responders, and residents who have
+110 submitted a complaint.
+111 b. On-site inspection of a PSAP, PSAP equipment or
+112 technical functionality, and monitoring PSAP operations in
+Page 4
+
+technical functionality, and monitoring PSAP operations in
+HB268 INTRODUCED
+113 real time.
+114 (2) An audit of a district may take as much time and
+115 involve as many investigative resources as the circumstances
+116 warrant. The 911 Board may determine, pursuant to a cursory
+117 review or at the request of the Attorney General, that it is
+118 in the interest of public safety to proceed immediately to a
+119 determination by the 911 Board of appropriate remediation.
+120 (b)(1) Based upon the 911 Board's determination as
+121 provided in subsection (a), the 911 Board may prescribe
+122 remedial measures to bring the district to an acceptable level
+123 of readiness, including, but not limited to, any of the
+124 following:
+125 a. Training requirements for public safety
+126 telecommunicators.
+127 b. Replacement of personnel, including a director of a
+128 PSAP or public safety telecommunicators.
+129 c. Hiring additional public safety telecommunicators.
+130 d. Upgrade of technology, including replacement or
+131 acquisition of PSAP communications hardware or software.
+132 e. Amendment of PSAP operating protocols, scripts, and
+133 recordkeeping.
+134 (2)a. As the result of an audit, the 911 Board may give
+135 the district board of commissioners a remediation plan in
+136 writing that prescribes benchmarks for improving readiness
+137 which shall include required actions such as those listed in
+138 subdivision (1), and may include metric targets, other goals
+139 or measures, and compliance deadlines.
+140 b. A remediation plan may recommend the replacement of
+Page 5
+
+b. A remediation plan may recommend the replacement of
+HB268 INTRODUCED
+141 a member of the district board of commissioners, but the board
+142 shall have no power to remove or replace a commissioner.
+143 c. The project expenses of remediation measures that
+144 are prescribed may not exceed the funds available to a
+145 district from all available revenue sources.
+146 (c) The 911 Board, upon written findings, may determine
+147 that the readiness of a district is such that public safety is
+148 compromised due to metrics that result from any of the
+149 following circumstances:
+150 (1) District failure to cooperate with an audit.
+151 (2) District failure to achieve compliance with a
+152 post-audit remediation plan in circumstances in which an
+153 extension of time for compliance would compromise public
+154 safety.
+155 (3) District operational deficiencies are so systemic
+156 or unique that any plan of remediation would be impractical or
+157 inadequate to improve current public safety conditions in the
+158 district.
+159 (d)(1) Upon making a written finding that the readiness
+160 of a district is such that public safety is compromised
+161 pursuant to subsection (c), the 911 Board shall assume direct
+162 operational supervision of a district by communication of
+163 notice in writing to the board of commissioners of the
+164 assumption of direct operational oversight by the 911 Board,
+165 to include all of the following:
+166 a. The anticipated remediation measures to be
+167 undertaken by the 911 Board which were discovered by audit.
+168 b. A statement that any other conditions or factors
+Page 6
+
+b. A statement that any other conditions or factors
+HB268 INTRODUCED
+169 discovered by the 911 Board pursuant to its direct operational
+170 oversight which impair the district's performance at an
+171 acceptable level of readiness will also be remediated by the
+172 board.
+173 c. The anticipated length of time, if known, until the
+174 911 Board will return direct operational oversight of the
+175 district to the district board of commissioners.
+176 (2) The 911 Board may take any action that is or would
+177 be prescribed to a district board of commissioners or PSAP by
+178 a remediation plan, including training, hiring, and
+179 terminating public safety telecommunicators, and the upgrade
+180 of technical capability, including the acquisition of
+181 equipment, hardware, or software.
+182 (3) During the period when the 911 Board is exercising
+183 direct operational oversight of a district, the 911 Board
+184 shall be the beneficial owner of monthly revenue to the
+185 district from the 911 Fund to pay the costs or expenses of
+186 remediation, and may obtain, upon invoice, reimbursement from
+187 the district board of commissioners or if applicable, the
+188 county commission or municipality that created the district,
+189 for any costs or expenses for remediation that the 911 Board
+190 incurred which were not paid from revenue or accounts owned by
+191 the district.
+192 (e) Upon request by the Executive Director of the 911
+193 Board, the Attorney General may apply to the Circuit Court of
+194 Montgomery County for injunctive relief to enforce this
+195 section as it applies to a district anywhere in the state,
+196 including, but not limited to: (i) issuing a subpoena or
+Page 7
+
+including, but not limited to: (i) issuing a subpoena or
+HB268 INTRODUCED
+197 ordering cooperation in an investigation of a district or PSAP
+198 pursuant to subsection (a); or (ii) compelling cooperation
+199 with the remediation measures taken by the 911 Board pursuant
+200 to direct operational oversight of a district, including
+201 ordering access to district operating funds and revenues
+202 pursuant to subdivision (c)(3).
+203 Section 2. This act shall become effective on October
+204 1, 2026.
+Page 8

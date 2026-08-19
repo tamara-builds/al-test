@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB262 INTRODUCED
+1 HB262
+2 W1BJRE9-1
+3 By Representative Lawrence
+4 RFD: Economic Development and Tourism
+5 First Read: 15-Jan-26
+Page 0
+
+First Read: 15-Jan-26
+W1BJRE9-1 01/13/2026 CMH (L)CMH 2025-3782
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, pari-mutuel wagering on
+6 historical horse racing and bingo is conducted at
+7 certain locations in the state.
+8 Also under existing law, there is a state
+9 privilege tax that is levied upon every person engaged
+10 in the business of operating a race track equal to one
+11 percent of the pari-mutuel pool. In addition, there are
+12 local taxes levied on such pari-mutuel pools.
+13 This bill would provide that such activities may
+14 only be conducted at six certain named locations.
+15 This bill would establish a new state privilege
+16 tax of four percent of the net revenues of each
+17 licensee conducting pari-mutuel wagering on historical
+18 racing, which would be in lieu of any other state
+19 privilege taxes.
+20
+21
+22 A BILL
+23 TO BE ENTITLED
+24 AN ACT
+25
+26 Relating to historical racing computerized machines; to
+27 amend Sections 40-26A-1 and 40-26A-2, Code of Alabama 1975, to
+28 further provide for the state privilege tax on certain local
+Page 1
+
+further provide for the state privilege tax on certain local
+HB262 INTRODUCED
+29 gambling revenues; to establish a uniform local privilege tax
+30 on certain local gambling revenues; to add Section 40-26A-2.1
+31 to the Code of Alabama 1975, to restrict the operation of
+32 historical racing activities to certain authorized locations;
+33 and to repeal Sections 11-65-29, 11-65-30, 11-65-35,
+34 45-32-150.13, 45-44-150.12, and 45-49-151.14, Code of Alabama
+35 1975, levying local pari-mutuel wagering taxes and other fees.
+36 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+37 Section 1. Sections 40-26A-1 and 40-26A-2, Code of
+38 Alabama 1975, are amended to read as follows:
+39 "§40-26A-1
+40 For the purpose of this chapter, the following terms
+41 shall have the respective meanings ascribed to them by this
+42 section except where the context clearly indicates a different
+43 meaning:
+44 (1) AUTHORIZED LOCATION. The current location of the
+45 pari-mutuel licensees in Greene County, Jefferson County,
+46 Macon County, Mobile County, the current location of the Class
+47 C Bingo Permit holder in Houston County, and the bingo
+48 facility in Lowndes County that was open prior to October 1,
+49 2023, with a square footage building of 40,000 square feet.
+50 (1)(2) COMMISSIONER. The Commissioner of the Department
+51 of Revenue of the State of Alabama.
+52 (2)(3) DEPARTMENT. The Alabama Department of Revenue.
+53 (4) HISTORICAL RACING. A form of racing that creates
+54 pari-mutuel pools from wagers placed on previously conducted
+55 horse or greyhound races. The term includes historical horse
+56 or greyhound racing on computerized machines, without regard
+Page 2
+
+or greyhound racing on computerized machines, without regard
+HB262 INTRODUCED
+57 to the type of graphics on the machine used to conduct the
+58 activity.
+59 (5) NET REVENUES. The total amount of money received as
+60 a result of wagers placed at the authorized location on
+61 historical racing, excluding free bets, and promotional
+62 credits, less federal excise taxes, voided wagers, and the
+63 total money or value in any form paid as prizes or winnings,
+64 including the cash equivalent of any merchandise or thing of
+65 value awarded as a prize..
+66 (3)(6) PARI-MUTUEL. A system of betting on races
+67 whereby the winners divide the total amount bet, after
+68 deducting authorized taxes, fees, and management expenses, in
+69 proportion to the sums wagered individually.
+70 (4)(7) PARI-MUTUEL POOL. The total amount wagered under
+71 the pari-mutuel betting system in any particular race."
+72 "§40-26A-2
+73 (a) In addition to any and all other taxes imposed by
+74 law, there is hereby levied, upon every person engaged in the
+75 business of operating a dog race track in the State of
+76 Alabama, a privilege tax of one percent of the pari-mutuel
+77 pool on all pari-mutuel races.
+78 (b) In addition to the tax levied by subsection (a) and
+79 in addition to any and all other taxes imposed by law, there
+80 is hereby levied, upon every person engaged in the business of
+81 operating a dog race track in the State of Alabama, a
+82 privilege tax of one percent of the pari-mutuel pool on all
+83 pari-mutuel races requiring the selection of three or more
+84 racers; provided that the commission received by said
+Page 3
+
+racers; provided that the commission received by said
+HB262 INTRODUCED
+85 operator, after deducting local taxes in effect on September
+86 28, 1988, shall not be reduced below the amount that said
+87 operator received prior to the imposition of this tax.
+88 (a) Effective October 1, 2026, there is levied on every
+89 person engaged in the business of managing or facilitating
+90 pari-mutuel wagering on historical racing a state privilege
+91 tax of four percent of the person's net revenues. The tax
+92 shall be due within 20 days after the end of each calendar
+93 month and shall be collected by the Department of Revenue. The
+94 tax on the net revenues collected under this subsection shall
+95 be in lieu of all other state or local taxes. Nothing in the
+96 levy of the tax under this subsection shall change the state
+97 tax structure for live greyhound and thoroughbred racing as
+98 well as simulcast live greyhound and thoroughbred racing
+99 existing on October 1, 2026.
+100 (c)(b) Notwithstanding the provisions of any local or
+101 general act to the contrary, any dog race track licensee
+102 authorized to conduct pari-mutuel racing shall be entitled to
+103 retain as a commission from the pari-mutuel pool (the "take
+104 out") an amount equal to 19 percent of all pari-mutuel pools
+105 where a bettor is required to select two or less racers and an
+106 amount equal to 21 percent where a bettor is required to
+107 select three or more racers. The tax levied in this section is
+108 not imposed to the extent that it would require a licensee to
+109 increase the commissions above said amounts in order to
+110 receive such tax from the pari-mutuel pool."
+111 Section 2. Section 40-26A-2.1 is added to Chapter 26A
+112 of Title 40, Code of Alabama 1975, to read as follows:
+Page 4
+
+of Title 40, Code of Alabama 1975, to read as follows:
+HB262 INTRODUCED
+113 40-26A-2.1
+114 (a) Wagering on historical racing computerized machines
+115 may be conducted only at an authorized location.
+116 (b) Nothing in this section shall be construed to
+117 authorize, permit, or expand any form of gambling activity
+118 beyond that which is permitted by law on October 1, 2026.
+119 Section 3. The following sections are repealed:
+120 (1) Section 11-65-29, Code of Alabama 1975, imposing
+121 the state horse wagering fee in Class 1 municipalities.
+122 (2) Section 11-65-30, Code of Alabama 1975, imposing
+123 the commission wagering fee in Class 1 municipalities.
+124 (3) Section 11-65-35, Code of Alabama 1975, relating to
+125 certain racing taxes in Class 1 municipalities.
+126 (4) Section 45-44-150.12, Code of Alabama 1975,
+127 imposing a tax due on pari-mutuel pools in Macon County,
+128 Alabama.
+129 (5) Section 45-32-150.13, Code of Alabama 1975,
+130 imposing a tax on pari-mutuel pools in Greene County, Alabama.
+131 (6) Section 45-49-151.14, Code of Alabama 1975,
+132 imposing a tax on pari-mutuel pools in Mobile County, Alabama.
+133 Section 4. This act shall become effective on October
+134 1, 2026.
+Page 5

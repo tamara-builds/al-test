@@ -1,0 +1,623 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB104 INTRODUCED
+1 HB104
+2 7B94TVV-1
+3 By Representatives Blackshear, Whitt
+4 RFD: Financial Services
+5 First Read: 13-Jan-26
+6 PFD: 06-Jan-26
+Page 0
+
+PFD: 06-Jan-26
+7B94TVV-1 12/09/2025 JWB (L)lg 2025-3451
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, abandoned property is
+6 subject to the custody of the State Treasurer.
+7 This bill would authorize the State Treasurer to
+8 take custody of abandoned digital assets and establish
+9 guidelines for the disposal of those assets.
+10 This bill would authorize the State Treasurer to
+11 order the liquidation of certain digital assets.
+12 This bill would also clarify the requirements of
+13 an enforceable agreement between owners or apparent
+14 owners and finders to locate, recover, or assist in the
+15 recovery of unclaimed property held by the State
+16 Treasurer.
+17
+18
+19 A BILL
+20 TO BE ENTITLED
+21 AN ACT
+22
+23 Relating to unclaimed property; to amend Sections
+24 35-12-71, 35-12-72, 35-12-76, 35-12-80, and 35-12-93, Code of
+25 Alabama 1975; to establish guidelines for abandoned digital
+26 assets; to authorize the liquidation of certain abandoned
+27 digital assets; and to clarify the requirements of an
+28 enforceable agreement to locate, recover, or assist in the
+Page 1
+
+enforceable agreement to locate, recover, or assist in the
+HB104 INTRODUCED
+29 recovery of unclaimed property held by the State Treasurer.
+30 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+31 Section 1. Sections 35-12-71, 35-12-72, 35-12-76,
+32 35-12-80, and 35-12-93, Code of Alabama 1975, are amended to
+33 read as follows:
+34 "§35-12-71
+35 As used in this article, unless the context otherwise
+36 requires, the following terms shall have the meanings
+37 respectively ascribed to them by this section:
+38 (1) APPARENT OWNER. A person whose name appears on the
+39 records of a holder as the person entitled to property held,
+40 issued, or owing by the holder.
+41 (2) BUSINESS ASSOCIATION. A corporation, joint stock
+42 company, investment company, partnership, unincorporated
+43 association, joint venture, limited liability company,
+44 business trust, trust company, safe deposit company, financial
+45 organization, insurance company, mutual fund, utility, or
+46 other business entity consisting of one or more persons,
+47 whether or not for profit.
+48 (3) DIGITAL ASSET. Any digital representation used as a
+49 medium of exchange or storage of value which is not fiat
+50 currency and is recorded in a cryptographically secured,
+51 distributed ledger, or any similar technology, regardless of
+52 whether each individual transaction is recorded in that
+53 ledger. The term does not include any software or protocols
+54 governing the transfer of digital representation of value,
+55 video game-related digital content, or loyalty or gift cards.
+56 (3)(4) DOMICILE. The state of incorporation of a
+Page 2
+
+(3)(4) DOMICILE. The state of incorporation of a
+HB104 INTRODUCED
+57 corporation and the state of the principal place of business
+58 of a holder other than a corporation.
+59 (4)(5) FINANCIAL ORGANIZATION. A savings and loan
+60 association, building and loan association, industrial loan
+61 organization, credit union, cooperative bank, bank, or banking
+62 organization.
+63 (6) FINDER. Any person engaged or assisting in the
+64 location, recovery, purchase, or assignment of property held
+65 by the State Treasurer for a fee, compensation, commission, or
+66 other remuneration paid by the owner or apparent owner of the
+67 property.
+68 (5)(7) HOLDER. A person in possession of property
+69 belonging to another, or who is a trustee in case of a trust,
+70 obligated to hold for the account of, or deliver to, or pay
+71 to, the owner or apparent owner as applicable, property that
+72 is subject to this article.
+73 (6)(8) INSURANCE COMPANY. An association, corporation,
+74 or fraternal or mutual benefit organization, whether or not
+75 for profit, engaged in the business of providing life
+76 endowments, annuities, or insurance, including, but not
+77 limited to, accidental, burial, casualty, credit life,
+78 contract performance, dental, disability, fidelity, fire,
+79 health, hospitalization, illness, life, malpractice, marine,
+80 mortgage, surety, wage protection, and workers' compensation
+81 insurance.
+82 (9) LAST KNOWN ADDRESS. Any address, description, or
+83 other indication of the location of the apparent owner. The
+84 address, description, or other indication, at a minimum, shall
+Page 3
+
+address, description, or other indication, at a minimum, shall
+HB104 INTRODUCED
+85 identify the state that the apparent owner was located in, and
+86 does not need to be sufficient to direct the delivery of first
+87 class U.S. mail to the apparent owner.
+88 (7)(10) MINERAL. Gas; oil; coal; other gaseous, liquid,
+89 and solid hydrocarbons; oil shale; cement material; sand and
+90 gravel; road material; building stone; chemical raw material;
+91 gemstone; fissionable and nonfissionable ores; colloidal and
+92 other clay; steam and other geothermal resource; or any other
+93 substance defined as a mineral by the law of this state.
+94 (8)(11) MINERAL PROCEEDS. Amounts payable for the
+95 extraction, production, or sale of minerals, or, upon the
+96 abandonment of those payments, all payments that become
+97 payable thereafter. The term includes the following amounts
+98 payable:
+99 a. For the acquisition and retention of a mineral
+100 lease, including bonuses, royalties, compensatory royalties,
+101 shut-in royalties, minimum royalties, and delay rentals.
+102 b. For the extraction, production, or sale of minerals,
+103 including net revenue interests, royalties, overriding
+104 royalties, extraction payments, and production payments.
+105 c. Under an agreement or option, including a joint
+106 operating agreement, unit agreement, pooling agreement, and
+107 farm-out agreement.
+108 (9)(12) OWNER. A person who has a legal or equitable
+109 interest in property subject to this article or the person's
+110 legal representative. The term includes a depositor in the
+111 case of a deposit, a beneficiary in the case of a trust other
+112 than a deposit in trust, and a creditor, claimant, or payee in
+Page 4
+
+than a deposit in trust, and a creditor, claimant, or payee in
+HB104 INTRODUCED
+113 the case of other property.
+114 (10)(13) PERSON. An individual, business association,
+115 financial organization, estate, trust, government,
+116 governmental subdivision, agency, or instrumentality, or any
+117 other legal or commercial entity.
+118 (14) PRIVATE KEY. A unique element of cryptographic
+119 data known only by the owner and used for signing transactions
+120 on a cryptographically secured, distributed ledger.
+121 (11)(15) PROPERTY. Tangible property held in a safe
+122 deposit box or other safekeeping depository in this state, and
+123 fixed and certain interest in intangible property that is
+124 held, issued, or owed in the course of a holder's business, or
+125 by a government, governmental subdivision, agency, or
+126 instrumentality, and all income or increments therefrom. The
+127 term includes, but is not limited to, property that is
+128 referred to as or evidenced by any of the following:
+129 a. Money, a check, draft, deposit, interest, or
+130 dividend.
+131 b. Credit balance, customer's overpayment, gift
+132 certificate, security deposit, refund, credit memorandum,
+133 unpaid wage, unused ticket, mineral proceeds, or unidentified
+134 remittance.
+135 c. Stock or other evidence of ownership of an interest
+136 in a business association or financial organization.
+137 d. A bond, debenture, note, or other evidence of
+138 indebtedness.
+139 e. Money deposited to redeem stocks, bonds, coupons, or
+140 other securities or to make distributions.
+Page 5
+
+other securities or to make distributions.
+HB104 INTRODUCED
+141 f. An amount due and payable under the terms of an
+142 annuity or insurance policy, including, but not limited to,
+143 policies providing life insurance, property and casualty
+144 insurance, workers' compensation insurance, or health and
+145 disability insurance.
+146 g. An amount distributable from a trust or custodial
+147 fund established under a plan to provide health, welfare,
+148 pension, vacation, severance, retirement, death, stock
+149 purchase, profit sharing, employee savings, supplemental
+150 unemployment insurance, or similar benefits.
+151 (12)(16) RECORD. Information that is inscribed on a
+152 tangible medium or that is stored in an electronic or other
+153 medium and is retrievable in perceivable form.
+154 (13)(17) RULES. Rules necessary to carry out this
+155 article adopted pursuant to the Administrative Procedure Act.
+156 (14)(18) STATE. A state of the United States, the
+157 District of Columbia, the Commonwealth of Puerto Rico, the
+158 United States Virgin Islands, or any territory or insular
+159 possession subject to the jurisdiction of the United States.
+160 (15)(19) STATE TREASURER. The Treasurer of the State of
+161 Alabama, or the designee of the State Treasurer.
+162 (16)(20) UTILITY. Any person who owns or operates, for
+163 public use, any plant, equipment, real property, franchise, or
+164 license for the transmission of communications or the
+165 production, storage, transmission, sale, delivery, or
+166 furnishing of electricity, water, steam, or gas."
+167 "§35-12-72
+168 (a) Property is presumed abandoned if it is unclaimed
+Page 6
+
+(a) Property is presumed abandoned if it is unclaimed
+HB104 INTRODUCED
+169 by the apparent owner during the time set forth below for the
+170 following types of particular property:
+171 (1) Traveler's checks, 15 years after issuance.
+172 (2) Money order, five years after issuance.
+173 (3) A demand, savings, or time deposit including a
+174 deposit that is automatically renewable, three years after the
+175 earlier of maturity, as extended from time to time, or the
+176 date of the last indication by the apparent owner of interest
+177 in the property.
+178 (4) Tangible and intangible property held in a safe
+179 deposit box or other safekeeping depository in this state in
+180 the ordinary course of the holder's business and proceeds
+181 resulting from the sale of the property permitted by other
+182 law, three years after expiration of the lease or rental
+183 period on the box or other depository.
+184 (5) Money or credits owed to a customer as a result of
+185 a retail business transaction, one year after the obligation
+186 accrued.
+187 (6) Property in an individual retirement account,
+188 defined benefit plan, or other account or plan that is
+189 qualified for tax deferral under the income tax laws of the
+190 United States, three years after the earlier of: a.(i) the
+191 date of the distribution or attempted distribution of the
+192 property; b.(ii) the date of the required distribution as
+193 stated in the plan or trust agreement governing the plan; or
+194 c.(iii) the date, if determinable by the holder, specified in
+195 the income tax laws of the United States by which distribution
+196 of the property must begin in order to avoid a tax penalty.
+Page 7
+
+of the property must begin in order to avoid a tax penalty.
+HB104 INTRODUCED
+197 (7) Stock or other equity interest in a business
+198 association or financial organization, including a security
+199 entitlement under Article 8 of Title 7, the Uniform Commercial
+200 Code, three years after the earlier of: a.(i) the date of the
+201 most recent dividend, stock split, or other distribution
+202 unclaimed by the apparent owner; or b.(ii) the date of the
+203 second mailing of a statement of account or other notification
+204 or communication that was returned as undeliverable or after
+205 the holder discontinued mailings, notifications, or
+206 communications to the apparent owner.
+207 (8) Debt of a business association or financial
+208 organization, other than a bearer bond or an original issue
+209 discount bond covered under subdivision (18)(19), three years
+210 after the date of the most recent interest payment unclaimed
+211 by the apparent owner.
+212 (9) Property distributable by a business association or
+213 financial organization in a course of dissolution, one year
+214 after the property becomes distributable.
+215 (10) Amount owed by an insurer on a life or endowment
+216 insurance policy or an annuity that has matured or terminated,
+217 three years after the obligation to pay arose or, in the case
+218 of a policy or annuity payable upon proof of death, three
+219 years after the insured has attained, or would have attained
+220 if living, the limiting age under the mortality table on which
+221 the reserve is based.
+222 (11) Property distributable in the course of a
+223 demutualization or related reorganization of an insurance
+224 company shall be deemed abandoned as follows:
+Page 8
+
+company shall be deemed abandoned as follows:
+HB104 INTRODUCED
+225 a. Any funds, two years after the date of the
+226 demutualization or reorganization, if the funds remain
+227 unclaimed, and the owner has not otherwise communicated with
+228 the holder or its agent regarding the property as evidenced by
+229 a memorandum or other record on file with the holder or its
+230 agent.
+231 b. Any stock or other equity interest, two years after
+232 the date of the demutualization or reorganization if
+233 instruments or statements reflecting the distribution are
+234 either mailed to the owner and returned by the post office as
+235 undeliverable, or not mailed to the owner because of an
+236 address on the books and records of the holder that is known
+237 to be incorrect and the owner has not otherwise communicated
+238 with the holder or its agent regarding the property as
+239 evidenced by a memorandum or other record on file with the
+240 holder or its agent.
+241 c. Property not subject to paragraphs a. or b. within
+242 two years of the distribution shall remain reportable under
+243 other sections of this article.
+244 (12) Property received by a court as proceeds of a
+245 class action, and not distributed pursuant to the judgment,
+246 one year after the distribution date.
+247 (13) Property held by a court, government, governmental
+248 subdivision, agency, or instrumentality, one year after the
+249 property becomes distributable.
+250 (14) Wages or other compensation for personal services,
+251 one year after the compensation becomes payable.
+252 (15) Deposit or refund owed to a subscriber by a
+Page 9
+
+(15) Deposit or refund owed to a subscriber by a
+HB104 INTRODUCED
+253 utility, one year after the deposit or refund becomes payable.
+254 (16) Any check, warrant, debit card, or other payment
+255 instrument drawn on or issued by the State of Alabama,
+256 outstanding and unpaid within the time frame allowed under
+257 Section 41-4-60.
+258 (17) Gift certificate, other than those exempt under
+259 Section 35-12-73, three years after June 30 of the year in
+260 which the certificate was sold, but if redeemable in
+261 merchandise only, the amount abandoned is deemed to be 60
+262 percent of the certificate's face value.
+263 (18) Property held in a digital asset account where the
+264 last known address of the apparent owner is located in this
+265 state, three years after the last activity by the apparent
+266 owner.
+267 a. For purposes of this subdivision, "activity"
+268 includes, but is not limited to, the following actions:
+269 1. Accessing a password-protected account.
+270 2. Responding to outreach by the holder regarding the
+271 property.
+272 3. Conducting a transaction regarding the property or
+273 account in which the property is held, including deposits into
+274 or withdrawals from the account.
+275 4. Any other action that reasonably demonstrates to the
+276 holder that the apparent owner is aware the property exists.
+277 b. For purposes of this subdivision, "activity" does
+278 not include any automated, recurring, or prescheduled debit or
+279 credit transaction.
+280 (18)(19) All other property, three years after the
+Page 10
+
+(18)(19) All other property, three years after the
+HB104 INTRODUCED
+281 owner's right to demand the property or after the obligation
+282 to pay or distribute the property arises, whichever first
+283 occurs.
+284 (b) At the time that an interest is presumed abandoned
+285 under subsection (a), any other property right accrued or
+286 accruing to the owner as a result of the interest, and not
+287 previously presumed abandoned, is also presumed abandoned.
+288 (c) Property is unclaimed if, for the applicable period
+289 set forth in subsection (a), the apparent owner has not
+290 communicated in writing, or by other means reflected in a
+291 contemporaneous record prepared by or on behalf of the holder,
+292 with the holder concerning the property or the account in
+293 which the property is held, and has not otherwise indicated an
+294 interest in the property. A communication with an owner by a
+295 person other than the holder or its representative who has not
+296 in writing identified the property to the owner is not an
+297 indication of interest in the property by the owner.
+298 (d) An indication of an owner's or apparent owner's
+299 interest in property includes any of the following:
+300 (1) The presentment of a check or other instrument of
+301 payment of a dividend or other distribution made with respect
+302 to an account or underlying stock or other interest in a
+303 business association or financial organization or, in the case
+304 of a distribution made by electronic or similar means,
+305 evidence that the distribution has been received.
+306 (2) Owner-directed activity in the account in which the
+307 property is held, including a direction by the owner to
+308 increase, decrease, or change the amount or type of property
+Page 11
+
+increase, decrease, or change the amount or type of property
+HB104 INTRODUCED
+309 held in the account.
+310 (3) The making of a deposit to or withdrawal from a
+311 bank account. Any correspondence in writing from the holder to
+312 the apparent owner, such as the mailing of a statement, report
+313 of interest paid or credited, renewal of a deposit or other
+314 written information relating to the deposit shall be construed
+315 to mean that the apparent owner has indicated an interest in
+316 the deposit if the correspondence in writing is not returned
+317 to the holder for nondelivery thereof. Any activity or
+318 indication of interest by an apparent owner in the deposit or
+319 in any other deposits in a holder shall be construed to be
+320 activity and indication of interest in all other deposits of
+321 the apparent owner in the holder.
+322 (4) The payment of a premium with respect to a property
+323 interest in an insurance policy; but the application of an
+324 automatic premium loan provision or other nonforfeiture
+325 provision contained in an insurance policy does not prevent a
+326 policy from maturing or terminating if the insured has died or
+327 the insured or the beneficiary of the policy has otherwise
+328 become entitled to the proceeds before the depletion of the
+329 cash surrender value of a policy by the application of those
+330 provisions.
+331 (e) Property is payable or distributable for purposes
+332 of this article notwithstanding the failure of the owner or
+333 apparent owner to make demand or present an instrument or
+334 document otherwise required to obtain payment."
+335 "§35-12-76
+336 (a) A holder of property presumed abandoned shall make
+Page 12
+
+(a) A holder of property presumed abandoned shall make
+HB104 INTRODUCED
+337 a report to the State Treasurer concerning the property. The
+338 report shall be filed electronically and the monies remitted
+339 electronically. The State Treasurer may grant an exception
+340 upon written request as established by rule. A report should
+341 contain only tangible property or intangible property. If a
+342 holder possesses both property types, two reports shall be
+343 filed.
+344 (b) The report must be verified, balanced, and must
+345 contain, at a minimum, all of the following:
+346 (1) A description of the property.
+347 (2) The date, if any, on which the property became
+348 payable, demandable, or returnable, and the date of the last
+349 transaction with the apparent owner with respect to the
+350 property.
+351 (3) Other information that the State Treasurer by rule
+352 prescribes as necessary for the administration of this
+353 article.
+354 (4) Except with respect to a traveler's check, money
+355 order, or State of Alabama issued payment instruments, the
+356 name, if known, the last known address, if any, and the Social
+357 Security number or taxpayer identification number, if readily
+358 ascertainable, of the apparent owner of property in an amount
+359 greater than the aggregate amount established by rule.
+360 (5) In the case of property held or owing under an
+361 annuity or a life or endowment insurance policy, the policy
+362 number, the full name, Social Security number, if known, date
+363 of birth, if known, and last known address, of the annuitant
+364 or insured and of the beneficiary.
+Page 13
+
+or insured and of the beneficiary.
+HB104 INTRODUCED
+365 (6) In the case of expired State of Alabama issued
+366 warrants or other payment instruments, the full name of the
+367 owner/payee, warrant or account number, date of issuance,
+368 owner address, and Social Security number, if known.
+369 (7) In the case of property held in a safe deposit box
+370 or other safekeeping depository, an indication of the place
+371 where it was held, the full name and last known address of the
+372 apparent owner, and any amounts owing to the holder.
+373 (8) In the case of individual items valued under fifty
+374 dollars ($50), or a greater amount if established by rule, an
+375 aggregated amount.
+376 (c) The report shall be filed before November 1 of each
+377 year and cover the 12 months next preceding July 1 of that
+378 year.
+379 (d) The holder shall send written notice to the
+380 apparent owner, not less than 60 days before filing the
+381 report, stating that the holder is in possession of property
+382 subject to this article, if all of the following requirements
+383 are met:
+384 (1) The holder has in its records an address for the
+385 apparent owner which the holder's records do not disclose to
+386 be inaccurate.
+387 (2) The claim of the apparent owner is not barred by a
+388 statute of limitations.
+389 (3) The value of the property is fifty dollars ($50) or
+390 a greater amount as established by rule.
+391 (e) If the property presumed to be abandoned is a
+392 security, a digital asset, or the contents of a safe deposit
+Page 14
+
+security, a digital asset, or the contents of a safe deposit
+HB104 INTRODUCED
+393 box, the notice shall advise the apparent owner that the
+394 property may be liquidated if the apparent owner does not
+395 provide a timely response to the holder.
+396 (e)(f) State of Alabama issued warrants or other
+397 payment instruments outstanding and unpaid are void and
+398 transferred to the Unclaimed Property Reserve Fund pursuant to
+399 Section 41-4-60. Therefore, subsection (d) does not apply.
+400 (f)(g) Before the date for filing the report, the
+401 holder may request the State Treasurer to extend the time for
+402 filing the report. The State Treasurer may grant the extension
+403 for good cause. The holder, upon receipt of the extension, may
+404 make an interim payment on the amount the holder estimates
+405 will ultimately be due, which terminates the accrual of
+406 penalties, if any, on the amount paid."
+407 "§35-12-80
+408 (a) Except as otherwise provided in this section, the
+409 State Treasurer, within three years after the receipt of
+410 abandoned property, shall sell it to the highest bidder at
+411 public sale. The State Treasurer may decline the highest bid
+412 and reoffer the property for sale if the State Treasurer
+413 considers the bid to be insufficient. The State Treasurer need
+414 not offer the property for sale, if the State Treasurer
+415 considers that the probable cost of sale will exceed the
+416 proceeds of the sale. A sale held under this section shall be
+417 preceded by a minimum of a single publication of notice, at
+418 least three weeks before sale, in a newspaper of general
+419 circulation in the county in which the property is to be sold.
+420 (b) Securities listed on an established stock exchange
+Page 15
+
+(b) Securities listed on an established stock exchange
+HB104 INTRODUCED
+421 must be sold at prices prevailing on the exchange at the time
+422 of sale. Other securities may be sold over the counter at
+423 prices prevailing at the time of sale or by any reasonable
+424 method selected by the State Treasurer. All securities
+425 delivered to the State Treasurer may be sold upon receipt.
+426 (c)(1) Digital assets listed on an established exchange
+427 must be sold at prices prevailing on the exchange at the time
+428 of sale. Other digital assets may be sold over the counter at
+429 prices prevailing at the time of sale or by any reasonable
+430 method selected by the State Treasurer. All digital assets
+431 delivered to the State Treasurer may be sold upon receipt.
+432 (2) If the holder has a private key, credential, or
+433 other information necessary to effectuate the transfer of
+434 digital assets presumed abandoned, the holder shall report the
+435 digital asset and, within 30 days after filing the report,
+436 deliver the digital asset, in native form, into the custody of
+437 the State Treasurer. The holder shall comply with any delivery
+438 instructions given by the State Treasurer. Within 30 days
+439 after delivery of the digital asset, the holder shall provide
+440 the State Treasurer with reconciliation of the delivered asset
+441 with respect to the report filed.
+442 (3) If the holder does not have sufficient information
+443 to effectuate a transfer of a digital asset, the holder shall
+444 maintain possession of the digital asset until the holder
+445 acquires the information necessary to effectuate the transfer.
+446 (4) The State Treasurer may decline to accept a digital
+447 asset presumed abandoned if the State Treasurer determines
+448 that the digital asset is not freely transferable, is of
+Page 16
+
+that the digital asset is not freely transferable, is of
+HB104 INTRODUCED
+449 nominal value, or has value of less than the estimated
+450 expenses of maintenance, notice, and sale of the digital
+451 asset. The State Treasurer may also identify classes or types
+452 of digital assets that are exempt from reporting or
+453 liquidation.
+454 (5) The State Treasurer may direct a holder of a
+455 digital asset presumed abandoned to liquidate the digital
+456 asset. The order to liquidate may be provided in the recording
+457 instructions for the year that a report is due. The holder
+458 shall liquidate the digital asset within 30 days after the
+459 filing of a report.
+460 (c)(d) Any person making a claim pursuant to this
+461 section is entitled to receive either the property delivered
+462 by the holder, if it still remains in custody of the State
+463 Treasurer, or the proceeds received from sale, less any fees
+464 and expenses incurred from the sale if deducted. No person has
+465 any claim under this article against the state, the State
+466 Treasurer, the holder, any transfer agent, any auctioneer, or
+467 any person acting for or on behalf of the holder or State
+468 Treasurer for any appreciation or depreciation in the value of
+469 property occurring after delivery by the holder to the
+470 Treasurerits liquidation.
+471 (d)(e) A purchaser of property at a sale conducted by
+472 the State Treasurer pursuant to this article takes the
+473 property free of all claims of the owner or previous holder
+474 and of all persons claiming through or under them. The State
+475 Treasurer shall execute all documents necessary to complete
+476 the transfer of ownership."
+Page 17
+
+the transfer of ownership."
+HB104 INTRODUCED
+477 "§35-12-93
+478 (a) An agreement by an owner, the primary purpose of
+479 which is to locate, deliver, recover, or assist in the
+480 recovery of property that is presumed abandoned, is void and
+481 unenforceable if it was entered into during the period
+482 commencing on the date the property was presumed abandoned and
+483 extending to a time that is 24 months after the date the
+484 property is paid or delivered to the State Treasurer. This
+485 subsection does not apply to an owner's agreement with an
+486 attorney to file a claim as to identified property or contest
+487 the State Treasurer's denial of a claim.
+488 (b) An agreement by an owner or an apparent owner and a
+489 finder, the primary purpose of which is to locate, deliver,
+490 recover, or assist in the location or recovery of property
+491 held by the State Treasurer, is enforceable only if the
+492 agreement:
+493 (1) the agreement isIs in writing,;
+494 (2) clearlyClearly sets forth the nature of the
+495 property and the services to be rendered,;
+496 (3) statesStates that the property is in the custody of
+497 the State of Alabama Treasurer's Office and provides contact
+498 information for recovering the property,;
+499 (4) States that the property may be recovered from the
+500 State Treasurer without the payment of a fee;
+501 (5) isIs signed by the apparent owner, states the
+502 compensation fee percentage of, compensation, commission, or
+503 other remuneration based on the value of the amount to be
+504 claimed,; and
+Page 18
+
+claimed,; and
+HB104 INTRODUCED
+505 (6) statesStates any other compensation to be deducted.
+506 (c) In conjunction with the filing of any claim
+507 involving an agreement by an owner or apparent owner and a
+508 finder, the State Treasurer shall receive from the claimant a
+509 full and unredacted copy of the agreement signed by the owner
+510 or apparent owner and the finder.
+511 (c)(d) If an agreement covered by this section applies
+512 to mineral proceeds and the agreement contains a provision to
+513 pay compensation that includes a portion of the underlying
+514 minerals or any mineral proceeds not then presumed abandoned,
+515 the provision is void and unenforceable.
+516 (d)(e) Total compensation in an agreement covered by
+517 this section may not exceed 10 percent of the value of the
+518 amount claimed. The purchase, assignment, or other conveyance
+519 of unclaimed property to a finder, resulting in a net fee,
+520 compensation, commission, remuneration, or other profit to the
+521 finder in excess of 10 percent of the amount collected is
+522 prohibited.
+523 (e)(f) This section does not preclude an apparent owner
+524 or the State Treasurer from asserting that an agreement
+525 covered by this section is invalid on grounds other than
+526 unconscionable compensation. It is the sole responsibility of
+527 the owner to enforce this sectionit provides for payment of
+528 compensation in excess of the amount authorized in subsection
+529 (e)."
+530 Section 2. This act shall become effective on June 1,
+531 2026.
+Page 19

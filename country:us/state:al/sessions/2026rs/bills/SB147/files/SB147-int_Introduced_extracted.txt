@@ -1,0 +1,378 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SB147 INTRODUCED
+1 SB147
+2 V7I81LL-1
+3 By Senator Allen
+4 RFD: Veterans, Military Affairs and Public Safety
+5 First Read: 14-Jan-26
+Page 0
+
+First Read: 14-Jan-26
+V7I81LL-1 01/13/2026 CMH (L)bm 2025-3581
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish the Alabama
+6 Construction Zone Safety Act to authorize the Alabama
+7 Department of Transportation to install an automated
+8 photographic speed enforcement system in construction
+9 zones on the public highways of the state.
+10 This bill would also require the Alabama State
+11 Law Enforcement Agency to operate the automated
+12 photographic speed enforcement system and issue civil
+13 traffic citations to the owners of motor vehicles
+14 recorded traveling 10 or more miles per hour over the
+15 posted speed limit in a construction zone.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to public safety; to establish the Alabama
+23 Construction Zone Safety Act; to authorize the Alabama
+24 Department of Transportation to install an automated
+25 photographic speed enforcement system in a construction zone
+26 on the public highways of the state; to authorize the Alabama
+27 State Law Enforcement Agency to operate the automated
+28 photographic speed enforcement system; to authorize the
+Page 1
+
+photographic speed enforcement system; to authorize the
+SB147 INTRODUCED
+29 issuance of civil traffic citations for violations; to
+30 establish a process for contesting and appealing a citation;
+31 and to establish affirmative defenses to a violation.
+32 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+33 Section 1. This act shall be known and may be cited as
+34 the Alabama Construction Zone Safety Act.
+35 Section 2. As used in this act, the following terms
+36 have the following meanings:
+37 (1) AUTOMATED PHOTOGRAPHIC SPEED ENFORCEMENT SYSTEM. A
+38 camera system that is designed to record a digital image of
+39 motor vehicles engaged in speeding violations.
+40 (2) CIVIL TRAFFIC CITATION. A non-criminal citation
+41 created pursuant to this act, the penalty for which is a civil
+42 fine, and the enforceability of which is accomplished through
+43 civil action.
+44 (3) OWNER. The owner of a motor vehicle as shown on the
+45 motor vehicle registration records of the Alabama Department
+46 of Revenue or the analogous department or agency of another
+47 state or country, except as follows:
+48 a. The term does not include a motor vehicle rental or
+49 leasing company when a motor vehicle registered by the company
+50 is rented or leased to another person under a rental or lease
+51 agreement with the company, in which event "owner" means the
+52 person to whom the vehicle is rented or leased.
+53 b. The term does not include a motor vehicle displaying
+54 a dealer license plate, in which event "owner" means the
+55 person to whom the vehicle is assigned for use.
+56 c. The term does not include the owner of any stolen
+Page 2
+
+c. The term does not include the owner of any stolen
+SB147 INTRODUCED
+57 motor vehicle, in which event "owner" means the person who is
+58 guilty of stealing the motor vehicle.
+59 (4) SPEEDING VIOLATION. Any violation of a motor
+60 vehicle at a speed that exceeds 10 miles per hour over the
+61 posted speed limit.
+62 Section 3. (a) The Department of Transportation may
+63 install automated photographic speed enforcement systems to
+64 monitor motor vehicle activity in construction zones on the
+65 public highways of the state.
+66 (b) The automated photographic speed enforcement system
+67 shall be a camera system that is designed and installed to
+68 work in conjunction with an electrically operated speed
+69 detection device synchronized to automatically record digital
+70 imaging of motor vehicles. The device shall be capable of
+71 producing at least two recorded images, at least one of which
+72 is capable of clearly depicting the license plate of a motor
+73 vehicle that is speeding.
+74 (c) The department may place automated photographic
+75 speed enforcement systems at construction zones without public
+76 notice of the specific location, may change locations without
+77 public notice, and may install and move as needed decoy
+78 devices designed to resemble photographic speeding enforcement
+79 systems.
+80 Section 4. (a) The Alabama State Law Enforcement Agency
+81 shall operate automated photographic speed enforcement systems
+82 that are installed pursuant to Section 3 to detect and record
+83 speeding violations on the public highways of the state when
+84 all of the following are satisfied:
+Page 3
+
+all of the following are satisfied:
+SB147 INTRODUCED
+85 (1) The moving vehicle is in a construction zone
+86 designated by the Department of Transportation or a political
+87 subdivision of the state.
+88 (2) Construction or maintenance workers are present at
+89 the construction zone.
+90 (3) Work zone traffic control devices, traffic
+91 controls, or warning signs are present to notify motorists of
+92 construction or maintenance workers in the area.
+93 (b) The Alabama State Law Enforcement Agency shall
+94 issue a civil traffic citation to the registered owner of a
+95 motor vehicle that is recorded operating at a speed that
+96 exceeds 10 miles per hour over the posted speed limit in the
+97 construction zone under the conditions described in subsection
+98 (a).
+99 (c) When a violation is recorded under Section 4, the
+100 Alabama State Law Enforcement Agency shall send to the owner
+101 of the motor vehicle, via first class United States mail, a
+102 notice of the civil traffic citation which was recorded by the
+103 automated photographic speed enforcement system while
+104 committing a speeding violation. The notice shall be sent not
+105 later than 30 days after the date the speeding violation is
+106 recorded, as follows:
+107 (1) If the vehicle is registered in this state, to the
+108 registered owner's address as shown on the registration
+109 records of the Department of Revenue.
+110 (2) If the vehicle is registered in another state or
+111 country, to the registered owner's address as shown on the
+112 motor vehicle registration records of the other state or
+Page 4
+
+motor vehicle registration records of the other state or
+SB147 INTRODUCED
+113 country.
+114 (d) The notice shall contain all of the following:
+115 (1) A description of the violation alleged, including
+116 the speed at which the motor vehicle is alleged to have been
+117 operated, and the maximum speed applicable at the location.
+118 (2) The date, time, and location of the speeding
+119 violation.
+120 (3) A copy of recorded images of the vehicle involved
+121 in the speeding violation.
+122 (4) The amount of the civil penalty to be imposed for
+123 the speeding violation.
+124 (5) The date by which the civil penalty must be paid.
+125 For purposes of this subdivision, the Alabama State Law
+126 Enforcement Agency shall require the civil penalty to be paid
+127 by a date certain, not less than 60 days following issuance of
+128 the notice of violation.
+129 (6) A statement that the person named in the notice of
+130 violation may pay the civil penalty in lieu of appearing at an
+131 administrative adjudication hearing.
+132 (7) A statement that the person has the right to
+133 contest the imposition of the civil penalty in an
+134 administrative adjudication and information about the manner
+135 and time in which the person may contest the imposition of the
+136 civil penalty.
+137 (8) A statement that failure to pay the civil penalty
+138 or to contest liability is an admission of liability.
+139 (9) A statement that a recorded image is evidence in a
+140 proceeding for the imposition of a civil penalty.
+Page 5
+
+proceeding for the imposition of a civil penalty.
+SB147 INTRODUCED
+141 (10) A statement that failure to pay the civil penalty
+142 within the time allowed may result in the imposition of a late
+143 penalty not exceeding twenty-five dollars ($25) for each month
+144 after the issuance of the order imposing the civil penalty.
+145 (11) Any other information necessary for issuing the
+146 public notice.
+147 (e) In lieu of issuing a notice of violation, the
+148 Alabama State Law Enforcement Agency may mail a warning notice
+149 to the registered owner. The Alabama State Law Enforcement
+150 Agency shall exercise discretion in which recorded speeding
+151 violations are prosecuted based upon the quality and
+152 legibility of the recorded image.
+153 Section 5. (a) Failure to pay a civil penalty or to
+154 contest liability in a timely manner is an admission of
+155 liability in the full amount of the civil fine assessed in the
+156 notice of violation.
+157 (b) Prior to the imposition of a late penalty for
+158 failure to pay or failure to contest liability, the Alabama
+159 State Law Enforcement Agency shall send a second notice to the
+160 registered owner of the vehicle. The second notice shall be
+161 sent by certified mail and shall include the information
+162 required under Section 4(d).
+163 Section 6. (a) A speeding violation under this act
+164 shall be prosecuted by the local district attorney in the same
+165 manner as non-felony traffic infractions are prosecuted,
+166 except the burden of proof for the prosecution of the speeding
+167 violation shall be the preponderance of the evidence standard.
+168 (b)(1) Speeding violations under this act shall be
+Page 6
+
+(b)(1) Speeding violations under this act shall be
+SB147 INTRODUCED
+169 punished by a civil fine of two hundred dollars ($200), which
+170 shall be collected as other civil judgments are collected.
+171 Court costs may not be assessed except as provided in
+172 subsection (c).
+173 (2) In no event shall a speeding violation be
+174 punishable by a criminal fine or imprisonment.
+175 (3) The Secretary of the Alabama State Law Enforcement
+176 Agency shall not assess any points against a driver license or
+177 suspend or revoke a driver license for a speeding violation.
+178 (c) A person who is found liable for the speeding
+179 violation after an adjudicative hearing or who requests an
+180 adjudicative hearing and thereafter fails to appear at the
+181 time and place of the hearing is liable for court costs and
+182 fees set in addition to the amount of the civil penalty
+183 assessed for the speeding violation. A person who is found
+184 liable for a speeding violation after an adjudicative hearing
+185 shall pay the civil penalty and costs within 60 days of the
+186 hearing.
+187 (d) Whenever a person is ordered to pay a civil penalty
+188 under this act, the amount of the civil penalty as set by this
+189 act may not be increased, decreased, or remitted by the court,
+190 and the liability may be satisfied only by payment in full.
+191 (e) An order issued under this section shall have the
+192 same weight and effect as any other civil judgment.
+193 Section 7. (a) For purposes of this act, a person shall
+194 be deemed a "trained technician" if he or she is a law
+195 enforcement officer who has received instruction and training
+196 in the proper use of the automated photographic speed
+Page 7
+
+in the proper use of the automated photographic speed
+SB147 INTRODUCED
+197 enforcement system by the manufacturer, the vendor installing
+198 the system, or the county or municipal engineer.
+199 (b) The reliability of the photographic speed
+200 enforcement system used to produce the recorded image of the
+201 speeding violation may be attested to by affidavit of a
+202 trained technician.
+203 (c) An affidavit of a trained technician that alleges a
+204 violation based on an inspection of the pertinent recorded
+205 image is admissible in a proceeding under this act and is
+206 evidence of the facts contained in the affidavit.
+207 (d) The notice of violation, the recorded and
+208 reproduced images of the speeding violation, regardless of the
+209 media on which they are recorded, accompanied by a
+210 certification of authenticity of a trained technician, and
+211 evidence of ownership of a vehicle as shown by copies or
+212 summaries of official records, shall be admissible into
+213 evidence without foundation unless the court finds there is an
+214 indication of untrustworthiness, in which case the prosecution
+215 shall be given a reasonable opportunity to lay an evidentiary
+216 foundation.
+217 (e) All other matters of evidence and procedure not
+218 specifically addressed in this act shall be subject to the
+219 rules of evidence and the rules of procedure as they apply in
+220 the prosecution of traffic infractions.
+221 Section 8. Each of the following shall be an
+222 affirmative defense to the imposition of liability under this
+223 act:
+224 (1) The operator of the motor vehicle was acting in
+Page 8
+
+(1) The operator of the motor vehicle was acting in
+SB147 INTRODUCED
+225 compliance with the lawful order or direction of a police
+226 officer.
+227 (2) The motor vehicle was being operated as an
+228 authorized emergency vehicle.
+229 (3) The motor vehicle was stolen or being operated by a
+230 person other than the owner of the vehicle without the
+231 effective consent of the owner.
+232 (4) The license plate depicted in the recorded image of
+233 the speeding violation was a stolen license plate and being
+234 displayed on a motor vehicle other than the motor vehicle for
+235 which the license plate had been issued.
+236 (5) The presence of ice, snow, unusual amounts of rain,
+237 or other unusually hazardous road conditions existed that
+238 would make compliance with this act more dangerous under the
+239 circumstances than noncompliance.
+240 (6) The person who received the notice of civil traffic
+241 citation was not the owner of the motor vehicle at the time of
+242 the speeding violation.
+243 Section 9. (a) A person who is found liable after an
+244 adjudicative hearing may appeal that finding of civil
+245 liability to the circuit court by filing a notice of appeal
+246 with the clerk of the court.
+247 (b) The notice of appeal must be filed not later than
+248 15 days after the date on which the court entered the finding
+249 of civil liability.
+250 (c) The filing of a notice of appeal shall stay the
+251 enforcement of the civil penalty. An appeal shall be
+252 determined by the circuit court by trial de novo.
+Page 9
+
+determined by the circuit court by trial de novo.
+SB147 INTRODUCED
+253 (d) The circuit court hearing an appeal shall use the
+254 procedures that apply to criminal convictions, subject to the
+255 following qualifications:
+256 (1) The proceedings shall retain their civil nature on
+257 appeal with the circuit court applying the preponderance of
+258 the evidence standard.
+259 (2) If the person is adjudicated by the circuit court
+260 to be responsible for payment of the civil penalty, circuit
+261 court costs shall be owed by the person adjudicated
+262 responsible, with 100 percent of those court costs retained by
+263 the circuit court. Court costs in the circuit court shall be
+264 calculated as are court costs for criminal appeals, and in the
+265 event the circuit court finds the person appealing to not be
+266 responsible, no court costs shall be owed.
+267 (3) The circuit court may assign case numbers as for
+268 criminal appeals and place the appeals on criminal dockets in
+269 the same manner as criminal appeals from municipal court.
+270 (4) The circuit court shall sit as trier of both fact
+271 and law in the civil proceedings in the circuit court.
+272 (5) A defendant shall be entitled to representation by
+273 an attorney in the same manner as in a criminal proceeding.
+274 Section 10. (a) In the event the evidence produced by
+275 an automated photographic speed enforcement system does not
+276 produce an image of the license plate with sufficient clarity
+277 for a trained technician to determine the identity of the
+278 owner, and if the identity cannot otherwise be reliably
+279 established, then no notice of speeding violation may be
+280 issued pursuant to this act.
+Page 10
+
+issued pursuant to this act.
+SB147 INTRODUCED
+281 (b) If a notice of violation is issued, the issue of
+282 whether an image of a license plate is sufficiently clear to
+283 identify the vehicle is admissible as to the weight of the
+284 evidence.
+285 Section 11. The Department of Transportation shall
+286 place traffic control devices in conformity to the most recent
+287 edition of the Traffic Engineering Handbook. There is a
+288 presumption that the department's actions are in compliance
+289 with this section unless the contrary is shown by a
+290 preponderance of the evidence.
+291 Section 12. No civil penalty may be imposed and no
+292 adjudication of liability for a civil violation may be made
+293 under this act if the operator of the vehicle was arrested or
+294 was issued a citation and notice to appear by a law
+295 enforcement officer for a criminal violation of any other
+296 portion of Title 32, Code of Alabama 1975, or any other
+297 municipal ordinance that embraces and incorporates the
+298 statutes contained in that title, and which occurred
+299 simultaneously with and under the same set of circumstances
+300 recorded by the automated photographic speed enforcement
+301 system.
+302 Section 13. All civil penalties collected under this
+303 act shall be distributed as follows:
+304 (1) Fifty percent to the Public Safety Fund of the
+305 Alabama State Law Enforcement Agency and shall be used
+306 exclusively for law enforcement purposes.
+307 (2) Fifty Percent to the Public Road and Bridge Fund of
+308 the Department of Transportation and shall be used exclusively
+Page 11
+
+the Department of Transportation and shall be used exclusively
+SB147 INTRODUCED
+309 in the construction, repair, maintenance, and operation of
+310 public roads and bridges in this state, including public roads
+311 in state parks and any toll road or toll bridge constructed by
+312 the Department of Transportation or maintained and operated by
+313 it or under its supervision.
+314 Section 14. This act shall become effective on October
+315 1, 2026.
+Page 12

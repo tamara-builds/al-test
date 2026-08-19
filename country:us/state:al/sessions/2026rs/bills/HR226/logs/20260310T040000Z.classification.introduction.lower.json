@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Joint Rule 11",
+    "occurred_at": "2026-03-10T04:00:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026rs",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://alison.legislature.state.al.us/bill-search",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR226"
+}

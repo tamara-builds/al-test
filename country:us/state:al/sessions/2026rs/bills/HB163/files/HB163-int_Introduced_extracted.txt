@@ -1,0 +1,805 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB163 INTRODUCED
+1 HB163
+2 9J2DUBP-1
+3 By Representative
+4 RFD: County and Municipal Government
+5 First Read: 13-Jan-26
+Page 0
+
+First Read: 13-Jan-26
+9J2DUBP-1 01/12/2026 VSM (L)ma 2025-3117
+1
+2
+3
+4 SYNOPSIS:
+5 Under the Property Insurance and Energy
+6 Reduction Act of Alabama, a county or municipality may
+7 issue bonds or notes to finance necessary improvements
+8 to existing properties in designated regions to
+9 increase energy efficiency and resistance to
+10 storm-related events.
+11 This bill would enable a local government to
+12 allow private capital to finance qualified projects
+13 instead of using government funds.
+14 This bill would also allow a local government to
+15 place a lien on the qualifying property for the debt
+16 and assign the right to payments toward the lien to the
+17 private capital lender.
+18 This bill would revise the application process
+19 for qualifying projects.
+20 This bill would prohibit the use of public funds
+21 from the state or a local government to repay a loan
+22 between the qualifying property owner and the private
+23 capital financier, and would provide that the local
+24 government shall not guarantee repayment of the debt
+25 and shall not be liable for actions taken pursuant to
+26 the act.
+27 This bill would repeal the laws allowing a
+28 governmental entity or designee to establish a loss
+Page 1
+
+governmental entity or designee to establish a loss
+HB163 INTRODUCED
+29 reserve fund for paying delinquent assessments and to
+30 establish regulatory jurisdiction by the state.
+31 This bill would rename the act as the Property
+32 Insurance Reduction and Capital Expenditure Act of
+33 Alabama.
+34 This bill would also make nonsubstantive,
+35 technical revisions to update the existing code
+36 language to current style.
+37
+38
+39 A BILL
+40 TO BE ENTITLED
+41 AN ACT
+42
+43 Relating to counties and municipalities; to amend
+44 Sections 11-81-240, 11-81-241, 11-81-242, 11-81-243,
+45 11-81-244, 11-81-245, 11-81-246, and 11-81-249, Code of
+46 Alabama 1975, to change the name of the Property Insurance and
+47 Energy Reduction Act of Alabama to the Property Insurance
+48 Reduction and Capital Expenditure Act of Alabama; to enable
+49 local governments to allow private financing of qualified
+50 energy projects; to allow local governments to assess the
+51 qualifying properties with a lien to secure repayment of the
+52 private financing; to allow assignment of the repayment to the
+53 private financier; to revise the application process for
+54 qualifying projects; to add Sections 11-81-251 and 11-81-252
+55 to the Code of Alabama 1975, to provide that imposition of the
+56 local assessment is voluntary; to provide that the local
+Page 2
+
+local assessment is voluntary; to provide that the local
+HB163 INTRODUCED
+57 government shall not guarantee the repayment of the financing;
+58 to repeal Sections 11-81-247 and 11-81-248, Code of Alabama
+59 1975, relating to provisions for a loss reserve fund and
+60 regulatory jurisdiction by the state; to limit liability of a
+61 local government for actions undertaken pursuant to the act;
+62 and to make nonsubstantive, technical revisions to update the
+63 existing code language to current style.
+64
+65 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+66 Section 1. Sections 11-81-240, 11-81-241, 11-81-242,
+67 11-81-243, 11-81-244, 11-81-245, 11-81-246, and 11-81-249,
+68 Code of Alabama 1975, are amended to read as follows:
+69 "§11-81-240
+70 This article shall be known and may be cited as the
+71 Property Insurance Reduction and Energy Reduction Capital
+72 Expenditure Act of Alabama."
+73 "§11-81-241
+74 For the purposes of this article, the following words
+75 shall have the following meanings:
+76 (1) ASSESSMENT CONTRACT. The contractual agreement
+77 between a local government and a property owner in which the
+78 property owner voluntarily agrees to have the local government
+79 place an assessment and lien on the benefited property to
+80 secure repayment of Property Insurance Reduction and Capital
+81 Expenditure financing to a capital provider.
+82 (2) CAPITAL PROVIDER. The private third-party entity or
+83 entities, including their designee, successor, and assigns,
+84 that provide private financing for Property Insurance and
+Page 3
+
+that provide private financing for Property Insurance and
+HB163 INTRODUCED
+85 Capital Expenditure financing and refinancing under this
+86 article.
+87 (1) COSTS OF A QUALIFIED PROJECT. All costs including,
+88 but not limited to, the following:
+89 a. All costs of acquisition, by purchase or otherwise,
+90 construction, assembly, installation, modification,
+91 renovation, or rehabilitation incurred in connection with any
+92 qualified project or any part of any qualified project.
+93 b. All costs of real property, fixtures, or personal
+94 property used in or in connection with or necessary for any
+95 qualified project or for any facilities related thereto,
+96 including, but not limited to, the following:
+97 1. The cost of all land, estates for years, easements,
+98 rights, improvements, water rights, connections for utility
+99 services, fees, franchises, permits, approvals, licenses, and
+100 certificates.
+101 2. The cost of securing any franchises, permits,
+102 approvals, licenses, or certificates.
+103 3. The cost of preparation of any application therefor
+104 and the cost of all fixtures, machinery, equipment, furniture,
+105 and other property used in or in connection with or necessary
+106 for any qualified project.
+107 c. All financing charges and fees and all interest on
+108 revenue bonds, notes, or other obligations of a local
+109 government which accrues or is paid prior to and during the
+110 period of construction of a project and during any additional
+111 period as the local government may reasonably determine to be
+112 necessary to place the qualified project in operation.
+Page 4
+
+necessary to place the qualified project in operation.
+HB163 INTRODUCED
+113 d. All costs of engineering, surveying, and
+114 architectural and legal services and all expenses incurred by
+115 engineers, surveyors, architects, and attorneys in connection
+116 with any qualified project.
+117 e. All expenses for inspection of any qualified
+118 project.
+119 f. All fees of fiscal agents, paying agents, and
+120 trustees for bondholders under any trust agreement, indenture
+121 of trust, or similar instrument or agreement; all expenses
+122 incurred by any fiscal agents, paying agents, and trustees and
+123 all other costs and expenses incurred relative to the issuance
+124 of any revenue bonds, notes, or other obligations for any
+125 qualified project.
+126 g. All fees of any type charged by a local government
+127 in connection with any qualified project.
+128 h. All expenses incurred in determining the feasibility
+129 or practicability of any qualified project.
+130 i. All costs of plans and specifications for any
+131 qualified project.
+132 j. All costs of title insurance and examinations of
+133 title with respect to any qualified project.
+134 k. Repayment of any assessments made for the advance
+135 payment of any part of any of the costs provided in this
+136 subdivision, including interest thereon and any other expenses
+137 of the assessments.
+138 l. Administrative expenses of the local government and
+139 other expenses as may be necessary or incidental to any
+140 qualified project or the financing thereof or the placing of
+Page 5
+
+qualified project or the financing thereof or the placing of
+HB163 INTRODUCED
+141 any project in operation.
+142 m. The establishment of a fund or funds for the
+143 creation of a debt service reserve, a renewal and replacement
+144 reserve, or other funds or reserves as the local government
+145 may approve with respect to the financing and operation of any
+146 project and as may be authorized by any bond resolution, trust
+147 agreement, indenture of trust, or similar instrument or
+148 agreement pursuant to the provisions of which the issuance of
+149 any revenue bonds, notes, or other obligations of the local
+150 government may be authorized.
+151 (2)(3) DESIGNATED REGION. An area approved by a local
+152 government for qualified projects pursuant to Section
+153 11-81-242.
+154 (4) FINANCING AGREEMENT. The contract between a
+155 property owner and a capital provider in which the property
+156 owner agrees to repay the capital provider for the financing
+157 of qualifying improvements. The term includes, but is not
+158 limited to, details of financing charges, fees, debt
+159 servicing, interest and penalties, terms related to prepayment
+160 and partial payments, billing, collection, and enforcement of
+161 the repayment of the financing.
+162 (3)(5) LOCAL GOVERNMENT. Any incorporated municipality,
+163 county, or improvement district in this state.
+164 (4)(6) PROGRAM. A program for Property Insurance
+165 Reduction and Capital Expenditure authorized and created by a
+166 local government under this article.
+167 (7) PROGRAM ADMINISTRATOR. The department or individual
+168 within a local government designated to administer the
+Page 6
+
+within a local government designated to administer the
+HB163 INTRODUCED
+169 program, or a private independent third party designated by
+170 the local government, provided that the administrative
+171 procedures used conform to this article.
+172 (8) PROGRAM GUIDEBOOK. A comprehensive document that
+173 outlines the applicable program and establishes appropriate
+174 guidelines, specifications, underwriting, and approval
+175 criteria, along with standard application forms consistent
+176 with the administration of the program and not detailed in
+177 this article, including the following:
+178 a. An assessment contract form between the local
+179 government and the property owner, specifying the terms of
+180 assessment under the program, terms of the financing provided
+181 by a third party, and remedies for default or foreclosure;
+182 b. A local government Notice of Assessment and Property
+183 Insurance Reduction and Capital Expenditure lien form; or
+184 c. A Notice of Assignment of Assessment and Property
+185 Insurance Reduction and Capital Expenditure lien form between
+186 a local government and a capital provider.
+187 (5)(9) QUALIFIED PROJECT or PROJECT. The installation
+188 or modification of a qualifying improvement on real property
+189 in a designated region under a program adopted by a local
+190 government. A property that has at least one qualifying
+191 improvement installed. The term includes a new construction,
+192 the adaptive reuse of eligible property with the improvement,
+193 or a property where the qualifying improvement has been
+194 installed and is operational before the application date.
+195 (6)(10) QUALIFYING IMPROVEMENT. An improvement fixed to
+196 or used upon by an existing building or, facility, or new
+Page 7
+
+or used upon by an existing building or, facility, or new
+HB163 INTRODUCED
+197 construction that is part of the real qualified property and
+198 intended to increase energy and water efficiency, lower energy
+199 cost, and community increase building resilience, and harden
+200 or upgrade a property to withstand to storm-related events,
+201 such as high winds and flooding, including,. This term
+202 includes, but is not limited to, any of the following:
+203 a. Resiliency improvements, including:
+204 1. Wind resistant resistance improvements or programs
+205 that qualify the structure for insurance discounts, including,
+206 but not limited to, the FORTIFIED Program;
+207 2. or improvements Improvements that increase the life
+208 safety of occupants occupant safety during tornados,
+209 including, but not limited to, safe rooms that comply with the
+210 International Code Congress (ICC-500) as mandated by the
+211 Alabama Building Commission, or are manufactured or site built
+212 under the supervision of a professional or producer member of
+213 the National Storm Shelter Association; and
+214 3. Battery or generator storage, electric vehicle
+215 charging infrastructure, or other resilience measures as
+216 deemed acceptable by a local government to provide
+217 strengthening or resilience of a structure against natural
+218 disasters or pandemics.
+219 b. Flood mitigation, including:
+220 1. Raising a structure above the base flood elevations
+221 to eliminate flood damage;
+222 2. Installation of a flood diversion apparatus;
+223 3. Electrical, mechanical, plumbing, or other system
+224 improvements that reduce flood damage;
+Page 8
+
+improvements that reduce flood damage;
+HB163 INTRODUCED
+225 4. Improvements to mitigate or eliminate the potential
+226 for microbial growth or reduce flood insurance premiums; and
+227 5. Any other improvement that reduces repetitive loss
+228 and is recognized by the National Flood Insurance Program,
+229 Community Rating System, or the Federal Emergency Management
+230 Agency (FEMA).
+231 b.c. Energy conservation and efficiency improvement,
+232 which is a measure improvements installed on the qualifying
+233 property to reduce consumption through conservation or a more
+234 efficient use of by conserving or using electricity, natural
+235 gas, propane, or other forms of energy sources more
+236 efficientlyon the real property, including, but not limited
+237 to, any of the following:
+238 1. Air sealing.
+239 2. Installation of insulation.
+240 3. Installation of energy-efficient heating, cooling,
+241 or ventilation systems.
+242 4. Building modifications to increase the use of
+243 daylight.
+244 5. Replacement of windows.
+245 6. Installation of energy controls or energy efficient
+246 lighting systems.
+247 7. Installation of electric vehicle charging equipment.
+248 8. Installation of efficient lighting equipment.
+249 9. Other improvements that are intended to lead to
+250 demonstrable energy savings.
+251 c. Flood mitigation, including, but not limited to, any
+252 of the following:
+Page 9
+
+of the following:
+HB163 INTRODUCED
+253 1. The raising of a structure above the base flood
+254 elevation to eliminate flood damage.
+255 2. Installation of a flood diversion apparatus.
+256 3. Electrical, mechanical, plumbing, or other system
+257 improvements that reduce flood damage.
+258 4. Improvements to mitigate or eliminate the potential
+259 for microbial growth, or reduce flood insurance premiums.
+260 5. Any other improvement that reduces repetitive loss
+261 that is recognized by the National Flood Insurance Program,
+262 Community Rating System, or the Federal Emergency Management
+263 Agency (FEMA).
+264 d. Water conservation, efficiency, and water quality
+265 improvements.
+266 (7)(11) REAL QUALIFYING PROPERTY. Real property that
+267 includes commercial, industrial, agricultural, and multifamily
+268 buildings. The term excludes residential property consisting
+269 of fewer than five units and individual residential units of
+270 condominiums or cooperatives and limited common elements and
+271 common elements attached to or related to the condominium or
+272 cooperative units."
+273 "§11-81-242
+274 (a)(1) The governing body of a local government may
+275 designate an area of the local government or may designate the
+276 entire area of the local government, including the
+277 unincorporated and incorporated area of the local government
+278 if applicable, as a region within in which the local
+279 government may provide make available Property Insurance
+280 Reduction and Capital Expenditure financing to the record
+Page 10
+
+Reduction and Capital Expenditure financing to the record
+HB163 INTRODUCED
+281 owners of real property owner of any qualifying property who
+282 voluntarily agrees to have and impose assessments and a lien
+283 imposed on the owner's property for the repayment of costs of
+284 a qualified project the funds advanced for qualified projects.
+285 (2) For the purpose of this article, the costs of a
+286 qualifying project shall include, but are not limited to, all
+287 of the following:
+288 a. All costs of acquisition, by purchase or otherwise,
+289 construction, assembly, installation, modification,
+290 renovation, rehabilitation, or new construction incurred in
+291 connection with any qualified project or any part of any
+292 qualified project.
+293 b. All costs associated with the qualifying property,
+294 fixtures, or personal property used by, connected with, or
+295 necessary for any qualified project or for any related
+296 facilities, including, but not limited to, the following:
+297 1. The cost of all land, estates for years, easements,
+298 rights, improvements, water rights, connections for utility
+299 services, fees, franchises, permits, approvals, licenses, and
+300 certificates.
+301 2. The costs associated with securing any franchises,
+302 permits, approvals, licenses, or certificates.
+303 3. The cost of preparing any application and the cost
+304 of all fixtures, machinery, equipment, furniture, and other
+305 property used by, connected with, or necessary for any
+306 qualified project.
+307 c. All financing charges, fees, and all interest on
+308 financing provided by a capital provider under this article.
+Page 11
+
+financing provided by a capital provider under this article.
+HB163 INTRODUCED
+309 d. All costs of engineering, surveying, and
+310 architectural and legal services, and all expenses incurred by
+311 engineers, surveyors, architects, and attorneys in connection
+312 with any qualified project.
+313 e. All expenses for inspection of any qualified
+314 project.
+315 f. All fees of fiscal agents, paying agents, and
+316 trustees for bondholders under any trust agreement, indenture
+317 of trust, or similar instrument or agreement; all expenses
+318 incurred by any fiscal agents, paying agents, trustees, and
+319 all other costs and expenses related to the issuance of any
+320 revenue bonds, notes, or other obligations for any qualified
+321 project.
+322 g. All fees of any type charged by a local government
+323 related to any qualified project.
+324 h. All expenses incurred in determining the feasibility
+325 or practicability of any qualified project.
+326 i. All costs of plans and specifications for any
+327 qualified project.
+328 j. All costs of title insurance and examinations of
+329 title related to any qualified project.
+330 k. Repayment of any assessments made for the advance
+331 payment of any part of the costs provided specified in this
+332 section, including interest thereon and any other expenses of
+333 the assessments.
+334 l. Administrative expenses of the local government and
+335 other expenses as may be necessary or incidental to any
+336 qualified project, its financing, or placing the project in
+Page 12
+
+qualified project, its financing, or placing the project in
+HB163 INTRODUCED
+337 operation.
+338 (2)(3)a. A local government may issue bonds or notes or
+339 use other shall allow private financing from qualified capital
+340 providers to finance qualified projects under this article.
+341 b. Bonds or notes Notes and other financial instruments
+342 issued under this section are not general obligations of the
+343 local government, but are solely payable from any of the
+344 following: assessments on qualifying properties benefited by
+345 the improvement.
+346 1. Payments of assessments on benefited real property
+347 in one or more designated regions under this article.
+348 2. Reserves established by the local government from
+349 grants, bonds, or net proceeds or other lawfully available
+350 funds.
+351 3. Municipal bond insurance, lines of credit, public or
+352 private guaranties, standby bond purchase agreements,
+353 collateral assignments, mortgages, or any other available
+354 means of providing credit support or liquidity.
+355 (b) An area designated as a region by the governing
+356 body of a local government under this section:
+357 (1) May include the entire area of the local
+358 government.
+359 (2) Must be located wholly within the local
+360 government's jurisdiction.
+361 (c) A local government may designate more than one
+362 region. If multiple regions are designated, the regions may be
+363 separate, overlapping, or coterminous.
+364 (b) The local government shall assign the assessment or
+Page 13
+
+(b) The local government shall assign the assessment or
+HB163 INTRODUCED
+365 the right to payments from the assessment of a property owner
+366 with a qualified project to the capital provider that finances
+367 the qualifying improvements.
+368 (d)(c) This article does not apply to residential
+369 property consisting of fewer than five units or individual
+370 residential units of condominiums or cooperatives or limited
+371 common elements and common elements attached to or related to
+372 the condominium or cooperative units."
+373 "§11-81-243
+374 (a) To establish a program under this article, the
+375 governing body of a local government must take the following
+376 actions in the following order:
+377 (1) Adopt a resolution of intent that includes all of
+378 the following:
+379 a. A finding that financing qualified projects through
+380 assessments is a valid public purpose.
+381 b. A statement that the local government intends to
+382 make assessments to repay financing for qualified projects
+383 available to real voluntary and willing qualifying property
+384 owners.
+385 c. A description of the types of qualified projects
+386 eligible for the program.
+387 d. A description of the boundaries of the designated
+388 region.
+389 e. A statement of the time and place for a public
+390 hearing on the proposed program.
+391 (2) Hold a public hearing at which the public may
+392 comment on the proposed program.
+Page 14
+
+comment on the proposed program.
+HB163 INTRODUCED
+393 (3) Adopt a resolution establishing the program and the
+394 terms of the program, including a description of each aspect
+395 of the program that may be amended only after another public
+396 hearing is held.
+397 (b) Subject to the terms of the resolution establishing
+398 the program, the governing body of a local government may
+399 amend a program by resolution and may allow the program
+400 administrator to amend the program guidebook without approval
+401 of the local government.
+402 (c) A local government may do both of the following:
+403 (1) Hire and set the compensation of a program
+404 administrator and program staff.; and
+405 (2) Contract for professional services necessary to
+406 administer a program.
+407 (d) A local government may impose fees to offset the
+408 costs of administering a program in an amount equal to the
+409 lesser of one percent of the principal amount financed or
+410 fifty thousand dollars ($50,000). The fees authorized by this
+411 subsection may be assessed as any of the following:
+412 (1) A program application fee paid by the real property
+413 owner requesting to participate in a program.
+414 (2) A component of the interest rate on the assessment
+415 in the written contract between the local government and the
+416 real property owner.
+417 (3) A combination of subdivisions (1) and (2).
+418 (e) For the purposes of this section, the governing
+419 body of a local government is not required to review, approve,
+420 or ratify any individual application by a property owner. The
+Page 15
+
+or ratify any individual application by a property owner. The
+HB163 INTRODUCED
+421 resolution establishing the program shall specify that all
+422 subsequent actions for implementation of the program,
+423 including review and approval, shall be delegated to the
+424 executive or administrative staff of the local government."
+425 "§11-81-244
+426 (a) A real qualifying property owner and a capital
+427 provider in a designated region may apply to a local
+428 government under a program for funding approval to finance a
+429 qualified project and enter into a written contract with the
+430 local government. Costs of the project incurred by the real
+431 property owner or the local government for such purposes may
+432 be collected as an assessment, as authorized in Section
+433 11-81-242 in which the property owner consents to the local
+434 government imposing an assessment and lien on the qualifying
+435 property to repay the financing.
+436 (b) A local government may enter into a partnership
+437 with one or more other local governments for the purpose of
+438 providing and financing qualified projects.
+439 (c) A qualified program may be administered by a
+440 for-profit or nonprofit organization on behalf of and at the
+441 discretion of the local government.
+442 (d) A local government may incur debt for the purpose
+443 of providing the improvements, payable from revenues received
+444 from the improved real property, or any other available
+445 revenue source authorized by law.
+446 (e)(d) A local government may only enter into a
+447 contract only with the record owner of the affected real
+448 qualifying property in a designated region. A contract entered
+Page 16
+
+qualifying property in a designated region. A contract entered
+HB163 INTRODUCED
+449 into pursuant to this section or a summary memorandum of the
+450 contract must be recorded in the public records of the court
+451 of probate in the county in which the real qualifying property
+452 is located by the sponsoring unit of local government within
+453 five days after the execution of the contract. The recorded
+454 agreement must shall provide:
+455 (1) provide constructive Constructive notice that the
+456 assessment to be levied on the real qualifying property
+457 constitutes a lien as described in Section 11-81-246;. The
+458 recorded agreement also must
+459 (2) provide a A legal description of the real
+460 qualifying property covered by the lien;
+461 (3), the The amount secured by the lien;
+462 (4), the The maturity date for payment of all amounts
+463 secured by the lien;
+464 (5), the The names and addresses of the current owners
+465 of the real qualifying property subject to the assessment;
+466 (6), the The person or entity owed the assessment;
+467 (7), the The person or entity filing the notice; and
+468 (8), and a A reference to the statutory assessment lien
+469 provided under this article.
+470 (f)(e) Prior to entering into a contract, the local
+471 government shall reasonably determine all of the following
+472 based solely upon information provided in the application:
+473 (1) That all property taxes and any other assessments
+474 levied on the same bill as property taxes are paid and have
+475 not been delinquent for the preceding three years or the real
+476 property owner's period of ownership, whichever is less.
+Page 17
+
+property owner's period of ownership, whichever is less.
+HB163 INTRODUCED
+477 (2) That there are no involuntary liens, including, but
+478 not limited to, construction liens on the real qualifying
+479 property, which will not be expunged as a consequence of the
+480 financing.
+481 (3) That no notices of default or other evidence of
+482 property-based-debt delinquency have been recorded during the
+483 preceding three years or the real property owner's period of
+484 ownership, whichever is less.
+485 (4)(3) That the real qualifying property owner is
+486 current on all mortgage debt on the property.
+487 (5) That the improvements are not in excess of the
+488 increased value of the real property by reason of special
+489 benefits derived from the qualifying improvements.
+490 (g)(f) A qualifying improvement shall be affixed to an
+491 existing building or facility that is part of the real
+492 qualifying property and shall constitute be considered an
+493 improvement to the building or facility or, a fixture attached
+494 to the building or facility, or part of a new construction of
+495 a building or facility.
+496 (h)(g) An installation of a qualifying improvement
+497 requiring a license or certification of work under applicable
+498 law or building code must be performed by a contractor or
+499 evaluator properly certified, licensed, or registered in this
+500 state.
+501 (i)(1)(h) The total amount of any assessment for real
+502 property under this section may not exceed 20 percent of the
+503 just value of the real property as determined by the county
+504 property appraiser An applicant must provide the following
+Page 18
+
+property appraiser An applicant must provide the following
+HB163 INTRODUCED
+505 documents to demonstrate that the project intends to benefit
+506 the public through energy or water resource conservation,
+507 lowering public health costs or risks, or reducing public
+508 emergency response costs or risks:.
+509 (1) For an existing building where energy or water
+510 usage improvements are proposed:
+511 a. An energy analysis from a licensed engineering firm,
+512 engineer, or other qualified professional listed in the
+513 program guidebook; and
+514 b. A statement by the author of the analysis that the
+515 proposed qualifying improvements are intended to enhance
+516 energy or water efficiency or conservation, or to incorporate
+517 renewable resources.
+518 (2) For resilience improvements, certification from a
+519 licensed professional engineer or another qualified
+520 professional listed in the program guidebook stating that the
+521 qualifying improvements are intended to result in improved
+522 resilience.
+523 (3) For a new construction, a certified study from a
+524 licensed professional engineer, engineering firm or other
+525 qualified professional stating that the proposed qualifying
+526 improvements are intended to enable the project to exceed the
+527 current building code requirements for: (i) energy efficiency;
+528 (ii) water efficiency; or (iii) utilizing renewable energy or
+529 renewable water; or that the proposed improvements are
+530 intended to meet or exceed resilience standards of the local
+531 government's building codes or if none are available, comply
+532 with nationally recognized resiliency standards.
+Page 19
+
+with nationally recognized resiliency standards.
+HB163 INTRODUCED
+533 (2) Notwithstanding subdivision (1), an assessment for
+534 a qualifying improvement that is supported by an energy, wind
+535 or flood mitigation audit is not subject to the limits in this
+536 subsection if the audit demonstrates that the annual energy or
+537 insurance savings from the qualified improvement equals or
+538 exceeds the annual repayment amount of the non-ad valorem
+539 assessment. For residential structures, the energy audit shall
+540 be conducted by a professional with one or more of the
+541 following qualifications or certifications: Residential Energy
+542 Services Network Home Energy Rating Systems (HERS), Building
+543 Performance Institute Building Analyst (BPI), AEE Residential
+544 Energy Auditor (REA), or Professional Engineer with specific
+545 experience in energy efficiency. For commercial and industrial
+546 facilities, the energy audit shall be conducted by a
+547 professional with one or more of the following qualifications
+548 or certifications: AEE Certified Energy Manager (CEM), AEE
+549 Certified Energy Auditor (CEA), or Professional Engineer with
+550 specific experience in energy efficiency.
+551 (i) The approval by the local government shall be based
+552 on the application and a finding that the applicant has
+553 provided all the information required under this article and
+554 program guidelines. Nothing in this approval shall constitute
+555 an endorsement, explicit or implicit, that the materials
+556 provided in the application are true and correct. An approval
+557 under this section is not a warranty, guarantee, validation or
+558 endorsement of the information, findings, or conclusions, if
+559 any, in the application."
+560 "§11-81-245
+Page 20
+
+"§11-81-245
+HB163 INTRODUCED
+561 (a)(1) Before entering into a written contract with a
+562 local government, the real qualifying property owner shall
+563 provide, or the local government shall obtain, a verified
+564 recordable copy of a written consent and subordination
+565 agreement signed by the holder of each existing mortgage or
+566 other lien on the relevant real qualifying property stating
+567 that the mortgagee or other lienholder consents to the
+568 imposition of the assessment and understands that the priority
+569 of the mortgage or other lien is subordinated to the
+570 assessment lien. in a The form and substance of the consent
+571 shall be approved by the local government. acceptable to each
+572 mortgagee and other lienholder. The consent and subordination
+573 agreement must be in a form that may be recorded in the
+574 appropriate recording office in of the county or counties
+575 where the real qualifying property is located., and the The
+576 consent and subordination agreement with the qualifying
+577 property owner's assessment contract shall be recorded in that
+578 office.
+579 (2) This subsection does not limit in any way the
+580 rights or authority of any mortgagee or other lienholder under
+581 any agreement or applicable law, except that a provision of a
+582 deed of trust, mortgage, or other agreement between a
+583 lienholder and a qualifying property owner which provides for
+584 the acceleration of any payment solely as a result of entering
+585 into an agreement to finance an assessment pursuant to this
+586 article is unenforceable if the mortgagee or lienholder
+587 executes a consent agreement pursuant to subdivision (1).
+588 (b) At or before the time a purchaser executes a
+Page 21
+
+(b) At or before the time a purchaser executes a
+HB163 INTRODUCED
+589 contract for the sale and purchase of any real qualifying
+590 property for which a non-ad valorem assessment has been levied
+591 under this article and has an unpaid balance due, the seller
+592 shall give the prospective purchaser a written disclosure
+593 statement in the following form, which shall be set forth in
+594 the contract or in a separate writing:
+595 "QUALIFYING IMPROVEMENTS FOR ENERGY AND WATER
+596 EFFICIENCY, RENEWABLE ENERGY, AND RESILIENCY TO STORM-RELATED
+597 EVENTS. This real qualifying property being purchased is
+598 located within the jurisdiction of a local government that has
+599 placed an assessment on the real qualifying property pursuant
+600 to Section 11-81-242. The assessment is for a qualifying
+601 improvement to the real property relating to energy and water
+602 efficiency, renewable energy, or and community resilience to
+603 storm-related events, such as high winds and flooding and is
+604 not based on the value of the real qualifying property. You
+605 are encouraged to contact the county property appraiser's
+606 office to learn more about this and other assessments that may
+607 be provided by law."
+608 "§11-81-246
+609 (a) An assessment under this article and, including any
+610 interest or penalties on the assessment, shall constitute a
+611 lien on the qualifying property for the principal amount of
+612 the financing, subject to the requirement in Section 11-81-245
+613 to obtain a signed consent from all lienholders. This lien:
+614 (1) Is Shall be a lien against the real qualifying
+615 property on which the assessment is imposed effective from the
+616 earliest of: (i) the date of the assessment contract; (ii) the
+Page 22
+
+earliest of: (i) the date of the assessment contract; (ii) the
+HB163 INTRODUCED
+617 summary memorandum date; or (iii) the date on which the notice
+618 of contractual assessment is recorded.;
+619 (2) Subject to the requirement in Section
+620 11-81-245(a)(1) to obtain and record in the proper recording
+621 office an executed consent and subordination agreement from
+622 existing mortgagees and other lienholders, has Shall have the
+623 same priority status as a lien for any other ad valorem or
+624 non-ad valorem tax.; and
+625 (3) Is a lien that runs Shall run with the real
+626 qualifying property., and the The portion of the assessment
+627 under the assessment contract that has not yet become due
+628 shall not be included in any enforcement action and is not
+629 accelerated or eliminated by foreclosure of a property tax
+630 lien or any other foreclosure, public or private.
+631 (b) The assessment lien may be enforced by the local
+632 government in the same manner that an ad valorem or non-ad
+633 valorem tax lien against real property may be enforced by the
+634 local government with all redemption rights provided by
+635 Section 40-10-1 et seq. or other applicable law to remain in
+636 effect The billing, collection, and enforcement of the
+637 assessment lien shall be delegated to the capital provider or
+638 its assigns. The capital provider's rights and remedies
+639 related to any contractual default by the qualifying property
+640 owner shall be governed by the terms of the financing
+641 agreement and state law. Assessments under this article shall
+642 be considered a statutory assessment and shall be superior to
+643 all other liens except tax liens.
+644 (c) Delinquent installments of the assessments incur
+Page 23
+
+(c) Delinquent installments of the assessments incur
+HB163 INTRODUCED
+645 interest and penalties in the same manner as delinquent ad
+646 valorem taxes as specified in the financing agreement.
+647 (d) A local government may recover costs and expenses,
+648 including attorney's fees, in a suit to collect a delinquent
+649 installment of an assessment Delinquent interest and penalties
+650 incurred as specified in the financing agreement shall be
+651 included in any enforcement action.
+652 (e) Provided, however, that in In any action to enforce
+653 an assessment lien, the person or entity enforcing the
+654 assessment lien must serve the holders of all mortgages and
+655 other liens with notice about of the enforcement action at
+656 least 60 days before any hearing or other action is taken with
+657 respect to the enforcement action. Service upon a domestic or
+658 foreign corporation or other entity shall be made by serving
+659 the registered agent of the entity if a registered agent has
+660 been appointed.; otherwise If no registered agent has been
+661 appointed, service shall be in accordance with Rule 4 of the
+662 Alabama Rules of Civil Procedure."
+663 "§11-81-249
+664 The imposition of an assessment pursuant to this
+665 article is to be made solely at the request of the owner of
+666 record of real the qualifying property within a designated
+667 region. A local government shall not compel a person who owns
+668 real qualifying property in a designated region to enter into
+669 a contract to repay the financing of any cost or assessment
+670 through assessments under this article."
+671 Section 2. Sections 11-81-251 and 11-81-252 are added
+672 to the Code of Alabama 1975, to read as follows:
+Page 24
+
+to the Code of Alabama 1975, to read as follows:
+HB163 INTRODUCED
+673 §11-81-251
+674 Public funds from the state or any local government
+675 shall not be used to fund or repay a loan between a capital
+676 provider and a qualifying property owner. A state or local
+677 government shall not pledge, offer, or encumber its full faith
+678 and credit for a lien amount through a Property Insurance
+679 Reduction and Capital Expenditure program.
+680 §11-81-252
+681 The members of the governing body of a local government
+682 as well as employees and officials of the local government are
+683 not liable, in their official or individual capacity, for any
+684 decision, exercise of discretion, or exercise of any rights or
+685 responsibilities granted under this chapter.
+686 Section 3. Sections 11-81-247 and 11-81-248, Code of
+687 Alabama 1975, providing for a loss reserve fund and regulatory
+688 jurisdiction by the state, are repealed.
+689 Section 4. This act shall become effective on June 1,
+690 2026.
+Page 25
